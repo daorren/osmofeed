@@ -1,25 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-28T02:14:48.980Z</id>
+    <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T02:14:48.980Z</updated>
+    <updated>2021-05-28T02:25:00.615Z</updated>
     <generator>osmosfeed 1.9.0</generator>
-    <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[To $ or Not to $: Displaying Terminal Code Snippets]]></title>
-        <id>https://css-tricks.com/?p=341298</id>
-        <link href="https://css-tricks.com/to-or-not-to-displaying-terminal-code-snippets/"/>
-        <updated>2021-05-27T18:22:11.000Z</updated>
-        <summary type="html"><![CDATA[It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).
-Like this:
-$ brew install somepackage
-The point of that is that it …
-The post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
+    <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
+    <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[How to Improve Machine Learning Model Performance by Combining Categorical Features]]></title>
         <id>60af931811ffb70827ef85d3</id>
@@ -41,47 +27,14 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Show Images on Click]]></title>
-        <id>https://css-tricks.com/?p=341020</id>
-        <link href="https://css-tricks.com/how-to-show-images-on-click/"/>
-        <updated>2021-05-27T14:25:29.000Z</updated>
-        <summary type="html"><![CDATA[Most images on the web are superfluous. If I might be a jerk for a bit, 99% of them aren’t even that helpful at all (although there are rare exceptions). That’s because images don’t often complement the text they’re …
-The post How to Show Images on Click appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[A Number Theorist Who Connects Math to Other Creative Pursuits]]></title>
+        <id>https://www.quantamagazine.org/?p=104933</id>
+        <link href="https://www.quantamagazine.org/a-number-theorist-who-connects-math-to-other-creative-pursuits-20210527/"/>
+        <updated>2021-05-27T14:37:45.000Z</updated>
+        <summary type="html"><![CDATA[Jordan Ellenberg enjoys studying — and writing about — the mathematics underlying everyday phenomena.            
+The post A Number Theorist Who Connects Math to Other Creative Pursuits first appeared on Quanta Magazine]]></summary>
         <author>
-            <name>Robin Rendle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking Postgres in a Post-Server World]]></title>
-        <id>https://css-tricks.com/?p=340910</id>
-        <link href="https://css-tricks.com/rethinking-postgres-in-a-post-server-world/"/>
-        <updated>2021-05-27T14:23:23.000Z</updated>
-        <summary type="html"><![CDATA[Serverless architectures have brought engineering teams a great number of benefits. We get simpler deployments, automatic and infinite scale, better concurrency, and a stateless API surface. It’s hard to imagine going back to the world of managed services, broken local …
-The post Rethinking Postgres in a Post-Server World appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Michael Rispoli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful VS Code Extensions For Front-End Developers]]></title>
-        <id>https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/</id>
-        <link href="https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/"/>
-        <updated>2021-05-27T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build And Launch Responsive Websites Faster With Editor X]]></title>
-        <id>https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/</id>
-        <link href="https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/"/>
-        <updated>2021-05-27T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Miroslav Bekyarov)</name>
+            <name>Steve Nadis</name>
         </author>
     </entry>
     <entry>
@@ -115,31 +68,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Awesome Standalone (Web Components)]]></title>
-        <id>https://css-tricks.com/?p=339759</id>
-        <link href="https://css-tricks.com/awesome-standalone-web-components/"/>
-        <updated>2021-05-26T17:56:34.000Z</updated>
-        <summary type="html"><![CDATA[In his last An Event Apart talk, Dave made a point that it’s really only just about right now that Web Components are becoming a practical choice for production web development. For example, it has only been about a year …
-The post Awesome Standalone (Web Components) appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links on Web Components]]></title>
-        <id>https://css-tricks.com/?p=340901</id>
-        <link href="https://css-tricks.com/links-on-web-components/"/>
-        <updated>2021-05-26T17:56:12.000Z</updated>
-        <summary type="html"><![CDATA[How we use Web Components at GitHub — Kristján Oddsson talks about how GitHub is using web components. I remember they were very early adopters, and it says here they released a <relative-time> component in 2014! Now they’ve got a 
-…
-The post Links on Web Components appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Build a GraphQL API Using Laravel]]></title>
         <id>60abc59d11ffb70827ef6304</id>
         <link href="https://www.freecodecamp.org/news/build-a-graphql-api-using-laravel/"/>
@@ -150,6 +78,17 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Squishy Neutron Star Setback Dampens Hopes of Exotic Matter]]></title>
+        <id>https://www.quantamagazine.org/?p=104828</id>
+        <link href="https://www.quantamagazine.org/squishy-neutron-star-setback-dampens-hopes-of-exotic-matter-20210526/"/>
+        <updated>2021-05-26T14:46:35.000Z</updated>
+        <summary type="html"><![CDATA[Groundbreaking results show that neutron stars of different masses may have the same size — upending astrophysical models.             
+The post Squishy Neutron Star Setback Dampens Hopes of Exotic Matter first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Jonathan O'Callaghan</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Build Super Mario Bros, Zelda, and Space Invaders with Kaboom.js]]></title>
         <id>60aced0011ffb70827ef6d96</id>
         <link href="https://www.freecodecamp.org/news/how-to-build-mario-zelda-and-space-invaders-with-kaboom-js/"/>
@@ -157,29 +96,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[In this video course I show you how to build three popular games using the latest game development library for JavaScript called Kaboom.js. This course is exciting for two reasons: First of all, I am going to be introducing a new technology designed especially for game development in JavaScript.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Thorough Analysis of CSS-in-JS]]></title>
-        <id>https://css-tricks.com/?p=340705</id>
-        <link href="https://css-tricks.com/a-thorough-analysis-of-css-in-js/"/>
-        <updated>2021-05-26T14:08:49.000Z</updated>
-        <summary type="html"><![CDATA[Wondering what’s even more challenging than choosing a JavaScript framework? You guessed it: choosing a CSS-in-JS solution. Why? Because there are more than 50 libraries out there, each of them offering a unique set of features.
-We tested 10 different …
-The post A Thorough Analysis of CSS-in-JS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Andrei Pfeiffer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessible SVGs: Perfect Patterns For Screen Reader Users]]></title>
-        <id>https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/</id>
-        <link href="https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/"/>
-        <updated>2021-05-26T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carie Fisher)</name>
         </author>
     </entry>
     <entry>
@@ -230,101 +146,65 @@ Thank you @Zenigata]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What I Learned Building a Word Game App With Nuxt on Google Play]]></title>
-        <id>https://css-tricks.com/?p=340759</id>
-        <link href="https://css-tricks.com/what-i-learned-building-a-word-game-app-with-nuxt-on-google-play/"/>
-        <updated>2021-05-25T14:25:06.000Z</updated>
-        <summary type="html"><![CDATA[I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.
-Table of contents
-What’s the game 
-…
-The post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Mathematicians Find Long-Sought Building Blocks for Special Polynomials]]></title>
+        <id>https://www.quantamagazine.org/?p=104803</id>
+        <link href="https://www.quantamagazine.org/mathematicians-find-polynomial-building-blocks-hilbert-sought-20210525/"/>
+        <updated>2021-05-25T15:05:58.000Z</updated>
+        <summary type="html"><![CDATA[Hilbert’s 12th problem asked for novel analogues of the roots of unity, the building blocks for certain number systems. Now, over 100 years later, two mathematicians have produced them.            
+The post Mathematicians Find Long-Sought Building Blocks for Special Polynomials first appeared on Quanta Magazine]]></summary>
         <author>
-            <name>Josh Collinsworth</name>
+            <name>Kelsey Houston-Edwards</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/</id>
-        <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/"/>
-        <updated>2021-05-25T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.]]></summary>
+        <title type="html"><![CDATA[Radioactivity May Fuel Life Deep Underground and Inside Other Worlds]]></title>
+        <id>https://www.quantamagazine.org/?p=104743</id>
+        <link href="https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/"/>
+        <updated>2021-05-24T15:50:23.000Z</updated>
+        <summary type="html"><![CDATA[New work suggests that the radiolytic splitting of water supports giant subsurface ecosystems of life on Earth — and could do it elsewhere, too.            
+The post Radioactivity May Fuel Life Deep Underground and Inside Other Worlds first appeared on Quanta Magazine]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Tobias Günther)</name>
+            <name>Jordana Cepelewicz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating Powerful Websites with Serverless-Driven CMS Development]]></title>
-        <id>https://css-tricks.com/?p=341383</id>
-        <link href="https://css-tricks.com/creating-powerful-websites-with-serverless-driven-cms-development/"/>
-        <updated>2021-05-25T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Choosing the right tools to build a website for your organization is essential, but it can be tough to find the right fit. Simple site builders like Wix and Squarespace are easy for marketers to use, but severely limit developers …
-The post Creating Powerful Websites with Serverless-Driven CMS Development appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Web Weekly #20 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-20/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-20/"/>
+        <updated>2021-05-23T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Web Weekly #20!
+
+Hello friends! Do you remember last week? I was so proud of sending this tiny newsletter to 1000 people for the first time. In the previous seven days, 200 more people signed up. 😲 I'm so grateful and excited to have you all read along! A big welcome to all the new subscribers!
+Before we jump into web stuff, let me share with you what made me laugh this week. Check out this URL lengthener (yes, you read that right!): the idea, the URL, the wording... I love everything about this random project. 🙈
+
+
+          
+            
+This week's Web Weekly includes:
+a free live-caption service
+automation with Puppeteer
+Node.js running natively in the browser
+... and, as always, GitHub repositories, a new Tiny Helper and some music.
+Ready? Steady. Go!
+A tool to find the RS…]]></summary>
         <author>
-            <name>Ahmed Bouchefra</name>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A New Way To Reduce Font Loading Impact: CSS Font Descriptors]]></title>
-        <id>https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/</id>
-        <link href="https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/"/>
-        <updated>2021-05-25T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.]]></summary>
+        <title type="html"><![CDATA[How parameter expansion helps to not accidentally delete all the files on your machine (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/how-parameter-expansion-helps-to-not-delete-everything/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/how-parameter-expansion-helps-to-not-delete-everything/"/>
+        <updated>2021-05-23T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While tweaking my dotfiles and writing some auto-completion shell scripts, I almost got myself into trouble.
+The script in question included the following lines:
+TARGET_DIR="plugins"
+rm -rf "$TARGET_DIR/"
+
+You probably know the situation. You're trying to develop a shell script. It won't be pretty but hopefully gets the job done. You google how to use an if or how to run a loop. You're probably frustrated (I was at least), and you don't realize that your script could mess with your machine's file system because you're fiddling around with rm -rf.
+You always have to be very careful when using rm -rf! Things can go particularly wrong when you use rm in combination with variables. Let's imaging my fat fingers comment out the first line and I run this script. My rm -rf plugins/ command just be…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Barry Pollard)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links on Performance]]></title>
-        <id>https://css-tricks.com/?p=340808</id>
-        <link href="https://css-tricks.com/links-on-performance/"/>
-        <updated>2021-05-24T22:03:30.000Z</updated>
-        <summary type="html"><![CDATA[Making GitHub’s new homepage fast and performant — Tobias Ahlin describes how the scrolling effects are done more performantly thanks to IntersectionObserver and the fact that it avoids the use of methods that trigger reflows, like getBoundingClientRect. Also, 
-…
-The post Links on Performance appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[proxy-www]]></title>
-        <id>https://css-tricks.com/?p=341153</id>
-        <link href="https://github.com/justjavac/proxy-www"/>
-        <updated>2021-05-24T19:09:59.000Z</updated>
-        <summary type="html"><![CDATA[I like a good trick. What if… a URL was…  a promise… that fetched said URL?
-www.codepen.io.then((response) ={
-  console.log(response);
-});
-That’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…
-The post proxy-www appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wrangling Control Over PDFs with the Adobe PDF Embed API]]></title>
-        <id>https://css-tricks.com/?p=340626</id>
-        <link href="https://css-tricks.com/wrangling-control-over-pdfs-with-the-adobe-pdf-embed-api/"/>
-        <updated>2021-05-24T13:57:21.000Z</updated>
-        <summary type="html"><![CDATA[By our last estimate, there are now more PDFs in the world than atoms in the universe (not verified by outside sources) so chances are, from time to time, you’re going to run into a PDF document or two. Browsers …
-The post Wrangling Control Over PDFs with the Adobe PDF Embed API appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Raymond Camden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Container Queries: Use-Cases And Migration Strategies]]></title>
-        <id>https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/</id>
-        <link href="https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/"/>
-        <updated>2021-05-24T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
@@ -349,123 +229,51 @@ Thank you: @LooperXX.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Should DevTools teach the CSS cascade?]]></title>
-        <id>https://css-tricks.com/?p=340991</id>
-        <link href="https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/"/>
-        <updated>2021-05-21T23:22:54.000Z</updated>
-        <summary type="html"><![CDATA[Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …
-The post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[A custom "dev" command with auto-completion (#snippet)]]></title>
+        <id>https://www.stefanjudis.com/snippets/a-custom-dev-command-with-auto-completion/</id>
+        <link href="https://www.stefanjudis.com/snippets/a-custom-dev-command-with-auto-completion/"/>
+        <updated>2021-05-22T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I went into the rabbit hole of writing shell scripting today. 🙈 The goal: saving keystrokes and manually ran commands when starting to work on a project.
+Here's the result. 👇
+The video above shows a custom dev command that:
+navigates into a project
+runs npm run dev
+opens VS Code
+The exciting part is that it supports auto-completion to pass paths to projects with a working npm run dev command quickly.
+A shell function to run multiple commands
+
+To define a custom shell function that runs various commands add the following lines to your .zshrc or .bashrc.
+function dev() {
+  echo "Running 'npm run dev' in $1 ..."
+  cd ~/Projects/"$1" || return
+  code .
+  npm run dev
+}
+
+Run source ~/.zshrc/source ~/.bashrc or open a new terminal session to load the new configuration. Tada!!! You now have a ne…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Svelte for the Experienced React Dev]]></title>
-        <id>https://css-tricks.com/?p=340825</id>
-        <link href="https://css-tricks.com/svelte-for-the-experienced-react-dev/"/>
-        <updated>2021-05-21T14:30:59.000Z</updated>
-        <summary type="html"><![CDATA[This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …
-The post Svelte for the Experienced React Dev appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Weekend Reading — Normalize relational databases]]></title>
+        <id>60a041b7b773846ea8801c67</id>
+        <link href="https://labnotes.org/weekend-reading-normalize-relational-databases/"/>
+        <updated>2021-05-22T19:18:40.000Z</updated>
+        <summary type="html"><![CDATA[This week we lead by introversion, anticipate a blog comeback, count sandwiches, and if you're over 30 you're most likely to injure yourself when you sleep.]]></summary>
         <author>
-            <name>Adam Rackis</name>
+            <name>Assaf Arkin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Hell]]></title>
-        <id>https://css-tricks.com/?p=340919</id>
-        <link href="https://csshell.dev/"/>
-        <updated>2021-05-21T14:29:16.000Z</updated>
-        <summary type="html"><![CDATA[Collection of common CSS mistakes, and how to fix them
-From Stefánia Péter. 
-Clever idea for a site! Some of them are little mind-twisters that could bite you, and some of them are honing in on best practices that …
-The post CSS Hell appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Physicists Identify the Engine Powering Black Hole Energy Beams]]></title>
+        <id>https://www.quantamagazine.org/?p=104485</id>
+        <link href="https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/"/>
+        <updated>2021-05-20T16:42:04.000Z</updated>
+        <summary type="html"><![CDATA[Supermassive black holes emit jets of white-hot plasma that stretch thousands of light-years across the cosmos. For the first time, researchers have identified what’s creating these jets.            
+The post Physicists Identify the Engine Powering Black Hole Energy Beams first appeared on Quanta Magazine]]></summary>
         <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building A Rich Text Editor (WYSIWYG) From Scratch]]></title>
-        <id>https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/</id>
-        <link href="https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/"/>
-        <updated>2021-05-21T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Shalabh Vyas)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JSON in CSS]]></title>
-        <id>https://css-tricks.com/?p=340599</id>
-        <link href="https://css-tricks.com/json-in-css/"/>
-        <updated>2021-05-20T22:29:53.000Z</updated>
-        <summary type="html"><![CDATA[Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …
-The post JSON in CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boost Your Skills Online: Smashing Workshops On Front-End And Design]]></title>
-        <id>https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/</id>
-        <link href="https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/"/>
-        <updated>2021-05-20T14:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Implement Authentication In Next.js With Auth0]]></title>
-        <id>https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/</id>
-        <link href="https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/"/>
-        <updated>2021-05-20T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns: Mega-Dropdown Hover Menus]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/"/>
-        <updated>2021-05-19T11:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0]]></title>
-        <id>https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/</id>
-        <link href="https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/"/>
-        <updated>2021-05-18T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/"/>
-        <updated>2021-05-18T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How We Improved Our Core Web Vitals (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/05/core-web-vitals-case-study/"/>
-        <updated>2021-05-17T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Beau Hartshorne)</name>
+            <name>Natalie Wolchover</name>
         </author>
     </entry>
     <entry>
@@ -502,63 +310,158 @@ Thank you @tianheg, @onnyyonn]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tree-Shaking: A Reference Guide]]></title>
-        <id>https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/</id>
-        <link href="https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/"/>
-        <updated>2021-05-14T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
+        <title type="html"><![CDATA[Web Weekly #19 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-19/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-19/"/>
+        <updated>2021-05-15T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Web Weekly #19!
+
+Hello friends! This week was exciting. I was invited to the "Mission Control" podcast, but more importantly, my tiny newsletter hit 1k subscribers! Thank you so much for reading along! 💙
+Before we jump into web stuff, are you up for something thrilling? Look at this MacBook in danger. I'm not spoiling what happens there, but I love how random it is. 🙈
+
+
+
+
+          
+            
+This week's Web Weekly includes:
+resources on successful open source
+a guide to ECMAscript modules in Node.js
+fit-content in CSS
+... and, as always, GitHub repositories, a new Tiny Helper and some music.
+Ready? Steady. Go!
+Don't yell at people that do open source
+
+
+
+
+
+          
+            
+I'm not doing much open source work these days, but I used to maintain one popular open source …]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
-        <updated>2021-05-12T12:42:00.000Z</updated>
-        <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.]]></summary>
+        <title type="html"><![CDATA[CSS "inset" is supported across all major browsers (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/css-inset-is-supported-across-all-major-browsers/</id>
+        <link href="https://www.stefanjudis.com/notes/css-inset-is-supported-across-all-major-browsers/"/>
+        <updated>2021-05-15T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The CSS property inset is a new shorthand for top, right, bottom and left. Today I found out that Safari supports it starting with 14.1, which means that the CSS property is now supported across all major browsers. 🎉
+
+
+
+
+          
+            
+(The MDN data for Edge seems to be incorrect. I tested the current Edge and it worked fine.)
+If you want to learn what it's about, have a look at the #devsheet I tweeted a year ago.
+
+      
+        
+      
+    
+
+
+          
+          
+            Reply to Stefan]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Little Smashing Stories]]></title>
-        <id>https://smashingmagazine.com/2021/05/little-smashing-stories/</id>
-        <link href="https://smashingmagazine.com/2021/05/little-smashing-stories/"/>
-        <updated>2021-05-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.]]></summary>
+        <title type="html"><![CDATA[How to start using all the aliases you set up (and forgot) (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/how-to-start-using-all-the-aliases-you-set-up-and-forgot/</id>
+        <link href="https://www.stefanjudis.com/notes/how-to-start-using-all-the-aliases-you-set-up-and-forgot/"/>
+        <updated>2021-05-15T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How many shell aliases do you have set up on your machine? I have set up quite a few general and git aliases in my config files and must admit that I still run npm install or git add because the aliases didn't make it into my muscle memory.
+The plugin alias-tips can help with that. It parses your commands and tells you to save some keystrokes and use the alias instead. It's beautiful!
+See it in action below. 👇
+
+      
+        
+      
+    
+
+
+          
+          
+            Reply to Stefan]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Primer On CSS Container Queries]]></title>
-        <id>https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/</id>
-        <link href="https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/"/>
-        <updated>2021-05-11T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.]]></summary>
+        <title type="html"><![CDATA[How to import JSON files in ES modules (Node.js) (#snippet)]]></title>
+        <id>https://www.stefanjudis.com/snippets/how-to-import-json-files-in-es-modules-node-js/</id>
+        <link href="https://www.stefanjudis.com/snippets/how-to-import-json-files-in-es-modules-node-js/"/>
+        <updated>2021-05-15T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ES modules are still reasonably new in Node.js land (they're stable since Node 14). Modules come with a built-in module system and features such as top-level await.
+I just read an informative post on ES modules by Pawel Grzybek and learned that you can't import JSON files in ES modules today. That's a real bummer because I'm pretty used to doing const data = require('./some-file.json') in Node.js.
+While it will be possible to import JSON from within modules eventually, the implementation is still behind a flag (--experimental-json-modules).
+This post includes ways to deal with JSON in ES modules today.
+Option 1: Read and parse JSON files yourself
+
+The Node.js documentation advises to use the fs module and do the work of reading the files and parsing it yourself.
+import { readFile } from 'fs/promises';
+const json = JSON.parse(
+  await readFile(
+    new URL('./some-file.json', import.meta.url)
+  )
+);
+
+Option 2: Leverage the CommonJS require function to load JSON files
+
+The documentation also states that you can use createRequire to load JSON files. This is the way Pawel advises in his blog post.
+createRequire allows you to construct a CommonJS require function so that you can use typical CommonJS features in Node.js EcmaScript modules.
+import { createRequire } from "module";
+const require = createRequire(import.meta.url);
+const data = require("./data.json");
+
+How should you load JSON files?
+
+I don't know. 🤷‍♂️ Neither option feels good, and I'll probably stick to the first option because it's more understandable.
+Let's see when stable JSON modules land in Node.js!
+
+
+          
+          
+            Reply to Stefan]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Conference Platform We Use For Our Online Events: Hopin]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/"/>
-        <updated>2021-05-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?]]></summary>
+        <title type="html"><![CDATA[Weekend Reading — 💿 When the internet came on a CD]]></title>
+        <id>6096e98e9af1f92127d87753</id>
+        <link href="https://labnotes.org/weekend-reading-when-the-internet-came-on-a-cd/"/>
+        <updated>2021-05-15T21:46:44.000Z</updated>
+        <summary type="html"><![CDATA[This week we ride downhill, chill in the lo-fi cafe, feel old, dress to impress, and watch the trash.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Amanda Annandale)</name>
+            <name>Assaf Arkin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get Started With React By Building A Whac-A-Mole Game]]></title>
-        <id>https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/</id>
-        <link href="https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/"/>
-        <updated>2021-05-10T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!]]></summary>
+        <title type="html"><![CDATA[How to define Open Graph / Twitter image alt text (and why it might not matter...) (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/how-to-define-open-graph-twitter-image-alt-text-and-why-it-might-not-matter/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/how-to-define-open-graph-twitter-image-alt-text-and-why-it-might-not-matter/"/>
+        <updated>2021-05-13T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You know all these fancy link previews that you see on social media when people share articles and resources, right? These previews are based on various meta elements defined in your website's head. You can define the Twitter card layout using <meta property="twitter:card" content="summary_large_image">, specify the Facebook preview image with <meta property="og:image" content="https://.../your-image.jpg"/> and many more configuration options.
+
+
+
+
+          
+            
+Read more about the details in the documentation:
+the Open Graph Protocol
+Twitter cards
+Recently I learned that the two standards (Open Graph and Twitter cards) support alternative text for preview images. I want to be a good web citizen and implemented it right away.
+Unfortunately, I discovered that the alternative text d…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
@@ -588,6 +491,46 @@ Removed: href for each source in cache. The value was never used so it's not a b
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Web Weekly #18 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-18/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-18/"/>
+        <updated>2021-05-08T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Web Weekly #18!
+
+Hello friends! The increasing number of vaccinations and today's 25°C made it a perfect weekend. It slowly feels like we get a hold of all this madness here in Germany.
+Before we jump into web stuff, look at this badass gang of friends taking a selfie! 👇 I had a good laugh about this Twitter thread.
+
+
+          
+            
+This week's Web Weekly includes:
+Glue work in tech
+Facts about the display CSS property
+"body-ok" in HTML
+... and, as always, GitHub repositories, a new Tiny Helper and some music.
+Ready? Steady. Go!
+What's "Glue work"?
+
+
+
+          
+            
+Glue work is activities that enable teams and make them successful. It can include coordinating activities, writing docs or helping out new team members. And while there's nothing wrong with glue w…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — ASCII stupid question]]></title>
+        <id>608dd3132dfd6e65f815a6c0</id>
+        <link href="https://labnotes.org/weekend-reading-ascii-stupid-question/"/>
+        <updated>2021-05-08T19:41:30.000Z</updated>
+        <summary type="html"><![CDATA[This week we have tiny wins, good and bad zips, integer overflow, dishwasher cartridges, robots with lasers, and cats dropping things.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[v1.5.0]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0</id>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0"/>
@@ -599,36 +542,6 @@ Changed: Favicon, css, and js assets now existing at site root level.
 Chore: Excluded testing files from repo.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Organize Product-Related Assets And Collaborate Better]]></title>
-        <id>https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/</id>
-        <link href="https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/"/>
-        <updated>2021-05-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Valeriia Panina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving The Performance Of Shopify Themes (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/"/>
-        <updated>2021-05-06T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carson Shold)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reducing HTML Payload With Next.js (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/"/>
-        <updated>2021-05-05T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Liran Cohen)</name>
         </author>
     </entry>
     <entry>
@@ -645,53 +558,126 @@ Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/</id>
-        <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/"/>
-        <updated>2021-05-04T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.]]></summary>
+        <title type="html"><![CDATA[Firefox support selection of multiple text areas (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/firefox-support-selection-of-multiple-text-areas/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/firefox-support-selection-of-multiple-text-areas/"/>
+        <updated>2021-05-03T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today's learning is a speedy one. I learned that you can select multiple text areas in Firefox by pressing CTRL (Windows) or CMD (Mac) when selecting text. 😲
+If you copy the "multi selection" the selected values are concatenated. 🎉
+
+      
+        
+      
+    
+
+
+          
+          
+            Reply to Stefan]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Tobias Günther)</name>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/"/>
-        <updated>2021-05-04T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.]]></summary>
+        <title type="html"><![CDATA[Weekend Reading — 1337 weeks ago]]></title>
+        <id>6084a8ff2bfb393ed70250d6</id>
+        <link href="https://labnotes.org/weekend-reading-1337-weeks-ago/"/>
+        <updated>2021-05-01T22:12:57.000Z</updated>
+        <summary type="html"><![CDATA[This week we Telegram with Yaya, come out of the cave, done fucking around, we keep ourselves sharp, and watch a real estate seminar.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>Assaf Arkin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Evolution Of Jamstack]]></title>
-        <id>https://smashingmagazine.com/2021/05/evolution-jamstack/</id>
-        <link href="https://smashingmagazine.com/2021/05/evolution-jamstack/"/>
-        <updated>2021-05-03T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.]]></summary>
+        <title type="html"><![CDATA[Should DevTools teach the CSS cascade? (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/</id>
+        <link href="https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/"/>
+        <updated>2021-05-01T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The CSS cascade and the closely related topic of CSS selector specificity are often misunderstood in the web development community. Unfortunately, my impression is that many developers never learned how CSS really works.
+Trending solutions such as "CSS-in-JS" and Tailwind are definitely not helping with the overall understanding of this core web technology. The missing knowledge brings up the following questions:
+Will it become less critical to know CSS in the future? I don't know, maybe one day... probably not...
+Do I think that it's essential to understand how browsers apply styles today? Absolutely!
+Side note: I'm not favoring or am advising to use any CSS solution out there. I prefer less complex frontends these days, but you do you!
+I was thinking about developer education over the la…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Mathias Biilmann)</name>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[May Is In The Air (2021 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/</id>
-        <link href="https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/"/>
-        <updated>2021-04-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.]]></summary>
+        <title type="html"><![CDATA[Web Weekly #17 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-17/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-17/"/>
+        <updated>2021-05-01T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Web Weekly #17!
+
+Hello friends! I had a fairly unspectacular week (which is awesome!), but there was one thing that made me laugh out loud. I'm usually not into code humor but look at this beauty. 😆
+
+
+
+
+
+          
+            
+This week's Web Weekly includes:
+the value of dotfiles
+the new color-contrast() CSS function
+language in leadership
+... and, as always, GitHub repositories, a new Tiny Helper and some music.
+Ready? Steady. Go!
+Is crypto destroying free CI offerings?
+
+
+
+
+          
+            
+It was just a matter of time, but it seems that CI providers such as GitHub (with GitHub actions), Travis CI or Circle CI are increasingly facing the misuse of their platforms to mine cryptocurrency. Let's hope that the providers find a smart way to keep their free offering while b…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Humble `<img>` Element And Core Web Vitals]]></title>
-        <id>https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/</id>
-        <link href="https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
-        <updated>2021-04-29T12:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).]]></summary>
+        <title type="html"><![CDATA[A CSS-only typewriter effect (#snippet)]]></title>
+        <id>https://www.stefanjudis.com/snippets/a-css-only-typewriter-effect/</id>
+        <link href="https://www.stefanjudis.com/snippets/a-css-only-typewriter-effect/"/>
+        <updated>2021-04-29T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I just found Marco Denig's article "CSS tricks". There are some good tricks in it. The trick that stood out to me was the CSS-only typewriter effect.
+It's a pretty sweet effect, and I want to document it for my future self. I mean, look at it. 👇 The typing below is done without JavaScript!
+
+Marco uses a combination of white-space: nowrap / overflow: hidden to hide overflowing characters, defines a monospace font to make the container's width predictable, and then animates the width of the surrounding container. The blinking cursor is realized by animating the right border.
+Overall that's pretty smart!
+/* adjusted CSS of the above custom element */
+type-writer .text {
+  width: 33ch;
+  animation: typing 2s steps(22), 
+    blink .5s step-end infinite alternate;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid;
+  font-family: monospace;
+  font-size: 1.5em;
+  margin: 1em auto;
+}
+
+@keyframes typing {
+  from {
+    width: 0
+  }
+}
+
+@keyframes blink {
+  50% {
+    border-color: transparent
+  }
+}
+
+
+
+          
+          
+            Reply to Stefan]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Addy Osmani)</name>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
