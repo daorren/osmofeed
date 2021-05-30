@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T00:51:23.536Z</updated>
+    <updated>2021-05-30T00:55:46.630Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 😎 Summer gonna be crazzzyy]]></title>
+        <id>60a9594fa030cd25014cdf4f</id>
+        <link href="https://labnotes.org/weekend-reading-summer-gonna-be-crazzzyy/"/>
+        <updated>2021-05-29T20:41:21.000Z</updated>
+        <summary type="html"><![CDATA[This week is the seven year itch, should have bought that dip, but at least you won’t get caught by cheese, also that iron-pumping gator.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My Developer Journey – How I Went from Making $1,000 to $100,000 a Year]]></title>
         <id>60acf28e11ffb70827ef6dd9</id>
@@ -673,50 +683,6 @@ Is crypto destroying free CI offerings?
           
             
 It was just a matter of time, but it seems that CI providers such as GitHub (with GitHub actions), Travis CI or Circle CI are increasingly facing the misuse of their platforms to mine cryptocurrency. Let's hope that the providers find a smart way to keep their free offering while b…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A CSS-only typewriter effect (#snippet)]]></title>
-        <id>https://www.stefanjudis.com/snippets/a-css-only-typewriter-effect/</id>
-        <link href="https://www.stefanjudis.com/snippets/a-css-only-typewriter-effect/"/>
-        <updated>2021-04-29T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I just found Marco Denig's article "CSS tricks". There are some good tricks in it. The trick that stood out to me was the CSS-only typewriter effect.
-It's a pretty sweet effect, and I want to document it for my future self. I mean, look at it. 👇 The typing below is done without JavaScript!
-
-Marco uses a combination of white-space: nowrap / overflow: hidden to hide overflowing characters, defines a monospace font to make the container's width predictable, and then animates the width of the surrounding container. The blinking cursor is realized by animating the right border.
-Overall that's pretty smart!
-/* adjusted CSS of the above custom element */
-type-writer .text {
-  width: 33ch;
-  animation: typing 2s steps(22), 
-    blink .5s step-end infinite alternate;
-  white-space: nowrap;
-  overflow: hidden;
-  border-right: 3px solid;
-  font-family: monospace;
-  font-size: 1.5em;
-  margin: 1em auto;
-}
-
-@keyframes typing {
-  from {
-    width: 0
-  }
-}
-
-@keyframes blink {
-  50% {
-    border-color: transparent
-  }
-}
-
-
-
-          
-          
-            Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>

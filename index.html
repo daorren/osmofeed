@@ -16,6 +16,28 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-05-29">2021-05-29</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://labnotes.org/">Labnotes (by Assaf Arkin)</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Weekend Reading — 😎 Summer gonna be crazzzyy</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://labnotes.org/weekend-reading-summer-gonna-be-crazzzyy/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(4 min)</span>
+                    <span>This week is the seven year itch, should have bought that dip, but at least you won’t get caught by cheese, also that iron-pumping gator.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2021-05-28">2021-05-28</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -984,65 +1006,9 @@ It was just a matter of time, but it seems that CI providers such as GitHub (wit
       </li>
     </ul>
   </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-04-29">2021-04-29</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.stefanjudis.com/rss.xml">Stefan Judis Web Development</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">A CSS-only typewriter effect (#snippet)</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/snippets/a-css-only-typewriter-effect/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>I just found Marco Denig&#x27;s article &quot;CSS tricks&quot;. There are some good tricks in it. The trick that stood out to me was the CSS-only typewriter effect.
-It&#x27;s a pretty sweet effect, and I want to document it for my future self. I mean, look at it. 👇 The typing below is done without JavaScript!
-
-Marco uses a combination of white-space: nowrap / overflow: hidden to hide overflowing characters, defines a monospace font to make the container&#x27;s width predictable, and then animates the width of the surrounding container. The blinking cursor is realized by animating the right border.
-Overall that&#x27;s pretty smart!
-/* adjusted CSS of the above custom element */
-type-writer .text {
-  width: 33ch;
-  animation: typing 2s steps(22), 
-    blink .5s step-end infinite alternate;
-  white-space: nowrap;
-  overflow: hidden;
-  border-right: 3px solid;
-  font-family: monospace;
-  font-size: 1.5em;
-  margin: 1em auto;
-}
-
-@keyframes typing {
-  from {
-    width: 0
-  }
-}
-
-@keyframes blink {
-  50% {
-    border-color: transparent
-  }
-}
-
-
-
-          
-          
-            Reply to Stefan</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-05-29T00:51:23.515Z">2021-05-29T00:51:23.515Z</time>
+    <time id="build-timestamp" datetime="2021-05-30T00:55:46.599Z">2021-05-30T00:55:46.599Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.9.0</a></span>
   </footer>
   <script src="index.js"></script>

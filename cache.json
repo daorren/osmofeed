@@ -294,6 +294,15 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "60a9594fa030cd25014cdf4f",
+          "author": "Assaf Arkin",
+          "description": "This week is the seven year itch, should have bought that dip, but at least you won’t get caught by cheese, also that iron-pumping gator.",
+          "link": "https://labnotes.org/weekend-reading-summer-gonna-be-crazzzyy/",
+          "publishedOn": "2021-05-29T20:41:21.000Z",
+          "wordCount": 1060,
+          "title": "Weekend Reading — 😎 Summer gonna be crazzzyy"
+        },
+        {
           "id": "60a041b7b773846ea8801c67",
           "author": "Assaf Arkin",
           "description": "This week we lead by introversion, anticipate a blog comeback, count sandwiches, and if you're over 30 you're most likely to injure yourself when you sleep.",
@@ -443,15 +452,6 @@
           "publishedOn": "2021-05-01T22:00:00.000Z",
           "wordCount": 1016,
           "title": "Web Weekly #17 (#blogPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/a-css-only-typewriter-effect/",
-          "author": null,
-          "description": "I just found Marco Denig's article \"CSS tricks\". There are some good tricks in it. The trick that stood out to me was the CSS-only typewriter effect.\nIt's a pretty sweet effect, and I want to document it for my future self. I mean, look at it. 👇 The typing below is done without JavaScript!\n\nMarco uses a combination of white-space: nowrap / overflow: hidden to hide overflowing characters, defines a monospace font to make the container's width predictable, and then animates the width of the surrounding container. The blinking cursor is realized by animating the right border.\nOverall that's pretty smart!\n/* adjusted CSS of the above custom element */\ntype-writer .text {\n  width: 33ch;\n  animation: typing 2s steps(22), \n    blink .5s step-end infinite alternate;\n  white-space: nowrap;\n  overflow: hidden;\n  border-right: 3px solid;\n  font-family: monospace;\n  font-size: 1.5em;\n  margin: 1em auto;\n}\n\n@keyframes typing {\n  from {\n    width: 0\n  }\n}\n\n@keyframes blink {\n  50% {\n    border-color: transparent\n  }\n}\n\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/snippets/a-css-only-typewriter-effect/",
-          "publishedOn": "2021-04-29T22:00:00.000Z",
-          "wordCount": 338,
-          "title": "A CSS-only typewriter effect (#snippet)"
         }
       ]
     }
