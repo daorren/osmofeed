@@ -328,15 +328,6 @@
           "publishedOn": "2021-05-08T19:41:30.000Z",
           "wordCount": 1091,
           "title": "Weekend Reading — ASCII stupid question"
-        },
-        {
-          "id": "6084a8ff2bfb393ed70250d6",
-          "author": "Assaf Arkin",
-          "description": "This week we Telegram with Yaya, come out of the cave, done fucking around, we keep ourselves sharp, and watch a real estate seminar.",
-          "link": "https://labnotes.org/weekend-reading-1337-weeks-ago/",
-          "publishedOn": "2021-05-01T22:12:57.000Z",
-          "wordCount": 1595,
-          "title": "Weekend Reading — 1337 weeks ago"
         }
       ]
     },
@@ -345,6 +336,24 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-21/",
+          "author": null,
+          "description": "Welcome to Web Weekly #21!\n\nHello friends! I'm a few hours late because I had such a lovely weekend. I saw some friends, listened to music and read an entertaining book. 😊 It felt like the first \"somewhat normal\" weekend for ages here in Berlin. I hope this madness is getting to an end where you live, too!\nBefore we jump into web stuff, let me share with you what made me smile this week. If you're into dogs (or trampolines), this video is just too cute.\n\nThis week's Web Weekly includes:\ncutting-edge CSS features\nthe soon-to-be cross-browser supported requestSubmit method\nthe address HTML element\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nReady? Steady. Go!\nThings to not do yourself – email address validation\n\n\n\n\n\n          \n            \nWhen doing web devel…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-21/",
+          "publishedOn": "2021-05-30T22:00:00.000Z",
+          "wordCount": 1255,
+          "title": "Web Weekly #21 (#blogPost)"
+        },
+        {
+          "id": "https://www.stefanjudis.com/snippets/how-to-add-a-directory-but-ignore-included-files-in-git/",
+          "author": null,
+          "description": "This post is a quick reference for my future self. I implemented the eleventy cache assets plugin to speed up my local development last weekend. This site is based on API data from several sources, and unfortunately, local development became terribly slow. It was time for some optimization. The problem was that the local build process fetched all the API data on every file change and local rebuild.\nThe eleventy cache plugin helps here. It caches data across builds and writes the API data into files in a .cache directory. When the site rebuilds, the cached data is reused, and no APIs will be called during the build process.\nTo make the plugin work in a remote environment such as Netlify, it needs the .cache directory to be available. This behavior led to the problem that I had to check in the .cache directory but needed to ignore all the included files.\nI ran into this exact problem many times, and it always takes me several attempts to get it right. Here's the solution that worked for me.\nFirst, add the directory to your local project and place a .gitignore file in it.\n.cache\n  |_ .gitignore\n\nThen, paste the following configuration into the .gitignore file in the directory you want to check in.\n# File: .cache/.gitignore\n# Ignore everything in this directory\n*\n# Except for this file\n!.gitignore\n\nAnd voilà! Commit the .gitignore file at folder-you-want-to-check-in/.gitignore, and that's it! The directory is now available in git and files in this directory will be ignored.\nIt's to point out that .gitignore files work in sub-directories and allow you to configure git on a sub-directory level. And that's pretty handy!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/snippets/how-to-add-a-directory-but-ignore-included-files-in-git/",
+          "publishedOn": "2021-05-30T22:00:00.000Z",
+          "wordCount": 476,
+          "title": "How to add a directory but ignore included files in git (#snippet)"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-20/",
           "author": null,
@@ -434,24 +443,6 @@
           "publishedOn": "2021-05-03T22:00:00.000Z",
           "wordCount": 264,
           "title": "Firefox support selection of multiple text areas (#tilPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/",
-          "author": null,
-          "description": "The CSS cascade and the closely related topic of CSS selector specificity are often misunderstood in the web development community. Unfortunately, my impression is that many developers never learned how CSS really works.\nTrending solutions such as \"CSS-in-JS\" and Tailwind are definitely not helping with the overall understanding of this core web technology. The missing knowledge brings up the following questions:\nWill it become less critical to know CSS in the future? I don't know, maybe one day... probably not...\nDo I think that it's essential to understand how browsers apply styles today? Absolutely!\nSide note: I'm not favoring or am advising to use any CSS solution out there. I prefer less complex frontends these days, but you do you!\nI was thinking about developer education over the la…",
-          "link": "https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/",
-          "publishedOn": "2021-05-01T22:00:00.000Z",
-          "wordCount": 1168,
-          "title": "Should DevTools teach the CSS cascade? (#blogPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-17/",
-          "author": null,
-          "description": "Welcome to Web Weekly #17!\n\nHello friends! I had a fairly unspectacular week (which is awesome!), but there was one thing that made me laugh out loud. I'm usually not into code humor but look at this beauty. 😆\n\n\n\n\n\n          \n            \nThis week's Web Weekly includes:\nthe value of dotfiles\nthe new color-contrast() CSS function\nlanguage in leadership\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nReady? Steady. Go!\nIs crypto destroying free CI offerings?\n\n\n\n\n          \n            \nIt was just a matter of time, but it seems that CI providers such as GitHub (with GitHub actions), Travis CI or Circle CI are increasingly facing the misuse of their platforms to mine cryptocurrency. Let's hope that the providers find a smart way to keep their free offering while b…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-17/",
-          "publishedOn": "2021-05-01T22:00:00.000Z",
-          "wordCount": 1016,
-          "title": "Web Weekly #17 (#blogPost)"
         }
       ]
     }
