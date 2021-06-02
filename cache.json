@@ -6,6 +6,15 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2",
+          "author": null,
+          "description": "Added: testing and CI/CD workflows",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2",
+          "publishedOn": "2021-06-01T04:39:30.000Z",
+          "wordCount": 268,
+          "title": "v1.10.2"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0",
           "author": null,
           "description": "Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is \"experimental\" due to these caveats:\n\nThis feature is currently only available through custom template.\niTunes has no strict format requirement for duration. The unit is most likely seconds but can be \"hh:mm:ss\" or \"mm:ss\" for some sources. A future version may expose a human readable string to the template.\nNo image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.\nYou can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.\nFixed: the articles in template data were not sorted.\nThank you @Zenigata",
@@ -102,6 +111,60 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b5025111ffb70827ef9ebe",
+          "author": null,
+          "description": "Let's build an AI model that speaks just like your favorite character and deploy that model as a Discord chatbot. All the coding and deployment happen in the cloud (for free!), so you don't even need a local IDE to follow along.",
+          "link": "https://www.freecodecamp.org/news/discord-ai-chatbot/",
+          "publishedOn": "2021-06-01T23:47:33.000Z",
+          "wordCount": 1861,
+          "title": "How to Build a Discord AI Chatbot that Talks Like Your Favorite Character"
+        },
+        {
+          "id": "60b1eed311ffb70827ef9504",
+          "author": null,
+          "description": "A Pandas dataframe is a two dimensional data structure which allows you to store data in rows and columns. It's very useful when you're analyzing data.  When you have a list of data records in a dataframe, you may need to drop a specific list of rows depending on the",
+          "link": "https://www.freecodecamp.org/news/drop-list-of-rows-from-pandas-dataframe/",
+          "publishedOn": "2021-06-01T20:47:43.000Z",
+          "wordCount": 1416,
+          "title": "Data Analytics with Pandas – How to Drop a List of Rows from a Pandas Dataframe"
+        },
+        {
+          "id": "60b668c0acb62507dd1d710b",
+          "author": null,
+          "description": "Next.js makes developing React applications simpler. It provides a common structure that allows you to build frontend React applications, and transparently handles server-side rendering for you. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Next.js.  Kapehe developed",
+          "link": "https://www.freecodecamp.org/news/learn-next-js/",
+          "publishedOn": "2021-06-01T17:43:56.000Z",
+          "wordCount": 407,
+          "title": "Learn Next.js and Make React Development Simpler"
+        },
+        {
+          "id": "60acf28e11ffb70827ef6dd9",
+          "author": null,
+          "description": "Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up increasing my salary as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary, and how",
+          "link": "https://www.freecodecamp.org/news/my-developer-journey-how-i-increased-my-salary-and-got-a-remote-job/",
+          "publishedOn": "2021-06-01T16:35:00.000Z",
+          "wordCount": 2823,
+          "title": "My Developer Journey – How I Got a Remote Job and Increased My Salary While Contributing to Open Source"
+        },
+        {
+          "id": "60aff2d711ffb70827ef8829",
+          "author": null,
+          "description": "This informative tutorial goes deep into how to get a cybersecurity job, with insights from senior leaders and hiring managers in the field.",
+          "link": "https://www.freecodecamp.org/news/how-to-get-a-cybersecurity-job/",
+          "publishedOn": "2021-06-01T16:34:00.000Z",
+          "wordCount": 2137,
+          "title": "How to Get a Cybersecurity Job in 2021"
+        },
+        {
+          "id": "607f5fafdd38b9088c2bd0c9",
+          "author": null,
+          "description": "When you're debating someone, you want to use all the resources at your disposal to convince them you're right. But you should be careful that you don't end up using a logical fallacy to help you make your point. What is a Logical Fallacy?A logical fallacy is an error",
+          "link": "https://www.freecodecamp.org/news/logical-fallacies-definition-fallacy-examples/",
+          "publishedOn": "2021-06-01T04:19:48.000Z",
+          "wordCount": 6197,
+          "title": "Logical Fallacies – Definition and Fallacy Examples"
+        },
         {
           "id": "60acf28e11ffb70827ef6dd9",
           "author": null,
@@ -226,6 +289,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=105076",
+          "author": "Robin George Andrews",
+          "description": "Scientists have begun to decipher the subtle signs that reveal how explosive a volcanic eruption is going to be.             \nThe post A Burp or a Blast? Seismic Signals Reveal the Volcanic Eruption to Come first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/seismic-data-helps-scientists-forecast-volcanic-explosions-20210601/",
+          "publishedOn": "2021-06-01T17:02:41.000Z",
+          "wordCount": null,
+          "title": "A Burp or a Blast? Seismic Signals Reveal the Volcanic Eruption to Come",
+          "itunes": {}
+        },
         {
           "id": "https://www.quantamagazine.org/?p=104957",
           "author": "Pradeep Mutalik",
@@ -447,5 +520,5 @@
       ]
     }
   ],
-  "cliVersion": "1.9.0"
+  "cliVersion": "1.10.2"
 }
