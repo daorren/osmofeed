@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T01:08:19.378Z</updated>
+    <updated>2021-06-05T00:45:56.022Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Search and Filter Components in React]]></title>
+        <id>60b3480c11ffb70827ef9a88</id>
+        <link href="https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/"/>
+        <updated>2021-06-04T21:34:33.000Z</updated>
+        <summary type="html"><![CDATA[If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning in Python – The Top New Scikit-Learn 0.24 Features You Should Know]]></title>
+        <id>60ba33d7acb62507dd1d9050</id>
+        <link href="https://www.freecodecamp.org/news/machine-learning-python-new-scikit-learn-features-you-should-know/"/>
+        <updated>2021-06-04T20:58:07.000Z</updated>
+        <summary type="html"><![CDATA[Scikit-learn is one of the most popular open-source and free machine learning libraries for Python.  The scikit-learn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction. Many data scientists, machine learning engineers, and researchers rely on this library for]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Recover from Deployment Hell – What I Learned After My Discord Bot Crashed on a 1000+ User Server]]></title>
+        <id>60b8f5c7acb62507dd1d8500</id>
+        <link href="https://www.freecodecamp.org/news/recovering-from-deployment-hell-what-i-learned-from-deploying-my-discord-bot-to-a-1000-user-server/"/>
+        <updated>2021-06-04T20:41:29.000Z</updated>
+        <summary type="html"><![CDATA[I deployed a Discord bot to a 1000+ user server. In the first hour, Deployment Hell struck and my bot crashed. In the next hour, I brought it back, surviving and even thriving in Deployment Hell. In this post, I'll show you how.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn TypeScript Basics in this Beginner&#x27;s Guide]]></title>
+        <id>60b2a4c611ffb70827ef9842</id>
+        <link href="https://www.freecodecamp.org/news/learn-typescript-basics/"/>
+        <updated>2021-06-04T18:01:00.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript has taken the development world by storm. No wonder it has over 15 million weekly downloads on npm. But what is TypeScript, and what do you need to know about it?  In this article, I am going answer those questions. By the end you'll have a grasp of the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery]]></title>
+        <id>60b98ebfacb62507dd1d8ec4</id>
+        <link href="https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/"/>
+        <updated>2021-06-04T02:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Tutorial – How to Set Up a Front End Development Project]]></title>
         <id>60b11ff811ffb70827ef8f94</id>
