@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T00:45:56.022Z</updated>
+    <updated>2021-06-06T00:39:21.562Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading —🍿 Gangster Coworking]]></title>
+        <id>60b507628a05e833bcdafbdf</id>
+        <link href="https://labnotes.org/weekend-reading-gangster-coworking/"/>
+        <updated>2021-06-05T19:26:41.000Z</updated>
+        <summary type="html"><![CDATA[This week we add a soundtrack to the progress bar, ask for that dashboard we’ll never use, play Traffic Light Hero, and pop a bubble.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Search and Filter Components in React]]></title>
         <id>60b3480c11ffb70827ef9a88</id>
