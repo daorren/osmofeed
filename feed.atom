@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T00:39:21.562Z</updated>
+    <updated>2021-06-07T00:40:29.457Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #22 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-22/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-22/"/>
+        <updated>2021-06-06T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Web Weekly #22!
+
+Hello friends! It's summer here in Berlin! I mean, almost... 🙈 And I might have made it to get a slight sunburn today. I also started working on a new custom element for my blog (<web-compat />) to show always-up-to-date browser support information in my blog posts. It was a good week!
+Before we jump into web stuff, let me share something fascinating with you, this video shows the creation of a beautiful animation without using a computer.
+
+
+          
+            
+This week's Web Weekly includes:
+JSON modules in JavaScript
+Lighthouse updates
+CSS Font descriptors
+... and, as always, GitHub repositories, a new Tiny Helper and some music.
+Ready? Steady. Go!
+The benefits of asynchronous communication
+
+
+
+
+
+
+          
+            
+Oldie gut goldie – I'm working fro…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS defines color values that follow system preferences (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/css-defines-color-values-that-follow-system-preferences/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/css-defines-color-values-that-follow-system-preferences/"/>
+        <updated>2021-06-05T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I learned something exciting from Jim Nielsen today. Jim shared that CSS defines system color values that follow the system color preferences (light and dark mode). If you want to learn more about the nitty-gritty details, read his post or have a look at the CSS Color Module Level 4 specification.
+This post shares my discoveries after playing around with system color values such as Canvas and CanvasText.
+You can find all defined system color values in the example below. Change your color preferences and see the colors below adjust!
+
+You can see the colors react to system preferences in Chrome and Safari in the video below, too.
+Here are a few things I noticed. 👇
+At the time of writing, it appears that only Chromies' and Safari's system color values take the system preferences into conside…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to import JSON files in ES modules (#snippet)]]></title>
+        <id>https://www.stefanjudis.com/snippets/how-to-import-json-files-in-es-modules/</id>
+        <link href="https://www.stefanjudis.com/snippets/how-to-import-json-files-in-es-modules/"/>
+        <updated>2021-06-05T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you're using EcmaScript modules, you probably know the problem that you can't "just" import JSON files. To import and load a JSON file in an ES module, you have to do a "window.fetch dance" to request the file and parse it yourself. It's not great...
+But there's hope! According to chromestatus.com, JSON Modules are shipping in Chrome 91. I gave it a quick try, and surprisingly, the following JavaScript code does not work.
+<script type="module">
+  import data from "./data.json";
+  console.log(data);
+</script>
+
+It throws the following exception in Chrome 91:
+Failed to load module script: Expected a JavaScript module script but the server responded with a MIME type of "application/json". Strict MIME type checking is enforced for module scripts per HTML spec.
+I didn't have a detailed look at the spec discussion about this topic, but apparently, the new syntax to import JSON Modules is the following. 😲
+import data from "./data.json" assert { type: "json" };
+
+console.log(data);
+
+That's quite something, and I have to do some reading about it. But hey, anything that makes it easier to import JSON is more than welcome!
+And when there's a solution in Chrome, it can't be long until it ships in Node.js because importing JSON files in Node ES modules is not great either. 🙈
+Edit: Axel Rauschmayer shared that JSON import are based on import assertions and you can read more about it on his blog.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading —🍿 Gangster Coworking]]></title>
         <id>60b507628a05e833bcdafbdf</id>
@@ -932,20 +1012,6 @@ Glue work is activities that enable teams and make them successful. It can inclu
         <summary type="html"><![CDATA[This week we have tiny wins, good and bad zips, integer overflow, dishwasher cartridges, robots with lasers, and cats dropping things.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.5.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0"/>
-        <updated>2021-05-08T05:16:47.000Z</updated>
-        <summary type="html"><![CDATA[Added: Atom feed generator
-Added: Customizable site title
-Added: Copy all files from static directory to the root of the site.
-Changed: Favicon, css, and js assets now existing at site root level.
-Chore: Excluded testing files from repo.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>

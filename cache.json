@@ -85,15 +85,6 @@
           "publishedOn": "2021-05-10T08:15:20.000Z",
           "wordCount": 352,
           "title": "v1.6.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0",
-          "author": null,
-          "description": "Added: Atom feed generator\nAdded: Customizable site title\nAdded: Copy all files from static directory to the root of the site.\nChanged: Favicon, css, and js assets now existing at site root level.\nChore: Excluded testing files from repo.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0",
-          "publishedOn": "2021-05-08T05:16:47.000Z",
-          "wordCount": 306,
-          "title": "v1.5.0"
         }
       ]
     },
@@ -591,6 +582,33 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-22/",
+          "author": null,
+          "description": "Welcome to Web Weekly #22!\n\nHello friends! It's summer here in Berlin! I mean, almost... 🙈 And I might have made it to get a slight sunburn today. I also started working on a new custom element for my blog (<web-compat />) to show always-up-to-date browser support information in my blog posts. It was a good week!\nBefore we jump into web stuff, let me share something fascinating with you, this video shows the creation of a beautiful animation without using a computer.\n\n\n          \n            \nThis week's Web Weekly includes:\nJSON modules in JavaScript\nLighthouse updates\nCSS Font descriptors\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nReady? Steady. Go!\nThe benefits of asynchronous communication\n\n\n\n\n\n\n          \n            \nOldie gut goldie – I'm working fro…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-22/",
+          "publishedOn": "2021-06-06T21:00:00.000Z",
+          "wordCount": 1254,
+          "title": "Web Weekly #22 (#blogPost)"
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/css-defines-color-values-that-follow-system-preferences/",
+          "author": null,
+          "description": "I learned something exciting from Jim Nielsen today. Jim shared that CSS defines system color values that follow the system color preferences (light and dark mode). If you want to learn more about the nitty-gritty details, read his post or have a look at the CSS Color Module Level 4 specification.\nThis post shares my discoveries after playing around with system color values such as Canvas and CanvasText.\nYou can find all defined system color values in the example below. Change your color preferences and see the colors below adjust!\n\nYou can see the colors react to system preferences in Chrome and Safari in the video below, too.\nHere are a few things I noticed. 👇\nAt the time of writing, it appears that only Chromies' and Safari's system color values take the system preferences into conside…",
+          "link": "https://www.stefanjudis.com/today-i-learned/css-defines-color-values-that-follow-system-preferences/",
+          "publishedOn": "2021-06-05T22:00:00.000Z",
+          "wordCount": 621,
+          "title": "CSS defines color values that follow system preferences (#tilPost)"
+        },
+        {
+          "id": "https://www.stefanjudis.com/snippets/how-to-import-json-files-in-es-modules/",
+          "author": null,
+          "description": "If you're using EcmaScript modules, you probably know the problem that you can't \"just\" import JSON files. To import and load a JSON file in an ES module, you have to do a \"window.fetch dance\" to request the file and parse it yourself. It's not great...\nBut there's hope! According to chromestatus.com, JSON Modules are shipping in Chrome 91. I gave it a quick try, and surprisingly, the following JavaScript code does not work.\n<script type=\"module\">\n  import data from \"./data.json\";\n  console.log(data);\n</script>\n\nIt throws the following exception in Chrome 91:\nFailed to load module script: Expected a JavaScript module script but the server responded with a MIME type of \"application/json\". Strict MIME type checking is enforced for module scripts per HTML spec.\nI didn't have a detailed look at the spec discussion about this topic, but apparently, the new syntax to import JSON Modules is the following. 😲\nimport data from \"./data.json\" assert { type: \"json\" };\n\nconsole.log(data);\n\nThat's quite something, and I have to do some reading about it. But hey, anything that makes it easier to import JSON is more than welcome!\nAnd when there's a solution in Chrome, it can't be long until it ships in Node.js because importing JSON files in Node ES modules is not great either. 🙈\nEdit: Axel Rauschmayer shared that JSON import are based on import assertions and you can read more about it on his blog.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/snippets/how-to-import-json-files-in-es-modules/",
+          "publishedOn": "2021-06-05T22:00:00.000Z",
+          "wordCount": 419,
+          "title": "How to import JSON files in ES modules (#snippet)"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-21/",
           "author": null,
