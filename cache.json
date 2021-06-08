@@ -94,6 +94,42 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60bbd28eacb62507dd1d99fb",
+          "author": null,
+          "description": "Learn how to build full stack serverless apps with Supabase and Next.js.",
+          "link": "https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/",
+          "publishedOn": "2021-06-07T23:33:30.000Z",
+          "wordCount": 3567,
+          "title": "How to Build a Full Stack App with Supabase and Next.js"
+        },
+        {
+          "id": "60be863cd3126007592d4c36",
+          "author": null,
+          "description": "OpenCV is a popular Python library for real-time computer vision. We just released a new OpenCV course on the freeCodeCamp.org YouTube channel. This course comes directly from the creators of OpenCV and is the perfect course for beginners.  You will learn how to use OpenCV for Computer Vision and",
+          "link": "https://www.freecodecamp.org/news/how-to-use-opencv-and-python-for-computer-vision-and-ai/",
+          "publishedOn": "2021-06-07T20:54:41.000Z",
+          "wordCount": 439,
+          "title": "How to Use OpenCV and Python for Computer Vision and AI"
+        },
+        {
+          "id": "5ff625967af2371468bb8645",
+          "author": null,
+          "description": "Closures are a confusing JavaScript concept to learn, because it's hard to see how they're actually used.  Unlike other concepts such as functions, variables, and objects, you don't always use closures conscientiously and directly. You don't say: Oh! Here I will use a closure as a solution. But at the",
+          "link": "https://www.freecodecamp.org/news/closures-in-javascript/",
+          "publishedOn": "2021-06-07T18:18:01.000Z",
+          "wordCount": 1597,
+          "title": "How to Use Closures in JavaScript – A Beginner&#x27;s Guide"
+        },
+        {
+          "id": "60b136d911ffb70827ef912b",
+          "author": null,
+          "description": "ngClass is a directive in Angular that adds and removes CSS classes on an HTML element. In this article, we are talking about ngClass in Angular only, not ng-class in angular.js. Prerequisites – What is Property Binding?Two things we have to understand first are property binding and interpolation in",
+          "link": "https://www.freecodecamp.org/news/angular-ngclass-example/",
+          "publishedOn": "2021-06-07T15:01:26.000Z",
+          "wordCount": 1547,
+          "title": "Angular NgClass Example – How to Add Conditional CSS Classes"
+        },
+        {
           "id": "60b3480c11ffb70827ef9a88",
           "author": null,
           "description": "If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.",
@@ -434,6 +470,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=105340",
+          "author": "Robin George Andrews",
+          "description": "Scientists have long struggled to understand how common planets form. A new supercomputer simulation shows that the missing ingredient may be magnetism.            \nThe post Astronomers Find Secret Planet-Making Ingredient: Magnetic Fields first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/simulation-reveals-how-magnetism-helps-form-planets-20210607/",
+          "publishedOn": "2021-06-07T14:02:18.000Z",
+          "wordCount": null,
+          "title": "Astronomers Find Secret Planet-Making Ingredient: Magnetic Fields",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=105275",
           "author": "Mordechai Rorvig",
           "description": "A new proof establishes the boundary at which a shape becomes so corrugated, it can be crushed.            \nThe post Mathematicians Identify Threshold at Which Shapes Give Way first appeared on Quanta Magazine",
@@ -565,15 +611,6 @@
           "publishedOn": "2021-05-15T21:46:44.000Z",
           "wordCount": 1353,
           "title": "Weekend Reading — 💿 When the internet came on a CD"
-        },
-        {
-          "id": "608dd3132dfd6e65f815a6c0",
-          "author": "Assaf Arkin",
-          "description": "This week we have tiny wins, good and bad zips, integer overflow, dishwasher cartridges, robots with lasers, and cats dropping things.",
-          "link": "https://labnotes.org/weekend-reading-ascii-stupid-question/",
-          "publishedOn": "2021-05-08T19:41:30.000Z",
-          "wordCount": 1091,
-          "title": "Weekend Reading — ASCII stupid question"
         }
       ]
     },
@@ -698,15 +735,6 @@
           "publishedOn": "2021-05-13T22:00:00.000Z",
           "wordCount": 854,
           "title": "How to define Open Graph / Twitter image alt text (and why it might not matter...) (#tilPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-18/",
-          "author": null,
-          "description": "Welcome to Web Weekly #18!\n\nHello friends! The increasing number of vaccinations and today's 25°C made it a perfect weekend. It slowly feels like we get a hold of all this madness here in Germany.\nBefore we jump into web stuff, look at this badass gang of friends taking a selfie! 👇 I had a good laugh about this Twitter thread.\n\n\n          \n            \nThis week's Web Weekly includes:\nGlue work in tech\nFacts about the display CSS property\n\"body-ok\" in HTML\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nReady? Steady. Go!\nWhat's \"Glue work\"?\n\n\n\n          \n            \nGlue work is activities that enable teams and make them successful. It can include coordinating activities, writing docs or helping out new team members. And while there's nothing wrong with glue w…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-18/",
-          "publishedOn": "2021-05-08T22:00:00.000Z",
-          "wordCount": 1074,
-          "title": "Web Weekly #18 (#blogPost)"
         }
       ]
     }
