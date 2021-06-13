@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T00:18:24.696Z</updated>
+    <updated>2021-06-13T00:23:16.253Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 📚 Who's your study influencer?]]></title>
+        <id>60bbd0a757509e2328e3d77b</id>
+        <link href="https://labnotes.org/weekend-reading-whos-your-study-influencer/"/>
+        <updated>2021-06-12T19:10:47.000Z</updated>
+        <summary type="html"><![CDATA[This week we got retro-gaming display technology, GitHub facade, 10x remote job, new editor at large, and a lockdown passion project.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a Disaster Recovery Plan? How to Use RTO and RPO to Protect your Business]]></title>
         <id>60b72d5facb62507dd1d777b</id>
@@ -1139,27 +1149,6 @@ Let's see when stable JSON modules land in Node.js!
         <summary type="html"><![CDATA[This week we ride downhill, chill in the lo-fi cafe, feel old, dress to impress, and watch the trash.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to define Open Graph / Twitter image alt text (and why it might not matter...) (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/how-to-define-open-graph-twitter-image-alt-text-and-why-it-might-not-matter/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/how-to-define-open-graph-twitter-image-alt-text-and-why-it-might-not-matter/"/>
-        <updated>2021-05-13T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You know all these fancy link previews that you see on social media when people share articles and resources, right? These previews are based on various meta elements defined in your website's head. You can define the Twitter card layout using <meta property="twitter:card" content="summary_large_image">, specify the Facebook preview image with <meta property="og:image" content="https://.../your-image.jpg"/> and many more configuration options.
-
-
-
-
-          
-            
-Read more about the details in the documentation:
-the Open Graph Protocol
-Twitter cards
-Recently I learned that the two standards (Open Graph and Twitter cards) support alternative text for preview images. I want to be a good web citizen and implemented it right away.
-Unfortunately, I discovered that the alternative text d…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

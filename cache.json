@@ -706,6 +706,15 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "60bbd0a757509e2328e3d77b",
+          "author": "Assaf Arkin",
+          "description": "This week we got retro-gaming display technology, GitHub facade, 10x remote job, new editor at large, and a lockdown passion project.",
+          "link": "https://labnotes.org/weekend-reading-whos-your-study-influencer/",
+          "publishedOn": "2021-06-12T19:10:47.000Z",
+          "wordCount": 1128,
+          "title": "Weekend Reading — 📚 Who's your study influencer?"
+        },
+        {
           "id": "60b507628a05e833bcdafbdf",
           "author": "Assaf Arkin",
           "description": "This week we add a soundtrack to the progress bar, ask for that dashboard we’ll never use, play Traffic Light Hero, and pop a bubble.",
@@ -855,15 +864,6 @@
           "publishedOn": "2021-05-15T22:00:00.000Z",
           "wordCount": 439,
           "title": "How to import JSON files in ES modules (Node.js) (#snippet)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/how-to-define-open-graph-twitter-image-alt-text-and-why-it-might-not-matter/",
-          "author": null,
-          "description": "You know all these fancy link previews that you see on social media when people share articles and resources, right? These previews are based on various meta elements defined in your website's head. You can define the Twitter card layout using <meta property=\"twitter:card\" content=\"summary_large_image\">, specify the Facebook preview image with <meta property=\"og:image\" content=\"https://.../your-image.jpg\"/> and many more configuration options.\n\n\n\n\n          \n            \nRead more about the details in the documentation:\nthe Open Graph Protocol\nTwitter cards\nRecently I learned that the two standards (Open Graph and Twitter cards) support alternative text for preview images. I want to be a good web citizen and implemented it right away.\nUnfortunately, I discovered that the alternative text d…",
-          "link": "https://www.stefanjudis.com/today-i-learned/how-to-define-open-graph-twitter-image-alt-text-and-why-it-might-not-matter/",
-          "publishedOn": "2021-05-13T22:00:00.000Z",
-          "wordCount": 854,
-          "title": "How to define Open Graph / Twitter image alt text (and why it might not matter...) (#tilPost)"
         }
       ]
     }
