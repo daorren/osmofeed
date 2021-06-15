@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T00:20:39.192Z</updated>
+    <updated>2021-06-15T00:21:41.299Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[System Design Interview Tutorial – The Beginner&#x27;s Guide to System Design]]></title>
+        <id>60873d1fdd38b9088c2c0842</id>
+        <link href="https://www.freecodecamp.org/news/system-design-interview-practice-tutorial/"/>
+        <updated>2021-06-14T22:46:31.000Z</updated>
+        <summary type="html"><![CDATA[System Design is an important topic to understand if you want to advance further in your career as a software engineer. Even if you are just beginning your coding journey, it's a good idea to get a head start on learning about system design.  Early in your career you will]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Custom Pagination Component in React]]></title>
+        <id>60bce373acb62507dd1d9f19</id>
+        <link href="https://www.freecodecamp.org/news/build-a-custom-pagination-component-in-react/"/>
+        <updated>2021-06-14T22:39:00.000Z</updated>
+        <summary type="html"><![CDATA[We often work with web applications that need to fetch large amounts of data from a server through APIs and render it on the screen. For example, in a Social media application we fetch and render users' posts and comments. In an HR dashboard we display information about candidates who]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Roving tabindex Attribute Explained with Examples]]></title>
+        <id>60c3b862d3126007592d689b</id>
+        <link href="https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/"/>
+        <updated>2021-06-14T20:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever used the CSS order or direction properties? You've probably used them dozens of times, but did you realize that these properties will cause a disconnect between what's being displayed and what's actually in the DOM? Using the order property will create a disconnect between the visual presentation]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Backup Squarespace-Managed Styles using AWS Cloud]]></title>
+        <id>60c794e64dc1a607ed7b25ba</id>
+        <link href="https://www.freecodecamp.org/news/how-to-backup-squarespace-managed-styles-using-aws-cloud/"/>
+        <updated>2021-06-14T19:19:42.000Z</updated>
+        <summary type="html"><![CDATA[A while ago, I was doing side gig for a client who had a website hosted on Squarespace. They asked me to implement an advanced design for a page that wasn't possible with the site's current DIY tools. For an experienced and battle-tested web developer like me, this was a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Best African Language Datasets for Data Science Projects]]></title>
+        <id>60c4b35ed3126007592d71bc</id>
+        <link href="https://www.freecodecamp.org/news/african-language-datasets-for-data-science-projects/"/>
+        <updated>2021-06-14T18:37:44.000Z</updated>
+        <summary type="html"><![CDATA[Africa has over 2000 languages, but these languages are not well-represented in the existing Natural Language Processing ecosystem.  One challenge is the lack of useful African language datasets that we can use to solve different social and economic problems. In this article, I have compiled a list of African language]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graphene Superconductors May Be Less Exotic Than Physicists Hoped]]></title>
+        <id>https://www.quantamagazine.org/?p=105657</id>
+        <link href="https://www.quantamagazine.org/graphene-superconductors-may-be-less-exotic-than-physicists-hoped-20210614/"/>
+        <updated>2021-06-14T16:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Superconductivity has been discovered in graphene devices without any twists, suggesting the form of superconductivity in the material might be mundane after all.            
+The post Graphene Superconductors May Be Less Exotic Than Physicists Hoped first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Charlie Wood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #23 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-23/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-23/"/>
+        <updated>2021-06-12T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Web Weekly #23!
+
+Howdy friends! That was a busy week, wasn't it? It started strong with half of the internet going down. Luckily, these situations are rare, but I can't imagine the pressure of working on a bug or misconfiguration that affects Reddit, Twitter, and large parts of the internet. 😲
+On the bright side of things: I added a new character to my 404 page, ran a new 10km best time, and even made it to book a vaccination appointment. So it's been a good week.
+Before we get to web stuff, look at this cuteness overload! Did you ever wonder how a running duck sounds on different surfaces? Neither did I, but this video will show you, and it's adorable!
+
+          
+            
+This week's Web Weekly includes:
+Import assertions in JavaScript
+Image tools (online and in VS Code)
+…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — 📚 Who's your study influencer?]]></title>
         <id>60bbd0a757509e2328e3d77b</id>
@@ -993,162 +1075,6 @@ The post Physicists Identify the Engine Powering Black Hole Energy Beams first a
 Chore: Reorganize to monorepo with npm workspace.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.7.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1"/>
-        <updated>2021-05-16T02:33:58.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: static files were unnecessarily copied for custom templates.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.7.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0"/>
-        <updated>2021-05-16T01:42:24.000Z</updated>
-        <summary type="html"><![CDATA[Added: templating system. Demo | Source | Docs
-Chore: rendering logic refactoring. Adopting functional paradigm.
-Thank you @tianheg, @onnyyonn]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #19 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-19/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-19/"/>
-        <updated>2021-05-15T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Web Weekly #19!
-
-Hello friends! This week was exciting. I was invited to the "Mission Control" podcast, but more importantly, my tiny newsletter hit 1k subscribers! Thank you so much for reading along! 💙
-Before we jump into web stuff, are you up for something thrilling? Look at this MacBook in danger. I'm not spoiling what happens there, but I love how random it is. 🙈
-
-
-
-
-          
-            
-This week's Web Weekly includes:
-resources on successful open source
-a guide to ECMAscript modules in Node.js
-fit-content in CSS
-... and, as always, GitHub repositories, a new Tiny Helper and some music.
-Ready? Steady. Go!
-Don't yell at people that do open source
-
-
-
-
-
-          
-            
-I'm not doing much open source work these days, but I used to maintain one popular open source …]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS "inset" is supported across all major browsers (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/css-inset-is-supported-across-all-major-browsers/</id>
-        <link href="https://www.stefanjudis.com/notes/css-inset-is-supported-across-all-major-browsers/"/>
-        <updated>2021-05-15T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The CSS property inset is a new shorthand for top, right, bottom and left. Today I found out that Safari supports it starting with 14.1, which means that the CSS property is now supported across all major browsers. 🎉
-
-
-
-
-          
-            
-(The MDN data for Edge seems to be incorrect. I tested the current Edge and it worked fine.)
-If you want to learn what it's about, have a look at the #devsheet I tweeted a year ago.
-
-      
-        
-      
-    
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to start using all the aliases you set up (and forgot) (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/how-to-start-using-all-the-aliases-you-set-up-and-forgot/</id>
-        <link href="https://www.stefanjudis.com/notes/how-to-start-using-all-the-aliases-you-set-up-and-forgot/"/>
-        <updated>2021-05-15T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How many shell aliases do you have set up on your machine? I have set up quite a few general and git aliases in my config files and must admit that I still run npm install or git add because the aliases didn't make it into my muscle memory.
-The plugin alias-tips can help with that. It parses your commands and tells you to save some keystrokes and use the alias instead. It's beautiful!
-See it in action below. 👇
-
-      
-        
-      
-    
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to import JSON files in ES modules (Node.js) (#snippet)]]></title>
-        <id>https://www.stefanjudis.com/snippets/how-to-import-json-files-in-es-modules-node-js/</id>
-        <link href="https://www.stefanjudis.com/snippets/how-to-import-json-files-in-es-modules-node-js/"/>
-        <updated>2021-05-15T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ES modules are still reasonably new in Node.js land (they're stable since Node 14). Modules come with a built-in module system and features such as top-level await.
-I just read an informative post on ES modules by Pawel Grzybek and learned that you can't import JSON files in ES modules today. That's a real bummer because I'm pretty used to doing const data = require('./some-file.json') in Node.js.
-While it will be possible to import JSON from within modules eventually, the implementation is still behind a flag (--experimental-json-modules).
-This post includes ways to deal with JSON in ES modules today.
-Option 1: Read and parse JSON files yourself
-
-The Node.js documentation advises to use the fs module and do the work of reading the files and parsing it yourself.
-import { readFile } from 'fs/promises';
-const json = JSON.parse(
-  await readFile(
-    new URL('./some-file.json', import.meta.url)
-  )
-);
-
-Option 2: Leverage the CommonJS require function to load JSON files
-
-The documentation also states that you can use createRequire to load JSON files. This is the way Pawel advises in his blog post.
-createRequire allows you to construct a CommonJS require function so that you can use typical CommonJS features in Node.js EcmaScript modules.
-import { createRequire } from "module";
-const require = createRequire(import.meta.url);
-const data = require("./data.json");
-
-How should you load JSON files?
-
-I don't know. 🤷‍♂️ Neither option feels good, and I'll probably stick to the first option because it's more understandable.
-Let's see when stable JSON modules land in Node.js!
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — 💿 When the internet came on a CD]]></title>
-        <id>6096e98e9af1f92127d87753</id>
-        <link href="https://labnotes.org/weekend-reading-when-the-internet-came-on-a-cd/"/>
-        <updated>2021-05-15T21:46:44.000Z</updated>
-        <summary type="html"><![CDATA[This week we ride downhill, chill in the lo-fi cafe, feel old, dress to impress, and watch the trash.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
