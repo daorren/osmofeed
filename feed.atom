@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T00:21:48.279Z</updated>
+    <updated>2021-06-17T00:20:16.737Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Split – How to Split a String into an Array in JS]]></title>
+        <id>60c088e5d3126007592d56f1</id>
+        <link href="https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/"/>
+        <updated>2021-06-16T21:19:08.000Z</updated>
+        <summary type="html"><![CDATA[In general, a string represents a sequence of characters in a programming language.  Let's look at an example of a string created using a sequence of characters, "Yes, You Can DO It!". In JavaScript, we can create a string in a couple of ways: Using the string literal as a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skewness and Kurtosis – Positively Skewed and Negatively Skewed Distributions in Statistics Explained]]></title>
+        <id>60b8cb0aacb62507dd1d82ea</id>
+        <link href="https://www.freecodecamp.org/news/skewness-and-kurtosis-in-statistics-explained/"/>
+        <updated>2021-06-16T20:56:49.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll explain two important concepts in statistics: skewness and kurtosis. And don't worry – you won't need to know very much math to understand these concepts and learn how to apply them. What are Density Curves?Let's first talk a bit about density curves, as skewness and kurtosis]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Better React Apps with These Simple Tricks]]></title>
+        <id>60ca25704dc1a607ed7b408c</id>
+        <link href="https://www.freecodecamp.org/news/build-better-react-apps-with-these-tricks/"/>
+        <updated>2021-06-16T20:55:03.000Z</updated>
+        <summary type="html"><![CDATA[Here's a list of amazing tricks that you can use to improve your React applications instantly. These tips will not only make your code cleaner and more reliable, but they also aim to make your development experience easier and overall more enjoyable.  Give these techniques a try in your React]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teach Yourself Data Analytics in 30 Days]]></title>
+        <id>60ca30af4dc1a607ed7b4197</id>
+        <link href="https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/"/>
+        <updated>2021-06-16T17:19:31.000Z</updated>
+        <summary type="html"><![CDATA[You can learn the basics of Data Analytics with 30 days of practice.  We just released a Data Analytics course on the freeCodeCamp.org YouTube channel. The course includes a 40-minute video, as well as a website and Jupyter notebooks. If you follow the plan laid out in these course]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Animals Color Themselves With Nanoscale Structures]]></title>
+        <id>https://www.quantamagazine.org/?p=105672</id>
+        <link href="https://www.quantamagazine.org/how-blue-animals-color-themselves-with-nanostructures-20210616/"/>
+        <updated>2021-06-16T14:59:03.000Z</updated>
+        <summary type="html"><![CDATA[Animals sculpt the optical properties of their tissues at the nanoscale to give themselves “structural colors.” New work is piecing together how they do it.            
+The post How Animals Color Themselves With Nanoscale Structures first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Viviane Callier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineering Course for Beginners]]></title>
         <id>60c91b2b4dc1a607ed7b389a</id>

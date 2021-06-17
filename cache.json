@@ -49,6 +49,42 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60c088e5d3126007592d56f1",
+          "author": null,
+          "description": "In general, a string represents a sequence of characters in a programming language.  Let's look at an example of a string created using a sequence of characters, \"Yes, You Can DO It!\". In JavaScript, we can create a string in a couple of ways: Using the string literal as a",
+          "link": "https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/",
+          "publishedOn": "2021-06-16T21:19:08.000Z",
+          "wordCount": 1696,
+          "title": "JavaScript Split – How to Split a String into an Array in JS"
+        },
+        {
+          "id": "60b8cb0aacb62507dd1d82ea",
+          "author": null,
+          "description": "In this article, I'll explain two important concepts in statistics: skewness and kurtosis. And don't worry – you won't need to know very much math to understand these concepts and learn how to apply them. What are Density Curves?Let's first talk a bit about density curves, as skewness and kurtosis",
+          "link": "https://www.freecodecamp.org/news/skewness-and-kurtosis-in-statistics-explained/",
+          "publishedOn": "2021-06-16T20:56:49.000Z",
+          "wordCount": 2502,
+          "title": "Skewness and Kurtosis – Positively Skewed and Negatively Skewed Distributions in Statistics Explained"
+        },
+        {
+          "id": "60ca25704dc1a607ed7b408c",
+          "author": null,
+          "description": "Here's a list of amazing tricks that you can use to improve your React applications instantly. These tips will not only make your code cleaner and more reliable, but they also aim to make your development experience easier and overall more enjoyable.  Give these techniques a try in your React",
+          "link": "https://www.freecodecamp.org/news/build-better-react-apps-with-these-tricks/",
+          "publishedOn": "2021-06-16T20:55:03.000Z",
+          "wordCount": 1525,
+          "title": "Build Better React Apps with These Simple Tricks"
+        },
+        {
+          "id": "60ca30af4dc1a607ed7b4197",
+          "author": null,
+          "description": "You can learn the basics of Data Analytics with 30 days of practice.  We just released a Data Analytics course on the freeCodeCamp.org YouTube channel. The course includes a 40-minute video, as well as a website and Jupyter notebooks. If you follow the plan laid out in these course",
+          "link": "https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/",
+          "publishedOn": "2021-06-16T17:19:31.000Z",
+          "wordCount": 411,
+          "title": "Teach Yourself Data Analytics in 30 Days"
+        },
+        {
           "id": "60c91b2b4dc1a607ed7b389a",
           "author": null,
           "description": "DevOps is becoming an in-demand role at many software companies. We just released a DevOps Engineering course on the freeCodeCamp.org YouTube channel. Learn all about DevOps in this comprehensive course for beginners with three technical tutorials. Colin Chartier created this course. He is the co-founder and CEO at LayerCI.",
@@ -658,6 +694,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=105672",
+          "author": "Viviane Callier",
+          "description": "Animals sculpt the optical properties of their tissues at the nanoscale to give themselves “structural colors.” New work is piecing together how they do it.            \nThe post How Animals Color Themselves With Nanoscale Structures first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-blue-animals-color-themselves-with-nanostructures-20210616/",
+          "publishedOn": "2021-06-16T14:59:03.000Z",
+          "wordCount": null,
+          "title": "How Animals Color Themselves With Nanoscale Structures",
+          "itunes": {}
+        },
         {
           "id": "https://www.quantamagazine.org/?p=105664",
           "author": "Adam Mann",
