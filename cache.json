@@ -49,6 +49,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60c2aa56d3126007592d6226",
+          "author": null,
+          "description": "What is the Azure AI Fundamentals Certification?The Azure AI Fundamentals Certification is for those seeking a Machine Learning role such as AI Engineer or Data Scientist. In the last decade companies have been collecting vast amount of data surrounding their service and product offerings. The successful companies of the",
+          "link": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/",
+          "publishedOn": "2021-06-17T12:02:47.000Z",
+          "wordCount": 566,
+          "title": "Azure AI Fundamentals Certification (AI-900) – Pass the Exam With This Free 4 Hour Course"
+        },
+        {
+          "id": "60c88bbc4dc1a607ed7b2ffa",
+          "author": null,
+          "description": "Bookmarklets are browser bookmarks that execute JavaScript instead of opening a webpage. They're also known as bookmark applets, favlets, or JavaScript bookmarks. Bookmarklets are natively available in all major browsers, including Mozilla Firefox and Chromium-based browsers like Chrome or Brave. Scripting with JavaScriptLearning how to write scripts provides many benefits,",
+          "link": "https://www.freecodecamp.org/news/what-are-bookmarklets/",
+          "publishedOn": "2021-06-17T00:53:04.000Z",
+          "wordCount": 1966,
+          "title": "What are Bookmarklets? How to Use JavaScript to Make a Bookmarklet in Chromium and Firefox"
+        },
+        {
           "id": "60c088e5d3126007592d56f1",
           "author": null,
           "description": "In general, a string represents a sequence of characters in a programming language.  Let's look at an example of a string created using a sequence of characters, \"Yes, You Can DO It!\". In JavaScript, we can create a string in a couple of ways: Using the string literal as a",
@@ -694,6 +712,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=105679",
+          "author": "Charlie Wood",
+          "description": "In three towering papers, a team of mathematicians has worked out the details of Liouville quantum field theory, a two-dimensional model of quantum gravity.            \nThe post Mathematicians Prove 2D Version of Quantum Gravity Really Works first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/mathematicians-prove-2d-version-of-quantum-gravity-really-works-20210617/",
+          "publishedOn": "2021-06-17T13:56:28.000Z",
+          "wordCount": null,
+          "title": "Mathematicians Prove 2D Version of Quantum Gravity Really Works",
+          "itunes": {}
+        },
         {
           "id": "https://www.quantamagazine.org/?p=105672",
           "author": "Viviane Callier",
