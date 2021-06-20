@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T00:21:23.431Z</updated>
+    <updated>2021-06-20T00:22:41.630Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 📥 Integration Test Email #1]]></title>
+        <id>60c5071510f7da66e5e25f56</id>
+        <link href="https://labnotes.org/weekend-reading-integration-test-email-1/"/>
+        <updated>2021-06-19T22:42:03.000Z</updated>
+        <summary type="html"><![CDATA[This week we check our spam folder, witness a passing integration test, swoop and poop, and a trip to Waffle House.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TCP vs UDP – Which Protocol is Faster?]]></title>
         <id>60b46dbd11ffb70827ef9dea</id>
@@ -1256,17 +1266,6 @@ Run source ~/.zshrc/source ~/.bashrc or open a new terminal session to load the 
         <summary type="html"><![CDATA[This week we lead by introversion, anticipate a blog comeback, count sandwiches, and if you're over 30 you're most likely to injure yourself when you sleep.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physicists Identify the Engine Powering Black Hole Energy Beams]]></title>
-        <id>https://www.quantamagazine.org/?p=104485</id>
-        <link href="https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/"/>
-        <updated>2021-05-20T16:42:04.000Z</updated>
-        <summary type="html"><![CDATA[Supermassive black holes emit jets of white-hot plasma that stretch thousands of light-years across the cosmos. For the first time, researchers have identified what’s creating these jets.            
-The post Physicists Identify the Engine Powering Black Hole Energy Beams first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Natalie Wolchover</name>
         </author>
     </entry>
 </feed>
