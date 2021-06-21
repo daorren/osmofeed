@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-20T00:22:41.630Z</updated>
+    <updated>2021-06-21T00:21:40.128Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -14,6 +14,38 @@
         <summary type="html"><![CDATA[This week we check our spam folder, witness a passing integration test, swoop and poop, and a trip to Waffle House.]]></summary>
         <author>
             <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #24 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-24/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-24/"/>
+        <updated>2021-06-19T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Web Weekly #24!
+
+Hola friends!
+Oh well... Let me be honest, my week was very long; I felt super low, binge-watched Netflix the entire weekend, and the 30+°C here in Berlin didn't help. It was pretty challenging to sit down and write this week's newsletter (but I couldn't break the 24-week streak 🙈).
+I hope you had a better week and are getting ready for the summer. We all deserve it!
+Before we jump into web stuff, here's a pupper from my hidden collection. It's just too cute how she leaves the scene. 😊
+
+
+          
+            
+This week's Web Weekly includes:
+GraphQL terms explained
+CSS overscroll-behavior
+Error cause in JavaScript
+... and, as always, GitHub repositories, a new Tiny Helper and some music.
+Ready? Steady. Go!
+What's holding you back from being confident?
+
+
+
+
+
+ …]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
