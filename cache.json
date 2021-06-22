@@ -22,24 +22,6 @@
           "publishedOn": "2021-05-26T06:02:55.000Z",
           "wordCount": 417,
           "title": "v1.9.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1",
-          "author": null,
-          "description": "Fixed: UnhandledPromiseRejectionWarning: Error: At least one option must be a string",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1",
-          "publishedOn": "2021-05-23T05:40:12.000Z",
-          "wordCount": 278,
-          "title": "v1.8.1"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0",
-          "author": null,
-          "description": "Changed: Smart summary truncation. When there is no dedicated summary (only Atom feed has it, and many sites don't use it) from the source, we check if the content/description (Both Atom and RSS) field is long enough to be full text. If so, it will be truncated into a \"pseudo\" summary. If not, we assume the source used the content field as summary, and it will be displayed in full length.\nThank you: @LooperXX.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0",
-          "publishedOn": "2021-05-23T05:12:08.000Z",
-          "wordCount": 341,
-          "title": "v1.8.0"
         }
       ]
     },
@@ -48,6 +30,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60c81f774dc1a607ed7b2f66",
+          "author": null,
+          "description": "I've been using Vim since the first year I started coding. For all the IDEs/editors that I have used, the Vim plugin is always the very first plugin that I install. I know that Vim can be challenging to work in for people who are not familiar with it.",
+          "link": "https://www.freecodecamp.org/news/how-to-exit-vim/",
+          "publishedOn": "2021-06-21T21:52:43.000Z",
+          "wordCount": 1785,
+          "title": "How to Exit Vim – Vim Save and Quit Command Tutorial"
+        },
+        {
+          "id": "60bce157acb62507dd1d9f11",
+          "author": null,
+          "description": "When you're working with Python lists, you often need to combine data from multiple lists. So how do you do that? In this tutorial, we'll see the different ways you can combine data from multiple lists. We'll also learn how the list methods append() and extend() work through simple examples.",
+          "link": "https://www.freecodecamp.org/news/python-list-methods-append-vs-extend/",
+          "publishedOn": "2021-06-21T21:25:11.000Z",
+          "wordCount": 1085,
+          "title": "Python List Methods – append( ) vs extend( ) in Python Explained with Code Examples"
+        },
+        {
+          "id": "60cccd6e4dc1a607ed7b4f81",
+          "author": null,
+          "description": "Redux is a state management library for front end applications. Developers commonly use it with React through the react-redux package, but it can also stand alone – so you can use it in any front end framework or library, including Vanilla JavaScript.  Redux can really be intimidating at first. It might",
+          "link": "https://www.freecodecamp.org/news/learn-redux-by-making-a-counter-application/",
+          "publishedOn": "2021-06-21T21:01:42.000Z",
+          "wordCount": 1659,
+          "title": "Learn Redux by Making a Counter Application"
+        },
+        {
+          "id": "60d0d0ff6e1a1407b6b0a506",
+          "author": null,
+          "description": "Today you're going to create one of the most important apps you can build for yourself: your developer portfolio. Every React developer or web developer in general needs to be able to show off what they can do to any potential client or employer. That's exactly what we're going to",
+          "link": "https://www.freecodecamp.org/news/build-portfolio-website-react/",
+          "publishedOn": "2021-06-21T18:15:53.000Z",
+          "wordCount": 3729,
+          "title": "How to Build a Portfolio Website with React"
+        },
+        {
+          "id": "60cda7104dc1a607ed7b5588",
+          "author": null,
+          "description": "Figma is a powerful design tool that helps you to create anything: websites, applications, logos, and much more. By learning to use Figma, you'll take your first steps into User Interface Design and and User Experience Design. These skills are essential for building a great portfolio for yourself and potentially",
+          "link": "https://www.freecodecamp.org/news/figma-crash-course/",
+          "publishedOn": "2021-06-21T17:52:21.000Z",
+          "wordCount": 1194,
+          "title": "What is Figma? A Design Crash Course [2021 Tutorial]"
+        },
+        {
+          "id": "60a55b37906c5207e3a7ea78",
+          "author": null,
+          "description": "But where do you store your application's content? Storing the content on the blockchain would be expensive and inefficient. Your blockchain application needs decentralized storage!",
+          "link": "https://www.freecodecamp.org/news/technical-guide-to-ipfs-decentralized-storage-of-web3/",
+          "publishedOn": "2021-06-21T16:38:36.000Z",
+          "wordCount": 3575,
+          "title": "A Technical Guide to IPFS – the Decentralized Storage of Web3"
+        },
+        {
+          "id": "6063b9e19618b008528a9d9a",
+          "author": null,
+          "description": "Today we're gonna learn everything you need to know about the CSS position property along with examples. Let's get started 🎖️ Table of contents What is CSS Position Property?What is the Static Position in CSS?What are the Relative and Absolute Positions in CSS?What is the Fixed Position in",
+          "link": "https://www.freecodecamp.org/news/css-position-property-explained/",
+          "publishedOn": "2021-06-21T16:36:14.000Z",
+          "wordCount": 1153,
+          "title": "How the CSS Position Property Works – Explained with Code Examples"
+        },
         {
           "id": "60b46dbd11ffb70827ef9dea",
           "author": null,
@@ -740,6 +785,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=105906",
+          "author": "Jordana Cepelewicz",
+          "description": "Researchers have finally seen how some smell receptors bind to odor molecules. The work yields new insights into one of the most mysterious and versatile senses.            \nThe post Secret Workings of Smell Receptors Revealed for First Time first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/secret-workings-of-smell-receptors-revealed-for-first-time-20210621/",
+          "publishedOn": "2021-06-21T15:39:02.000Z",
+          "wordCount": null,
+          "title": "Secret Workings of Smell Receptors Revealed for First Time",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=105679",
           "author": "Charlie Wood",
           "description": "In three towering papers, a team of mathematicians has worked out the details of Liouville quantum field theory, a two-dimensional model of quantum gravity.            \nThe post Mathematicians Prove 2D Version of Quantum Gravity Really Works first appeared on Quanta Magazine",
@@ -941,15 +996,6 @@
           "publishedOn": "2021-05-29T20:41:21.000Z",
           "wordCount": 1060,
           "title": "Weekend Reading — 😎 Summer gonna be crazzzyy"
-        },
-        {
-          "id": "60a041b7b773846ea8801c67",
-          "author": "Assaf Arkin",
-          "description": "This week we lead by introversion, anticipate a blog comeback, count sandwiches, and if you're over 30 you're most likely to injure yourself when you sleep.",
-          "link": "https://labnotes.org/weekend-reading-normalize-relational-databases/",
-          "publishedOn": "2021-05-22T19:18:40.000Z",
-          "wordCount": 1543,
-          "title": "Weekend Reading — Normalize relational databases"
         }
       ]
     },
@@ -1038,15 +1084,6 @@
           "publishedOn": "2021-05-23T22:00:00.000Z",
           "wordCount": 765,
           "title": "How parameter expansion helps to not accidentally delete all the files on your machine (#tilPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/a-custom-dev-command-with-auto-completion/",
-          "author": null,
-          "description": "I went into the rabbit hole of writing shell scripting today. 🙈 The goal: saving keystrokes and manually ran commands when starting to work on a project.\nHere's the result. 👇\nThe video above shows a custom dev command that:\nnavigates into a project\nruns npm run dev\nopens VS Code\nThe exciting part is that it supports auto-completion to pass paths to projects with a working npm run dev command quickly.\nA shell function to run multiple commands\n\nTo define a custom shell function that runs various commands add the following lines to your .zshrc or .bashrc.\nfunction dev() {\n  echo \"Running 'npm run dev' in $1 ...\"\n  cd ~/Projects/\"$1\" || return\n  code .\n  npm run dev\n}\n\nRun source ~/.zshrc/source ~/.bashrc or open a new terminal session to load the new configuration. Tada!!! You now have a ne…",
-          "link": "https://www.stefanjudis.com/snippets/a-custom-dev-command-with-auto-completion/",
-          "publishedOn": "2021-05-22T22:00:00.000Z",
-          "wordCount": 824,
-          "title": "A custom \"dev\" command with auto-completion (#snippet)"
         }
       ]
     }
