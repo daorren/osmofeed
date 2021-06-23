@@ -31,6 +31,42 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60d2323d6e1a1407b6b0ac4f",
+          "author": null,
+          "description": "Web scraping lets you collect data from web pages across the internet. It's also called web crawling or web data extraction.  PHP is a widely used back-end scripting language for creating dynamic websites and web applications. And you can implement a web scraper using plain PHP code.  But since we",
+          "link": "https://www.freecodecamp.org/news/web-scraping-with-php-crawl-web-pages/",
+          "publishedOn": "2021-06-22T21:11:53.000Z",
+          "wordCount": 2770,
+          "title": "Web Scraping with PHP – How to Crawl Web Pages Using Open Source Tools"
+        },
+        {
+          "id": "60cac8ff4dc1a607ed7b4592",
+          "author": null,
+          "description": "There’s a special syntax you can use in JavaScript that makes working with promises easier. It's called “async/await\", and it’s surprisingly straightforward to understand and use.  In this article, we'll discuss:  What are asynchronus functions? How promises work in JavaScript Async/Await basics How to use",
+          "link": "https://www.freecodecamp.org/news/how-to-use-async-await-write-better-javascript/",
+          "publishedOn": "2021-06-22T16:24:37.000Z",
+          "wordCount": 1432,
+          "title": "How to Use Async/Await to Write Better JavaScript Code"
+        },
+        {
+          "id": "60c13e71d3126007592d5be2",
+          "author": null,
+          "description": "The 100 Days of Code challenge is very popular among new coders and developers looking to level up their skills. It's so popular that our Discord server has an entire channel dedicated to it.  By popular demand, we recently built a Discord bot that helps people track their progress in",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-100-days-of-code-bot-for-discord-using-typescript-and-mongodb/",
+          "publishedOn": "2021-06-22T16:20:36.000Z",
+          "wordCount": 7385,
+          "title": "How to Use TypeScript and MongoDB to Build a 100 Days of Code Discord Bot"
+        },
+        {
+          "id": "60cfff5a4dc1a607ed7b5e58",
+          "author": null,
+          "description": "Do you have a story idea that you'd like to turn into a novel? How about adding visual appeal and interactivity to that novel?  A Visual Novel might be the game genre you are looking for. And this tutorial is here to help set you up in 10 minutes, with",
+          "link": "https://www.freecodecamp.org/news/use-python-to-create-a-visual-novel/",
+          "publishedOn": "2021-06-22T16:18:29.000Z",
+          "wordCount": 1611,
+          "title": "How to Use Python to Create a Visual Novel Game in 10 Minutes"
+        },
+        {
           "id": "60c81f774dc1a607ed7b2f66",
           "author": null,
           "description": "I've been using Vim since the first year I started coding. For all the IDEs/editors that I have used, the Vim plugin is always the very first plugin that I install. I know that Vim can be challenging to work in for people who are not familiar with it.",
@@ -785,6 +821,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=105915",
+          "author": "Robin George Andrews",
+          "description": "Jupiter and Saturn should be freezing cold. Instead, they’re hot. Researchers now know why.            \nThe post Gas Giants’ Energy Crisis Solved After 50 Years first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/cassini-data-solves-jupiter-and-saturns-energy-mystery-20210622/",
+          "publishedOn": "2021-06-22T15:10:55.000Z",
+          "wordCount": null,
+          "title": "Gas Giants’ Energy Crisis Solved After 50 Years",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=105906",
           "author": "Jordana Cepelewicz",
           "description": "Researchers have finally seen how some smell receptors bind to odor molecules. The work yields new insights into one of the most mysterious and versatile senses.            \nThe post Secret Workings of Smell Receptors Revealed for First Time first appeared on Quanta Magazine",
@@ -1066,24 +1112,6 @@
           "publishedOn": "2021-05-30T22:00:00.000Z",
           "wordCount": 476,
           "title": "How to add a directory but ignore included files in git (#snippet)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-20/",
-          "author": null,
-          "description": "Welcome to Web Weekly #20!\n\nHello friends! Do you remember last week? I was so proud of sending this tiny newsletter to 1000 people for the first time. In the previous seven days, 200 more people signed up. 😲 I'm so grateful and excited to have you all read along! A big welcome to all the new subscribers!\nBefore we jump into web stuff, let me share with you what made me laugh this week. Check out this URL lengthener (yes, you read that right!): the idea, the URL, the wording... I love everything about this random project. 🙈\n\n\n          \n            \nThis week's Web Weekly includes:\na free live-caption service\nautomation with Puppeteer\nNode.js running natively in the browser\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nReady? Steady. Go!\nA tool to find the RS…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-20/",
-          "publishedOn": "2021-05-23T22:00:00.000Z",
-          "wordCount": 1254,
-          "title": "Web Weekly #20 (#blogPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/how-parameter-expansion-helps-to-not-delete-everything/",
-          "author": null,
-          "description": "While tweaking my dotfiles and writing some auto-completion shell scripts, I almost got myself into trouble.\nThe script in question included the following lines:\nTARGET_DIR=\"plugins\"\nrm -rf \"$TARGET_DIR/\"\n\nYou probably know the situation. You're trying to develop a shell script. It won't be pretty but hopefully gets the job done. You google how to use an if or how to run a loop. You're probably frustrated (I was at least), and you don't realize that your script could mess with your machine's file system because you're fiddling around with rm -rf.\nYou always have to be very careful when using rm -rf! Things can go particularly wrong when you use rm in combination with variables. Let's imaging my fat fingers comment out the first line and I run this script. My rm -rf plugins/ command just be…",
-          "link": "https://www.stefanjudis.com/today-i-learned/how-parameter-expansion-helps-to-not-delete-everything/",
-          "publishedOn": "2021-05-23T22:00:00.000Z",
-          "wordCount": 765,
-          "title": "How parameter expansion helps to not accidentally delete all the files on your machine (#tilPost)"
         }
       ]
     }

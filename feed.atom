@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T00:20:31.542Z</updated>
+    <updated>2021-06-23T00:20:58.726Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Scraping with PHP – How to Crawl Web Pages Using Open Source Tools]]></title>
+        <id>60d2323d6e1a1407b6b0ac4f</id>
+        <link href="https://www.freecodecamp.org/news/web-scraping-with-php-crawl-web-pages/"/>
+        <updated>2021-06-22T21:11:53.000Z</updated>
+        <summary type="html"><![CDATA[Web scraping lets you collect data from web pages across the internet. It's also called web crawling or web data extraction.  PHP is a widely used back-end scripting language for creating dynamic websites and web applications. And you can implement a web scraper using plain PHP code.  But since we]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Async/Await to Write Better JavaScript Code]]></title>
+        <id>60cac8ff4dc1a607ed7b4592</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-async-await-write-better-javascript/"/>
+        <updated>2021-06-22T16:24:37.000Z</updated>
+        <summary type="html"><![CDATA[There’s a special syntax you can use in JavaScript that makes working with promises easier. It's called “async/await", and it’s surprisingly straightforward to understand and use.  In this article, we'll discuss:  What are asynchronus functions? How promises work in JavaScript Async/Await basics How to use]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use TypeScript and MongoDB to Build a 100 Days of Code Discord Bot]]></title>
+        <id>60c13e71d3126007592d5be2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-100-days-of-code-bot-for-discord-using-typescript-and-mongodb/"/>
+        <updated>2021-06-22T16:20:36.000Z</updated>
+        <summary type="html"><![CDATA[The 100 Days of Code challenge is very popular among new coders and developers looking to level up their skills. It's so popular that our Discord server has an entire channel dedicated to it.  By popular demand, we recently built a Discord bot that helps people track their progress in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Python to Create a Visual Novel Game in 10 Minutes]]></title>
+        <id>60cfff5a4dc1a607ed7b5e58</id>
+        <link href="https://www.freecodecamp.org/news/use-python-to-create-a-visual-novel/"/>
+        <updated>2021-06-22T16:18:29.000Z</updated>
+        <summary type="html"><![CDATA[Do you have a story idea that you'd like to turn into a novel? How about adding visual appeal and interactivity to that novel?  A Visual Novel might be the game genre you are looking for. And this tutorial is here to help set you up in 10 minutes, with]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gas Giants’ Energy Crisis Solved After 50 Years]]></title>
+        <id>https://www.quantamagazine.org/?p=105915</id>
+        <link href="https://www.quantamagazine.org/cassini-data-solves-jupiter-and-saturns-energy-mystery-20210622/"/>
+        <updated>2021-06-22T15:10:55.000Z</updated>
+        <summary type="html"><![CDATA[Jupiter and Saturn should be freezing cold. Instead, they’re hot. Researchers now know why.            
+The post Gas Giants’ Energy Crisis Solved After 50 Years first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Robin George Andrews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Exit Vim – Vim Save and Quit Command Tutorial]]></title>
         <id>60c81f774dc1a607ed7b2f66</id>
@@ -1281,46 +1332,6 @@ The post Mathematicians Find Long-Sought Building Blocks for Special Polynomials
 The post Radioactivity May Fuel Life Deep Underground and Inside Other Worlds first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Jordana Cepelewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #20 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-20/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-20/"/>
-        <updated>2021-05-23T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Web Weekly #20!
-
-Hello friends! Do you remember last week? I was so proud of sending this tiny newsletter to 1000 people for the first time. In the previous seven days, 200 more people signed up. 😲 I'm so grateful and excited to have you all read along! A big welcome to all the new subscribers!
-Before we jump into web stuff, let me share with you what made me laugh this week. Check out this URL lengthener (yes, you read that right!): the idea, the URL, the wording... I love everything about this random project. 🙈
-
-
-          
-            
-This week's Web Weekly includes:
-a free live-caption service
-automation with Puppeteer
-Node.js running natively in the browser
-... and, as always, GitHub repositories, a new Tiny Helper and some music.
-Ready? Steady. Go!
-A tool to find the RS…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How parameter expansion helps to not accidentally delete all the files on your machine (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/how-parameter-expansion-helps-to-not-delete-everything/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/how-parameter-expansion-helps-to-not-delete-everything/"/>
-        <updated>2021-05-23T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[While tweaking my dotfiles and writing some auto-completion shell scripts, I almost got myself into trouble.
-The script in question included the following lines:
-TARGET_DIR="plugins"
-rm -rf "$TARGET_DIR/"
-
-You probably know the situation. You're trying to develop a shell script. It won't be pretty but hopefully gets the job done. You google how to use an if or how to run a loop. You're probably frustrated (I was at least), and you don't realize that your script could mess with your machine's file system because you're fiddling around with rm -rf.
-You always have to be very careful when using rm -rf! Things can go particularly wrong when you use rm in combination with variables. Let's imaging my fat fingers comment out the first line and I run this script. My rm -rf plugins/ command just be…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
