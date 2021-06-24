@@ -6,6 +6,15 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
+          "author": null,
+          "description": "Added: support an experimental template for YouTube feed 📺 Demo | Source\n\nAggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>\nVideos are embedded via iframe and loading accelerated by youtube-lite-embed\nAds are reduced thanks to YouTube's policy for embedded videos 🙃\nWorks on mobile devices with butter smooth horizontal scroll.\nCaveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.\nChanged: Default HTML template meta tag adjusted to match convention\nChanged: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)\nThank you @PiyushLosalka",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
+          "publishedOn": "2021-06-23T05:57:59.000Z",
+          "wordCount": 368,
+          "title": "v1.11.0"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2",
           "author": null,
           "description": "Added: testing and CI/CD workflows",
@@ -30,6 +39,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "605abca5687d62084bf6b7cd",
+          "author": null,
+          "description": "Data Analysis is the process of exploring, investigating, and gathering insights from data using statistical measures and visualizations.  The objective of data analysis is to develop an understanding of data by uncovering trends, relationships, and patterns. Data analysis is both a science and an art. On the one hand it",
+          "link": "https://www.freecodecamp.org/news/exploratory-data-analysis-with-numpy-pandas-matplotlib-seaborn/",
+          "publishedOn": "2021-06-24T00:11:01.000Z",
+          "wordCount": 8365,
+          "title": "What is Data Analysis? How to Visualize Data with Python, Numpy, Pandas, Matplotlib &amp; Seaborn Tutorial"
+        },
+        {
+          "id": "6072ffd4d5756f080ba98b27",
+          "author": null,
+          "description": "Over the last few years, microservices have gone from an overhyped buzzword to something you should understand as a software engineer.  According to an O'Reilly developer survey in 2020:  61% of companies have been using microservices in the last year29% say at least half of their company systems are built",
+          "link": "https://www.freecodecamp.org/news/microservices-architecture-for-humans/",
+          "publishedOn": "2021-06-23T21:52:08.000Z",
+          "wordCount": 2975,
+          "title": "Microservices Architecture – Explained in Plain English"
+        },
+        {
+          "id": "60d36eb66e1a1407b6b0b16d",
+          "author": null,
+          "description": ".NET is a popular software framework developed by Microsoft. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a REST API end-to-end from scratch using the latest .NET 5 innovations and Visual Studio Code. The course uses the C# programming language.",
+          "link": "https://www.freecodecamp.org/news/create-a-rest-api-with-dot-net-5-and-c-sharp/",
+          "publishedOn": "2021-06-23T18:08:14.000Z",
+          "wordCount": 60401,
+          "title": "Create a REST API with .NET 5 and  C#"
+        },
+        {
+          "id": "60a406bd906c5207e3a7dfcb",
+          "author": null,
+          "description": "In this article you will learn how to create a great technical video course. I run the freeCodeCamp.org YouTube channel where we post technical courses from a variety of contributors. Video courses that follow the guidelines in this article are often a good fit for freeCodeCamp's channel. How to",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-great-technical-course/",
+          "publishedOn": "2021-06-23T17:19:24.000Z",
+          "wordCount": 2330,
+          "title": "How to Create a Great Technical Course"
+        },
         {
           "id": "60d2323d6e1a1407b6b0ac4f",
           "author": null,
@@ -821,6 +866,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=105922",
+          "author": "John Pavlus",
+          "description": "For all their triumphs, AI systems can’t seem to generalize the concepts of “same” and “different.” Without that, researchers worry, the quest to create truly intelligent machines may be hopeless.            \nThe post Same or Different? The Question Flummoxes Neural Networks first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/same-or-different-ai-cant-tell-20210623/",
+          "publishedOn": "2021-06-23T14:32:24.000Z",
+          "wordCount": null,
+          "title": "Same or Different? The Question Flummoxes Neural Networks",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=105915",
           "author": "Robin George Andrews",
           "description": "Jupiter and Saturn should be freezing cold. Instead, they’re hot. Researchers now know why.            \nThe post Gas Giants’ Energy Crisis Solved After 50 Years first appeared on Quanta Magazine",
@@ -989,16 +1044,6 @@
           "wordCount": null,
           "title": "Mathematicians Find Long-Sought Building Blocks for Special Polynomials",
           "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=104743",
-          "author": "Jordana Cepelewicz",
-          "description": "New work suggests that the radiolytic splitting of water supports giant subsurface ecosystems of life on Earth — and could do it elsewhere, too.            \nThe post Radioactivity May Fuel Life Deep Underground and Inside Other Worlds first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/",
-          "publishedOn": "2021-05-24T15:50:23.000Z",
-          "wordCount": null,
-          "title": "Radioactivity May Fuel Life Deep Underground and Inside Other Worlds",
-          "itunes": {}
         }
       ]
     },
@@ -1116,5 +1161,5 @@
       ]
     }
   ],
-  "cliVersion": "1.10.2"
+  "cliVersion": "1.11.0"
 }

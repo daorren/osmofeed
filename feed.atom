@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T00:20:58.726Z</updated>
-    <generator>osmosfeed 1.10.2</generator>
+    <updated>2021-06-24T00:16:18.311Z</updated>
+    <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Data Analysis? How to Visualize Data with Python, Numpy, Pandas, Matplotlib &amp; Seaborn Tutorial]]></title>
+        <id>605abca5687d62084bf6b7cd</id>
+        <link href="https://www.freecodecamp.org/news/exploratory-data-analysis-with-numpy-pandas-matplotlib-seaborn/"/>
+        <updated>2021-06-24T00:11:01.000Z</updated>
+        <summary type="html"><![CDATA[Data Analysis is the process of exploring, investigating, and gathering insights from data using statistical measures and visualizations.  The objective of data analysis is to develop an understanding of data by uncovering trends, relationships, and patterns. Data analysis is both a science and an art. On the one hand it]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microservices Architecture – Explained in Plain English]]></title>
+        <id>6072ffd4d5756f080ba98b27</id>
+        <link href="https://www.freecodecamp.org/news/microservices-architecture-for-humans/"/>
+        <updated>2021-06-23T21:52:08.000Z</updated>
+        <summary type="html"><![CDATA[Over the last few years, microservices have gone from an overhyped buzzword to something you should understand as a software engineer.  According to an O'Reilly developer survey in 2020:  61% of companies have been using microservices in the last year29% say at least half of their company systems are built]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a REST API with .NET 5 and  C#]]></title>
+        <id>60d36eb66e1a1407b6b0b16d</id>
+        <link href="https://www.freecodecamp.org/news/create-a-rest-api-with-dot-net-5-and-c-sharp/"/>
+        <updated>2021-06-23T18:08:14.000Z</updated>
+        <summary type="html"><![CDATA[.NET is a popular software framework developed by Microsoft. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a REST API end-to-end from scratch using the latest .NET 5 innovations and Visual Studio Code. The course uses the C# programming language.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Great Technical Course]]></title>
+        <id>60a406bd906c5207e3a7dfcb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-great-technical-course/"/>
+        <updated>2021-06-23T17:19:24.000Z</updated>
+        <summary type="html"><![CDATA[In this article you will learn how to create a great technical video course. I run the freeCodeCamp.org YouTube channel where we post technical courses from a variety of contributors. Video courses that follow the guidelines in this article are often a good fit for freeCodeCamp's channel. How to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Same or Different? The Question Flummoxes Neural Networks]]></title>
+        <id>https://www.quantamagazine.org/?p=105922</id>
+        <link href="https://www.quantamagazine.org/same-or-different-ai-cant-tell-20210623/"/>
+        <updated>2021-06-23T14:32:24.000Z</updated>
+        <summary type="html"><![CDATA[For all their triumphs, AI systems can’t seem to generalize the concepts of “same” and “different.” Without that, researchers worry, the quest to create truly intelligent machines may be hopeless.            
+The post Same or Different? The Question Flummoxes Neural Networks first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>John Pavlus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.11.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0"/>
+        <updated>2021-06-23T05:57:59.000Z</updated>
+        <summary type="html"><![CDATA[Added: support an experimental template for YouTube feed 📺 Demo | Source
+
+Aggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>
+Videos are embedded via iframe and loading accelerated by youtube-lite-embed
+Ads are reduced thanks to YouTube's policy for embedded videos 🙃
+Works on mobile devices with butter smooth horizontal scroll.
+Caveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.
+Changed: Default HTML template meta tag adjusted to match convention
+Changed: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)
+Thank you @PiyushLosalka]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Scraping with PHP – How to Crawl Web Pages Using Open Source Tools]]></title>
         <id>60d2323d6e1a1407b6b0ac4f</id>
@@ -1321,17 +1391,6 @@ Thank you @Zenigata]]></summary>
 The post Mathematicians Find Long-Sought Building Blocks for Special Polynomials first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Kelsey Houston-Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Radioactivity May Fuel Life Deep Underground and Inside Other Worlds]]></title>
-        <id>https://www.quantamagazine.org/?p=104743</id>
-        <link href="https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/"/>
-        <updated>2021-05-24T15:50:23.000Z</updated>
-        <summary type="html"><![CDATA[New work suggests that the radiolytic splitting of water supports giant subsurface ecosystems of life on Earth — and could do it elsewhere, too.            
-The post Radioactivity May Fuel Life Deep Underground and Inside Other Worlds first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Jordana Cepelewicz</name>
         </author>
     </entry>
 </feed>
