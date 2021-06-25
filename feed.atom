@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T00:16:18.311Z</updated>
+    <updated>2021-06-25T00:23:03.438Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[4 Common React Mistakes You Might Be Making – And How to Fix Them]]></title>
+        <id>60d3ee396e1a1407b6b0b6ef</id>
+        <link href="https://www.freecodecamp.org/news/common-react-mistakes-and-how-to-fix-them/"/>
+        <updated>2021-06-24T17:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Let's go over the most common mistakes you might be making in your React code right now, plus how to fix them. If you want to create amazing React applications, it's essential to avoid many common errors along the way. In this article, we'll not only cover how to fix]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use OpenTelemetry to Understand Software Performance]]></title>
+        <id>60d4b5e96e1a1407b6b0bac4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-opentelemetry/"/>
+        <updated>2021-06-24T16:50:36.000Z</updated>
+        <summary type="html"><![CDATA[If you want good performance in your application, you need to collect data to figure out where to make improvements. That's where OpenTelemetry comes in. OpenTelemetry offers a single set of APIs and libraries that standardize how you collect and transfer telemetry data. OpenTelemetry provides a specification for instrumentation so]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nathan Seiberg on How Math Might Complete the Ultimate Physics Theory]]></title>
+        <id>https://www.quantamagazine.org/?p=105930</id>
+        <link href="https://www.quantamagazine.org/nathan-seiberg-on-how-math-might-reveal-quantum-gravity-20210624/"/>
+        <updated>2021-06-24T14:44:03.000Z</updated>
+        <summary type="html"><![CDATA[Even in an incomplete state, quantum field theory is the most successful physical theory ever discovered. Nathan Seiberg, one of its leading architects, talks about the gaps in QFT and how mathematicians could fill them.            
+The post Nathan Seiberg on How Math Might Complete the Ultimate Physics Theory first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Kevin Hartnett</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Data Analysis? How to Visualize Data with Python, Numpy, Pandas, Matplotlib &amp; Seaborn Tutorial]]></title>
         <id>605abca5687d62084bf6b7cd</id>
@@ -1333,64 +1364,6 @@ The post Squishy Neutron Star Setback Dampens Hopes of Exotic Matter first appea
         <summary type="html"><![CDATA[In this video course I show you how to build three popular games using the latest game development library for JavaScript called Kaboom.js. This course is exciting for two reasons: First of all, I am going to be introducing a new technology designed especially for game development in JavaScript.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.9.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0"/>
-        <updated>2021-05-26T06:02:55.000Z</updated>
-        <summary type="html"><![CDATA[Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is "experimental" due to these caveats:
-
-This feature is currently only available through custom template.
-iTunes has no strict format requirement for duration. The unit is most likely seconds but can be "hh:mm:ss" or "mm:ss" for some sources. A future version may expose a human readable string to the template.
-No image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.
-You can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.
-Fixed: the articles in template data were not sorted.
-Thank you @Zenigata]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keep Calm and Hack The Box – Valentine]]></title>
-        <id>60ac3a2711ffb70827ef6aec</id>
-        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-valentine/"/>
-        <updated>2021-05-25T22:43:11.000Z</updated>
-        <summary type="html"><![CDATA[Walkthrough for Hack The Box Valentine machine]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chakra UI and React-Hook-Form –How to Build Beautiful Forms]]></title>
-        <id>60a93b0011ffb70827ef5b0d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-react-hook-form-with-chakra-ui/"/>
-        <updated>2021-05-25T20:26:38.000Z</updated>
-        <summary type="html"><![CDATA[In HTML, it’s the default behavior for forms to redirect to a new page whenever they're submitted. So in order to provide dynamic functionality, React uses a strategy called controlled components. If you have recently gone through a React course, you probably didn't like this part, because there are]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Portfolio-Worthy Work – Web Design Best Practices for New Developers]]></title>
-        <id>608706aedd38b9088c2c012c</id>
-        <link href="https://www.freecodecamp.org/news/web-design-best-practices-for-new-developers/"/>
-        <updated>2021-05-25T16:51:37.000Z</updated>
-        <summary type="html"><![CDATA[If you're a beginner developer, it can be difficult to find ways to use your limited knowledge to support yourself. And at the same time, you won't be able to hone your skills if you aren't using them full time.  It's a precarious spot that I remember being in when]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematicians Find Long-Sought Building Blocks for Special Polynomials]]></title>
-        <id>https://www.quantamagazine.org/?p=104803</id>
-        <link href="https://www.quantamagazine.org/mathematicians-find-polynomial-building-blocks-hilbert-sought-20210525/"/>
-        <updated>2021-05-25T15:05:58.000Z</updated>
-        <summary type="html"><![CDATA[Hilbert’s 12th problem asked for novel analogues of the roots of unity, the building blocks for certain number systems. Now, over 100 years later, two mathematicians have produced them.            
-The post Mathematicians Find Long-Sought Building Blocks for Special Polynomials first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Kelsey Houston-Edwards</name>
         </author>
     </entry>
 </feed>
