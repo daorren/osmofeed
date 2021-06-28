@@ -749,33 +749,6 @@
           "publishedOn": "2021-06-01T04:19:48.000Z",
           "wordCount": 6197,
           "title": "Logical Fallacies – Definition and Fallacy Examples"
-        },
-        {
-          "id": "60acf28e11ffb70827ef6dd9",
-          "author": null,
-          "description": "Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up making $100,000 a year as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary,",
-          "link": "https://www.freecodecamp.org/news/my-developer-journey-how-i-went-from-1000-a-year-to-100000-as-a-dev/",
-          "publishedOn": "2021-05-28T22:58:18.000Z",
-          "wordCount": 2775,
-          "title": "My Developer Journey – How I Went from Making $1,000 to $100,000 a Year"
-        },
-        {
-          "id": "60b08d8811ffb70827ef8c7b",
-          "author": null,
-          "description": "If you've been following the news lately, you may have noticed a worrisome tech trend. The frequency and severity of cybersecurity attacks are exploding.  We've seen news of a sprawling hack involving the SolarWinds management platform. That attack may have compromised the systems of over 18,000 SolarWinds customers.  Then,",
-          "link": "https://www.freecodecamp.org/news/how-to-secure-your-android-app/",
-          "publishedOn": "2021-05-28T16:01:05.000Z",
-          "wordCount": 1568,
-          "title": "How to Secure Your Android App – Four Security Best Practices Every Android Dev Should Know"
-        },
-        {
-          "id": "60b0de2211ffb70827ef8d7c",
-          "author": null,
-          "description": "More and more applications are using computer vision these days. We just published a full course on the freeCodeCamp.org YouTube channel that will help you learn advanced computer vision using Python. You will learn state of the art computer vision techniques by building five projects with libraries such as",
-          "link": "https://www.freecodecamp.org/news/advanced-computer-vision-with-python/",
-          "publishedOn": "2021-05-28T12:26:38.000Z",
-          "wordCount": 368,
-          "title": "Advanced Computer Vision with Python"
         }
       ]
     },
@@ -933,16 +906,6 @@
           "wordCount": null,
           "title": "A Burp or a Blast? Seismic Signals Reveal the Volcanic Eruption to Come",
           "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=104957",
-          "author": "Pradeep Mutalik",
-          "description": "Playing with numbers can lead to deep mathematical and scientific insights.            \nThe post How a Simple Arithmetic Puzzle Can Guide Discovery first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-a-simple-math-puzzle-can-guide-discovery-20210528/",
-          "publishedOn": "2021-05-28T16:40:17.000Z",
-          "wordCount": null,
-          "title": "How a Simple Arithmetic Puzzle Can Guide Discovery",
-          "itunes": {}
         }
       ]
     },
@@ -951,6 +914,15 @@
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
+        {
+          "id": "60ce733c116186146c6df938",
+          "author": "Assaf Arkin",
+          "description": "This week we run a highly available three-node Meow-Meow cluster, subtitle a formula F1 race, and discover sniff media.",
+          "link": "https://labnotes.org/weekend-reading-smelling-ground/",
+          "publishedOn": "2021-06-27T17:46:10.000Z",
+          "wordCount": 869,
+          "title": "Weekend Reading — 🐶 Smelling Ground"
+        },
         {
           "id": "60c5071510f7da66e5e25f56",
           "author": "Assaf Arkin",
@@ -994,6 +966,24 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-25/",
+          "author": null,
+          "description": "Welcome to Web Weekly #25!\n\nCiao friends!\nHow's your week been? Surprisingly, I spent my Friday night on a rooftop terrace looking at the TV tower listening to chilled house music. It was beautiful!\nBefore we jump into web stuff, here's a pupper from my hidden collection. Look at this energy bundle! 😆\n\n          \n            \nThis week's Web Weekly includes:\nNerdy URL facts\nA CodePen embed alternative\nHow styled components work\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nReady? Steady. Go!\nHow a reframed question can change its outcome\n\n\n\n\n\n          \n            \nLook at these two questions:\n\"Are you facing any challenges?\"\n\"What challenges are you facing right now?\"\nBoth questions ask for the same information, but they probably lead to very different resul…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-25/",
+          "publishedOn": "2021-06-27T20:00:00.000Z",
+          "wordCount": 1107,
+          "title": "Web Weekly #25 (#blogPost)"
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/how-to-find-all-internal-pages-in-chromiums-and-firefox/",
+          "author": null,
+          "description": "I just read the article \"URLs: It's complicated...\" and learned a few nifty tricks about internal pages in Chromies (Edge, Chrome, etc.) and Firefox.\nYou might know about the hidden browser games in Chrome (chrome://dino/) and Edge (edge://surf/), or the commonly used browser flags pages (chrome://flags, edge://flags and so on).\n\n\n\n\n          \n            \nLet's have a look at three things that make internal page handling easier!\nUse about instead of your specific browser scheme\n\nAs described on web.dev, Chromium browsers rewrite not-matching browser schemes, if you enter an incorrect one. You can access chrome://flags in Edge and it'll be rewritten to edge://flags. That's already pretty handy, but there's more!\nYou can also use the about scheme to \"resolve\" to the correct browser scheme. about://flags becomes chrome://flags, brave://flags, or edge://flags depending on your browser. This rewrite is a great addition and I made it a habit to use about for all internal pages already!\nYou can leave out the //\n\nWhile playing around with the about pages, I noticed that you can make the URL even shorter. Enter about:flags and it's correctly resolved to chrome://flags. That's pretty nice, too!\nabout:about – a list of all internal pages\n\nAnd here's the kicker, if you wonder what internal pages your Chromium browser or Firefox provides, you can enter about:about...\n\n\n\n\n\n          \n            \nAnd there you have it, about:about lists all internal pages! I'll continue poking around all these pages now. 👋\nPssst... If you like these short learnings, I send out a weekly newsletter.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/how-to-find-all-internal-pages-in-chromiums-and-firefox/",
+          "publishedOn": "2021-06-27T14:00:00.000Z",
+          "wordCount": 461,
+          "title": "How to find all internal pages in Chromiums and Firefox (#tilPost)"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-24/",
           "author": null,

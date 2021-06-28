@@ -2,10 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T00:24:08.099Z</updated>
+    <updated>2021-06-28T00:22:09.766Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #25 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-25/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-25/"/>
+        <updated>2021-06-27T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Web Weekly #25!
+
+Ciao friends!
+How's your week been? Surprisingly, I spent my Friday night on a rooftop terrace looking at the TV tower listening to chilled house music. It was beautiful!
+Before we jump into web stuff, here's a pupper from my hidden collection. Look at this energy bundle! 😆
+
+          
+            
+This week's Web Weekly includes:
+Nerdy URL facts
+A CodePen embed alternative
+How styled components work
+... and, as always, GitHub repositories, a new Tiny Helper and some music.
+Ready? Steady. Go!
+How a reframed question can change its outcome
+
+
+
+
+
+          
+            
+Look at these two questions:
+"Are you facing any challenges?"
+"What challenges are you facing right now?"
+Both questions ask for the same information, but they probably lead to very different resul…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 🐶 Smelling Ground]]></title>
+        <id>60ce733c116186146c6df938</id>
+        <link href="https://labnotes.org/weekend-reading-smelling-ground/"/>
+        <updated>2021-06-27T17:46:10.000Z</updated>
+        <summary type="html"><![CDATA[This week we run a highly available three-node Meow-Meow cluster, subtitle a formula F1 race, and discover sniff media.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to find all internal pages in Chromiums and Firefox (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/how-to-find-all-internal-pages-in-chromiums-and-firefox/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/how-to-find-all-internal-pages-in-chromiums-and-firefox/"/>
+        <updated>2021-06-27T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I just read the article "URLs: It's complicated..." and learned a few nifty tricks about internal pages in Chromies (Edge, Chrome, etc.) and Firefox.
+You might know about the hidden browser games in Chrome (chrome://dino/) and Edge (edge://surf/), or the commonly used browser flags pages (chrome://flags, edge://flags and so on).
+
+
+
+
+          
+            
+Let's have a look at three things that make internal page handling easier!
+Use about instead of your specific browser scheme
+
+As described on web.dev, Chromium browsers rewrite not-matching browser schemes, if you enter an incorrect one. You can access chrome://flags in Edge and it'll be rewritten to edge://flags. That's already pretty handy, but there's more!
+You can also use the about scheme to "resolve" to the correct browser scheme. about://flags becomes chrome://flags, brave://flags, or edge://flags depending on your browser. This rewrite is a great addition and I made it a habit to use about for all internal pages already!
+You can leave out the //
+
+While playing around with the about pages, I noticed that you can make the URL even shorter. Enter about:flags and it's correctly resolved to chrome://flags. That's pretty nice, too!
+about:about – a list of all internal pages
+
+And here's the kicker, if you wonder what internal pages your Chromium browser or Firefox provides, you can enter about:about...
+
+
+
+
+
+          
+            
+And there you have it, about:about lists all internal pages! I'll continue poking around all these pages now. 👋
+Pssst... If you like these short learnings, I send out a weekly newsletter.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 Common React Mistakes You Might Be Making – And How to Fix Them]]></title>
         <id>60d3ee396e1a1407b6b0b6ef</id>
@@ -1231,47 +1318,6 @@ It's to point out that .gitignore files work in sub-directories and allow you to
         <summary type="html"><![CDATA[This week is the seven year itch, should have bought that dip, but at least you won’t get caught by cheese, also that iron-pumping gator.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Developer Journey – How I Went from Making $1,000 to $100,000 a Year]]></title>
-        <id>60acf28e11ffb70827ef6dd9</id>
-        <link href="https://www.freecodecamp.org/news/my-developer-journey-how-i-went-from-1000-a-year-to-100000-as-a-dev/"/>
-        <updated>2021-05-28T22:58:18.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up making $100,000 a year as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How a Simple Arithmetic Puzzle Can Guide Discovery]]></title>
-        <id>https://www.quantamagazine.org/?p=104957</id>
-        <link href="https://www.quantamagazine.org/how-a-simple-math-puzzle-can-guide-discovery-20210528/"/>
-        <updated>2021-05-28T16:40:17.000Z</updated>
-        <summary type="html"><![CDATA[Playing with numbers can lead to deep mathematical and scientific insights.            
-The post How a Simple Arithmetic Puzzle Can Guide Discovery first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Pradeep Mutalik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Secure Your Android App – Four Security Best Practices Every Android Dev Should Know]]></title>
-        <id>60b08d8811ffb70827ef8c7b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-secure-your-android-app/"/>
-        <updated>2021-05-28T16:01:05.000Z</updated>
-        <summary type="html"><![CDATA[If you've been following the news lately, you may have noticed a worrisome tech trend. The frequency and severity of cybersecurity attacks are exploding.  We've seen news of a sprawling hack involving the SolarWinds management platform. That attack may have compromised the systems of over 18,000 SolarWinds customers.  Then,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Computer Vision with Python]]></title>
-        <id>60b0de2211ffb70827ef8d7c</id>
-        <link href="https://www.freecodecamp.org/news/advanced-computer-vision-with-python/"/>
-        <updated>2021-05-28T12:26:38.000Z</updated>
-        <summary type="html"><![CDATA[More and more applications are using computer vision these days. We just published a full course on the freeCodeCamp.org YouTube channel that will help you learn advanced computer vision using Python. You will learn state of the art computer vision techniques by building five projects with libraries such as]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
