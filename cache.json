@@ -31,6 +31,60 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60d61acc6e1a1407b6b0bd46",
+          "author": null,
+          "description": "In this article, you will learn how to securely access secret API keys using Netlify functions in a React app.  Netlify provides rich features that help you easily deploy Single Page Applications built using frameworks like React, Vue and Angular among others. This takes away the burden of coding and",
+          "link": "https://www.freecodecamp.org/news/how-to-access-secret-api-keys-using-netlify-functions-in-a-react-app/",
+          "publishedOn": "2021-06-28T21:17:02.000Z",
+          "wordCount": 3681,
+          "title": "How to Securely Access Secret API keys using Netlify Functions in a React App"
+        },
+        {
+          "id": "60d9766b6e1a1407b6b0cb4f",
+          "author": null,
+          "description": "If you're working with Natural Language Processing, knowing how to deploy a model is one of the most important skills you'll need to have. Model deployment is the process of integrating your model into an existing production environment. The model will receive input and predict an output for decision-making for",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-an-nlp-model-with-fastapi/",
+          "publishedOn": "2021-06-28T20:35:12.000Z",
+          "wordCount": 2818,
+          "title": "How to Deploy an NLP Model with FastAPI"
+        },
+        {
+          "id": "60d07b4578f45307fee80aef",
+          "author": null,
+          "description": "Every developer needs a good development enviroment, whether you're into mobile development or web apps or even if you're just learning your first programming language.  Just like any beginning developer, when I began to learn coding I needed some guidance on how to get started. And one of the most",
+          "link": "https://www.freecodecamp.org/news/what-is-an-ide-in-programming-an-ide-definition-for-developers/",
+          "publishedOn": "2021-06-28T20:04:28.000Z",
+          "wordCount": 2258,
+          "title": "What is an IDE in Programming? An IDE Definition for Developers"
+        },
+        {
+          "id": "60d675ac6e1a1407b6b0bea1",
+          "author": null,
+          "description": "In JavaScript, people often confuse closures with lexical scope. Lexical scope is an important part of closures, but it is not a closure by itself. Closures are an advanced concept that is also a frequent topic of technical interviews. You should have a foundational understanding of functions before attempting to",
+          "link": "https://www.freecodecamp.org/news/javascript-closure-lexical-scope/",
+          "publishedOn": "2021-06-28T18:45:21.000Z",
+          "wordCount": 740,
+          "title": "JavaScript Closure Tutorial – How Closures and Lexical Scope Work in JS"
+        },
+        {
+          "id": "60d4d3d86e1a1407b6b0bb25",
+          "author": null,
+          "description": "A design system is a set of standards, reusable components, and patterns used to create visual consistency throughout different projects and pages. Figma is a vector graphics editor and prototyping tool. We just released a course on the freeCodeCamp.org channel that will teach you how to build a design",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma/",
+          "publishedOn": "2021-06-28T13:50:35.000Z",
+          "wordCount": 67249,
+          "title": "Learn How to Create a Design System in Figma"
+        },
+        {
+          "id": "60d4ea756e1a1407b6b0bb71",
+          "author": null,
+          "description": "Ok. I'm not suggesting that everyone needs to become a fully-credentialed data scientist. But these days, learning core data skills may provide as much value as basic financial literacy or knowledge of a simple coding language. This isn't just about your career: data has grown far beyond the world of",
+          "link": "https://www.freecodecamp.org/news/why-you-should-learn-data-analytics/",
+          "publishedOn": "2021-06-28T13:44:39.000Z",
+          "wordCount": 806,
+          "title": "Why You Should Learn Data Analytics"
+        },
+        {
           "id": "60d3ee396e1a1407b6b0b6ef",
           "author": null,
           "description": "Let's go over the most common mistakes you might be making in your React code right now, plus how to fix them. If you want to create amazing React applications, it's essential to avoid many common errors along the way. In this article, we'll not only cover how to fix",
@@ -758,6 +812,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=106143",
+          "author": "Puja Changoiwala",
+          "description": "Genomic surveillance of the SARS-CoV-2 virus can help control the current pandemic and prevent future ones. But the process is marred by insufficient data and geographic inequities.            \nThe post A Lack of COVID-19 Genomes Could Prolong the Pandemic first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/a-lack-of-covid-19-genomes-could-prolong-the-pandemic-20210628/",
+          "publishedOn": "2021-06-28T15:58:44.000Z",
+          "wordCount": null,
+          "title": "A Lack of COVID-19 Genomes Could Prolong the Pandemic",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=105930",
           "author": "Kevin Hartnett",
           "description": "Even in an incomplete state, quantum field theory is the most successful physical theory ever discovered. Nathan Seiberg, one of its leading architects, talks about the gaps in QFT and how mathematicians could fill them.            \nThe post Nathan Seiberg on How Math Might Complete the Ultimate Physics Theory first appeared on Quanta Magazine",
@@ -949,15 +1013,6 @@
           "publishedOn": "2021-06-05T19:26:41.000Z",
           "wordCount": 1177,
           "title": "Weekend Reading —🍿 Gangster Coworking"
-        },
-        {
-          "id": "60a9594fa030cd25014cdf4f",
-          "author": "Assaf Arkin",
-          "description": "This week is the seven year itch, should have bought that dip, but at least you won’t get caught by cheese, also that iron-pumping gator.",
-          "link": "https://labnotes.org/weekend-reading-summer-gonna-be-crazzzyy/",
-          "publishedOn": "2021-05-29T20:41:21.000Z",
-          "wordCount": 1060,
-          "title": "Weekend Reading — 😎 Summer gonna be crazzzyy"
         }
       ]
     },
