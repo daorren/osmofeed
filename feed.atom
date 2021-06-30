@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T00:21:48.706Z</updated>
+    <updated>2021-06-30T00:20:47.308Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Coding Interview Backtracking Problems Crash Course – The Only One You&#x27;ll Ever Need]]></title>
+        <id>60db519527f80207bcdbb6fa</id>
+        <link href="https://www.freecodecamp.org/news/coding-interview-backtracking-problems-crash-course/"/>
+        <updated>2021-06-29T20:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Whether you are new to coding interviews or are already familiar with the concept of backtracking, this is the crash course for you. We will learn about an all-purpose coding template and apply it to two LeetCode hard problems. Ready to crunch your next coding interview? Let's go!]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux List Processes – How to Check Running Processes]]></title>
+        <id>604b8c6ea7946308b7687683</id>
+        <link href="https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/"/>
+        <updated>2021-06-29T19:47:13.000Z</updated>
+        <summary type="html"><![CDATA[Every day, developers use various applications and run commands in the terminal. These applications can include a browser, code editor, terminal, video conferencing app, or music player.  For each of these software applications that you open or commands you run, it creates a process or task. One beautiful feature of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use timedelta Objects in Python to Work with Dates]]></title>
+        <id>60daf29027f80207bcdbb3fe</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-timedelta-objects-in-python/"/>
+        <updated>2021-06-29T18:25:52.000Z</updated>
+        <summary type="html"><![CDATA[Why do we need the timedelta object?When you're working with dates and times in Python, you'll often use the datetime module.  In this post, we'll see how we can use the timedelta object in the datetime module. It denotes a span of time and can help when we need]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Math Help You Escape a Hungry Bear?]]></title>
+        <id>https://www.quantamagazine.org/?p=106217</id>
+        <link href="https://www.quantamagazine.org/can-math-help-you-escape-a-hungry-bear-20210629/"/>
+        <updated>2021-06-29T14:21:59.000Z</updated>
+        <summary type="html"><![CDATA[In this month’s puzzle, math is a question of life or death.            
+The post Can Math Help You Escape a Hungry Bear? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Pradeep Mutalik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Security, Compliance, and Identity Fundamentals (SC-900) – Pass the Exam With This Free 3.5 Hour Course]]></title>
+        <id>60d76f6f6e1a1407b6b0c521</id>
+        <link href="https://www.freecodecamp.org/news/microsoft-security-compliance-certification-sc-900/"/>
+        <updated>2021-06-29T13:24:44.000Z</updated>
+        <summary type="html"><![CDATA[What is the Microsoft Security, Compliance, and Identity Fundamentals?The Microsoft Security, Compliance and Identity Fundamentals Certification is an essential entry-level certification into Azure and Microsoft Security. In recent years we've seen a significant shift in the work environment where companies allow employees to work from home.  The increase of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Securely Access Secret API keys using Netlify Functions in a React App]]></title>
         <id>60d61acc6e1a1407b6b0bd46</id>
@@ -1319,66 +1370,6 @@ The post A Burp or a Blast? Seismic Signals Reveal the Volcanic Eruption to Come
         <summary type="html"><![CDATA[When you're debating someone, you want to use all the resources at your disposal to convince them you're right. But you should be careful that you don't end up using a logical fallacy to help you make your point. What is a Logical Fallacy?A logical fallacy is an error]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #21 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-21/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-21/"/>
-        <updated>2021-05-30T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Web Weekly #21!
-
-Hello friends! I'm a few hours late because I had such a lovely weekend. I saw some friends, listened to music and read an entertaining book. 😊 It felt like the first "somewhat normal" weekend for ages here in Berlin. I hope this madness is getting to an end where you live, too!
-Before we jump into web stuff, let me share with you what made me smile this week. If you're into dogs (or trampolines), this video is just too cute.
-
-This week's Web Weekly includes:
-cutting-edge CSS features
-the soon-to-be cross-browser supported requestSubmit method
-the address HTML element
-... and, as always, GitHub repositories, a new Tiny Helper and some music.
-Ready? Steady. Go!
-Things to not do yourself – email address validation
-
-
-
-
-
-          
-            
-When doing web devel…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to add a directory but ignore included files in git (#snippet)]]></title>
-        <id>https://www.stefanjudis.com/snippets/how-to-add-a-directory-but-ignore-included-files-in-git/</id>
-        <link href="https://www.stefanjudis.com/snippets/how-to-add-a-directory-but-ignore-included-files-in-git/"/>
-        <updated>2021-05-30T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is a quick reference for my future self. I implemented the eleventy cache assets plugin to speed up my local development last weekend. This site is based on API data from several sources, and unfortunately, local development became terribly slow. It was time for some optimization. The problem was that the local build process fetched all the API data on every file change and local rebuild.
-The eleventy cache plugin helps here. It caches data across builds and writes the API data into files in a .cache directory. When the site rebuilds, the cached data is reused, and no APIs will be called during the build process.
-To make the plugin work in a remote environment such as Netlify, it needs the .cache directory to be available. This behavior led to the problem that I had to check in the .cache directory but needed to ignore all the included files.
-I ran into this exact problem many times, and it always takes me several attempts to get it right. Here's the solution that worked for me.
-First, add the directory to your local project and place a .gitignore file in it.
-.cache
-  |_ .gitignore
-
-Then, paste the following configuration into the .gitignore file in the directory you want to check in.
-# File: .cache/.gitignore
-# Ignore everything in this directory
-*
-# Except for this file
-!.gitignore
-
-And voilà! Commit the .gitignore file at folder-you-want-to-check-in/.gitignore, and that's it! The directory is now available in git and files in this directory will be ignored.
-It's to point out that .gitignore files work in sub-directories and allow you to configure git on a sub-directory level. And that's pretty handy!
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
