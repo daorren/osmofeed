@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T00:20:47.308Z</updated>
+    <updated>2021-07-01T00:23:19.685Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn the CSS Box-Shadow Property by Coding a Beautiful Button ✨]]></title>
+        <id>6063b8d69618b008528a9d79</id>
+        <link href="https://www.freecodecamp.org/news/css-box-shadow-property-with-examples/"/>
+        <updated>2021-06-30T18:49:49.000Z</updated>
+        <summary type="html"><![CDATA[Today we're gonna learn how to use CSS's box-shadow property to make beautiful website components. Along the way, we'll create a button and get hands-on experience using this property. Let's get started. 🎖️ Table of Contents Why you should use the CSS box-shadow propertyThe syntax of the box-shadow propertyHow to make]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is The C Programming Language? A Tutorial for Beginners]]></title>
+        <id>6055c55b687d62084bf68804</id>
+        <link href="https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/"/>
+        <updated>2021-06-30T14:25:53.000Z</updated>
+        <summary type="html"><![CDATA[This tutorial is an overview of basic concepts of the C programming language.  It goes over the history of the language, why and where it is used, the compilation process, and some very basic programming concepts that are common in most popular programming languages. It is not a complete guide]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn React Router]]></title>
+        <id>60d5ea736e1a1407b6b0bc8d</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-router/"/>
+        <updated>2021-06-30T14:01:01.000Z</updated>
+        <summary type="html"><![CDATA[React Router is commonly used to make different routes for pages in React Applications. We just released a crash course on the freeCodeCamp.org YouTube channel that will teach you how to create routes in your React applications. Piyush Agarwal developed this course. Piyush is a prolific course creator on]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brighter Than a Billion Billion Suns: Gamma-Ray Bursts Continue to Surprise]]></title>
+        <id>https://www.quantamagazine.org/?p=106223</id>
+        <link href="https://www.quantamagazine.org/brighter-than-a-billion-billion-suns-gamma-ray-bursts-continue-to-surprise-20210630/"/>
+        <updated>2021-06-30T13:28:27.000Z</updated>
+        <summary type="html"><![CDATA[These ultrabright flashes have recently been tracked for days, upending ideas about the cataclysms that create them.            
+The post Brighter Than a Billion Billion Suns: Gamma-Ray Bursts Continue to Surprise first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Jonathan O'Callaghan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coding Interview Backtracking Problems Crash Course – The Only One You&#x27;ll Ever Need]]></title>
         <id>60db519527f80207bcdbb6fa</id>
@@ -1348,26 +1389,6 @@ The post A Burp or a Blast? Seismic Signals Reveal the Volcanic Eruption to Come
         <link href="https://www.freecodecamp.org/news/how-to-get-a-cybersecurity-job/"/>
         <updated>2021-06-01T16:34:00.000Z</updated>
         <summary type="html"><![CDATA[This informative tutorial goes deep into how to get a cybersecurity job, with insights from senior leaders and hiring managers in the field.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.10.2]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2"/>
-        <updated>2021-06-01T04:39:30.000Z</updated>
-        <summary type="html"><![CDATA[Added: testing and CI/CD workflows]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logical Fallacies – Definition and Fallacy Examples]]></title>
-        <id>607f5fafdd38b9088c2bd0c9</id>
-        <link href="https://www.freecodecamp.org/news/logical-fallacies-definition-fallacy-examples/"/>
-        <updated>2021-06-01T04:19:48.000Z</updated>
-        <summary type="html"><![CDATA[When you're debating someone, you want to use all the resources at your disposal to convince them you're right. But you should be careful that you don't end up using a logical fallacy to help you make your point. What is a Logical Fallacy?A logical fallacy is an error]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
