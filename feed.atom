@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T00:23:19.685Z</updated>
+    <updated>2021-07-02T00:20:27.895Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Website Theming? How to Use CSS Custom Properties and Gatsby.js to Customize Your Site]]></title>
+        <id>60dc72b527f80207bcdbbd8f</id>
+        <link href="https://www.freecodecamp.org/news/website-theming-with-css-custom-properties-and-gatsbyjs/"/>
+        <updated>2021-07-01T18:19:21.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'm going to show you how to theme your website so users can customize certain elements to their tastes.  We'll talk about website themes, how theming works, and we'll end with a demo so you can see it in action. Let's dive in. Table of Contents:What]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML List – How to Use Bullet Points, Ordered, and Unordered Lists]]></title>
+        <id>60c0897ad3126007592d5701</id>
+        <link href="https://www.freecodecamp.org/news/html-list-how-to-use-bullet-points-ordered-and-unordered-lists/"/>
+        <updated>2021-07-01T18:02:56.000Z</updated>
+        <summary type="html"><![CDATA[Listing items on a web page is a common task you'll have to do as a web developer. You may have to list shopping cart items, the order of students based on their grades, dogs with the loudest bark – and so on. So you need to know the different ways]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backend Web Development with Python - Full Course]]></title>
+        <id>60d5e7ae6e1a1407b6b0bc5a</id>
+        <link href="https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/"/>
+        <updated>2021-07-01T16:51:30.000Z</updated>
+        <summary type="html"><![CDATA[The backend of a website can be written in many different programming languages. It is becoming increasingly common for to use Python for the backend of a website. We just published a full backend web development with Python course on the freeCodeCamp.org YouTube channel. This comprehensive course is for]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Long COVID Keeps Us Sick]]></title>
+        <id>https://www.quantamagazine.org/?p=106313</id>
+        <link href="https://www.quantamagazine.org/long-covid-how-it-keeps-us-sick-20210701/"/>
+        <updated>2021-07-01T14:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Other diseases with long-term symptoms can help us understand how COVID can affect us long after the virus itself is gone.            
+The post How Long COVID Keeps Us Sick first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Tara C. Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 2021 New Coder Survey is Now Live – and Here&#x27;s How We Designed It]]></title>
+        <id>60dc78e927f80207bcdbbddc</id>
+        <link href="https://www.freecodecamp.org/news/2021-new-coder-survey/"/>
+        <updated>2021-07-01T04:36:31.000Z</updated>
+        <summary type="html"><![CDATA[Hello freeCodeCamp community! I'm Dilan, a PhD candidate in sociology at Boston University. I'm an absolute coding newbie, but I do know a bit about surveys. 😃 I have been working with freeCodeCamp founder Quincy Larson over the past few months to design the 2021 New Coder Survey. And I'm thrilled]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn the CSS Box-Shadow Property by Coding a Beautiful Button ✨]]></title>
         <id>6063b8d69618b008528a9d79</id>
@@ -1330,67 +1381,6 @@ The post Mathematicians Identify Threshold at Which Shapes Give Way first appear
 The post RNA Brakes May Stabilize a Cellular Symbiosis first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Max Kozlov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Discord AI Chatbot that Talks Like Your Favorite Character]]></title>
-        <id>60b5025111ffb70827ef9ebe</id>
-        <link href="https://www.freecodecamp.org/news/discord-ai-chatbot/"/>
-        <updated>2021-06-01T23:47:33.000Z</updated>
-        <summary type="html"><![CDATA[Let's build an AI model that speaks just like your favorite character and deploy that model as a Discord chatbot. All the coding and deployment happen in the cloud (for free!), so you don't even need a local IDE to follow along.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Analytics with Pandas – How to Drop a List of Rows from a Pandas Dataframe]]></title>
-        <id>60b1eed311ffb70827ef9504</id>
-        <link href="https://www.freecodecamp.org/news/drop-list-of-rows-from-pandas-dataframe/"/>
-        <updated>2021-06-01T20:47:43.000Z</updated>
-        <summary type="html"><![CDATA[A Pandas dataframe is a two dimensional data structure which allows you to store data in rows and columns. It's very useful when you're analyzing data.  When you have a list of data records in a dataframe, you may need to drop a specific list of rows depending on the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Next.js and Make React Development Simpler]]></title>
-        <id>60b668c0acb62507dd1d710b</id>
-        <link href="https://www.freecodecamp.org/news/learn-next-js/"/>
-        <updated>2021-06-01T17:43:56.000Z</updated>
-        <summary type="html"><![CDATA[Next.js makes developing React applications simpler. It provides a common structure that allows you to build frontend React applications, and transparently handles server-side rendering for you. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Next.js.  Kapehe developed]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Burp or a Blast? Seismic Signals Reveal the Volcanic Eruption to Come]]></title>
-        <id>https://www.quantamagazine.org/?p=105076</id>
-        <link href="https://www.quantamagazine.org/seismic-data-helps-scientists-forecast-volcanic-explosions-20210601/"/>
-        <updated>2021-06-01T17:02:41.000Z</updated>
-        <summary type="html"><![CDATA[Scientists have begun to decipher the subtle signs that reveal how explosive a volcanic eruption is going to be.             
-The post A Burp or a Blast? Seismic Signals Reveal the Volcanic Eruption to Come first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Robin George Andrews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Developer Journey – How I Got a Remote Job and Increased My Salary While Contributing to Open Source]]></title>
-        <id>60acf28e11ffb70827ef6dd9</id>
-        <link href="https://www.freecodecamp.org/news/my-developer-journey-how-i-increased-my-salary-and-got-a-remote-job/"/>
-        <updated>2021-06-01T16:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up increasing my salary as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary, and how]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get a Cybersecurity Job in 2021]]></title>
-        <id>60aff2d711ffb70827ef8829</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-a-cybersecurity-job/"/>
-        <updated>2021-06-01T16:34:00.000Z</updated>
-        <summary type="html"><![CDATA[This informative tutorial goes deep into how to get a cybersecurity job, with insights from senior leaders and hiring managers in the field.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
