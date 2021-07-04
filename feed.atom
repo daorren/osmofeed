@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T00:20:41.737Z</updated>
+    <updated>2021-07-04T00:20:31.046Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — pAIr Programmer]]></title>
+        <id>60e0a5532f4b9a7ddc8b7d9e</id>
+        <link href="https://labnotes.org/weekend-reading-pair-programmer/"/>
+        <updated>2021-07-03T20:10:09.000Z</updated>
+        <summary type="html"><![CDATA[This week we pair program with AI, get certified on Infinidash, learn about unintended consequences, herd some sheep, and play with Lego.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[freeCodeCamp July 2021 Summit – Campfire Mode, Data Science Curriculum, Chapter, and Other New Features]]></title>
         <id>60de3cf127f80207bcdbc9af</id>
@@ -1229,87 +1239,6 @@ Edit: Axel Rauschmayer shared that JSON import are based on import assertions an
         <summary type="html"><![CDATA[TypeScript has taken the development world by storm. No wonder it has over 15 million weekly downloads on npm. But what is TypeScript, and what do you need to know about it?  In this article, I am going answer those questions. By the end you'll have a grasp of the]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery]]></title>
-        <id>60b98ebfacb62507dd1d8ec4</id>
-        <link href="https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/"/>
-        <updated>2021-06-04T02:32:22.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Tutorial – How to Set Up a Front End Development Project]]></title>
-        <id>60b11ff811ffb70827ef8f94</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/"/>
-        <updated>2021-06-03T21:44:03.000Z</updated>
-        <summary type="html"><![CDATA[Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schofield&#x27;s Laws of Computing – What they Are and Why You Should Know Them]]></title>
-        <id>60afd68611ffb70827ef86d8</id>
-        <link href="https://www.freecodecamp.org/news/schofields-laws-of-computing/"/>
-        <updated>2021-06-03T18:46:12.000Z</updated>
-        <summary type="html"><![CDATA[Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a British journalist who wrote for The Guardian. During that time, he wrote three particular articles called "Schofield's Laws of Computing". Jack didn't create these]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lists in Python – A Comprehensive Guide]]></title>
-        <id>60b7c02cacb62507dd1d7b80</id>
-        <link href="https://www.freecodecamp.org/news/lists-in-python-comprehensive-guide/"/>
-        <updated>2021-06-03T18:42:20.000Z</updated>
-        <summary type="html"><![CDATA[Let’s suppose you’re planning to visit your neighborhood store to stock up on essentials. What is the first thing you’d do?  Have the answer already? Yes, you'd probably write down a shopping list! Python also has a built-in data structure called List that’s very similar to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Hackintosh - Install MacOS Big Sur on a PC Using OpenCore]]></title>
-        <id>60affbe411ffb70827ef8951</id>
-        <link href="https://www.freecodecamp.org/news/build-a-hackintosh/"/>
-        <updated>2021-06-03T18:07:17.000Z</updated>
-        <summary type="html"><![CDATA[A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serverless vs Fully Managed Services: What&#x27;s the Difference?]]></title>
-        <id>60aa708711ffb70827ef5f4b</id>
-        <link href="https://www.freecodecamp.org/news/serverless-fully-managed-service-difference/"/>
-        <updated>2021-06-03T16:51:37.000Z</updated>
-        <summary type="html"><![CDATA[If you're new to cloud technologies, you might be confused about the difference between serverless technologies and managed services.  So in this article you'll learn what these terms mean and what the main differences are.    What Are Managed Services? A managed service let the end-user focus on using a service]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cipher Definition – What is a Block Cipher and How Does it Work to Protect Your Data?]]></title>
-        <id>5fff3d3098be260817e495bd</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-block-cipher/"/>
-        <updated>2021-06-03T16:21:19.000Z</updated>
-        <summary type="html"><![CDATA[Cryptography is the science of using codes and ciphers to protect messages. And encryption involves encoding messages so that only the intended recipient can understand the meaning of the message. It's often used to protect data in transit. Encryption is a two way function – that is, you need to be]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematicians Identify Threshold at Which Shapes Give Way]]></title>
-        <id>https://www.quantamagazine.org/?p=105275</id>
-        <link href="https://www.quantamagazine.org/mathematicians-identify-threshold-at-which-shapes-give-way-20210603/"/>
-        <updated>2021-06-03T13:49:34.000Z</updated>
-        <summary type="html"><![CDATA[A new proof establishes the boundary at which a shape becomes so corrugated, it can be crushed.            
-The post Mathematicians Identify Threshold at Which Shapes Give Way first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Mordechai Rorvig</name>
         </author>
     </entry>
 </feed>

@@ -722,69 +722,6 @@
           "publishedOn": "2021-06-04T18:01:00.000Z",
           "wordCount": 2225,
           "title": "Learn TypeScript Basics in this Beginner&#x27;s Guide"
-        },
-        {
-          "id": "60b98ebfacb62507dd1d8ec4",
-          "author": null,
-          "description": "Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course",
-          "link": "https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/",
-          "publishedOn": "2021-06-04T02:32:22.000Z",
-          "wordCount": 390,
-          "title": "Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery"
-        },
-        {
-          "id": "60b11ff811ffb70827ef8f94",
-          "author": null,
-          "description": "Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/",
-          "publishedOn": "2021-06-03T21:44:03.000Z",
-          "wordCount": 3978,
-          "title": "JavaScript Tutorial – How to Set Up a Front End Development Project"
-        },
-        {
-          "id": "60afd68611ffb70827ef86d8",
-          "author": null,
-          "description": "Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a British journalist who wrote for The Guardian. During that time, he wrote three particular articles called \"Schofield's Laws of Computing\". Jack didn't create these",
-          "link": "https://www.freecodecamp.org/news/schofields-laws-of-computing/",
-          "publishedOn": "2021-06-03T18:46:12.000Z",
-          "wordCount": 1588,
-          "title": "Schofield&#x27;s Laws of Computing – What they Are and Why You Should Know Them"
-        },
-        {
-          "id": "60b7c02cacb62507dd1d7b80",
-          "author": null,
-          "description": "Let’s suppose you’re planning to visit your neighborhood store to stock up on essentials. What is the first thing you’d do?  Have the answer already? Yes, you'd probably write down a shopping list! Python also has a built-in data structure called List that’s very similar to",
-          "link": "https://www.freecodecamp.org/news/lists-in-python-comprehensive-guide/",
-          "publishedOn": "2021-06-03T18:42:20.000Z",
-          "wordCount": 1748,
-          "title": "Lists in Python – A Comprehensive Guide"
-        },
-        {
-          "id": "60affbe411ffb70827ef8951",
-          "author": null,
-          "description": "A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a",
-          "link": "https://www.freecodecamp.org/news/build-a-hackintosh/",
-          "publishedOn": "2021-06-03T18:07:17.000Z",
-          "wordCount": 2708,
-          "title": "How to Build a Hackintosh - Install MacOS Big Sur on a PC Using OpenCore"
-        },
-        {
-          "id": "60aa708711ffb70827ef5f4b",
-          "author": null,
-          "description": "If you're new to cloud technologies, you might be confused about the difference between serverless technologies and managed services.  So in this article you'll learn what these terms mean and what the main differences are.    What Are Managed Services? A managed service let the end-user focus on using a service",
-          "link": "https://www.freecodecamp.org/news/serverless-fully-managed-service-difference/",
-          "publishedOn": "2021-06-03T16:51:37.000Z",
-          "wordCount": 1453,
-          "title": "Serverless vs Fully Managed Services: What&#x27;s the Difference?"
-        },
-        {
-          "id": "5fff3d3098be260817e495bd",
-          "author": null,
-          "description": "Cryptography is the science of using codes and ciphers to protect messages. And encryption involves encoding messages so that only the intended recipient can understand the meaning of the message. It's often used to protect data in transit. Encryption is a two way function – that is, you need to be",
-          "link": "https://www.freecodecamp.org/news/what-is-a-block-cipher/",
-          "publishedOn": "2021-06-03T16:21:19.000Z",
-          "wordCount": 2747,
-          "title": "Cipher Definition – What is a Block Cipher and How Does it Work to Protect Your Data?"
         }
       ]
     },
@@ -952,16 +889,6 @@
           "wordCount": null,
           "title": "Astronomers Find Secret Planet-Making Ingredient: Magnetic Fields",
           "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=105275",
-          "author": "Mordechai Rorvig",
-          "description": "A new proof establishes the boundary at which a shape becomes so corrugated, it can be crushed.            \nThe post Mathematicians Identify Threshold at Which Shapes Give Way first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/mathematicians-identify-threshold-at-which-shapes-give-way-20210603/",
-          "publishedOn": "2021-06-03T13:49:34.000Z",
-          "wordCount": null,
-          "title": "Mathematicians Identify Threshold at Which Shapes Give Way",
-          "itunes": {}
         }
       ]
     },
@@ -970,6 +897,15 @@
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
+        {
+          "id": "60e0a5532f4b9a7ddc8b7d9e",
+          "author": "Assaf Arkin",
+          "description": "This week we pair program with AI, get certified on Infinidash, learn about unintended consequences, herd some sheep, and play with Lego.",
+          "link": "https://labnotes.org/weekend-reading-pair-programmer/",
+          "publishedOn": "2021-07-03T20:10:09.000Z",
+          "wordCount": 974,
+          "title": "Weekend Reading — pAIr Programmer"
+        },
         {
           "id": "60ce733c116186146c6df938",
           "author": "Assaf Arkin",
