@@ -896,15 +896,6 @@
           "publishedOn": "2021-06-12T19:10:47.000Z",
           "wordCount": 1128,
           "title": "Weekend Reading — 📚 Who's your study influencer?"
-        },
-        {
-          "id": "60b507628a05e833bcdafbdf",
-          "author": "Assaf Arkin",
-          "description": "This week we add a soundtrack to the progress bar, ask for that dashboard we’ll never use, play Traffic Light Hero, and pop a bubble.",
-          "link": "https://labnotes.org/weekend-reading-gangster-coworking/",
-          "publishedOn": "2021-06-05T19:26:41.000Z",
-          "wordCount": 1177,
-          "title": "Weekend Reading —🍿 Gangster Coworking"
         }
       ]
     },
@@ -913,6 +904,33 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-26/",
+          "author": null,
+          "description": "Welcome to Web Weekly #26!\n\nGod dag, friends!\nGuess what?! I'm on my way to Amsterdam for three chilled days right now. The weather won't be super great, but I'm excited about the sea, some wind, and good food either way.\nAnd to my surprise, the provided wifi on my train works reasonably well, which means that I can write and send this week's Web Weekly. 🎉 Thank you Deutsche Bahn!\nBefore we jump into web stuff and valuable resources, remember, the year is 50% done! Time flies at an incredible speed... 🙈\n\n\n\n          \n            \nThis week's Web Weekly includes:\nvisualized tabbing order\nsurprising return values in JavaScript try/catch/finally\nresources on gender-neutral language\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nReady? Steady. Go!\n\"Show tabbing or…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-26/",
+          "publishedOn": "2021-07-04T22:00:00.000Z",
+          "wordCount": 1088,
+          "title": "Web Weekly #26 (#blogPost)"
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/how-to-visualize-the-tab-order-without-using-an-extension-in-firefox/",
+          "author": null,
+          "description": "Focus order is a success criterion defined in the Web Content Accessibility Guidelines (WCAG). Website visitors have to be able to navigate content and focusable element sequentially.\nSuccess Criterion 2.4.3 Focus Order (Level A): If a Web page can be navigated sequentially and the navigation sequences affect meaning or operation, focusable components receive focus in an order that preserves meaning and operability.\nHow can you test for this accessibility success criterion most effectively?\nThe first option, tab around your web pages manually and see where the focus wanders. While there's nothing wrong with this, browser dev tools (mainly Firefox) offer valuable alternatives to manual testing these days.\nLet's have a look!\nFirefox – \"show tabbing order\" of all focusable elements\n\n\n\n\n      …",
+          "link": "https://www.stefanjudis.com/today-i-learned/how-to-visualize-the-tab-order-without-using-an-extension-in-firefox/",
+          "publishedOn": "2021-07-04T22:00:00.000Z",
+          "wordCount": 661,
+          "title": "How to visualize the tab order without using an extension in Firefox (#tilPost)"
+        },
+        {
+          "id": "https://www.stefanjudis.com/notes/mobile-safari-doesnt-zoom-into-form-inputs-with-minimum-16px/",
+          "author": null,
+          "description": "I just came across this tweet from Josh Comeau. Josh shared that Safari is not \"zooming into\" focused form elements if they have a font size of or larger than 16px. I don't have an iPhone, but I can imagine that the zoom interaction is pretty distracting when you \"just\" want to fill out a form.\nWhy is Safari zooming in for controls that have a font size less than 16px? 16px is the default body font size for most browsers and is what you get after declaring font-size: 100%; on :root. 16px is the smalled accessible font size according to accessibility resources.\nJosh's discovery is a fact that'll come in handy in the future because I had a few discussions about font sizes lately. Some folks tend to prefer small and light grey fonts – the less readable, the better. 🙈\nI doubt that the iOS zoom argument will be the game-changer in these discussions, but the more arguments for accessible web design I have the more likely I can convince someone! 🎉\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/notes/mobile-safari-doesnt-zoom-into-form-inputs-with-minimum-16px/",
+          "publishedOn": "2021-07-04T22:00:00.000Z",
+          "wordCount": 382,
+          "title": "Mobile Safari doesn't zoom into form inputs with minimum 16px (#note)"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-25/",
           "author": null,
@@ -957,24 +975,6 @@
           "publishedOn": "2021-06-06T21:00:00.000Z",
           "wordCount": 1254,
           "title": "Web Weekly #22 (#blogPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/css-defines-color-values-that-follow-system-preferences/",
-          "author": null,
-          "description": "I learned something exciting from Jim Nielsen today. Jim shared that CSS defines system color values that follow the system color preferences (light and dark mode). If you want to learn more about the nitty-gritty details, read his post or have a look at the CSS Color Module Level 4 specification.\nThis post shares my discoveries after playing around with system color values such as Canvas and CanvasText.\nYou can find all defined system color values in the example below. Change your color preferences and see the colors below adjust!\n\nYou can see the colors react to system preferences in Chrome and Safari in the video below, too.\nHere are a few things I noticed. 👇\nAt the time of writing, it appears that only Chromies' and Safari's system color values take the system preferences into conside…",
-          "link": "https://www.stefanjudis.com/today-i-learned/css-defines-color-values-that-follow-system-preferences/",
-          "publishedOn": "2021-06-05T22:00:00.000Z",
-          "wordCount": 621,
-          "title": "CSS defines color values that follow system preferences (#tilPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/how-to-import-json-files-in-es-modules/",
-          "author": null,
-          "description": "If you're using EcmaScript modules, you probably know the problem that you can't \"just\" import JSON files. To import and load a JSON file in an ES module, you have to do a \"window.fetch dance\" to request the file and parse it yourself. It's not great...\nBut there's hope! According to chromestatus.com, JSON Modules are shipping in Chrome 91. I gave it a quick try, and surprisingly, the following JavaScript code does not work.\n<script type=\"module\">\n  import data from \"./data.json\";\n  console.log(data);\n</script>\n\nIt throws the following exception in Chrome 91:\nFailed to load module script: Expected a JavaScript module script but the server responded with a MIME type of \"application/json\". Strict MIME type checking is enforced for module scripts per HTML spec.\nI didn't have a detailed look at the spec discussion about this topic, but apparently, the new syntax to import JSON Modules is the following. 😲\nimport data from \"./data.json\" assert { type: \"json\" };\n\nconsole.log(data);\n\nThat's quite something, and I have to do some reading about it. But hey, anything that makes it easier to import JSON is more than welcome!\nAnd when there's a solution in Chrome, it can't be long until it ships in Node.js because importing JSON files in Node ES modules is not great either. 🙈\nEdit: Axel Rauschmayer shared that JSON import are based on import assertions and you can read more about it on his blog.\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/snippets/how-to-import-json-files-in-es-modules/",
-          "publishedOn": "2021-06-05T22:00:00.000Z",
-          "wordCount": 419,
-          "title": "How to import JSON files in ES modules (#snippet)"
         }
       ]
     }
