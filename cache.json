@@ -22,6 +22,42 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60e16e1b134ad707be00d6bc",
+          "author": null,
+          "description": "In this article, I'm going to explain how to automatically upload an Android App Bundle (.aab file) to the Play Store's beta track. We'll use Android Studio and AWS as a cloud infrastructure provider.  Once we've uploaded the app bundle, we'll trigger a Slack notification.  This is a valuable use",
+          "link": "https://www.freecodecamp.org/news/automatically-upload-an-android-app-bundle-to-the-play-store/",
+          "publishedOn": "2021-07-06T21:08:39.000Z",
+          "wordCount": 2504,
+          "title": "How to Automatically Upload an Android App Bundle to the Play Store"
+        },
+        {
+          "id": "60b22e9611ffb70827ef9547",
+          "author": null,
+          "description": "In this tutorial, you will learn how to authenticate users and secure endpoints in Node.js. You'll also see how to implement Cross-Origin Resource Sharing (CORS) in Node. So let's get started.  Prerequisites You'll need the following to follow along with this tutorial:  A working understanding of JavaScript. A good",
+          "link": "https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/",
+          "publishedOn": "2021-07-06T16:02:13.000Z",
+          "wordCount": 2286,
+          "title": "How to Authenticate Users and Implement CORS in Node.js Apps"
+        },
+        {
+          "id": "60df35f027f80207bcdbccea",
+          "author": null,
+          "description": "Let's look at five JavaScript tips you can use today to instantly improve your React applications.  Because React is a JavaScript library, any improvements that we make in our JavaScript skills will directly improve the applications that we build with React. For this reason, I've put together a number of",
+          "link": "https://www.freecodecamp.org/news/javascript-tips-to-improve-your-react-code-today/",
+          "publishedOn": "2021-07-06T15:12:00.000Z",
+          "wordCount": 1570,
+          "title": "5 JavaScript Tips to Improve Your React Code"
+        },
+        {
+          "id": "60aa196411ffb70827ef5f43",
+          "author": null,
+          "description": "In this article, you will learn how to schedule a job in Node using node-cron.  Node-cron is a handy npm package which you can use to schedule jobs to run at specific times or intervals. It is most suitable for scheduling repetitive jobs such as email notifications, file downloads, and",
+          "link": "https://www.freecodecamp.org/news/schedule-a-job-in-node-with-nodecron/",
+          "publishedOn": "2021-07-06T14:27:26.000Z",
+          "wordCount": 2989,
+          "title": "How to Schedule a Job in Node Using node-cron"
+        },
+        {
           "id": "60de3cf127f80207bcdbc9af",
           "author": null,
           "description": "We just published demos of several upcoming freeCodeCamp features and community initiatives. You can read about them here, and watch the entire Summit in the video embedded below. Here's what we cover in this jam-packed one hour community update.Announcement #1: Campfire ModeWe've built a new mode where you can",
@@ -695,6 +731,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=106354",
+          "author": "Katarina Zimmer",
+          "description": "Mitochondria appear to communicate and cooperate with one another, both within and between cells. Biologists are only just beginning to understand how and why.            \nThe post ‘Social’ Mitochondria, Whispering Between Cells, Influence Health first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/social-mitochondria-whispering-between-cells-influence-health-20210706/",
+          "publishedOn": "2021-07-06T16:38:59.000Z",
+          "wordCount": null,
+          "title": "‘Social’ Mitochondria, Whispering Between Cells, Influence Health",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=106313",
           "author": "Tara C. Smith",
           "description": "Other diseases with long-term symptoms can help us understand how COVID can affect us long after the virus itself is gone.            \nThe post How Long COVID Keeps Us Sick first appeared on Quanta Magazine",
@@ -966,15 +1012,6 @@
           "publishedOn": "2021-06-12T22:00:00.000Z",
           "wordCount": 1216,
           "title": "Web Weekly #23 (#blogPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-22/",
-          "author": null,
-          "description": "Welcome to Web Weekly #22!\n\nHello friends! It's summer here in Berlin! I mean, almost... 🙈 And I might have made it to get a slight sunburn today. I also started working on a new custom element for my blog (<web-compat />) to show always-up-to-date browser support information in my blog posts. It was a good week!\nBefore we jump into web stuff, let me share something fascinating with you, this video shows the creation of a beautiful animation without using a computer.\n\n\n          \n            \nThis week's Web Weekly includes:\nJSON modules in JavaScript\nLighthouse updates\nCSS Font descriptors\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nReady? Steady. Go!\nThe benefits of asynchronous communication\n\n\n\n\n\n\n          \n            \nOldie gut goldie – I'm working fro…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-22/",
-          "publishedOn": "2021-06-06T21:00:00.000Z",
-          "wordCount": 1254,
-          "title": "Web Weekly #22 (#blogPost)"
         }
       ]
     }
