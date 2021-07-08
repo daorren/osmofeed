@@ -22,6 +22,51 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60e521aa134ad707be00e41d",
+          "author": null,
+          "description": "Objects are one of the most valuable things you can learn in Javascript. You can use them to take your programs to the next level.  An object is a collection of data – or key value pairs – which consist of variables and functions that you can access using dot notation. Now",
+          "link": "https://www.freecodecamp.org/news/what-is-a-javascript-object/",
+          "publishedOn": "2021-07-07T22:04:00.000Z",
+          "wordCount": 761,
+          "title": "What is a JavaScript Object? Key Value Pairs and Dot Notation Explained"
+        },
+        {
+          "id": "60ccd1794dc1a607ed7b4feb",
+          "author": null,
+          "description": "A lot of people want to learn machine learning these days. But the daunting bottom-up curriculum that most ML teachers propose is enough discourage a lot of newcomers.  In this tutorial I flip the curriculum upside down and will outline what I think is the fastest and easiest way to",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-machine-learning-practical-tips-and-resources/",
+          "publishedOn": "2021-07-07T17:28:00.000Z",
+          "wordCount": 5411,
+          "title": "How to Learn Machine Learning – Tips and Resources to Learn ML the Practical Way"
+        },
+        {
+          "id": "60e25e17134ad707be00d947",
+          "author": null,
+          "description": "List comprehension is an easy to read, compact, and elegant way of creating a list from any existing iterable object. Basically, it's a simpler way to create a new list from the values in a list you already have. It is generally a single line of code enclosed in square",
+          "link": "https://www.freecodecamp.org/news/list-comprehension-in-python/",
+          "publishedOn": "2021-07-07T17:25:39.000Z",
+          "wordCount": 1592,
+          "title": "List Comprehension in Python Explained for Beginners"
+        },
+        {
+          "id": "60c38e76d3126007592d66cd",
+          "author": null,
+          "description": "I've carefully gone through over 50 resources, I've been through 10 JavaScript interviews, and I've landed a job at a unicorn startup. And throughout this entire process, I started to see a pattern in the most frequently asked JS interview questions.  In this article, I have tried to list the",
+          "link": "https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/",
+          "publishedOn": "2021-07-07T15:43:17.000Z",
+          "wordCount": 4364,
+          "title": "JavaScript Interview Prep Cheatsheet – Ace Your Coding Interviews with These Concepts"
+        },
+        {
+          "id": "60d5ec446e1a1407b6b0bcae",
+          "author": null,
+          "description": "Binary search is a common algorithm used in programming languages and programs. It can be very useful for programmers to understand how it works. We just released a binary search course on the freeCodeCamp.org YouTube channel. You will learn how to implement binary search in C and C++, but",
+          "link": "https://www.freecodecamp.org/news/what-is-binary-search/",
+          "publishedOn": "2021-07-07T13:57:56.000Z",
+          "wordCount": 13488,
+          "title": "What is Binary Search?"
+        },
+        {
           "id": "60e16e1b134ad707be00d6bc",
           "author": null,
           "description": "In this article, I'm going to explain how to automatically upload an Android App Bundle (.aab file) to the Play Store's beta track. We'll use Android Studio and AWS as a cloud infrastructure provider.  Once we've uploaded the app bundle, we'll trigger a Slack notification.  This is a valuable use",
@@ -56,6 +101,15 @@
           "publishedOn": "2021-07-06T14:27:26.000Z",
           "wordCount": 2989,
           "title": "How to Schedule a Job in Node Using node-cron"
+        },
+        {
+          "id": "60df6dd827f80207bcdbcf06",
+          "author": null,
+          "description": "Earning the Certified Information Systems Security Professional (CISSP) Certification proves you have what it takes to effectively design, implement and manage a best-in-class cybersecurity program. The CISSP is one of the most valuable Cyber Security Certificates in the market today.  We just posted a 13-hour course on the freeCodeCamp.org",
+          "link": "https://www.freecodecamp.org/news/get-ready-to-pass-cissp-exam/",
+          "publishedOn": "2021-07-06T13:55:00.000Z",
+          "wordCount": 109640,
+          "title": "Get Ready to Pass CISSP Exam"
         },
         {
           "id": "60de3cf127f80207bcdbc9af",
@@ -686,42 +740,6 @@
           "publishedOn": "2021-06-08T16:02:45.000Z",
           "wordCount": 2548,
           "title": "Complete CSS Grid Tutorial with Cheat Sheet 🎖️"
-        },
-        {
-          "id": "60bbd28eacb62507dd1d99fb",
-          "author": null,
-          "description": "Learn how to build full stack serverless apps with Supabase and Next.js.",
-          "link": "https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/",
-          "publishedOn": "2021-06-07T23:33:30.000Z",
-          "wordCount": 3567,
-          "title": "How to Build a Full Stack App with Supabase and Next.js"
-        },
-        {
-          "id": "60be863cd3126007592d4c36",
-          "author": null,
-          "description": "OpenCV is a popular Python library for real-time computer vision. We just released a new OpenCV course on the freeCodeCamp.org YouTube channel. This course comes directly from the creators of OpenCV and is the perfect course for beginners.  You will learn how to use OpenCV for Computer Vision and",
-          "link": "https://www.freecodecamp.org/news/how-to-use-opencv-and-python-for-computer-vision-and-ai/",
-          "publishedOn": "2021-06-07T20:54:41.000Z",
-          "wordCount": 439,
-          "title": "How to Use OpenCV and Python for Computer Vision and AI"
-        },
-        {
-          "id": "5ff625967af2371468bb8645",
-          "author": null,
-          "description": "Closures are a confusing JavaScript concept to learn, because it's hard to see how they're actually used.  Unlike other concepts such as functions, variables, and objects, you don't always use closures conscientiously and directly. You don't say: Oh! Here I will use a closure as a solution. But at the",
-          "link": "https://www.freecodecamp.org/news/closures-in-javascript/",
-          "publishedOn": "2021-06-07T18:18:01.000Z",
-          "wordCount": 1597,
-          "title": "How to Use Closures in JavaScript – A Beginner&#x27;s Guide"
-        },
-        {
-          "id": "60b136d911ffb70827ef912b",
-          "author": null,
-          "description": "ngClass is a directive in Angular that adds and removes CSS classes on an HTML element. In this article, we are talking about ngClass in Angular only, not ng-class in angular.js. Prerequisites – What is Property Binding?Two things we have to understand first are property binding and interpolation in",
-          "link": "https://www.freecodecamp.org/news/angular-ngclass-example/",
-          "publishedOn": "2021-06-07T15:01:26.000Z",
-          "wordCount": 1547,
-          "title": "Angular NgClass Example – How to Add Conditional CSS Classes"
         }
       ]
     },
@@ -730,6 +748,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=106349",
+          "author": "Elena Renken",
+          "description": "A temporal pattern of activity observed in human brains for the first time may explain how we can learn so quickly.            \nThe post Neurons Unexpectedly Encode Information in the Timing of Their Firing first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/a-new-kind-of-information-coding-seen-in-the-human-brain-20210707/",
+          "publishedOn": "2021-07-07T14:44:54.000Z",
+          "wordCount": null,
+          "title": "Neurons Unexpectedly Encode Information in the Timing of Their Firing",
+          "itunes": {}
+        },
         {
           "id": "https://www.quantamagazine.org/?p=106354",
           "author": "Katarina Zimmer",
@@ -888,16 +916,6 @@
           "publishedOn": "2021-06-08T15:10:05.000Z",
           "wordCount": null,
           "title": "What Makes Quantum Computing So Hard to Explain?",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=105340",
-          "author": "Robin George Andrews",
-          "description": "Scientists have long struggled to understand how common planets form. A new supercomputer simulation shows that the missing ingredient may be magnetism.            \nThe post Astronomers Find Secret Planet-Making Ingredient: Magnetic Fields first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/simulation-reveals-how-magnetism-helps-form-planets-20210607/",
-          "publishedOn": "2021-06-07T14:02:18.000Z",
-          "wordCount": null,
-          "title": "Astronomers Find Secret Planet-Making Ingredient: Magnetic Fields",
           "itunes": {}
         }
       ]
