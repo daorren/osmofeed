@@ -22,6 +22,33 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60e59724134ad707be00e5d1",
+          "author": null,
+          "description": "This post will show you how to build the Feature Toggle mechanism in your Next.JS application.  We are going to use Next.JS, React, and TypeScript. We will deploy our application to Vercel to demonstrate the real-life example. You can find the code and video in the summary at",
+          "link": "https://www.freecodecamp.org/news/how-to-use-feature-toggles-in-next-js-and-react/",
+          "publishedOn": "2021-07-08T17:13:58.000Z",
+          "wordCount": 2850,
+          "title": "Build Your Own Feature Toggle with Next.js and React in Under 30 Minutes"
+        },
+        {
+          "id": "60e3ae66134ad707be00dbdb",
+          "author": null,
+          "description": "Developing web pages used to involve writing HTML, CSS, and a little scripting code like JavaScript for functionality.  But over time, we've developed new and more advanced technologies and frameworks to create webpages. We now use things like reusable components, routing, and rendering to the document object model (DOM).  These",
+          "link": "https://www.freecodecamp.org/news/build-accessible-vue-applications/",
+          "publishedOn": "2021-07-08T16:23:19.000Z",
+          "wordCount": 1935,
+          "title": "How to Build Accessible Vue Applications"
+        },
+        {
+          "id": "60df723627f80207bcdbcf36",
+          "author": null,
+          "description": "According to Google trends, React is the most popular JavaScript frontend framework. Unless you're in the U.S. state of Nebraska, that is. 😀 Google Trends (React vs Angular)React is a declarative, efficient, and flexible JavaScript library for building user interfaces. We just released a full React course on the",
+          "link": "https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course/",
+          "publishedOn": "2021-07-08T15:44:30.000Z",
+          "wordCount": 68137,
+          "title": "Learn React JS in This Free 7-Hour Course"
+        },
+        {
           "id": "60e521aa134ad707be00e41d",
           "author": null,
           "description": "Objects are one of the most valuable things you can learn in Javascript. You can use them to take your programs to the next level.  An object is a collection of data – or key value pairs – which consist of variables and functions that you can access using dot notation. Now",
@@ -704,42 +731,6 @@
           "publishedOn": "2021-06-09T18:43:07.000Z",
           "wordCount": 336,
           "title": "Learn Bootstrap 5 and SASS by Building a Portfolio Website"
-        },
-        {
-          "id": "60bfa4d4d3126007592d5160",
-          "author": null,
-          "description": "Throughout this post we’ll deploy your freeCodeCamp front end project using various services on AWS like S3, ElasticBeanstalk, and Lambda.",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-your-freecodecamp-project-on-aws/",
-          "publishedOn": "2021-06-08T23:47:43.000Z",
-          "wordCount": 9491,
-          "title": "How to Deploy Your freeCodeCamp Project on AWS – A Beginner&#x27;s Guide to the Cloud"
-        },
-        {
-          "id": "60bfd986d3126007592d53a1",
-          "author": null,
-          "description": "Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something",
-          "link": "https://www.freecodecamp.org/news/create-your-own-electronics-with-arduino-full-course/",
-          "publishedOn": "2021-06-08T21:05:13.000Z",
-          "wordCount": 639,
-          "title": "Create Your Own Electronics With Arduino - Full Course"
-        },
-        {
-          "id": "60b23b8911ffb70827ef954e",
-          "author": null,
-          "description": "If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.",
-          "link": "https://www.freecodecamp.org/news/pass-data-between-components-in-react/",
-          "publishedOn": "2021-06-08T16:17:32.000Z",
-          "wordCount": 1205,
-          "title": "How to Pass Data and Events Between Components in React"
-        },
-        {
-          "id": "60be6a3cd3126007592d4a03",
-          "author": null,
-          "description": "Today we're going to learn CSS Grid properties so that you can make your own responsive websites. I'll explain how each of Grid's properties work along with a CheatSheet that covers everything you can do with Grid. Let's go. 🎖️ Table of Contents: CSS Grid Architecture CSS Grid Chart Grid Parent",
-          "link": "https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/",
-          "publishedOn": "2021-06-08T16:02:45.000Z",
-          "wordCount": 2548,
-          "title": "Complete CSS Grid Tutorial with Cheat Sheet 🎖️"
         }
       ]
     },
@@ -748,6 +739,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=106479",
+          "author": "Allison Whitten",
+          "description": "A group of mathematicians has shown that at critical moments, a symmetry called rotational invariance is a universal property across many physical systems.            \nThe post Mathematicians Prove Symmetry of Phase Transitions first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/mathematicians-prove-symmetry-of-phase-transitions-20210708/",
+          "publishedOn": "2021-07-08T14:17:59.000Z",
+          "wordCount": null,
+          "title": "Mathematicians Prove Symmetry of Phase Transitions",
+          "itunes": {}
+        },
         {
           "id": "https://www.quantamagazine.org/?p=106349",
           "author": "Elena Renken",
@@ -907,16 +908,6 @@
           "wordCount": null,
           "title": "DNA Jumps Between Animal Species. No One Knows How Often.",
           "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=105347",
-          "author": "Scott Aaronson",
-          "description": "To understand what quantum computers can do — and what they can’t — avoid falling for overly simple explanations.            \nThe post What Makes Quantum Computing So Hard to Explain? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/why-is-quantum-computing-so-hard-to-explain-20210608/",
-          "publishedOn": "2021-06-08T15:10:05.000Z",
-          "wordCount": null,
-          "title": "What Makes Quantum Computing So Hard to Explain?",
-          "itunes": {}
         }
       ]
     },
@@ -968,6 +959,24 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/snippets/multi-colored-text-in-css/",
+          "author": null,
+          "description": "That's one for my bookmarks. 🙈 I just came across this beautiful Pen by Shireen Taj. Occasionally, I'm googling how to do this with multi-color text effect with CSS and this example is just beautiful!\n by Shireen Taj (@TajShireen)\n  on CodePen.\n\nThe trick is that you can define a gradient on the elements background, set the text color to transparent and define background-clip: text.\nh1 {\n  /* more styling rules */\n  \n  /* define a fancy background */\n  background: linear-gradient(219deg, \n    var(--color-1) 19%, \n    transparent 19%,transparent 20%, \n    var(--color-2) 20%, var(--color-2)  39%,\n    transparent 39%,transparent 40%, \n    var(--color-3) 40%,var(--color-3) 59% ,\n    transparent 59%,transparent 60%, \n    var(--color-4) 60%, var(--color-4) 79%,\n    transparent 79%, transparent 80%, \n    var(--color-5) 80%);\n  \n  /* clip the background to the text */\n  background-clip: text;\n  -webkit-background-clip: text;\n  \n  /* make the text color transparent (and invisible) */\n  color: transparent;\n}\n\nIf you want to have a detailed look, check Shireen's CodePen. ☝️\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/snippets/multi-colored-text-in-css/",
+          "publishedOn": "2021-07-08T19:30:00.000Z",
+          "wordCount": 331,
+          "title": "Multi-colored text in CSS (#snippet)"
+        },
+        {
+          "id": "https://www.stefanjudis.com/notes/input-wrapping-labels-are-not-supported-by-dragon/",
+          "author": null,
+          "description": "Accessible form inputs are essential for building an inclusive web. It's no news that input elements should come with a properly describing label. There are two HTML-native approaches to connect a label element with an input element.\n<!-- reference the id of the input element -->\n<label for=\"email\">\n  Your email address\n</label>\n<input type=\"email\" name=\"email\" id=\"email\">\n\n\n<!-- wrap the input element with a label -->\n<label>\n  Your email address\n  <input type=\"email\" name=\"email\">\n</label>\n\nI love the input-wrapping approach because I don't have to invent ids to connect a label with an input. Additionally, it increases the tab/click area of the wrapped input element, making it more accessible with an improved UX!\nIt would be such a beautiful solution if there wouldn't be the usual Frontend problem of supporting countless browsers, devices and assistive technologies such as screen readers.\nApparently, the Dragon speech recognition software is not supporting wrapping labels (Dragon product page), which means you still have to use for/id when wrapping your inputs.\n<!-- wrapped input + for/id connection -->\n<label for=\"email\">\n  Your email address\n  <input type=\"email\" name=\"email\" id=\"email\">\n</label>\n\nAnd that's it. This quick post's purpose is purely to have the links above at hand in the future, so that's it already. 🙈\nIf you want to read more about labels and input, have a look at Adrian Roselli's post My Priority of Methods for Labeling a Control.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/notes/input-wrapping-labels-are-not-supported-by-dragon/",
+          "publishedOn": "2021-07-08T18:30:00.000Z",
+          "wordCount": 450,
+          "title": "Input-wrapping labels are not supported by Dragon (#note)"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-26/",
           "author": null,
