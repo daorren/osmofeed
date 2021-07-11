@@ -897,16 +897,6 @@
           "wordCount": null,
           "title": "Graphene Superconductors May Be Less Exotic Than Physicists Hoped",
           "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=105379",
-          "author": "Kevin Hartnett",
-          "description": "The accelerating effort to understand the mathematics of quantum field theory will have profound consequences for both math and physics.            \nThe post The Mystery at the Heart of Physics That Only Math Can Solve first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/the-mystery-at-the-heart-of-physics-that-only-math-can-solve-20210610/",
-          "publishedOn": "2021-06-10T14:21:24.000Z",
-          "wordCount": null,
-          "title": "The Mystery at the Heart of Physics That Only Math Can Solve",
-          "itunes": {}
         }
       ]
     },
@@ -915,6 +905,15 @@
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
+        {
+          "id": "60e0c4832f4b9a7ddc8b88b0",
+          "author": "Assaf Arkin",
+          "description": "This week we use QR codes all wrong, give our $0.0200000000042, turn a profit on every $1 sold, and get our hoodie back.",
+          "link": "https://labnotes.org/weekend-reading-9000-apr-technical-payday-loans/",
+          "publishedOn": "2021-07-10T17:34:23.000Z",
+          "wordCount": 1201,
+          "title": "Weekend Reading — 🤷‍♂️ 9000% APR technical payday loans"
+        },
         {
           "id": "60e0a5532f4b9a7ddc8b7d9e",
           "author": "Assaf Arkin",
@@ -958,6 +957,24 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/how-to-run-apps-in-low-resolution-on-macos/",
+          "author": null,
+          "description": "Chris Coyier shared a fascinating post describing a bug that only appeared on low-resolution devices. The post brings up the interesting problem of low-resolution devices. I usually work on a MacBook Pro and a decent monitor so that I rarely see and check the things I build in lower resolutions.\nDeveloper tools offer ways to emulate lower DPR (device pixel ratio), and tools such as dpilove indeed show different resolution values after adjusting the DPR. However, the website still looks sharp and crisp on my MacBook. I wonder if I'm missing something here?\n\n\n\n\n          \n            \nAfter reading Chris' post, I learned that you can enable low-resolution mode when developing on a high-resolution Mac. Open the app information for your browser, tick the box for \"Open in Low Resolution\" and start the application.\n\n\n\n\n          \n            \nWhen you then open the app (my example shows Chrome Canary), you see a clear visual difference. The website is rendered in low resolution, everything is a bit \"blurry\", and even the browser frame and controls are not rendered in sharp retina style anymore.\nThat's good to know for future debugging sessions that deal with device pixel ratio!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/how-to-run-apps-in-low-resolution-on-macos/",
+          "publishedOn": "2021-07-10T21:00:00.000Z",
+          "wordCount": 410,
+          "title": "How to run apps in low-resolution on macOS (#tilPost)"
+        },
+        {
+          "id": "https://www.stefanjudis.com/blog/how-to-run-commands-with-a-leading-usd-sign/",
+          "author": null,
+          "description": "I just saw an npm package that makes copying and pasting of shell commands easier. Documented shell commands often include a leading $ character (e.g. $ npm install whatever) to signal that the code block is a shell command. And when you're like me, you always copy and paste the $ sign with the command, leading to a command not found: $ error in your terminal.\n\n\n\n\n\n          \n            \nAnd while it's not a huge deal, you have to either carefully copy the command not to include the $ sign or paste the command into your terminal and remove the dollar manually. There has to be a better way...\n... and that's where the mentioned npm package comes into play. The package provides a global $ command that behaves like a proxy on your command line. The $ command simply runs all passed-in argument…",
+          "link": "https://www.stefanjudis.com/blog/how-to-run-commands-with-a-leading-usd-sign/",
+          "publishedOn": "2021-07-10T19:00:00.000Z",
+          "wordCount": 703,
+          "title": "How to \"just\" run CLI commands with a leading \"$\" sign (#blogPost)"
+        },
         {
           "id": "https://www.stefanjudis.com/snippets/multi-colored-text-in-css/",
           "author": null,

@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T00:21:22.340Z</updated>
+    <updated>2021-07-11T00:21:18.550Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to run apps in low-resolution on macOS (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/how-to-run-apps-in-low-resolution-on-macos/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/how-to-run-apps-in-low-resolution-on-macos/"/>
+        <updated>2021-07-10T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Chris Coyier shared a fascinating post describing a bug that only appeared on low-resolution devices. The post brings up the interesting problem of low-resolution devices. I usually work on a MacBook Pro and a decent monitor so that I rarely see and check the things I build in lower resolutions.
+Developer tools offer ways to emulate lower DPR (device pixel ratio), and tools such as dpilove indeed show different resolution values after adjusting the DPR. However, the website still looks sharp and crisp on my MacBook. I wonder if I'm missing something here?
+
+
+
+
+          
+            
+After reading Chris' post, I learned that you can enable low-resolution mode when developing on a high-resolution Mac. Open the app information for your browser, tick the box for "Open in Low Resolution" and start the application.
+
+
+
+
+          
+            
+When you then open the app (my example shows Chrome Canary), you see a clear visual difference. The website is rendered in low resolution, everything is a bit "blurry", and even the browser frame and controls are not rendered in sharp retina style anymore.
+That's good to know for future debugging sessions that deal with device pixel ratio!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to "just" run CLI commands with a leading "$" sign (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/how-to-run-commands-with-a-leading-usd-sign/</id>
+        <link href="https://www.stefanjudis.com/blog/how-to-run-commands-with-a-leading-usd-sign/"/>
+        <updated>2021-07-10T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I just saw an npm package that makes copying and pasting of shell commands easier. Documented shell commands often include a leading $ character (e.g. $ npm install whatever) to signal that the code block is a shell command. And when you're like me, you always copy and paste the $ sign with the command, leading to a command not found: $ error in your terminal.
+
+
+
+
+
+          
+            
+And while it's not a huge deal, you have to either carefully copy the command not to include the $ sign or paste the command into your terminal and remove the dollar manually. There has to be a better way...
+... and that's where the mentioned npm package comes into play. The package provides a global $ command that behaves like a proxy on your command line. The $ command simply runs all passed-in argument…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 🤷‍♂️ 9000% APR technical payday loans]]></title>
+        <id>60e0c4832f4b9a7ddc8b88b0</id>
+        <link href="https://labnotes.org/weekend-reading-9000-apr-technical-payday-loans/"/>
+        <updated>2021-07-10T17:34:23.000Z</updated>
+        <summary type="html"><![CDATA[This week we use QR codes all wrong, give our $0.0200000000042, turn a profit on every $1 sold, and get our hoodie back.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 React Libraries Every Project Should Use in 2021]]></title>
         <id>60e8864de8ee9b08300ecc3f</id>
@@ -1305,17 +1365,6 @@ Image tools (online and in VS Code)
         <summary type="html"><![CDATA[Do you write conditionals correctly within your React applications?  Good conditionals are an essential part of any React application. We use conditionals to show or hide elements or components in our applications.  In short – to be an effective React developer, you must know how to write good conditionals. Let's go]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Mystery at the Heart of Physics That Only Math Can Solve]]></title>
-        <id>https://www.quantamagazine.org/?p=105379</id>
-        <link href="https://www.quantamagazine.org/the-mystery-at-the-heart-of-physics-that-only-math-can-solve-20210610/"/>
-        <updated>2021-06-10T14:21:24.000Z</updated>
-        <summary type="html"><![CDATA[The accelerating effort to understand the mathematics of quantum field theory will have profound consequences for both math and physics.            
-The post The Mystery at the Heart of Physics That Only Math Can Solve first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Kevin Hartnett</name>
         </author>
     </entry>
 </feed>

@@ -16,6 +16,86 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-07-10">2021-07-10</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://labnotes.org/">Labnotes (by Assaf Arkin)</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Weekend Reading — 🤷‍♂️ 9000% APR technical payday loans</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://labnotes.org/weekend-reading-9000-apr-technical-payday-loans/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(4 min)</span>
+                    <span>This week we use QR codes all wrong, give our $0.0200000000042, turn a profit on every $1 sold, and get our hoodie back.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.stefanjudis.com/rss.xml">Stefan Judis Web Development</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">How to run apps in low-resolution on macOS (#tilPost)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/how-to-run-apps-in-low-resolution-on-macos/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>Chris Coyier shared a fascinating post describing a bug that only appeared on low-resolution devices. The post brings up the interesting problem of low-resolution devices. I usually work on a MacBook Pro and a decent monitor so that I rarely see and check the things I build in lower resolutions.
+Developer tools offer ways to emulate lower DPR (device pixel ratio), and tools such as dpilove indeed show different resolution values after adjusting the DPR. However, the website still looks sharp and crisp on my MacBook. I wonder if I&#x27;m missing something here?
+
+
+
+
+          
+            
+After reading Chris&#x27; post, I learned that you can enable low-resolution mode when developing on a high-resolution Mac. Open the app information for your browser, tick the box for &quot;Open in Low Resolution&quot; and start the application.
+
+
+
+
+          
+            
+When you then open the app (my example shows Chrome Canary), you see a clear visual difference. The website is rendered in low resolution, everything is a bit &quot;blurry&quot;, and even the browser frame and controls are not rendered in sharp retina style anymore.
+That&#x27;s good to know for future debugging sessions that deal with device pixel ratio!
+
+
+          
+          
+            Reply to Stefan</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">How to &quot;just&quot; run CLI commands with a leading &quot;$&quot; sign (#blogPost)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/blog/how-to-run-commands-with-a-leading-usd-sign/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>I just saw an npm package that makes copying and pasting of shell commands easier. Documented shell commands often include a leading $ character (e.g. $ npm install whatever) to signal that the code block is a shell command. And when you&#x27;re like me, you always copy and paste the $ sign with the command, leading to a command not found: $ error in your terminal.
+
+
+
+
+
+          
+            
+And while it&#x27;s not a huge deal, you have to either carefully copy the command not to include the $ sign or paste the command into your terminal and remove the dollar manually. There has to be a better way...
+... and that&#x27;s where the mentioned npm package comes into play. The package provides a global $ command that behaves like a proxy on your command line. The $ command simply runs all passed-in argument…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2021-07-09">2021-07-09</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -1809,32 +1889,9 @@ Image tools (online and in VS Code)
       </li>
     </ul>
   </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-06-10">2021-06-10</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.quantamagazine.org">Quanta Magazine</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">The Mystery at the Heart of Physics That Only Math Can Solve</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.quantamagazine.org/the-mystery-at-the-heart-of-physics-that-only-math-can-solve-20210610/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>The accelerating effort to understand the mathematics of quantum field theory will have profound consequences for both math and physics.            
-The post The Mystery at the Heart of Physics That Only Math Can Solve first appeared on Quanta Magazine</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-07-10T00:21:22.322Z">2021-07-10T00:21:22.322Z</time>
+    <time id="build-timestamp" datetime="2021-07-11T00:21:18.531Z">2021-07-11T00:21:18.531Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.0</a></span>
   </footer>
   <script src="index.js"></script>
