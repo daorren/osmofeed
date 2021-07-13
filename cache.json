@@ -22,6 +22,33 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60e753aa134ad707be00f2c1",
+          "author": null,
+          "description": "SPSS Statistics is a software package used for interactive, or batched, statistical analysis. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you how to use the popular statistical application SPSS from IBM. This course provides a concise overview of how you can use",
+          "link": "https://www.freecodecamp.org/news/spss-full-course/",
+          "publishedOn": "2021-07-12T13:34:03.000Z",
+          "wordCount": 22122,
+          "title": "Learn How to Use SPSS to Explore and Analyze Data"
+        },
+        {
+          "id": "60e981aae8ee9b08300ed1ae",
+          "author": null,
+          "description": "Artificial intelligence and machine learning are two popular and often hyped terms these days. And people often use them interchangeably to describe an intelligent software or system.  But even though both AI and ML are based on statistics and mathematics, they are not the same thing. In this article, you",
+          "link": "https://www.freecodecamp.org/news/ai-vs-ml-whats-the-difference/",
+          "publishedOn": "2021-07-12T11:46:56.000Z",
+          "wordCount": 899,
+          "title": "AI vs ML – What’s the Difference Between Artificial Intelligence and Machine Learning?"
+        },
+        {
+          "id": "60e76d88134ad707be00f347",
+          "author": null,
+          "description": "Gone are the days of storing your data in a CSV file or an Excel spreadsheet. If you want to quickly analyze millions of data rows in seconds, BigQuery is the way to go. In this getting started guide, we'll learn about BigQuery and how we can use it to",
+          "link": "https://www.freecodecamp.org/news/google-bigquery-beginners-guide/",
+          "publishedOn": "2021-07-12T11:26:39.000Z",
+          "wordCount": 1208,
+          "title": "Google BigQuery Beginner&#x27;s Guide – How to Analyze Large Datasets"
+        },
+        {
           "id": "60e8864de8ee9b08300ecc3f",
           "author": null,
           "description": "There are literally 100s of great React libraries to choose from, but which libraries do you need most for your React projects?  In this article, we're going to break down five libraries you need for your React projects. Each of them will cover virtually every major tool you need, plus",
@@ -704,6 +731,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=106583",
+          "author": "Jordana Cepelewicz",
+          "description": "The DNA of some viruses doesn’t use the same four nucleotide bases found in all other life. New work shows how this exception is possible and hints that it could be more common than we think.            \nThe post DNA Has Four Bases. Some Viruses Swap in a Fifth. first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/dna-has-four-bases-some-viruses-swap-in-a-fifth-20210712/",
+          "publishedOn": "2021-07-12T15:36:50.000Z",
+          "wordCount": null,
+          "title": "DNA Has Four Bases. Some Viruses Swap in a Fifth.",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=106479",
           "author": "Allison Whitten",
           "description": "A group of mathematicians has shown that at critical moments, a symmetry called rotational invariance is a universal property across many physical systems.            \nThe post Mathematicians Prove Symmetry of Phase Transitions first appeared on Quanta Magazine",
@@ -895,15 +932,6 @@
           "publishedOn": "2021-06-19T22:42:03.000Z",
           "wordCount": 1155,
           "title": "Weekend Reading — 📥 Integration Test Email #1"
-        },
-        {
-          "id": "60bbd0a757509e2328e3d77b",
-          "author": "Assaf Arkin",
-          "description": "This week we got retro-gaming display technology, GitHub facade, 10x remote job, new editor at large, and a lockdown passion project.",
-          "link": "https://labnotes.org/weekend-reading-whos-your-study-influencer/",
-          "publishedOn": "2021-06-12T19:10:47.000Z",
-          "wordCount": 1128,
-          "title": "Weekend Reading — 📚 Who's your study influencer?"
         }
       ]
     },
@@ -1010,15 +1038,6 @@
           "publishedOn": "2021-06-19T22:00:00.000Z",
           "wordCount": 1058,
           "title": "Web Weekly #24 (#blogPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-23/",
-          "author": null,
-          "description": "Welcome to Web Weekly #23!\n\nHowdy friends! That was a busy week, wasn't it? It started strong with half of the internet going down. Luckily, these situations are rare, but I can't imagine the pressure of working on a bug or misconfiguration that affects Reddit, Twitter, and large parts of the internet. 😲\nOn the bright side of things: I added a new character to my 404 page, ran a new 10km best time, and even made it to book a vaccination appointment. So it's been a good week.\nBefore we get to web stuff, look at this cuteness overload! Did you ever wonder how a running duck sounds on different surfaces? Neither did I, but this video will show you, and it's adorable!\n\n          \n            \nThis week's Web Weekly includes:\nImport assertions in JavaScript\nImage tools (online and in VS Code)\n…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-23/",
-          "publishedOn": "2021-06-12T22:00:00.000Z",
-          "wordCount": 1216,
-          "title": "Web Weekly #23 (#blogPost)"
         }
       ]
     }
