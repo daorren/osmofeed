@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T00:21:18.592Z</updated>
+    <updated>2021-07-14T00:19:52.813Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Git Branches Work]]></title>
+        <id>60e73db9134ad707be00f206</id>
+        <link href="https://www.freecodecamp.org/news/how-git-branches-work/"/>
+        <updated>2021-07-13T13:44:04.000Z</updated>
+        <summary type="html"><![CDATA[Branches are one of Git's most important concepts. And to master Git, it's essential to have a thorough understanding of how branches work. We just released a tutorial about Git branches on the freeCodeCamp.org YouTube channel. You will learn about the many actions you can perform around branches -]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a GraphQL Server with Laravel GraphQL and Test It with Postman]]></title>
+        <id>609692d82cd0545b5e9441ab</id>
+        <link href="https://www.freecodecamp.org/news/build-graphql-server-with-laravel/"/>
+        <updated>2021-07-13T07:54:34.000Z</updated>
+        <summary type="html"><![CDATA[GraphQL is a query language for your API. It simplifies the process of requesting the server by providing convenient ways to query objects.  For instance, if you're using a REST API and you need a list of books, you might hit the GET /books/list endpoint for all books. Then]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use Axios With React: The Definitive Guide (2021)]]></title>
+        <id>60e9c888e8ee9b08300ed212</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-axios-with-react/"/>
+        <updated>2021-07-13T07:36:28.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, you will see exactly how to use Axios.js with React using tons of real-world examples featuring React hooks.  You'll see why you should use Axios as a data fetching library, how to set it up with React, and perform every type of HTTP request with it.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UI/UX Design Guide: What Are UI Designers, and How Are They Different Than UX Designers?]]></title>
+        <id>60e5b284134ad707be00e5e0</id>
+        <link href="https://www.freecodecamp.org/news/ui-ux-design-guide/"/>
+        <updated>2021-07-13T02:14:52.000Z</updated>
+        <summary type="html"><![CDATA[Have you noticed that User Interface and User Experience design are considered different topics nowadays? Or have you ever wondered which one is better?  You're not the only one.  We live in a beautiful era of design, with new techniques and trends coming and going. Frontend development is also gaining]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DNA Has Four Bases. Some Viruses Swap in a Fifth.]]></title>
         <id>https://www.quantamagazine.org/?p=106583</id>
