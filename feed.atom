@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T00:20:11.491Z</updated>
+    <updated>2021-07-16T00:21:34.696Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Many Numbers Exist? Infinity Proof Moves Math Closer to an Answer.]]></title>
+        <id>https://www.quantamagazine.org/?p=106602</id>
+        <link href="https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/"/>
+        <updated>2021-07-15T14:58:50.000Z</updated>
+        <summary type="html"><![CDATA[For 50 years, mathematicians have believed that the total number of real numbers is unknowable. A new proof suggests otherwise.            
+The post How Many Numbers Exist? Infinity Proof Moves Math Closer to an Answer. first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Natalie Wolchover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the FARM Stack! (FastAPI, React, MongoDB)]]></title>
+        <id>60e74160134ad707be00f23f</id>
+        <link href="https://www.freecodecamp.org/news/learn-the-farm-stack-fastapi-reactjs-mongodb/"/>
+        <updated>2021-07-15T13:43:01.000Z</updated>
+        <summary type="html"><![CDATA[The FARM stack is FastAPI, React, and MongoDB. It is a simpler form of the MERN stack that can make developing apps even faster. We just released a FARM stack course on the freeCodeCamp.org YouTube channel.  You will learn how to create a basic CRUD application. FastAPI is where]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Apache Cassandra Beginner Tutorial]]></title>
+        <id>60ead07ee8ee9b08300ed387</id>
+        <link href="https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial/"/>
+        <updated>2021-07-15T13:13:02.000Z</updated>
+        <summary type="html"><![CDATA[There are lots of data-storage options available today. You have to choose between managed or unmanaged, relational or NoSQL, write- or read-optimized, proprietary or open-source — and it doesn't end there. Once you begin your search, you will end up in the universe that is database marketing. All of the vendors]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Stop Email Tracking in Gmail – Disable Images by Default]]></title>
         <id>60d4e7596e1a1407b6b0bb56</id>
@@ -25,6 +56,16 @@
 The post The Computer Scientist Training AI to Think With Analogies first appeared on Quanta Magazine]]></summary>
         <author>
             <name>John Pavlus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We&#x27;re Building a Data Science Curriculum with Advanced Mathematics and Machine Learning]]></title>
+        <id>5ff5461e7af2371468bb7ece</id>
+        <link href="https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/"/>
+        <updated>2021-07-14T16:27:00.000Z</updated>
+        <summary type="html"><![CDATA[We're expanding freeCodeCamp's Python section into a full-blown data science curriculum. Currently, these data science skills are only taught at a few universities around the world. Our goal is for anyone, anywhere to be able to learn these advanced mathematics and machine learning concepts that data scientists use in the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -1289,97 +1330,6 @@ The post Mathematicians Prove 2D Version of Quantum Gravity Really Works first a
 The post How Animals Color Themselves With Nanoscale Structures first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Viviane Callier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Engineering Course for Beginners]]></title>
-        <id>60c91b2b4dc1a607ed7b389a</id>
-        <link href="https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/"/>
-        <updated>2021-06-15T21:33:17.000Z</updated>
-        <summary type="html"><![CDATA[DevOps is becoming an in-demand role at many software companies. We just released a DevOps Engineering course on the freeCodeCamp.org YouTube channel. Learn all about DevOps in this comprehensive course for beginners with three technical tutorials. Colin Chartier created this course. He is the co-founder and CEO at LayerCI.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does &#x27;this&#x27; Mean in JavaScript? The this Keyword Explained with Examples]]></title>
-        <id>60c72a0ad3126007592d7e2a</id>
-        <link href="https://www.freecodecamp.org/news/what-is-this-in-javascript/"/>
-        <updated>2021-06-15T21:19:12.000Z</updated>
-        <summary type="html"><![CDATA[To understand what this truly means in JavaScript, let's take a look at a very similar concept in the English Language: Polysemy. Let's consider the word "run". Run is a single word which could mean many different things depending on the context. “I will run home” – means to move quickly]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What to Charge as a Freelance Developer – and Why You Should Avoid Being the Cheapest]]></title>
-        <id>60c8912c4dc1a607ed7b2fff</id>
-        <link href="https://www.freecodecamp.org/news/what-to-charge-as-a-freelance-developer-dont-be-the-cheapest/"/>
-        <updated>2021-06-15T21:10:54.000Z</updated>
-        <summary type="html"><![CDATA[As a freelance developer, knowing how much to charge for a project can often feel like a gamble. It's easy to wonder "Am I setting my price too high?" This is normally the first question that comes to mind. And your brain will probably meet this question with a resounding]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Decorators – How to Create and Use Decorators in Python With Examples]]></title>
-        <id>60c3dcb3d3126007592d6c6d</id>
-        <link href="https://www.freecodecamp.org/news/python-decorators-explained-with-examples/"/>
-        <updated>2021-06-15T17:57:54.000Z</updated>
-        <summary type="html"><![CDATA[Python decorators allow you to change the behavior of a function without modifying the function itself. In this article I will show you how to create and use decorators. You will see how easy it is to use this advanced Python feature. In this article I will discuss the following]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the Strangler Fig Pattern and How it Helps Manage Legacy Code]]></title>
-        <id>602aaaf60a2838549dcc5c7f</id>
-        <link href="https://www.freecodecamp.org/news/what-is-the-strangler-pattern-in-software-development/"/>
-        <updated>2021-06-15T17:43:43.000Z</updated>
-        <summary type="html"><![CDATA[Any sufficiently old codebase eventually starts to contain legacy code. Architecture, performance, comments, and more begin to degrade the moment after they are written. Some parts of the codebase last longer than other parts, but inevitably new coding standards emerge to reduce technical debt. Then you have to rework a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Open Any Repo in VS Code Without Cloning It]]></title>
-        <id>60b7cb6aacb62507dd1d7c1a</id>
-        <link href="https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning/"/>
-        <updated>2021-06-15T16:06:54.000Z</updated>
-        <summary type="html"><![CDATA[You can now open anything (that you have access to) on GitHub directly from VS Code.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Aggregate Functions – With Example Data Queries for Beginners]]></title>
-        <id>60c6aec3d3126007592d7bd5</id>
-        <link href="https://www.freecodecamp.org/news/sql-aggregate-functions-with-example-data-queries-for-beginners/"/>
-        <updated>2021-06-15T15:48:09.000Z</updated>
-        <summary type="html"><![CDATA[What is an Aggregate Function?SQL aggregate functions will seem very familiar if you have worked with spreadsheets.  Have you ever used SUM in Google Sheets or Excel? The SUM function exists in SQL as well, and is called an aggregate function.  Aggregate functions do a particular task across database]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Full Stack? How to Become a Full Stack Developer]]></title>
-        <id>60bbdd8dacb62507dd1d9a2d</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-fullstack-developer/"/>
-        <updated>2021-06-15T15:35:39.000Z</updated>
-        <summary type="html"><![CDATA[You've probably seen the term "full stack developer" before, either on tech-related websites or in job applications you've perused.  So have you ever wondered what exactly a full stack developer is and what skills you'd need to become one? Well if you're curious like I was, this article]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Materials Scientist Who Studies the Innards of Exoplanets]]></title>
-        <id>https://www.quantamagazine.org/?p=105664</id>
-        <link href="https://www.quantamagazine.org/federica-coppari-uses-a-giant-laser-to-look-inside-exoplanets-20210615/"/>
-        <updated>2021-06-15T14:13:18.000Z</updated>
-        <summary type="html"><![CDATA[Federica Coppari uses the world’s most powerful laser to recreate the cores of distant worlds.             
-The post The Materials Scientist Who Studies the Innards of Exoplanets first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Adam Mann</name>
         </author>
     </entry>
 </feed>
