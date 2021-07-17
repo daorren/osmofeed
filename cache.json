@@ -22,6 +22,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60eef23666c61b07d458d43c",
+          "author": null,
+          "description": "When it comes to styling your React app, you have a ton of different options. Which do you choose? I have broken down the 5 primary ways you have to choose between when writing CSS in your React app. There is no #1 way to approach to writing styles in",
+          "link": "https://www.freecodecamp.org/news/how-to-style-react-apps-with-css/",
+          "publishedOn": "2021-07-16T18:41:57.000Z",
+          "wordCount": 2999,
+          "title": "How to Style Your React App – 5 Ways to Write CSS in 2021"
+        },
+        {
           "id": "60e74160134ad707be00f23f",
           "author": null,
           "description": "The FARM stack is FastAPI, React, and MongoDB. It is a simpler form of the MERN stack that can make developing apps even faster. We just released a FARM stack course on the freeCodeCamp.org YouTube channel.  You will learn how to create a basic CRUD application. FastAPI is where",
@@ -641,60 +650,6 @@
           "publishedOn": "2021-06-18T13:56:04.000Z",
           "wordCount": 13842,
           "title": "Understanding Sorting Algorithms"
-        },
-        {
-          "id": "60c2aa56d3126007592d6226",
-          "author": null,
-          "description": "What is the Azure AI Fundamentals Certification?The Azure AI Fundamentals Certification is for those seeking a Machine Learning role such as AI Engineer or Data Scientist. In the last decade companies have been collecting vast amount of data surrounding their service and product offerings. The successful companies of the",
-          "link": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/",
-          "publishedOn": "2021-06-17T12:02:47.000Z",
-          "wordCount": 566,
-          "title": "Azure AI Fundamentals Certification (AI-900) – Pass the Exam With This Free 4 Hour Course"
-        },
-        {
-          "id": "60c88bbc4dc1a607ed7b2ffa",
-          "author": null,
-          "description": "Bookmarklets are browser bookmarks that execute JavaScript instead of opening a webpage. They're also known as bookmark applets, favlets, or JavaScript bookmarks. Bookmarklets are natively available in all major browsers, including Mozilla Firefox and Chromium-based browsers like Chrome or Brave. Scripting with JavaScriptLearning how to write scripts provides many benefits,",
-          "link": "https://www.freecodecamp.org/news/what-are-bookmarklets/",
-          "publishedOn": "2021-06-17T00:53:04.000Z",
-          "wordCount": 1966,
-          "title": "What are Bookmarklets? How to Use JavaScript to Make a Bookmarklet in Chromium and Firefox"
-        },
-        {
-          "id": "60c088e5d3126007592d56f1",
-          "author": null,
-          "description": "In general, a string represents a sequence of characters in a programming language.  Let's look at an example of a string created using a sequence of characters, \"Yes, You Can DO It!\". In JavaScript, we can create a string in a couple of ways: Using the string literal as a",
-          "link": "https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/",
-          "publishedOn": "2021-06-16T21:19:08.000Z",
-          "wordCount": 1696,
-          "title": "JavaScript Split – How to Split a String into an Array in JS"
-        },
-        {
-          "id": "60b8cb0aacb62507dd1d82ea",
-          "author": null,
-          "description": "In this article, I'll explain two important concepts in statistics: skewness and kurtosis. And don't worry – you won't need to know very much math to understand these concepts and learn how to apply them. What are Density Curves?Let's first talk a bit about density curves, as skewness and kurtosis",
-          "link": "https://www.freecodecamp.org/news/skewness-and-kurtosis-in-statistics-explained/",
-          "publishedOn": "2021-06-16T20:56:49.000Z",
-          "wordCount": 2502,
-          "title": "Skewness and Kurtosis – Positively Skewed and Negatively Skewed Distributions in Statistics Explained"
-        },
-        {
-          "id": "60ca25704dc1a607ed7b408c",
-          "author": null,
-          "description": "Here's a list of amazing tricks that you can use to improve your React applications instantly. These tips will not only make your code cleaner and more reliable, but they also aim to make your development experience easier and overall more enjoyable.  Give these techniques a try in your React",
-          "link": "https://www.freecodecamp.org/news/build-better-react-apps-with-these-tricks/",
-          "publishedOn": "2021-06-16T20:55:03.000Z",
-          "wordCount": 1525,
-          "title": "Build Better React Apps with These Simple Tricks"
-        },
-        {
-          "id": "60ca30af4dc1a607ed7b4197",
-          "author": null,
-          "description": "You can learn the basics of Data Analytics with 30 days of practice.  We just released a Data Analytics course on the freeCodeCamp.org YouTube channel. The course includes a 40-minute video, as well as a website and Jupyter notebooks. If you follow the plan laid out in these course",
-          "link": "https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/",
-          "publishedOn": "2021-06-16T17:19:31.000Z",
-          "wordCount": 411,
-          "title": "Teach Yourself Data Analytics in 30 Days"
         }
       ]
     },
@@ -703,6 +658,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=106575",
+          "author": "Kevin Hartnett",
+          "description": "The Standard Model is a sweeping equation that has correctly predicted the results of virtually every experiment ever conducted, as Quanta explores in a new video.            \nThe post A Video Tour of the Standard Model first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/a-video-tour-of-the-standard-model-20210716/",
+          "publishedOn": "2021-07-16T14:25:03.000Z",
+          "wordCount": null,
+          "title": "A Video Tour of the Standard Model",
+          "itunes": {}
+        },
         {
           "id": "https://www.quantamagazine.org/?p=106602",
           "author": "Natalie Wolchover",
@@ -851,16 +816,6 @@
           "publishedOn": "2021-06-17T13:56:28.000Z",
           "wordCount": null,
           "title": "Mathematicians Prove 2D Version of Quantum Gravity Really Works",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=105672",
-          "author": "Viviane Callier",
-          "description": "Animals sculpt the optical properties of their tissues at the nanoscale to give themselves “structural colors.” New work is piecing together how they do it.            \nThe post How Animals Color Themselves With Nanoscale Structures first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-blue-animals-color-themselves-with-nanostructures-20210616/",
-          "publishedOn": "2021-06-16T14:59:03.000Z",
-          "wordCount": null,
-          "title": "How Animals Color Themselves With Nanoscale Structures",
           "itunes": {}
         }
       ]
