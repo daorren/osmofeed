@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-17T00:21:26.332Z</updated>
+    <updated>2021-07-18T00:22:37.497Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Errlang]]></title>
+        <id>60e9da2c8109102a6ceb0b29</id>
+        <link href="https://labnotes.org/weekend-reading-errlang/"/>
+        <updated>2021-07-17T19:53:57.000Z</updated>
+        <summary type="html"><![CDATA[This week we go err …, we’re tested by software, we look at the Ransomware Economy, find the perfect job, and the dress to match.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Style Your React App – 5 Ways to Write CSS in 2021]]></title>
         <id>60eef23666c61b07d458d43c</id>
@@ -1269,17 +1279,6 @@ What's holding you back from being confident?
         <summary type="html"><![CDATA[Every programming language uses sorting algorithms. While programming languages have easy-to-use sorting methods, it can be helpful to understand how they work. We just released a course on the freeCodeCamp.org YouTube channel that will teach you some of the most popular sorting algorithms! Haris Iftikhar developed this course. Haris]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematicians Prove 2D Version of Quantum Gravity Really Works]]></title>
-        <id>https://www.quantamagazine.org/?p=105679</id>
-        <link href="https://www.quantamagazine.org/mathematicians-prove-2d-version-of-quantum-gravity-really-works-20210617/"/>
-        <updated>2021-06-17T13:56:28.000Z</updated>
-        <summary type="html"><![CDATA[In three towering papers, a team of mathematicians has worked out the details of Liouville quantum field theory, a two-dimensional model of quantum gravity.            
-The post Mathematicians Prove 2D Version of Quantum Gravity Really Works first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Charlie Wood</name>
         </author>
     </entry>
 </feed>
