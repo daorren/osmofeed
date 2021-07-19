@@ -623,33 +623,6 @@
           "publishedOn": "2021-06-21T16:36:14.000Z",
           "wordCount": 1153,
           "title": "How the CSS Position Property Works – Explained with Code Examples"
-        },
-        {
-          "id": "60b46dbd11ffb70827ef9dea",
-          "author": null,
-          "description": "What is TCP?TCP is an acronym for Transmission Control Protocol. It is a transport layer protocol that allows packets to be sent from one location to another.  TCP is a connection-oriented protocol, which means it establishes the connection before any communication between the network’s computer units. Because we",
-          "link": "https://www.freecodecamp.org/news/tcp-vs-udp-which-is-faster/",
-          "publishedOn": "2021-06-18T15:45:00.000Z",
-          "wordCount": 1613,
-          "title": "TCP vs UDP – Which Protocol is Faster?"
-        },
-        {
-          "id": "60cc5a904dc1a607ed7b4c54",
-          "author": null,
-          "description": "Today, you don’t need to go to a university or a college to pursue a career in machine learning or any data-driven domain. But you do need a plan and a roadmap to guide your studies. Once you have charted your own learning roadmap with a goal in mind,",
-          "link": "https://www.freecodecamp.org/news/machine-learning-specialisation-courses-for-advanced-ml-practitioners/",
-          "publishedOn": "2021-06-18T15:43:56.000Z",
-          "wordCount": 906,
-          "title": "Machine Learning Specialisation Courses for Advanced ML Practitioners"
-        },
-        {
-          "id": "60cca3294dc1a607ed7b4c76",
-          "author": null,
-          "description": "Every programming language uses sorting algorithms. While programming languages have easy-to-use sorting methods, it can be helpful to understand how they work. We just released a course on the freeCodeCamp.org YouTube channel that will teach you some of the most popular sorting algorithms! Haris Iftikhar developed this course. Haris",
-          "link": "https://www.freecodecamp.org/news/understanding-sorting-algorithms/",
-          "publishedOn": "2021-06-18T13:56:04.000Z",
-          "wordCount": 13842,
-          "title": "Understanding Sorting Algorithms"
         }
       ]
     },
@@ -867,6 +840,24 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/how-to-access-the-your-sites-google-cache-from-the-url-bar/",
+          "author": null,
+          "description": "If you're publishing content on the web, it's good to know when Google indexed new or updated pages. Today I learned that you can access the cached version (if there is one) right from the URL bar by prepending cache: to the URL. 😲\n\n\n\n\n\n          \n            \nA URL such as cache:https://www.stefanjudis.com redirects to the recent Google-indexed version available under http://webcache.googleusercontent.com.\nEdit: As it turns out this is a Google Search rather than a browser feature. When Google is your default search engine, the cache: prefix works because it works in Google Search itself. 🤦‍♂️\n\n\n\n\n          \n            \n              \n              \n            \n          \n        \n      \n    \n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/how-to-access-the-your-sites-google-cache-from-the-url-bar/",
+          "publishedOn": "2021-07-18T18:00:00.000Z",
+          "wordCount": 319,
+          "title": "How to access the your sites' Google cache from the URL bar (#tilPost)"
+        },
+        {
+          "id": "https://www.stefanjudis.com/snippets/a-natural-shadow-with-svg-filters/",
+          "author": null,
+          "description": "I just cleaned up all the open tabs in my browser and discovered a Tweet from Jamie Kyle (if you open it, yes, I had that tab open for six months 🙈). Jamie described how he implemented a natural shadow component using React and SVG filters. The shadow reflects the element's colors, and they are what give the effect its natural look.\n\n          \n            \nJamie wraps an image into an SVG element and uses SVG filter elements to create the beautiful shadow.\nThat approach got me thinking, a while ago, I published a blog post describing how to inline SVG filters in CSS. It turns out you can apply Jamie's SVG filter without React or wrapping everything in an SVG element. Pure CSS does the job! 🎉\nHere's the CSS class with the inlined SVG filter.\n.natural-shadow {\n  /* inline the SVG filter */\n  filter: url('data:image/svg+xml,\\\n    <svg xmlns=\"http://www.w3.org/2000/svg\">\\\n      <filter id=\"naturalShadow\" x=\"0\" y=\"0\" width=\"2\" height=\"2\">\\\n        <feOffset in=\"SourceGraphic\" dx=\"3\" dy=\"3\" />\\\n        <feGaussianBlur stdDeviation=\"5\" result=\"blur\" />\\\n        <feMerge>\\\n          <feMergeNode in=\"blur\"/>\\\n          <feMergeNode in=\"SourceGraphic\"/>\\\n        </feMerge>\\\n      </filter>\\\n    </svg>#naturalShadow');\n}\n\nWhat's cool about this approach is that the SVG filter is visually applied to the element and its children. You can apply it to a wrapper div such as the one below.\n<div class=\"natural-shadow\">\n  <img src=\"/your-image.png\" alt=\"Your iamge\">\n</div>\n\nSee the result in action. This shadow is done in pure CSS (sort of 🙈). 👇\nAs stated in my previous blog post, Safari seems to have some issues with inlined SVG filters. If you know what's the problem, please let me know!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/snippets/a-natural-shadow-with-svg-filters/",
+          "publishedOn": "2021-07-17T22:00:00.000Z",
+          "wordCount": 431,
+          "title": "A natural shadow with SVG filters (#snippet)"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-27/",
           "author": null,
