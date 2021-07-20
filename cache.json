@@ -22,6 +22,69 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60f3e5ca66c61b07d458eb2d",
+          "author": null,
+          "description": "Developers need to install Xcode Command Line Tools before they can develop software on a Mac. This article shows three ways to install Xcode Command Line Tools, including the newest approach using Homebrew.",
+          "link": "https://www.freecodecamp.org/news/install-xcode-command-line-tools/",
+          "publishedOn": "2021-07-19T22:25:44.000Z",
+          "wordCount": 1246,
+          "title": "How to Install Xcode Command Line Tools on a Mac"
+        },
+        {
+          "id": "60f53af066c61b07d458ed0a",
+          "author": null,
+          "description": "Choosing the right color for your web design project is a serious endeavour. A color scheme can often make or break a site's overall appearance.  Different colors create a different feel for your designs. The right choice of colors can make your designs and creations look clean, aesthetically pleasing, and",
+          "link": "https://www.freecodecamp.org/news/rgb-color-html-and-css-guide/",
+          "publishedOn": "2021-07-19T19:00:35.000Z",
+          "wordCount": 1566,
+          "title": "RGB Color – HTML and CSS Guide"
+        },
+        {
+          "id": "60f2829d66c61b07d458e58f",
+          "author": null,
+          "description": "Whenever I heard of the term “Cloud native”, my thoughts would usually go to Kubernetes. I used to think “Cloud native” was a phrase used for describing just Kubernetes.  But as I delved more into it, I realized my assumption was wrong. Cloud native isn't just about Kubernetes – it is",
+          "link": "https://www.freecodecamp.org/news/get-started-with-cloud-native/",
+          "publishedOn": "2021-07-19T18:12:13.000Z",
+          "wordCount": 1358,
+          "title": "What is Cloud Native? The Cloud Computing Delivery Model Explained"
+        },
+        {
+          "id": "60ec528ce8ee9b08300edb9e",
+          "author": null,
+          "description": "There might be times when a website has data you want to analyze but the site doesn't expose an API for accessing those data.  To get the data, you'll have to resort to web scraping.  In this article, I'll go over how to scrape websites with Node.js and Cheerio.",
+          "link": "https://www.freecodecamp.org/news/how-to-scrape-websites-with-node-js-and-cheerio/",
+          "publishedOn": "2021-07-19T16:50:30.000Z",
+          "wordCount": 2311,
+          "title": "How to Scrape Websites with Node.js and Cheerio"
+        },
+        {
+          "id": "60e7d016134ad707be00f47c",
+          "author": null,
+          "description": "Wherever there is a number, there is beauty.  -Proclus  Wherever there are numbers, you're probably dealing with a math-related topic. And wherever there is math, the chances of it being a nightmare for some people are also high.  For many people, math is not their cup of tea.  But if",
+          "link": "https://www.freecodecamp.org/news/how-to-calculate-percent-change-in-excel-find-increase-and-decrease-percentage/",
+          "publishedOn": "2021-07-19T15:25:39.000Z",
+          "wordCount": 1079,
+          "title": "How to Calculate Percent Change in Excel – Find Increase and Decrease Percentage"
+        },
+        {
+          "id": "60dbcc7c27f80207bcdbbcff",
+          "author": null,
+          "description": "In this article, we will learn what Kerberos is, how it works, and the various pros and cons of using this authentication protocol.   What is Kerberos?Have you ever wondered what happens when you type in your username and password at work, and magically have access to file servers, email",
+          "link": "https://www.freecodecamp.org/news/how-does-kerberos-work-authentication-protocol/",
+          "publishedOn": "2021-07-19T14:34:59.000Z",
+          "wordCount": 2641,
+          "title": "How Does Kerberos Work? The Authentication Protocol Explained"
+        },
+        {
+          "id": "60f18a9666c61b07d458e2b0",
+          "author": null,
+          "description": "In one sense, recursion is simple. In fact, most of what you need to know about recursion can be summed up in this gif: However, as you go deeper in, it becomes apparent that recursion can be tricky to fully grasp. But it doesn't have to be. We just released",
+          "link": "https://www.freecodecamp.org/news/understanding-recursion-in-programming/",
+          "publishedOn": "2021-07-19T13:56:48.000Z",
+          "wordCount": 18791,
+          "title": "Understanding Recursion in Programming"
+        },
+        {
           "id": "60eef23666c61b07d458d43c",
           "author": null,
           "description": "When it comes to styling your React app, you have a ton of different options. Which do you choose? I have broken down the 5 primary ways you have to choose between when writing CSS in your React app. There is no #1 way to approach to writing styles in",
@@ -632,6 +695,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=106834",
+          "author": "Kevin Hartnett",
+          "description": "Laurent Fargues and Peter Scholze have found a new, more powerful way of connecting number theory and geometry as part of the sweeping Langlands program.            \nThe post New Shape Opens ‘Wormhole’ Between Numbers and Geometry first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/with-a-new-shape-mathematicians-link-geometry-and-numbers-20210719/",
+          "publishedOn": "2021-07-19T15:27:44.000Z",
+          "wordCount": null,
+          "title": "New Shape Opens ‘Wormhole’ Between Numbers and Geometry",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=106575",
           "author": "Kevin Hartnett",
           "description": "The Standard Model is a sweeping equation that has correctly predicted the results of virtually every experiment ever conducted, as Quanta explores in a new video.            \nThe post A Video Tour of the Standard Model first appeared on Quanta Magazine",
@@ -823,15 +896,6 @@
           "publishedOn": "2021-06-27T17:46:10.000Z",
           "wordCount": 869,
           "title": "Weekend Reading — 🐶 Smelling Ground"
-        },
-        {
-          "id": "60c5071510f7da66e5e25f56",
-          "author": "Assaf Arkin",
-          "description": "This week we check our spam folder, witness a passing integration test, swoop and poop, and a trip to Waffle House.",
-          "link": "https://labnotes.org/weekend-reading-integration-test-email-1/",
-          "publishedOn": "2021-06-19T22:42:03.000Z",
-          "wordCount": 1155,
-          "title": "Weekend Reading — 📥 Integration Test Email #1"
         }
       ]
     },
@@ -840,6 +904,15 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-28/",
+          "author": null,
+          "description": "Welcome to Web Weekly #28!\n\nγεια, friends!\nA few people reached out to me this week to check if I'm okay with the flooding going on in Germany. Thank you, I am, and I really hope the same applies to you!\nThis week's highlight was that I started reading On writing well. Unsurprisingly, the book teaches how to write better non-fiction. I'm only a few chapters in, and I like it a lot. Get ready for it; my writing might become more concise soon!\nBefore we jump into web stuff, let me share a comic about the state of the web with you.\n\n\n\n          \n            \nThis week's Web Weekly includes:\nloops in JavaScript\nthe git worktree command\nnatural shadows in CSS\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nReady? Steady. Go!\nThe various loops in JavaScript\n\n\n\n\n       …",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-28/",
+          "publishedOn": "2021-07-18T22:00:00.000Z",
+          "wordCount": 1006,
+          "title": "Web Weekly #28 (#blogPost)"
+        },
         {
           "id": "https://www.stefanjudis.com/today-i-learned/how-to-access-the-your-sites-google-cache-from-the-url-bar/",
           "author": null,
@@ -947,15 +1020,6 @@
           "publishedOn": "2021-06-27T14:00:00.000Z",
           "wordCount": 461,
           "title": "How to find all internal pages in Chromiums and Firefox (#tilPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-24/",
-          "author": null,
-          "description": "Welcome to Web Weekly #24!\n\nHola friends!\nOh well... Let me be honest, my week was very long; I felt super low, binge-watched Netflix the entire weekend, and the 30+°C here in Berlin didn't help. It was pretty challenging to sit down and write this week's newsletter (but I couldn't break the 24-week streak 🙈).\nI hope you had a better week and are getting ready for the summer. We all deserve it!\nBefore we jump into web stuff, here's a pupper from my hidden collection. It's just too cute how she leaves the scene. 😊\n\n\n          \n            \nThis week's Web Weekly includes:\nGraphQL terms explained\nCSS overscroll-behavior\nError cause in JavaScript\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nReady? Steady. Go!\nWhat's holding you back from being confident?\n\n\n\n\n\n …",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-24/",
-          "publishedOn": "2021-06-19T22:00:00.000Z",
-          "wordCount": 1058,
-          "title": "Web Weekly #24 (#blogPost)"
         }
       ]
     }

@@ -2,10 +2,123 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T00:22:06.689Z</updated>
+    <updated>2021-07-20T00:20:52.154Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Install Xcode Command Line Tools on a Mac]]></title>
+        <id>60f3e5ca66c61b07d458eb2d</id>
+        <link href="https://www.freecodecamp.org/news/install-xcode-command-line-tools/"/>
+        <updated>2021-07-19T22:25:44.000Z</updated>
+        <summary type="html"><![CDATA[Developers need to install Xcode Command Line Tools before they can develop software on a Mac. This article shows three ways to install Xcode Command Line Tools, including the newest approach using Homebrew.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RGB Color – HTML and CSS Guide]]></title>
+        <id>60f53af066c61b07d458ed0a</id>
+        <link href="https://www.freecodecamp.org/news/rgb-color-html-and-css-guide/"/>
+        <updated>2021-07-19T19:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Choosing the right color for your web design project is a serious endeavour. A color scheme can often make or break a site's overall appearance.  Different colors create a different feel for your designs. The right choice of colors can make your designs and creations look clean, aesthetically pleasing, and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Cloud Native? The Cloud Computing Delivery Model Explained]]></title>
+        <id>60f2829d66c61b07d458e58f</id>
+        <link href="https://www.freecodecamp.org/news/get-started-with-cloud-native/"/>
+        <updated>2021-07-19T18:12:13.000Z</updated>
+        <summary type="html"><![CDATA[Whenever I heard of the term “Cloud native”, my thoughts would usually go to Kubernetes. I used to think “Cloud native” was a phrase used for describing just Kubernetes.  But as I delved more into it, I realized my assumption was wrong. Cloud native isn't just about Kubernetes – it is]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Scrape Websites with Node.js and Cheerio]]></title>
+        <id>60ec528ce8ee9b08300edb9e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-scrape-websites-with-node-js-and-cheerio/"/>
+        <updated>2021-07-19T16:50:30.000Z</updated>
+        <summary type="html"><![CDATA[There might be times when a website has data you want to analyze but the site doesn't expose an API for accessing those data.  To get the data, you'll have to resort to web scraping.  In this article, I'll go over how to scrape websites with Node.js and Cheerio.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Shape Opens ‘Wormhole’ Between Numbers and Geometry]]></title>
+        <id>https://www.quantamagazine.org/?p=106834</id>
+        <link href="https://www.quantamagazine.org/with-a-new-shape-mathematicians-link-geometry-and-numbers-20210719/"/>
+        <updated>2021-07-19T15:27:44.000Z</updated>
+        <summary type="html"><![CDATA[Laurent Fargues and Peter Scholze have found a new, more powerful way of connecting number theory and geometry as part of the sweeping Langlands program.            
+The post New Shape Opens ‘Wormhole’ Between Numbers and Geometry first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Kevin Hartnett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Calculate Percent Change in Excel – Find Increase and Decrease Percentage]]></title>
+        <id>60e7d016134ad707be00f47c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-calculate-percent-change-in-excel-find-increase-and-decrease-percentage/"/>
+        <updated>2021-07-19T15:25:39.000Z</updated>
+        <summary type="html"><![CDATA[Wherever there is a number, there is beauty.  -Proclus  Wherever there are numbers, you're probably dealing with a math-related topic. And wherever there is math, the chances of it being a nightmare for some people are also high.  For many people, math is not their cup of tea.  But if]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does Kerberos Work? The Authentication Protocol Explained]]></title>
+        <id>60dbcc7c27f80207bcdbbcff</id>
+        <link href="https://www.freecodecamp.org/news/how-does-kerberos-work-authentication-protocol/"/>
+        <updated>2021-07-19T14:34:59.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will learn what Kerberos is, how it works, and the various pros and cons of using this authentication protocol.   What is Kerberos?Have you ever wondered what happens when you type in your username and password at work, and magically have access to file servers, email]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Recursion in Programming]]></title>
+        <id>60f18a9666c61b07d458e2b0</id>
+        <link href="https://www.freecodecamp.org/news/understanding-recursion-in-programming/"/>
+        <updated>2021-07-19T13:56:48.000Z</updated>
+        <summary type="html"><![CDATA[In one sense, recursion is simple. In fact, most of what you need to know about recursion can be summed up in this gif: However, as you go deeper in, it becomes apparent that recursion can be tricky to fully grasp. But it doesn't have to be. We just released]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #28 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-28/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-28/"/>
+        <updated>2021-07-18T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Web Weekly #28!
+
+γεια, friends!
+A few people reached out to me this week to check if I'm okay with the flooding going on in Germany. Thank you, I am, and I really hope the same applies to you!
+This week's highlight was that I started reading On writing well. Unsurprisingly, the book teaches how to write better non-fiction. I'm only a few chapters in, and I like it a lot. Get ready for it; my writing might become more concise soon!
+Before we jump into web stuff, let me share a comic about the state of the web with you.
+
+
+
+          
+            
+This week's Web Weekly includes:
+loops in JavaScript
+the git worktree command
+natural shadows in CSS
+... and, as always, GitHub repositories, a new Tiny Helper and some music.
+Ready? Steady. Go!
+The various loops in JavaScript
+
+
+
+
+       …]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to access the your sites' Google cache from the URL bar (#tilPost)]]></title>
         <id>https://www.stefanjudis.com/today-i-learned/how-to-access-the-your-sites-google-cache-from-the-url-bar/</id>
@@ -1287,48 +1400,6 @@ The post Gas Giants’ Energy Crisis Solved After 50 Years first appeared on Qua
 The post Secret Workings of Smell Receptors Revealed for First Time first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Jordana Cepelewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — 📥 Integration Test Email #1]]></title>
-        <id>60c5071510f7da66e5e25f56</id>
-        <link href="https://labnotes.org/weekend-reading-integration-test-email-1/"/>
-        <updated>2021-06-19T22:42:03.000Z</updated>
-        <summary type="html"><![CDATA[This week we check our spam folder, witness a passing integration test, swoop and poop, and a trip to Waffle House.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #24 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-24/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-24/"/>
-        <updated>2021-06-19T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Web Weekly #24!
-
-Hola friends!
-Oh well... Let me be honest, my week was very long; I felt super low, binge-watched Netflix the entire weekend, and the 30+°C here in Berlin didn't help. It was pretty challenging to sit down and write this week's newsletter (but I couldn't break the 24-week streak 🙈).
-I hope you had a better week and are getting ready for the summer. We all deserve it!
-Before we jump into web stuff, here's a pupper from my hidden collection. It's just too cute how she leaves the scene. 😊
-
-
-          
-            
-This week's Web Weekly includes:
-GraphQL terms explained
-CSS overscroll-behavior
-Error cause in JavaScript
-... and, as always, GitHub repositories, a new Tiny Helper and some music.
-Ready? Steady. Go!
-What's holding you back from being confident?
-
-
-
-
-
- …]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
