@@ -22,6 +22,69 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60f55f3e66c61b07d458ee8c",
+          "author": null,
+          "description": "The cascading nature of CSS sometimes makes it tough to understand and use. Developers at all levels often struggle while trying to figure out how to use certain features, and you'll often find yourself googling or asking a colleague for help.  So when you're having issues dealing with CSS, don’",
+          "link": "https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project/",
+          "publishedOn": "2021-07-21T22:39:42.000Z",
+          "wordCount": 1311,
+          "title": "10 CSS Tricks to Improve Your Next Coding Project (Cheatsheet)"
+        },
+        {
+          "id": "60f5ecb966c61b07d458f479",
+          "author": null,
+          "description": "You use EditorConfig to define formatting conventions for textual files in a project. It's great because it's widely supported, and it's not tied to any particular language, framework, or code editor. EditorConfig on its own is just a vendor-agnostic configuration file. It relies on third-party tools or integrations to implement",
+          "link": "https://www.freecodecamp.org/news/how-to-use-editorconfig-to-standardize-code-styles/",
+          "publishedOn": "2021-07-21T21:28:55.000Z",
+          "wordCount": 1654,
+          "title": "Why You Should Use EditorConfig to Standardize Code Styles"
+        },
+        {
+          "id": "60f81c021d2b080797b80d44",
+          "author": null,
+          "description": "You might have heard of about:blank but don't understand what it is. Or you've seen it appear when you first load up a fresh new session in the Chrome browser – just an empty white page with about:blank showing in your address bar.  You might even see it when",
+          "link": "https://www.freecodecamp.org/news/what-is-about-blank-chrome-blank-homepage-guide/",
+          "publishedOn": "2021-07-21T21:02:54.000Z",
+          "wordCount": 1132,
+          "title": "What is about:blank? Chrome Blank Homepage Guide"
+        },
+        {
+          "id": "60f83b421d2b080797b80f10",
+          "author": null,
+          "description": "Low-Code can allow you to spin up apps fast and with out-of-the-box UI components. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Low-Code solutions by building 3 financial apps.  Ania Kubów developed this course. She is a ex-financial Broker turned software developer.",
+          "link": "https://www.freecodecamp.org/news/low-code-tutorial/",
+          "publishedOn": "2021-07-21T15:40:35.000Z",
+          "wordCount": 441,
+          "title": "Low-Code Tutorial – Build 3 Financial Apps"
+        },
+        {
+          "id": "60f7eeda1d2b080797b80b31",
+          "author": null,
+          "description": "React context is an essential tool for every React developer to know. I lets you easily share state in your applications. In this comprehensive guide, we will cover what React context is, how to use it, when and when not to use context, and lots more. Even if you've never",
+          "link": "https://www.freecodecamp.org/news/react-context-for-beginners/",
+          "publishedOn": "2021-07-21T15:39:28.000Z",
+          "wordCount": 1684,
+          "title": "React Context for Beginners – The Complete Guide (2021)"
+        },
+        {
+          "id": "60f5c9b866c61b07d458f2af",
+          "author": null,
+          "description": "Article by @study_web_dev",
+          "link": "https://www.freecodecamp.org/news/13-awesome-freelance-developer-portfolios/",
+          "publishedOn": "2021-07-21T15:24:57.000Z",
+          "wordCount": 2572,
+          "title": "13 Freelance Developer Portfolios to Inspire You"
+        },
+        {
+          "id": "60f66b6f66c61b07d458f93c",
+          "author": null,
+          "description": "What a user sees on a website will impact how good their user experience is. It will also affect how easily they can use the whole site in general.  Adding images to the background of certain parts of a website is often more visually appealing and interesting than just changing",
+          "link": "https://www.freecodecamp.org/news/css-background-image-with-html-example-code/",
+          "publishedOn": "2021-07-21T15:20:18.000Z",
+          "wordCount": 1624,
+          "title": "CSS Background Image – With HTML Example Code"
+        },
+        {
           "id": "605301d528094f59be257c67",
           "author": null,
           "description": "In this article, we are going to learn about the <u> tag and when it is appropriate to use it in HTML 5.  In older versions of HTML, you'd use this tag as a way to underline text. We are going to learn about the new HTML 5",
@@ -668,69 +731,6 @@
           "publishedOn": "2021-06-22T16:18:29.000Z",
           "wordCount": 1611,
           "title": "How to Use Python to Create a Visual Novel Game in 10 Minutes"
-        },
-        {
-          "id": "60c81f774dc1a607ed7b2f66",
-          "author": null,
-          "description": "I've been using Vim since the first year I started coding. For all the IDEs/editors that I have used, the Vim plugin is always the very first plugin that I install. I know that Vim can be challenging to work in for people who are not familiar with it.",
-          "link": "https://www.freecodecamp.org/news/how-to-exit-vim/",
-          "publishedOn": "2021-06-21T21:52:43.000Z",
-          "wordCount": 1785,
-          "title": "How to Exit Vim – Vim Save and Quit Command Tutorial"
-        },
-        {
-          "id": "60bce157acb62507dd1d9f11",
-          "author": null,
-          "description": "When you're working with Python lists, you often need to combine data from multiple lists. So how do you do that? In this tutorial, we'll see the different ways you can combine data from multiple lists. We'll also learn how the list methods append() and extend() work through simple examples.",
-          "link": "https://www.freecodecamp.org/news/python-list-methods-append-vs-extend/",
-          "publishedOn": "2021-06-21T21:25:11.000Z",
-          "wordCount": 1085,
-          "title": "Python List Methods – append( ) vs extend( ) in Python Explained with Code Examples"
-        },
-        {
-          "id": "60cccd6e4dc1a607ed7b4f81",
-          "author": null,
-          "description": "Redux is a state management library for front end applications. Developers commonly use it with React through the react-redux package, but it can also stand alone – so you can use it in any front end framework or library, including Vanilla JavaScript.  Redux can really be intimidating at first. It might",
-          "link": "https://www.freecodecamp.org/news/learn-redux-by-making-a-counter-application/",
-          "publishedOn": "2021-06-21T21:01:42.000Z",
-          "wordCount": 1659,
-          "title": "Learn Redux by Making a Counter Application"
-        },
-        {
-          "id": "60d0d0ff6e1a1407b6b0a506",
-          "author": null,
-          "description": "Today you're going to create one of the most important apps you can build for yourself: your developer portfolio. Every React developer or web developer in general needs to be able to show off what they can do to any potential client or employer. That's exactly what we're going to",
-          "link": "https://www.freecodecamp.org/news/build-portfolio-website-react/",
-          "publishedOn": "2021-06-21T18:15:53.000Z",
-          "wordCount": 3729,
-          "title": "How to Build a Portfolio Website with React"
-        },
-        {
-          "id": "60cda7104dc1a607ed7b5588",
-          "author": null,
-          "description": "Figma is a powerful design tool that helps you to create anything: websites, applications, logos, and much more. By learning to use Figma, you'll take your first steps into User Interface Design and and User Experience Design. These skills are essential for building a great portfolio for yourself and potentially",
-          "link": "https://www.freecodecamp.org/news/figma-crash-course/",
-          "publishedOn": "2021-06-21T17:52:21.000Z",
-          "wordCount": 1194,
-          "title": "What is Figma? A Design Crash Course [2021 Tutorial]"
-        },
-        {
-          "id": "60a55b37906c5207e3a7ea78",
-          "author": null,
-          "description": "But where do you store your application's content? Storing the content on the blockchain would be expensive and inefficient. Your blockchain application needs decentralized storage!",
-          "link": "https://www.freecodecamp.org/news/technical-guide-to-ipfs-decentralized-storage-of-web3/",
-          "publishedOn": "2021-06-21T16:38:36.000Z",
-          "wordCount": 3575,
-          "title": "A Technical Guide to IPFS – the Decentralized Storage of Web3"
-        },
-        {
-          "id": "6063b9e19618b008528a9d9a",
-          "author": null,
-          "description": "Today we're gonna learn everything you need to know about the CSS position property along with examples. Let's get started 🎖️ Table of contents What is CSS Position Property?What is the Static Position in CSS?What are the Relative and Absolute Positions in CSS?What is the Fixed Position in",
-          "link": "https://www.freecodecamp.org/news/css-position-property-explained/",
-          "publishedOn": "2021-06-21T16:36:14.000Z",
-          "wordCount": 1153,
-          "title": "How the CSS Position Property Works – Explained with Code Examples"
         }
       ]
     },
@@ -739,6 +739,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=106853",
+          "author": "Jordana Cepelewicz and Allison Whitten",
+          "description": "Scientists have reported large DNA structures in some archaea that defy easy categorization.            \nThe post Plasmid, Virus or Other? DNA ‘Borgs’ Blur Boundaries. first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/plasmid-virus-or-other-dna-borgs-blur-boundaries-20210721/",
+          "publishedOn": "2021-07-21T15:50:40.000Z",
+          "wordCount": null,
+          "title": "Plasmid, Virus or Other? DNA ‘Borgs’ Blur Boundaries.",
+          "itunes": {}
+        },
         {
           "id": "https://www.quantamagazine.org/?p=106841",
           "author": "Ben Brubaker",
@@ -897,16 +907,6 @@
           "publishedOn": "2021-06-22T15:10:55.000Z",
           "wordCount": null,
           "title": "Gas Giants’ Energy Crisis Solved After 50 Years",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=105906",
-          "author": "Jordana Cepelewicz",
-          "description": "Researchers have finally seen how some smell receptors bind to odor molecules. The work yields new insights into one of the most mysterious and versatile senses.            \nThe post Secret Workings of Smell Receptors Revealed for First Time first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/secret-workings-of-smell-receptors-revealed-for-first-time-20210621/",
-          "publishedOn": "2021-06-21T15:39:02.000Z",
-          "wordCount": null,
-          "title": "Secret Workings of Smell Receptors Revealed for First Time",
           "itunes": {}
         }
       ]
