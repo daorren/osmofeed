@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-22T00:22:14.515Z</updated>
+    <updated>2021-07-23T00:22:19.208Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Screenshot on Mac – Take a Screen Capture with a Keyboard Shortcut]]></title>
+        <id>60f969ee1d2b080797b8160a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-screenshot-on-mac-take-a-screen-capture-with-a-keyboard-shortcut/"/>
+        <updated>2021-07-22T22:05:03.000Z</updated>
+        <summary type="html"><![CDATA[Using just a few keystrokes, it's easy to capture part or all of your screen on a Mac.  Screenshots are useful in many cases, like when you're writing a blog post and you want to use images that will drive home the points you are making.  This guide will show]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Box Model Properties – Explained With Examples ✨]]></title>
+        <id>6063b98a9618b008528a9d92</id>
+        <link href="https://www.freecodecamp.org/news/css-box-model-explained-with-examples/"/>
+        <updated>2021-07-22T17:31:57.000Z</updated>
+        <summary type="html"><![CDATA[Today we're gonna learn how to use the CSS box model with examples. This will help you make pixel perfect websites and will teach you to use the box-sizing, margin, padding, and border properties more accurately.  We're also going to see some practical use cases for these properties. Let's get]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Python to Detect Music Onsets]]></title>
+        <id>60f716ab1d2b080797b80532</id>
+        <link href="https://www.freecodecamp.org/news/use-python-to-detect-music-onsets/"/>
+        <updated>2021-07-22T16:56:17.000Z</updated>
+        <summary type="html"><![CDATA[In music terminology, an onset refers to the beginning of a musical note or other sound. In this post, we will look at how to detect music onsets with Python's audio signal processing libraries, Aubio and librosa. This tutorial is relevant even if your application doesn't use Python - for]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Webmentions with Gatsby.js – A Beginner&#x27;s Guide]]></title>
+        <id>60af854611ffb70827ef8526</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-webmentions-with-gatsby-beginners-guide/"/>
+        <updated>2021-07-22T16:33:55.000Z</updated>
+        <summary type="html"><![CDATA[Webmention is a simple protocol developed by the IndieWeb Community that you can use to request notifications when your URLs are mentioned on the web. When you post on your own site and syndicate elsewhere (POSSE), Webmention lets you enable rich interactions on your syndicated posts. This article will walk]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Find Rational Points Like Your Job Depends on It]]></title>
+        <id>https://www.quantamagazine.org/?p=106872</id>
+        <link href="https://www.quantamagazine.org/how-simple-math-reveals-rational-points-on-curves-20210722/"/>
+        <updated>2021-07-22T15:05:50.000Z</updated>
+        <summary type="html"><![CDATA[Using high school algebra and geometry, and knowing just one rational point on a circle or elliptic curve, we can locate infinitely many others.
+
+            
+The post How to Find Rational Points Like Your Job Depends on It first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Patrick Honner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS Flexbox in This Crash Course]]></title>
+        <id>60f245ca66c61b07d458e512</id>
+        <link href="https://www.freecodecamp.org/news/learn-css-flexbox/"/>
+        <updated>2021-07-22T13:58:50.000Z</updated>
+        <summary type="html"><![CDATA[Understanding CSS Flexbox is super helpful if you want to make your websites responsive. Flexbox is a powerful responsive web design tool that's built right into CSS itself. And we just published a CSS Flexbox crash course on the freeCodeCamp.org YouTube channel.  James Maxwell created this course. Not only]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 CSS Tricks to Improve Your Next Coding Project (Cheatsheet)]]></title>
         <id>60f55f3e66c61b07d458ee8c</id>
@@ -1391,76 +1454,6 @@ The post Nathan Seiberg on How Math Might Complete the Ultimate Physics Theory f
 The post Same or Different? The Question Flummoxes Neural Networks first appeared on Quanta Magazine]]></summary>
         <author>
             <name>John Pavlus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.11.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0"/>
-        <updated>2021-06-23T05:57:59.000Z</updated>
-        <summary type="html"><![CDATA[Added: support an experimental template for YouTube feed 📺 Demo | Source
-
-Aggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>
-Videos are embedded via iframe and loading accelerated by youtube-lite-embed
-Ads are reduced thanks to YouTube's policy for embedded videos 🙃
-Works on mobile devices with butter smooth horizontal scroll.
-Caveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.
-Changed: Default HTML template meta tag adjusted to match convention
-Changed: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)
-Thank you @PiyushLosalka]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Scraping with PHP – How to Crawl Web Pages Using Open Source Tools]]></title>
-        <id>60d2323d6e1a1407b6b0ac4f</id>
-        <link href="https://www.freecodecamp.org/news/web-scraping-with-php-crawl-web-pages/"/>
-        <updated>2021-06-22T21:11:53.000Z</updated>
-        <summary type="html"><![CDATA[Web scraping lets you collect data from web pages across the internet. It's also called web crawling or web data extraction.  PHP is a widely used back-end scripting language for creating dynamic websites and web applications. And you can implement a web scraper using plain PHP code.  But since we]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Async/Await to Write Better JavaScript Code]]></title>
-        <id>60cac8ff4dc1a607ed7b4592</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-async-await-write-better-javascript/"/>
-        <updated>2021-06-22T16:24:37.000Z</updated>
-        <summary type="html"><![CDATA[There’s a special syntax you can use in JavaScript that makes working with promises easier. It's called “async/await", and it’s surprisingly straightforward to understand and use.  In this article, we'll discuss:  What are asynchronus functions? How promises work in JavaScript Async/Await basics How to use]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use TypeScript and MongoDB to Build a 100 Days of Code Discord Bot]]></title>
-        <id>60c13e71d3126007592d5be2</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-100-days-of-code-bot-for-discord-using-typescript-and-mongodb/"/>
-        <updated>2021-06-22T16:20:36.000Z</updated>
-        <summary type="html"><![CDATA[The 100 Days of Code challenge is very popular among new coders and developers looking to level up their skills. It's so popular that our Discord server has an entire channel dedicated to it.  By popular demand, we recently built a Discord bot that helps people track their progress in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Python to Create a Visual Novel Game in 10 Minutes]]></title>
-        <id>60cfff5a4dc1a607ed7b5e58</id>
-        <link href="https://www.freecodecamp.org/news/use-python-to-create-a-visual-novel/"/>
-        <updated>2021-06-22T16:18:29.000Z</updated>
-        <summary type="html"><![CDATA[Do you have a story idea that you'd like to turn into a novel? How about adding visual appeal and interactivity to that novel?  A Visual Novel might be the game genre you are looking for. And this tutorial is here to help set you up in 10 minutes, with]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gas Giants’ Energy Crisis Solved After 50 Years]]></title>
-        <id>https://www.quantamagazine.org/?p=105915</id>
-        <link href="https://www.quantamagazine.org/cassini-data-solves-jupiter-and-saturns-energy-mystery-20210622/"/>
-        <updated>2021-06-22T15:10:55.000Z</updated>
-        <summary type="html"><![CDATA[Jupiter and Saturn should be freezing cold. Instead, they’re hot. Researchers now know why.            
-The post Gas Giants’ Energy Crisis Solved After 50 Years first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Robin George Andrews</name>
         </author>
     </entry>
 </feed>
