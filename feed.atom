@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-24T00:20:50.306Z</updated>
+    <updated>2021-07-25T00:21:29.309Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Goodhart Resistant]]></title>
+        <id>60f468b0d1592f16258b367d</id>
+        <link href="https://labnotes.org/weekend-reading-goodhart-resistant/"/>
+        <updated>2021-07-24T19:51:19.000Z</updated>
+        <summary type="html"><![CDATA[This week we elbow our way into a CPU, dump email for Google Docs, mix Neopets and cryptocurrency, and deal with an airplane infestation.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Clear Search History – Delete All Browsing Data in Chrome]]></title>
         <id>60faae4d1d2b080797b82046</id>
@@ -1392,37 +1402,6 @@ Pssst... If you like these short learnings, I send out a weekly newsletter.
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Common React Mistakes You Might Be Making – And How to Fix Them]]></title>
-        <id>60d3ee396e1a1407b6b0b6ef</id>
-        <link href="https://www.freecodecamp.org/news/common-react-mistakes-and-how-to-fix-them/"/>
-        <updated>2021-06-24T17:01:44.000Z</updated>
-        <summary type="html"><![CDATA[Let's go over the most common mistakes you might be making in your React code right now, plus how to fix them. If you want to create amazing React applications, it's essential to avoid many common errors along the way. In this article, we'll not only cover how to fix]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use OpenTelemetry to Understand Software Performance]]></title>
-        <id>60d4b5e96e1a1407b6b0bac4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-opentelemetry/"/>
-        <updated>2021-06-24T16:50:36.000Z</updated>
-        <summary type="html"><![CDATA[If you want good performance in your application, you need to collect data to figure out where to make improvements. That's where OpenTelemetry comes in. OpenTelemetry offers a single set of APIs and libraries that standardize how you collect and transfer telemetry data. OpenTelemetry provides a specification for instrumentation so]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nathan Seiberg on How Math Might Complete the Ultimate Physics Theory]]></title>
-        <id>https://www.quantamagazine.org/?p=105930</id>
-        <link href="https://www.quantamagazine.org/nathan-seiberg-on-how-math-might-reveal-quantum-gravity-20210624/"/>
-        <updated>2021-06-24T14:44:03.000Z</updated>
-        <summary type="html"><![CDATA[Even in an incomplete state, quantum field theory is the most successful physical theory ever discovered. Nathan Seiberg, one of its leading architects, talks about the gaps in QFT and how mathematicians could fill them.            
-The post Nathan Seiberg on How Math Might Complete the Ultimate Physics Theory first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Kevin Hartnett</name>
         </author>
     </entry>
 </feed>

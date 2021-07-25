@@ -694,24 +694,6 @@
           "publishedOn": "2021-06-28T13:44:39.000Z",
           "wordCount": 806,
           "title": "Why You Should Learn Data Analytics"
-        },
-        {
-          "id": "60d3ee396e1a1407b6b0b6ef",
-          "author": null,
-          "description": "Let's go over the most common mistakes you might be making in your React code right now, plus how to fix them. If you want to create amazing React applications, it's essential to avoid many common errors along the way. In this article, we'll not only cover how to fix",
-          "link": "https://www.freecodecamp.org/news/common-react-mistakes-and-how-to-fix-them/",
-          "publishedOn": "2021-06-24T17:01:44.000Z",
-          "wordCount": 1511,
-          "title": "4 Common React Mistakes You Might Be Making – And How to Fix Them"
-        },
-        {
-          "id": "60d4b5e96e1a1407b6b0bac4",
-          "author": null,
-          "description": "If you want good performance in your application, you need to collect data to figure out where to make improvements. That's where OpenTelemetry comes in. OpenTelemetry offers a single set of APIs and libraries that standardize how you collect and transfer telemetry data. OpenTelemetry provides a specification for instrumentation so",
-          "link": "https://www.freecodecamp.org/news/how-to-use-opentelemetry/",
-          "publishedOn": "2021-06-24T16:50:36.000Z",
-          "wordCount": 9777,
-          "title": "How to Use OpenTelemetry to Understand Software Performance"
         }
       ]
     },
@@ -869,16 +851,6 @@
           "wordCount": null,
           "title": "A Lack of COVID-19 Genomes Could Prolong the Pandemic",
           "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=105930",
-          "author": "Kevin Hartnett",
-          "description": "Even in an incomplete state, quantum field theory is the most successful physical theory ever discovered. Nathan Seiberg, one of its leading architects, talks about the gaps in QFT and how mathematicians could fill them.            \nThe post Nathan Seiberg on How Math Might Complete the Ultimate Physics Theory first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/nathan-seiberg-on-how-math-might-reveal-quantum-gravity-20210624/",
-          "publishedOn": "2021-06-24T14:44:03.000Z",
-          "wordCount": null,
-          "title": "Nathan Seiberg on How Math Might Complete the Ultimate Physics Theory",
-          "itunes": {}
         }
       ]
     },
@@ -887,6 +859,15 @@
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
+        {
+          "id": "60f468b0d1592f16258b367d",
+          "author": "Assaf Arkin",
+          "description": "This week we elbow our way into a CPU, dump email for Google Docs, mix Neopets and cryptocurrency, and deal with an airplane infestation.",
+          "link": "https://labnotes.org/weekend-reading-goodhart-resistant/",
+          "publishedOn": "2021-07-24T19:51:19.000Z",
+          "wordCount": 1075,
+          "title": "Weekend Reading — Goodhart Resistant"
+        },
         {
           "id": "60e9da2c8109102a6ceb0b29",
           "author": "Assaf Arkin",
