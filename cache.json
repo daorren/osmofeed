@@ -912,6 +912,51 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-29/",
+          "author": null,
+          "description": "Welcome to Web Weekly #29!\n\nCześć, friends!\nIt's been a while, but I visited my family this week! 🎉 My grandparents celebrated their 60th wedding anniversary (holy moly!), and I went home to \"party\" with them. It was a good week, and I hope the same applies to you!\nBefore we jump into web stuff, let me share something super cute (make sure to watch it until the end). 🐷\n\n\n          \n            \nThis week's Web Weekly includes:\nquestions to ask when interviewing for a new job\nhow to detect media query support\nnew web security features\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nReady? Steady. Go!\nVisual hierarchy in designs\n\n\n\n\n          \n            \nI admire people who can design sites that are good-looking and convey a message very well. A lot of times, g…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-29/",
+          "publishedOn": "2021-07-25T21:00:00.000Z",
+          "wordCount": 1199,
+          "title": "Web Weekly #29 (#blogPost)"
+        },
+        {
+          "id": "https://www.stefanjudis.com/snippets/how-to-detect-media-query-support/",
+          "author": null,
+          "description": "This one is a real brain teaser. 🙈\nKilian Valkhof published Detecting media query support in CSS and JavaScript and I had to read it a few times to understand its logic.\nIn short: that's how you can detect if a browser supports prefers-reduced-data CSS media query:\n/* Apply if prefers-reduced-data is supported */\n@media not all and (prefers-reduced-data), (prefers-reduced-data) {\n  ...\n}\n\nIn long: read Killian's post.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/snippets/how-to-detect-media-query-support/",
+          "publishedOn": "2021-07-25T17:00:00.000Z",
+          "wordCount": 248,
+          "title": "How to detect media query support (#snippet)"
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/automatic-hyphenation-depends-on-the-defined-document-language/",
+          "author": null,
+          "description": "The lang HTML attribute (e.g. lang=\"en\") is essential for creating accessible websites. Without it, browsers and assistive technology can only guess the website's language leading to a poor user experience.\nAnd while I was aware that the attribute is important, I didn't know that it also affects how browsers deal with long words and hyphenation.\nhyphens: auto and the lang attribute\n\nIf you're displaying text with long words in narrow containers, you might run into overflow situations. Long words will break out of their containers.\n\n\n\n\n\n          \n            \nIf you look at the overflowing words and the container width, the only solution is to break the words into pieces and add hyphens.\nThe hyphens CSS property can help here.\nDefine where to break long words manually\n\nThe default value of…",
+          "link": "https://www.stefanjudis.com/today-i-learned/automatic-hyphenation-depends-on-the-defined-document-language/",
+          "publishedOn": "2021-07-25T15:30:00.000Z",
+          "wordCount": 646,
+          "title": "Automatic hyphenation depends on the defined document language (#tilPost)"
+        },
+        {
+          "id": "https://www.stefanjudis.com/snippets/an-svg-filter-to-pixelate-images/",
+          "author": null,
+          "description": "This post is a quick one for my bookmarks. Taylor Hunt published this \"pixelate SVG filter\" on CodePen. I didn't get into understanding how it exactly works, but it might come in handy some day.\n<svg>\n  <filter id=\"pixelate\" x=\"0\" y=\"0\">\n    <feFlood x=\"4\" y=\"4\" height=\"2\" width=\"2\"/>    \n    <feComposite width=\"10\" height=\"10\"/>\n    <feTile result=\"a\"/>\n    <feComposite in=\"SourceGraphic\" in2=\"a\" operator=\"in\"/>\n    <feMorphology operator=\"dilate\" radius=\"5\"/>\n  </filter>\n  \n  <image width=\"100%\" height=\"100%\" \n         preserveAspectRatio=\"xMidYMid slice\"\n         filter=\"url(#pixelate)\"\n         xlink:href=\"https://s3-us-west-2.amazonaws.com/s.cdpn.io/183091/grateful_dog.jpg\"/>\n  <image width=\"100%\" height=\"100%\" \n         preserveAspectRatio=\"xMidYMid slice\"\n         clip-path=\"url(#half)\"\n         xlink:href=\"https://s3-us-west-2.amazonaws.com/s.cdpn.io/183091/grateful_dog.jpg\"/>\n  <clipPath id=\"half\">\n    <rect width=\"100%\" height=\"50%\"/>\n  </clipPath>\n</svg>\n\nAnd this code renders like that. 😲\n\n          \n            \nRyan shared that the effect works as an inline SVG/CSS filter. After quickly testing it, it only seems to work in Firefox, though.\nIt's fascinating what SVG filters can do. Maybe I'll properly learn all these SVG filters one day.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/snippets/an-svg-filter-to-pixelate-images/",
+          "publishedOn": "2021-07-25T11:00:00.000Z",
+          "wordCount": 309,
+          "title": "An SVG filter to pixelate images (#snippet)"
+        },
+        {
+          "id": "https://www.stefanjudis.com/notes/a-vscode-extension-to-understand-function-parameters/",
+          "author": null,
+          "description": "I'm super happy with my VSCode setup, and that's why I rarely install new extensions these days (find a list of my installed extension in my dotfiles). I found out about the Inline Parameters VSCode extension today, and it was worth an install!\nThe challenge of function parameters\n\nI'm always in favor of avoiding more than three function parameters or single boolean function parameters. If you're not following such rules, code becomes hard to follow and function calls hard to understand.\nConsider the following example:\nfunction doSomething(isGreat, doLater, cleanUpAfterwards) {\n  console.log(isGreat, doLater, cleanUpAfterwards);\n}\n\n// uff, that's hard to understand ...\ndoSomething(true, false, true);\n\nAt first sight, the doSomething function definition might not look too bad, but when you …",
+          "link": "https://www.stefanjudis.com/notes/a-vscode-extension-to-understand-function-parameters/",
+          "publishedOn": "2021-07-24T22:00:00.000Z",
+          "wordCount": 461,
+          "title": "A VSCode extension to understand function parameters (#note)"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-28/",
           "author": null,
           "description": "Welcome to Web Weekly #28!\n\nγεια, friends!\nA few people reached out to me this week to check if I'm okay with the flooding going on in Germany. Thank you, I am, and I really hope the same applies to you!\nThis week's highlight was that I started reading On writing well. Unsurprisingly, the book teaches how to write better non-fiction. I'm only a few chapters in, and I like it a lot. Get ready for it; my writing might become more concise soon!\nBefore we jump into web stuff, let me share a comic about the state of the web with you.\n\n\n\n          \n            \nThis week's Web Weekly includes:\nloops in JavaScript\nthe git worktree command\nnatural shadows in CSS\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nReady? Steady. Go!\nThe various loops in JavaScript\n\n\n\n\n       …",

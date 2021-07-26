@@ -2,10 +2,156 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-25T00:21:29.309Z</updated>
+    <updated>2021-07-26T00:21:16.345Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #29 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-29/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-29/"/>
+        <updated>2021-07-25T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Web Weekly #29!
+
+Cześć, friends!
+It's been a while, but I visited my family this week! 🎉 My grandparents celebrated their 60th wedding anniversary (holy moly!), and I went home to "party" with them. It was a good week, and I hope the same applies to you!
+Before we jump into web stuff, let me share something super cute (make sure to watch it until the end). 🐷
+
+
+          
+            
+This week's Web Weekly includes:
+questions to ask when interviewing for a new job
+how to detect media query support
+new web security features
+... and, as always, GitHub repositories, a new Tiny Helper and some music.
+Ready? Steady. Go!
+Visual hierarchy in designs
+
+
+
+
+          
+            
+I admire people who can design sites that are good-looking and convey a message very well. A lot of times, g…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to detect media query support (#snippet)]]></title>
+        <id>https://www.stefanjudis.com/snippets/how-to-detect-media-query-support/</id>
+        <link href="https://www.stefanjudis.com/snippets/how-to-detect-media-query-support/"/>
+        <updated>2021-07-25T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This one is a real brain teaser. 🙈
+Kilian Valkhof published Detecting media query support in CSS and JavaScript and I had to read it a few times to understand its logic.
+In short: that's how you can detect if a browser supports prefers-reduced-data CSS media query:
+/* Apply if prefers-reduced-data is supported */
+@media not all and (prefers-reduced-data), (prefers-reduced-data) {
+  ...
+}
+
+In long: read Killian's post.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatic hyphenation depends on the defined document language (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/automatic-hyphenation-depends-on-the-defined-document-language/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/automatic-hyphenation-depends-on-the-defined-document-language/"/>
+        <updated>2021-07-25T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The lang HTML attribute (e.g. lang="en") is essential for creating accessible websites. Without it, browsers and assistive technology can only guess the website's language leading to a poor user experience.
+And while I was aware that the attribute is important, I didn't know that it also affects how browsers deal with long words and hyphenation.
+hyphens: auto and the lang attribute
+
+If you're displaying text with long words in narrow containers, you might run into overflow situations. Long words will break out of their containers.
+
+
+
+
+
+          
+            
+If you look at the overflowing words and the container width, the only solution is to break the words into pieces and add hyphens.
+The hyphens CSS property can help here.
+Define where to break long words manually
+
+The default value of…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An SVG filter to pixelate images (#snippet)]]></title>
+        <id>https://www.stefanjudis.com/snippets/an-svg-filter-to-pixelate-images/</id>
+        <link href="https://www.stefanjudis.com/snippets/an-svg-filter-to-pixelate-images/"/>
+        <updated>2021-07-25T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is a quick one for my bookmarks. Taylor Hunt published this "pixelate SVG filter" on CodePen. I didn't get into understanding how it exactly works, but it might come in handy some day.
+<svg>
+  <filter id="pixelate" x="0" y="0">
+    <feFlood x="4" y="4" height="2" width="2"/>    
+    <feComposite width="10" height="10"/>
+    <feTile result="a"/>
+    <feComposite in="SourceGraphic" in2="a" operator="in"/>
+    <feMorphology operator="dilate" radius="5"/>
+  </filter>
+  
+  <image width="100%" height="100%" 
+         preserveAspectRatio="xMidYMid slice"
+         filter="url(#pixelate)"
+         xlink:href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/183091/grateful_dog.jpg"/>
+  <image width="100%" height="100%" 
+         preserveAspectRatio="xMidYMid slice"
+         clip-path="url(#half)"
+         xlink:href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/183091/grateful_dog.jpg"/>
+  <clipPath id="half">
+    <rect width="100%" height="50%"/>
+  </clipPath>
+</svg>
+
+And this code renders like that. 😲
+
+          
+            
+Ryan shared that the effect works as an inline SVG/CSS filter. After quickly testing it, it only seems to work in Firefox, though.
+It's fascinating what SVG filters can do. Maybe I'll properly learn all these SVG filters one day.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A VSCode extension to understand function parameters (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/a-vscode-extension-to-understand-function-parameters/</id>
+        <link href="https://www.stefanjudis.com/notes/a-vscode-extension-to-understand-function-parameters/"/>
+        <updated>2021-07-24T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I'm super happy with my VSCode setup, and that's why I rarely install new extensions these days (find a list of my installed extension in my dotfiles). I found out about the Inline Parameters VSCode extension today, and it was worth an install!
+The challenge of function parameters
+
+I'm always in favor of avoiding more than three function parameters or single boolean function parameters. If you're not following such rules, code becomes hard to follow and function calls hard to understand.
+Consider the following example:
+function doSomething(isGreat, doLater, cleanUpAfterwards) {
+  console.log(isGreat, doLater, cleanUpAfterwards);
+}
+
+// uff, that's hard to understand ...
+doSomething(true, false, true);
+
+At first sight, the doSomething function definition might not look too bad, but when you …]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Goodhart Resistant]]></title>
         <id>60f468b0d1592f16258b367d</id>
