@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T00:20:22.884Z</updated>
+    <updated>2021-07-28T00:22:46.536Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python For Loop – Example and Tutorial]]></title>
+        <id>60ffec493306a507d1bf98f4</id>
+        <link href="https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/"/>
+        <updated>2021-07-27T22:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Loops let you control the logic and flow structures of your programs.  Specifically, a for loop lets you execute a block of similar code operations, over and over again, until a condition is met.  You repeat certain code instructions for a set of values you determine, and you perform actions]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Flatten a Dictionary in Python in 4 Different Ways]]></title>
+        <id>60ff23533306a507d1bf9345</id>
+        <link href="https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/"/>
+        <updated>2021-07-27T19:59:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we’ll look at 4 different ways to flatten a dict in Python. For each method I’ll point out the pros and cons, and I'll give a quick performance analysis. For this tutorial, I ran all examples on Python 3.7. Why Should You Know How]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Headless CMS Explained – What it is and When You Should Use it]]></title>
+        <id>60dabcb327f80207bcdbb316</id>
+        <link href="https://www.freecodecamp.org/news/what-is-headless-cms-explained/"/>
+        <updated>2021-07-27T17:53:47.000Z</updated>
+        <summary type="html"><![CDATA[CMSs are pretty hard to ignore because they're everywhere on the internet. WordPress, for example, powers nearly 40% of the internet today.  In this article, we'll cover what CMSs are and why you should care about them. I'll also introduce you to a new type of CMS that seems to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Soil-Science Revolution Upends Plans to Fight Climate Change]]></title>
+        <id>https://www.quantamagazine.org/?p=107268</id>
+        <link href="https://www.quantamagazine.org/a-soil-science-revolution-upends-plans-to-fight-climate-change-20210727/"/>
+        <updated>2021-07-27T16:33:34.000Z</updated>
+        <summary type="html"><![CDATA[A centuries-old concept in soil science has recently been thrown out. Yet it remains a key ingredient in everything from climate models to advanced carbon-capture projects.            
+The post A Soil-Science Revolution Upends Plans to Fight Climate Change first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Gabriel Popkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Immutability – Frozen Objects in JS Explained with Examples]]></title>
+        <id>60fa5ec41d2b080797b81bf8</id>
+        <link href="https://www.freecodecamp.org/news/javascript-immutability-frozen-objects-with-examples/"/>
+        <updated>2021-07-27T15:49:00.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, we use an Object to store multiple values as a complex data structure. You create an object with a pair of curly braces {}.  An object can have one or more properties. Each of the properties is a key-value pair separated by a colon(:). The key must be a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Substring – How to Slice a String]]></title>
+        <id>60fbe07822b0e2078fcd09bc</id>
+        <link href="https://www.freecodecamp.org/news/python-substring-how-to-slice-a-string/"/>
+        <updated>2021-07-27T15:24:00.000Z</updated>
+        <summary type="html"><![CDATA[In Python, a string is a sequence of characters that may contain special characters or alphanumeric characters. An example of a string is "we meet on Friday at 08:00 am". And you can access specific sub-parts of the string commonly known as substrings. We can define a substring as]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Doodle Games – Baseball, PacMan, and More]]></title>
         <id>60fc070722b0e2078fcd0ae1</id>
@@ -1512,93 +1573,6 @@ The post A Lack of COVID-19 Genomes Could Prolong the Pandemic first appeared on
         <summary type="html"><![CDATA[Ok. I'm not suggesting that everyone needs to become a fully-credentialed data scientist. But these days, learning core data skills may provide as much value as basic financial literacy or knowledge of a simple coding language. This isn't just about your career: data has grown far beyond the world of]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #25 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-25/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-25/"/>
-        <updated>2021-06-27T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Web Weekly #25!
-
-Ciao friends!
-How's your week been? Surprisingly, I spent my Friday night on a rooftop terrace looking at the TV tower listening to chilled house music. It was beautiful!
-Before we jump into web stuff, here's a pupper from my hidden collection. Look at this energy bundle! 😆
-
-          
-            
-This week's Web Weekly includes:
-Nerdy URL facts
-A CodePen embed alternative
-How styled components work
-... and, as always, GitHub repositories, a new Tiny Helper and some music.
-Ready? Steady. Go!
-How a reframed question can change its outcome
-
-
-
-
-
-          
-            
-Look at these two questions:
-"Are you facing any challenges?"
-"What challenges are you facing right now?"
-Both questions ask for the same information, but they probably lead to very different resul…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — 🐶 Smelling Ground]]></title>
-        <id>60ce733c116186146c6df938</id>
-        <link href="https://labnotes.org/weekend-reading-smelling-ground/"/>
-        <updated>2021-06-27T17:46:10.000Z</updated>
-        <summary type="html"><![CDATA[This week we run a highly available three-node Meow-Meow cluster, subtitle a formula F1 race, and discover sniff media.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to find all internal pages in Chromiums and Firefox (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/how-to-find-all-internal-pages-in-chromiums-and-firefox/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/how-to-find-all-internal-pages-in-chromiums-and-firefox/"/>
-        <updated>2021-06-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I just read the article "URLs: It's complicated..." and learned a few nifty tricks about internal pages in Chromies (Edge, Chrome, etc.) and Firefox.
-You might know about the hidden browser games in Chrome (chrome://dino/) and Edge (edge://surf/), or the commonly used browser flags pages (chrome://flags, edge://flags and so on).
-
-
-
-
-          
-            
-Let's have a look at three things that make internal page handling easier!
-Use about instead of your specific browser scheme
-
-As described on web.dev, Chromium browsers rewrite not-matching browser schemes, if you enter an incorrect one. You can access chrome://flags in Edge and it'll be rewritten to edge://flags. That's already pretty handy, but there's more!
-You can also use the about scheme to "resolve" to the correct browser scheme. about://flags becomes chrome://flags, brave://flags, or edge://flags depending on your browser. This rewrite is a great addition and I made it a habit to use about for all internal pages already!
-You can leave out the //
-
-While playing around with the about pages, I noticed that you can make the URL even shorter. Enter about:flags and it's correctly resolved to chrome://flags. That's pretty nice, too!
-about:about – a list of all internal pages
-
-And here's the kicker, if you wonder what internal pages your Chromium browser or Firefox provides, you can enter about:about...
-
-
-
-
-
-          
-            
-And there you have it, about:about lists all internal pages! I'll continue poking around all these pages now. 👋
-Pssst... If you like these short learnings, I send out a weekly newsletter.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

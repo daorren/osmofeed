@@ -12,6 +12,51 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60ffec493306a507d1bf98f4",
+          "author": null,
+          "description": "Loops let you control the logic and flow structures of your programs.  Specifically, a for loop lets you execute a block of similar code operations, over and over again, until a condition is met.  You repeat certain code instructions for a set of values you determine, and you perform actions",
+          "link": "https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/",
+          "publishedOn": "2021-07-27T22:36:10.000Z",
+          "wordCount": 1528,
+          "title": "Python For Loop – Example and Tutorial"
+        },
+        {
+          "id": "60ff23533306a507d1bf9345",
+          "author": null,
+          "description": "In this post, we’ll look at 4 different ways to flatten a dict in Python. For each method I’ll point out the pros and cons, and I'll give a quick performance analysis. For this tutorial, I ran all examples on Python 3.7. Why Should You Know How",
+          "link": "https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/",
+          "publishedOn": "2021-07-27T19:59:00.000Z",
+          "wordCount": 1729,
+          "title": "How to Flatten a Dictionary in Python in 4 Different Ways"
+        },
+        {
+          "id": "60dabcb327f80207bcdbb316",
+          "author": null,
+          "description": "CMSs are pretty hard to ignore because they're everywhere on the internet. WordPress, for example, powers nearly 40% of the internet today.  In this article, we'll cover what CMSs are and why you should care about them. I'll also introduce you to a new type of CMS that seems to",
+          "link": "https://www.freecodecamp.org/news/what-is-headless-cms-explained/",
+          "publishedOn": "2021-07-27T17:53:47.000Z",
+          "wordCount": 1363,
+          "title": "Headless CMS Explained – What it is and When You Should Use it"
+        },
+        {
+          "id": "60fa5ec41d2b080797b81bf8",
+          "author": null,
+          "description": "In JavaScript, we use an Object to store multiple values as a complex data structure. You create an object with a pair of curly braces {}.  An object can have one or more properties. Each of the properties is a key-value pair separated by a colon(:). The key must be a",
+          "link": "https://www.freecodecamp.org/news/javascript-immutability-frozen-objects-with-examples/",
+          "publishedOn": "2021-07-27T15:49:00.000Z",
+          "wordCount": 1704,
+          "title": "JavaScript Immutability – Frozen Objects in JS Explained with Examples"
+        },
+        {
+          "id": "60fbe07822b0e2078fcd09bc",
+          "author": null,
+          "description": "In Python, a string is a sequence of characters that may contain special characters or alphanumeric characters. An example of a string is \"we meet on Friday at 08:00 am\". And you can access specific sub-parts of the string commonly known as substrings. We can define a substring as",
+          "link": "https://www.freecodecamp.org/news/python-substring-how-to-slice-a-string/",
+          "publishedOn": "2021-07-27T15:24:00.000Z",
+          "wordCount": 974,
+          "title": "Python Substring – How to Slice a String"
+        },
+        {
           "id": "60fc070722b0e2078fcd0ae1",
           "author": null,
           "description": "The homepage for the Google Search engine is the most viewed webpage in the world. People conduct billions of searches every day.  When you land on the page, right above the search box, you'll see Google's logo. On many occassions the logo will be different and accompanied by what's called",
@@ -739,6 +784,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=107268",
+          "author": "Gabriel Popkin",
+          "description": "A centuries-old concept in soil science has recently been thrown out. Yet it remains a key ingredient in everything from climate models to advanced carbon-capture projects.            \nThe post A Soil-Science Revolution Upends Plans to Fight Climate Change first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/a-soil-science-revolution-upends-plans-to-fight-climate-change-20210727/",
+          "publishedOn": "2021-07-27T16:33:34.000Z",
+          "wordCount": null,
+          "title": "A Soil-Science Revolution Upends Plans to Fight Climate Change",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=107215",
           "author": "Thomas Lewton",
           "description": "Theorists are in a frenzy over “fractons,” bizarre, but potentially useful, hypothetical particles that can only move in combination with one another.            \nThe post The ‘Weirdest’ Matter, Made of Partial Particles, Defies Description first appeared on Quanta Magazine",
@@ -940,15 +995,6 @@
           "publishedOn": "2021-07-03T20:10:09.000Z",
           "wordCount": 974,
           "title": "Weekend Reading — pAIr Programmer"
-        },
-        {
-          "id": "60ce733c116186146c6df938",
-          "author": "Assaf Arkin",
-          "description": "This week we run a highly available three-node Meow-Meow cluster, subtitle a formula F1 race, and discover sniff media.",
-          "link": "https://labnotes.org/weekend-reading-smelling-ground/",
-          "publishedOn": "2021-06-27T17:46:10.000Z",
-          "wordCount": 869,
-          "title": "Weekend Reading — 🐶 Smelling Ground"
         }
       ]
     },
@@ -1100,24 +1146,6 @@
           "publishedOn": "2021-07-04T22:00:00.000Z",
           "wordCount": 382,
           "title": "Mobile Safari doesn't zoom into form inputs with minimum 16px (#note)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-25/",
-          "author": null,
-          "description": "Welcome to Web Weekly #25!\n\nCiao friends!\nHow's your week been? Surprisingly, I spent my Friday night on a rooftop terrace looking at the TV tower listening to chilled house music. It was beautiful!\nBefore we jump into web stuff, here's a pupper from my hidden collection. Look at this energy bundle! 😆\n\n          \n            \nThis week's Web Weekly includes:\nNerdy URL facts\nA CodePen embed alternative\nHow styled components work\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nReady? Steady. Go!\nHow a reframed question can change its outcome\n\n\n\n\n\n          \n            \nLook at these two questions:\n\"Are you facing any challenges?\"\n\"What challenges are you facing right now?\"\nBoth questions ask for the same information, but they probably lead to very different resul…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-25/",
-          "publishedOn": "2021-06-27T20:00:00.000Z",
-          "wordCount": 1107,
-          "title": "Web Weekly #25 (#blogPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/how-to-find-all-internal-pages-in-chromiums-and-firefox/",
-          "author": null,
-          "description": "I just read the article \"URLs: It's complicated...\" and learned a few nifty tricks about internal pages in Chromies (Edge, Chrome, etc.) and Firefox.\nYou might know about the hidden browser games in Chrome (chrome://dino/) and Edge (edge://surf/), or the commonly used browser flags pages (chrome://flags, edge://flags and so on).\n\n\n\n\n          \n            \nLet's have a look at three things that make internal page handling easier!\nUse about instead of your specific browser scheme\n\nAs described on web.dev, Chromium browsers rewrite not-matching browser schemes, if you enter an incorrect one. You can access chrome://flags in Edge and it'll be rewritten to edge://flags. That's already pretty handy, but there's more!\nYou can also use the about scheme to \"resolve\" to the correct browser scheme. about://flags becomes chrome://flags, brave://flags, or edge://flags depending on your browser. This rewrite is a great addition and I made it a habit to use about for all internal pages already!\nYou can leave out the //\n\nWhile playing around with the about pages, I noticed that you can make the URL even shorter. Enter about:flags and it's correctly resolved to chrome://flags. That's pretty nice, too!\nabout:about – a list of all internal pages\n\nAnd here's the kicker, if you wonder what internal pages your Chromium browser or Firefox provides, you can enter about:about...\n\n\n\n\n\n          \n            \nAnd there you have it, about:about lists all internal pages! I'll continue poking around all these pages now. 👋\nPssst... If you like these short learnings, I send out a weekly newsletter.\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/how-to-find-all-internal-pages-in-chromiums-and-firefox/",
-          "publishedOn": "2021-06-27T14:00:00.000Z",
-          "wordCount": 461,
-          "title": "How to find all internal pages in Chromiums and Firefox (#tilPost)"
         }
       ]
     }
