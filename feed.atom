@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-28T00:22:46.536Z</updated>
+    <updated>2021-07-29T00:20:50.866Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Functions in Python – Explained with Code Examples]]></title>
+        <id>60f993f51d2b080797b818a7</id>
+        <link href="https://www.freecodecamp.org/news/functions-in-python-a-beginners-guide/"/>
+        <updated>2021-07-28T17:24:21.000Z</updated>
+        <summary type="html"><![CDATA[In any programming language, functions facilitate code reusability. In simple terms, when you want to do something repeatedly, you can define that something as a function and call that function whenever you need to.  In this tutorial, we shall learn about user-defined functions in Python. When you started coding in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Modules – Explained with Examples]]></title>
+        <id>60fec60822b0e2078fcd16f0</id>
+        <link href="https://www.freecodecamp.org/news/javascript-modules-explained-with-examples/"/>
+        <updated>2021-07-28T16:27:49.000Z</updated>
+        <summary type="html"><![CDATA[A module is a function or group of similar functions. They are grouped together within a file and contain the code to execute a specific task when called into a larger application. You create modules to better organize and structure your codebase. You can use them to break down large]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proof Assistant Makes Jump to Big-League Math]]></title>
+        <id>https://www.quantamagazine.org/?p=107351</id>
+        <link href="https://www.quantamagazine.org/lean-computer-program-confirms-peter-scholze-proof-20210728/"/>
+        <updated>2021-07-28T14:45:32.000Z</updated>
+        <summary type="html"><![CDATA[Mathematicians using the computer program Lean have verified the accuracy of a difficult theorem at the cutting edge of research mathematics.            
+The post Proof Assistant Makes Jump to Big-League Math first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Kevin Hartnett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use PySpark for Data Processing and Machine Learning]]></title>
+        <id>60e74b9c134ad707be00f284</id>
+        <link href="https://www.freecodecamp.org/news/use-pyspark-for-data-processing-and-machine-learning/"/>
+        <updated>2021-07-28T14:18:37.000Z</updated>
+        <summary type="html"><![CDATA[PySpark is an interface for Apache Spark in Python. PySpark is often used for large-scale data processing and machine learning. We just released a PySpark crash course on the freeCodeCamp.org YouTube channel. Krish Naik developed this course. Krish is a lead data scientist and he runs a popular YouTube]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python For Loop – Example and Tutorial]]></title>
         <id>60ffec493306a507d1bf98f4</id>
@@ -1500,77 +1541,6 @@ The post Can Math Help You Escape a Hungry Bear? first appeared on Quanta Magazi
         <link href="https://www.freecodecamp.org/news/microsoft-security-compliance-certification-sc-900/"/>
         <updated>2021-06-29T13:24:44.000Z</updated>
         <summary type="html"><![CDATA[What is the Microsoft Security, Compliance, and Identity Fundamentals?The Microsoft Security, Compliance and Identity Fundamentals Certification is an essential entry-level certification into Azure and Microsoft Security. In recent years we've seen a significant shift in the work environment where companies allow employees to work from home.  The increase of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Securely Access Secret API keys using Netlify Functions in a React App]]></title>
-        <id>60d61acc6e1a1407b6b0bd46</id>
-        <link href="https://www.freecodecamp.org/news/how-to-access-secret-api-keys-using-netlify-functions-in-a-react-app/"/>
-        <updated>2021-06-28T21:17:02.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to securely access secret API keys using Netlify functions in a React app.  Netlify provides rich features that help you easily deploy Single Page Applications built using frameworks like React, Vue and Angular among others. This takes away the burden of coding and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy an NLP Model with FastAPI]]></title>
-        <id>60d9766b6e1a1407b6b0cb4f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-an-nlp-model-with-fastapi/"/>
-        <updated>2021-06-28T20:35:12.000Z</updated>
-        <summary type="html"><![CDATA[If you're working with Natural Language Processing, knowing how to deploy a model is one of the most important skills you'll need to have. Model deployment is the process of integrating your model into an existing production environment. The model will receive input and predict an output for decision-making for]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is an IDE in Programming? An IDE Definition for Developers]]></title>
-        <id>60d07b4578f45307fee80aef</id>
-        <link href="https://www.freecodecamp.org/news/what-is-an-ide-in-programming-an-ide-definition-for-developers/"/>
-        <updated>2021-06-28T20:04:28.000Z</updated>
-        <summary type="html"><![CDATA[Every developer needs a good development enviroment, whether you're into mobile development or web apps or even if you're just learning your first programming language.  Just like any beginning developer, when I began to learn coding I needed some guidance on how to get started. And one of the most]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Closure Tutorial – How Closures and Lexical Scope Work in JS]]></title>
-        <id>60d675ac6e1a1407b6b0bea1</id>
-        <link href="https://www.freecodecamp.org/news/javascript-closure-lexical-scope/"/>
-        <updated>2021-06-28T18:45:21.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, people often confuse closures with lexical scope. Lexical scope is an important part of closures, but it is not a closure by itself. Closures are an advanced concept that is also a frequent topic of technical interviews. You should have a foundational understanding of functions before attempting to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Lack of COVID-19 Genomes Could Prolong the Pandemic]]></title>
-        <id>https://www.quantamagazine.org/?p=106143</id>
-        <link href="https://www.quantamagazine.org/a-lack-of-covid-19-genomes-could-prolong-the-pandemic-20210628/"/>
-        <updated>2021-06-28T15:58:44.000Z</updated>
-        <summary type="html"><![CDATA[Genomic surveillance of the SARS-CoV-2 virus can help control the current pandemic and prevent future ones. But the process is marred by insufficient data and geographic inequities.            
-The post A Lack of COVID-19 Genomes Could Prolong the Pandemic first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Puja Changoiwala</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How to Create a Design System in Figma]]></title>
-        <id>60d4d3d86e1a1407b6b0bb25</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma/"/>
-        <updated>2021-06-28T13:50:35.000Z</updated>
-        <summary type="html"><![CDATA[A design system is a set of standards, reusable components, and patterns used to create visual consistency throughout different projects and pages. Figma is a vector graphics editor and prototyping tool. We just released a course on the freeCodeCamp.org channel that will teach you how to build a design]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Learn Data Analytics]]></title>
-        <id>60d4ea756e1a1407b6b0bb71</id>
-        <link href="https://www.freecodecamp.org/news/why-you-should-learn-data-analytics/"/>
-        <updated>2021-06-28T13:44:39.000Z</updated>
-        <summary type="html"><![CDATA[Ok. I'm not suggesting that everyone needs to become a fully-credentialed data scientist. But these days, learning core data skills may provide as much value as basic financial literacy or knowledge of a simple coding language. This isn't just about your career: data has grown far beyond the world of]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
