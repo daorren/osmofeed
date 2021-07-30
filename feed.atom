@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T00:20:50.866Z</updated>
+    <updated>2021-07-30T00:21:08.349Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Android Camera2 – How to Use the Camera2 API to Take Photos and Videos]]></title>
+        <id>60f0501b66c61b07d458df00</id>
+        <link href="https://www.freecodecamp.org/news/android-camera2-api-take-photos-and-videos/"/>
+        <updated>2021-07-29T22:36:44.000Z</updated>
+        <summary type="html"><![CDATA[We all use the camera on our phones and we use it a l-o-t. There are even some applications that have integrated the camera as a feature.  On one end, there is a standard way of interacting with the camera. On the other, there is a way to customize your]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not Equal Sign – How to Type the Does Not Equal Symbol]]></title>
+        <id>60f534ec66c61b07d458ecfe</id>
+        <link href="https://www.freecodecamp.org/news/not-equal-sign-how-to-type-the-does-not-equal-symbol/"/>
+        <updated>2021-07-29T18:27:33.000Z</updated>
+        <summary type="html"><![CDATA[The does not equal symbol, or ≠, is often not part of a standard keyboard setup – or it's well hidden. So if you need to write it, how do you do it? How to Write the Not Equal Sign on Desktop DevicesOn Windows: Use the Character MapThe Character Map is a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Deploy 12 Apps to AWS, Azure, &amp; Google Cloud]]></title>
+        <id>6102ccd03306a507d1bfb150</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-deploy-12-apps-to-aws-azure-google-cloud/"/>
+        <updated>2021-07-29T15:52:57.000Z</updated>
+        <summary type="html"><![CDATA[Dockerizing an app makes it simpler to deploy. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to deploy 12 apps to 3 popular hosting services. Scalable Scripts developed this course. They create courses on all sorts of languages and frameworks on]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Basic Excel Tutorial – How to Automate Repetitive Tasks in a Spreadsheet]]></title>
+        <id>60fc708a22b0e2078fcd0cdc</id>
+        <link href="https://www.freecodecamp.org/news/automate-repetitive-tasks-in-excel-with-vba/"/>
+        <updated>2021-07-29T15:35:00.000Z</updated>
+        <summary type="html"><![CDATA[I use VBA, or Visual Basic for Applications, to automate my repetitive tasks. This saves me quite a lot of time in my day-to-day life.  Based on the fact that you're reading this tutorial, I assume that you would like to be able to do the same. So I will]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python If Else Statement – Conditional Statements Explained]]></title>
+        <id>61018d5c3306a507d1bfa74a</id>
+        <link href="https://www.freecodecamp.org/news/python-if-else-statement-conditional-statements-explained/"/>
+        <updated>2021-07-29T15:32:30.000Z</updated>
+        <summary type="html"><![CDATA[There are many cases where you don't want all of your code to be executed in your programs.  Instead, you might want certain code to run only when a specific condition is met, and a different set of code to run when the condition is not satisified.  That's where conditional]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Functions in Python – Explained with Code Examples]]></title>
         <id>60f993f51d2b080797b818a7</id>
@@ -1492,57 +1542,6 @@ The post How Long COVID Keeps Us Sick first appeared on Quanta Magazine]]></summ
 The post Brighter Than a Billion Billion Suns: Gamma-Ray Bursts Continue to Surprise first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Jonathan O'Callaghan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding Interview Backtracking Problems Crash Course – The Only One You&#x27;ll Ever Need]]></title>
-        <id>60db519527f80207bcdbb6fa</id>
-        <link href="https://www.freecodecamp.org/news/coding-interview-backtracking-problems-crash-course/"/>
-        <updated>2021-06-29T20:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Whether you are new to coding interviews or are already familiar with the concept of backtracking, this is the crash course for you. We will learn about an all-purpose coding template and apply it to two LeetCode hard problems. Ready to crunch your next coding interview? Let's go!]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux List Processes – How to Check Running Processes]]></title>
-        <id>604b8c6ea7946308b7687683</id>
-        <link href="https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/"/>
-        <updated>2021-06-29T19:47:13.000Z</updated>
-        <summary type="html"><![CDATA[Every day, developers use various applications and run commands in the terminal. These applications can include a browser, code editor, terminal, video conferencing app, or music player.  For each of these software applications that you open or commands you run, it creates a process or task. One beautiful feature of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use timedelta Objects in Python to Work with Dates]]></title>
-        <id>60daf29027f80207bcdbb3fe</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-timedelta-objects-in-python/"/>
-        <updated>2021-06-29T18:25:52.000Z</updated>
-        <summary type="html"><![CDATA[Why do we need the timedelta object?When you're working with dates and times in Python, you'll often use the datetime module.  In this post, we'll see how we can use the timedelta object in the datetime module. It denotes a span of time and can help when we need]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Math Help You Escape a Hungry Bear?]]></title>
-        <id>https://www.quantamagazine.org/?p=106217</id>
-        <link href="https://www.quantamagazine.org/can-math-help-you-escape-a-hungry-bear-20210629/"/>
-        <updated>2021-06-29T14:21:59.000Z</updated>
-        <summary type="html"><![CDATA[In this month’s puzzle, math is a question of life or death.            
-The post Can Math Help You Escape a Hungry Bear? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Pradeep Mutalik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Security, Compliance, and Identity Fundamentals (SC-900) – Pass the Exam With This Free 3.5 Hour Course]]></title>
-        <id>60d76f6f6e1a1407b6b0c521</id>
-        <link href="https://www.freecodecamp.org/news/microsoft-security-compliance-certification-sc-900/"/>
-        <updated>2021-06-29T13:24:44.000Z</updated>
-        <summary type="html"><![CDATA[What is the Microsoft Security, Compliance, and Identity Fundamentals?The Microsoft Security, Compliance and Identity Fundamentals Certification is an essential entry-level certification into Azure and Microsoft Security. In recent years we've seen a significant shift in the work environment where companies allow employees to work from home.  The increase of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

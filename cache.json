@@ -12,6 +12,51 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60f0501b66c61b07d458df00",
+          "author": null,
+          "description": "We all use the camera on our phones and we use it a l-o-t. There are even some applications that have integrated the camera as a feature.  On one end, there is a standard way of interacting with the camera. On the other, there is a way to customize your",
+          "link": "https://www.freecodecamp.org/news/android-camera2-api-take-photos-and-videos/",
+          "publishedOn": "2021-07-29T22:36:44.000Z",
+          "wordCount": 2472,
+          "title": "Android Camera2 – How to Use the Camera2 API to Take Photos and Videos"
+        },
+        {
+          "id": "60f534ec66c61b07d458ecfe",
+          "author": null,
+          "description": "The does not equal symbol, or ≠, is often not part of a standard keyboard setup – or it's well hidden. So if you need to write it, how do you do it? How to Write the Not Equal Sign on Desktop DevicesOn Windows: Use the Character MapThe Character Map is a",
+          "link": "https://www.freecodecamp.org/news/not-equal-sign-how-to-type-the-does-not-equal-symbol/",
+          "publishedOn": "2021-07-29T18:27:33.000Z",
+          "wordCount": 781,
+          "title": "Not Equal Sign – How to Type the Does Not Equal Symbol"
+        },
+        {
+          "id": "6102ccd03306a507d1bfb150",
+          "author": null,
+          "description": "Dockerizing an app makes it simpler to deploy. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to deploy 12 apps to 3 popular hosting services. Scalable Scripts developed this course. They create courses on all sorts of languages and frameworks on",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-deploy-12-apps-to-aws-azure-google-cloud/",
+          "publishedOn": "2021-07-29T15:52:57.000Z",
+          "wordCount": 4836,
+          "title": "Learn How to Deploy 12 Apps to AWS, Azure, &amp; Google Cloud"
+        },
+        {
+          "id": "60fc708a22b0e2078fcd0cdc",
+          "author": null,
+          "description": "I use VBA, or Visual Basic for Applications, to automate my repetitive tasks. This saves me quite a lot of time in my day-to-day life.  Based on the fact that you're reading this tutorial, I assume that you would like to be able to do the same. So I will",
+          "link": "https://www.freecodecamp.org/news/automate-repetitive-tasks-in-excel-with-vba/",
+          "publishedOn": "2021-07-29T15:35:00.000Z",
+          "wordCount": 4719,
+          "title": "Visual Basic Excel Tutorial – How to Automate Repetitive Tasks in a Spreadsheet"
+        },
+        {
+          "id": "61018d5c3306a507d1bfa74a",
+          "author": null,
+          "description": "There are many cases where you don't want all of your code to be executed in your programs.  Instead, you might want certain code to run only when a specific condition is met, and a different set of code to run when the condition is not satisified.  That's where conditional",
+          "link": "https://www.freecodecamp.org/news/python-if-else-statement-conditional-statements-explained/",
+          "publishedOn": "2021-07-29T15:32:30.000Z",
+          "wordCount": 1406,
+          "title": "Python If Else Statement – Conditional Statements Explained"
+        },
+        {
           "id": "60f993f51d2b080797b818a7",
           "author": null,
           "description": "In any programming language, functions facilitate code reusability. In simple terms, when you want to do something repeatedly, you can define that something as a function and call that function whenever you need to.  In this tutorial, we shall learn about user-defined functions in Python. When you started coding in",
@@ -712,42 +757,6 @@
           "publishedOn": "2021-06-30T14:01:01.000Z",
           "wordCount": 5542,
           "title": "Learn React Router"
-        },
-        {
-          "id": "60db519527f80207bcdbb6fa",
-          "author": null,
-          "description": "Whether you are new to coding interviews or are already familiar with the concept of backtracking, this is the crash course for you. We will learn about an all-purpose coding template and apply it to two LeetCode hard problems. Ready to crunch your next coding interview? Let's go!",
-          "link": "https://www.freecodecamp.org/news/coding-interview-backtracking-problems-crash-course/",
-          "publishedOn": "2021-06-29T20:00:32.000Z",
-          "wordCount": 908,
-          "title": "Coding Interview Backtracking Problems Crash Course – The Only One You&#x27;ll Ever Need"
-        },
-        {
-          "id": "604b8c6ea7946308b7687683",
-          "author": null,
-          "description": "Every day, developers use various applications and run commands in the terminal. These applications can include a browser, code editor, terminal, video conferencing app, or music player.  For each of these software applications that you open or commands you run, it creates a process or task. One beautiful feature of",
-          "link": "https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/",
-          "publishedOn": "2021-06-29T19:47:13.000Z",
-          "wordCount": 1079,
-          "title": "Linux List Processes – How to Check Running Processes"
-        },
-        {
-          "id": "60daf29027f80207bcdbb3fe",
-          "author": null,
-          "description": "Why do we need the timedelta object?When you're working with dates and times in Python, you'll often use the datetime module.  In this post, we'll see how we can use the timedelta object in the datetime module. It denotes a span of time and can help when we need",
-          "link": "https://www.freecodecamp.org/news/how-to-use-timedelta-objects-in-python/",
-          "publishedOn": "2021-06-29T18:25:52.000Z",
-          "wordCount": 926,
-          "title": "How to Use timedelta Objects in Python to Work with Dates"
-        },
-        {
-          "id": "60d76f6f6e1a1407b6b0c521",
-          "author": null,
-          "description": "What is the Microsoft Security, Compliance, and Identity Fundamentals?The Microsoft Security, Compliance and Identity Fundamentals Certification is an essential entry-level certification into Azure and Microsoft Security. In recent years we've seen a significant shift in the work environment where companies allow employees to work from home.  The increase of",
-          "link": "https://www.freecodecamp.org/news/microsoft-security-compliance-certification-sc-900/",
-          "publishedOn": "2021-06-29T13:24:44.000Z",
-          "wordCount": 684,
-          "title": "Microsoft Security, Compliance, and Identity Fundamentals (SC-900) – Pass the Exam With This Free 3.5 Hour Course"
         }
       ]
     },
@@ -914,16 +923,6 @@
           "publishedOn": "2021-06-30T13:28:27.000Z",
           "wordCount": null,
           "title": "Brighter Than a Billion Billion Suns: Gamma-Ray Bursts Continue to Surprise",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=106217",
-          "author": "Pradeep Mutalik",
-          "description": "In this month’s puzzle, math is a question of life or death.            \nThe post Can Math Help You Escape a Hungry Bear? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/can-math-help-you-escape-a-hungry-bear-20210629/",
-          "publishedOn": "2021-06-29T14:21:59.000Z",
-          "wordCount": null,
-          "title": "Can Math Help You Escape a Hungry Bear?",
           "itunes": {}
         }
       ]
