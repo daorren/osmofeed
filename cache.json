@@ -730,42 +730,6 @@
           "publishedOn": "2021-07-06T13:55:00.000Z",
           "wordCount": 109640,
           "title": "Get Ready to Pass CISSP Exam"
-        },
-        {
-          "id": "60de3cf127f80207bcdbc9af",
-          "author": null,
-          "description": "We just published demos of several upcoming freeCodeCamp features and community initiatives. You can read about them here, and watch the entire Summit in the video embedded below. Here's what we cover in this jam-packed one hour community update.Announcement #1: Campfire ModeWe've built a new mode where you can",
-          "link": "https://www.freecodecamp.org/news/freecodecamp-july-2021-summit/",
-          "publishedOn": "2021-07-02T04:55:18.000Z",
-          "wordCount": 641,
-          "title": "freeCodeCamp July 2021 Summit – Campfire Mode, Data Science Curriculum, Chapter, and Other New Features"
-        },
-        {
-          "id": "60dc72b527f80207bcdbbd8f",
-          "author": null,
-          "description": "In this article, I'm going to show you how to theme your website so users can customize certain elements to their tastes.  We'll talk about website themes, how theming works, and we'll end with a demo so you can see it in action. Let's dive in. Table of Contents:What",
-          "link": "https://www.freecodecamp.org/news/website-theming-with-css-custom-properties-and-gatsbyjs/",
-          "publishedOn": "2021-07-01T18:19:21.000Z",
-          "wordCount": 3084,
-          "title": "What is Website Theming? How to Use CSS Custom Properties and Gatsby.js to Customize Your Site"
-        },
-        {
-          "id": "60c0897ad3126007592d5701",
-          "author": null,
-          "description": "Listing items on a web page is a common task you'll have to do as a web developer. You may have to list shopping cart items, the order of students based on their grades, dogs with the loudest bark – and so on. So you need to know the different ways",
-          "link": "https://www.freecodecamp.org/news/html-list-how-to-use-bullet-points-ordered-and-unordered-lists/",
-          "publishedOn": "2021-07-01T18:02:56.000Z",
-          "wordCount": 1769,
-          "title": "HTML List – How to Use Bullet Points, Ordered, and Unordered Lists"
-        },
-        {
-          "id": "60d5e7ae6e1a1407b6b0bc5a",
-          "author": null,
-          "description": "The backend of a website can be written in many different programming languages. It is becoming increasingly common for to use Python for the backend of a website. We just published a full backend web development with Python course on the freeCodeCamp.org YouTube channel. This comprehensive course is for",
-          "link": "https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/",
-          "publishedOn": "2021-07-01T16:51:30.000Z",
-          "wordCount": 79275,
-          "title": "Backend Web Development with Python - Full Course"
         }
       ]
     },
@@ -923,16 +887,6 @@
           "wordCount": null,
           "title": "‘Social’ Mitochondria, Whispering Between Cells, Influence Health",
           "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=106313",
-          "author": "Tara C. Smith",
-          "description": "Other diseases with long-term symptoms can help us understand how COVID can affect us long after the virus itself is gone.            \nThe post How Long COVID Keeps Us Sick first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/long-covid-how-it-keeps-us-sick-20210701/",
-          "publishedOn": "2021-07-01T14:08:48.000Z",
-          "wordCount": null,
-          "title": "How Long COVID Keeps Us Sick",
-          "itunes": {}
         }
       ]
     },
@@ -941,6 +895,15 @@
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
+        {
+          "id": "60fc6f87daea3f136a2e1d67",
+          "author": "Assaf Arkin",
+          "description": "This week we Kanban our job search, change our strategy vision to fix a bug, ride the bike, and mind the duck!",
+          "link": "https://labnotes.org/weekend-reading-working-with-real-data/",
+          "publishedOn": "2021-07-31T22:20:32.000Z",
+          "wordCount": 938,
+          "title": "Weekend Reading — Working with real data"
+        },
         {
           "id": "60f468b0d1592f16258b367d",
           "author": "Assaf Arkin",
