@@ -948,6 +948,33 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-30/",
+          "author": null,
+          "description": "Welcome to Web Weekly #30!\n\nBuna ziua, friends!\nIt's the 30th Web Weekly today, and this newsletter also passed 1500 subscribers. 🎉 Thank you for reading along and replying to the newsletter with resources and feedback. 💙\nBefore we jump into web stuff, let me share some \"typo stickers\" that made me smile this week.\n\n\n\n\n          \n            \nThis week's Web Weekly includes:\npredictable scrollbar spacing\nthe order of CSS transformations\nthe state of Safari\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nReady? Steady. Go!\nSafari's current state – it's complicated\n\n\n          \n            \nJen Simmons, CSS expert and Apple evangelist, asked for Safari feedback on Twitter recently. Her Tweet sparked many conversations about Safari and its (lacking) feature set. M…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-30/",
+          "publishedOn": "2021-08-01T21:00:00.000Z",
+          "wordCount": 1082,
+          "title": "Web Weekly #30 (#blogPost)"
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/user-preference-feature-queries-have-a-boolean-context/",
+          "author": null,
+          "description": "Today I learned a small trick about CSS media queries that can help to save some bytes on the wire. You might know that you can check for user preferences using media queries.\nLet's take the prefers-reduced-motion media query as an example.👇\n@media screen and (prefers-reduced-motion: reduce) {\n  /* stop all these animations */\n}\n\nYou can use the prefers-reduced-motion query to stop animating elements when users prefer not to see motion and animations (learn more about why you should do that on CSS-Tricks). The query can have two different values: no-preference and reduce.\nIf you have used this media query before, you might know that you can also use its short variant and drop the reduce value. The media query will behave the same.\n@media screen and (prefers-reduced-motion) {\n  /* stop all…",
+          "link": "https://www.stefanjudis.com/today-i-learned/user-preference-feature-queries-have-a-boolean-context/",
+          "publishedOn": "2021-08-01T19:00:00.000Z",
+          "wordCount": 523,
+          "title": "User preference feature queries have a boolean context (#tilPost)"
+        },
+        {
+          "id": "https://www.stefanjudis.com/snippets/how-to-extract-text-from-an-image-via-the-cli/",
+          "author": null,
+          "description": "I came across a post by Simon Willison that described how to use the tesseract CLI command to extract text from an image. I took the opportunity to fiddle around with some shell scripting and added an extract-text-from-image command to my dotfiles. It uses tesseract to analyze an image, creates a txt file with the embedded text, copies the ebedded text to the clipboard, and deletes the txt file again.\nThe tesseract command was available on my machine. If it's not available on yours, install it via your favorite package manager.\nFind extract-image-from-texts last iteration below:\nfunction extract-text-from-image() {\n  if [ $# -eq 0 ]; then\n    echo \"Please specify the file you want to scan.\";\n    echo \"  -> extract-text-from-image /some/path/image.png\";\n    return 1;\n  fi\n\n  TARGET_DIR=$(dirname \"$1\");\n  FILENAME=$(basename -- \"$1\");\n  FILENAME_WITHOUT_EXTENSION=\"${FILENAME%.*}\";\n\n  tesseract \"$1\" \"$TARGET_DIR/$FILENAME_WITHOUT_EXTENSION\" -l eng txt || return 1;\n  pbcopy < \"$TARGET_DIR/$FILENAME_WITHOUT_EXTENSION.txt\";\n  rm \"$TARGET_DIR/$FILENAME_WITHOUT_EXTENSION.txt\";\n  echo \"🎉 Text copied to clipboard!\";\n}\n\nI don't think I'll use this command daily, but I'm amazed by this piece of CLI magic.\nEdit: Wesley Martin shared the macOCR project with me and it's also worth a look!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/snippets/how-to-extract-text-from-an-image-via-the-cli/",
+          "publishedOn": "2021-08-01T19:00:00.000Z",
+          "wordCount": 391,
+          "title": "How to extract text from an image via the CLI (#snippet)"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-29/",
           "author": null,
           "description": "Welcome to Web Weekly #29!\n\nCześć, friends!\nIt's been a while, but I visited my family this week! 🎉 My grandparents celebrated their 60th wedding anniversary (holy moly!), and I went home to \"party\" with them. It was a good week, and I hope the same applies to you!\nBefore we jump into web stuff, let me share something super cute (make sure to watch it until the end). 🐷\n\n\n          \n            \nThis week's Web Weekly includes:\nquestions to ask when interviewing for a new job\nhow to detect media query support\nnew web security features\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nReady? Steady. Go!\nVisual hierarchy in designs\n\n\n\n\n          \n            \nI admire people who can design sites that are good-looking and convey a message very well. A lot of times, g…",

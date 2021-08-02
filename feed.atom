@@ -2,10 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-01T00:24:56.399Z</updated>
+    <updated>2021-08-02T00:21:59.318Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #30 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-30/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-30/"/>
+        <updated>2021-08-01T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Web Weekly #30!
+
+Buna ziua, friends!
+It's the 30th Web Weekly today, and this newsletter also passed 1500 subscribers. 🎉 Thank you for reading along and replying to the newsletter with resources and feedback. 💙
+Before we jump into web stuff, let me share some "typo stickers" that made me smile this week.
+
+
+
+
+          
+            
+This week's Web Weekly includes:
+predictable scrollbar spacing
+the order of CSS transformations
+the state of Safari
+... and, as always, GitHub repositories, a new Tiny Helper and some music.
+Ready? Steady. Go!
+Safari's current state – it's complicated
+
+
+          
+            
+Jen Simmons, CSS expert and Apple evangelist, asked for Safari feedback on Twitter recently. Her Tweet sparked many conversations about Safari and its (lacking) feature set. M…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[User preference feature queries have a boolean context (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/user-preference-feature-queries-have-a-boolean-context/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/user-preference-feature-queries-have-a-boolean-context/"/>
+        <updated>2021-08-01T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today I learned a small trick about CSS media queries that can help to save some bytes on the wire. You might know that you can check for user preferences using media queries.
+Let's take the prefers-reduced-motion media query as an example.👇
+@media screen and (prefers-reduced-motion: reduce) {
+  /* stop all these animations */
+}
+
+You can use the prefers-reduced-motion query to stop animating elements when users prefer not to see motion and animations (learn more about why you should do that on CSS-Tricks). The query can have two different values: no-preference and reduce.
+If you have used this media query before, you might know that you can also use its short variant and drop the reduce value. The media query will behave the same.
+@media screen and (prefers-reduced-motion) {
+  /* stop all…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to extract text from an image via the CLI (#snippet)]]></title>
+        <id>https://www.stefanjudis.com/snippets/how-to-extract-text-from-an-image-via-the-cli/</id>
+        <link href="https://www.stefanjudis.com/snippets/how-to-extract-text-from-an-image-via-the-cli/"/>
+        <updated>2021-08-01T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I came across a post by Simon Willison that described how to use the tesseract CLI command to extract text from an image. I took the opportunity to fiddle around with some shell scripting and added an extract-text-from-image command to my dotfiles. It uses tesseract to analyze an image, creates a txt file with the embedded text, copies the ebedded text to the clipboard, and deletes the txt file again.
+The tesseract command was available on my machine. If it's not available on yours, install it via your favorite package manager.
+Find extract-image-from-texts last iteration below:
+function extract-text-from-image() {
+  if [ $# -eq 0 ]; then
+    echo "Please specify the file you want to scan.";
+    echo "  -> extract-text-from-image /some/path/image.png";
+    return 1;
+  fi
+
+  TARGET_DIR=$(dirname "$1");
+  FILENAME=$(basename -- "$1");
+  FILENAME_WITHOUT_EXTENSION="${FILENAME%.*}";
+
+  tesseract "$1" "$TARGET_DIR/$FILENAME_WITHOUT_EXTENSION" -l eng txt || return 1;
+  pbcopy < "$TARGET_DIR/$FILENAME_WITHOUT_EXTENSION.txt";
+  rm "$TARGET_DIR/$FILENAME_WITHOUT_EXTENSION.txt";
+  echo "🎉 Text copied to clipboard!";
+}
+
+I don't think I'll use this command daily, but I'm amazed by this piece of CLI magic.
+Edit: Wesley Martin shared the macOCR project with me and it's also worth a look!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Working with real data]]></title>
         <id>60fc6f87daea3f136a2e1d67</id>
