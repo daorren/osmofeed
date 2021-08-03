@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-02T00:21:59.318Z</updated>
+    <updated>2021-08-03T00:23:41.156Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How does the internet work?]]></title>
+        <id>61082bc93306a507d1bfc7b9</id>
+        <link href="https://www.freecodecamp.org/news/how-does-the-internet-work/"/>
+        <updated>2021-08-02T17:39:24.000Z</updated>
+        <summary type="html"><![CDATA[The internet is a part of our daily life and we use it constantly. But how does it actually work? We just released a course on the freeCodeCamp.org YouTube channel that will teach you how the internet works and basic networking principles.  Ian Frost teaches this course. He is]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mating Contests Among Females, Long Ignored, May Shape Evolution]]></title>
+        <id>https://www.quantamagazine.org/?p=107437</id>
+        <link href="https://www.quantamagazine.org/mating-contests-among-females-may-shape-their-evolution-20210802/"/>
+        <updated>2021-08-02T13:20:07.000Z</updated>
+        <summary type="html"><![CDATA[Showy male competitions over mating privileges have grabbed scientists’ attention more often, but new work hints that sexual selection is also widespread among females.            
+The post Mating Contests Among Females, Long Ignored, May Shape Evolution first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Jake Buehler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #30 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-30/</id>
@@ -1588,16 +1609,6 @@ I doubt that the iOS zoom argument will be the game-changer in these discussions
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — pAIr Programmer]]></title>
-        <id>60e0a5532f4b9a7ddc8b7d9e</id>
-        <link href="https://labnotes.org/weekend-reading-pair-programmer/"/>
-        <updated>2021-07-03T20:10:09.000Z</updated>
-        <summary type="html"><![CDATA[This week we pair program with AI, get certified on Infinidash, learn about unintended consequences, herd some sheep, and play with Lego.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
