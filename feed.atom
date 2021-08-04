@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-03T00:23:41.156Z</updated>
+    <updated>2021-08-04T00:20:28.775Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript For Loop – How to Loop Through an Array in JS]]></title>
+        <id>61079f873306a507d1bfc360</id>
+        <link href="https://www.freecodecamp.org/news/javascript-for-loop-how-to-loop-through-an-array-in-js/"/>
+        <updated>2021-08-03T19:53:47.000Z</updated>
+        <summary type="html"><![CDATA[There are various types of loops in JavaScript, and all of them essentially do the same thing: they repeat an action again and again.  Loops come in handy if you want to repeat the same block of code for a certain number of times. Basically, they are a fast and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer Communities to Join to Help You Grow Your Tech Career]]></title>
+        <id>6104ec2f3306a507d1bfbc24</id>
+        <link href="https://www.freecodecamp.org/news/developer-communities-to-join-to-grow-your-career/"/>
+        <updated>2021-08-03T19:33:16.000Z</updated>
+        <summary type="html"><![CDATA[Alone, we can do so little; together, we can do so much.  Helen Keller  It’s true – when you lend someone a helping hand, you feel a lot better about yourself, and you will likely learn something new.  Helping others feels so rewarding because you know that you have contributed]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Access Clipboard in Android (and Clear it)]]></title>
+        <id>610948d93306a507d1bfd0d5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-access-clipboard-in-android-and-clear-it/"/>
+        <updated>2021-08-03T19:10:40.000Z</updated>
+        <summary type="html"><![CDATA[The copy and paste functionality on Android smartphones might seem to be a "one-time" thing. Once you copy a snippet of text, you need to paste it before copying or cutting another. If you don't, you won't have access to it anymore.  Also, if you copy text and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 Free Coding Games to Learn Programming for Beginners]]></title>
+        <id>610640c03306a507d1bfbfcf</id>
+        <link href="https://www.freecodecamp.org/news/12-free-coding-games-to-learn-programming-for-beginners/"/>
+        <updated>2021-08-03T15:11:05.000Z</updated>
+        <summary type="html"><![CDATA[A lot of beginners can become intimidated when they're learning how to code. But learning through coding games can be fun and educational.  According to True Education Partnerships,  Gamification in learning involves using game-based elements such as point scoring, peer competition, team work, and score tables to drive engagement, help]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Galois Groups and the Symmetries of Polynomials]]></title>
+        <id>https://www.quantamagazine.org/?p=107472</id>
+        <link href="https://www.quantamagazine.org/how-galois-groups-used-polynomial-symmetries-to-reshape-math-20210803/"/>
+        <updated>2021-08-03T15:09:08.000Z</updated>
+        <summary type="html"><![CDATA[By focusing on relationships between solutions to polynomial equations, rather than the exact solutions themselves, Évariste Galois changed the course of modern mathematics.            
+The post Galois Groups and the Symmetries of Polynomials first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Allison Whitten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Coding Bootcamp Based on freeCodeCamp&#x27;s Curriculum]]></title>
+        <id>61084aac3306a507d1bfc81c</id>
+        <link href="https://www.freecodecamp.org/news/free-coding-bootcamp-based-on-freecodecamp/"/>
+        <updated>2021-08-03T15:04:13.000Z</updated>
+        <summary type="html"><![CDATA[Now you can join a free part-time, remote coding bootcamp. You'll learn freeCodeCamp's entire Responsive Web Design certification, together with friendly people around the world. 👋 Hi, I’m Jess. A long time ago, I was an educator who worked in special education and language education.  When I wanted to get]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How does the internet work?]]></title>
         <id>61082bc93306a507d1bfc7b9</id>
@@ -1544,71 +1605,6 @@ The post ‘Social’ Mitochondria, Whispering Between Cells, Influence Health f
         <summary type="html"><![CDATA[Earning the Certified Information Systems Security Professional (CISSP) Certification proves you have what it takes to effectively design, implement and manage a best-in-class cybersecurity program. The CISSP is one of the most valuable Cyber Security Certificates in the market today.  We just posted a 13-hour course on the freeCodeCamp.org]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #26 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-26/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-26/"/>
-        <updated>2021-07-04T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Web Weekly #26!
-
-God dag, friends!
-Guess what?! I'm on my way to Amsterdam for three chilled days right now. The weather won't be super great, but I'm excited about the sea, some wind, and good food either way.
-And to my surprise, the provided wifi on my train works reasonably well, which means that I can write and send this week's Web Weekly. 🎉 Thank you Deutsche Bahn!
-Before we jump into web stuff and valuable resources, remember, the year is 50% done! Time flies at an incredible speed... 🙈
-
-
-
-          
-            
-This week's Web Weekly includes:
-visualized tabbing order
-surprising return values in JavaScript try/catch/finally
-resources on gender-neutral language
-... and, as always, GitHub repositories, a new Tiny Helper and some music.
-Ready? Steady. Go!
-"Show tabbing or…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to visualize the tab order without using an extension in Firefox (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/how-to-visualize-the-tab-order-without-using-an-extension-in-firefox/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/how-to-visualize-the-tab-order-without-using-an-extension-in-firefox/"/>
-        <updated>2021-07-04T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Focus order is a success criterion defined in the Web Content Accessibility Guidelines (WCAG). Website visitors have to be able to navigate content and focusable element sequentially.
-Success Criterion 2.4.3 Focus Order (Level A): If a Web page can be navigated sequentially and the navigation sequences affect meaning or operation, focusable components receive focus in an order that preserves meaning and operability.
-How can you test for this accessibility success criterion most effectively?
-The first option, tab around your web pages manually and see where the focus wanders. While there's nothing wrong with this, browser dev tools (mainly Firefox) offer valuable alternatives to manual testing these days.
-Let's have a look!
-Firefox – "show tabbing order" of all focusable elements
-
-
-
-
-      …]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobile Safari doesn't zoom into form inputs with minimum 16px (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/mobile-safari-doesnt-zoom-into-form-inputs-with-minimum-16px/</id>
-        <link href="https://www.stefanjudis.com/notes/mobile-safari-doesnt-zoom-into-form-inputs-with-minimum-16px/"/>
-        <updated>2021-07-04T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I just came across this tweet from Josh Comeau. Josh shared that Safari is not "zooming into" focused form elements if they have a font size of or larger than 16px. I don't have an iPhone, but I can imagine that the zoom interaction is pretty distracting when you "just" want to fill out a form.
-Why is Safari zooming in for controls that have a font size less than 16px? 16px is the default body font size for most browsers and is what you get after declaring font-size: 100%; on :root. 16px is the smalled accessible font size according to accessibility resources.
-Josh's discovery is a fact that'll come in handy in the future because I had a few discussions about font sizes lately. Some folks tend to prefer small and light grey fonts – the less readable, the better. 🙈
-I doubt that the iOS zoom argument will be the game-changer in these discussions, but the more arguments for accessible web design I have the more likely I can convince someone! 🎉
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
