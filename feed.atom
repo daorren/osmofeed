@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-05T00:24:37.432Z</updated>
+    <updated>2021-08-06T00:22:30.435Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[&lt;pre&gt; Tag in HTML – Example Code]]></title>
+        <id>610be0ea3306a507d1bfe4b1</id>
+        <link href="https://www.freecodecamp.org/news/pre-tag-in-html-example-code/"/>
+        <updated>2021-08-05T21:33:51.000Z</updated>
+        <summary type="html"><![CDATA[The HTML <pre> tag defines a preformatted block of text. It comes in handy when you want to display text where the typographical formatting affects the meaning of the content, such as code snippets and poems.  By default, browsers ignore white space of any kind – extra text space,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes Security – How to Use Dynamic Admission Control to Secure Your Container Supply Chain]]></title>
+        <id>6108233d3306a507d1bfc731</id>
+        <link href="https://www.freecodecamp.org/news/kubernetes-security-dynamic-admission-control/"/>
+        <updated>2021-08-05T16:37:56.000Z</updated>
+        <summary type="html"><![CDATA[Containers have exploded in popularity in recent years. And as more developers are using these containers, they need more tools to manage them and their interactions with them effectively.  To help manage all this, many devs use Kubernetes. And it has become the de facto standard for container orchestration. While]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematicians Solve Decades-Old Classification Problem]]></title>
+        <id>https://www.quantamagazine.org/?p=107577</id>
+        <link href="https://www.quantamagazine.org/mathematicians-solve-decades-old-classification-problem-20210805/"/>
+        <updated>2021-08-05T15:17:45.000Z</updated>
+        <summary type="html"><![CDATA[A pair of researchers has shown that trying to classify groups of numbers called “torsion-free abelian groups” is as hard as it can possibly be.            
+The post Mathematicians Solve Decades-Old Classification Problem first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steve Nadis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML for Beginners]]></title>
+        <id>60db390127f80207bcdbb455</id>
+        <link href="https://www.freecodecamp.org/news/html-crash-course/"/>
+        <updated>2021-08-05T14:19:09.000Z</updated>
+        <summary type="html"><![CDATA[HTML is used to create web pages.  This article will teach you the basics of HTML. I also created a 45-minute video course on the freeCodeCamp.org YouTube channel that teaches you HTML in the context of creating an actual web page. If you are just learning HTML, I recommend]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Border – Style and HTML Code Examples]]></title>
         <id>610afe863306a507d1bfdf1e</id>
@@ -1623,67 +1664,6 @@ The post Neurons Unexpectedly Encode Information in the Timing of Their Firing f
         <link href="https://www.freecodecamp.org/news/what-is-binary-search/"/>
         <updated>2021-07-07T13:57:56.000Z</updated>
         <summary type="html"><![CDATA[Binary search is a common algorithm used in programming languages and programs. It can be very useful for programmers to understand how it works. We just released a binary search course on the freeCodeCamp.org YouTube channel. You will learn how to implement binary search in C and C++, but]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automatically Upload an Android App Bundle to the Play Store]]></title>
-        <id>60e16e1b134ad707be00d6bc</id>
-        <link href="https://www.freecodecamp.org/news/automatically-upload-an-android-app-bundle-to-the-play-store/"/>
-        <updated>2021-07-06T21:08:39.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'm going to explain how to automatically upload an Android App Bundle (.aab file) to the Play Store's beta track. We'll use Android Studio and AWS as a cloud infrastructure provider.  Once we've uploaded the app bundle, we'll trigger a Slack notification.  This is a valuable use]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Social’ Mitochondria, Whispering Between Cells, Influence Health]]></title>
-        <id>https://www.quantamagazine.org/?p=106354</id>
-        <link href="https://www.quantamagazine.org/social-mitochondria-whispering-between-cells-influence-health-20210706/"/>
-        <updated>2021-07-06T16:38:59.000Z</updated>
-        <summary type="html"><![CDATA[Mitochondria appear to communicate and cooperate with one another, both within and between cells. Biologists are only just beginning to understand how and why.            
-The post ‘Social’ Mitochondria, Whispering Between Cells, Influence Health first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Katarina Zimmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Authenticate Users and Implement CORS in Node.js Apps]]></title>
-        <id>60b22e9611ffb70827ef9547</id>
-        <link href="https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/"/>
-        <updated>2021-07-06T16:02:13.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will learn how to authenticate users and secure endpoints in Node.js. You'll also see how to implement Cross-Origin Resource Sharing (CORS) in Node. So let's get started.  Prerequisites You'll need the following to follow along with this tutorial:  A working understanding of JavaScript. A good]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 JavaScript Tips to Improve Your React Code]]></title>
-        <id>60df35f027f80207bcdbccea</id>
-        <link href="https://www.freecodecamp.org/news/javascript-tips-to-improve-your-react-code-today/"/>
-        <updated>2021-07-06T15:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Let's look at five JavaScript tips you can use today to instantly improve your React applications.  Because React is a JavaScript library, any improvements that we make in our JavaScript skills will directly improve the applications that we build with React. For this reason, I've put together a number of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Schedule a Job in Node Using node-cron]]></title>
-        <id>60aa196411ffb70827ef5f43</id>
-        <link href="https://www.freecodecamp.org/news/schedule-a-job-in-node-with-nodecron/"/>
-        <updated>2021-07-06T14:27:26.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to schedule a job in Node using node-cron.  Node-cron is a handy npm package which you can use to schedule jobs to run at specific times or intervals. It is most suitable for scheduling repetitive jobs such as email notifications, file downloads, and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Ready to Pass CISSP Exam]]></title>
-        <id>60df6dd827f80207bcdbcf06</id>
-        <link href="https://www.freecodecamp.org/news/get-ready-to-pass-cissp-exam/"/>
-        <updated>2021-07-06T13:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Earning the Certified Information Systems Security Professional (CISSP) Certification proves you have what it takes to effectively design, implement and manage a best-in-class cybersecurity program. The CISSP is one of the most valuable Cyber Security Certificates in the market today.  We just posted a 13-hour course on the freeCodeCamp.org]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
