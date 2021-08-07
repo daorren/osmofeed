@@ -12,6 +12,42 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "61067c973306a507d1bfc1ba",
+          "author": null,
+          "description": "Once you have created a table in a database, it will rarely need to stay the same forever. You will likely need to modify the records in it.  And to help you do that, there is a useful statement, aptly named UPDATE, that you can use to change the records",
+          "link": "https://www.freecodecamp.org/news/sql-update-statement-update-query-in-sql/",
+          "publishedOn": "2021-08-06T21:25:14.000Z",
+          "wordCount": 827,
+          "title": "SQL Update Statement – Update Query in SQL"
+        },
+        {
+          "id": "610cebc13306a507d1bfeca9",
+          "author": null,
+          "description": "Microsoft Excel displays data in tabular format. This means that information is arranged in a table consisting of rows and columns.  Rows and columns are different properties that together make up a table.  These are the two most important features of Excel that allow users to store and manipulate their",
+          "link": "https://www.freecodecamp.org/news/row-vs-column-in-excel-what-is-the-difference/",
+          "publishedOn": "2021-08-06T21:17:04.000Z",
+          "wordCount": 754,
+          "title": "Row VS Column in Excel – What is the Difference?"
+        },
+        {
+          "id": "6107c0593306a507d1bfc565",
+          "author": null,
+          "description": "If you've created an empty table in your database you'll need to add records to it. In this article you will learn how you can add records to your tables using the INSERT statement in SQL. Keep in mind that if the syntax presented here doesn't work, you can check",
+          "link": "https://www.freecodecamp.org/news/insert-into-sql-sql-insert-statement-example/",
+          "publishedOn": "2021-08-06T16:10:39.000Z",
+          "wordCount": 837,
+          "title": "Insert Into SQL – SQL Insert Statement Example"
+        },
+        {
+          "id": "610658bf3306a507d1bfc110",
+          "author": null,
+          "description": "There are times in JavaScript where you might consider using a switch statement instead of an if else statement.   switch statements can have a cleaner syntax over complicated if else statements.  Take a look at the example below – instead of using this long if else statement, you might choose to",
+          "link": "https://www.freecodecamp.org/news/javascript-switch-case-js-switch-statement-example/",
+          "publishedOn": "2021-08-06T15:18:55.000Z",
+          "wordCount": 1278,
+          "title": "JavaScript Switch Case – JS Switch Statement Example"
+        },
+        {
           "id": "610be0ea3306a507d1bfe4b1",
           "author": null,
           "description": "The HTML <pre> tag defines a preformatted block of text. It comes in handy when you want to display text where the typographical formatting affects the meaning of the content, such as code snippets and poems.  By default, browsers ignore white space of any kind – extra text space,",
@@ -784,51 +820,6 @@
           "publishedOn": "2021-07-08T15:44:30.000Z",
           "wordCount": 68137,
           "title": "Learn React JS in This Free 7-Hour Course"
-        },
-        {
-          "id": "60e521aa134ad707be00e41d",
-          "author": null,
-          "description": "Objects are one of the most valuable things you can learn in Javascript. You can use them to take your programs to the next level.  An object is a collection of data – or key value pairs – which consist of variables and functions that you can access using dot notation. Now",
-          "link": "https://www.freecodecamp.org/news/what-is-a-javascript-object/",
-          "publishedOn": "2021-07-07T22:04:00.000Z",
-          "wordCount": 761,
-          "title": "What is a JavaScript Object? Key Value Pairs and Dot Notation Explained"
-        },
-        {
-          "id": "60ccd1794dc1a607ed7b4feb",
-          "author": null,
-          "description": "A lot of people want to learn machine learning these days. But the daunting bottom-up curriculum that most ML teachers propose is enough discourage a lot of newcomers.  In this tutorial I flip the curriculum upside down and will outline what I think is the fastest and easiest way to",
-          "link": "https://www.freecodecamp.org/news/how-to-learn-machine-learning-practical-tips-and-resources/",
-          "publishedOn": "2021-07-07T17:28:00.000Z",
-          "wordCount": 5411,
-          "title": "How to Learn Machine Learning – Tips and Resources to Learn ML the Practical Way"
-        },
-        {
-          "id": "60e25e17134ad707be00d947",
-          "author": null,
-          "description": "List comprehension is an easy to read, compact, and elegant way of creating a list from any existing iterable object. Basically, it's a simpler way to create a new list from the values in a list you already have. It is generally a single line of code enclosed in square",
-          "link": "https://www.freecodecamp.org/news/list-comprehension-in-python/",
-          "publishedOn": "2021-07-07T17:25:39.000Z",
-          "wordCount": 1592,
-          "title": "List Comprehension in Python Explained for Beginners"
-        },
-        {
-          "id": "60c38e76d3126007592d66cd",
-          "author": null,
-          "description": "I've carefully gone through over 50 resources, I've been through 10 JavaScript interviews, and I've landed a job at a unicorn startup. And throughout this entire process, I started to see a pattern in the most frequently asked JS interview questions.  In this article, I have tried to list the",
-          "link": "https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/",
-          "publishedOn": "2021-07-07T15:43:17.000Z",
-          "wordCount": 4364,
-          "title": "JavaScript Interview Prep Cheatsheet – Ace Your Coding Interviews with These Concepts"
-        },
-        {
-          "id": "60d5ec446e1a1407b6b0bcae",
-          "author": null,
-          "description": "Binary search is a common algorithm used in programming languages and programs. It can be very useful for programmers to understand how it works. We just released a binary search course on the freeCodeCamp.org YouTube channel. You will learn how to implement binary search in C and C++, but",
-          "link": "https://www.freecodecamp.org/news/what-is-binary-search/",
-          "publishedOn": "2021-07-07T13:57:56.000Z",
-          "wordCount": 13488,
-          "title": "What is Binary Search?"
         }
       ]
     },
@@ -1005,16 +996,6 @@
           "publishedOn": "2021-07-08T14:17:59.000Z",
           "wordCount": null,
           "title": "Mathematicians Prove Symmetry of Phase Transitions",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=106349",
-          "author": "Elena Renken",
-          "description": "A temporal pattern of activity observed in human brains for the first time may explain how we can learn so quickly.            \nThe post Neurons Unexpectedly Encode Information in the Timing of Their Firing first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/a-new-kind-of-information-coding-seen-in-the-human-brain-20210707/",
-          "publishedOn": "2021-07-07T14:44:54.000Z",
-          "wordCount": null,
-          "title": "Neurons Unexpectedly Encode Information in the Timing of Their Firing",
           "itunes": {}
         }
       ]

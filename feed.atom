@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T00:22:30.435Z</updated>
+    <updated>2021-08-07T00:20:50.326Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SQL Update Statement – Update Query in SQL]]></title>
+        <id>61067c973306a507d1bfc1ba</id>
+        <link href="https://www.freecodecamp.org/news/sql-update-statement-update-query-in-sql/"/>
+        <updated>2021-08-06T21:25:14.000Z</updated>
+        <summary type="html"><![CDATA[Once you have created a table in a database, it will rarely need to stay the same forever. You will likely need to modify the records in it.  And to help you do that, there is a useful statement, aptly named UPDATE, that you can use to change the records]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Row VS Column in Excel – What is the Difference?]]></title>
+        <id>610cebc13306a507d1bfeca9</id>
+        <link href="https://www.freecodecamp.org/news/row-vs-column-in-excel-what-is-the-difference/"/>
+        <updated>2021-08-06T21:17:04.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Excel displays data in tabular format. This means that information is arranged in a table consisting of rows and columns.  Rows and columns are different properties that together make up a table.  These are the two most important features of Excel that allow users to store and manipulate their]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insert Into SQL – SQL Insert Statement Example]]></title>
+        <id>6107c0593306a507d1bfc565</id>
+        <link href="https://www.freecodecamp.org/news/insert-into-sql-sql-insert-statement-example/"/>
+        <updated>2021-08-06T16:10:39.000Z</updated>
+        <summary type="html"><![CDATA[If you've created an empty table in your database you'll need to add records to it. In this article you will learn how you can add records to your tables using the INSERT statement in SQL. Keep in mind that if the syntax presented here doesn't work, you can check]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Switch Case – JS Switch Statement Example]]></title>
+        <id>610658bf3306a507d1bfc110</id>
+        <link href="https://www.freecodecamp.org/news/javascript-switch-case-js-switch-statement-example/"/>
+        <updated>2021-08-06T15:18:55.000Z</updated>
+        <summary type="html"><![CDATA[There are times in JavaScript where you might consider using a switch statement instead of an if else statement.   switch statements can have a cleaner syntax over complicated if else statements.  Take a look at the example below – instead of using this long if else statement, you might choose to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[&lt;pre&gt; Tag in HTML – Example Code]]></title>
         <id>610be0ea3306a507d1bfe4b1</id>
@@ -1605,67 +1645,6 @@ If you want to read more about labels and input, have a look at Adrian Roselli's
 The post Mathematicians Prove Symmetry of Phase Transitions first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Allison Whitten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a JavaScript Object? Key Value Pairs and Dot Notation Explained]]></title>
-        <id>60e521aa134ad707be00e41d</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-javascript-object/"/>
-        <updated>2021-07-07T22:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Objects are one of the most valuable things you can learn in Javascript. You can use them to take your programs to the next level.  An object is a collection of data – or key value pairs – which consist of variables and functions that you can access using dot notation. Now]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Learn Machine Learning – Tips and Resources to Learn ML the Practical Way]]></title>
-        <id>60ccd1794dc1a607ed7b4feb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-learn-machine-learning-practical-tips-and-resources/"/>
-        <updated>2021-07-07T17:28:00.000Z</updated>
-        <summary type="html"><![CDATA[A lot of people want to learn machine learning these days. But the daunting bottom-up curriculum that most ML teachers propose is enough discourage a lot of newcomers.  In this tutorial I flip the curriculum upside down and will outline what I think is the fastest and easiest way to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[List Comprehension in Python Explained for Beginners]]></title>
-        <id>60e25e17134ad707be00d947</id>
-        <link href="https://www.freecodecamp.org/news/list-comprehension-in-python/"/>
-        <updated>2021-07-07T17:25:39.000Z</updated>
-        <summary type="html"><![CDATA[List comprehension is an easy to read, compact, and elegant way of creating a list from any existing iterable object. Basically, it's a simpler way to create a new list from the values in a list you already have. It is generally a single line of code enclosed in square]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Interview Prep Cheatsheet – Ace Your Coding Interviews with These Concepts]]></title>
-        <id>60c38e76d3126007592d66cd</id>
-        <link href="https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/"/>
-        <updated>2021-07-07T15:43:17.000Z</updated>
-        <summary type="html"><![CDATA[I've carefully gone through over 50 resources, I've been through 10 JavaScript interviews, and I've landed a job at a unicorn startup. And throughout this entire process, I started to see a pattern in the most frequently asked JS interview questions.  In this article, I have tried to list the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neurons Unexpectedly Encode Information in the Timing of Their Firing]]></title>
-        <id>https://www.quantamagazine.org/?p=106349</id>
-        <link href="https://www.quantamagazine.org/a-new-kind-of-information-coding-seen-in-the-human-brain-20210707/"/>
-        <updated>2021-07-07T14:44:54.000Z</updated>
-        <summary type="html"><![CDATA[A temporal pattern of activity observed in human brains for the first time may explain how we can learn so quickly.            
-The post Neurons Unexpectedly Encode Information in the Timing of Their Firing first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Elena Renken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Binary Search?]]></title>
-        <id>60d5ec446e1a1407b6b0bcae</id>
-        <link href="https://www.freecodecamp.org/news/what-is-binary-search/"/>
-        <updated>2021-07-07T13:57:56.000Z</updated>
-        <summary type="html"><![CDATA[Binary search is a common algorithm used in programming languages and programs. It can be very useful for programmers to understand how it works. We just released a binary search course on the freeCodeCamp.org YouTube channel. You will learn how to implement binary search in C and C++, but]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
