@@ -12,6 +12,96 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "611e8bac3bccf807612a34df",
+          "author": null,
+          "description": "When you code in HTML and add some text, you don’t want to leave it like that. You want to make that text look good.  And to do that, you need to change their appearance through the color and font-size properties of CSS.  In this tutorial, I will show",
+          "link": "https://www.freecodecamp.org/news/html-font-style-how-to-change-text-color-and-size-with-an-html-tag/",
+          "publishedOn": "2021-08-19T23:23:07.000Z",
+          "wordCount": 651,
+          "title": "HTML Font Style – How to Change Text Color and Size with an HTML Tag"
+        },
+        {
+          "id": "611d436ee884de0752181044",
+          "author": null,
+          "description": "In CSS, the display property determines how an element looks. It is also a crucial part of the presentation of you HTML code as it has a significant impact on layouts.  In fact, to use the modern Flexbox and Grid models, you need to use the display property before you",
+          "link": "https://www.freecodecamp.org/news/the-css-display-property-display-none-display-table-inline-block-and-more/",
+          "publishedOn": "2021-08-19T20:47:14.000Z",
+          "wordCount": 1716,
+          "title": "The CSS Display Property – Display None, Display Table, Inline Block and More"
+        },
+        {
+          "id": "611e4447e884de0752181578",
+          "author": null,
+          "description": "The term “lexical scope” may seem tricky to grasp at first glance. But it's helpful to understand what each word means. So this article will explain lexical scope by first examining the meaning of “lexical” and “scope”. So, let’s get it started by understanding the term “scope”. What exactly",
+          "link": "https://www.freecodecamp.org/news/javascript-lexical-scope-tutorial/",
+          "publishedOn": "2021-08-19T19:56:48.000Z",
+          "wordCount": 1834,
+          "title": "Lexical Scope in JavaScript – What Exactly Is Scope in JS?"
+        },
+        {
+          "id": "611e3f8ee884de0752181566",
+          "author": null,
+          "description": "In HTML, you can't create an extra blank space after the space ( ) character with the spacebar. If you want 10 blank spaces in your HTML code and you try to add them with the spacebar, you'll only see one space in the browser.  Also, one or more of the words",
+          "link": "https://www.freecodecamp.org/news/html-space-how-to-add-a-non-breaking-space-with-the-nbsp-character-entity/",
+          "publishedOn": "2021-08-19T17:29:46.000Z",
+          "wordCount": 1200,
+          "title": "HTML Space – How to Add a Non-breaking Space with the &amp;nbsp; Character Entity"
+        },
+        {
+          "id": "611d2ad1e884de0752180f58",
+          "author": null,
+          "description": "When ES6 (EmcaScript 2015) came out, it ushered in a whole new set of methods for iterating over an array. And one of the most useful is the map() method. Array.prototype.map() is a built-in array method for iterating through the elements inside an array collection in JavaScript. Think",
+          "link": "https://www.freecodecamp.org/news/array-map-tutorial/",
+          "publishedOn": "2021-08-19T16:16:57.000Z",
+          "wordCount": 1546,
+          "title": "JavaScript Array.map() Tutorial – How to Iterate Through Elements in an Array with map()"
+        },
+        {
+          "id": "6116c31e72231b077cdafc89",
+          "author": null,
+          "description": "The Java Native Interface allows Java code to call native libraries written in C and C++. It is helpful when you need to do something that cannot be accomplished with Java alone. We just released a massive 28-Hour course on the freeCodeCamp.org YouTube channel that will take you from",
+          "link": "https://www.freecodecamp.org/news/learn-the-java-native-interface-free-28-hour-course/",
+          "publishedOn": "2021-08-19T12:43:56.000Z",
+          "wordCount": 636,
+          "title": "Learn the Java Native Interface - Free 28-Hour Course"
+        },
+        {
+          "id": "61135a3472231b077cdad609",
+          "author": null,
+          "description": "If you're a web developer, it's important for you to have a personal portfolio website – especially when you're applying for jobs.  If you have a nice online portfolio site, you'll have a better chance of getting attention from recruiters than if you don't. Instead of sending your CV and asking",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/",
+          "publishedOn": "2021-08-18T18:02:02.000Z",
+          "wordCount": 2883,
+          "title": "How to Build a Portfolio Site with Next.js and TailwindCSS"
+        },
+        {
+          "id": "610d63b33306a507d1bff79f",
+          "author": null,
+          "description": "You might think that software development is all about writing code, but that's not true. A huge part of the job is communicating with others. And as we all move towards more remote work, written communication is becoming increasingly important. “In their ﬁrst few years on the job, engineers spend",
+          "link": "https://www.freecodecamp.org/news/writing-tips-software-developers/",
+          "publishedOn": "2021-08-18T16:48:00.000Z",
+          "wordCount": 1812,
+          "title": "Writing Tips for Software Developers – How to Become a Better Tech Writer"
+        },
+        {
+          "id": "611c1448e884de0752180af9",
+          "author": null,
+          "description": "If your screen is too bright, it can give you eye problems – especially if you sit in front of a computer coding all day.  This is because a too-bright screen can cause eye strain and fatigue, which can lead to headaches and other maladies.  If you're a regular computer user,",
+          "link": "https://www.freecodecamp.org/news/how-to-change-screen-brightness-on-windows-10/",
+          "publishedOn": "2021-08-17T21:03:08.000Z",
+          "wordCount": 885,
+          "title": "How to Change Screen Brightness on Windows 10 – Brightness Settings and How to Turn Brightness Down"
+        },
+        {
+          "id": "611b91d2e884de07521804a5",
+          "author": null,
+          "description": "These days, there are a lot resources out there for learning how to code. And many of them are readily available online for free – so choosing one can be overwhelming.  But there's definitely an upside: you don't need to attend a paid bootcamp or university anymore in order to learn",
+          "link": "https://www.freecodecamp.org/news/how-to-code-coding-for-beginners-and-how-to-learn-programming-for-free/",
+          "publishedOn": "2021-08-17T18:06:09.000Z",
+          "wordCount": 1426,
+          "title": "How to Code – Coding for Beginners and How to Learn Programming for Free"
+        },
+        {
           "id": "61067c973306a507d1bfc1ba",
           "author": null,
           "description": "Once you have created a table in a database, it will rarely need to stay the same forever. You will likely need to modify the records in it.  And to help you do that, there is a useful statement, aptly named UPDATE, that you can use to change the records",
@@ -514,285 +604,6 @@
           "publishedOn": "2021-07-21T15:20:18.000Z",
           "wordCount": 1624,
           "title": "CSS Background Image – With HTML Example Code"
-        },
-        {
-          "id": "605301d528094f59be257c67",
-          "author": null,
-          "description": "In this article, we are going to learn about the <u> tag and when it is appropriate to use it in HTML 5.  In older versions of HTML, you'd use this tag as a way to underline text. We are going to learn about the new HTML 5",
-          "link": "https://www.freecodecamp.org/news/html-underline-text-how-to-use-the-u-tag-with-example-code/",
-          "publishedOn": "2021-07-20T22:48:13.000Z",
-          "wordCount": 667,
-          "title": "HTML Underline Text – How to Use the &lt;u&gt; Tag with Example Code"
-        },
-        {
-          "id": "60f2dbac66c61b07d458e5c9",
-          "author": null,
-          "description": "In my very early days as a budding web developer, I made a fairly common mistake. On Facebook, I sent a friend request to a senior software engineer (I wasn't aware of his position at the time) and started a chat with him thereafter. Done with greetings and pleasantries, I",
-          "link": "https://www.freecodecamp.org/news/programming-coding-developement-whats-the-difference/",
-          "publishedOn": "2021-07-20T20:04:12.000Z",
-          "wordCount": 1350,
-          "title": "Programming VS Coding VS Development – What&#x27;s the Difference?"
-        },
-        {
-          "id": "60ed44c866c61b07d458d023",
-          "author": null,
-          "description": "Have you ever gotten into trouble trying to handle a single process that's really huge or heavy? If so, I can help you figure out how to better manage it. In this article I will be sharing how I'm currently managing a single message that is too big to be",
-          "link": "https://www.freecodecamp.org/news/scale-system-split-processes/",
-          "publishedOn": "2021-07-20T19:26:45.000Z",
-          "wordCount": 1209,
-          "title": "How to Scale a System With Process Splitting and Redis"
-        },
-        {
-          "id": "60e009e527f80207bcdbd00a",
-          "author": null,
-          "description": "If you're building a website, making it responsive is one of the most important things you'll do. It can be difficult to create websites that look good across a variety of screen sizes. You'll have to handle rendering an element's width or height, and specifying varied width sizes using media",
-          "link": "https://www.freecodecamp.org/news/css-properties-examples/",
-          "publishedOn": "2021-07-20T17:09:20.000Z",
-          "wordCount": 835,
-          "title": "CSS Properties – Max-width, Min-width, Max-height, and Min-height Explained with Examples"
-        },
-        {
-          "id": "60f1d20a66c61b07d458e4a3",
-          "author": null,
-          "description": "MySql is one of the most popular databases. We just published a MySQL Database course on the freeCodeCamp.org YouTube channel. Bharath Ram Manoharan from Execute on Command created this course. He is a senior database engineer and great teacher. This course starts with SQL basics. Then it also goes",
-          "link": "https://www.freecodecamp.org/news/learn-to-use-the-mysql-database/",
-          "publishedOn": "2021-07-20T13:18:33.000Z",
-          "wordCount": 15838,
-          "title": "Learn to Use the MySQL Database"
-        },
-        {
-          "id": "60f3e5ca66c61b07d458eb2d",
-          "author": null,
-          "description": "Developers need to install Xcode Command Line Tools before they can develop software on a Mac. This article shows three ways to install Xcode Command Line Tools, including the newest approach using Homebrew.",
-          "link": "https://www.freecodecamp.org/news/install-xcode-command-line-tools/",
-          "publishedOn": "2021-07-19T22:25:44.000Z",
-          "wordCount": 1246,
-          "title": "How to Install Xcode Command Line Tools on a Mac"
-        },
-        {
-          "id": "60f53af066c61b07d458ed0a",
-          "author": null,
-          "description": "Choosing the right color for your web design project is a serious endeavour. A color scheme can often make or break a site's overall appearance.  Different colors create a different feel for your designs. The right choice of colors can make your designs and creations look clean, aesthetically pleasing, and",
-          "link": "https://www.freecodecamp.org/news/rgb-color-html-and-css-guide/",
-          "publishedOn": "2021-07-19T19:00:35.000Z",
-          "wordCount": 1566,
-          "title": "RGB Color – HTML and CSS Guide"
-        },
-        {
-          "id": "60f2829d66c61b07d458e58f",
-          "author": null,
-          "description": "Whenever I heard of the term “Cloud native”, my thoughts would usually go to Kubernetes. I used to think “Cloud native” was a phrase used for describing just Kubernetes.  But as I delved more into it, I realized my assumption was wrong. Cloud native isn't just about Kubernetes – it is",
-          "link": "https://www.freecodecamp.org/news/get-started-with-cloud-native/",
-          "publishedOn": "2021-07-19T18:12:13.000Z",
-          "wordCount": 1358,
-          "title": "What is Cloud Native? The Cloud Computing Delivery Model Explained"
-        },
-        {
-          "id": "60ec528ce8ee9b08300edb9e",
-          "author": null,
-          "description": "There might be times when a website has data you want to analyze but the site doesn't expose an API for accessing those data.  To get the data, you'll have to resort to web scraping.  In this article, I'll go over how to scrape websites with Node.js and Cheerio.",
-          "link": "https://www.freecodecamp.org/news/how-to-scrape-websites-with-node-js-and-cheerio/",
-          "publishedOn": "2021-07-19T16:50:30.000Z",
-          "wordCount": 2311,
-          "title": "How to Scrape Websites with Node.js and Cheerio"
-        },
-        {
-          "id": "60e7d016134ad707be00f47c",
-          "author": null,
-          "description": "Wherever there is a number, there is beauty.  -Proclus  Wherever there are numbers, you're probably dealing with a math-related topic. And wherever there is math, the chances of it being a nightmare for some people are also high.  For many people, math is not their cup of tea.  But if",
-          "link": "https://www.freecodecamp.org/news/how-to-calculate-percent-change-in-excel-find-increase-and-decrease-percentage/",
-          "publishedOn": "2021-07-19T15:25:39.000Z",
-          "wordCount": 1079,
-          "title": "How to Calculate Percent Change in Excel – Find Increase and Decrease Percentage"
-        },
-        {
-          "id": "60dbcc7c27f80207bcdbbcff",
-          "author": null,
-          "description": "In this article, we will learn what Kerberos is, how it works, and the various pros and cons of using this authentication protocol.   What is Kerberos?Have you ever wondered what happens when you type in your username and password at work, and magically have access to file servers, email",
-          "link": "https://www.freecodecamp.org/news/how-does-kerberos-work-authentication-protocol/",
-          "publishedOn": "2021-07-19T14:34:59.000Z",
-          "wordCount": 2641,
-          "title": "How Does Kerberos Work? The Authentication Protocol Explained"
-        },
-        {
-          "id": "60f18a9666c61b07d458e2b0",
-          "author": null,
-          "description": "In one sense, recursion is simple. In fact, most of what you need to know about recursion can be summed up in this gif: However, as you go deeper in, it becomes apparent that recursion can be tricky to fully grasp. But it doesn't have to be. We just released",
-          "link": "https://www.freecodecamp.org/news/understanding-recursion-in-programming/",
-          "publishedOn": "2021-07-19T13:56:48.000Z",
-          "wordCount": 18791,
-          "title": "Understanding Recursion in Programming"
-        },
-        {
-          "id": "60eef23666c61b07d458d43c",
-          "author": null,
-          "description": "When it comes to styling your React app, you have a ton of different options. Which do you choose? I have broken down the 5 primary ways you have to choose between when writing CSS in your React app. There is no #1 way to approach to writing styles in",
-          "link": "https://www.freecodecamp.org/news/how-to-style-react-apps-with-css/",
-          "publishedOn": "2021-07-16T18:41:57.000Z",
-          "wordCount": 2999,
-          "title": "How to Style Your React App – 5 Ways to Write CSS in 2021"
-        },
-        {
-          "id": "60e74160134ad707be00f23f",
-          "author": null,
-          "description": "The FARM stack is FastAPI, React, and MongoDB. It is a simpler form of the MERN stack that can make developing apps even faster. We just released a FARM stack course on the freeCodeCamp.org YouTube channel.  You will learn how to create a basic CRUD application. FastAPI is where",
-          "link": "https://www.freecodecamp.org/news/learn-the-farm-stack-fastapi-reactjs-mongodb/",
-          "publishedOn": "2021-07-15T13:43:01.000Z",
-          "wordCount": 8503,
-          "title": "Learn the FARM Stack! (FastAPI, React, MongoDB)"
-        },
-        {
-          "id": "60ead07ee8ee9b08300ed387",
-          "author": null,
-          "description": "There are lots of data-storage options available today. You have to choose between managed or unmanaged, relational or NoSQL, write- or read-optimized, proprietary or open-source — and it doesn't end there. Once you begin your search, you will end up in the universe that is database marketing. All of the vendors",
-          "link": "https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial/",
-          "publishedOn": "2021-07-15T13:13:02.000Z",
-          "wordCount": 7098,
-          "title": "The Apache Cassandra Beginner Tutorial"
-        },
-        {
-          "id": "60d4e7596e1a1407b6b0bb56",
-          "author": null,
-          "description": "Did you know that marketers (and even hackers) can use images to track you in your email inbox? Here's how so-called tracking pixels work: Someone creates an image and host it on their server. Often a transparent 1x1 \"tracking pixel\" that you don't even see.They send you an email",
-          "link": "https://www.freecodecamp.org/news/stop-email-tracking-pixel-disable-images-gmail/",
-          "publishedOn": "2021-07-14T17:51:43.000Z",
-          "wordCount": 577,
-          "title": "How to Stop Email Tracking in Gmail – Disable Images by Default"
-        },
-        {
-          "id": "5ff5461e7af2371468bb7ece",
-          "author": null,
-          "description": "We're expanding freeCodeCamp's Python section into a full-blown data science curriculum. Currently, these data science skills are only taught at a few universities around the world. Our goal is for anyone, anywhere to be able to learn these advanced mathematics and machine learning concepts that data scientists use in the",
-          "link": "https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/",
-          "publishedOn": "2021-07-14T16:27:00.000Z",
-          "wordCount": 1574,
-          "title": "We&#x27;re Building a Data Science Curriculum with Advanced Mathematics and Machine Learning"
-        },
-        {
-          "id": "60ebb55be8ee9b08300ed731",
-          "author": null,
-          "description": "Websites are a critical part of almost every business or organization in the world. From your nearby florist to global brands, almost everyone uses a website as part of their branding. Unfortunately, websites are also one of the most unsecured gateways through which an attacker can exploit your company. Since",
-          "link": "https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/",
-          "publishedOn": "2021-07-14T07:18:59.000Z",
-          "wordCount": 1136,
-          "title": "An Introduction to Web Server Scanning With Nikto"
-        },
-        {
-          "id": "60eb2a69e8ee9b08300ed5b3",
-          "author": null,
-          "description": "Redis is a type of database that can be added to your produciton level applicaiton to make it more performant.  In this article, I'll go over the Redis basics and show a real world example of Redis in action.  Here's everything we'll go over:  What is Redis? Why the Hype",
-          "link": "https://www.freecodecamp.org/news/redis-crash-course/",
-          "publishedOn": "2021-07-14T06:11:13.000Z",
-          "wordCount": 1435,
-          "title": "Redis Crash Course"
-        },
-        {
-          "id": "60e73db9134ad707be00f206",
-          "author": null,
-          "description": "Branches are one of Git's most important concepts. And to master Git, it's essential to have a thorough understanding of how branches work. We just released a tutorial about Git branches on the freeCodeCamp.org YouTube channel. You will learn about the many actions you can perform around branches -",
-          "link": "https://www.freecodecamp.org/news/how-git-branches-work/",
-          "publishedOn": "2021-07-13T13:44:04.000Z",
-          "wordCount": 4795,
-          "title": "How Git Branches Work"
-        },
-        {
-          "id": "609692d82cd0545b5e9441ab",
-          "author": null,
-          "description": "GraphQL is a query language for your API. It simplifies the process of requesting the server by providing convenient ways to query objects.  For instance, if you're using a REST API and you need a list of books, you might hit the GET /books/list endpoint for all books. Then",
-          "link": "https://www.freecodecamp.org/news/build-graphql-server-with-laravel/",
-          "publishedOn": "2021-07-13T07:54:34.000Z",
-          "wordCount": 2258,
-          "title": "How to Build a GraphQL Server with Laravel GraphQL and Test It with Postman"
-        },
-        {
-          "id": "60e9c888e8ee9b08300ed212",
-          "author": null,
-          "description": "In this guide, you will see exactly how to use Axios.js with React using tons of real-world examples featuring React hooks.  You'll see why you should use Axios as a data fetching library, how to set it up with React, and perform every type of HTTP request with it.",
-          "link": "https://www.freecodecamp.org/news/how-to-use-axios-with-react/",
-          "publishedOn": "2021-07-13T07:36:28.000Z",
-          "wordCount": 2519,
-          "title": "How To Use Axios With React: The Definitive Guide (2021)"
-        },
-        {
-          "id": "60e5b284134ad707be00e5e0",
-          "author": null,
-          "description": "Have you noticed that User Interface and User Experience design are considered different topics nowadays? Or have you ever wondered which one is better?  You're not the only one.  We live in a beautiful era of design, with new techniques and trends coming and going. Frontend development is also gaining",
-          "link": "https://www.freecodecamp.org/news/ui-ux-design-guide/",
-          "publishedOn": "2021-07-13T02:14:52.000Z",
-          "wordCount": 2261,
-          "title": "UI/UX Design Guide: What Are UI Designers, and How Are They Different Than UX Designers?"
-        },
-        {
-          "id": "60e753aa134ad707be00f2c1",
-          "author": null,
-          "description": "SPSS Statistics is a software package used for interactive, or batched, statistical analysis. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you how to use the popular statistical application SPSS from IBM. This course provides a concise overview of how you can use",
-          "link": "https://www.freecodecamp.org/news/spss-full-course/",
-          "publishedOn": "2021-07-12T13:34:03.000Z",
-          "wordCount": 22122,
-          "title": "Learn How to Use SPSS to Explore and Analyze Data"
-        },
-        {
-          "id": "60e981aae8ee9b08300ed1ae",
-          "author": null,
-          "description": "Artificial intelligence and machine learning are two popular and often hyped terms these days. And people often use them interchangeably to describe an intelligent software or system.  But even though both AI and ML are based on statistics and mathematics, they are not the same thing. In this article, you",
-          "link": "https://www.freecodecamp.org/news/ai-vs-ml-whats-the-difference/",
-          "publishedOn": "2021-07-12T11:46:56.000Z",
-          "wordCount": 899,
-          "title": "AI vs ML – What’s the Difference Between Artificial Intelligence and Machine Learning?"
-        },
-        {
-          "id": "60e76d88134ad707be00f347",
-          "author": null,
-          "description": "Gone are the days of storing your data in a CSV file or an Excel spreadsheet. If you want to quickly analyze millions of data rows in seconds, BigQuery is the way to go. In this getting started guide, we'll learn about BigQuery and how we can use it to",
-          "link": "https://www.freecodecamp.org/news/google-bigquery-beginners-guide/",
-          "publishedOn": "2021-07-12T11:26:39.000Z",
-          "wordCount": 1208,
-          "title": "Google BigQuery Beginner&#x27;s Guide – How to Analyze Large Datasets"
-        },
-        {
-          "id": "60e8864de8ee9b08300ecc3f",
-          "author": null,
-          "description": "There are literally 100s of great React libraries to choose from, but which libraries do you need most for your React projects?  In this article, we're going to break down five libraries you need for your React projects. Each of them will cover virtually every major tool you need, plus",
-          "link": "https://www.freecodecamp.org/news/5-react-libraries-every-project-needs/",
-          "publishedOn": "2021-07-09T20:06:31.000Z",
-          "wordCount": 1729,
-          "title": "5 React Libraries Every Project Should Use in 2021"
-        },
-        {
-          "id": "60e81c50134ad707be00f79f",
-          "author": null,
-          "description": "Hey everyone! In this article, I'm going to show you what's new in the latest of version of React – React 18 – in under 8 minutes.  First, you might be wondering whether the latest set of changes will break anything with your current setup, or whether you will have to learn",
-          "link": "https://www.freecodecamp.org/news/whats-new-in-react-18/",
-          "publishedOn": "2021-07-09T18:42:26.000Z",
-          "wordCount": 1930,
-          "title": "What&#x27;s New in React 18? Concurrency, Batching, the Transition API and More"
-        },
-        {
-          "id": "60dcb93727f80207bcdbc17e",
-          "author": null,
-          "description": "When you use code snippets in Visual Studio, it can make your coding process a lot easier and faster. But what are code snippets? And how can you use them? In this article, we'll look at how you can create code snippets in C#. Just keep in mind that snippets",
-          "link": "https://www.freecodecamp.org/news/how-to-automatically-generate-code-snippets-visual-studio/",
-          "publishedOn": "2021-07-09T18:28:18.000Z",
-          "wordCount": 3957,
-          "title": "How to Automatically Generate C# Code Snippets in Visual Studio"
-        },
-        {
-          "id": "5f9c986d740569d1a4ca1a04",
-          "author": null,
-          "description": "Nine years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, close to 1,000 schools around the world have created thousands of free online courses. I’ve compiled this list of 760+ such free online courses that you can start this month.",
-          "link": "https://www.freecodecamp.org/news/free-online-programming-cs-courses/",
-          "publishedOn": "2021-07-09T18:04:00.000Z",
-          "wordCount": 6787,
-          "title": "760+ Free Online Programming &amp; Computer Science Courses You Can Start This July"
-        },
-        {
-          "id": "60ae6b0d11ffb70827ef7fe6",
-          "author": null,
-          "description": "If you look at any website or application today, somewhere under the hood there is a database. After all, we live in the world of Big Data. And the volume of data is growing exponentially.  With so much data at hand, we need ever more sophisticated ways to store it",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-nosql-database-with-ravendb/",
-          "publishedOn": "2021-07-09T15:06:24.000Z",
-          "wordCount": 1374,
-          "title": "How to Create a NoSQL Database with RavenDB"
         }
       ]
     },
@@ -801,6 +612,56 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=108017",
+          "author": "Stephen Ornes",
+          "description": "Researchers are turning to the mathematics of higher-order interactions to better model the complex connections within their data.             \nThe post How Big Data Carried Graph Theory Into New Dimensions first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/",
+          "publishedOn": "2021-08-19T15:37:40.000Z",
+          "wordCount": null,
+          "title": "How Big Data Carried Graph Theory Into New Dimensions",
+          "itunes": {}
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=107941",
+          "author": "Philip Ball",
+          "description": "By showing that even large objects can exhibit bizarre quantum behaviors, physicists hope to illuminate the mystery of quantum collapse, identify the quantum nature of gravity, and perhaps even make Schrödinger’s cat a reality.            \nThe post How Big Can the Quantum World Be? Physicists Probe the Limits. first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-big-can-the-quantum-world-be-physicists-probe-the-limits-20210818/",
+          "publishedOn": "2021-08-18T06:20:55.000Z",
+          "wordCount": null,
+          "title": "How Big Can the Quantum World Be? Physicists Probe the Limits.",
+          "itunes": {}
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=107901",
+          "author": "Nick Thieme",
+          "description": "The most widely used technique for finding the largest or smallest values of a math function turns out to be a fundamentally difficult computational problem.            \nThe post Computer Scientists Discover Limits of Major Research Algorithm first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/",
+          "publishedOn": "2021-08-17T14:07:33.000Z",
+          "wordCount": null,
+          "title": "Computer Scientists Discover Limits of Major Research Algorithm",
+          "itunes": {}
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=107863",
+          "author": "Viviane Callier",
+          "description": "The evolution of a defensive gland in beetles shows how organs can arise from novel cells carving out new functional niches for their neighbors.            \nThe post How Do New Organs Evolve? A Beetle Gland Shows the Way. first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-do-new-organs-evolve-a-beetle-gland-shows-the-way-20210816/",
+          "publishedOn": "2021-08-16T14:53:25.000Z",
+          "wordCount": null,
+          "title": "How Do New Organs Evolve? A Beetle Gland Shows the Way.",
+          "itunes": {}
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=107835",
+          "author": "Karmela Padavic-Callaghan",
+          "description": "The unambiguous discovery of a Wigner crystal relied on a novel technique for probing the insides of complex materials.             \nThe post Physicists Create a Bizarre ‘Wigner Crystal’ Made Purely of Electrons first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/physicists-create-a-bizarre-wigner-crystal-made-purely-of-electrons-20210812/",
+          "publishedOn": "2021-08-12T14:04:35.000Z",
+          "wordCount": null,
+          "title": "Physicists Create a Bizarre ‘Wigner Crystal’ Made Purely of Electrons",
+          "itunes": {}
+        },
         {
           "id": "https://www.quantamagazine.org/?p=107577",
           "author": "Steve Nadis",
@@ -900,66 +761,6 @@
           "wordCount": null,
           "title": "Plasmid, Virus or Other? DNA ‘Borgs’ Blur Boundaries.",
           "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=106841",
-          "author": "Ben Brubaker",
-          "description": "The root of today’s quantum revolution was John Stewart Bell’s 1964 theorem showing that quantum mechanics really permits instantaneous connections between far-apart locations.            \nThe post How Bell’s Theorem Proved ‘Spooky Action at a Distance’ Is Real first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-bells-theorem-proved-spooky-action-at-a-distance-is-real-20210720/",
-          "publishedOn": "2021-07-20T14:39:33.000Z",
-          "wordCount": null,
-          "title": "How Bell’s Theorem Proved ‘Spooky Action at a Distance’ Is Real",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=106834",
-          "author": "Kevin Hartnett",
-          "description": "Laurent Fargues and Peter Scholze have found a new, more powerful way of connecting number theory and geometry as part of the sweeping Langlands program.            \nThe post New Shape Opens ‘Wormhole’ Between Numbers and Geometry first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/with-a-new-shape-mathematicians-link-geometry-and-numbers-20210719/",
-          "publishedOn": "2021-07-19T15:27:44.000Z",
-          "wordCount": null,
-          "title": "New Shape Opens ‘Wormhole’ Between Numbers and Geometry",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=106575",
-          "author": "Kevin Hartnett",
-          "description": "The Standard Model is a sweeping equation that has correctly predicted the results of virtually every experiment ever conducted, as Quanta explores in a new video.            \nThe post A Video Tour of the Standard Model first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/a-video-tour-of-the-standard-model-20210716/",
-          "publishedOn": "2021-07-16T14:25:03.000Z",
-          "wordCount": null,
-          "title": "A Video Tour of the Standard Model",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=106602",
-          "author": "Natalie Wolchover",
-          "description": "For 50 years, mathematicians have believed that the total number of real numbers is unknowable. A new proof suggests otherwise.            \nThe post How Many Numbers Exist? Infinity Proof Moves Math Closer to an Answer. first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/",
-          "publishedOn": "2021-07-15T14:58:50.000Z",
-          "wordCount": null,
-          "title": "How Many Numbers Exist? Infinity Proof Moves Math Closer to an Answer.",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=106593",
-          "author": "John Pavlus",
-          "description": "Melanie Mitchell has worked on digital minds for decades. She says they’ll never truly be like ours until they can make analogies.            \nThe post The Computer Scientist Training AI to Think With Analogies first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714/",
-          "publishedOn": "2021-07-14T16:30:59.000Z",
-          "wordCount": null,
-          "title": "The Computer Scientist Training AI to Think With Analogies",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=106583",
-          "author": "Jordana Cepelewicz",
-          "description": "The DNA of some viruses doesn’t use the same four nucleotide bases found in all other life. New work shows how this exception is possible and hints that it could be more common than we think.            \nThe post DNA Has Four Bases. Some Viruses Swap in a Fifth. first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/dna-has-four-bases-some-viruses-swap-in-a-fifth-20210712/",
-          "publishedOn": "2021-07-12T15:36:50.000Z",
-          "wordCount": null,
-          "title": "DNA Has Four Bases. Some Viruses Swap in a Fifth.",
-          "itunes": {}
         }
       ]
     },
@@ -968,6 +769,15 @@
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
+        {
+          "id": "610ece660b79943952a2c489",
+          "author": "Assaf Arkin",
+          "description": "This week we have a story about some points, we rewind and watch the web tapes, we read with our eyebrows, and watch the starry skies.",
+          "link": "https://labnotes.org/weekend-reading-open-book-bar/",
+          "publishedOn": "2021-08-14T21:31:33.000Z",
+          "wordCount": 1463,
+          "title": "Weekend Reading — 📖 Open Book Bar"
+        },
         {
           "id": "6105ccfba21a31061c1d045f",
           "author": "Assaf Arkin",
@@ -994,24 +804,6 @@
           "publishedOn": "2021-07-24T19:51:19.000Z",
           "wordCount": 1075,
           "title": "Weekend Reading — Goodhart Resistant"
-        },
-        {
-          "id": "60e9da2c8109102a6ceb0b29",
-          "author": "Assaf Arkin",
-          "description": "This week we go err …, we’re tested by software, we look at the Ransomware Economy, find the perfect job, and the dress to match.",
-          "link": "https://labnotes.org/weekend-reading-errlang/",
-          "publishedOn": "2021-07-17T19:53:57.000Z",
-          "wordCount": 1336,
-          "title": "Weekend Reading — Errlang"
-        },
-        {
-          "id": "60e0c4832f4b9a7ddc8b88b0",
-          "author": "Assaf Arkin",
-          "description": "This week we use QR codes all wrong, give our $0.0200000000042, turn a profit on every $1 sold, and get our hoodie back.",
-          "link": "https://labnotes.org/weekend-reading-9000-apr-technical-payday-loans/",
-          "publishedOn": "2021-07-10T17:34:23.000Z",
-          "wordCount": 1201,
-          "title": "Weekend Reading — 🤷‍♂️ 9000% APR technical payday loans"
         }
       ]
     },
@@ -1020,6 +812,33 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-32/",
+          "author": null,
+          "description": "Hei, party people!\n\nI was at an open-air concert this weekend. The show was so-so (for the Germans: it was a weird mix of Thees Uhlmann, Marcus Wiebusch and Bosse), but let me tell you, I do miss live music! I hope you had a good week yourself!\nBefore we jump into web stuff, let's start the week with some cuteness overload. 😆\n\n\n          \n            \nThis week's Web Weekly includes:\nChrome's plans to break the web\nTips to not get fired\nSoftware development without a local setup\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nReady? Steady. Go!\nAvif support is coming to Firefox\n\n\n\n\n          \n            \nQuick heads-up: Avif support is coming to Firefox. 🎉 It's only a matter of time now until Edge joins the party (and who knows when Safari follows). Neverthele…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-32/",
+          "publishedOn": "2021-08-14T22:00:00.000Z",
+          "wordCount": 1129,
+          "title": "Web Weekly #32 (#blogPost)"
+        },
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-31/",
+          "author": null,
+          "description": "Dobré Ráno, party people!\n\nI'm a little late with this newsletter this week because I spent my weekend on a boat, in a beer garden and in a Karaoke bar. And all that led to a very slow Sunday. 🙈\nOther than that, I'm participating in leadership coaching right now, and last week I learned about a new approach to decision-making. My coach and I discussed three ways/lenses to look at conflicts, decisions and the world.\nThe reverse lens: “What would the other person in this conflict say?\"\nThe long lens: \"How will I look at this problem in six months?\"\nThe wide lens: \"How can I learn and grow from the situation?\"\nI really like this approach of considering \"the bigger picture\" and will try to use it going forward. Let's make less hot-headed and short-sighted decisions!\nBefore we jump into web st…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-31/",
+          "publishedOn": "2021-08-08T22:00:00.000Z",
+          "wordCount": 1006,
+          "title": "Web Weekly #31 (#blogPost)"
+        },
+        {
+          "id": "https://www.stefanjudis.com/notes/can-we-have-custom-media-queries-please/",
+          "author": null,
+          "description": "Today I discovered an exciting section in the CSS media queries Level 5 spec. The custom media queries section explains how to define and reuse aliases for media queries. Why would you need that?\nWell... if you're using CSS custom properties and wanted to use them in a media query, you probably discovered that you can't use custom properties in this context. CSS custom properties weren't designed for that use case. Bummer!\n:root {\n  --width: 20em;\n}\n\n/* that doesn't work :/ */\n@media (min-width: var(--width)) {\n}\n\n\nYou could now rely on tools such as Sass and introduce another non-native variable system to clean up your media queries, but yeah... this approach is not great!\nBut here's the solution – say hello to custom media queries!\n@custom-media --narrow-window (max-width: 30em);\n\n@media (--narrow-window) {\n  /* narrow window styles */\n}\n\nIsn't this beautiful? I think many web developers are waiting for that for quite some time. But here's the sad news: you can't use custom media queries today because it's only future music.\nI googled around for a few minutes, and apparently, custom media queries are in the spec for years. There doesn't seem to be much interest in implementing it, though. Neither MDN nor caniuse.com knows about the feature. :/\nIf you want to use it today, leverage PostCSS and the Custom Media plugin. That's better than nothing, but hey... can we have custom media queries, please?\nEdits and comments\n\n\nAdam Argyle filed a Chromium feature request for it now. 🎉 You can give your vote here.\nMarco Biedermann pointed out that custom media queries are part of the postcss-present-env stage 1.\n\n\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/notes/can-we-have-custom-media-queries-please/",
+          "publishedOn": "2021-08-07T22:00:00.000Z",
+          "wordCount": 463,
+          "title": "Can we have custom media queries, please? (#note)"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-30/",
           "author": null,
@@ -1091,60 +910,6 @@
           "publishedOn": "2021-07-24T22:00:00.000Z",
           "wordCount": 461,
           "title": "A VSCode extension to understand function parameters (#note)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-28/",
-          "author": null,
-          "description": "Welcome to Web Weekly #28!\n\nγεια, friends!\nA few people reached out to me this week to check if I'm okay with the flooding going on in Germany. Thank you, I am, and I really hope the same applies to you!\nThis week's highlight was that I started reading On writing well. Unsurprisingly, the book teaches how to write better non-fiction. I'm only a few chapters in, and I like it a lot. Get ready for it; my writing might become more concise soon!\nBefore we jump into web stuff, let me share a comic about the state of the web with you.\n\n\n\n          \n            \nThis week's Web Weekly includes:\nloops in JavaScript\nthe git worktree command\nnatural shadows in CSS\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nReady? Steady. Go!\nThe various loops in JavaScript\n\n\n\n\n       …",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-28/",
-          "publishedOn": "2021-07-18T22:00:00.000Z",
-          "wordCount": 1006,
-          "title": "Web Weekly #28 (#blogPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/how-to-access-the-your-sites-google-cache-from-the-url-bar/",
-          "author": null,
-          "description": "If you're publishing content on the web, it's good to know when Google indexed new or updated pages. Today I learned that you can access the cached version (if there is one) right from the URL bar by prepending cache: to the URL. 😲\n\n\n\n\n\n          \n            \nA URL such as cache:https://www.stefanjudis.com redirects to the recent Google-indexed version available under http://webcache.googleusercontent.com.\nEdit: As it turns out this is a Google Search rather than a browser feature. When Google is your default search engine, the cache: prefix works because it works in Google Search itself. 🤦‍♂️\n\n\n\n\n          \n            \n              \n              \n            \n          \n        \n      \n    \n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/how-to-access-the-your-sites-google-cache-from-the-url-bar/",
-          "publishedOn": "2021-07-18T18:00:00.000Z",
-          "wordCount": 319,
-          "title": "How to access the your sites' Google cache from the URL bar (#tilPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/a-natural-shadow-with-svg-filters/",
-          "author": null,
-          "description": "I just cleaned up all the open tabs in my browser and discovered a Tweet from Jamie Kyle (if you open it, yes, I had that tab open for six months 🙈). Jamie described how he implemented a natural shadow component using React and SVG filters. The shadow reflects the element's colors, and they are what give the effect its natural look.\n\n          \n            \nJamie wraps an image into an SVG element and uses SVG filter elements to create the beautiful shadow.\nThat approach got me thinking, a while ago, I published a blog post describing how to inline SVG filters in CSS. It turns out you can apply Jamie's SVG filter without React or wrapping everything in an SVG element. Pure CSS does the job! 🎉\nHere's the CSS class with the inlined SVG filter.\n.natural-shadow {\n  /* inline the SVG filter */\n  filter: url('data:image/svg+xml,\\\n    <svg xmlns=\"http://www.w3.org/2000/svg\">\\\n      <filter id=\"naturalShadow\" x=\"0\" y=\"0\" width=\"2\" height=\"2\">\\\n        <feOffset in=\"SourceGraphic\" dx=\"3\" dy=\"3\" />\\\n        <feGaussianBlur stdDeviation=\"5\" result=\"blur\" />\\\n        <feMerge>\\\n          <feMergeNode in=\"blur\"/>\\\n          <feMergeNode in=\"SourceGraphic\"/>\\\n        </feMerge>\\\n      </filter>\\\n    </svg>#naturalShadow');\n}\n\nWhat's cool about this approach is that the SVG filter is visually applied to the element and its children. You can apply it to a wrapper div such as the one below.\n<div class=\"natural-shadow\">\n  <img src=\"/your-image.png\" alt=\"Your iamge\">\n</div>\n\nSee the result in action. This shadow is done in pure CSS (sort of 🙈). 👇\nAs stated in my previous blog post, Safari seems to have some issues with inlined SVG filters. If you know what's the problem, please let me know!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/snippets/a-natural-shadow-with-svg-filters/",
-          "publishedOn": "2021-07-17T22:00:00.000Z",
-          "wordCount": 431,
-          "title": "A natural shadow with SVG filters (#snippet)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-27/",
-          "author": null,
-          "description": "Welcome to Web Weekly #27!\n\nCiao, friends!\nI'm back from my vacation! It was full of tours on \"shitty bikes\" and long walks in Amsterdam. I really like the vibe of the city! It was perfect trip to relax and decompress. And in the meantime I got my first vaccine shot, too! Normality is approaching! 🎉\nBefore we jump into web stuff, let me share some wisdom I saw on Twitter.\n\n\n\n          \n            \nThis week's Web Weekly includes:\nan extensive guide to accessible components\nnew CSS viewport units\nmaybe unnecessary browser functionalities\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nReady? Steady. Go!\nFeedback for better native elements\n\n\n\n\n\n\n          \n            \nWouldn't it be great if we could style select elements? Astonishingly, there's still no easy wa…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-27/",
-          "publishedOn": "2021-07-10T22:00:00.000Z",
-          "wordCount": 1168,
-          "title": "Web Weekly #27 (#blogPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/how-to-run-apps-in-low-resolution-on-macos/",
-          "author": null,
-          "description": "Chris Coyier shared a fascinating post describing a bug that only appeared on low-resolution devices. The post brings up the interesting problem of low-resolution devices. I usually work on a MacBook Pro and a decent monitor so that I rarely see and check the things I build in lower resolutions.\nDeveloper tools offer ways to emulate lower DPR (device pixel ratio), and tools such as dpilove indeed show different resolution values after adjusting the DPR. However, the website still looks sharp and crisp on my MacBook. I wonder if I'm missing something here?\n\n\n\n\n          \n            \nAfter reading Chris' post, I learned that you can enable low-resolution mode when developing on a high-resolution Mac. Open the app information for your browser, tick the box for \"Open in Low Resolution\" and start the application.\n\n\n\n\n          \n            \nWhen you then open the app (my example shows Chrome Canary), you see a clear visual difference. The website is rendered in low resolution, everything is a bit \"blurry\", and even the browser frame and controls are not rendered in sharp retina style anymore.\nThat's good to know for future debugging sessions that deal with device pixel ratio!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/how-to-run-apps-in-low-resolution-on-macos/",
-          "publishedOn": "2021-07-10T21:00:00.000Z",
-          "wordCount": 410,
-          "title": "How to run apps in low-resolution on macOS (#tilPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/how-to-run-commands-with-a-leading-usd-sign/",
-          "author": null,
-          "description": "I just saw an npm package that makes copying and pasting of shell commands easier. Documented shell commands often include a leading $ character (e.g. $ npm install whatever) to signal that the code block is a shell command. And when you're like me, you always copy and paste the $ sign with the command, leading to a command not found: $ error in your terminal.\n\n\n\n\n\n          \n            \nAnd while it's not a huge deal, you have to either carefully copy the command not to include the $ sign or paste the command into your terminal and remove the dollar manually. There has to be a better way...\n... and that's where the mentioned npm package comes into play. The package provides a global $ command that behaves like a proxy on your command line. The $ command simply runs all passed-in argument…",
-          "link": "https://www.stefanjudis.com/blog/how-to-run-commands-with-a-leading-usd-sign/",
-          "publishedOn": "2021-07-10T19:00:00.000Z",
-          "wordCount": 703,
-          "title": "How to \"just\" run CLI commands with a leading \"$\" sign (#blogPost)"
         }
       ]
     }
