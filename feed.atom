@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-20T00:19:56.518Z</updated>
+    <updated>2021-08-21T00:18:41.061Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[React Coding Interview – How to Stand Out and Ace the Challenges]]></title>
+        <id>611fd94c3bccf807612a4160</id>
+        <link href="https://www.freecodecamp.org/news/how-to-stand-out-during-your-react-coding-interview/"/>
+        <updated>2021-08-20T18:20:42.000Z</updated>
+        <summary type="html"><![CDATA[As a React developer, I have gone through my fair share of front-end coding interviews. Recently, I had the opportunity to experience the process from the other side – as an interviewer. Here is what I've learned. Coding interview usually involve a multi-step process where interviewers assess everything from basic technical]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Truly Reusable React Component from Scratch]]></title>
+        <id>611bf4f8e884de0752180979</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-truly-reusable-react-component-from-scratch/"/>
+        <updated>2021-08-20T17:54:40.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will build an app with React. And you will learn how to create a truly reusable auto-suggestion component from scratch. This application will allow a user to search for a country in a list of countries. It will display matching suggestions below the input field for]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Line Break – How to Break a Line with the HTML &lt;br&gt; Tag]]></title>
+        <id>611f9b083bccf807612a3df0</id>
+        <link href="https://www.freecodecamp.org/news/html-line-break-how-to-break-a-line-with-the-html-br-tag/"/>
+        <updated>2021-08-20T17:21:23.000Z</updated>
+        <summary type="html"><![CDATA[When you're writing HTML, you often need to insert line breaks. A line break is essential in addresses, poems, or when text exceeds the available browser width. If you don't insert your own line breaks, then the text gets formatted in an odd way.  In this tutorial, I'm going to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming, Math, and Statistics You Need to Know for Data Science and Machine Learning]]></title>
+        <id>611d56d3e884de07521810f9</id>
+        <link href="https://www.freecodecamp.org/news/first-steps-to-learn-data-science-or-ml-after-the-roadmap/"/>
+        <updated>2021-08-20T03:21:20.000Z</updated>
+        <summary type="html"><![CDATA[At the start of this year, I published a mind map on the Data Science learning roadmap (shown below). Many people found the roadmap useful, my article got translated into different languages, and a large number of folks thanked me for publishing it. Everything was good until a few developers]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML Font Style – How to Change Text Color and Size with an HTML Tag]]></title>
         <id>611e8bac3bccf807612a34df</id>
@@ -1113,87 +1153,6 @@ The post How to Find Rational Points Like Your Job Depends on It first appeared 
         <link href="https://www.freecodecamp.org/news/learn-css-flexbox/"/>
         <updated>2021-07-22T13:58:50.000Z</updated>
         <summary type="html"><![CDATA[Understanding CSS Flexbox is super helpful if you want to make your websites responsive. Flexbox is a powerful responsive web design tool that's built right into CSS itself. And we just published a CSS Flexbox crash course on the freeCodeCamp.org YouTube channel.  James Maxwell created this course. Not only]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 CSS Tricks to Improve Your Next Coding Project (Cheatsheet)]]></title>
-        <id>60f55f3e66c61b07d458ee8c</id>
-        <link href="https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project/"/>
-        <updated>2021-07-21T22:39:42.000Z</updated>
-        <summary type="html"><![CDATA[The cascading nature of CSS sometimes makes it tough to understand and use. Developers at all levels often struggle while trying to figure out how to use certain features, and you'll often find yourself googling or asking a colleague for help.  So when you're having issues dealing with CSS, don’]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Use EditorConfig to Standardize Code Styles]]></title>
-        <id>60f5ecb966c61b07d458f479</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-editorconfig-to-standardize-code-styles/"/>
-        <updated>2021-07-21T21:28:55.000Z</updated>
-        <summary type="html"><![CDATA[You use EditorConfig to define formatting conventions for textual files in a project. It's great because it's widely supported, and it's not tied to any particular language, framework, or code editor. EditorConfig on its own is just a vendor-agnostic configuration file. It relies on third-party tools or integrations to implement]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is about:blank? Chrome Blank Homepage Guide]]></title>
-        <id>60f81c021d2b080797b80d44</id>
-        <link href="https://www.freecodecamp.org/news/what-is-about-blank-chrome-blank-homepage-guide/"/>
-        <updated>2021-07-21T21:02:54.000Z</updated>
-        <summary type="html"><![CDATA[You might have heard of about:blank but don't understand what it is. Or you've seen it appear when you first load up a fresh new session in the Chrome browser – just an empty white page with about:blank showing in your address bar.  You might even see it when]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plasmid, Virus or Other? DNA ‘Borgs’ Blur Boundaries.]]></title>
-        <id>https://www.quantamagazine.org/?p=106853</id>
-        <link href="https://www.quantamagazine.org/plasmid-virus-or-other-dna-borgs-blur-boundaries-20210721/"/>
-        <updated>2021-07-21T15:50:40.000Z</updated>
-        <summary type="html"><![CDATA[Scientists have reported large DNA structures in some archaea that defy easy categorization.            
-The post Plasmid, Virus or Other? DNA ‘Borgs’ Blur Boundaries. first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Jordana Cepelewicz and Allison Whitten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Low-Code Tutorial – Build 3 Financial Apps]]></title>
-        <id>60f83b421d2b080797b80f10</id>
-        <link href="https://www.freecodecamp.org/news/low-code-tutorial/"/>
-        <updated>2021-07-21T15:40:35.000Z</updated>
-        <summary type="html"><![CDATA[Low-Code can allow you to spin up apps fast and with out-of-the-box UI components. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Low-Code solutions by building 3 financial apps.  Ania Kubów developed this course. She is a ex-financial Broker turned software developer.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Context for Beginners – The Complete Guide (2021)]]></title>
-        <id>60f7eeda1d2b080797b80b31</id>
-        <link href="https://www.freecodecamp.org/news/react-context-for-beginners/"/>
-        <updated>2021-07-21T15:39:28.000Z</updated>
-        <summary type="html"><![CDATA[React context is an essential tool for every React developer to know. I lets you easily share state in your applications. In this comprehensive guide, we will cover what React context is, how to use it, when and when not to use context, and lots more. Even if you've never]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13 Freelance Developer Portfolios to Inspire You]]></title>
-        <id>60f5c9b866c61b07d458f2af</id>
-        <link href="https://www.freecodecamp.org/news/13-awesome-freelance-developer-portfolios/"/>
-        <updated>2021-07-21T15:24:57.000Z</updated>
-        <summary type="html"><![CDATA[Article by @study_web_dev]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Background Image – With HTML Example Code]]></title>
-        <id>60f66b6f66c61b07d458f93c</id>
-        <link href="https://www.freecodecamp.org/news/css-background-image-with-html-example-code/"/>
-        <updated>2021-07-21T15:20:18.000Z</updated>
-        <summary type="html"><![CDATA[What a user sees on a website will impact how good their user experience is. It will also affect how easily they can use the whole site in general.  Adding images to the background of certain parts of a website is often more visually appealing and interesting than just changing]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

@@ -12,6 +12,42 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "611fd94c3bccf807612a4160",
+          "author": null,
+          "description": "As a React developer, I have gone through my fair share of front-end coding interviews. Recently, I had the opportunity to experience the process from the other side – as an interviewer. Here is what I've learned. Coding interview usually involve a multi-step process where interviewers assess everything from basic technical",
+          "link": "https://www.freecodecamp.org/news/how-to-stand-out-during-your-react-coding-interview/",
+          "publishedOn": "2021-08-20T18:20:42.000Z",
+          "wordCount": 1713,
+          "title": "React Coding Interview – How to Stand Out and Ace the Challenges"
+        },
+        {
+          "id": "611bf4f8e884de0752180979",
+          "author": null,
+          "description": "In this tutorial, you will build an app with React. And you will learn how to create a truly reusable auto-suggestion component from scratch. This application will allow a user to search for a country in a list of countries. It will display matching suggestions below the input field for",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-truly-reusable-react-component-from-scratch/",
+          "publishedOn": "2021-08-20T17:54:40.000Z",
+          "wordCount": 1935,
+          "title": "How to Create a Truly Reusable React Component from Scratch"
+        },
+        {
+          "id": "611f9b083bccf807612a3df0",
+          "author": null,
+          "description": "When you're writing HTML, you often need to insert line breaks. A line break is essential in addresses, poems, or when text exceeds the available browser width. If you don't insert your own line breaks, then the text gets formatted in an odd way.  In this tutorial, I'm going to",
+          "link": "https://www.freecodecamp.org/news/html-line-break-how-to-break-a-line-with-the-html-br-tag/",
+          "publishedOn": "2021-08-20T17:21:23.000Z",
+          "wordCount": 960,
+          "title": "HTML Line Break – How to Break a Line with the HTML &lt;br&gt; Tag"
+        },
+        {
+          "id": "611d56d3e884de07521810f9",
+          "author": null,
+          "description": "At the start of this year, I published a mind map on the Data Science learning roadmap (shown below). Many people found the roadmap useful, my article got translated into different languages, and a large number of folks thanked me for publishing it. Everything was good until a few developers",
+          "link": "https://www.freecodecamp.org/news/first-steps-to-learn-data-science-or-ml-after-the-roadmap/",
+          "publishedOn": "2021-08-20T03:21:20.000Z",
+          "wordCount": 1620,
+          "title": "Programming, Math, and Statistics You Need to Know for Data Science and Machine Learning"
+        },
+        {
           "id": "611e8bac3bccf807612a34df",
           "author": null,
           "description": "When you code in HTML and add some text, you don’t want to leave it like that. You want to make that text look good.  And to do that, you need to change their appearance through the color and font-size properties of CSS.  In this tutorial, I will show",
@@ -541,69 +577,6 @@
           "publishedOn": "2021-07-22T13:58:50.000Z",
           "wordCount": 4843,
           "title": "Learn CSS Flexbox in This Crash Course"
-        },
-        {
-          "id": "60f55f3e66c61b07d458ee8c",
-          "author": null,
-          "description": "The cascading nature of CSS sometimes makes it tough to understand and use. Developers at all levels often struggle while trying to figure out how to use certain features, and you'll often find yourself googling or asking a colleague for help.  So when you're having issues dealing with CSS, don’",
-          "link": "https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project/",
-          "publishedOn": "2021-07-21T22:39:42.000Z",
-          "wordCount": 1311,
-          "title": "10 CSS Tricks to Improve Your Next Coding Project (Cheatsheet)"
-        },
-        {
-          "id": "60f5ecb966c61b07d458f479",
-          "author": null,
-          "description": "You use EditorConfig to define formatting conventions for textual files in a project. It's great because it's widely supported, and it's not tied to any particular language, framework, or code editor. EditorConfig on its own is just a vendor-agnostic configuration file. It relies on third-party tools or integrations to implement",
-          "link": "https://www.freecodecamp.org/news/how-to-use-editorconfig-to-standardize-code-styles/",
-          "publishedOn": "2021-07-21T21:28:55.000Z",
-          "wordCount": 1654,
-          "title": "Why You Should Use EditorConfig to Standardize Code Styles"
-        },
-        {
-          "id": "60f81c021d2b080797b80d44",
-          "author": null,
-          "description": "You might have heard of about:blank but don't understand what it is. Or you've seen it appear when you first load up a fresh new session in the Chrome browser – just an empty white page with about:blank showing in your address bar.  You might even see it when",
-          "link": "https://www.freecodecamp.org/news/what-is-about-blank-chrome-blank-homepage-guide/",
-          "publishedOn": "2021-07-21T21:02:54.000Z",
-          "wordCount": 1132,
-          "title": "What is about:blank? Chrome Blank Homepage Guide"
-        },
-        {
-          "id": "60f83b421d2b080797b80f10",
-          "author": null,
-          "description": "Low-Code can allow you to spin up apps fast and with out-of-the-box UI components. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Low-Code solutions by building 3 financial apps.  Ania Kubów developed this course. She is a ex-financial Broker turned software developer.",
-          "link": "https://www.freecodecamp.org/news/low-code-tutorial/",
-          "publishedOn": "2021-07-21T15:40:35.000Z",
-          "wordCount": 441,
-          "title": "Low-Code Tutorial – Build 3 Financial Apps"
-        },
-        {
-          "id": "60f7eeda1d2b080797b80b31",
-          "author": null,
-          "description": "React context is an essential tool for every React developer to know. I lets you easily share state in your applications. In this comprehensive guide, we will cover what React context is, how to use it, when and when not to use context, and lots more. Even if you've never",
-          "link": "https://www.freecodecamp.org/news/react-context-for-beginners/",
-          "publishedOn": "2021-07-21T15:39:28.000Z",
-          "wordCount": 1684,
-          "title": "React Context for Beginners – The Complete Guide (2021)"
-        },
-        {
-          "id": "60f5c9b866c61b07d458f2af",
-          "author": null,
-          "description": "Article by @study_web_dev",
-          "link": "https://www.freecodecamp.org/news/13-awesome-freelance-developer-portfolios/",
-          "publishedOn": "2021-07-21T15:24:57.000Z",
-          "wordCount": 2572,
-          "title": "13 Freelance Developer Portfolios to Inspire You"
-        },
-        {
-          "id": "60f66b6f66c61b07d458f93c",
-          "author": null,
-          "description": "What a user sees on a website will impact how good their user experience is. It will also affect how easily they can use the whole site in general.  Adding images to the background of certain parts of a website is often more visually appealing and interesting than just changing",
-          "link": "https://www.freecodecamp.org/news/css-background-image-with-html-example-code/",
-          "publishedOn": "2021-07-21T15:20:18.000Z",
-          "wordCount": 1624,
-          "title": "CSS Background Image – With HTML Example Code"
         }
       ]
     },
@@ -750,16 +723,6 @@
           "publishedOn": "2021-07-22T15:05:50.000Z",
           "wordCount": null,
           "title": "How to Find Rational Points Like Your Job Depends on It",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=106853",
-          "author": "Jordana Cepelewicz and Allison Whitten",
-          "description": "Scientists have reported large DNA structures in some archaea that defy easy categorization.            \nThe post Plasmid, Virus or Other? DNA ‘Borgs’ Blur Boundaries. first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/plasmid-virus-or-other-dna-borgs-blur-boundaries-20210721/",
-          "publishedOn": "2021-07-21T15:50:40.000Z",
-          "wordCount": null,
-          "title": "Plasmid, Virus or Other? DNA ‘Borgs’ Blur Boundaries.",
           "itunes": {}
         }
       ]
