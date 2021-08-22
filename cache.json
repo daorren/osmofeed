@@ -532,51 +532,6 @@
           "publishedOn": "2021-07-23T17:25:34.000Z",
           "wordCount": 1545,
           "title": "Python zip() Function – Explained with Code Examples"
-        },
-        {
-          "id": "60f969ee1d2b080797b8160a",
-          "author": null,
-          "description": "Using just a few keystrokes, it's easy to capture part or all of your screen on a Mac.  Screenshots are useful in many cases, like when you're writing a blog post and you want to use images that will drive home the points you are making.  This guide will show",
-          "link": "https://www.freecodecamp.org/news/how-to-screenshot-on-mac-take-a-screen-capture-with-a-keyboard-shortcut/",
-          "publishedOn": "2021-07-22T22:05:03.000Z",
-          "wordCount": 898,
-          "title": "How to Screenshot on Mac – Take a Screen Capture with a Keyboard Shortcut"
-        },
-        {
-          "id": "6063b98a9618b008528a9d92",
-          "author": null,
-          "description": "Today we're gonna learn how to use the CSS box model with examples. This will help you make pixel perfect websites and will teach you to use the box-sizing, margin, padding, and border properties more accurately.  We're also going to see some practical use cases for these properties. Let's get",
-          "link": "https://www.freecodecamp.org/news/css-box-model-explained-with-examples/",
-          "publishedOn": "2021-07-22T17:31:57.000Z",
-          "wordCount": 1630,
-          "title": "CSS Box Model Properties – Explained With Examples ✨"
-        },
-        {
-          "id": "60f716ab1d2b080797b80532",
-          "author": null,
-          "description": "In music terminology, an onset refers to the beginning of a musical note or other sound. In this post, we will look at how to detect music onsets with Python's audio signal processing libraries, Aubio and librosa. This tutorial is relevant even if your application doesn't use Python - for",
-          "link": "https://www.freecodecamp.org/news/use-python-to-detect-music-onsets/",
-          "publishedOn": "2021-07-22T16:56:17.000Z",
-          "wordCount": 1306,
-          "title": "How to Use Python to Detect Music Onsets"
-        },
-        {
-          "id": "60af854611ffb70827ef8526",
-          "author": null,
-          "description": "Webmention is a simple protocol developed by the IndieWeb Community that you can use to request notifications when your URLs are mentioned on the web. When you post on your own site and syndicate elsewhere (POSSE), Webmention lets you enable rich interactions on your syndicated posts. This article will walk",
-          "link": "https://www.freecodecamp.org/news/how-to-use-webmentions-with-gatsby-beginners-guide/",
-          "publishedOn": "2021-07-22T16:33:55.000Z",
-          "wordCount": 1861,
-          "title": "How to Use Webmentions with Gatsby.js – A Beginner&#x27;s Guide"
-        },
-        {
-          "id": "60f245ca66c61b07d458e512",
-          "author": null,
-          "description": "Understanding CSS Flexbox is super helpful if you want to make your websites responsive. Flexbox is a powerful responsive web design tool that's built right into CSS itself. And we just published a CSS Flexbox crash course on the freeCodeCamp.org YouTube channel.  James Maxwell created this course. Not only",
-          "link": "https://www.freecodecamp.org/news/learn-css-flexbox/",
-          "publishedOn": "2021-07-22T13:58:50.000Z",
-          "wordCount": 4843,
-          "title": "Learn CSS Flexbox in This Crash Course"
         }
       ]
     },
@@ -714,16 +669,6 @@
           "wordCount": null,
           "title": "The ‘Weirdest’ Matter, Made of Partial Particles, Defies Description",
           "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=106872",
-          "author": "Patrick Honner",
-          "description": "Using high school algebra and geometry, and knowing just one rational point on a circle or elliptic curve, we can locate infinitely many others.\r\n\r\n            \nThe post How to Find Rational Points Like Your Job Depends on It first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-simple-math-reveals-rational-points-on-curves-20210722/",
-          "publishedOn": "2021-07-22T15:05:50.000Z",
-          "wordCount": null,
-          "title": "How to Find Rational Points Like Your Job Depends on It",
-          "itunes": {}
         }
       ]
     },
@@ -732,6 +677,15 @@
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
+        {
+          "id": "6118366c0b79943952a2d8f3",
+          "author": "Assaf Arkin",
+          "description": "This week we hallucinate some art, redesign the Macbook, all the regrets, watch the great race, and keep an eye on that Wikipedia entry.",
+          "link": "https://labnotes.org/weekend-reading-in-dialogue-with-the-printer/",
+          "publishedOn": "2021-08-21T18:49:19.000Z",
+          "wordCount": 884,
+          "title": "Weekend Reading — 🖨️ In dialogue with the printer"
+        },
         {
           "id": "610ece660b79943952a2c489",
           "author": "Assaf Arkin",
