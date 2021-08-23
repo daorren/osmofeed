@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-22T00:20:00.372Z</updated>
+    <updated>2021-08-23T00:19:11.524Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -1082,26 +1082,6 @@ At first sight, the doSomething function definition might not look too bad, but 
         <summary type="html"><![CDATA[This week we elbow our way into a CPU, dump email for Google Docs, mix Neopets and cryptocurrency, and deal with an airplane infestation.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Clear Search History – Delete All Browsing Data in Chrome]]></title>
-        <id>60faae4d1d2b080797b82046</id>
-        <link href="https://www.freecodecamp.org/news/how-to-clear-search-history-delete-all-browsing-data-in-chrome/"/>
-        <updated>2021-07-23T21:42:07.000Z</updated>
-        <summary type="html"><![CDATA[Your browsing history can come in very handy when you want to look up  something that you have already viewed on the internet.  Maybe you read an interesting article online and want to reference it again, but forgot to bookmark it. Well, you can have a look at your Chrome]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python zip() Function – Explained with Code Examples]]></title>
-        <id>60f5aca466c61b07d458f119</id>
-        <link href="https://www.freecodecamp.org/news/the-zip-function-in-python-explained-with-examples/"/>
-        <updated>2021-07-23T17:25:34.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever needed to loop through multiple iterables in parallel when coding in Python? In this tutorial, we'll use Python's zip() function to efficiently perform parallel iteration over multiple iterables. Here's what we'll cover in this post:  How to Use the 'in' Operator in Python to Traverse Iterables Why]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
