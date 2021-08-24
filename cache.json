@@ -12,6 +12,69 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "6107c03b3306a507d1bfc55b",
+          "author": null,
+          "description": "In a relational database, all information should only be present once. But you might have information that's separated into different tables that's related to each other.  And you might want to put this related information together to analyse its data – that is, you might want to join all the data",
+          "link": "https://www.freecodecamp.org/news/sql-join-types-inner-join-vs-outer-join-example/",
+          "publishedOn": "2021-08-24T00:08:46.000Z",
+          "wordCount": 1459,
+          "title": "SQL Join Types – Inner Join VS Outer Join Example"
+        },
+        {
+          "id": "6053033528094f59be257c91",
+          "author": null,
+          "description": "In this article, I will talk about how to get started with your first freeCodeCamp project and provide some tips along the way.  Here is what we will cover: Understanding the instructionsWhat is CodePen and how do I use it?Do I have to use CodePen or can I use",
+          "link": "https://www.freecodecamp.org/news/how-to-get-started-with-the-fcc-tribute-page/",
+          "publishedOn": "2021-08-23T21:22:42.000Z",
+          "wordCount": 1504,
+          "title": "freeCodeCamp Tribute Page Project – Tips for Getting Started"
+        },
+        {
+          "id": "6120eac83bccf807612a4bd6",
+          "author": null,
+          "description": "We live in a world where things are constantly changing. So if you want to stay up to date on what's happening, you'll want a good News app.  To help you learn some cool tech and stay current, in this blog post we'll build a News Application for Android using",
+          "link": "https://www.freecodecamp.org/news/build-an-android-news-app-with-react-native-and-native-base/",
+          "publishedOn": "2021-08-23T18:23:27.000Z",
+          "wordCount": 2974,
+          "title": "How to Build an Android News App with React Native and Native Base"
+        },
+        {
+          "id": "611a940ae884de075217f649",
+          "author": null,
+          "description": "As you may know, I've been a fan of Replit since way back in 2012. I used early versions of the website when I was learning to code.  For me, Replit was a place to code my solutions for Project Euler problems, and to practice my Python and JavaScript skills.",
+          "link": "https://www.freecodecamp.org/news/announcing-rust-course-replit-web/",
+          "publishedOn": "2021-08-23T17:03:24.000Z",
+          "wordCount": 749,
+          "title": "We&#x27;re Building New Courses on Rust and Python + the Replit.web Framework"
+        },
+        {
+          "id": "6107c04a3306a507d1bfc561",
+          "author": null,
+          "description": "Being able to do complex queries can be really useful in SQL. In this article, we'll look at how you can use the Contains String query. SQL PatternsSQL patterns are useful for pattern matching, instead of using literal comparisons. They have a more limited syntax than RegEx, but they're more",
+          "link": "https://www.freecodecamp.org/news/sql-contains-string-sql-regex-example-query/",
+          "publishedOn": "2021-08-23T15:30:47.000Z",
+          "wordCount": 2778,
+          "title": "SQL Contains String – SQL RegEx Example Query"
+        },
+        {
+          "id": "61064ad03306a507d1bfc001",
+          "author": null,
+          "description": "If you are new to programming, you might have heard of the term Front End Development. But what does that mean?  In this article, I will explain what Front End Development is, what skills you need to become a Front End Developer, and tips for landing a job.  What is",
+          "link": "https://www.freecodecamp.org/news/front-end-developer-what-is-front-end-development-explained-in-plain-english/",
+          "publishedOn": "2021-08-23T15:30:27.000Z",
+          "wordCount": 1362,
+          "title": "Front End Developer – What is Front End Development, Explained in Plain English"
+        },
+        {
+          "id": "6116e52a72231b077cdafcf6",
+          "author": null,
+          "description": "When it comes to learning how to write computer programs, it can be hard to figure out where to start.  Well, look no further. We just released a full course that teaches basic programming skills in both Python and C#. This course is for absolute beginners. One of the best",
+          "link": "https://www.freecodecamp.org/news/programming-for-beginners-how-to-code-with-python-and-c-sharp/",
+          "publishedOn": "2021-08-23T13:24:09.000Z",
+          "wordCount": 50738,
+          "title": "Programming for Beginners - How to Code with Python and C#"
+        },
+        {
           "id": "611fd94c3bccf807612a4160",
           "author": null,
           "description": "As a React developer, I have gone through my fair share of front-end coding interviews. Recently, I had the opportunity to experience the process from the other side – as an interviewer. Here is what I've learned. Coding interview usually involve a multi-step process where interviewers assess everything from basic technical",
@@ -523,6 +586,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=108069",
+          "author": "Natalie Wolchover",
+          "description": "The five-decade-old paradox — long thought key to linking quantum theory with Einstein’s theory of gravity — is falling to a new generation of thinkers. Netta Engelhardt is leading the way.            \nThe post This Physicist Discovered an Escape From Hawking’s Black Hole Paradox first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/netta-engelhardt-has-escaped-hawkings-black-hole-paradox-20210823/",
+          "publishedOn": "2021-08-23T15:07:29.000Z",
+          "wordCount": null,
+          "title": "This Physicist Discovered an Escape From Hawking’s Black Hole Paradox",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=108017",
           "author": "Stephen Ornes",
           "description": "Researchers are turning to the mathematics of higher-order interactions to better model the complex connections within their data.             \nThe post How Big Data Carried Graph Theory Into New Dimensions first appeared on Quanta Magazine",
@@ -694,15 +767,6 @@
           "publishedOn": "2021-07-31T22:20:32.000Z",
           "wordCount": 938,
           "title": "Weekend Reading — Working with real data"
-        },
-        {
-          "id": "60f468b0d1592f16258b367d",
-          "author": "Assaf Arkin",
-          "description": "This week we elbow our way into a CPU, dump email for Google Docs, mix Neopets and cryptocurrency, and deal with an airplane infestation.",
-          "link": "https://labnotes.org/weekend-reading-goodhart-resistant/",
-          "publishedOn": "2021-07-24T19:51:19.000Z",
-          "wordCount": 1075,
-          "title": "Weekend Reading — Goodhart Resistant"
         }
       ]
     },
@@ -711,6 +775,24 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-33/",
+          "author": null,
+          "description": "Guten Tag!\n\nLet's start the week with some very creative work by Vincent Bal. He's a filmmaker that uses shadows in his short scenes. 😲\n\n\n          \n            \nThis week's Web Weekly includes:\nA better history search CLI tool\nWriting confident emails\nNative page transitions\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nReady? Steady. Go!\nMcFly – a reverse search replacement\n\n\n\n          \n            \nMany people use ctrl + r to navigate their shell history. I never really used this functionality and usually went for a history | grep .... After discovering McFly (a reverse search replacement), I now love using ctrl + r to find previous commands.\nFly through your shell history\nToday I learned – viewport units trigger overflows\n\n\n\n\n\n\n          \n            \nI r…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-33/",
+          "publishedOn": "2021-08-23T10:00:00.000Z",
+          "wordCount": 941,
+          "title": "Web Weekly #33 (#blogPost)"
+        },
+        {
+          "id": "https://www.stefanjudis.com/notes/a-better-way-to-navigate-search-your-cli-history-mcfly/",
+          "author": null,
+          "description": "I just added a new CLI tool to my dotfiles, and I think you're going to love it.\nMany people use ctrl + r (reverse search) to navigate and search their shell history. I never liked this shell functionality because it's very barebones and not intuitive. McFly replaces this command and makes finding past commands a breeze!\nHere's how it looks like! 👇\n\n      \n        \n      \n    \n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/notes/a-better-way-to-navigate-search-your-cli-history-mcfly/",
+          "publishedOn": "2021-08-22T22:00:00.000Z",
+          "wordCount": 287,
+          "title": "A better way to navigate/search your CLI history – McFly (#note)"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-32/",
           "author": null,
@@ -791,24 +873,6 @@
           "publishedOn": "2021-07-25T15:30:00.000Z",
           "wordCount": 646,
           "title": "Automatic hyphenation depends on the defined document language (#tilPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/an-svg-filter-to-pixelate-images/",
-          "author": null,
-          "description": "This post is a quick one for my bookmarks. Taylor Hunt published this \"pixelate SVG filter\" on CodePen. I didn't get into understanding how it exactly works, but it might come in handy some day.\n<svg>\n  <filter id=\"pixelate\" x=\"0\" y=\"0\">\n    <feFlood x=\"4\" y=\"4\" height=\"2\" width=\"2\"/>    \n    <feComposite width=\"10\" height=\"10\"/>\n    <feTile result=\"a\"/>\n    <feComposite in=\"SourceGraphic\" in2=\"a\" operator=\"in\"/>\n    <feMorphology operator=\"dilate\" radius=\"5\"/>\n  </filter>\n  \n  <image width=\"100%\" height=\"100%\" \n         preserveAspectRatio=\"xMidYMid slice\"\n         filter=\"url(#pixelate)\"\n         xlink:href=\"https://s3-us-west-2.amazonaws.com/s.cdpn.io/183091/grateful_dog.jpg\"/>\n  <image width=\"100%\" height=\"100%\" \n         preserveAspectRatio=\"xMidYMid slice\"\n         clip-path=\"url(#half)\"\n         xlink:href=\"https://s3-us-west-2.amazonaws.com/s.cdpn.io/183091/grateful_dog.jpg\"/>\n  <clipPath id=\"half\">\n    <rect width=\"100%\" height=\"50%\"/>\n  </clipPath>\n</svg>\n\nAnd this code renders like that. 😲\n\n          \n            \nRyan shared that the effect works as an inline SVG/CSS filter. After quickly testing it, it only seems to work in Firefox, though.\nIt's fascinating what SVG filters can do. Maybe I'll properly learn all these SVG filters one day.\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/snippets/an-svg-filter-to-pixelate-images/",
-          "publishedOn": "2021-07-25T11:00:00.000Z",
-          "wordCount": 309,
-          "title": "An SVG filter to pixelate images (#snippet)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/a-vscode-extension-to-understand-function-parameters/",
-          "author": null,
-          "description": "I'm super happy with my VSCode setup, and that's why I rarely install new extensions these days (find a list of my installed extension in my dotfiles). I found out about the Inline Parameters VSCode extension today, and it was worth an install!\nThe challenge of function parameters\n\nI'm always in favor of avoiding more than three function parameters or single boolean function parameters. If you're not following such rules, code becomes hard to follow and function calls hard to understand.\nConsider the following example:\nfunction doSomething(isGreat, doLater, cleanUpAfterwards) {\n  console.log(isGreat, doLater, cleanUpAfterwards);\n}\n\n// uff, that's hard to understand ...\ndoSomething(true, false, true);\n\nAt first sight, the doSomething function definition might not look too bad, but when you …",
-          "link": "https://www.stefanjudis.com/notes/a-vscode-extension-to-understand-function-parameters/",
-          "publishedOn": "2021-07-24T22:00:00.000Z",
-          "wordCount": 461,
-          "title": "A VSCode extension to understand function parameters (#note)"
         }
       ]
     }

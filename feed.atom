@@ -2,10 +2,153 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-23T00:19:11.524Z</updated>
+    <updated>2021-08-24T00:19:57.403Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SQL Join Types – Inner Join VS Outer Join Example]]></title>
+        <id>6107c03b3306a507d1bfc55b</id>
+        <link href="https://www.freecodecamp.org/news/sql-join-types-inner-join-vs-outer-join-example/"/>
+        <updated>2021-08-24T00:08:46.000Z</updated>
+        <summary type="html"><![CDATA[In a relational database, all information should only be present once. But you might have information that's separated into different tables that's related to each other.  And you might want to put this related information together to analyse its data – that is, you might want to join all the data]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp Tribute Page Project – Tips for Getting Started]]></title>
+        <id>6053033528094f59be257c91</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-the-fcc-tribute-page/"/>
+        <updated>2021-08-23T21:22:42.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I will talk about how to get started with your first freeCodeCamp project and provide some tips along the way.  Here is what we will cover: Understanding the instructionsWhat is CodePen and how do I use it?Do I have to use CodePen or can I use]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Android News App with React Native and Native Base]]></title>
+        <id>6120eac83bccf807612a4bd6</id>
+        <link href="https://www.freecodecamp.org/news/build-an-android-news-app-with-react-native-and-native-base/"/>
+        <updated>2021-08-23T18:23:27.000Z</updated>
+        <summary type="html"><![CDATA[We live in a world where things are constantly changing. So if you want to stay up to date on what's happening, you'll want a good News app.  To help you learn some cool tech and stay current, in this blog post we'll build a News Application for Android using]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We&#x27;re Building New Courses on Rust and Python + the Replit.web Framework]]></title>
+        <id>611a940ae884de075217f649</id>
+        <link href="https://www.freecodecamp.org/news/announcing-rust-course-replit-web/"/>
+        <updated>2021-08-23T17:03:24.000Z</updated>
+        <summary type="html"><![CDATA[As you may know, I've been a fan of Replit since way back in 2012. I used early versions of the website when I was learning to code.  For me, Replit was a place to code my solutions for Project Euler problems, and to practice my Python and JavaScript skills.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Contains String – SQL RegEx Example Query]]></title>
+        <id>6107c04a3306a507d1bfc561</id>
+        <link href="https://www.freecodecamp.org/news/sql-contains-string-sql-regex-example-query/"/>
+        <updated>2021-08-23T15:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Being able to do complex queries can be really useful in SQL. In this article, we'll look at how you can use the Contains String query. SQL PatternsSQL patterns are useful for pattern matching, instead of using literal comparisons. They have a more limited syntax than RegEx, but they're more]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Front End Developer – What is Front End Development, Explained in Plain English]]></title>
+        <id>61064ad03306a507d1bfc001</id>
+        <link href="https://www.freecodecamp.org/news/front-end-developer-what-is-front-end-development-explained-in-plain-english/"/>
+        <updated>2021-08-23T15:30:27.000Z</updated>
+        <summary type="html"><![CDATA[If you are new to programming, you might have heard of the term Front End Development. But what does that mean?  In this article, I will explain what Front End Development is, what skills you need to become a Front End Developer, and tips for landing a job.  What is]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Physicist Discovered an Escape From Hawking’s Black Hole Paradox]]></title>
+        <id>https://www.quantamagazine.org/?p=108069</id>
+        <link href="https://www.quantamagazine.org/netta-engelhardt-has-escaped-hawkings-black-hole-paradox-20210823/"/>
+        <updated>2021-08-23T15:07:29.000Z</updated>
+        <summary type="html"><![CDATA[The five-decade-old paradox — long thought key to linking quantum theory with Einstein’s theory of gravity — is falling to a new generation of thinkers. Netta Engelhardt is leading the way.            
+The post This Physicist Discovered an Escape From Hawking’s Black Hole Paradox first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Natalie Wolchover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming for Beginners - How to Code with Python and C#]]></title>
+        <id>6116e52a72231b077cdafcf6</id>
+        <link href="https://www.freecodecamp.org/news/programming-for-beginners-how-to-code-with-python-and-c-sharp/"/>
+        <updated>2021-08-23T13:24:09.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to learning how to write computer programs, it can be hard to figure out where to start.  Well, look no further. We just released a full course that teaches basic programming skills in both Python and C#. This course is for absolute beginners. One of the best]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #33 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-33/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-33/"/>
+        <updated>2021-08-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag!
+
+Let's start the week with some very creative work by Vincent Bal. He's a filmmaker that uses shadows in his short scenes. 😲
+
+
+          
+            
+This week's Web Weekly includes:
+A better history search CLI tool
+Writing confident emails
+Native page transitions
+... and, as always, GitHub repositories, a new Tiny Helper and some music.
+Ready? Steady. Go!
+McFly – a reverse search replacement
+
+
+
+          
+            
+Many people use ctrl + r to navigate their shell history. I never really used this functionality and usually went for a history | grep .... After discovering McFly (a reverse search replacement), I now love using ctrl + r to find previous commands.
+Fly through your shell history
+Today I learned – viewport units trigger overflows
+
+
+
+
+
+
+          
+            
+I r…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A better way to navigate/search your CLI history – McFly (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/a-better-way-to-navigate-search-your-cli-history-mcfly/</id>
+        <link href="https://www.stefanjudis.com/notes/a-better-way-to-navigate-search-your-cli-history-mcfly/"/>
+        <updated>2021-08-22T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I just added a new CLI tool to my dotfiles, and I think you're going to love it.
+Many people use ctrl + r (reverse search) to navigate and search their shell history. I never liked this shell functionality because it's very barebones and not intuitive. McFly replaces this command and makes finding past commands a breeze!
+Here's how it looks like! 👇
+
+      
+        
+      
+    
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — 🖨️ In dialogue with the printer]]></title>
         <id>6118366c0b79943952a2d8f3</id>
@@ -1007,81 +1150,6 @@ Define where to break long words manually
 The default value of…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An SVG filter to pixelate images (#snippet)]]></title>
-        <id>https://www.stefanjudis.com/snippets/an-svg-filter-to-pixelate-images/</id>
-        <link href="https://www.stefanjudis.com/snippets/an-svg-filter-to-pixelate-images/"/>
-        <updated>2021-07-25T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is a quick one for my bookmarks. Taylor Hunt published this "pixelate SVG filter" on CodePen. I didn't get into understanding how it exactly works, but it might come in handy some day.
-<svg>
-  <filter id="pixelate" x="0" y="0">
-    <feFlood x="4" y="4" height="2" width="2"/>    
-    <feComposite width="10" height="10"/>
-    <feTile result="a"/>
-    <feComposite in="SourceGraphic" in2="a" operator="in"/>
-    <feMorphology operator="dilate" radius="5"/>
-  </filter>
-  
-  <image width="100%" height="100%" 
-         preserveAspectRatio="xMidYMid slice"
-         filter="url(#pixelate)"
-         xlink:href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/183091/grateful_dog.jpg"/>
-  <image width="100%" height="100%" 
-         preserveAspectRatio="xMidYMid slice"
-         clip-path="url(#half)"
-         xlink:href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/183091/grateful_dog.jpg"/>
-  <clipPath id="half">
-    <rect width="100%" height="50%"/>
-  </clipPath>
-</svg>
-
-And this code renders like that. 😲
-
-          
-            
-Ryan shared that the effect works as an inline SVG/CSS filter. After quickly testing it, it only seems to work in Firefox, though.
-It's fascinating what SVG filters can do. Maybe I'll properly learn all these SVG filters one day.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A VSCode extension to understand function parameters (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/a-vscode-extension-to-understand-function-parameters/</id>
-        <link href="https://www.stefanjudis.com/notes/a-vscode-extension-to-understand-function-parameters/"/>
-        <updated>2021-07-24T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I'm super happy with my VSCode setup, and that's why I rarely install new extensions these days (find a list of my installed extension in my dotfiles). I found out about the Inline Parameters VSCode extension today, and it was worth an install!
-The challenge of function parameters
-
-I'm always in favor of avoiding more than three function parameters or single boolean function parameters. If you're not following such rules, code becomes hard to follow and function calls hard to understand.
-Consider the following example:
-function doSomething(isGreat, doLater, cleanUpAfterwards) {
-  console.log(isGreat, doLater, cleanUpAfterwards);
-}
-
-// uff, that's hard to understand ...
-doSomething(true, false, true);
-
-At first sight, the doSomething function definition might not look too bad, but when you …]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Goodhart Resistant]]></title>
-        <id>60f468b0d1592f16258b367d</id>
-        <link href="https://labnotes.org/weekend-reading-goodhart-resistant/"/>
-        <updated>2021-07-24T19:51:19.000Z</updated>
-        <summary type="html"><![CDATA[This week we elbow our way into a CPU, dump email for Google Docs, mix Neopets and cryptocurrency, and deal with an airplane infestation.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
