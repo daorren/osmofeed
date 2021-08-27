@@ -12,6 +12,87 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "612203fb3bccf807612a5756",
+          "author": null,
+          "description": "Have you ever wondered if there is a method to delay your JavaScript code by a few seconds?  In this article, I will explain what the setTimeout() method is with code examples and how it differs from setInterval().  What is setTimeout() in JavaScript?setTimeout() is a method that will execute",
+          "link": "https://www.freecodecamp.org/news/javascript-settimeout-js-timer-to-delay-n-seconds/",
+          "publishedOn": "2021-08-26T23:57:34.000Z",
+          "wordCount": 1114,
+          "title": "JavaScript setTimeout() – JS Timer to Delay N Seconds"
+        },
+        {
+          "id": "6117b37a72231b077cdafea8",
+          "author": null,
+          "description": "Choosing the right font is an important first step in making your website usable and accessible.  How text is formatted affects how readable your designs and webpages are.  You can modify how your HTML text appears in many ways using CSS. You can select the type of font you want",
+          "link": "https://www.freecodecamp.org/news/html-font-css-font-family-example-serif-and-sans-serif-characters/",
+          "publishedOn": "2021-08-26T22:15:30.000Z",
+          "wordCount": 1459,
+          "title": "HTML Font – CSS Font Family Example (Serif and Sans Serif Characters)"
+        },
+        {
+          "id": "6107c0083306a507d1bfc549",
+          "author": null,
+          "description": "In a Relational Database, tables are often related to each other in a way that allows their information to only be written once in the whole database. Then, when you need to analyze the data, you'll need to combine the info from those related tables. To do this in SQL,",
+          "link": "https://www.freecodecamp.org/news/sql-left-join-example-join-statement-syntax/",
+          "publishedOn": "2021-08-26T20:29:12.000Z",
+          "wordCount": 1425,
+          "title": "SQL Left Join – Example Join Statement Syntax"
+        },
+        {
+          "id": "60b5025111ffb70827ef9ebe",
+          "author": null,
+          "description": "Would you like to talk to a chatbot that speaks like your favorite character, fictional or non-fictional? Let's build one!  In case you've seen my previous tutorial on this topic, stick with me as this version features lots of updates. You can follow along with this tutorial using the code",
+          "link": "https://www.freecodecamp.org/news/discord-ai-chatbot/",
+          "publishedOn": "2021-08-26T19:30:00.000Z",
+          "wordCount": 1750,
+          "title": "How to Build a Discord AI Chatbot that Talks Like Your Favorite Character"
+        },
+        {
+          "id": "6125f93b3bccf807612a7b84",
+          "author": null,
+          "description": "Git is a popular version control system and an essential tool in a web developer's toolkit.  Branches are a powerful and integral part of working with Git.  In this article, you will learn the basics about how to remove local and remote branches in Git.  What are Branches in Git?",
+          "link": "https://www.freecodecamp.org/news/git-delete-branch-how-to-remove-a-local-or-remote-branch/",
+          "publishedOn": "2021-08-26T17:00:36.000Z",
+          "wordCount": 1172,
+          "title": "Git Delete Branch – How to Remove a Local or Remote Branch"
+        },
+        {
+          "id": "612439163bccf807612a6e69",
+          "author": null,
+          "description": "Welcome! If you speak Spanish and you want you learn JavaScript, you're in the right place. freeCodeCamp just published a free 9-hour JavaScript course for beginners. You will learn everything you need to know to get started with JavaScript, a key programming language for web development and many other applications.",
+          "link": "https://www.freecodecamp.org/news/learn-javascript-in-spanish-full-course-for-beginners/",
+          "publishedOn": "2021-08-26T16:35:47.000Z",
+          "wordCount": 567,
+          "title": "Learn JavaScript in Spanish – Full Course for Beginners"
+        },
+        {
+          "id": "611f3dde3bccf807612a37c3",
+          "author": null,
+          "description": "In this article, we're going to learn how to integrate a splash screen in a Flutter app. But first, why is having a splash screen in your app essential? What is a Splash Screen?A splash screen is an initial screen that gets displayed right when the user launches the",
+          "link": "https://www.freecodecamp.org/news/how-to-add-a-splash-screen-in-flutter-app/",
+          "publishedOn": "2021-08-26T16:30:17.000Z",
+          "wordCount": 1515,
+          "title": "How to Add a Splash Screen to Your Flutter App"
+        },
+        {
+          "id": "6123a7673bccf807612a64bf",
+          "author": null,
+          "description": "The Array.filter() method is arguably the most important and widely used method for iterating over an array in JavaScript. The way the filter() method works is very simple. It entails filtering out one or more items (a subset) from a larger collection of items (a superset) based on some",
+          "link": "https://www.freecodecamp.org/news/javascript-array-filter-tutorial-how-to-iterate-through-elements-in-an-array/",
+          "publishedOn": "2021-08-26T16:07:48.000Z",
+          "wordCount": 1344,
+          "title": "JavaScript Array.filter() Tutorial – How to Iterate Through Elements in an Array"
+        },
+        {
+          "id": "61279c123bccf807612a8bda",
+          "author": null,
+          "description": "You can use artificial intelligence to make a Discord chat bot talk like your favorite character. It could be a Rick and Morty character, Harry Potter, Peppa Pig, or someone else. We just released a tutorial on the freeCodeCamp.org YouTube channel that will teach you how to create a",
+          "link": "https://www.freecodecamp.org/news/make-a-discord-bot-that-talks-like-rick-sanchez/",
+          "publishedOn": "2021-08-26T13:59:54.000Z",
+          "wordCount": 5274,
+          "title": "Make a Discord Chat Bot That Talks Like Rick Sanchez"
+        },
+        {
           "id": "612114773bccf807612a5084",
           "author": null,
           "description": "In 2012, Harvard Business Review named data science the sexiest job of the 21st century. But if you want to get a job as a data scientist, you'll need to go through a tough interview process. During data science job interviews, the interviewer will likely ask questions from different data",
@@ -631,51 +712,6 @@
           "publishedOn": "2021-07-28T14:18:37.000Z",
           "wordCount": 19795,
           "title": "How to Use PySpark for Data Processing and Machine Learning"
-        },
-        {
-          "id": "60ffec493306a507d1bf98f4",
-          "author": null,
-          "description": "Loops let you control the logic and flow structures of your programs.  Specifically, a for loop lets you execute a block of similar code operations, over and over again, until a condition is met.  You repeat certain code instructions for a set of values you determine, and you perform actions",
-          "link": "https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/",
-          "publishedOn": "2021-07-27T22:36:10.000Z",
-          "wordCount": 1528,
-          "title": "Python For Loop – Example and Tutorial"
-        },
-        {
-          "id": "60ff23533306a507d1bf9345",
-          "author": null,
-          "description": "In this post, we’ll look at 4 different ways to flatten a dict in Python. For each method I’ll point out the pros and cons, and I'll give a quick performance analysis. For this tutorial, I ran all examples on Python 3.7. Why Should You Know How",
-          "link": "https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/",
-          "publishedOn": "2021-07-27T19:59:00.000Z",
-          "wordCount": 1729,
-          "title": "How to Flatten a Dictionary in Python in 4 Different Ways"
-        },
-        {
-          "id": "60dabcb327f80207bcdbb316",
-          "author": null,
-          "description": "CMSs are pretty hard to ignore because they're everywhere on the internet. WordPress, for example, powers nearly 40% of the internet today.  In this article, we'll cover what CMSs are and why you should care about them. I'll also introduce you to a new type of CMS that seems to",
-          "link": "https://www.freecodecamp.org/news/what-is-headless-cms-explained/",
-          "publishedOn": "2021-07-27T17:53:47.000Z",
-          "wordCount": 1363,
-          "title": "Headless CMS Explained – What it is and When You Should Use it"
-        },
-        {
-          "id": "60fa5ec41d2b080797b81bf8",
-          "author": null,
-          "description": "In JavaScript, we use an Object to store multiple values as a complex data structure. You create an object with a pair of curly braces {}.  An object can have one or more properties. Each of the properties is a key-value pair separated by a colon(:). The key must be a",
-          "link": "https://www.freecodecamp.org/news/javascript-immutability-frozen-objects-with-examples/",
-          "publishedOn": "2021-07-27T15:49:00.000Z",
-          "wordCount": 1704,
-          "title": "JavaScript Immutability – Frozen Objects in JS Explained with Examples"
-        },
-        {
-          "id": "60fbe07822b0e2078fcd09bc",
-          "author": null,
-          "description": "In Python, a string is a sequence of characters that may contain special characters or alphanumeric characters. An example of a string is \"we meet on Friday at 08:00 am\". And you can access specific sub-parts of the string commonly known as substrings. We can define a substring as",
-          "link": "https://www.freecodecamp.org/news/python-substring-how-to-slice-a-string/",
-          "publishedOn": "2021-07-27T15:24:00.000Z",
-          "wordCount": 974,
-          "title": "Python Substring – How to Slice a String"
         }
       ]
     },
@@ -684,6 +720,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=108105",
+          "author": "Max G. Levy",
+          "description": "One of the strangest results in mathematics explains how it’s possible to turn one sphere into two identical copies, simply by rearranging its pieces.            \nThe post Banach-Tarski and the Paradox of Infinite Cloning first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-a-mathematical-paradox-allows-infinite-cloning-20210826/",
+          "publishedOn": "2021-08-26T13:54:08.000Z",
+          "wordCount": null,
+          "title": "Banach-Tarski and the Paradox of Infinite Cloning",
+          "itunes": {}
+        },
         {
           "id": "https://www.quantamagazine.org/?p=108098",
           "author": "Pradeep Mutalik",
@@ -823,16 +869,6 @@
           "wordCount": null,
           "title": "Proof Assistant Makes Jump to Big-League Math",
           "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=107268",
-          "author": "Gabriel Popkin",
-          "description": "A centuries-old concept in soil science has recently been thrown out. Yet it remains a key ingredient in everything from climate models to advanced carbon-capture projects.            \nThe post A Soil-Science Revolution Upends Plans to Fight Climate Change first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/a-soil-science-revolution-upends-plans-to-fight-climate-change-20210727/",
-          "publishedOn": "2021-07-27T16:33:34.000Z",
-          "wordCount": null,
-          "title": "A Soil-Science Revolution Upends Plans to Fight Climate Change",
-          "itunes": {}
         }
       ]
     },
@@ -884,6 +920,15 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/snippets/promises-based-timer-functions-are-supported-in-node-js-16/",
+          "author": null,
+          "description": "When writing Node.js automation/build scripts, I occasionally need \"sleep\" functionality to wait for other tasks to finish. It's not great to implement \"sleeps and waits\", but sometimes there's no other way than waiting for another system to finish what it's doing.\nI often use the following snippet in a Node.js module script. 👇\nFYI: Node.js modules support top-level await.\n// File: index.mjs\n\nconst sleep = (time) => {\n  return new Promise((resolve) => {\n    setTimeout(resolve, time);\n  });\n}\n\n// do something\nawait sleep(5000);\n// do something else\n\nThere's nothing particularly wrong with this approach, but I'm very pleased to see that promises-based timer functions are available in Node.js 16 via timers/promises now.\n// File: index.mjs\n\nimport {\n  setTimeout,\n} from 'timers/promises';\n\n// do something\nawait setTimeout(5000);\n// do something else\n\nLess code is always better code! 👏\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/snippets/promises-based-timer-functions-are-supported-in-node-js-16/",
+          "publishedOn": "2021-08-25T22:00:00.000Z",
+          "wordCount": 333,
+          "title": "Promises-based timer functions are supported in Node.js 16 (#snippet)"
+        },
         {
           "id": "https://www.stefanjudis.com/notes/apples-safari-only-supports-image-formats-the-os-supports-and-that-might-be/",
           "author": null,
