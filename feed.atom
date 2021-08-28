@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-27T00:22:23.577Z</updated>
+    <updated>2021-08-28T00:20:02.365Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PHP Array Length Tutorial – How to Get an Array Size]]></title>
+        <id>600dc4230a2838549dcb6e8e</id>
+        <link href="https://www.freecodecamp.org/news/php-array-length-how-to-get-an-array-size/"/>
+        <updated>2021-08-27T19:10:13.000Z</updated>
+        <summary type="html"><![CDATA[Arrays are a powerful data type in PHP. And knowing how to quickly determine the size of an array is a useful skill.  In this article I'll give you a quick overview of how arrays work, and then I'll dive into how to get the size of PHP arrays. If]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New Creator Economy – DAOs, Community Ownership, and Cryptoeconomics]]></title>
+        <id>612796f53bccf807612a8b55</id>
+        <link href="https://www.freecodecamp.org/news/the-new-creator-economy-daos-community-ownership-and-cryptoeconomics/"/>
+        <updated>2021-08-27T17:02:29.000Z</updated>
+        <summary type="html"><![CDATA[I first had what I can only describe as a spiritual awakening about 10 years ago to the fact that technology would (figuratively) rule the world. And since then, I've been obsessed with wanting to understand how software works and how to build it. Since that moment, my life has]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Responsive Web Design – Modern Website Code for Beginners]]></title>
+        <id>6127e0efb5177808226d29cb</id>
+        <link href="https://www.freecodecamp.org/news/responsive-web-design-modern-website-code-for-beginners/"/>
+        <updated>2021-08-27T16:33:18.000Z</updated>
+        <summary type="html"><![CDATA[When the internet was still young, website visitors used desktop and then laptop computers with wide screens to access websites.  Then when smart phones were developed, mobile phone users had to endlessly zoom and scroll to access and view different parts of those same websites.  Thankfully, this is no longer]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript setTimeout() – JS Timer to Delay N Seconds]]></title>
         <id>612203fb3bccf807612a5756</id>
@@ -1244,47 +1274,6 @@ The post Eternal Change for No Energy: A Time Crystal Finally Made Real first ap
         <link href="https://www.freecodecamp.org/news/python-if-else-statement-conditional-statements-explained/"/>
         <updated>2021-07-29T15:32:30.000Z</updated>
         <summary type="html"><![CDATA[There are many cases where you don't want all of your code to be executed in your programs.  Instead, you might want certain code to run only when a specific condition is met, and a different set of code to run when the condition is not satisified.  That's where conditional]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Functions in Python – Explained with Code Examples]]></title>
-        <id>60f993f51d2b080797b818a7</id>
-        <link href="https://www.freecodecamp.org/news/functions-in-python-a-beginners-guide/"/>
-        <updated>2021-07-28T17:24:21.000Z</updated>
-        <summary type="html"><![CDATA[In any programming language, functions facilitate code reusability. In simple terms, when you want to do something repeatedly, you can define that something as a function and call that function whenever you need to.  In this tutorial, we shall learn about user-defined functions in Python. When you started coding in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Modules – Explained with Examples]]></title>
-        <id>60fec60822b0e2078fcd16f0</id>
-        <link href="https://www.freecodecamp.org/news/javascript-modules-explained-with-examples/"/>
-        <updated>2021-07-28T16:27:49.000Z</updated>
-        <summary type="html"><![CDATA[A module is a function or group of similar functions. They are grouped together within a file and contain the code to execute a specific task when called into a larger application. You create modules to better organize and structure your codebase. You can use them to break down large]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proof Assistant Makes Jump to Big-League Math]]></title>
-        <id>https://www.quantamagazine.org/?p=107351</id>
-        <link href="https://www.quantamagazine.org/lean-computer-program-confirms-peter-scholze-proof-20210728/"/>
-        <updated>2021-07-28T14:45:32.000Z</updated>
-        <summary type="html"><![CDATA[Mathematicians using the computer program Lean have verified the accuracy of a difficult theorem at the cutting edge of research mathematics.            
-The post Proof Assistant Makes Jump to Big-League Math first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Kevin Hartnett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use PySpark for Data Processing and Machine Learning]]></title>
-        <id>60e74b9c134ad707be00f284</id>
-        <link href="https://www.freecodecamp.org/news/use-pyspark-for-data-processing-and-machine-learning/"/>
-        <updated>2021-07-28T14:18:37.000Z</updated>
-        <summary type="html"><![CDATA[PySpark is an interface for Apache Spark in Python. PySpark is often used for large-scale data processing and machine learning. We just released a PySpark crash course on the freeCodeCamp.org YouTube channel. Krish Naik developed this course. Krish is a lead data scientist and he runs a popular YouTube]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
