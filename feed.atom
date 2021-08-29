@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-28T00:20:02.365Z</updated>
+    <updated>2021-08-29T00:21:23.349Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Rime of the Ancient Mariner]]></title>
+        <id>61214ae496ccff0d91ddff31</id>
+        <link href="https://labnotes.org/weekend-reading-rime-of-the-ancient-mariner/"/>
+        <updated>2021-08-28T20:24:38.000Z</updated>
+        <summary type="html"><![CDATA[This week we water houseplants using a dehumidifier, listen to tales of woe, build in public, and interpretive dance to hydraulic press.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PHP Array Length Tutorial – How to Get an Array Size]]></title>
         <id>600dc4230a2838549dcb6e8e</id>
@@ -1226,56 +1236,6 @@ Edit: Wesley Martin shared the macOCR project with me and it's also worth a look
 The post Eternal Change for No Energy: A Time Crystal Finally Made Real first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Natalie Wolchover</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Camera2 – How to Use the Camera2 API to Take Photos and Videos]]></title>
-        <id>60f0501b66c61b07d458df00</id>
-        <link href="https://www.freecodecamp.org/news/android-camera2-api-take-photos-and-videos/"/>
-        <updated>2021-07-29T22:36:44.000Z</updated>
-        <summary type="html"><![CDATA[We all use the camera on our phones and we use it a l-o-t. There are even some applications that have integrated the camera as a feature.  On one end, there is a standard way of interacting with the camera. On the other, there is a way to customize your]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Not Equal Sign – How to Type the Does Not Equal Symbol]]></title>
-        <id>60f534ec66c61b07d458ecfe</id>
-        <link href="https://www.freecodecamp.org/news/not-equal-sign-how-to-type-the-does-not-equal-symbol/"/>
-        <updated>2021-07-29T18:27:33.000Z</updated>
-        <summary type="html"><![CDATA[The does not equal symbol, or ≠, is often not part of a standard keyboard setup – or it's well hidden. So if you need to write it, how do you do it? How to Write the Not Equal Sign on Desktop DevicesOn Windows: Use the Character MapThe Character Map is a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How to Deploy 12 Apps to AWS, Azure, &amp; Google Cloud]]></title>
-        <id>6102ccd03306a507d1bfb150</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-deploy-12-apps-to-aws-azure-google-cloud/"/>
-        <updated>2021-07-29T15:52:57.000Z</updated>
-        <summary type="html"><![CDATA[Dockerizing an app makes it simpler to deploy. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to deploy 12 apps to 3 popular hosting services. Scalable Scripts developed this course. They create courses on all sorts of languages and frameworks on]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Basic Excel Tutorial – How to Automate Repetitive Tasks in a Spreadsheet]]></title>
-        <id>60fc708a22b0e2078fcd0cdc</id>
-        <link href="https://www.freecodecamp.org/news/automate-repetitive-tasks-in-excel-with-vba/"/>
-        <updated>2021-07-29T15:35:00.000Z</updated>
-        <summary type="html"><![CDATA[I use VBA, or Visual Basic for Applications, to automate my repetitive tasks. This saves me quite a lot of time in my day-to-day life.  Based on the fact that you're reading this tutorial, I assume that you would like to be able to do the same. So I will]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python If Else Statement – Conditional Statements Explained]]></title>
-        <id>61018d5c3306a507d1bfa74a</id>
-        <link href="https://www.freecodecamp.org/news/python-if-else-statement-conditional-statements-explained/"/>
-        <updated>2021-07-29T15:32:30.000Z</updated>
-        <summary type="html"><![CDATA[There are many cases where you don't want all of your code to be executed in your programs.  Instead, you might want certain code to run only when a specific condition is met, and a different set of code to run when the condition is not satisified.  That's where conditional]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
