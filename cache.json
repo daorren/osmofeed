@@ -622,51 +622,6 @@
           "publishedOn": "2021-08-02T17:39:24.000Z",
           "wordCount": 362,
           "title": "How does the internet work?"
-        },
-        {
-          "id": "6053023028094f59be257c79",
-          "author": null,
-          "description": "When you are building a new website, it is important to have a good starting foundation. In this article, I will explain what an HTML 5 boilerplate is and how to create a basic template to use in your projects.  What is an HTML 5 boilerplate?According to Wikipedia,  boilerplate",
-          "link": "https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/",
-          "publishedOn": "2021-07-30T22:41:08.000Z",
-          "wordCount": 797,
-          "title": "Basic HTML5 Template: Use This HTML Boilerplate as a Starter for Any Web Dev Project"
-        },
-        {
-          "id": "60f534d266c61b07d458ecf8",
-          "author": null,
-          "description": "If you want to add a number to a text string, you can't do so directly since the format isn't maintained. Also, a number added to a text string doesn't have any formatting or all its decimal places.  The TEXT function comes in handy here, as it allows you to",
-          "link": "https://www.freecodecamp.org/news/excel-text-function-how-to-convert-a-number-to-text-format/",
-          "publishedOn": "2021-07-30T22:22:23.000Z",
-          "wordCount": 1003,
-          "title": "Excel Text Function – How to Convert a Number to Text Format"
-        },
-        {
-          "id": "610478b63306a507d1bfbb23",
-          "author": null,
-          "description": "Actor-Critic Methods are very useful reinforcement learning techniques. Actor-critic methods are most useful for applications in robotics as they allow software to output continuous, rather than discrete actions. This enables control of electric motors to actuate movement in robotic systems, at the expense of increased computational complexity. We just released",
-          "link": "https://www.freecodecamp.org/news/intro-to-advanced-actor-critic-methods-reinforcement-learning-course/",
-          "publishedOn": "2021-07-30T22:20:15.000Z",
-          "wordCount": 480,
-          "title": "Intro to Advanced Actor-Critic Methods: Reinforcement Learning Course"
-        },
-        {
-          "id": "6102c9803306a507d1bfb0f4",
-          "author": null,
-          "description": "Links are a defining featute of the Web and you'll find them everywhere.  As their name suggests, they create links, or connections, between pages. This allows us to navigate quickly and easily from one webpage to another.  You'll find many types of links on the Web.  There are links that",
-          "link": "https://www.freecodecamp.org/news/what-is-a-hyperlink-definition-for-html-link-beginners/",
-          "publishedOn": "2021-07-30T22:07:57.000Z",
-          "wordCount": 1528,
-          "title": "What is a Hyperlink? Definition for HTML Link Beginners"
-        },
-        {
-          "id": "60f5350266c61b07d458ed04",
-          "author": null,
-          "description": "Speech-to-Text is a really useful accessibility tool if typing is difficult for you. Or you can also use it if you like to think out loud and transcribe what you say. In this tutorial, I'll show you how to use speech-to-text in Google Docs. Do note, though, that this feature",
-          "link": "https://www.freecodecamp.org/news/google-docs-voice-typing-how-to-use-speech-to-text-in-a-google-doc/",
-          "publishedOn": "2021-07-30T20:09:13.000Z",
-          "wordCount": 740,
-          "title": "Google Docs Voice Typing – How to Use Speech-to-Text in a Google Doc"
         }
       ]
     },
@@ -804,16 +759,6 @@
           "wordCount": null,
           "title": "Mating Contests Among Females, Long Ignored, May Shape Evolution",
           "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=106865",
-          "author": "Natalie Wolchover",
-          "description": "Like a perpetual motion machine, a time crystal forever cycles between states without consuming energy. Physicists claim to have built this new phase of matter inside a quantum computer.            \nThe post Eternal Change for No Energy: A Time Crystal Finally Made Real first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/first-time-crystal-built-using-googles-quantum-computer-20210730/",
-          "publishedOn": "2021-07-30T14:00:02.000Z",
-          "wordCount": null,
-          "title": "Eternal Change for No Energy: A Time Crystal Finally Made Real",
-          "itunes": {}
         }
       ]
     },
@@ -874,6 +819,24 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-34/",
+          "author": null,
+          "description": "Guten Tag, friends! 👋\n\nIf you're subscribed to this newsletter for a while, you know that I discovered the electro piano duo Grandbrothers and became a big fan. I saw them live this week, and I'm so happy; live music is just the best!\nBefore jumping into nerdy stuff, let's start the week with some doggo cuteness.\n\n\n          \n            \nThis week's Web Weekly includes:\nFancy CSS features: accent-color, font-family: system-ui and color-scheme\nworkplace privileges\ndirectory-dependent git configuration\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nReady? Steady. Go!\nHow Google generates search result titles\n\n\n\n\n\n          \n            \nGoogle changed the way how they generate the search result titles and now consider h1 elements, too. It's a good reminder about…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-34/",
+          "publishedOn": "2021-08-29T21:00:00.000Z",
+          "wordCount": 974,
+          "title": "Web Weekly #34 (#blogPost)"
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/how-to-apply-directory-dependent-git-configuration-using-conditional-imports/",
+          "author": null,
+          "description": "I just came across Marcus Crane's post Conditionally setting your gitconfig. Marcus explains how to use conditional includes and apply directory dependent git configuration.\nHere's an example from his blog post:\n[user]\n  email = user@example.com\n  name = User\n  signingkey = ABC123\n[commit]\n  gpgSign = true\n[includeIf \"gitdir:~/work/\"]\n  path = ~/.work.gitconfig\n\nThe git docs describe that you include configs depending on branch name, too.\nI don't need different git configurations these days, but it's good to know this feature exists. 👏\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/how-to-apply-directory-dependent-git-configuration-using-conditional-imports/",
+          "publishedOn": "2021-08-29T18:00:00.000Z",
+          "wordCount": 305,
+          "title": "How to apply directory dependent git configuration using conditional imports (#tilPost)"
+        },
         {
           "id": "https://www.stefanjudis.com/snippets/promises-based-timer-functions-are-supported-in-node-js-16/",
           "author": null,
