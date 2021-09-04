@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-03T00:19:34.728Z</updated>
+    <updated>2021-09-04T00:19:29.080Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HTML Select Tag – How to Make a Dropdown Menu or Combo List]]></title>
+        <id>61320541d6679a07b7d416a2</id>
+        <link href="https://www.freecodecamp.org/news/html-select-tag-how-to-make-a-dropdown-menu-or-combo-list/"/>
+        <updated>2021-09-03T15:03:03.000Z</updated>
+        <summary type="html"><![CDATA[You use the HTML select tag to create drop-down menus so that users can select the value they want. It is an instrumental feature in collecting data to be sent to a server.  The select tag normally goes within a form element, with the items to choose from coded within]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Sort List – How to Order By Descending or Ascending]]></title>
+        <id>6106588a3306a507d1bfc10c</id>
+        <link href="https://www.freecodecamp.org/news/python-sort-list-how-to-order-by-descending-or-ascending/"/>
+        <updated>2021-09-03T14:49:55.000Z</updated>
+        <summary type="html"><![CDATA[In Python, you can sort data by using the sorted() method or sort() method.  In this article, I will provide code examples for the sorted() and sort() methods and explain the differences between the two. What is the sort() method in Python?This method takes a list and sorts it]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Flexbox and Grid Tutorial – How to Build a Landing Page with Just HTML and CSS]]></title>
         <id>612f86fcd6679a07b7d401b3</id>
@@ -1298,67 +1318,6 @@ The post Mathematicians Solve Decades-Old Classification Problem first appeared 
         <summary type="html"><![CDATA[HTML is used to create web pages.  This article will teach you the basics of HTML. I also created a 45-minute video course on the freeCodeCamp.org YouTube channel that teaches you HTML in the context of creating an actual web page. If you are just learning HTML, I recommend]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Border – Style and HTML Code Examples]]></title>
-        <id>610afe863306a507d1bfdf1e</id>
-        <link href="https://www.freecodecamp.org/news/css-border-style-and-html-code-examples/"/>
-        <updated>2021-08-04T23:25:30.000Z</updated>
-        <summary type="html"><![CDATA[In CSS, everything is a box. And each box – whether it's text, an image, a div, a span, or any other element – has a border that separates its edges from other boxes around it.  The CSS border property allows us to do several things with the border of individual boxes.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Padding – CSS Padding Order]]></title>
-        <id>6106575b3306a507d1bfc104</id>
-        <link href="https://www.freecodecamp.org/news/html-padding-css-padding-order/"/>
-        <updated>2021-08-04T21:33:13.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we are going to learn about CSS padding properties, the shorthand property, and how padding differs from margin.  What is padding in CSS?CSS padding creates space around the element's content. This space is within the element's border and margin.  Let's take a look at the CSS]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Where – Clause Examples]]></title>
-        <id>6106638c3306a507d1bfc15c</id>
-        <link href="https://www.freecodecamp.org/news/sql-where-clause-examples/"/>
-        <updated>2021-08-04T15:32:26.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes when you're working with SQL, you don't need to operate on an entire range of records. Or it would be really bad if you accidentally changed or deleted everything. In these cases, you'll need to select only the part of the records on which you want to work, those]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Vertical Align – How to Center a Div, Text, or an Image [Example Code]]]></title>
-        <id>610a56153306a507d1bfd5f0</id>
-        <link href="https://www.freecodecamp.org/news/css-vertical-align-how-to-center-a-div-text-or-an-image-example-code/"/>
-        <updated>2021-08-04T15:02:39.000Z</updated>
-        <summary type="html"><![CDATA[Even with helpful tools like CSS Grid and Flexbox, centering elements in CSS remains notoriously challenging.  It's been the subject of many jokes and memes, and when you successfully center something, you'll want to brag about it.  Why is Centering CSS Elements So Hard? CSS can be tricky to work]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Background Color – How to Change the Background Color in HTML]]></title>
-        <id>610641743306a507d1bfbfd4</id>
-        <link href="https://www.freecodecamp.org/news/css-background-color-how-to-change-the-background-color-in-html/"/>
-        <updated>2021-08-04T14:46:14.000Z</updated>
-        <summary type="html"><![CDATA[You have started creating your HTML page, and you want to give it some color – maybe change the color of the text or set a nice background. So how do you do that? In this article I'll show you how you can change the background color of a page in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neither Star nor Planet: A Strange Brown Dwarf Puzzles Astronomers]]></title>
-        <id>https://www.quantamagazine.org/?p=107531</id>
-        <link href="https://www.quantamagazine.org/neither-star-nor-planet-a-strange-brown-dwarf-puzzles-astronomers-20210804/"/>
-        <updated>2021-08-04T14:20:22.000Z</updated>
-        <summary type="html"><![CDATA[Brown dwarfs such as “The Accident” are illuminating the murky borderlands that separate planets from stars.            
-The post Neither Star nor Planet: A Strange Brown Dwarf Puzzles Astronomers first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Jonathan O'Callaghan</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "61320541d6679a07b7d416a2",
+          "author": null,
+          "description": "You use the HTML select tag to create drop-down menus so that users can select the value they want. It is an instrumental feature in collecting data to be sent to a server.  The select tag normally goes within a form element, with the items to choose from coded within",
+          "link": "https://www.freecodecamp.org/news/html-select-tag-how-to-make-a-dropdown-menu-or-combo-list/",
+          "publishedOn": "2021-09-03T15:03:03.000Z",
+          "wordCount": 1416,
+          "title": "HTML Select Tag – How to Make a Dropdown Menu or Combo List"
+        },
+        {
+          "id": "6106588a3306a507d1bfc10c",
+          "author": null,
+          "description": "In Python, you can sort data by using the sorted() method or sort() method.  In this article, I will provide code examples for the sorted() and sort() methods and explain the differences between the two. What is the sort() method in Python?This method takes a list and sorts it",
+          "link": "https://www.freecodecamp.org/news/python-sort-list-how-to-order-by-descending-or-ascending/",
+          "publishedOn": "2021-09-03T14:49:55.000Z",
+          "wordCount": 973,
+          "title": "Python Sort List – How to Order By Descending or Ascending"
+        },
+        {
           "id": "612f86fcd6679a07b7d401b3",
           "author": null,
           "description": "In  this tutorial, we are going to build a simple landing page for an online education platform called Skilllz. This tutorial will teach you how to use and implement CSS Flexbox and CSS Grid alignment. We'll also cover many other CSS concepts as well. The tutorial is divided into three",
@@ -757,51 +775,6 @@
           "publishedOn": "2021-08-05T14:19:09.000Z",
           "wordCount": 1180,
           "title": "HTML for Beginners"
-        },
-        {
-          "id": "610afe863306a507d1bfdf1e",
-          "author": null,
-          "description": "In CSS, everything is a box. And each box – whether it's text, an image, a div, a span, or any other element – has a border that separates its edges from other boxes around it.  The CSS border property allows us to do several things with the border of individual boxes.",
-          "link": "https://www.freecodecamp.org/news/css-border-style-and-html-code-examples/",
-          "publishedOn": "2021-08-04T23:25:30.000Z",
-          "wordCount": 1180,
-          "title": "CSS Border – Style and HTML Code Examples"
-        },
-        {
-          "id": "6106575b3306a507d1bfc104",
-          "author": null,
-          "description": "In this article, we are going to learn about CSS padding properties, the shorthand property, and how padding differs from margin.  What is padding in CSS?CSS padding creates space around the element's content. This space is within the element's border and margin.  Let's take a look at the CSS",
-          "link": "https://www.freecodecamp.org/news/html-padding-css-padding-order/",
-          "publishedOn": "2021-08-04T21:33:13.000Z",
-          "wordCount": 731,
-          "title": "HTML Padding – CSS Padding Order"
-        },
-        {
-          "id": "6106638c3306a507d1bfc15c",
-          "author": null,
-          "description": "Sometimes when you're working with SQL, you don't need to operate on an entire range of records. Or it would be really bad if you accidentally changed or deleted everything. In these cases, you'll need to select only the part of the records on which you want to work, those",
-          "link": "https://www.freecodecamp.org/news/sql-where-clause-examples/",
-          "publishedOn": "2021-08-04T15:32:26.000Z",
-          "wordCount": 1691,
-          "title": "SQL Where – Clause Examples"
-        },
-        {
-          "id": "610a56153306a507d1bfd5f0",
-          "author": null,
-          "description": "Even with helpful tools like CSS Grid and Flexbox, centering elements in CSS remains notoriously challenging.  It's been the subject of many jokes and memes, and when you successfully center something, you'll want to brag about it.  Why is Centering CSS Elements So Hard? CSS can be tricky to work",
-          "link": "https://www.freecodecamp.org/news/css-vertical-align-how-to-center-a-div-text-or-an-image-example-code/",
-          "publishedOn": "2021-08-04T15:02:39.000Z",
-          "wordCount": 1158,
-          "title": "CSS Vertical Align – How to Center a Div, Text, or an Image [Example Code]"
-        },
-        {
-          "id": "610641743306a507d1bfbfd4",
-          "author": null,
-          "description": "You have started creating your HTML page, and you want to give it some color – maybe change the color of the text or set a nice background. So how do you do that? In this article I'll show you how you can change the background color of a page in",
-          "link": "https://www.freecodecamp.org/news/css-background-color-how-to-change-the-background-color-in-html/",
-          "publishedOn": "2021-08-04T14:46:14.000Z",
-          "wordCount": 1675,
-          "title": "CSS Background Color – How to Change the Background Color in HTML"
         }
       ]
     },
@@ -948,16 +921,6 @@
           "publishedOn": "2021-08-05T15:17:45.000Z",
           "wordCount": null,
           "title": "Mathematicians Solve Decades-Old Classification Problem",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=107531",
-          "author": "Jonathan O'Callaghan",
-          "description": "Brown dwarfs such as “The Accident” are illuminating the murky borderlands that separate planets from stars.            \nThe post Neither Star nor Planet: A Strange Brown Dwarf Puzzles Astronomers first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/neither-star-nor-planet-a-strange-brown-dwarf-puzzles-astronomers-20210804/",
-          "publishedOn": "2021-08-04T14:20:22.000Z",
-          "wordCount": null,
-          "title": "Neither Star nor Planet: A Strange Brown Dwarf Puzzles Astronomers",
           "itunes": {}
         }
       ]
