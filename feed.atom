@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-04T00:19:29.080Z</updated>
+    <updated>2021-09-05T00:21:37.918Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — ☕ Ffrothi Coffi]]></title>
+        <id>612a9bc159eedf3e7558896b</id>
+        <link href="https://labnotes.org/weekend-reading-ffrothi-coffi/"/>
+        <updated>2021-09-04T20:07:50.000Z</updated>
+        <summary type="html"><![CDATA[This week we game and watch, sweep the floor, design a green & black protocol, hallucinate New Yorker cartoons, and date the #vanlife.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to focus an already open browser tab (Chromium and macOS) (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/how-to-focus-an-already-open-browser-tab-chromium-and-macos/</id>
+        <link href="https://www.stefanjudis.com/notes/how-to-focus-an-already-open-browser-tab-chromium-and-macos/"/>
+        <updated>2021-09-03T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While reading an article about "unknown" Netlify CLI features, I discovered a little developer experience gem.
+When you run netlify dev, netlify will check if there’s an open browser tab on the existing port and if so, it’ll re use that tab to display your project as opposed to spinning up a new tab every time.
+As a tab hoarder, I appreciate it when development tools reuse and focus already open localhost tabs. Unfortunately, I can't remember that I've ever seen a development CLI command reusing/focusing an already open tab.
+How does that work? Is there an easy way to do that programmatically? And why did I never notice this?
+An npm package to reuse tabs – better-opn
+
+I analyzed what the Netlify CLI does and discovered that it uses the better-opn npm package (find the usage here). The code…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML Select Tag – How to Make a Dropdown Menu or Combo List]]></title>
         <id>61320541d6679a07b7d416a2</id>
@@ -1275,47 +1301,6 @@ Marco Biedermann pointed out that custom media queries are part of the postcss-p
         <link href="https://www.freecodecamp.org/news/javascript-switch-case-js-switch-statement-example/"/>
         <updated>2021-08-06T15:18:55.000Z</updated>
         <summary type="html"><![CDATA[There are times in JavaScript where you might consider using a switch statement instead of an if else statement.   switch statements can have a cleaner syntax over complicated if else statements.  Take a look at the example below – instead of using this long if else statement, you might choose to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[&lt;pre&gt; Tag in HTML – Example Code]]></title>
-        <id>610be0ea3306a507d1bfe4b1</id>
-        <link href="https://www.freecodecamp.org/news/pre-tag-in-html-example-code/"/>
-        <updated>2021-08-05T21:33:51.000Z</updated>
-        <summary type="html"><![CDATA[The HTML <pre> tag defines a preformatted block of text. It comes in handy when you want to display text where the typographical formatting affects the meaning of the content, such as code snippets and poems.  By default, browsers ignore white space of any kind – extra text space,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes Security – How to Use Dynamic Admission Control to Secure Your Container Supply Chain]]></title>
-        <id>6108233d3306a507d1bfc731</id>
-        <link href="https://www.freecodecamp.org/news/kubernetes-security-dynamic-admission-control/"/>
-        <updated>2021-08-05T16:37:56.000Z</updated>
-        <summary type="html"><![CDATA[Containers have exploded in popularity in recent years. And as more developers are using these containers, they need more tools to manage them and their interactions with them effectively.  To help manage all this, many devs use Kubernetes. And it has become the de facto standard for container orchestration. While]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematicians Solve Decades-Old Classification Problem]]></title>
-        <id>https://www.quantamagazine.org/?p=107577</id>
-        <link href="https://www.quantamagazine.org/mathematicians-solve-decades-old-classification-problem-20210805/"/>
-        <updated>2021-08-05T15:17:45.000Z</updated>
-        <summary type="html"><![CDATA[A pair of researchers has shown that trying to classify groups of numbers called “torsion-free abelian groups” is as hard as it can possibly be.            
-The post Mathematicians Solve Decades-Old Classification Problem first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Steve Nadis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML for Beginners]]></title>
-        <id>60db390127f80207bcdbb455</id>
-        <link href="https://www.freecodecamp.org/news/html-crash-course/"/>
-        <updated>2021-08-05T14:19:09.000Z</updated>
-        <summary type="html"><![CDATA[HTML is used to create web pages.  This article will teach you the basics of HTML. I also created a 45-minute video course on the freeCodeCamp.org YouTube channel that teaches you HTML in the context of creating an actual web page. If you are just learning HTML, I recommend]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

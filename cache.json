@@ -748,33 +748,6 @@
           "publishedOn": "2021-08-06T15:18:55.000Z",
           "wordCount": 1278,
           "title": "JavaScript Switch Case – JS Switch Statement Example"
-        },
-        {
-          "id": "610be0ea3306a507d1bfe4b1",
-          "author": null,
-          "description": "The HTML <pre> tag defines a preformatted block of text. It comes in handy when you want to display text where the typographical formatting affects the meaning of the content, such as code snippets and poems.  By default, browsers ignore white space of any kind – extra text space,",
-          "link": "https://www.freecodecamp.org/news/pre-tag-in-html-example-code/",
-          "publishedOn": "2021-08-05T21:33:51.000Z",
-          "wordCount": 1047,
-          "title": "&lt;pre&gt; Tag in HTML – Example Code"
-        },
-        {
-          "id": "6108233d3306a507d1bfc731",
-          "author": null,
-          "description": "Containers have exploded in popularity in recent years. And as more developers are using these containers, they need more tools to manage them and their interactions with them effectively.  To help manage all this, many devs use Kubernetes. And it has become the de facto standard for container orchestration. While",
-          "link": "https://www.freecodecamp.org/news/kubernetes-security-dynamic-admission-control/",
-          "publishedOn": "2021-08-05T16:37:56.000Z",
-          "wordCount": 1409,
-          "title": "Kubernetes Security – How to Use Dynamic Admission Control to Secure Your Container Supply Chain"
-        },
-        {
-          "id": "60db390127f80207bcdbb455",
-          "author": null,
-          "description": "HTML is used to create web pages.  This article will teach you the basics of HTML. I also created a 45-minute video course on the freeCodeCamp.org YouTube channel that teaches you HTML in the context of creating an actual web page. If you are just learning HTML, I recommend",
-          "link": "https://www.freecodecamp.org/news/html-crash-course/",
-          "publishedOn": "2021-08-05T14:19:09.000Z",
-          "wordCount": 1180,
-          "title": "HTML for Beginners"
         }
       ]
     },
@@ -912,16 +885,6 @@
           "wordCount": null,
           "title": "Physicists Create a Bizarre ‘Wigner Crystal’ Made Purely of Electrons",
           "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=107577",
-          "author": "Steve Nadis",
-          "description": "A pair of researchers has shown that trying to classify groups of numbers called “torsion-free abelian groups” is as hard as it can possibly be.            \nThe post Mathematicians Solve Decades-Old Classification Problem first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/mathematicians-solve-decades-old-classification-problem-20210805/",
-          "publishedOn": "2021-08-05T15:17:45.000Z",
-          "wordCount": null,
-          "title": "Mathematicians Solve Decades-Old Classification Problem",
-          "itunes": {}
         }
       ]
     },
@@ -930,6 +893,15 @@
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
+        {
+          "id": "612a9bc159eedf3e7558896b",
+          "author": "Assaf Arkin",
+          "description": "This week we game and watch, sweep the floor, design a green & black protocol, hallucinate New Yorker cartoons, and date the #vanlife.",
+          "link": "https://labnotes.org/weekend-reading-ffrothi-coffi/",
+          "publishedOn": "2021-09-04T20:07:50.000Z",
+          "wordCount": 1352,
+          "title": "Weekend Reading — ☕ Ffrothi Coffi"
+        },
         {
           "id": "61214ae496ccff0d91ddff31",
           "author": "Assaf Arkin",
@@ -973,6 +945,15 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/notes/how-to-focus-an-already-open-browser-tab-chromium-and-macos/",
+          "author": null,
+          "description": "While reading an article about \"unknown\" Netlify CLI features, I discovered a little developer experience gem.\nWhen you run netlify dev, netlify will check if there’s an open browser tab on the existing port and if so, it’ll re use that tab to display your project as opposed to spinning up a new tab every time.\nAs a tab hoarder, I appreciate it when development tools reuse and focus already open localhost tabs. Unfortunately, I can't remember that I've ever seen a development CLI command reusing/focusing an already open tab.\nHow does that work? Is there an easy way to do that programmatically? And why did I never notice this?\nAn npm package to reuse tabs – better-opn\n\nI analyzed what the Netlify CLI does and discovered that it uses the better-opn npm package (find the usage here). The code…",
+          "link": "https://www.stefanjudis.com/notes/how-to-focus-an-already-open-browser-tab-chromium-and-macos/",
+          "publishedOn": "2021-09-03T22:00:00.000Z",
+          "wordCount": 675,
+          "title": "How to focus an already open browser tab (Chromium and macOS) (#note)"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-34/",
           "author": null,
