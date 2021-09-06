@@ -712,42 +712,6 @@
           "publishedOn": "2021-08-17T18:06:09.000Z",
           "wordCount": 1426,
           "title": "How to Code – Coding for Beginners and How to Learn Programming for Free"
-        },
-        {
-          "id": "61067c973306a507d1bfc1ba",
-          "author": null,
-          "description": "Once you have created a table in a database, it will rarely need to stay the same forever. You will likely need to modify the records in it.  And to help you do that, there is a useful statement, aptly named UPDATE, that you can use to change the records",
-          "link": "https://www.freecodecamp.org/news/sql-update-statement-update-query-in-sql/",
-          "publishedOn": "2021-08-06T21:25:14.000Z",
-          "wordCount": 827,
-          "title": "SQL Update Statement – Update Query in SQL"
-        },
-        {
-          "id": "610cebc13306a507d1bfeca9",
-          "author": null,
-          "description": "Microsoft Excel displays data in tabular format. This means that information is arranged in a table consisting of rows and columns.  Rows and columns are different properties that together make up a table.  These are the two most important features of Excel that allow users to store and manipulate their",
-          "link": "https://www.freecodecamp.org/news/row-vs-column-in-excel-what-is-the-difference/",
-          "publishedOn": "2021-08-06T21:17:04.000Z",
-          "wordCount": 754,
-          "title": "Row VS Column in Excel – What is the Difference?"
-        },
-        {
-          "id": "6107c0593306a507d1bfc565",
-          "author": null,
-          "description": "If you've created an empty table in your database you'll need to add records to it. In this article you will learn how you can add records to your tables using the INSERT statement in SQL. Keep in mind that if the syntax presented here doesn't work, you can check",
-          "link": "https://www.freecodecamp.org/news/insert-into-sql-sql-insert-statement-example/",
-          "publishedOn": "2021-08-06T16:10:39.000Z",
-          "wordCount": 837,
-          "title": "Insert Into SQL – SQL Insert Statement Example"
-        },
-        {
-          "id": "610658bf3306a507d1bfc110",
-          "author": null,
-          "description": "There are times in JavaScript where you might consider using a switch statement instead of an if else statement.   switch statements can have a cleaner syntax over complicated if else statements.  Take a look at the example below – instead of using this long if else statement, you might choose to",
-          "link": "https://www.freecodecamp.org/news/javascript-switch-case-js-switch-statement-example/",
-          "publishedOn": "2021-08-06T15:18:55.000Z",
-          "wordCount": 1278,
-          "title": "JavaScript Switch Case – JS Switch Statement Example"
         }
       ]
     },
@@ -945,6 +909,15 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/chrome-edge-provide-a-highly-visible-focus-outlines/",
+          "author": null,
+          "description": "Adrian Roselli shared that Chrome and Edge provide highly visible focus outlines.\nGo to their accessibility settings pages to turn on the feature:\nChrome: chrome://settings/accessibility\nEdge starting with v94: edge://settings/accessibility\n\n\n          \n            \nWhen turned on, you see that focused elements receive an additional border and box-shadow.\n\n\n\n\n          \n            \nI haven't decided yet if I keep highly visible focus outlines turned on in Chrome/Edge, but I'd wish Firefox would offer a similar feature or improve their focus outlines at some point.\n(the tiny dotted line bugs me for years by now 🙈)\nEdit: Šime pointed out that you can change Firefox' focus outline by navigating to about:config and changing browser.display.focus_ring_style to 0 and browser.display.focus_ring_width to 4. 👏\n\n\n\n\n          \n            \n              \n              \n            \n          \n        \n      \n    \n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/chrome-edge-provide-a-highly-visible-focus-outlines/",
+          "publishedOn": "2021-09-04T22:00:00.000Z",
+          "wordCount": 331,
+          "title": "Chrome and Edge provide a highly visible focus outlines (#tilPost)"
+        },
         {
           "id": "https://www.stefanjudis.com/notes/how-to-focus-an-already-open-browser-tab-chromium-and-macos/",
           "author": null,

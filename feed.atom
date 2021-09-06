@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-05T00:21:37.918Z</updated>
+    <updated>2021-09-06T00:23:18.680Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chrome and Edge provide a highly visible focus outlines (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/chrome-edge-provide-a-highly-visible-focus-outlines/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/chrome-edge-provide-a-highly-visible-focus-outlines/"/>
+        <updated>2021-09-04T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Adrian Roselli shared that Chrome and Edge provide highly visible focus outlines.
+Go to their accessibility settings pages to turn on the feature:
+Chrome: chrome://settings/accessibility
+Edge starting with v94: edge://settings/accessibility
+
+
+          
+            
+When turned on, you see that focused elements receive an additional border and box-shadow.
+
+
+
+
+          
+            
+I haven't decided yet if I keep highly visible focus outlines turned on in Chrome/Edge, but I'd wish Firefox would offer a similar feature or improve their focus outlines at some point.
+(the tiny dotted line bugs me for years by now 🙈)
+Edit: Šime pointed out that you can change Firefox' focus outline by navigating to about:config and changing browser.display.focus_ring_style to 0 and browser.display.focus_ring_width to 4. 👏
+
+
+
+
+          
+            
+              
+              
+            
+          
+        
+      
+    
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — ☕ Ffrothi Coffi]]></title>
         <id>612a9bc159eedf3e7558896b</id>
@@ -1263,46 +1308,6 @@ Marco Biedermann pointed out that custom media queries are part of the postcss-p
         <summary type="html"><![CDATA[This week we draw from memory, watch the video inception, take a pop-up vacation, order some pants, rewatch Brazil, and prank a llama.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Update Statement – Update Query in SQL]]></title>
-        <id>61067c973306a507d1bfc1ba</id>
-        <link href="https://www.freecodecamp.org/news/sql-update-statement-update-query-in-sql/"/>
-        <updated>2021-08-06T21:25:14.000Z</updated>
-        <summary type="html"><![CDATA[Once you have created a table in a database, it will rarely need to stay the same forever. You will likely need to modify the records in it.  And to help you do that, there is a useful statement, aptly named UPDATE, that you can use to change the records]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Row VS Column in Excel – What is the Difference?]]></title>
-        <id>610cebc13306a507d1bfeca9</id>
-        <link href="https://www.freecodecamp.org/news/row-vs-column-in-excel-what-is-the-difference/"/>
-        <updated>2021-08-06T21:17:04.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Excel displays data in tabular format. This means that information is arranged in a table consisting of rows and columns.  Rows and columns are different properties that together make up a table.  These are the two most important features of Excel that allow users to store and manipulate their]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insert Into SQL – SQL Insert Statement Example]]></title>
-        <id>6107c0593306a507d1bfc565</id>
-        <link href="https://www.freecodecamp.org/news/insert-into-sql-sql-insert-statement-example/"/>
-        <updated>2021-08-06T16:10:39.000Z</updated>
-        <summary type="html"><![CDATA[If you've created an empty table in your database you'll need to add records to it. In this article you will learn how you can add records to your tables using the INSERT statement in SQL. Keep in mind that if the syntax presented here doesn't work, you can check]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Switch Case – JS Switch Statement Example]]></title>
-        <id>610658bf3306a507d1bfc110</id>
-        <link href="https://www.freecodecamp.org/news/javascript-switch-case-js-switch-statement-example/"/>
-        <updated>2021-08-06T15:18:55.000Z</updated>
-        <summary type="html"><![CDATA[There are times in JavaScript where you might consider using a switch statement instead of an if else statement.   switch statements can have a cleaner syntax over complicated if else statements.  Take a look at the example below – instead of using this long if else statement, you might choose to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
