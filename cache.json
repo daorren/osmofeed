@@ -12,6 +12,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "5f9c986d740569d1a4ca1a04",
+          "author": null,
+          "description": "Nine years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, close to 1,000 schools around the world have created thousands of free online courses. I’ve compiled this list of 700 such free online courses that you can start this month.",
+          "link": "https://www.freecodecamp.org/news/free-online-programming-cs-courses/",
+          "publishedOn": "2021-09-06T07:04:00.000Z",
+          "wordCount": 6433,
+          "title": "700 Free Online Programming &amp; Computer Science Courses You Can Start This September"
+        },
+        {
           "id": "61320541d6679a07b7d416a2",
           "author": null,
           "description": "You use the HTML select tag to create drop-down menus so that users can select the value they want. It is an instrumental feature in collecting data to be sent to a server.  The select tag normally goes within a form element, with the items to choose from coded within",
@@ -892,15 +901,6 @@
           "publishedOn": "2021-08-14T21:31:33.000Z",
           "wordCount": 1463,
           "title": "Weekend Reading — 📖 Open Book Bar"
-        },
-        {
-          "id": "6105ccfba21a31061c1d045f",
-          "author": "Assaf Arkin",
-          "description": "This week we draw from memory, watch the video inception, take a pop-up vacation, order some pants, rewatch Brazil, and prank a llama.",
-          "link": "https://labnotes.org/weekend-reading-to-prank-a-llama/",
-          "publishedOn": "2021-08-07T18:28:52.000Z",
-          "wordCount": 1459,
-          "title": "Weekend Reading —🦙 To Prank a Llama"
         }
       ]
     },
@@ -909,6 +909,15 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-35/",
+          "author": null,
+          "description": "Moin moin, friends. 👋\n\nI'm late with sending this newsletter because I spent my weekend watching great shows. Netflix released new \"Casa de papel\" (Money heist) episodes, and they were so good. The show's almost too thrilling for me, but wow – I was super into it.\nSo! Before jumping into nerdy stuff, let's look at some beautiful street art.\n\n\n\n\n          \n            \nThis week's Web Weekly includes:\nfun coding fonts\nmanual accessibility testing\nonline learning tools\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nReady? Steady. Go!\nQuick bytes\n\ndatetime-local support is coming to Firefox 93.\nHow to hide VS Code snippets.\nHTMLElement.innerText transforms line breaks to br elements.\nHow to enable high-visible focus outlines in Chrome/Edge.\nFun coding fonts\n\n\n\n\n\n …",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-35/",
+          "publishedOn": "2021-09-05T22:00:00.000Z",
+          "wordCount": 875,
+          "title": "Web Weekly #35 (#blogPost)"
+        },
         {
           "id": "https://www.stefanjudis.com/today-i-learned/chrome-edge-provide-a-highly-visible-focus-outlines/",
           "author": null,
@@ -998,15 +1007,6 @@
           "publishedOn": "2021-08-08T22:00:00.000Z",
           "wordCount": 1006,
           "title": "Web Weekly #31 (#blogPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/can-we-have-custom-media-queries-please/",
-          "author": null,
-          "description": "Today I discovered an exciting section in the CSS media queries Level 5 spec. The custom media queries section explains how to define and reuse aliases for media queries. Why would you need that?\nWell... if you're using CSS custom properties and wanted to use them in a media query, you probably discovered that you can't use custom properties in this context. CSS custom properties weren't designed for that use case. Bummer!\n:root {\n  --width: 20em;\n}\n\n/* that doesn't work :/ */\n@media (min-width: var(--width)) {\n}\n\n\nYou could now rely on tools such as Sass and introduce another non-native variable system to clean up your media queries, but yeah... this approach is not great!\nBut here's the solution – say hello to custom media queries!\n@custom-media --narrow-window (max-width: 30em);\n\n@media (--narrow-window) {\n  /* narrow window styles */\n}\n\nIsn't this beautiful? I think many web developers are waiting for that for quite some time. But here's the sad news: you can't use custom media queries today because it's only future music.\nI googled around for a few minutes, and apparently, custom media queries are in the spec for years. There doesn't seem to be much interest in implementing it, though. Neither MDN nor caniuse.com knows about the feature. :/\nIf you want to use it today, leverage PostCSS and the Custom Media plugin. That's better than nothing, but hey... can we have custom media queries, please?\nEdits and comments\n\n\nAdam Argyle filed a Chromium feature request for it now. 🎉 You can give your vote here.\nMarco Biedermann pointed out that custom media queries are part of the postcss-present-env stage 1.\n\n\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/notes/can-we-have-custom-media-queries-please/",
-          "publishedOn": "2021-08-07T22:00:00.000Z",
-          "wordCount": 463,
-          "title": "Can we have custom media queries, please? (#note)"
         }
       ]
     }

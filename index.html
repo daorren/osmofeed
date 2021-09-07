@@ -16,6 +16,78 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-09-06">2021-09-06</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.freecodecamp.org/news">freeCodeCamp.org</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">700 Free Online Programming &amp; Computer Science Courses You Can Start This September</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/free-online-programming-cs-courses/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(21 min)</span>
+                    <span>Nine years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, close to 1,000 schools around the world have created thousands of free online courses. I’ve compiled this list of 700 such free online courses that you can start this month.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-09-05">2021-09-05</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.stefanjudis.com/rss.xml">Stefan Judis Web Development</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Web Weekly #35 (#blogPost)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/blog/web-weekly-35/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>Moin moin, friends. 👋
+
+I&#x27;m late with sending this newsletter because I spent my weekend watching great shows. Netflix released new &quot;Casa de papel&quot; (Money heist) episodes, and they were so good. The show&#x27;s almost too thrilling for me, but wow – I was super into it.
+So! Before jumping into nerdy stuff, let&#x27;s look at some beautiful street art.
+
+
+
+
+          
+            
+This week&#x27;s Web Weekly includes:
+fun coding fonts
+manual accessibility testing
+online learning tools
+... and, as always, GitHub repositories, a new Tiny Helper and some music.
+Ready? Steady. Go!
+Quick bytes
+
+datetime-local support is coming to Firefox 93.
+How to hide VS Code snippets.
+HTMLElement.innerText transforms line breaks to br elements.
+How to enable high-visible focus outlines in Chrome/Edge.
+Fun coding fonts
+
+
+
+
+
+ …</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2021-09-04">2021-09-04</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -1726,81 +1798,9 @@ Before we jump into web st…</span>
       </li>
     </ul>
   </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-08-07">2021-08-07</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://labnotes.org/">Labnotes (by Assaf Arkin)</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Weekend Reading —🦙 To Prank a Llama</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://labnotes.org/weekend-reading-to-prank-a-llama/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(5 min)</span>
-                    <span>This week we draw from memory, watch the video inception, take a pop-up vacation, order some pants, rewatch Brazil, and prank a llama.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.stefanjudis.com/rss.xml">Stefan Judis Web Development</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Can we have custom media queries, please? (#note)</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/notes/can-we-have-custom-media-queries-please/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>Today I discovered an exciting section in the CSS media queries Level 5 spec. The custom media queries section explains how to define and reuse aliases for media queries. Why would you need that?
-Well... if you&#x27;re using CSS custom properties and wanted to use them in a media query, you probably discovered that you can&#x27;t use custom properties in this context. CSS custom properties weren&#x27;t designed for that use case. Bummer!
-:root {
-  --width: 20em;
-}
-
-/* that doesn&#x27;t work :/ */
-@media (min-width: var(--width)) {
-}
-
-
-You could now rely on tools such as Sass and introduce another non-native variable system to clean up your media queries, but yeah... this approach is not great!
-But here&#x27;s the solution – say hello to custom media queries!
-@custom-media --narrow-window (max-width: 30em);
-
-@media (--narrow-window) {
-  /* narrow window styles */
-}
-
-Isn&#x27;t this beautiful? I think many web developers are waiting for that for quite some time. But here&#x27;s the sad news: you can&#x27;t use custom media queries today because it&#x27;s only future music.
-I googled around for a few minutes, and apparently, custom media queries are in the spec for years. There doesn&#x27;t seem to be much interest in implementing it, though. Neither MDN nor caniuse.com knows about the feature. :/
-If you want to use it today, leverage PostCSS and the Custom Media plugin. That&#x27;s better than nothing, but hey... can we have custom media queries, please?
-Edits and comments
-
-
-Adam Argyle filed a Chromium feature request for it now. 🎉 You can give your vote here.
-Marco Biedermann pointed out that custom media queries are part of the postcss-present-env stage 1.
-
-
-
-
-          
-          
-            Reply to Stefan</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-09-06T00:23:18.659Z">2021-09-06T00:23:18.659Z</time>
+    <time id="build-timestamp" datetime="2021-09-07T00:19:40.299Z">2021-09-07T00:19:40.299Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.0</a></span>
   </footer>
   <script src="index.js"></script>

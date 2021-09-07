@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-06T00:23:18.680Z</updated>
+    <updated>2021-09-07T00:19:40.344Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[700 Free Online Programming &amp; Computer Science Courses You Can Start This September]]></title>
+        <id>5f9c986d740569d1a4ca1a04</id>
+        <link href="https://www.freecodecamp.org/news/free-online-programming-cs-courses/"/>
+        <updated>2021-09-06T07:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Nine years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, close to 1,000 schools around the world have created thousands of free online courses. I’ve compiled this list of 700 such free online courses that you can start this month.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #35 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-35/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-35/"/>
+        <updated>2021-09-05T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Moin moin, friends. 👋
+
+I'm late with sending this newsletter because I spent my weekend watching great shows. Netflix released new "Casa de papel" (Money heist) episodes, and they were so good. The show's almost too thrilling for me, but wow – I was super into it.
+So! Before jumping into nerdy stuff, let's look at some beautiful street art.
+
+
+
+
+          
+            
+This week's Web Weekly includes:
+fun coding fonts
+manual accessibility testing
+online learning tools
+... and, as always, GitHub repositories, a new Tiny Helper and some music.
+Ready? Steady. Go!
+Quick bytes
+
+datetime-local support is coming to Firefox 93.
+How to hide VS Code snippets.
+HTMLElement.innerText transforms line breaks to br elements.
+How to enable high-visible focus outlines in Chrome/Edge.
+Fun coding fonts
+
+
+
+
+
+ …]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chrome and Edge provide a highly visible focus outlines (#tilPost)]]></title>
         <id>https://www.stefanjudis.com/today-i-learned/chrome-edge-provide-a-highly-visible-focus-outlines/</id>
@@ -1255,59 +1303,6 @@ I really like this approach of considering "the bigger picture" and will try to 
 Before we jump into web st…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can we have custom media queries, please? (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/can-we-have-custom-media-queries-please/</id>
-        <link href="https://www.stefanjudis.com/notes/can-we-have-custom-media-queries-please/"/>
-        <updated>2021-08-07T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today I discovered an exciting section in the CSS media queries Level 5 spec. The custom media queries section explains how to define and reuse aliases for media queries. Why would you need that?
-Well... if you're using CSS custom properties and wanted to use them in a media query, you probably discovered that you can't use custom properties in this context. CSS custom properties weren't designed for that use case. Bummer!
-:root {
-  --width: 20em;
-}
-
-/* that doesn't work :/ */
-@media (min-width: var(--width)) {
-}
-
-
-You could now rely on tools such as Sass and introduce another non-native variable system to clean up your media queries, but yeah... this approach is not great!
-But here's the solution – say hello to custom media queries!
-@custom-media --narrow-window (max-width: 30em);
-
-@media (--narrow-window) {
-  /* narrow window styles */
-}
-
-Isn't this beautiful? I think many web developers are waiting for that for quite some time. But here's the sad news: you can't use custom media queries today because it's only future music.
-I googled around for a few minutes, and apparently, custom media queries are in the spec for years. There doesn't seem to be much interest in implementing it, though. Neither MDN nor caniuse.com knows about the feature. :/
-If you want to use it today, leverage PostCSS and the Custom Media plugin. That's better than nothing, but hey... can we have custom media queries, please?
-Edits and comments
-
-
-Adam Argyle filed a Chromium feature request for it now. 🎉 You can give your vote here.
-Marco Biedermann pointed out that custom media queries are part of the postcss-present-env stage 1.
-
-
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading —🦙 To Prank a Llama]]></title>
-        <id>6105ccfba21a31061c1d045f</id>
-        <link href="https://labnotes.org/weekend-reading-to-prank-a-llama/"/>
-        <updated>2021-08-07T18:28:52.000Z</updated>
-        <summary type="html"><![CDATA[This week we draw from memory, watch the video inception, take a pop-up vacation, order some pants, rewatch Brazil, and prank a llama.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
