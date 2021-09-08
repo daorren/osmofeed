@@ -2,10 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-07T00:19:40.344Z</updated>
+    <updated>2021-09-08T00:19:25.654Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is a Function? JavaScript Function Examples]]></title>
+        <id>6132237ad6679a07b7d418ca</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-function-javascript-function-examples/"/>
+        <updated>2021-09-07T23:46:55.000Z</updated>
+        <summary type="html"><![CDATA[Functions are one of the main parts of computer programs.  They are widely used and are one of JavaScript's fundamental building blocks.  In this article, we'll go over the definition of functions and why they are so important. I'll also show you how to get started writing functions in JavaScript.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python String Format – Python S Print Format Example]]></title>
+        <id>612204093bccf807612a575a</id>
+        <link href="https://www.freecodecamp.org/news/python-string-format-python-s-print-format-example/"/>
+        <updated>2021-09-07T23:20:34.000Z</updated>
+        <summary type="html"><![CDATA[In Python, you have a few options to format your strings. In this article, I will go over str.format(), formatted string literals, and template strings.  But first, let's take a look at what is considered to be the "old way" of formatting strings.  What is % string formatting in Python?]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Array.some() Tutorial – How to Iterate Through Elements in an Array]]></title>
+        <id>61320c11d6679a07b7d41704</id>
+        <link href="https://www.freecodecamp.org/news/javascript-array-some-tutorial-how-to-iterate-through-elements-in-an-array/"/>
+        <updated>2021-09-07T22:14:16.000Z</updated>
+        <summary type="html"><![CDATA[When you're working with an array in JavaScript, sometimes you might just want to check if at least one element inside that array passes a test. And you might not care about any other subsequent matches.  In such a case, you should use the some() JavaScript method. So let's see]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Tables – Table Tutorial with Example Code]]></title>
+        <id>6114c91072231b077cdae3f6</id>
+        <link href="https://www.freecodecamp.org/news/html-tables-table-tutorial-with-css-example-code/"/>
+        <updated>2021-09-07T21:17:18.000Z</updated>
+        <summary type="html"><![CDATA[When you're building a project that needs to represent data visually, you will need a good way to display the information so it's easy to read and understand.  Now, depending on the type of data, you can select between different representation methods using HTML elements.  In most cases, tables are]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular *ngFor and *ngIf Directives Explained for Beginners]]></title>
+        <id>61330342d6679a07b7d41de1</id>
+        <link href="https://www.freecodecamp.org/news/angular-ngfor-and-ngif-explained/"/>
+        <updated>2021-09-07T20:45:34.000Z</updated>
+        <summary type="html"><![CDATA[*ngIf and *ngFor can help you keep your Angular code clean, simple, and effective. So, let's learn what *ngFor and *ngIf are all about. What is *ngFor?Let's talk about *ngFor first. You use the *ngFor directive to traverse over an array object and display the data in the UI.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Test Serverless Applications in AWS]]></title>
+        <id>61327c7fd6679a07b7d41b17</id>
+        <link href="https://www.freecodecamp.org/news/how-to-test-serverless-applications-in-aws/"/>
+        <updated>2021-09-07T18:33:36.000Z</updated>
+        <summary type="html"><![CDATA[Over the past few years, serverless architecture has become very popular. This is largely because it has removed the burden of managing infrastructure, such as servers, storage, databases, scalability, and so on.  When people first started using the term "serverless," it created some confusion in the industry. Some]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Translation Month – Help Us Translate freeCodeCamp into Your Native Language]]></title>
+        <id>61350ccad6679a07b7d4314c</id>
+        <link href="https://www.freecodecamp.org/news/world-translation-month-event/"/>
+        <updated>2021-09-07T17:37:37.000Z</updated>
+        <summary type="html"><![CDATA[We believe that everyone deserves to have free programming education in their own native language. So we are expanding International Translation Day (September 30th) into a full month-long effort. Over the past few years, hundreds of volunteer contributors have worked to translate freeCodeCamp into major world languages. In February, Quincy]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Create File – How to Append and Write to a Text File]]></title>
+        <id>61307fb1d6679a07b7d4061e</id>
+        <link href="https://www.freecodecamp.org/news/python-create-file-how-to-append-and-write-to-a-text-file/"/>
+        <updated>2021-09-07T16:44:25.000Z</updated>
+        <summary type="html"><![CDATA[In coding, files are used to store data. Then you can easily access that data at any point.  Reading, writing, and editing files in Python is a common task, since the language provides us with built-in functions that allow us to do so.  In this article, I'll create a simple]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Vue 3, a Front-End JavaScript Framework]]></title>
+        <id>613784fa581b610782a917ce</id>
+        <link href="https://www.freecodecamp.org/news/vue-3-full-course/"/>
+        <updated>2021-09-07T15:37:36.000Z</updated>
+        <summary type="html"><![CDATA[Vue is one of the more popular front-end JavaScirpt frameworks. It makes it simpler to create powerful websites. We just released a Vue course on the freeCodeCamp.org YouTube channel that will teach you the latest version of this progressive JavaScript framework. Gwendolyn Faraday developed this course. She previously created]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Graphic Design? The Graphic Designer Job Explained in Plain English]]></title>
+        <id>610655073306a507d1bfc0d2</id>
+        <link href="https://www.freecodecamp.org/news/what-is-graphic-design-the-graphic-designer-job-explained-in-plain-english/"/>
+        <updated>2021-09-07T15:08:49.000Z</updated>
+        <summary type="html"><![CDATA[Magazine covers, business logos, and book covers are all common examples of graphic design. But what is graphic design? In this article, I'll explain what graphic design is, discuss different areas of graphic design, provide helpful learning resources, and talk about salaries for designers.  What is Graphic Design?Graphic Design]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Lab’s Quest to Build Space-Time Out of Quantum Particles]]></title>
+        <id>https://www.quantamagazine.org/?p=108435</id>
+        <link href="https://www.quantamagazine.org/one-labs-quest-to-build-space-time-out-of-quantum-particles-20210907/"/>
+        <updated>2021-09-07T05:43:46.000Z</updated>
+        <summary type="html"><![CDATA[For over two decades, physicists have pondered how the fabric of space-time may emerge from some kind of quantum entanglement. In Monika Schleier-Smith’s lab at Stanford University, the thought experiment is becoming real.            
+The post One Lab’s Quest to Build Space-Time Out of Quantum Particles first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Adam Becker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[700 Free Online Programming &amp; Computer Science Courses You Can Start This September]]></title>
         <id>5f9c986d740569d1a4ca1a04</id>
@@ -1285,24 +1396,6 @@ Quick heads-up: Avif support is coming to Firefox. 🎉 It's only a matter of ti
 The post Physicists Create a Bizarre ‘Wigner Crystal’ Made Purely of Electrons first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Karmela Padavic-Callaghan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #31 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-31/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-31/"/>
-        <updated>2021-08-08T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dobré Ráno, party people!
-
-I'm a little late with this newsletter this week because I spent my weekend on a boat, in a beer garden and in a Karaoke bar. And all that led to a very slow Sunday. 🙈
-Other than that, I'm participating in leadership coaching right now, and last week I learned about a new approach to decision-making. My coach and I discussed three ways/lenses to look at conflicts, decisions and the world.
-The reverse lens: “What would the other person in this conflict say?"
-The long lens: "How will I look at this problem in six months?"
-The wide lens: "How can I learn and grow from the situation?"
-I really like this approach of considering "the bigger picture" and will try to use it going forward. Let's make less hot-headed and short-sighted decisions!
-Before we jump into web st…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
