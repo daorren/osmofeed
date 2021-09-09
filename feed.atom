@@ -2,10 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-08T00:19:25.654Z</updated>
+    <updated>2021-09-09T00:21:55.898Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Span VS Div HTML Tags – What is the Difference?]]></title>
+        <id>6138f291852f4307d3729b64</id>
+        <link href="https://www.freecodecamp.org/news/span-vs-div-html-tags-what-is-the-difference/"/>
+        <updated>2021-09-08T21:08:38.000Z</updated>
+        <summary type="html"><![CDATA[If you inspect a web page with your browser's developer tools, you'll likely see a bunch of nested div tags, and possibly some content wrapped in a span tag.  Similar content is usually grouped together by these two container elements – span and div. You can use them both as containers,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress Installation Guide – How to Get Started with WordPress + the Best Plugins]]></title>
+        <id>6138218b581b610782a91de7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-wordpress/"/>
+        <updated>2021-09-08T18:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Over 40% of all websites on the internet are powered by WordPress, making it the world’s top choice when it comes to creating a website. Many people and businesses choose to create their websites with WordPress because of its versatility, speed, and ease of use. WordPress is also Open]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variable Scope in C – Local and Global Scope Explained]]></title>
+        <id>61345caed6679a07b7d42d3e</id>
+        <link href="https://www.freecodecamp.org/news/scope-of-variables-in-c-local-and-global-scope-explained/"/>
+        <updated>2021-09-08T16:40:21.000Z</updated>
+        <summary type="html"><![CDATA[In programming, you'll often have to deal with the scope of a variable. The scope of a variable determines whether or not you can access and modify it inside a specific block of code. In this tutorial, you'll learn about variable scope in the C programming language. You'll see some]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karen Miga Fills In the Missing Pieces of Our Genome]]></title>
+        <id>https://www.quantamagazine.org/?p=108446</id>
+        <link href="https://www.quantamagazine.org/karen-miga-fills-in-the-missing-pieces-of-our-genome-20210908/"/>
+        <updated>2021-09-08T16:28:58.000Z</updated>
+        <summary type="html"><![CDATA[Driven by her fascination with highly repetitive, hard-to-read parts of our DNA, Karen Miga led a coalition of researchers to finish sequencing the human genome after almost two decades.            
+The post Karen Miga Fills In the Missing Pieces of Our Genome first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Carrie Arnold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event Bubbling and Event Catching in JavaScript and React – A Beginner&#x27;s Guide]]></title>
+        <id>6136666dd6679a07b7d437d0</id>
+        <link href="https://www.freecodecamp.org/news/event-propagation-event-bubbling-event-catching-beginners-guide/"/>
+        <updated>2021-09-08T15:37:42.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll help you understand event bubbling and event catching like a pro. I created this resource to help you understand event propagation and how it works in JavaScript and React in a clear and comprehensible way. ❤ Once you've gone through this thorough introduction to event bubbling and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Solve Einstein&#x27;s Five House Riddle]]></title>
+        <id>61366f23d6679a07b7d4380a</id>
+        <link href="https://www.freecodecamp.org/news/einsteins-riddle/"/>
+        <updated>2021-09-08T15:36:22.000Z</updated>
+        <summary type="html"><![CDATA[I recently learned about a logic puzzle online that apparently only 2% of people can solve. There are a few different incarnations of it – some have slightly different wording, different names, or change the items in the riddle slightly. But they are all the exact same core problem. The riddle]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Algorithms and Data Structures in Python]]></title>
+        <id>6138c58c852f4307d372989e</id>
+        <link href="https://www.freecodecamp.org/news/learn-algorithms-and-data-structures-in-python/"/>
+        <updated>2021-09-08T14:23:56.000Z</updated>
+        <summary type="html"><![CDATA[Algorithms and data structures are important for most programmers to understand. We just released a course on the freeCodeCamp YouTube channel that is a beginner-friendly introduction to common data structures (linked lists, stacks, queues, graphs) and algorithms (search, sorting, recursion, dynamic programming) in Python. This course will help you prepare]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Tutorial – How to Build the 2048 Game in React]]></title>
+        <id>611827fe72231b077cdb021c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-2048-game-in-react/"/>
+        <updated>2021-09-08T01:38:41.000Z</updated>
+        <summary type="html"><![CDATA[Today you will learn how to build your own clone of the 2048 game in React.  What makes this article unique is that we will focus on creating delightful animations. Aside from React, we will use TypeScript and we'll make some CSS transitions using LESS.  We are only going to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Span HTML – How to Use the Span Tag with CSS]]></title>
+        <id>61372fd1d6679a07b7d43e77</id>
+        <link href="https://www.freecodecamp.org/news/span-html-how-to-use-the-span-tag-with-css/"/>
+        <updated>2021-09-08T01:18:28.000Z</updated>
+        <summary type="html"><![CDATA[You can use the HTML span tag as a container to group inline elements together so you can style or manipulate them with JavaScript.  In this article, I will show you how to use the span tag to make a certain part of your content distinct from the rest. Then]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a Function? JavaScript Function Examples]]></title>
         <id>6132237ad6679a07b7d418ca</id>
@@ -34,6 +125,50 @@
         <summary type="html"><![CDATA[When you're working with an array in JavaScript, sometimes you might just want to check if at least one element inside that array passes a test. And you might not care about any other subsequent matches.  In such a case, you should use the some() JavaScript method. So let's see]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to configure VS Code Bracket Colors (#snippet)]]></title>
+        <id>https://www.stefanjudis.com/snippets/how-to-configure-vs-code-bracket-colors/</id>
+        <link href="https://www.stefanjudis.com/snippets/how-to-configure-vs-code-bracket-colors/"/>
+        <updated>2021-09-07T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bracket Colorization became a native VS Code feature with the August 2021 update, and it replaces the popular Bracket Pair Colorizer extension. The reason behind the new native functionality is that the extension suffered from bad performance when colorizing large files (I never noticed that, but hey... 🤷‍♂️).
+
+
+
+
+
+          
+            
+When I went to my VS Code settings to enable the feature, I couldn't figure out how to configure the bracket colors to match my color theme. Unfortunately, the setting description was not very helpful because it doesn't tell what to put into workbench.colorCustomizations.
+
+
+
+
+          
+            
+Luckily, I found a tweet by Rachel Leggett that describes how to configure the colors using the editorBracketHighlight.foreground keys.
+So here we go with something to copy and paste into your settings.json.
+{
+  "editor.bracketPairColorization.enabled": true,
+  "workbench.colorCustomizations": {
+    "editorBracketHighlight.foreground1": "#5caeef",
+    "editorBracketHighlight.foreground2": "#dfb976",
+    "editorBracketHighlight.foreground3": "#c172d9",
+    "editorBracketHighlight.foreground4": "#4fb1bc",
+    "editorBracketHighlight.foreground5": "#97c26c",
+    "editorBracketHighlight.foreground6": "#abb2c0",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#db6165"
+  },
+}
+
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
