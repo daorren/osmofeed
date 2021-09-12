@@ -1112,16 +1112,6 @@
           "wordCount": null,
           "title": "How Do New Organs Evolve? A Beetle Gland Shows the Way.",
           "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=107835",
-          "author": "Karmela Padavic-Callaghan",
-          "description": "The unambiguous discovery of a Wigner crystal relied on a novel technique for probing the insides of complex materials.             \nThe post Physicists Create a Bizarre ‘Wigner Crystal’ Made Purely of Electrons first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/physicists-create-a-bizarre-wigner-crystal-made-purely-of-electrons-20210812/",
-          "publishedOn": "2021-08-12T14:04:35.000Z",
-          "wordCount": null,
-          "title": "Physicists Create a Bizarre ‘Wigner Crystal’ Made Purely of Electrons",
-          "itunes": {}
         }
       ]
     },
@@ -1130,6 +1120,15 @@
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
+        {
+          "id": "6133d24efc488562793ae08a",
+          "author": "Assaf Arkin",
+          "description": "This week we crack the naughty word list, reduce drag, make it rain, and use this one hack to improve the relationship with our ISP.",
+          "link": "https://labnotes.org/weekend-reading-if-you-love-someone-let-them-nap/",
+          "publishedOn": "2021-09-11T19:36:58.000Z",
+          "wordCount": 929,
+          "title": "Weekend Reading — 🛏️ If you love someone, let them nap"
+        },
         {
           "id": "612a9bc159eedf3e7558896b",
           "author": "Assaf Arkin",
@@ -1173,6 +1172,15 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/how-to-discard-tabs-to-save-resources-in-chrome-edge-and-firefox/",
+          "author": null,
+          "description": "If you're a tab hoarder like me, you probably noticed that browsers discard inactive browser tabs to save resources eventually. The tabs are still open and visible in the browser UI but are put to sleep and only brought back and reloaded on tab focus.\nToday I found out that there are ways to control if tabs should be discarded and even discard tabs yourself.\nIn Chrome/Edge navigate to about://discards (about is a shorthand to use the same protocol in Chrome and Edge and find all open tabs ready to be controlled.\n\n\n\n\n          \n            \nAll tab entries include an Urgent Discard button to put them to sleep, and you can configure if a particular tab should be auto-discardable, too.\nSimilar functionality will be included in Firefox 94 at about:unloads. The page provides insights into the allocated tab resources and allows you to \"unload\" them one at a time. What's different here is that you can't decide which tabs to unload because the \"unload\" button only discards tabs in a prioritized order. 🤷‍♂️\n\n\n\n          \n            \nAll in all, tab discarding is a handy functionality, and I'll try out discarding all tabs the next time I'm running low on memory or battery. (I can't lose all the tabs...)\nBut configuring \"auto discard\" for each tab, I won't mess with it. Browsers don't discard active tabs like a YouTube music video or the Slack UI, and they're probably smarter at figuring out when an active tab consumes too many resources than I am. 😉\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/how-to-discard-tabs-to-save-resources-in-chrome-edge-and-firefox/",
+          "publishedOn": "2021-09-10T22:00:00.000Z",
+          "wordCount": 474,
+          "title": "How to discard tabs to save resources in Chrome, Edge and Firefox (#tilPost)"
+        },
         {
           "id": "https://www.stefanjudis.com/snippets/how-to-configure-vs-code-bracket-colors/",
           "author": null,
