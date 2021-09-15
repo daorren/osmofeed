@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-14T00:22:48.197Z</updated>
+    <updated>2021-09-15T00:20:51.107Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python f-String Tutorial – String Formatting in Python Explained with Code Examples]]></title>
+        <id>613b1a82852f4307d372ae6b</id>
+        <link href="https://www.freecodecamp.org/news/python-f-strings-tutorial-how-to-use-f-strings-for-string-formatting/"/>
+        <updated>2021-09-14T19:21:11.000Z</updated>
+        <summary type="html"><![CDATA[When you're formatting strings in Python, you're probably used to using the format() method.  But in Python 3.6 and later, you can use f-Strings instead. f-Strings, also called formatted string literals, have a more succinct syntax and can be super helpful in string formatting. In this tutorial, you'll learn]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Business Case for Open Source – Why You Should Contribute to the Open Source Community]]></title>
+        <id>612fa993d6679a07b7d402ab</id>
+        <link href="https://www.freecodecamp.org/news/a-business-case-for-open-source/"/>
+        <updated>2021-09-14T18:59:46.000Z</updated>
+        <summary type="html"><![CDATA[As an employed software developer today, there's a 96% chance that you're building company software using some sort of open-source technology.  You might be using VSCode, a free open-source text editor primarily maintained by Microsoft, or React, a free and open-source front-end JavaScript library, among many other tools. Companies today]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Save a Google Doc as a PDF]]></title>
+        <id>61407a67852f4307d372d4a1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-save-a-google-doc-as-a-pdf/"/>
+        <updated>2021-09-14T17:58:28.000Z</updated>
+        <summary type="html"><![CDATA[Google Docs is an essential productivity tool for digital work.  This article will cover how to save a Google Doc as a PDF on the Desktop version of Google Docs.  What Is Google Docs Used For? You can use Google Docs for many different tasks.  For example, you can jot]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a GitHub Star – Tips from Actual GitHub Stars]]></title>
+        <id>61405cf6852f4307d372d219</id>
+        <link href="https://www.freecodecamp.org/news/github-stars-answer-the-communitys-most-asked-questions/"/>
+        <updated>2021-09-14T16:41:32.000Z</updated>
+        <summary type="html"><![CDATA[Ever since I became a GitHub Star and GitHub Star of the year in 2020, many people have asked me how they can become one.   There is no definitive checklist and you cannot apply or nominate yourself. But the GitHub Stars Program website gives some useful insight into what GitHub]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Junior Software Engineer in 6 months]]></title>
+        <id>613b7a2c852f4307d372b3a9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-become-a-junior-software-engineer-in-6-months/"/>
+        <updated>2021-09-14T16:19:39.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! 🌈 The seasons are changing, and September is the perfect month to focus on new goals and start new adventures. Maybe you've been on vacation, enjoyed the sun 🌞 or the mountains, and you're ready to dive back into work. New adventures are sometimes unexpected. But I hope that when]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Are There So Many Programming Languages?]]></title>
+        <id>613c7719852f4307d372b9b1</id>
+        <link href="https://www.freecodecamp.org/news/why-are-there-so-many-programming-languages/"/>
+        <updated>2021-09-14T16:11:17.000Z</updated>
+        <summary type="html"><![CDATA[There are so many programming languages out there, and more are developed every few years. We have Python, JavaScript, PHP, C++, Ruby, Java, C#, and way too many more to list here.  So you might be wondering – why are there so many programming languages, and do we even need all]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Ancient War Trickery Is Alive in Math Today]]></title>
+        <id>https://www.quantamagazine.org/?p=108656</id>
+        <link href="https://www.quantamagazine.org/how-ancient-war-trickery-is-alive-in-math-today-20210914/"/>
+        <updated>2021-09-14T13:37:22.000Z</updated>
+        <summary type="html"><![CDATA[Legend says the Chinese military once used a mathematical ruse to conceal its troop numbers. The technique relates to many deep areas of modern math research.             
+The post How Ancient War Trickery Is Alive in Math Today first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Lakshmi Chandrasekaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Essentials for Hackers]]></title>
+        <id>61409b8d852f4307d372d5cd</id>
+        <link href="https://www.freecodecamp.org/news/linux-essentials-for-hackers/"/>
+        <updated>2021-09-14T13:03:08.000Z</updated>
+        <summary type="html"><![CDATA[If you want to get into the growing field of cyber security and ethical hacking, you are going to need to understand how to use Linux. We just released a free course on the freeCodeCamp.org YouTube channel that will teach you all the common Linux skills used in cyber-security]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Insert a Checkbox in Word – How to Add a Checkmark in Microsoft Word]]></title>
         <id>613fbc95852f4307d372cf35</id>
