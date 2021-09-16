@@ -12,6 +12,69 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "613f3c9f852f4307d372c7d8",
+          "author": null,
+          "description": "In this article, I will show how to create, open, and edit HTML files in TextEdit.  What is TextEdit?TextEdit is a free word processor that comes preinstalled with your Mac computer. It has been around for over 25 years and it is an easy way to open and read",
+          "link": "https://www.freecodecamp.org/news/web-page-text-editor-how-to-open-html-code-in-mac-textedit/",
+          "publishedOn": "2021-09-15T22:29:38.000Z",
+          "wordCount": 535,
+          "title": "Web Page Text Editor – How to Open HTML Code in Mac TextEdit"
+        },
+        {
+          "id": "6141fe01852f4307d372e123",
+          "author": null,
+          "description": "JavaScript uses three dots (...) for both the rest and spread operators. But these two operators are not the same. The main difference between rest and spread is that the rest operator puts the rest of some specific user-supplied values into a JavaScript array. But the spread syntax expands iterables into",
+          "link": "https://www.freecodecamp.org/news/javascript-rest-vs-spread-operators/",
+          "publishedOn": "2021-09-15T22:27:26.000Z",
+          "wordCount": 2896,
+          "title": "JavaScript Rest vs Spread Operator – What’s the Difference?"
+        },
+        {
+          "id": "610662663306a507d1bfc14a",
+          "author": null,
+          "description": "If everything is predictable in a game, that isn't much fun. RNGs, or Random Number Generators, are a way to introduce a touch of randomness and causality you need to spice it up. In this article, we'll learn how random number generators work. How an Analogic Random Number Generator WorksThe",
+          "link": "https://www.freecodecamp.org/news/rng-meaning-what-does-rng-stand-for-in-gaming/",
+          "publishedOn": "2021-09-15T21:55:10.000Z",
+          "wordCount": 1534,
+          "title": "RNG Meaning – What does RNG Stand for in Gaming?"
+        },
+        {
+          "id": "6138552f581b610782a91fb0",
+          "author": null,
+          "description": "Imagine waking up one day to find out that your production systems are down because of a bug that has yet to be traced. One of your worst nightmares right?  And you also discover that you need to compare code from two versions and the pressure is building to restore",
+          "link": "https://www.freecodecamp.org/news/compare-files-with-diff-in-linux/",
+          "publishedOn": "2021-09-15T21:01:00.000Z",
+          "wordCount": 896,
+          "title": "What&#x27;s the Diff? How Use Linux diff to Compare Files and Apply Changes with patch"
+        },
+        {
+          "id": "6140ae19852f4307d372d73b",
+          "author": null,
+          "description": "Transparency plays an important role in front end development. It lets you choose how transparent the elements on your web pages appear.  You can adjust transparency in several ways – because of course, in CSS, there are multiple ways to do the same thing.  The CSS opacity property is the first",
+          "link": "https://www.freecodecamp.org/news/transparent-background-image-opacity-in-css-and-html/",
+          "publishedOn": "2021-09-15T17:05:14.000Z",
+          "wordCount": 1084,
+          "title": "Transparent Background – Image Opacity in CSS and HTML"
+        },
+        {
+          "id": "613cf859852f4307d372bcef",
+          "author": null,
+          "description": "Building a CSS library might seem like something you'd do out of pure curiosity, just to learn and explore. But it can be so much more than that.  I've seen custom-built CSS libraries used everywhere from big organisations to scrappy young startups.  What is a CSS Library? You can think",
+          "link": "https://www.freecodecamp.org/news/build-a-css-library-with-vitejs/",
+          "publishedOn": "2021-09-15T16:47:22.000Z",
+          "wordCount": 1554,
+          "title": "How to Build a CSS Library with Vite.js"
+        },
+        {
+          "id": "613c6d6f852f4307d372b900",
+          "author": null,
+          "description": "When you're just starting to learn to code, it might feel like it's always a struggle. Your progress seems very slow and it's easy to be discouraged.  In this article, I'll show you some tips and tricks that will help you to learn JavaScript more efficiently. Before we start, we",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-javascript-a-little-faster/",
+          "publishedOn": "2021-09-15T15:57:42.000Z",
+          "wordCount": 992,
+          "title": "How to Learn JavaScript A Little Faster"
+        },
+        {
           "id": "613b1a82852f4307d372ae6b",
           "author": null,
           "description": "When you're formatting strings in Python, you're probably used to using the format() method.  But in Python 3.6 and later, you can use f-Strings instead. f-Strings, also called formatted string literals, have a more succinct syntax and can be super helpful in string formatting. In this tutorial, you'll learn",
@@ -1090,6 +1153,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=108663",
+          "author": "Robin George Andrews",
+          "description": "Deep in the mantle, a branching plume of intensely hot material appears to be the engine powering vast volcanic activity.            \nThe post A Massive Subterranean ‘Tree’ Is Moving Magma to Earth’s Surface first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/a-massive-subterranean-tree-is-moving-magma-to-earths-surface-20210915/",
+          "publishedOn": "2021-09-15T16:26:53.000Z",
+          "wordCount": null,
+          "title": "A Massive Subterranean ‘Tree’ Is Moving Magma to Earth’s Surface",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=108656",
           "author": "Lakshmi Chandrasekaran",
           "description": "Legend says the Chinese military once used a mathematical ruse to conceal its troop numbers. The technique relates to many deep areas of modern math research.             \nThe post How Ancient War Trickery Is Alive in Math Today first appeared on Quanta Magazine",
@@ -1247,16 +1320,6 @@
           "publishedOn": "2021-08-17T14:07:33.000Z",
           "wordCount": null,
           "title": "Computer Scientists Discover Limits of Major Research Algorithm",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=107863",
-          "author": "Viviane Callier",
-          "description": "The evolution of a defensive gland in beetles shows how organs can arise from novel cells carving out new functional niches for their neighbors.            \nThe post How Do New Organs Evolve? A Beetle Gland Shows the Way. first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-do-new-organs-evolve-a-beetle-gland-shows-the-way-20210816/",
-          "publishedOn": "2021-08-16T14:53:25.000Z",
-          "wordCount": null,
-          "title": "How Do New Organs Evolve? A Beetle Gland Shows the Way.",
           "itunes": {}
         }
       ]
