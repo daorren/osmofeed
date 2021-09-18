@@ -22,6 +22,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "613f3cc7852f4307d372c7e4",
+          "author": null,
+          "description": "You might have heard of a CSV file but what does it mean?  In this article, we are going to learn what a CSV file is, and how to open and export them using Microsoft Excel and Google Sheets.  What is a CSV file? CSV stands for Comma Separated Values.",
+          "link": "https://www.freecodecamp.org/news/csv-format-how-to-open-a-csv-file-and-export-it/",
+          "publishedOn": "2021-09-17T18:22:47.000Z",
+          "wordCount": 711,
+          "title": "CSV Format – How to Open a .csv File and Export it"
+        },
+        {
           "id": "613f6bc9852f4307d372ca83",
           "author": null,
           "description": "Freelancing can be an incredibly rewarding way to make money online. But it can also be quite difficult if you don't approach it in the right way.  It takes more than a stable internet connection to make a living as a freelancer. In order to make the big bucks, you’",
@@ -1208,24 +1217,6 @@
           "publishedOn": "2021-08-19T12:43:56.000Z",
           "wordCount": 636,
           "title": "Learn the Java Native Interface - Free 28-Hour Course"
-        },
-        {
-          "id": "61135a3472231b077cdad609",
-          "author": null,
-          "description": "If you're a web developer, it's important for you to have a personal portfolio website – especially when you're applying for jobs.  If you have a nice online portfolio site, you'll have a better chance of getting attention from recruiters than if you don't. Instead of sending your CV and asking",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/",
-          "publishedOn": "2021-08-18T18:02:02.000Z",
-          "wordCount": 2883,
-          "title": "How to Build a Portfolio Site with Next.js and TailwindCSS"
-        },
-        {
-          "id": "610d63b33306a507d1bff79f",
-          "author": null,
-          "description": "You might think that software development is all about writing code, but that's not true. A huge part of the job is communicating with others. And as we all move towards more remote work, written communication is becoming increasingly important. “In their ﬁrst few years on the job, engineers spend",
-          "link": "https://www.freecodecamp.org/news/writing-tips-software-developers/",
-          "publishedOn": "2021-08-18T16:48:00.000Z",
-          "wordCount": 1812,
-          "title": "Writing Tips for Software Developers – How to Become a Better Tech Writer"
         }
       ]
     },
@@ -1444,6 +1435,15 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/how-to-enable-semantic-highlighting-in-vs-code/",
+          "author": null,
+          "description": "Today I learned that the color theme I use (Yi color theme) does not support semantic syntax highlighting. Semantic what?\nSemantic syntax highlighting makes sure your source code is not only beautifully colored, but that used the colors are logical, too.\nAfter learning about this feature, I discovered that my editor's syntax highlighting is very confusing. Functions, methods, arguments and parameters change their color from line to line. I wonder how I never noticed this chaos!\nBut thanks to VS Code, you can enforce semantic highlighting using the editor.semanticHighlighting.enabled setting (read more in the VS Code docs) so that syntactic tokens don't change colors constantly! 🎉\n\n          \n            \nI turned it on for now. Let's find out if code is easier to grasp or if my brain needs unlogical always changing colors. 🤷‍♂️\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/how-to-enable-semantic-highlighting-in-vs-code/",
+          "publishedOn": "2021-09-16T22:00:00.000Z",
+          "wordCount": 328,
+          "title": "How to enable semantic highlighting in VS Code (#tilPost)"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-36/",
           "author": null,

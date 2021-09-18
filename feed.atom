@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-17T00:25:30.046Z</updated>
+    <updated>2021-09-18T00:19:36.247Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSV Format – How to Open a .csv File and Export it]]></title>
+        <id>613f3cc7852f4307d372c7e4</id>
+        <link href="https://www.freecodecamp.org/news/csv-format-how-to-open-a-csv-file-and-export-it/"/>
+        <updated>2021-09-17T18:22:47.000Z</updated>
+        <summary type="html"><![CDATA[You might have heard of a CSV file but what does it mean?  In this article, we are going to learn what a CSV file is, and how to open and export them using Microsoft Excel and Google Sheets.  What is a CSV file? CSV stands for Comma Separated Values.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Start Freelancing – Tips for Launching a Successful Freelance Career]]></title>
         <id>613f6bc9852f4307d372ca83</id>
@@ -14,6 +24,28 @@
         <summary type="html"><![CDATA[Freelancing can be an incredibly rewarding way to make money online. But it can also be quite difficult if you don't approach it in the right way.  It takes more than a stable internet connection to make a living as a freelancer. In order to make the big bucks, you’]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to enable semantic highlighting in VS Code (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/how-to-enable-semantic-highlighting-in-vs-code/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/how-to-enable-semantic-highlighting-in-vs-code/"/>
+        <updated>2021-09-16T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today I learned that the color theme I use (Yi color theme) does not support semantic syntax highlighting. Semantic what?
+Semantic syntax highlighting makes sure your source code is not only beautifully colored, but that used the colors are logical, too.
+After learning about this feature, I discovered that my editor's syntax highlighting is very confusing. Functions, methods, arguments and parameters change their color from line to line. I wonder how I never noticed this chaos!
+But thanks to VS Code, you can enforce semantic highlighting using the editor.semanticHighlighting.enabled setting (read more in the VS Code docs) so that syntactic tokens don't change colors constantly! 🎉
+
+          
+            
+I turned it on for now. Let's find out if code is easier to grasp or if my brain needs unlogical always changing colors. 🤷‍♂️
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
@@ -1933,26 +1965,6 @@ The post How Big Data Carried Graph Theory Into New Dimensions first appeared on
         <link href="https://www.freecodecamp.org/news/learn-the-java-native-interface-free-28-hour-course/"/>
         <updated>2021-08-19T12:43:56.000Z</updated>
         <summary type="html"><![CDATA[The Java Native Interface allows Java code to call native libraries written in C and C++. It is helpful when you need to do something that cannot be accomplished with Java alone. We just released a massive 28-Hour course on the freeCodeCamp.org YouTube channel that will take you from]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Portfolio Site with Next.js and TailwindCSS]]></title>
-        <id>61135a3472231b077cdad609</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/"/>
-        <updated>2021-08-18T18:02:02.000Z</updated>
-        <summary type="html"><![CDATA[If you're a web developer, it's important for you to have a personal portfolio website – especially when you're applying for jobs.  If you have a nice online portfolio site, you'll have a better chance of getting attention from recruiters than if you don't. Instead of sending your CV and asking]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing Tips for Software Developers – How to Become a Better Tech Writer]]></title>
-        <id>610d63b33306a507d1bff79f</id>
-        <link href="https://www.freecodecamp.org/news/writing-tips-software-developers/"/>
-        <updated>2021-08-18T16:48:00.000Z</updated>
-        <summary type="html"><![CDATA[You might think that software development is all about writing code, but that's not true. A huge part of the job is communicating with others. And as we all move towards more remote work, written communication is becoming increasingly important. “In their ﬁrst few years on the job, engineers spend]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
