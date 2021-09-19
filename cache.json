@@ -1154,69 +1154,6 @@
           "publishedOn": "2021-08-20T17:21:23.000Z",
           "wordCount": 960,
           "title": "HTML Line Break – How to Break a Line with the HTML &lt;br&gt; Tag"
-        },
-        {
-          "id": "611d56d3e884de07521810f9",
-          "author": null,
-          "description": "At the start of this year, I published a mind map on the Data Science learning roadmap (shown below). Many people found the roadmap useful, my article got translated into different languages, and a large number of folks thanked me for publishing it. Everything was good until a few developers",
-          "link": "https://www.freecodecamp.org/news/first-steps-to-learn-data-science-or-ml-after-the-roadmap/",
-          "publishedOn": "2021-08-20T03:21:20.000Z",
-          "wordCount": 1620,
-          "title": "Programming, Math, and Statistics You Need to Know for Data Science and Machine Learning"
-        },
-        {
-          "id": "611e8bac3bccf807612a34df",
-          "author": null,
-          "description": "When you code in HTML and add some text, you don’t want to leave it like that. You want to make that text look good.  And to do that, you need to change their appearance through the color and font-size properties of CSS.  In this tutorial, I will show",
-          "link": "https://www.freecodecamp.org/news/html-font-style-how-to-change-text-color-and-size-with-an-html-tag/",
-          "publishedOn": "2021-08-19T23:23:07.000Z",
-          "wordCount": 651,
-          "title": "HTML Font Style – How to Change Text Color and Size with an HTML Tag"
-        },
-        {
-          "id": "611d436ee884de0752181044",
-          "author": null,
-          "description": "In CSS, the display property determines how an element looks. It is also a crucial part of the presentation of you HTML code as it has a significant impact on layouts.  In fact, to use the modern Flexbox and Grid models, you need to use the display property before you",
-          "link": "https://www.freecodecamp.org/news/the-css-display-property-display-none-display-table-inline-block-and-more/",
-          "publishedOn": "2021-08-19T20:47:14.000Z",
-          "wordCount": 1716,
-          "title": "The CSS Display Property – Display None, Display Table, Inline Block and More"
-        },
-        {
-          "id": "611e4447e884de0752181578",
-          "author": null,
-          "description": "The term “lexical scope” may seem tricky to grasp at first glance. But it's helpful to understand what each word means. So this article will explain lexical scope by first examining the meaning of “lexical” and “scope”. So, let’s get it started by understanding the term “scope”. What exactly",
-          "link": "https://www.freecodecamp.org/news/javascript-lexical-scope-tutorial/",
-          "publishedOn": "2021-08-19T19:56:48.000Z",
-          "wordCount": 1834,
-          "title": "Lexical Scope in JavaScript – What Exactly Is Scope in JS?"
-        },
-        {
-          "id": "611e3f8ee884de0752181566",
-          "author": null,
-          "description": "In HTML, you can't create an extra blank space after the space ( ) character with the spacebar. If you want 10 blank spaces in your HTML code and you try to add them with the spacebar, you'll only see one space in the browser.  Also, one or more of the words",
-          "link": "https://www.freecodecamp.org/news/html-space-how-to-add-a-non-breaking-space-with-the-nbsp-character-entity/",
-          "publishedOn": "2021-08-19T17:29:46.000Z",
-          "wordCount": 1200,
-          "title": "HTML Space – How to Add a Non-breaking Space with the &amp;nbsp; Character Entity"
-        },
-        {
-          "id": "611d2ad1e884de0752180f58",
-          "author": null,
-          "description": "When ES6 (EmcaScript 2015) came out, it ushered in a whole new set of methods for iterating over an array. And one of the most useful is the map() method. Array.prototype.map() is a built-in array method for iterating through the elements inside an array collection in JavaScript. Think",
-          "link": "https://www.freecodecamp.org/news/array-map-tutorial/",
-          "publishedOn": "2021-08-19T16:16:57.000Z",
-          "wordCount": 1546,
-          "title": "JavaScript Array.map() Tutorial – How to Iterate Through Elements in an Array with map()"
-        },
-        {
-          "id": "6116c31e72231b077cdafc89",
-          "author": null,
-          "description": "The Java Native Interface allows Java code to call native libraries written in C and C++. It is helpful when you need to do something that cannot be accomplished with Java alone. We just released a massive 28-Hour course on the freeCodeCamp.org YouTube channel that will take you from",
-          "link": "https://www.freecodecamp.org/news/learn-the-java-native-interface-free-28-hour-course/",
-          "publishedOn": "2021-08-19T12:43:56.000Z",
-          "wordCount": 636,
-          "title": "Learn the Java Native Interface - Free 28-Hour Course"
         }
       ]
     },
@@ -1374,16 +1311,6 @@
           "wordCount": null,
           "title": "This Physicist Discovered an Escape From Hawking’s Black Hole Paradox",
           "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=108017",
-          "author": "Stephen Ornes",
-          "description": "Researchers are turning to the mathematics of higher-order interactions to better model the complex connections within their data.             \nThe post How Big Data Carried Graph Theory Into New Dimensions first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/",
-          "publishedOn": "2021-08-19T15:37:40.000Z",
-          "wordCount": null,
-          "title": "How Big Data Carried Graph Theory Into New Dimensions",
-          "itunes": {}
         }
       ]
     },
@@ -1392,6 +1319,15 @@
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
+        {
+          "id": "613d0599c5b47a76f1cba7ae",
+          "author": "Assaf Arkin",
+          "description": "This week final_final2.psd, the more emails you send … AI hallucinate us some art, and we learn that squirty cream is a thing.",
+          "link": "https://labnotes.org/weekend-reading-25-fewer-tweets/",
+          "publishedOn": "2021-09-18T18:37:53.000Z",
+          "wordCount": 933,
+          "title": "Weekend Reading — 25% fewer tweets"
+        },
         {
           "id": "6133d24efc488562793ae08a",
           "author": "Assaf Arkin",
@@ -1435,6 +1371,15 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/how-to-enable-beautiful-cursive-fonts-in-your-vs-code-theme/",
+          "author": null,
+          "description": "I'm on a VS Code improvement trip lately (read more about semantic syntax code highlighting here) and continued it by tweaking my coding theme.\nDo you know these beautiful coding themes with fancy-looking cursive fonts? 👇\n\n\n\n          \n            \nI was always jealous of people using them, and today I spent some time figuring out how that works.\nA font with cursive characters and a theme using italics\n\nYou need two things to enable a cursive font in your editor:\na coding theme that leverages italics for particular tokens (not many do)\na font that is primarily monospaced but includes cursive characters for italics\nMy VS Code setup consists of the Yi light/dark coding theme and the FiraCode editor font. And, unfortunately, Yi doesn't use italics and FireCode doesn't include cursive charact…",
+          "link": "https://www.stefanjudis.com/blog/how-to-enable-beautiful-cursive-fonts-in-your-vs-code-theme/",
+          "publishedOn": "2021-09-17T22:00:00.000Z",
+          "wordCount": 646,
+          "title": "How to enable beautiful cursive fonts in your VS Code theme (#blogPost)"
+        },
         {
           "id": "https://www.stefanjudis.com/today-i-learned/how-to-enable-semantic-highlighting-in-vs-code/",
           "author": null,
