@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-19T00:22:14.857Z</updated>
+    <updated>2021-09-20T00:22:57.389Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #37 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-37/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-37/"/>
+        <updated>2021-09-18T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Moin moin! 👋
+
+So, how was your week, friends? I had had a super chilled weekend and had some time to polish some styles on my website. The CSS architecture is such a mess; luckily, only I work on it (YOLO!). Apart from that, I'll be on a Contentful webinar next week, and maybe you want to say Hi!
+This week's Web Weekly includes:
+Resources to level up your VS Code game.
+A project that generates videos with React.
+Reasons to step into leadership.
+... and, as always, GitHub repositories, a new Tiny Helper and some music.
+Something that made me smile
+
+But before we jump into the nerdy things, let me show you what made me laugh this week, and let's look at these weirds books that you can order on Amazon.
+
+
+          
+            
+(Fun fact: the books on this site are made with CSS)
+With that o…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rgba() and hsla() are legacy functions and aliases in modern browsers (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/rgba-and-hsla-are-legacy-and-aliases-in-modern-browsers/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/rgba-and-hsla-are-legacy-and-aliases-in-modern-browsers/"/>
+        <updated>2021-09-18T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I still define my CSS colors in hex values. 💪 rgb(), rgba(), hsl() and hsla() are valuable CSS functions, but it's so cumbersome to convert hex values (#34aa44) to numbers or percentages. That's why I never adopted the color functions.
+The spec even includes a section explaining how to convert RGB to HSL and vice versa.
+My rare usage is why I missed that the CSS Color Module Level 4 spec made rgba() and hsla() redundant.
+The specification introduced two changes:
+rgb()/hsl() accept alpha values.
+Color functions accept space-separared values.
+With rgb()/hsl() accepting transparency values, hsla() and rgba() became legacy functions and are now aliases for rgb()/hsl().
+If you worry about browser support, check MDN. rgb()/hsl() transparency values are well supported!
+The second edition is a new space-separated syntax, that improves readability:
+/* evolution of the rgb function with transparency */
+rgba(255, 255, 255, 50%)
+rgba(255 255 255 / 50%)
+rgb(255 255 255 / 50%)
+
+/* evolution of the hsl function with transparency */
+hsla(235, 100%, 50%, 50%) 
+hsla(235 100% 50% / 100%)
+hsl(235 100% 50% / 100%)
+
+These two new features made color handling easier! You don't have to worry about color functions that do or don't support transparency, and the space/slash syntax highlights seperates values and makes it easier to read. I love it when CSS becomes more precise!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — 25% fewer tweets]]></title>
         <id>613d0599c5b47a76f1cba7ae</id>
@@ -1889,36 +1949,6 @@ Here's how it looks like! 👇
         <summary type="html"><![CDATA[This week we hallucinate some art, redesign the Macbook, all the regrets, watch the great race, and keep an eye on that Wikipedia entry.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Coding Interview – How to Stand Out and Ace the Challenges]]></title>
-        <id>611fd94c3bccf807612a4160</id>
-        <link href="https://www.freecodecamp.org/news/how-to-stand-out-during-your-react-coding-interview/"/>
-        <updated>2021-08-20T18:20:42.000Z</updated>
-        <summary type="html"><![CDATA[As a React developer, I have gone through my fair share of front-end coding interviews. Recently, I had the opportunity to experience the process from the other side – as an interviewer. Here is what I've learned. Coding interview usually involve a multi-step process where interviewers assess everything from basic technical]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Truly Reusable React Component from Scratch]]></title>
-        <id>611bf4f8e884de0752180979</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-truly-reusable-react-component-from-scratch/"/>
-        <updated>2021-08-20T17:54:40.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will build an app with React. And you will learn how to create a truly reusable auto-suggestion component from scratch. This application will allow a user to search for a country in a list of countries. It will display matching suggestions below the input field for]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Line Break – How to Break a Line with the HTML &lt;br&gt; Tag]]></title>
-        <id>611f9b083bccf807612a3df0</id>
-        <link href="https://www.freecodecamp.org/news/html-line-break-how-to-break-a-line-with-the-html-br-tag/"/>
-        <updated>2021-08-20T17:21:23.000Z</updated>
-        <summary type="html"><![CDATA[When you're writing HTML, you often need to insert line breaks. A line break is essential in addresses, poems, or when text exceeds the available browser width. If you don't insert your own line breaks, then the text gets formatted in an odd way.  In this tutorial, I'm going to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

@@ -1127,33 +1127,6 @@
           "publishedOn": "2021-08-23T13:24:09.000Z",
           "wordCount": 50738,
           "title": "Programming for Beginners - How to Code with Python and C#"
-        },
-        {
-          "id": "611fd94c3bccf807612a4160",
-          "author": null,
-          "description": "As a React developer, I have gone through my fair share of front-end coding interviews. Recently, I had the opportunity to experience the process from the other side – as an interviewer. Here is what I've learned. Coding interview usually involve a multi-step process where interviewers assess everything from basic technical",
-          "link": "https://www.freecodecamp.org/news/how-to-stand-out-during-your-react-coding-interview/",
-          "publishedOn": "2021-08-20T18:20:42.000Z",
-          "wordCount": 1713,
-          "title": "React Coding Interview – How to Stand Out and Ace the Challenges"
-        },
-        {
-          "id": "611bf4f8e884de0752180979",
-          "author": null,
-          "description": "In this tutorial, you will build an app with React. And you will learn how to create a truly reusable auto-suggestion component from scratch. This application will allow a user to search for a country in a list of countries. It will display matching suggestions below the input field for",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-truly-reusable-react-component-from-scratch/",
-          "publishedOn": "2021-08-20T17:54:40.000Z",
-          "wordCount": 1935,
-          "title": "How to Create a Truly Reusable React Component from Scratch"
-        },
-        {
-          "id": "611f9b083bccf807612a3df0",
-          "author": null,
-          "description": "When you're writing HTML, you often need to insert line breaks. A line break is essential in addresses, poems, or when text exceeds the available browser width. If you don't insert your own line breaks, then the text gets formatted in an odd way.  In this tutorial, I'm going to",
-          "link": "https://www.freecodecamp.org/news/html-line-break-how-to-break-a-line-with-the-html-br-tag/",
-          "publishedOn": "2021-08-20T17:21:23.000Z",
-          "wordCount": 960,
-          "title": "HTML Line Break – How to Break a Line with the HTML &lt;br&gt; Tag"
         }
       ]
     },
@@ -1371,6 +1344,24 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-37/",
+          "author": null,
+          "description": "Moin moin! 👋\n\nSo, how was your week, friends? I had had a super chilled weekend and had some time to polish some styles on my website. The CSS architecture is such a mess; luckily, only I work on it (YOLO!). Apart from that, I'll be on a Contentful webinar next week, and maybe you want to say Hi!\nThis week's Web Weekly includes:\nResources to level up your VS Code game.\nA project that generates videos with React.\nReasons to step into leadership.\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nSomething that made me smile\n\nBut before we jump into the nerdy things, let me show you what made me laugh this week, and let's look at these weirds books that you can order on Amazon.\n\n\n          \n            \n(Fun fact: the books on this site are made with CSS)\nWith that o…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-37/",
+          "publishedOn": "2021-09-18T22:00:00.000Z",
+          "wordCount": 1062,
+          "title": "Web Weekly #37 (#blogPost)"
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/rgba-and-hsla-are-legacy-and-aliases-in-modern-browsers/",
+          "author": null,
+          "description": "I still define my CSS colors in hex values. 💪 rgb(), rgba(), hsl() and hsla() are valuable CSS functions, but it's so cumbersome to convert hex values (#34aa44) to numbers or percentages. That's why I never adopted the color functions.\nThe spec even includes a section explaining how to convert RGB to HSL and vice versa.\nMy rare usage is why I missed that the CSS Color Module Level 4 spec made rgba() and hsla() redundant.\nThe specification introduced two changes:\nrgb()/hsl() accept alpha values.\nColor functions accept space-separared values.\nWith rgb()/hsl() accepting transparency values, hsla() and rgba() became legacy functions and are now aliases for rgb()/hsl().\nIf you worry about browser support, check MDN. rgb()/hsl() transparency values are well supported!\nThe second edition is a new space-separated syntax, that improves readability:\n/* evolution of the rgb function with transparency */\nrgba(255, 255, 255, 50%)\nrgba(255 255 255 / 50%)\nrgb(255 255 255 / 50%)\n\n/* evolution of the hsl function with transparency */\nhsla(235, 100%, 50%, 50%) \nhsla(235 100% 50% / 100%)\nhsl(235 100% 50% / 100%)\n\nThese two new features made color handling easier! You don't have to worry about color functions that do or don't support transparency, and the space/slash syntax highlights seperates values and makes it easier to read. I love it when CSS becomes more precise!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/rgba-and-hsla-are-legacy-and-aliases-in-modern-browsers/",
+          "publishedOn": "2021-09-18T22:00:00.000Z",
+          "wordCount": 427,
+          "title": "rgba() and hsla() are legacy functions and aliases in modern browsers (#tilPost)"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/how-to-enable-beautiful-cursive-fonts-in-your-vs-code-theme/",
           "author": null,
