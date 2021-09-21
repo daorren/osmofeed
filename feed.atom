@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-20T00:22:57.389Z</updated>
+    <updated>2021-09-21T00:19:31.612Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up reCAPTCHA v3 in a Laravel Project]]></title>
+        <id>5fbf192a49c47664ed825d46</id>
+        <link href="https://www.freecodecamp.org/news/how-to-setup-recaptcha-v3-in-laravel/"/>
+        <updated>2021-09-20T22:26:01.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to set up reCAPTCHA v3 in your Laravel project. This can be a bit tricky, so I'll help you simplify the process here.  What is reCaptcha?reCaptcha is a Google service provided for free that helps you protect your websites from spam and malicious]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Tuple VS List – What is the Difference?]]></title>
+        <id>61483e50852f4307d3730d48</id>
+        <link href="https://www.freecodecamp.org/news/python-tuple-vs-list-what-is-the-difference/"/>
+        <updated>2021-09-20T21:15:57.000Z</updated>
+        <summary type="html"><![CDATA[Tuples and lists are two of the four available built-in data types that you can use to store data in Python.  They are both useful and they might seem similar at first glance. But they have significant differences and each one is best used in different cases.  This article will]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use react-icons to install Font Awesome in a React app]]></title>
+        <id>61330a1fd6679a07b7d41e3e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-react-icons/"/>
+        <updated>2021-09-20T19:44:00.000Z</updated>
+        <summary type="html"><![CDATA[React-icons is a small library that helps you add icons (from all different icon libraries) to your React apps. It delivers the icons to your app as components so they're easier to work with, and it lets you style them so they're consistent with the overall style of your app.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Boot Tutorial – How to Build Fast and Modern Java Apps]]></title>
+        <id>613a5047852f4307d372a9ea</id>
+        <link href="https://www.freecodecamp.org/news/spring-boot-tutorial-build-fast-modern-java-app/"/>
+        <updated>2021-09-20T19:43:06.000Z</updated>
+        <summary type="html"><![CDATA[In this article I am going to walk you through building a prototype with Spring Boot. Think of it like building a project for a hackathon or a prototype for your startup in limited time.  In other words, we are not trying to build something perfect – but rather something that]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Django for Everybody - Learn the Popular Python Framework from Dr. Chuck]]></title>
+        <id>6148d0dc9456b407b870f5ba</id>
+        <link href="https://www.freecodecamp.org/news/django-for-everybody-learn-the-popular-python-framework-from-dr-chuck/"/>
+        <updated>2021-09-20T18:29:03.000Z</updated>
+        <summary type="html"><![CDATA[Django is one of the most popular ways to create full-stack websites with Python. We just published an 18-hour Django course on the freeCodeCamp.org YouTube channel. Charles Severance (a.k.a. Dr. Chuck) created this course, along with the popular Python for Everybody course. He is a Clinical Professor]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ascending Order with SQL Order By]]></title>
+        <id>612cbfd8b5177808226d4a47</id>
+        <link href="https://www.freecodecamp.org/news/ascending-order-with-sql-order-by/"/>
+        <updated>2021-09-20T14:29:04.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I will show you a few code examples on how you can sort your data in ascending order using the ORDER BY clause in SQL.  ORDER BY syntaxThis is the basic syntax to sort your data in ascending order: SELECT columns FROM table ORDER BY column;If]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Contraction? Grammar and Definition]]></title>
+        <id>614382b2852f4307d372f2d6</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-contraction-grammar-and-definition/"/>
+        <updated>2021-09-20T13:59:58.000Z</updated>
+        <summary type="html"><![CDATA[Take  a look at the following sentences:  I’m learning how to  code.  I'll get a software developer job.  Learning how to code doesn’t have to cost you money.  The words I’m, I’ll and doesn’t are called contractions.  In this article, you'll learn all about contractions]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematical Analysis of Fruit Fly Wings Hints at Evolution’s Limits]]></title>
+        <id>https://www.quantamagazine.org/?p=108834</id>
+        <link href="https://www.quantamagazine.org/mathematical-analysis-of-fruit-fly-wings-hints-at-evolutions-limits-20210920/"/>
+        <updated>2021-09-20T13:21:47.000Z</updated>
+        <summary type="html"><![CDATA[A painstaking study of wing morphology shows both the striking uniformity of individuals in a species and a subtle pattern of linked variations that evolution can exploit.            
+The post Mathematical Analysis of Fruit Fly Wings Hints at Evolution’s Limits first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Elena Renken</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #37 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-37/</id>
@@ -1939,16 +2020,6 @@ Here's how it looks like! 👇
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — 🖨️ In dialogue with the printer]]></title>
-        <id>6118366c0b79943952a2d8f3</id>
-        <link href="https://labnotes.org/weekend-reading-in-dialogue-with-the-printer/"/>
-        <updated>2021-08-21T18:49:19.000Z</updated>
-        <summary type="html"><![CDATA[This week we hallucinate some art, redesign the Macbook, all the regrets, watch the great race, and keep an eye on that Wikipedia entry.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
