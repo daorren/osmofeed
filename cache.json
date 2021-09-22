@@ -22,6 +22,42 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "6114c92f72231b077cdae3fa",
+          "author": null,
+          "description": "Whenever you're working with computers or any electronic device that has storage capacity, you might need to distribute or share information and files in various ways.  These might be sound files, images, notes, or any number of text configuration files.  And the information you share will often be private or",
+          "link": "https://www.freecodecamp.org/news/scp-linux-command-example-how-to-ssh-file-transfer-from-remote-to-local/",
+          "publishedOn": "2021-09-21T21:41:38.000Z",
+          "wordCount": 1333,
+          "title": "SCP Linux Command – How to SSH File Transfer from Remote to Local"
+        },
+        {
+          "id": "611b66d9e884de0752180165",
+          "author": null,
+          "description": "Google Sheets provide a simple way to create online forms and gather data from users. In this tutorial we will use Google Sheets and Next.js to build a simple form. We'll use Next.js as our front end, and we'll use Google Sheets as the back end to send",
+          "link": "https://www.freecodecamp.org/news/create-a-feedback-form-using-nextjs-and-google-sheets-api/",
+          "publishedOn": "2021-09-21T17:44:05.000Z",
+          "wordCount": 1767,
+          "title": "How to Create a Feedback Form using the Google Sheets API"
+        },
+        {
+          "id": "61474c2a852f4307d37305e1",
+          "author": null,
+          "description": "As a developer, you probably want to improve your skills constantly. Be the best developer you can possibly be. But how you can actually improve is a tricky question to answer.  The Software industry is obsessed with the idea of 10x engineers. These are engineers who are supposedly 10 times",
+          "link": "https://www.freecodecamp.org/news/how-to-become-a-better-developer/",
+          "publishedOn": "2021-09-21T15:52:00.000Z",
+          "wordCount": 1505,
+          "title": "How to Become a Better Developer – Tips to Grow Your Coding Skills"
+        },
+        {
+          "id": "6149f6de9456b407b870fe26",
+          "author": null,
+          "description": "If you use a computer a lot you've probably had to do some repetitive tasks. Python can be used to automate many boring tasks to give you more time for other things. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to automate",
+          "link": "https://www.freecodecamp.org/news/how-to-automate-things-using-python/",
+          "publishedOn": "2021-09-21T15:18:57.000Z",
+          "wordCount": 495,
+          "title": "How to Automate Things Using Python"
+        },
+        {
           "id": "5fbf192a49c47664ed825d46",
           "author": null,
           "description": "In this article, you'll learn how to set up reCAPTCHA v3 in your Laravel project. This can be a bit tricky, so I'll help you simplify the process here.  What is reCaptcha?reCaptcha is a Google service provided for free that helps you protect your websites from spam and malicious",
@@ -1199,6 +1235,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=108859",
+          "author": "Leila Sloman",
+          "description": "The n-queens problem is about finding how many different ways queens can be placed on a chessboard so that none attack each other. A mathematician has now all but solved it.             \nThe post Mathematician Answers Chess Problem About Attacking Queens first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/mathematician-answers-chess-problem-about-attacking-queens-20210921/",
+          "publishedOn": "2021-09-21T14:13:20.000Z",
+          "wordCount": null,
+          "title": "Mathematician Answers Chess Problem About Attacking Queens",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=108834",
           "author": "Elena Renken",
           "description": "A painstaking study of wing morphology shows both the striking uniformity of individuals in a species and a subtle pattern of linked variations that evolution can exploit.            \nThe post Mathematical Analysis of Fruit Fly Wings Hints at Evolution’s Limits first appeared on Quanta Magazine",
@@ -1533,24 +1579,6 @@
           "publishedOn": "2021-08-24T22:00:00.000Z",
           "wordCount": 692,
           "title": "Safari only supports image formats macOS/iOS support, and that's good for some users (#note)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-33/",
-          "author": null,
-          "description": "Guten Tag!\n\nLet's start the week with some very creative work by Vincent Bal. He's a filmmaker that uses shadows in his short scenes. 😲\n\n\n          \n            \nThis week's Web Weekly includes:\nA better history search CLI tool\nWriting confident emails\nNative page transitions\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nReady? Steady. Go!\nMcFly – a reverse search replacement\n\n\n\n          \n            \nMany people use ctrl + r to navigate their shell history. I never really used this functionality and usually went for a history | grep .... After discovering McFly (a reverse search replacement), I now love using ctrl + r to find previous commands.\nFly through your shell history\nToday I learned – viewport units trigger overflows\n\n\n\n\n\n\n          \n            \nI r…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-33/",
-          "publishedOn": "2021-08-23T10:00:00.000Z",
-          "wordCount": 941,
-          "title": "Web Weekly #33 (#blogPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/a-better-way-to-navigate-search-your-cli-history-mcfly/",
-          "author": null,
-          "description": "I just added a new CLI tool to my dotfiles, and I think you're going to love it.\nMany people use ctrl + r (reverse search) to navigate and search their shell history. I never liked this shell functionality because it's very barebones and not intuitive. McFly replaces this command and makes finding past commands a breeze!\nHere's how it looks like! 👇\n\n      \n        \n      \n    \n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/notes/a-better-way-to-navigate-search-your-cli-history-mcfly/",
-          "publishedOn": "2021-08-22T22:00:00.000Z",
-          "wordCount": 287,
-          "title": "A better way to navigate/search your CLI history – McFly (#note)"
         }
       ]
     }

@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-21T00:19:31.612Z</updated>
+    <updated>2021-09-22T00:22:06.548Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SCP Linux Command – How to SSH File Transfer from Remote to Local]]></title>
+        <id>6114c92f72231b077cdae3fa</id>
+        <link href="https://www.freecodecamp.org/news/scp-linux-command-example-how-to-ssh-file-transfer-from-remote-to-local/"/>
+        <updated>2021-09-21T21:41:38.000Z</updated>
+        <summary type="html"><![CDATA[Whenever you're working with computers or any electronic device that has storage capacity, you might need to distribute or share information and files in various ways.  These might be sound files, images, notes, or any number of text configuration files.  And the information you share will often be private or]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Feedback Form using the Google Sheets API]]></title>
+        <id>611b66d9e884de0752180165</id>
+        <link href="https://www.freecodecamp.org/news/create-a-feedback-form-using-nextjs-and-google-sheets-api/"/>
+        <updated>2021-09-21T17:44:05.000Z</updated>
+        <summary type="html"><![CDATA[Google Sheets provide a simple way to create online forms and gather data from users. In this tutorial we will use Google Sheets and Next.js to build a simple form. We'll use Next.js as our front end, and we'll use Google Sheets as the back end to send]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Better Developer – Tips to Grow Your Coding Skills]]></title>
+        <id>61474c2a852f4307d37305e1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-become-a-better-developer/"/>
+        <updated>2021-09-21T15:52:00.000Z</updated>
+        <summary type="html"><![CDATA[As a developer, you probably want to improve your skills constantly. Be the best developer you can possibly be. But how you can actually improve is a tricky question to answer.  The Software industry is obsessed with the idea of 10x engineers. These are engineers who are supposedly 10 times]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Things Using Python]]></title>
+        <id>6149f6de9456b407b870fe26</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automate-things-using-python/"/>
+        <updated>2021-09-21T15:18:57.000Z</updated>
+        <summary type="html"><![CDATA[If you use a computer a lot you've probably had to do some repetitive tasks. Python can be used to automate many boring tasks to give you more time for other things. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to automate]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematician Answers Chess Problem About Attacking Queens]]></title>
+        <id>https://www.quantamagazine.org/?p=108859</id>
+        <link href="https://www.quantamagazine.org/mathematician-answers-chess-problem-about-attacking-queens-20210921/"/>
+        <updated>2021-09-21T14:13:20.000Z</updated>
+        <summary type="html"><![CDATA[The n-queens problem is about finding how many different ways queens can be placed on a chessboard so that none attack each other. A mathematician has now all but solved it.             
+The post Mathematician Answers Chess Problem About Attacking Queens first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Leila Sloman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Set Up reCAPTCHA v3 in a Laravel Project]]></title>
         <id>5fbf192a49c47664ed825d46</id>
@@ -1958,68 +2009,6 @@ The post This Physicist Discovered an Escape From Hawking’s Black Hole Paradox
         <summary type="html"><![CDATA[When it comes to learning how to write computer programs, it can be hard to figure out where to start.  Well, look no further. We just released a full course that teaches basic programming skills in both Python and C#. This course is for absolute beginners. One of the best]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #33 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-33/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-33/"/>
-        <updated>2021-08-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag!
-
-Let's start the week with some very creative work by Vincent Bal. He's a filmmaker that uses shadows in his short scenes. 😲
-
-
-          
-            
-This week's Web Weekly includes:
-A better history search CLI tool
-Writing confident emails
-Native page transitions
-... and, as always, GitHub repositories, a new Tiny Helper and some music.
-Ready? Steady. Go!
-McFly – a reverse search replacement
-
-
-
-          
-            
-Many people use ctrl + r to navigate their shell history. I never really used this functionality and usually went for a history | grep .... After discovering McFly (a reverse search replacement), I now love using ctrl + r to find previous commands.
-Fly through your shell history
-Today I learned – viewport units trigger overflows
-
-
-
-
-
-
-          
-            
-I r…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A better way to navigate/search your CLI history – McFly (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/a-better-way-to-navigate-search-your-cli-history-mcfly/</id>
-        <link href="https://www.stefanjudis.com/notes/a-better-way-to-navigate-search-your-cli-history-mcfly/"/>
-        <updated>2021-08-22T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I just added a new CLI tool to my dotfiles, and I think you're going to love it.
-Many people use ctrl + r (reverse search) to navigate and search their shell history. I never liked this shell functionality because it's very barebones and not intuitive. McFly replaces this command and makes finding past commands a breeze!
-Here's how it looks like! 👇
-
-      
-        
-      
-    
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
