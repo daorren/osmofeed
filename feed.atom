@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-22T00:22:06.548Z</updated>
+    <updated>2021-09-23T00:22:18.248Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn JavaScript Form Validation – Build a JS Project for Beginners ✨]]></title>
+        <id>612780233bccf807612a8955</id>
+        <link href="https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/"/>
+        <updated>2021-09-22T18:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Today we're going to learn how to do form validation in JavaScript. We'l also add images and media queries to build out the entire project and keep it as a portfolio.   Here's the project demo that we're gonna build 👇 Desktop designHere's a small sample of how the form will work]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Font Size – How to Change Text Size Using Inline CSS Style]]></title>
+        <id>614b18f59456b407b87105b2</id>
+        <link href="https://www.freecodecamp.org/news/html-font-size-how-to-change-text-size-using-inline-css-style/"/>
+        <updated>2021-09-22T18:02:22.000Z</updated>
+        <summary type="html"><![CDATA[In HTML, the font you choose will play a major role in the look and feel of your web pages.  You get to pick the font's color, weight, size, and so on. And all these features make your websites and apps look better and more presentable to the user.  With]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Enumerate – Python Enum For Loop Index Example]]></title>
+        <id>612203ef3bccf807612a5752</id>
+        <link href="https://www.freecodecamp.org/news/python-enumerate-python-enum-for-loop-index-example/"/>
+        <updated>2021-09-22T17:53:56.000Z</updated>
+        <summary type="html"><![CDATA[When you're coding in Python, you can use the enumerate() function and a for loop  to print out each value of an iterable with a counter. In this article, I will show you how to use Python's enumerate() function with a for loop and explain why it is a better]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single Cells Evolve Large Multicellular Forms in Just Two Years]]></title>
+        <id>https://www.quantamagazine.org/?p=108868</id>
+        <link href="https://www.quantamagazine.org/single-cells-evolve-large-multicellular-forms-in-just-two-years-20210922/"/>
+        <updated>2021-09-22T16:11:01.000Z</updated>
+        <summary type="html"><![CDATA[Researchers have discovered that environments favoring clumpy growth are all that’s needed to quickly transform single-celled yeast into complex multicellular organisms.            
+The post Single Cells Evolve Large Multicellular Forms in Just Two Years first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Veronique Greenwood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Interactive Data-Driven Web Apps With R Shiny]]></title>
+        <id>614b2a529456b407b8710629</id>
+        <link href="https://www.freecodecamp.org/news/build-interactive-data-driven-web-apps-with-r-shiny/"/>
+        <updated>2021-09-22T13:17:46.000Z</updated>
+        <summary type="html"><![CDATA[Shiny is an R package that makes it easy to build interactive and data-driven web apps straight from R. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use R Shiny. Dr. Chanin Nantasenamat, also known as the Data Professor, teaches this]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SCP Linux Command – How to SSH File Transfer from Remote to Local]]></title>
         <id>6114c92f72231b077cdae3fa</id>
@@ -1928,87 +1979,6 @@ Apple product…]]></summary>
 The post The Brain Doesn’t Think the Way You Think It Does first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Jordana Cepelewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Join Types – Inner Join VS Outer Join Example]]></title>
-        <id>6107c03b3306a507d1bfc55b</id>
-        <link href="https://www.freecodecamp.org/news/sql-join-types-inner-join-vs-outer-join-example/"/>
-        <updated>2021-08-24T00:08:46.000Z</updated>
-        <summary type="html"><![CDATA[In a relational database, all information should only be present once. But you might have information that's separated into different tables that's related to each other.  And you might want to put this related information together to analyse its data – that is, you might want to join all the data]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freeCodeCamp Tribute Page Project – Tips for Getting Started]]></title>
-        <id>6053033528094f59be257c91</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-the-fcc-tribute-page/"/>
-        <updated>2021-08-23T21:22:42.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I will talk about how to get started with your first freeCodeCamp project and provide some tips along the way.  Here is what we will cover: Understanding the instructionsWhat is CodePen and how do I use it?Do I have to use CodePen or can I use]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Android News App with React Native and Native Base]]></title>
-        <id>6120eac83bccf807612a4bd6</id>
-        <link href="https://www.freecodecamp.org/news/build-an-android-news-app-with-react-native-and-native-base/"/>
-        <updated>2021-08-23T18:23:27.000Z</updated>
-        <summary type="html"><![CDATA[We live in a world where things are constantly changing. So if you want to stay up to date on what's happening, you'll want a good News app.  To help you learn some cool tech and stay current, in this blog post we'll build a News Application for Android using]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We&#x27;re Building New Courses on Rust and Python + the Replit.web Framework]]></title>
-        <id>611a940ae884de075217f649</id>
-        <link href="https://www.freecodecamp.org/news/announcing-rust-course-replit-web/"/>
-        <updated>2021-08-23T17:03:24.000Z</updated>
-        <summary type="html"><![CDATA[As you may know, I've been a fan of Replit since way back in 2012. I used early versions of the website when I was learning to code.  For me, Replit was a place to code my solutions for Project Euler problems, and to practice my Python and JavaScript skills.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Contains String – SQL RegEx Example Query]]></title>
-        <id>6107c04a3306a507d1bfc561</id>
-        <link href="https://www.freecodecamp.org/news/sql-contains-string-sql-regex-example-query/"/>
-        <updated>2021-08-23T15:30:47.000Z</updated>
-        <summary type="html"><![CDATA[Being able to do complex queries can be really useful in SQL. In this article, we'll look at how you can use the Contains String query. SQL PatternsSQL patterns are useful for pattern matching, instead of using literal comparisons. They have a more limited syntax than RegEx, but they're more]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Front End Developer – What is Front End Development, Explained in Plain English]]></title>
-        <id>61064ad03306a507d1bfc001</id>
-        <link href="https://www.freecodecamp.org/news/front-end-developer-what-is-front-end-development-explained-in-plain-english/"/>
-        <updated>2021-08-23T15:30:27.000Z</updated>
-        <summary type="html"><![CDATA[If you are new to programming, you might have heard of the term Front End Development. But what does that mean?  In this article, I will explain what Front End Development is, what skills you need to become a Front End Developer, and tips for landing a job.  What is]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Physicist Discovered an Escape From Hawking’s Black Hole Paradox]]></title>
-        <id>https://www.quantamagazine.org/?p=108069</id>
-        <link href="https://www.quantamagazine.org/netta-engelhardt-has-escaped-hawkings-black-hole-paradox-20210823/"/>
-        <updated>2021-08-23T15:07:29.000Z</updated>
-        <summary type="html"><![CDATA[The five-decade-old paradox — long thought key to linking quantum theory with Einstein’s theory of gravity — is falling to a new generation of thinkers. Netta Engelhardt is leading the way.            
-The post This Physicist Discovered an Escape From Hawking’s Black Hole Paradox first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Natalie Wolchover</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programming for Beginners - How to Code with Python and C#]]></title>
-        <id>6116e52a72231b077cdafcf6</id>
-        <link href="https://www.freecodecamp.org/news/programming-for-beginners-how-to-code-with-python-and-c-sharp/"/>
-        <updated>2021-08-23T13:24:09.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to learning how to write computer programs, it can be hard to figure out where to start.  Well, look no further. We just released a full course that teaches basic programming skills in both Python and C#. This course is for absolute beginners. One of the best]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
