@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-24T00:21:18.773Z</updated>
+    <updated>2021-09-25T00:21:09.159Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HTML Button Type – How to Add Buttons to your Website]]></title>
+        <id>614df185ccc97307eb2bc079</id>
+        <link href="https://www.freecodecamp.org/news/html-button-type-how-to-add-buttons-to-your-website/"/>
+        <updated>2021-09-24T18:06:24.000Z</updated>
+        <summary type="html"><![CDATA[Buttons are an essential part of websites. You need them for various functionalities, from submitting information and getting access to more content to linking to different parts of the web page and other websites.  HTML gives you several ways to add buttons to your website – with the button tag, the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Insert a Text Box in Google Docs – Add Textbox Tutorial]]></title>
+        <id>614b428f9456b407b871068a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-insert-a-text-box-in-google-docs-add-textbox-tutorial/"/>
+        <updated>2021-09-24T17:42:48.000Z</updated>
+        <summary type="html"><![CDATA[Google Docs is one of the most popular text processors.  It has many features available to help you visually enhance your writing and make specific parts stand out more.  One of the ways you can add more functionality to your documents is by adding a textbox.  A textbox helps make]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MVC Architecture – What is a Model View Controller Framework?]]></title>
+        <id>6106568e3306a507d1bfc0f6</id>
+        <link href="https://www.freecodecamp.org/news/mvc-architecture-what-is-a-model-view-controller-framework/"/>
+        <updated>2021-09-24T17:36:14.000Z</updated>
+        <summary type="html"><![CDATA[Model–View–Controller is a popular software pattern used to break up the logic of your application into three different components.  In this article, I will break down the three components behind the MVC pattern, provide some history, and show you how it can be used in an application. History]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Convert HEIC to JPG on Windows – HEIC File Format on PC]]></title>
         <id>614c72939456b407b8710f0a</id>
@@ -1801,97 +1831,6 @@ I don't need different git configurations these days, but it's good to know this
 The post Banach-Tarski and the Paradox of Infinite Cloning first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Max G. Levy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Promises-based timer functions are supported in Node.js 16 (#snippet)]]></title>
-        <id>https://www.stefanjudis.com/snippets/promises-based-timer-functions-are-supported-in-node-js-16/</id>
-        <link href="https://www.stefanjudis.com/snippets/promises-based-timer-functions-are-supported-in-node-js-16/"/>
-        <updated>2021-08-25T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When writing Node.js automation/build scripts, I occasionally need "sleep" functionality to wait for other tasks to finish. It's not great to implement "sleeps and waits", but sometimes there's no other way than waiting for another system to finish what it's doing.
-I often use the following snippet in a Node.js module script. 👇
-FYI: Node.js modules support top-level await.
-// File: index.mjs
-
-const sleep = (time) => {
-  return new Promise((resolve) => {
-    setTimeout(resolve, time);
-  });
-}
-
-// do something
-await sleep(5000);
-// do something else
-
-There's nothing particularly wrong with this approach, but I'm very pleased to see that promises-based timer functions are available in Node.js 16 via timers/promises now.
-// File: index.mjs
-
-import {
-  setTimeout,
-} from 'timers/promises';
-
-// do something
-await setTimeout(5000);
-// do something else
-
-Less code is always better code! 👏
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Science Interview Questions for Beginners]]></title>
-        <id>612114773bccf807612a5084</id>
-        <link href="https://www.freecodecamp.org/news/23-common-data-science-interview-questions-for-beginners/"/>
-        <updated>2021-08-25T21:39:37.000Z</updated>
-        <summary type="html"><![CDATA[In 2012, Harvard Business Review named data science the sexiest job of the 21st century. But if you want to get a job as a data scientist, you'll need to go through a tough interview process. During data science job interviews, the interviewer will likely ask questions from different data]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a JSON File? Example JavaScript Code]]></title>
-        <id>612633433bccf807612a7bf4</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-json-file-example-javascript-code/"/>
-        <updated>2021-08-25T20:04:19.000Z</updated>
-        <summary type="html"><![CDATA[JSON stands for JavaScript Object Notation. A JSON file has .json as its extension and the data inside are represented in a key:value pair, just like a traditional JavaScript object.  JSON and objects aren't exactly the same, though. The core difference is that the key in JSON must be]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Raspberry Pi? Specs and Models (2021 Guide)]]></title>
-        <id>611e7d553bccf807612a33ec</id>
-        <link href="https://www.freecodecamp.org/news/what-is-raspberry-pi-specs-and-models-2021-guide/"/>
-        <updated>2021-08-25T16:17:20.000Z</updated>
-        <summary type="html"><![CDATA[IntroductionAre you curious about the IoT (Internet of Things?) Have you always wanted to try to make your own robot, smart mirror, or bird feeder camera? What about building a computer for a fraction of the cost of a commercially available machine? If you said yes to any of these]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is JavaScript? JavaScript Code Explained in Plain English]]></title>
-        <id>61064a8d3306a507d1bfbff9</id>
-        <link href="https://www.freecodecamp.org/news/what-is-javascript-javascript-code-explained-in-plain-english/"/>
-        <updated>2021-08-25T15:44:41.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript was created over 26 years ago and is currently one of the most popular programming languages. But what is JavaScript?  JavaScript is used with HTML and CSS to create dynamic and interactive web pages and mobile applications. We often call it one of the building blocks of web development.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn CSS Units – Em, Rem, VH, and VW with Code Examples ✨✨]]></title>
-        <id>6063b8f89618b008528a9d7d</id>
-        <link href="https://www.freecodecamp.org/news/learn-css-units-em-rem-vh-vw-with-code-examples/"/>
-        <updated>2021-08-25T15:34:28.000Z</updated>
-        <summary type="html"><![CDATA[Today we're gonna learn how to use the CSS units EM, REM, VW and VH by working through some practical examples. We'll also see how to make responsive websites with these units.  Let's start. 💖 Table of ContentsWhy learn relative units?What are REM Units?How to make responsive websites with]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
