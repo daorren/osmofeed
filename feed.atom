@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-25T00:21:09.159Z</updated>
+    <updated>2021-09-26T00:23:09.213Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 🧺 Laundry baskets]]></title>
+        <id>61463249a595c34c7a49d262</id>
+        <link href="https://labnotes.org/weekend-reading-laundry-baskets/"/>
+        <updated>2021-09-25T19:37:32.000Z</updated>
+        <summary type="html"><![CDATA[This week we drop folders, party with sync XHR, add more developers to a late project, get a puppy, and feel the pun.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML Button Type – How to Add Buttons to your Website]]></title>
         <id>614df185ccc97307eb2bc079</id>
@@ -1730,107 +1740,6 @@ I don't need different git configurations these days, but it's good to know this
         <summary type="html"><![CDATA[When the internet was still young, website visitors used desktop and then laptop computers with wide screens to access websites.  Then when smart phones were developed, mobile phone users had to endlessly zoom and scroll to access and view different parts of those same websites.  Thankfully, this is no longer]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript setTimeout() – JS Timer to Delay N Seconds]]></title>
-        <id>612203fb3bccf807612a5756</id>
-        <link href="https://www.freecodecamp.org/news/javascript-settimeout-js-timer-to-delay-n-seconds/"/>
-        <updated>2021-08-26T23:57:34.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered if there is a method to delay your JavaScript code by a few seconds?  In this article, I will explain what the setTimeout() method is with code examples and how it differs from setInterval().  What is setTimeout() in JavaScript?setTimeout() is a method that will execute]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Font – CSS Font Family Example (Serif and Sans Serif Characters)]]></title>
-        <id>6117b37a72231b077cdafea8</id>
-        <link href="https://www.freecodecamp.org/news/html-font-css-font-family-example-serif-and-sans-serif-characters/"/>
-        <updated>2021-08-26T22:15:30.000Z</updated>
-        <summary type="html"><![CDATA[Choosing the right font is an important first step in making your website usable and accessible.  How text is formatted affects how readable your designs and webpages are.  You can modify how your HTML text appears in many ways using CSS. You can select the type of font you want]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Left Join – Example Join Statement Syntax]]></title>
-        <id>6107c0083306a507d1bfc549</id>
-        <link href="https://www.freecodecamp.org/news/sql-left-join-example-join-statement-syntax/"/>
-        <updated>2021-08-26T20:29:12.000Z</updated>
-        <summary type="html"><![CDATA[In a Relational Database, tables are often related to each other in a way that allows their information to only be written once in the whole database. Then, when you need to analyze the data, you'll need to combine the info from those related tables. To do this in SQL,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Discord AI Chatbot that Talks Like Your Favorite Character]]></title>
-        <id>60b5025111ffb70827ef9ebe</id>
-        <link href="https://www.freecodecamp.org/news/discord-ai-chatbot/"/>
-        <updated>2021-08-26T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Would you like to talk to a chatbot that speaks like your favorite character, fictional or non-fictional? Let's build one!  In case you've seen my previous tutorial on this topic, stick with me as this version features lots of updates. You can follow along with this tutorial using the code]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Delete Branch – How to Remove a Local or Remote Branch]]></title>
-        <id>6125f93b3bccf807612a7b84</id>
-        <link href="https://www.freecodecamp.org/news/git-delete-branch-how-to-remove-a-local-or-remote-branch/"/>
-        <updated>2021-08-26T17:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Git is a popular version control system and an essential tool in a web developer's toolkit.  Branches are a powerful and integral part of working with Git.  In this article, you will learn the basics about how to remove local and remote branches in Git.  What are Branches in Git?]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn JavaScript in Spanish – Full Course for Beginners]]></title>
-        <id>612439163bccf807612a6e69</id>
-        <link href="https://www.freecodecamp.org/news/learn-javascript-in-spanish-full-course-for-beginners/"/>
-        <updated>2021-08-26T16:35:47.000Z</updated>
-        <summary type="html"><![CDATA[Welcome! If you speak Spanish and you want you learn JavaScript, you're in the right place. freeCodeCamp just published a free 9-hour JavaScript course for beginners. You will learn everything you need to know to get started with JavaScript, a key programming language for web development and many other applications.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add a Splash Screen to Your Flutter App]]></title>
-        <id>611f3dde3bccf807612a37c3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-a-splash-screen-in-flutter-app/"/>
-        <updated>2021-08-26T16:30:17.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we're going to learn how to integrate a splash screen in a Flutter app. But first, why is having a splash screen in your app essential? What is a Splash Screen?A splash screen is an initial screen that gets displayed right when the user launches the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Array.filter() Tutorial – How to Iterate Through Elements in an Array]]></title>
-        <id>6123a7673bccf807612a64bf</id>
-        <link href="https://www.freecodecamp.org/news/javascript-array-filter-tutorial-how-to-iterate-through-elements-in-an-array/"/>
-        <updated>2021-08-26T16:07:48.000Z</updated>
-        <summary type="html"><![CDATA[The Array.filter() method is arguably the most important and widely used method for iterating over an array in JavaScript. The way the filter() method works is very simple. It entails filtering out one or more items (a subset) from a larger collection of items (a superset) based on some]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make a Discord Chat Bot That Talks Like Rick Sanchez]]></title>
-        <id>61279c123bccf807612a8bda</id>
-        <link href="https://www.freecodecamp.org/news/make-a-discord-bot-that-talks-like-rick-sanchez/"/>
-        <updated>2021-08-26T13:59:54.000Z</updated>
-        <summary type="html"><![CDATA[You can use artificial intelligence to make a Discord chat bot talk like your favorite character. It could be a Rick and Morty character, Harry Potter, Peppa Pig, or someone else. We just released a tutorial on the freeCodeCamp.org YouTube channel that will teach you how to create a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Banach-Tarski and the Paradox of Infinite Cloning]]></title>
-        <id>https://www.quantamagazine.org/?p=108105</id>
-        <link href="https://www.quantamagazine.org/how-a-mathematical-paradox-allows-infinite-cloning-20210826/"/>
-        <updated>2021-08-26T13:54:08.000Z</updated>
-        <summary type="html"><![CDATA[One of the strangest results in mathematics explains how it’s possible to turn one sphere into two identical copies, simply by rearranging its pieces.            
-The post Banach-Tarski and the Paradox of Infinite Cloning first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Max G. Levy</name>
         </author>
     </entry>
 </feed>
