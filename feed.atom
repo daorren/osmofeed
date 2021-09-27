@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-26T00:23:09.213Z</updated>
-    <generator>osmosfeed 1.11.1</generator>
+    <updated>2021-09-27T00:21:26.173Z</updated>
+    <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[v1.11.2]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2"/>
+        <updated>2021-09-26T18:45:39.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: unicode characters in URL caused download error
+Fixed: project root npm install error
+Added: unit test library
+Chore: Dependency updates
+Thank you: @CaptNo1]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A UI for managing your Node.js dependencies in VS Code (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/a-ui-for-managing-your-node-js-dependencies-in-vs-code/</id>
+        <link href="https://www.stefanjudis.com/notes/a-ui-for-managing-your-node-js-dependencies-in-vs-code/"/>
+        <updated>2021-09-25T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I always enjoy installing Node.js dependencies when I use CodeSandbox. It provides a quick and easy-to-use UI; I can update dependencies with a click, and it feels great to not fiddle around with the package.json file.
+Today I found the Node Dependencies VS Code extensions, and it's providing this exact functionality. Kudos to Kasper Mikiewicz for developing it!
+
+
+
+
+          
+            
+              
+              
+            
+          
+        
+      
+    
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use a serverless function as image/caching proxy (#snippet)]]></title>
+        <id>https://www.stefanjudis.com/snippets/how-to-use-a-serverless-function-as-image-caching-proxy/</id>
+        <link href="https://www.stefanjudis.com/snippets/how-to-use-a-serverless-function-as-image-caching-proxy/"/>
+        <updated>2021-09-25T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today I fixed an annoyance in one of my side projects Tiny Helpers. Tiny Helpers is a resource collection of free online developer tools. The site includes tool screenshots and, if available, the maintainer's GitHub profile image.
+And these profile images were the problem; when you navigated the site, you requested many GitHub profile images, and, eventually they stopped showing up.
+
+
+
+          
+            
+So what's going on there? The answer could be found in the developer tools network panel.
+
+
+          
+            
+GitHub limits the profile image requests when you're making too many. I couldn't find the exact rate limits, but one thing is clear, the more projects will be listed on Tiny Helpers, the quicker visitors will hit these limits.
+Luckily, modern hosting can help out with th…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — 🧺 Laundry baskets]]></title>
         <id>61463249a595c34c7a49d262</id>
@@ -1710,36 +1776,6 @@ I don't need different git configurations these days, but it's good to know this
         <summary type="html"><![CDATA[This week we water houseplants using a dehumidifier, listen to tales of woe, build in public, and interpretive dance to hydraulic press.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP Array Length Tutorial – How to Get an Array Size]]></title>
-        <id>600dc4230a2838549dcb6e8e</id>
-        <link href="https://www.freecodecamp.org/news/php-array-length-how-to-get-an-array-size/"/>
-        <updated>2021-08-27T19:10:13.000Z</updated>
-        <summary type="html"><![CDATA[Arrays are a powerful data type in PHP. And knowing how to quickly determine the size of an array is a useful skill.  In this article I'll give you a quick overview of how arrays work, and then I'll dive into how to get the size of PHP arrays. If]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The New Creator Economy – DAOs, Community Ownership, and Cryptoeconomics]]></title>
-        <id>612796f53bccf807612a8b55</id>
-        <link href="https://www.freecodecamp.org/news/the-new-creator-economy-daos-community-ownership-and-cryptoeconomics/"/>
-        <updated>2021-08-27T17:02:29.000Z</updated>
-        <summary type="html"><![CDATA[I first had what I can only describe as a spiritual awakening about 10 years ago to the fact that technology would (figuratively) rule the world. And since then, I've been obsessed with wanting to understand how software works and how to build it. Since that moment, my life has]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsive Web Design – Modern Website Code for Beginners]]></title>
-        <id>6127e0efb5177808226d29cb</id>
-        <link href="https://www.freecodecamp.org/news/responsive-web-design-modern-website-code-for-beginners/"/>
-        <updated>2021-08-27T16:33:18.000Z</updated>
-        <summary type="html"><![CDATA[When the internet was still young, website visitors used desktop and then laptop computers with wide screens to access websites.  Then when smart phones were developed, mobile phone users had to endlessly zoom and scroll to access and view different parts of those same websites.  Thankfully, this is no longer]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

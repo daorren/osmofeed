@@ -6,6 +6,15 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
+          "author": null,
+          "description": "Fixed: unicode characters in URL caused download error\nFixed: project root npm install error\nAdded: unit test library\nChore: Dependency updates\nThank you: @CaptNo1",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
+          "publishedOn": "2021-09-26T18:45:39.000Z",
+          "wordCount": 354,
+          "title": "v1.11.2"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1",
           "author": null,
           "description": "Fixed: Unexpected nested element in author field crashes the parser\nThank you @ad-m",
@@ -1019,33 +1028,6 @@
           "publishedOn": "2021-08-30T13:36:04.000Z",
           "wordCount": 516,
           "title": "Free 10-Hour Machine Learning Course"
-        },
-        {
-          "id": "600dc4230a2838549dcb6e8e",
-          "author": null,
-          "description": "Arrays are a powerful data type in PHP. And knowing how to quickly determine the size of an array is a useful skill.  In this article I'll give you a quick overview of how arrays work, and then I'll dive into how to get the size of PHP arrays. If",
-          "link": "https://www.freecodecamp.org/news/php-array-length-how-to-get-an-array-size/",
-          "publishedOn": "2021-08-27T19:10:13.000Z",
-          "wordCount": 1138,
-          "title": "PHP Array Length Tutorial – How to Get an Array Size"
-        },
-        {
-          "id": "612796f53bccf807612a8b55",
-          "author": null,
-          "description": "I first had what I can only describe as a spiritual awakening about 10 years ago to the fact that technology would (figuratively) rule the world. And since then, I've been obsessed with wanting to understand how software works and how to build it. Since that moment, my life has",
-          "link": "https://www.freecodecamp.org/news/the-new-creator-economy-daos-community-ownership-and-cryptoeconomics/",
-          "publishedOn": "2021-08-27T17:02:29.000Z",
-          "wordCount": 2650,
-          "title": "The New Creator Economy – DAOs, Community Ownership, and Cryptoeconomics"
-        },
-        {
-          "id": "6127e0efb5177808226d29cb",
-          "author": null,
-          "description": "When the internet was still young, website visitors used desktop and then laptop computers with wide screens to access websites.  Then when smart phones were developed, mobile phone users had to endlessly zoom and scroll to access and view different parts of those same websites.  Thankfully, this is no longer",
-          "link": "https://www.freecodecamp.org/news/responsive-web-design-modern-website-code-for-beginners/",
-          "publishedOn": "2021-08-27T16:33:18.000Z",
-          "wordCount": 2359,
-          "title": "Responsive Web Design – Modern Website Code for Beginners"
         }
       ]
     },
@@ -1264,6 +1246,24 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/notes/a-ui-for-managing-your-node-js-dependencies-in-vs-code/",
+          "author": null,
+          "description": "I always enjoy installing Node.js dependencies when I use CodeSandbox. It provides a quick and easy-to-use UI; I can update dependencies with a click, and it feels great to not fiddle around with the package.json file.\nToday I found the Node Dependencies VS Code extensions, and it's providing this exact functionality. Kudos to Kasper Mikiewicz for developing it!\n\n\n\n\n          \n            \n              \n              \n            \n          \n        \n      \n    \n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/notes/a-ui-for-managing-your-node-js-dependencies-in-vs-code/",
+          "publishedOn": "2021-09-25T22:00:00.000Z",
+          "wordCount": 276,
+          "title": "A UI for managing your Node.js dependencies in VS Code (#note)"
+        },
+        {
+          "id": "https://www.stefanjudis.com/snippets/how-to-use-a-serverless-function-as-image-caching-proxy/",
+          "author": null,
+          "description": "Today I fixed an annoyance in one of my side projects Tiny Helpers. Tiny Helpers is a resource collection of free online developer tools. The site includes tool screenshots and, if available, the maintainer's GitHub profile image.\nAnd these profile images were the problem; when you navigated the site, you requested many GitHub profile images, and, eventually they stopped showing up.\n\n\n\n          \n            \nSo what's going on there? The answer could be found in the developer tools network panel.\n\n\n          \n            \nGitHub limits the profile image requests when you're making too many. I couldn't find the exact rate limits, but one thing is clear, the more projects will be listed on Tiny Helpers, the quicker visitors will hit these limits.\nLuckily, modern hosting can help out with th…",
+          "link": "https://www.stefanjudis.com/snippets/how-to-use-a-serverless-function-as-image-caching-proxy/",
+          "publishedOn": "2021-09-25T22:00:00.000Z",
+          "wordCount": 639,
+          "title": "How to use a serverless function as image/caching proxy (#snippet)"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-37/",
           "author": null,
           "description": "Moin moin! 👋\n\nSo, how was your week, friends? I had had a super chilled weekend and had some time to polish some styles on my website. The CSS architecture is such a mess; luckily, only I work on it (YOLO!). Apart from that, I'll be on a Contentful webinar next week, and maybe you want to say Hi!\nThis week's Web Weekly includes:\nResources to level up your VS Code game.\nA project that generates videos with React.\nReasons to step into leadership.\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nSomething that made me smile\n\nBut before we jump into the nerdy things, let me show you what made me laugh this week, and let's look at these weirds books that you can order on Amazon.\n\n\n          \n            \n(Fun fact: the books on this site are made with CSS)\nWith that o…",
@@ -1374,5 +1374,5 @@
       ]
     }
   ],
-  "cliVersion": "1.11.1"
+  "cliVersion": "1.11.2"
 }
