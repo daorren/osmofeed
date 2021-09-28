@@ -2,10 +2,131 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-27T00:21:26.173Z</updated>
+    <updated>2021-09-28T00:21:57.234Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub Repo Guide – How to Increase Engagement on your Public GitHub Repositories]]></title>
+        <id>6149e65e9456b407b870fdc5</id>
+        <link href="https://www.freecodecamp.org/news/increase-engagement-on-your-public-github-repositories/"/>
+        <updated>2021-09-28T00:05:11.000Z</updated>
+        <summary type="html"><![CDATA[GitHub is a collection of web-based tools that helps you work with version control and Git methodologies.  With the help of GitHub, you can create, manage, and collaborate on projects with multiple other team members. You keep the project folders and files in a store (file system) on GitHub. This]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open-Closed Principle – The Software Development Concept Explained in Plain English]]></title>
+        <id>6148802f9456b407b870f041</id>
+        <link href="https://www.freecodecamp.org/news/open-closed-principle/"/>
+        <updated>2021-09-27T19:43:06.000Z</updated>
+        <summary type="html"><![CDATA[There are many articles about the Open-Closed Principle, but I can never find one that explains it in a way that really works for me.  So here, hopefully, is a good one – with a non trivial and real life example, what changes to support, and a description of the trade]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Share Your Knowledge as a Developer]]></title>
+        <id>61508279ccc97307eb2bca3f</id>
+        <link href="https://www.freecodecamp.org/news/why-you-should-share-your-knowledge-as-a-developer/"/>
+        <updated>2021-09-27T17:41:26.000Z</updated>
+        <summary type="html"><![CDATA[Sharing your knowledge can help you improve your skills and level up your career as a developer. Many developers are already doing it, and if you aren't, this article is for you. In it, I will show you why you should share your coding expertise by looking at five extraordinary]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the DOM? Document Object Model Meaning in JavaScript]]></title>
+        <id>613f3cd3852f4307d372c7e8</id>
+        <link href="https://www.freecodecamp.org/news/what-is-the-dom-document-object-model-meaning-in-javascript/"/>
+        <updated>2021-09-27T16:23:19.000Z</updated>
+        <summary type="html"><![CDATA[If you have just started learning JavaScript, you might have heard of the DOM. But what is it exactly? In this article, I will explain what the DOM is and provide some JavaScript code examples.  We will take a look at how to select elements from an HTML document, how]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lambda Function in Python – Example Syntax]]></title>
+        <id>614ad5b79456b407b871028d</id>
+        <link href="https://www.freecodecamp.org/news/lambda-function-in-python-example-syntax/"/>
+        <updated>2021-09-27T15:23:43.000Z</updated>
+        <summary type="html"><![CDATA[Lambda functions are anonymous functions that can contain only one expression. You may think that lambda functions are an intermediate or advanced feature, but here you will learn how you can easily start using them in your code. In Python, functions are usually created like this: def my_func(a)]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Impossible’ Particle Discovery Adds Key Piece to the Strong Force Puzzle]]></title>
+        <id>https://www.quantamagazine.org/?p=108997</id>
+        <link href="https://www.quantamagazine.org/impossible-particle-discovery-adds-key-piece-to-the-strong-force-puzzle-20210927/"/>
+        <updated>2021-09-27T14:36:02.000Z</updated>
+        <summary type="html"><![CDATA[The unexpected discovery of the double-charm tetraquark has given physicists a new tool with which to hone their understanding of the strongest of nature’s fundamental forces.            
+The post ‘Impossible’ Particle Discovery Adds Key Piece to the Strong Force Puzzle first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Charlie Wood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Accessibility Tools – How to Build More Accessible React Apps]]></title>
+        <id>614c40119456b407b8710b0f</id>
+        <link href="https://www.freecodecamp.org/news/react-accessibility-tools-build-accessible-react-apps/"/>
+        <updated>2021-09-27T14:18:59.000Z</updated>
+        <summary type="html"><![CDATA[Making a website or web app accessible improves the user experience for people with disabilities and for all users as well. Since developers deal with tight deadlines and competing priorities, it is easy to accidentally ship unresolved accessibility issues to production. And things becomes even more complex when working with]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Natural Language Processing with spaCy &amp; Python - Full Course]]></title>
+        <id>6151be27ccc97307eb2bcfa2</id>
+        <link href="https://www.freecodecamp.org/news/natural-language-processing-with-spacy-python-full-course/"/>
+        <updated>2021-09-27T14:12:24.000Z</updated>
+        <summary type="html"><![CDATA[Natural language processing, or NLP, is a branch of linguistics that seeks to parse human language in a computer system. spaCy is a popular Python library used for NLP. We just published a NLP and spaCy course on the freeCodeCamp.org YouTube channel. In the course you will learn all]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Object Storage for Data Parallelization and Experimentation]]></title>
+        <id>614bc3bd9456b407b87108b3</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-object-storage-for-parallelization-and-experimentation/"/>
+        <updated>2021-09-27T14:09:57.000Z</updated>
+        <summary type="html"><![CDATA[By using big data, companies can learn a lot about how their businesses are performing. Analytics on sales, churn rates, and other basic metrics are available in almost real time as data comes in.  Then there are more complex analyses that you'll need to do. At times relationships between two]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #38 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-38/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-38/"/>
+        <updated>2021-09-26T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Goooooood day! 👋
+
+Hello everyone! How has your week been? I had some time to work on my website, ran a new 10km best time (5:15 min/km), and read many nerdy articles. It was a good week, and I hope the same applies to you!
+This week's Web Weekly includes:
+Browser and VS Code extensions.
+A new proposal for native browser prerendering.
+Why you shouldn't argue with strangers on the internet.
+... and, as always, GitHub repositories, a new Tiny Helper and some music.
+Something that made me smile
+
+I loved this Tweet (and project) from 2018 and will adopt the term VPG from now on! 😆
+
+
+
+          
+            
+Quick links
+
+There are accessibility guidelines for authoring tools such as social media.
+GitHub now allows styling your organization's homepage with a README.
+GitHub's source code tab siz…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.11.2]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2</id>
@@ -1766,16 +1887,6 @@ I don't need different git configurations these days, but it's good to know this
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Rime of the Ancient Mariner]]></title>
-        <id>61214ae496ccff0d91ddff31</id>
-        <link href="https://labnotes.org/weekend-reading-rime-of-the-ancient-mariner/"/>
-        <updated>2021-08-28T20:24:38.000Z</updated>
-        <summary type="html"><![CDATA[This week we water houseplants using a dehumidifier, listen to tales of woe, build in public, and interpretive dance to hydraulic press.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
