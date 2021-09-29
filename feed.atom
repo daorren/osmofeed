@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-28T00:21:57.234Z</updated>
+    <updated>2021-09-29T00:21:05.343Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Flexbox Tutorial – How to Build a Fixed Side and Bottom Navbar]]></title>
+        <id>614e7e50ccc97307eb2bc3e5</id>
+        <link href="https://www.freecodecamp.org/news/fixed-side-and-bottom-navbar-with-css-flexbox/"/>
+        <updated>2021-09-28T21:41:48.000Z</updated>
+        <summary type="html"><![CDATA[Flexbox can help you simplify the process of creating both basic and advanced layouts. And it's pretty straightforward to create side and bottom navigation menus with CSS flexbox or Grid. These layouts are so popular that they appear almost everywhere on the web. For example, check out Twitter's sidebar, which]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML / CSS Tutorial - Build a Recipe Website]]></title>
+        <id>6153616d64aefe07d3fa049a</id>
+        <link href="https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/"/>
+        <updated>2021-09-28T18:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Building projects is a great way to build your skills, especially when it comes to web development. We just published an HTML & CSS course on the freeCodeCamp.org YouTube channel teach you how to build a recipe website. John Smilga developed this course. He is one of the most]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Publish an HTML Website on Netlify or GitHub Pages]]></title>
+        <id>613c75b1852f4307d372b9ab</id>
+        <link href="https://www.freecodecamp.org/news/publish-your-website-netlify-github/"/>
+        <updated>2021-09-28T17:36:52.000Z</updated>
+        <summary type="html"><![CDATA[You have finished creating your HTML website and you're feeling proud of your hard work. But there is one thing that is still missing: you have no idea how to publish your website. In this tutorial, you will learn how to publish an HTML website using two popular platforms – Netlify]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Sentry to Your Node.js Project with TypeScript]]></title>
+        <id>615233ec64aefe07d3f9fdb4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-sentry-to-your-node-js-project-with-typescript/"/>
+        <updated>2021-09-28T16:24:26.000Z</updated>
+        <summary type="html"><![CDATA[Sentry.io is an external monitoring and logging service which can help you identify and triage errors in your code.  These logs provide information such as a trace stack, breadcrumbs, and (assuming this is a web application) browser data. This can help you triage issues and resolve bugs faster, with]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Semantic HTML Guide – 10 Alternatives to Using divs]]></title>
+        <id>614e05eeccc97307eb2bc165</id>
+        <link href="https://www.freecodecamp.org/news/semantic-html-alternatives-to-using-divs/"/>
+        <updated>2021-09-28T16:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Raise your hand if your typical HTML layout looks like this: <body> 	<div class="header" id="site-header"> 		<div class="site-nav"> 			<ul> 				<li><a href="/">Home</a></li> 				<li><a href="/">]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Topology, When Are Two Shapes the Same?]]></title>
+        <id>https://www.quantamagazine.org/?p=109000</id>
+        <link href="https://www.quantamagazine.org/in-topology-when-are-two-shapes-the-same-20210928/"/>
+        <updated>2021-09-28T14:15:04.000Z</updated>
+        <summary type="html"><![CDATA[As topologists seek to classify shapes, the effort hinges on how to define a manifold and what it means for two of them to be equivalent.            
+The post In Topology, When Are Two Shapes the Same? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Kevin Hartnett</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Repo Guide – How to Increase Engagement on your Public GitHub Repositories]]></title>
         <id>6149e65e9456b407b870fdc5</id>
@@ -1828,65 +1889,6 @@ The post To Learn More Quickly, Brain Cells Break Their DNA first appeared on Qu
         <summary type="html"><![CDATA[Every day more and more use cases are found for machine learning. It is a great field to get into. We just released a 10-hour machine learning course for beginners on the freeCodeCamp.org YouTube channel. Ayush Singh developed this course. He is a young data scientist and machine learning]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #34 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-34/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-34/"/>
-        <updated>2021-08-29T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag, friends! 👋
-
-If you're subscribed to this newsletter for a while, you know that I discovered the electro piano duo Grandbrothers and became a big fan. I saw them live this week, and I'm so happy; live music is just the best!
-Before jumping into nerdy stuff, let's start the week with some doggo cuteness.
-
-
-          
-            
-This week's Web Weekly includes:
-Fancy CSS features: accent-color, font-family: system-ui and color-scheme
-workplace privileges
-directory-dependent git configuration
-... and, as always, GitHub repositories, a new Tiny Helper and some music.
-Ready? Steady. Go!
-How Google generates search result titles
-
-
-
-
-
-          
-            
-Google changed the way how they generate the search result titles and now consider h1 elements, too. It's a good reminder about…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to apply directory dependent git configuration using conditional imports (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/how-to-apply-directory-dependent-git-configuration-using-conditional-imports/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/how-to-apply-directory-dependent-git-configuration-using-conditional-imports/"/>
-        <updated>2021-08-29T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I just came across Marcus Crane's post Conditionally setting your gitconfig. Marcus explains how to use conditional includes and apply directory dependent git configuration.
-Here's an example from his blog post:
-[user]
-  email = user@example.com
-  name = User
-  signingkey = ABC123
-[commit]
-  gpgSign = true
-[includeIf "gitdir:~/work/"]
-  path = ~/.work.gitconfig
-
-The git docs describe that you include configs depending on branch name, too.
-I don't need different git configurations these days, but it's good to know this feature exists. 👏
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

@@ -31,6 +31,51 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "614e7e50ccc97307eb2bc3e5",
+          "author": null,
+          "description": "Flexbox can help you simplify the process of creating both basic and advanced layouts. And it's pretty straightforward to create side and bottom navigation menus with CSS flexbox or Grid. These layouts are so popular that they appear almost everywhere on the web. For example, check out Twitter's sidebar, which",
+          "link": "https://www.freecodecamp.org/news/fixed-side-and-bottom-navbar-with-css-flexbox/",
+          "publishedOn": "2021-09-28T21:41:48.000Z",
+          "wordCount": 783,
+          "title": "CSS Flexbox Tutorial – How to Build a Fixed Side and Bottom Navbar"
+        },
+        {
+          "id": "6153616d64aefe07d3fa049a",
+          "author": null,
+          "description": "Building projects is a great way to build your skills, especially when it comes to web development. We just published an HTML & CSS course on the freeCodeCamp.org YouTube channel teach you how to build a recipe website. John Smilga developed this course. He is one of the most",
+          "link": "https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/",
+          "publishedOn": "2021-09-28T18:56:03.000Z",
+          "wordCount": 22802,
+          "title": "HTML / CSS Tutorial - Build a Recipe Website"
+        },
+        {
+          "id": "613c75b1852f4307d372b9ab",
+          "author": null,
+          "description": "You have finished creating your HTML website and you're feeling proud of your hard work. But there is one thing that is still missing: you have no idea how to publish your website. In this tutorial, you will learn how to publish an HTML website using two popular platforms – Netlify",
+          "link": "https://www.freecodecamp.org/news/publish-your-website-netlify-github/",
+          "publishedOn": "2021-09-28T17:36:52.000Z",
+          "wordCount": 968,
+          "title": "How to Publish an HTML Website on Netlify or GitHub Pages"
+        },
+        {
+          "id": "615233ec64aefe07d3f9fdb4",
+          "author": null,
+          "description": "Sentry.io is an external monitoring and logging service which can help you identify and triage errors in your code.  These logs provide information such as a trace stack, breadcrumbs, and (assuming this is a web application) browser data. This can help you triage issues and resolve bugs faster, with",
+          "link": "https://www.freecodecamp.org/news/how-to-add-sentry-to-your-node-js-project-with-typescript/",
+          "publishedOn": "2021-09-28T16:24:26.000Z",
+          "wordCount": 1195,
+          "title": "How to Add Sentry to Your Node.js Project with TypeScript"
+        },
+        {
+          "id": "614e05eeccc97307eb2bc165",
+          "author": null,
+          "description": "Raise your hand if your typical HTML layout looks like this: <body> \t<div class=\"header\" id=\"site-header\"> \t\t<div class=\"site-nav\"> \t\t\t<ul> \t\t\t\t<li><a href=\"/\">Home</a></li> \t\t\t\t<li><a href=\"/\">",
+          "link": "https://www.freecodecamp.org/news/semantic-html-alternatives-to-using-divs/",
+          "publishedOn": "2021-09-28T16:00:39.000Z",
+          "wordCount": 1698,
+          "title": "Semantic HTML Guide – 10 Alternatives to Using divs"
+        },
+        {
           "id": "6149e65e9456b407b870fdc5",
           "author": null,
           "description": "GitHub is a collection of web-based tools that helps you work with version control and Git methodologies.  With the help of GitHub, you can create, manage, and collaborate on projects with multiple other team members. You keep the project folders and files in a store (file system) on GitHub. This",
@@ -1109,6 +1154,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=109000",
+          "author": "Kevin Hartnett",
+          "description": "As topologists seek to classify shapes, the effort hinges on how to define a manifold and what it means for two of them to be equivalent.            \nThe post In Topology, When Are Two Shapes the Same? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/in-topology-when-are-two-shapes-the-same-20210928/",
+          "publishedOn": "2021-09-28T14:15:04.000Z",
+          "wordCount": null,
+          "title": "In Topology, When Are Two Shapes the Same?",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=108997",
           "author": "Charlie Wood",
           "description": "The unexpected discovery of the double-charm tetraquark has given physicists a new tool with which to hone their understanding of the strongest of nature’s fundamental forces.            \nThe post ‘Impossible’ Particle Discovery Adds Key Piece to the Strong Force Puzzle first appeared on Quanta Magazine",
@@ -1434,24 +1489,6 @@
           "publishedOn": "2021-09-03T22:00:00.000Z",
           "wordCount": 675,
           "title": "How to focus an already open browser tab (Chromium and macOS) (#note)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-34/",
-          "author": null,
-          "description": "Guten Tag, friends! 👋\n\nIf you're subscribed to this newsletter for a while, you know that I discovered the electro piano duo Grandbrothers and became a big fan. I saw them live this week, and I'm so happy; live music is just the best!\nBefore jumping into nerdy stuff, let's start the week with some doggo cuteness.\n\n\n          \n            \nThis week's Web Weekly includes:\nFancy CSS features: accent-color, font-family: system-ui and color-scheme\nworkplace privileges\ndirectory-dependent git configuration\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nReady? Steady. Go!\nHow Google generates search result titles\n\n\n\n\n\n          \n            \nGoogle changed the way how they generate the search result titles and now consider h1 elements, too. It's a good reminder about…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-34/",
-          "publishedOn": "2021-08-29T21:00:00.000Z",
-          "wordCount": 974,
-          "title": "Web Weekly #34 (#blogPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/how-to-apply-directory-dependent-git-configuration-using-conditional-imports/",
-          "author": null,
-          "description": "I just came across Marcus Crane's post Conditionally setting your gitconfig. Marcus explains how to use conditional includes and apply directory dependent git configuration.\nHere's an example from his blog post:\n[user]\n  email = user@example.com\n  name = User\n  signingkey = ABC123\n[commit]\n  gpgSign = true\n[includeIf \"gitdir:~/work/\"]\n  path = ~/.work.gitconfig\n\nThe git docs describe that you include configs depending on branch name, too.\nI don't need different git configurations these days, but it's good to know this feature exists. 👏\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/how-to-apply-directory-dependent-git-configuration-using-conditional-imports/",
-          "publishedOn": "2021-08-29T18:00:00.000Z",
-          "wordCount": 305,
-          "title": "How to apply directory dependent git configuration using conditional imports (#tilPost)"
         }
       ]
     }
