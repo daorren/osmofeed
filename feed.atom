@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-30T00:23:57.069Z</updated>
+    <updated>2021-10-01T00:25:28.619Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Accessibility Best Practices for Mobile App Development]]></title>
+        <id>611b08a4e884de075217ff23</id>
+        <link href="https://www.freecodecamp.org/news/mobile-accessibility/"/>
+        <updated>2021-09-30T21:47:00.000Z</updated>
+        <summary type="html"><![CDATA[The United States Census Bureau estimates that more than 12% of the United States' population is living with a disability. Disabilities can include vision difficulties, hearing difficulties, mobility challenges, and much more.  And a person can become disabled at any stage of their life.  Since a significant portion of the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Bullet Points – How to Create an Unordered List with the &lt;ul&gt; Tag Example]]></title>
+        <id>6155b8f964aefe07d3fa1234</id>
+        <link href="https://www.freecodecamp.org/news/html-bullet-points-how-to-create-an-unordered-list-with-the-ul-tag-example/"/>
+        <updated>2021-09-30T17:31:40.000Z</updated>
+        <summary type="html"><![CDATA[We use lists all the time in our everyday lives.  We create them to structure and organize our days, and we use them to make to-do lists. We use them in recipes so we don't miss any of the steps. And we use them when we want to assemble a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Distinct Statement – How to Query, Select, and Count]]></title>
+        <id>613f3c6d852f4307d372c7ca</id>
+        <link href="https://www.freecodecamp.org/news/sql-distinct-statement-how-to-query-select-and-count/"/>
+        <updated>2021-09-30T16:24:19.000Z</updated>
+        <summary type="html"><![CDATA[In SQL, you can make a database query and use the COUNT function to get the number of rows for a particular group in the table.  In this article, I will show you how to use the COUNT function with a few code examples.  What is the COUNT function in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anil Seth Finds Consciousness in Life’s Push Against Entropy]]></title>
+        <id>https://www.quantamagazine.org/?p=109006</id>
+        <link href="https://www.quantamagazine.org/anil-seth-finds-consciousness-in-lifes-push-against-entropy-20210930/"/>
+        <updated>2021-09-30T15:52:44.000Z</updated>
+        <summary type="html"><![CDATA[How does consciousness arise in mere flesh and blood? To the neuroscientist Anil Seth, our organic bodies are the key to the experience.            
+The post Anil Seth Finds Consciousness in Life’s Push Against Entropy first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Dan Falk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git for Professionals – Free Version Control Course]]></title>
+        <id>6155d5c364aefe07d3fa1467</id>
+        <link href="https://www.freecodecamp.org/news/git-for-professionals/"/>
+        <updated>2021-09-30T15:29:20.000Z</updated>
+        <summary type="html"><![CDATA[Almost every software developer uses git. Many use it continually throughout the day. While you may already know the very basics of git, your productivity will be increased if you learn some advanced git concepts. We just released a git course on the freeCodeCamp.org YouTube channel that will help]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SQL Count – How to Select, Sum, and Average Rows in SQL]]></title>
         <id>612cbfe4b5177808226d4a4b</id>
@@ -1726,97 +1777,6 @@ The post The Complex Truth About ‘Junk DNA’ first appeared on Quanta Magazin
         <link href="https://www.freecodecamp.org/news/how-to-use-figma-to-design-websites/"/>
         <updated>2021-09-01T13:21:54.000Z</updated>
         <summary type="html"><![CDATA[Figma is a vector graphics editor and prototyping tool that is great for designing websites. We just released a Figma course on the freeCodeCmap.org YouTube channel that will teach you how to use the tool to design websites. Joy Shaheb developed the course. Joy is a prolific tutorial creator]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Unblock Someone on Instagram]]></title>
-        <id>612cc025b5177808226d4a67</id>
-        <link href="https://www.freecodecamp.org/news/how-to-unblock-someone-on-instagram/"/>
-        <updated>2021-08-31T21:30:46.000Z</updated>
-        <summary type="html"><![CDATA[If you use Instagram, you may have needed to block certain accounts from time to time. But what if things change and you want to unblock someone?  In this article, I will walk you through the three ways to unblock someone on Instagram using the mobile app for iPhone and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Do While – Loop Example]]></title>
-        <id>612ddfa9d6679a07b7d3f3c9</id>
-        <link href="https://www.freecodecamp.org/news/python-do-while-loop-example/"/>
-        <updated>2021-08-31T21:15:26.000Z</updated>
-        <summary type="html"><![CDATA[Loops are a useful and frequently used feature in all modern programming languages.  If you want to automate a specific repetitive task or prevent yourself from writing repetitive code in your programs, using a loop is the best option for that.  Loops are a set of instructions that run repeatedly]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logging in Python – How to Use Logs to Debug Your Django Projects]]></title>
-        <id>61134bed72231b077cdad5e1</id>
-        <link href="https://www.freecodecamp.org/news/logging-in-python-debug-your-django-projects/"/>
-        <updated>2021-08-31T20:46:24.000Z</updated>
-        <summary type="html"><![CDATA[The only perfect code is code that has never been written. As a developer, you are bound to face errors and will be responsible for debugging them.  If you're coding in Python, you can always look at its error messages to figure out what's going on. But what if an]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bold Font in HTML – Font Weight for Letters]]></title>
-        <id>612e6908d6679a07b7d3fad2</id>
-        <link href="https://www.freecodecamp.org/news/bold-font-in-html-font-weight-for-letters/"/>
-        <updated>2021-08-31T20:35:21.000Z</updated>
-        <summary type="html"><![CDATA[When you're building a website, you may want to place particular emphasis on certain text to let users know that it's important.  And you can do this in HTML with various text formatting tags.  In this article, I will take you through how to emphasize certain text by making it]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Revert Commit – How to Undo the Last Commit]]></title>
-        <id>611d6719e884de07521811de</id>
-        <link href="https://www.freecodecamp.org/news/git-revert-commit-how-to-undo-the-last-commit/"/>
-        <updated>2021-08-31T20:20:41.000Z</updated>
-        <summary type="html"><![CDATA[Say you're working on your code in Git and something didn't go as planned. So now you need to revert your last commit. How do you do it? Let's find out! There are two possible ways to undo your last commit. We'll look at both of them in this article.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Release Management for Modern Software Development – How to Manage Dependencies, SemVer, and Build Systems for Beginners]]></title>
-        <id>611e90d03bccf807612a352a</id>
-        <link href="https://www.freecodecamp.org/news/release-management-modern-software-development/"/>
-        <updated>2021-08-31T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Releasing modern software might seem daunting and complicated. In this article, I'll expand on the concepts involved in the process, from managing dependencies to building in the cloud. Articles and tutorials usually cover a specific tool and dive right into it before laying down the foundational knowledge. In this article,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is an OS? Operating System Definition for Beginners]]></title>
-        <id>60ffa3a33306a507d1bf97e9</id>
-        <link href="https://www.freecodecamp.org/news/what-is-an-os-operating-system-definition-for-beginners/"/>
-        <updated>2021-08-31T16:50:03.000Z</updated>
-        <summary type="html"><![CDATA[People have long debated which is the best operating system for developers.  In order for us to answer this question, we first need to understand a few things, like:  What is an operating system? The history of operating systems How an operating system works Types and examples of operating systems]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The New Thermodynamic Understanding of Clocks]]></title>
-        <id>https://www.quantamagazine.org/?p=108310</id>
-        <link href="https://www.quantamagazine.org/the-new-science-of-clocks-prompts-questions-about-the-nature-of-time-20210831/"/>
-        <updated>2021-08-31T15:53:12.000Z</updated>
-        <summary type="html"><![CDATA[Investigations of the simplest possible clocks have revealed their fundamental limitations — as well as insights into the nature of time itself.            
-The post The New Thermodynamic Understanding of Clocks first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Natalie Wolchover</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use Selenium to Create a Web Scraping Bot]]></title>
-        <id>6127fc01b5177808226d2b46</id>
-        <link href="https://www.freecodecamp.org/news/use-selenium-to-create-a-web-scraping-bot/"/>
-        <updated>2021-08-31T12:43:06.000Z</updated>
-        <summary type="html"><![CDATA[Selenium is a powerful web automation tool that can be used for browser automation, to test front-end code, and create web scraping bots. We just released a full course on the freeCodeCamp.org website that will teach you Selenium while you build a web scraping bot. Jim from JimShapedCoding developed]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
