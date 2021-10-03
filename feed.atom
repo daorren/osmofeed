@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-02T00:21:17.562Z</updated>
+    <updated>2021-10-03T00:23:39.224Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 🖼️ Modern accidental renaissance]]></title>
+        <id>614f7ad08900685c40daff17</id>
+        <link href="https://labnotes.org/weekend-reading-modern-accidental-renaissance/"/>
+        <updated>2021-10-02T18:36:58.000Z</updated>
+        <summary type="html"><![CDATA[This week in accidental renaissance, we budget our bandwidth, park our car with 500 lines of code, and treat executives like elderly relatives.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three exciting Chrome DevTools experiments (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/three-exciting-chrome-devtools-experiments/</id>
+        <link href="https://www.stefanjudis.com/blog/three-exciting-chrome-devtools-experiments/"/>
+        <updated>2021-10-01T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I just had a look at the current Chrome DevTools experiments and enabled three handy new features. Let's have a look!
+How to enable Chrome experiments
+
+First, how do you enable Chrome experiments?
+You can either hit the little gear icons in the top-right corner and navigate to "Experiments". As a heavy keyboard user, I preview the shortcut way: open the command palette with CMD + Shift + p and go directly to the experiments menu.
+
+
+
+
+
+          
+            
+Look at all these possibly upcoming Chrome DevTools features and play around with them. That's why they're there!
+CSS Overview
+
+
+
+
+
+
+          
+            
+There are many CSS analysis tools out there, but having them right in your developer tools is super handy. The CSS overview lists defined colors and media queries, used fonts and useless CSS declarations. It's time to clean up your CSS!
+Warnings about low contrast text
+
+
+
+
+          
+            
+Low contrast text is one of the most common accessibility issues. Tools like Lighthouse check for these when you scan your site, but wouldn't it be great if the DevTools would tell you about issues right away? I (and the Chrome DevTools folks) think so, too, and that's why you can enable "Contrast issue reporting" to see warnings in your console. 💯
+A new font editor tool
+
+
+
+
+
+          
+            
+I always found it hard to define and style custom fonts. The new font editor helps with that and allows to change font settings with a visual UI!
+I love all this new DevTools functionality and can't wait to see what's next!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Solve the Problem of Multiple Inheritance in Java]]></title>
         <id>613f8a73852f4307d372cc55</id>
@@ -1711,47 +1776,6 @@ I analyzed what the Netlify CLI does and discovered that it uses the better-opn 
         <link href="https://www.freecodecamp.org/news/python-sort-list-how-to-order-by-descending-or-ascending/"/>
         <updated>2021-09-03T14:49:55.000Z</updated>
         <summary type="html"><![CDATA[In Python, you can sort data by using the sorted() method or sort() method.  In this article, I will provide code examples for the sorted() and sort() methods and explain the differences between the two. What is the sort() method in Python?This method takes a list and sorts it]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Flexbox and Grid Tutorial – How to Build a Landing Page with Just HTML and CSS]]></title>
-        <id>612f86fcd6679a07b7d401b3</id>
-        <link href="https://www.freecodecamp.org/news/css-flexbox-and-grid-tutorial/"/>
-        <updated>2021-09-02T17:16:52.000Z</updated>
-        <summary type="html"><![CDATA[In  this tutorial, we are going to build a simple landing page for an online education platform called Skilllz. This tutorial will teach you how to use and implement CSS Flexbox and CSS Grid alignment. We'll also cover many other CSS concepts as well. The tutorial is divided into three]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Open Task Manager in Windows 10]]></title>
-        <id>6130cfc9d6679a07b7d40bfb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-open-task-manager-in-windows-10/"/>
-        <updated>2021-09-02T16:17:55.000Z</updated>
-        <summary type="html"><![CDATA[Windows Task Manager is an advanced utility tool that helps you manage your apps that are running.  Task Manager lets you see which apps are open and which you're using. You can also see which apps are running in the background that you didn't open yourself.  One important reason that]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Computationally Complex Is a Single Neuron?]]></title>
-        <id>https://www.quantamagazine.org/?p=108406</id>
-        <link href="https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902/"/>
-        <updated>2021-09-02T15:31:27.000Z</updated>
-        <summary type="html"><![CDATA[Computational neuroscientists taught an artificial neural network to imitate a biological neuron. The result offers a new way to think about the complexity of single brain cells.            
-The post How Computationally Complex Is a Single Neuron? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Allison Whitten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Botnet – Botnet Definition and How to Defend Against Attacks]]></title>
-        <id>5fccd593e6787e098393ae5b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-botnet/"/>
-        <updated>2021-09-02T14:52:50.000Z</updated>
-        <summary type="html"><![CDATA[A botnet is a collection of internet connected devices (anything from PCs to IoT devices) which are infected by the same malware.  A hacker uses the malware the botnet is infected with to control it and launch botnet attacks. The attacks are more effective when launched using hundreds, or thousands,]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

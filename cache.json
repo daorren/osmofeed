@@ -965,33 +965,6 @@
           "publishedOn": "2021-09-03T14:49:55.000Z",
           "wordCount": 973,
           "title": "Python Sort List – How to Order By Descending or Ascending"
-        },
-        {
-          "id": "612f86fcd6679a07b7d401b3",
-          "author": null,
-          "description": "In  this tutorial, we are going to build a simple landing page for an online education platform called Skilllz. This tutorial will teach you how to use and implement CSS Flexbox and CSS Grid alignment. We'll also cover many other CSS concepts as well. The tutorial is divided into three",
-          "link": "https://www.freecodecamp.org/news/css-flexbox-and-grid-tutorial/",
-          "publishedOn": "2021-09-02T17:16:52.000Z",
-          "wordCount": 2815,
-          "title": "CSS Flexbox and Grid Tutorial – How to Build a Landing Page with Just HTML and CSS"
-        },
-        {
-          "id": "6130cfc9d6679a07b7d40bfb",
-          "author": null,
-          "description": "Windows Task Manager is an advanced utility tool that helps you manage your apps that are running.  Task Manager lets you see which apps are open and which you're using. You can also see which apps are running in the background that you didn't open yourself.  One important reason that",
-          "link": "https://www.freecodecamp.org/news/how-to-open-task-manager-in-windows-10/",
-          "publishedOn": "2021-09-02T16:17:55.000Z",
-          "wordCount": 822,
-          "title": "How to Open Task Manager in Windows 10"
-        },
-        {
-          "id": "5fccd593e6787e098393ae5b",
-          "author": null,
-          "description": "A botnet is a collection of internet connected devices (anything from PCs to IoT devices) which are infected by the same malware.  A hacker uses the malware the botnet is infected with to control it and launch botnet attacks. The attacks are more effective when launched using hundreds, or thousands,",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-botnet/",
-          "publishedOn": "2021-09-02T14:52:50.000Z",
-          "wordCount": 1956,
-          "title": "What is a Botnet – Botnet Definition and How to Defend Against Attacks"
         }
       ]
     },
@@ -1149,16 +1122,6 @@
           "wordCount": null,
           "title": "One Lab’s Quest to Build Space-Time Out of Quantum Particles",
           "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=108406",
-          "author": "Allison Whitten",
-          "description": "Computational neuroscientists taught an artificial neural network to imitate a biological neuron. The result offers a new way to think about the complexity of single brain cells.            \nThe post How Computationally Complex Is a Single Neuron? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902/",
-          "publishedOn": "2021-09-02T15:31:27.000Z",
-          "wordCount": null,
-          "title": "How Computationally Complex Is a Single Neuron?",
-          "itunes": {}
         }
       ]
     },
@@ -1167,6 +1130,15 @@
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
+        {
+          "id": "614f7ad08900685c40daff17",
+          "author": "Assaf Arkin",
+          "description": "This week in accidental renaissance, we budget our bandwidth, park our car with 500 lines of code, and treat executives like elderly relatives.",
+          "link": "https://labnotes.org/weekend-reading-modern-accidental-renaissance/",
+          "publishedOn": "2021-10-02T18:36:58.000Z",
+          "wordCount": 1234,
+          "title": "Weekend Reading — 🖼️ Modern accidental renaissance"
+        },
         {
           "id": "61463249a595c34c7a49d262",
           "author": "Assaf Arkin",
@@ -1210,6 +1182,15 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/three-exciting-chrome-devtools-experiments/",
+          "author": null,
+          "description": "I just had a look at the current Chrome DevTools experiments and enabled three handy new features. Let's have a look!\nHow to enable Chrome experiments\n\nFirst, how do you enable Chrome experiments?\nYou can either hit the little gear icons in the top-right corner and navigate to \"Experiments\". As a heavy keyboard user, I preview the shortcut way: open the command palette with CMD + Shift + p and go directly to the experiments menu.\n\n\n\n\n\n          \n            \nLook at all these possibly upcoming Chrome DevTools features and play around with them. That's why they're there!\nCSS Overview\n\n\n\n\n\n\n          \n            \nThere are many CSS analysis tools out there, but having them right in your developer tools is super handy. The CSS overview lists defined colors and media queries, used fonts and useless CSS declarations. It's time to clean up your CSS!\nWarnings about low contrast text\n\n\n\n\n          \n            \nLow contrast text is one of the most common accessibility issues. Tools like Lighthouse check for these when you scan your site, but wouldn't it be great if the DevTools would tell you about issues right away? I (and the Chrome DevTools folks) think so, too, and that's why you can enable \"Contrast issue reporting\" to see warnings in your console. 💯\nA new font editor tool\n\n\n\n\n\n          \n            \nI always found it hard to define and style custom fonts. The new font editor helps with that and allows to change font settings with a visual UI!\nI love all this new DevTools functionality and can't wait to see what's next!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/blog/three-exciting-chrome-devtools-experiments/",
+          "publishedOn": "2021-10-01T22:00:00.000Z",
+          "wordCount": 451,
+          "title": "Three exciting Chrome DevTools experiments (#blogPost)"
+        },
         {
           "id": "https://www.stefanjudis.com/notes/codeswing-a-vs-code-extension-for-quick-prototyping/",
           "author": null,
