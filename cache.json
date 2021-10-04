@@ -31,6 +31,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "5f9c98a3740569d1a4ca1b33",
+          "author": null,
+          "description": "Every year Class Central releases a list of the Best Free Online Courses Of All Time, based on tens of thousands of user reviews. This year, thanks to a growing number of reviews, I've expanded the list from 200 to 250 courses. For close to ten years, well-known and well-respected",
+          "link": "https://www.freecodecamp.org/news/best-online-courses/",
+          "publishedOn": "2021-10-03T04:21:00.000Z",
+          "wordCount": 11998,
+          "title": "The 250 Best Free Online Courses of All Time – A Data-Driven Analysis [2021 Edition]"
+        },
+        {
           "id": "613f8a73852f4307d372cc55",
           "author": null,
           "description": "Java is one of the most popular object-oriented programming languages in use today.  Because it is platform-independent, you will find Java applications on every type of device and every operating system. And because Java is relatively easy to learn, it is one of the first languages that many programmers pick",
@@ -947,24 +956,6 @@
           "publishedOn": "2021-09-06T07:04:00.000Z",
           "wordCount": 6433,
           "title": "700 Free Online Programming &amp; Computer Science Courses You Can Start This September"
-        },
-        {
-          "id": "61320541d6679a07b7d416a2",
-          "author": null,
-          "description": "You use the HTML select tag to create drop-down menus so that users can select the value they want. It is an instrumental feature in collecting data to be sent to a server.  The select tag normally goes within a form element, with the items to choose from coded within",
-          "link": "https://www.freecodecamp.org/news/html-select-tag-how-to-make-a-dropdown-menu-or-combo-list/",
-          "publishedOn": "2021-09-03T15:03:03.000Z",
-          "wordCount": 1416,
-          "title": "HTML Select Tag – How to Make a Dropdown Menu or Combo List"
-        },
-        {
-          "id": "6106588a3306a507d1bfc10c",
-          "author": null,
-          "description": "In Python, you can sort data by using the sorted() method or sort() method.  In this article, I will provide code examples for the sorted() and sort() methods and explain the differences between the two. What is the sort() method in Python?This method takes a list and sorts it",
-          "link": "https://www.freecodecamp.org/news/python-sort-list-how-to-order-by-descending-or-ascending/",
-          "publishedOn": "2021-09-03T14:49:55.000Z",
-          "wordCount": 973,
-          "title": "Python Sort List – How to Order By Descending or Ascending"
         }
       ]
     },
@@ -1316,15 +1307,6 @@
           "publishedOn": "2021-09-04T22:00:00.000Z",
           "wordCount": 331,
           "title": "Chrome and Edge provide a highly visible focus outlines (#tilPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/how-to-focus-an-already-open-browser-tab-chromium-and-macos/",
-          "author": null,
-          "description": "While reading an article about \"unknown\" Netlify CLI features, I discovered a little developer experience gem.\nWhen you run netlify dev, netlify will check if there’s an open browser tab on the existing port and if so, it’ll re use that tab to display your project as opposed to spinning up a new tab every time.\nAs a tab hoarder, I appreciate it when development tools reuse and focus already open localhost tabs. Unfortunately, I can't remember that I've ever seen a development CLI command reusing/focusing an already open tab.\nHow does that work? Is there an easy way to do that programmatically? And why did I never notice this?\nAn npm package to reuse tabs – better-opn\n\nI analyzed what the Netlify CLI does and discovered that it uses the better-opn npm package (find the usage here). The code…",
-          "link": "https://www.stefanjudis.com/notes/how-to-focus-an-already-open-browser-tab-chromium-and-macos/",
-          "publishedOn": "2021-09-03T22:00:00.000Z",
-          "wordCount": 675,
-          "title": "How to focus an already open browser tab (Chromium and macOS) (#note)"
         }
       ]
     }
