@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-04T00:24:00.494Z</updated>
+    <updated>2021-10-05T00:23:49.854Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Traceroute and Ping Commands to Troubleshoot Network Connectivity Issues]]></title>
+        <id>5fff3ec998be260817e495ee</id>
+        <link href="https://www.freecodecamp.org/news/traceroute-and-ping/"/>
+        <updated>2021-10-04T23:46:48.000Z</updated>
+        <summary type="html"><![CDATA[Ping and traceroute are common commands you can use to troubleshoot network problems.  Ping is a simple command that can test the reachability of a device on the network.  Traceroute is a command you use to 'trace' the route that a packet takes when traveling to its destination. It's useful]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own Developer Portfolio Website with HTML, CSS, and JavaScript]]></title>
+        <id>6154775964aefe07d3fa0b7d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website/"/>
+        <updated>2021-10-04T20:59:10.000Z</updated>
+        <summary type="html"><![CDATA[Everyone needs websites and web applications these days. So there are many opportunities for you if you work as a web developer.  But if you want to get a web developer job, you'll need a good portfolio website to showcase your skills and experience.  In this tutorial, I'll discuss some]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the OSI Model? Computer Networking for Beginners]]></title>
+        <id>613b97f1852f4307d372b637</id>
+        <link href="https://www.freecodecamp.org/news/osi-model-computer-networking-for-beginners/"/>
+        <updated>2021-10-04T16:27:49.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn about the core concepts of the Open Systems Interconnections (OSI) model in a simple and easy way. As a developer, it's a good idea to learn how things work "under the hood". That way you understand what your code and the tools you use]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is UX Design? User Experience Design Explained in Plain English]]></title>
+        <id>61063c1d3306a507d1bfbfca</id>
+        <link href="https://www.freecodecamp.org/news/user-experience-design-what-does-a-ux-designer-do/"/>
+        <updated>2021-10-04T16:21:30.000Z</updated>
+        <summary type="html"><![CDATA[You might have heard of the term User Experience or UX design. But what does it mean exactly? In this article, I will explain what UX design is and talk about how to become a UX designer.  What is UX design?The term User Experience refers to how users interact]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Medicine Nobel Prize Goes to Temperature and Touch Discoveries]]></title>
+        <id>https://www.quantamagazine.org/?p=109116</id>
+        <link href="https://www.quantamagazine.org/medicine-nobel-prize-goes-for-temperature-and-touch-discoveries-20211004/"/>
+        <updated>2021-10-04T09:42:09.000Z</updated>
+        <summary type="html"><![CDATA[David Julius and Ardem Patapoutian receive the 2021 Nobel Prize in Physiology or Medicine for their discoveries of how we detect heat and touch.            
+The post Medicine Nobel Prize Goes to Temperature and Touch Discoveries first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Jordana Cepelewicz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #39 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-39/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-39/"/>
+        <updated>2021-10-03T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Goooooood morning! 👋
+
+What's up, party people? Last week I spent some time implementing a Firefox-only feature on my website (it's a minimap). And I'm super into it! We need more fancy browser UI functionality.
+Apart from that, I have a busy week ahead because I'll be running a Jamstack conf workshop about Next.js and Contentful. Come and say Hi!
+This week's Web Weekly includes:
+Innovative browser UI patterns.
+A new proposal for CSS conditionals.
+Colorful scrollbars.
+... and, as always, GitHub repositories, a new Tiny Helper and some music.
+Quick links
+
+Container queries will also have new CSS units.
+Chrome is approaching version 100, and people are already testing if that will break things (it does).
+I learned that the checkmark (and other symbols) can have different meanings in this wor…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 250 Best Free Online Courses of All Time – A Data-Driven Analysis [2021 Edition]]]></title>
         <id>5f9c98a3740569d1a4ca1b33</id>
@@ -1697,61 +1771,6 @@ Fun coding fonts
  …]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome and Edge provide a highly visible focus outlines (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/chrome-edge-provide-a-highly-visible-focus-outlines/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/chrome-edge-provide-a-highly-visible-focus-outlines/"/>
-        <updated>2021-09-04T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Adrian Roselli shared that Chrome and Edge provide highly visible focus outlines.
-Go to their accessibility settings pages to turn on the feature:
-Chrome: chrome://settings/accessibility
-Edge starting with v94: edge://settings/accessibility
-
-
-          
-            
-When turned on, you see that focused elements receive an additional border and box-shadow.
-
-
-
-
-          
-            
-I haven't decided yet if I keep highly visible focus outlines turned on in Chrome/Edge, but I'd wish Firefox would offer a similar feature or improve their focus outlines at some point.
-(the tiny dotted line bugs me for years by now 🙈)
-Edit: Šime pointed out that you can change Firefox' focus outline by navigating to about:config and changing browser.display.focus_ring_style to 0 and browser.display.focus_ring_width to 4. 👏
-
-
-
-
-          
-            
-              
-              
-            
-          
-        
-      
-    
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — ☕ Ffrothi Coffi]]></title>
-        <id>612a9bc159eedf3e7558896b</id>
-        <link href="https://labnotes.org/weekend-reading-ffrothi-coffi/"/>
-        <updated>2021-09-04T20:07:50.000Z</updated>
-        <summary type="html"><![CDATA[This week we game and watch, sweep the floor, design a green & black protocol, hallucinate New Yorker cartoons, and date the #vanlife.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
