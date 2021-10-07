@@ -31,6 +31,78 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "615beb720d91c9077974c716",
+          "author": null,
+          "description": "Computers store and process all kinds of data.  Strings are just one of the many forms in which information is presented and gets processed by computers.  Strings in the C programming language work differently than in other modern programming languages.  In this article, you'll learn how to declare strings in",
+          "link": "https://www.freecodecamp.org/news/c-string-how-to-declare-strings-in-the-c-programming-language/",
+          "publishedOn": "2021-10-06T17:51:39.000Z",
+          "wordCount": 2390,
+          "title": "C String – How to Declare Strings in the C Programming Language"
+        },
+        {
+          "id": "612f4388d6679a07b7d3fee4",
+          "author": null,
+          "description": "In Python, can use use the range() function to get a sequence of indices to loop through an iterable. You'll often use range() in conjunction with a for loop.  In this tutorial, you'll learn about the different ways in which you can use the range() function – with explicit start and",
+          "link": "https://www.freecodecamp.org/news/python-range-function-explained-with-code-examples/",
+          "publishedOn": "2021-10-06T17:21:45.000Z",
+          "wordCount": 1529,
+          "title": "Python range() Function – Explained with Code Examples"
+        },
+        {
+          "id": "614870b9852f4307d3731030",
+          "author": null,
+          "description": "File compression is an essential utility across all platforms. It helps you reduce file size and share files efficiently. And compressed files are also easier to copy to remote servers.  You can also compress older and rarely used files and save them for future use which helps you conserve disk",
+          "link": "https://www.freecodecamp.org/news/how-to-compress-files-in-linux-with-tar-command/",
+          "publishedOn": "2021-10-06T16:19:13.000Z",
+          "wordCount": 899,
+          "title": "Linux tar Command – How to Compress Files in Linux"
+        },
+        {
+          "id": "615d55b40d91c9077974d3f8",
+          "author": null,
+          "description": "If you want to add data to your SQL table, then you can use the INSERT statement.  In this article, I will show you how to use the INSERT statement to add a single row, multiple rows, and to copy rows from one SQL table to another. Basic INSERT syntaxHere",
+          "link": "https://www.freecodecamp.org/news/insert-into-sql-how-to-insert-into-a-table-query-example-statement/",
+          "publishedOn": "2021-10-06T16:10:50.000Z",
+          "wordCount": 955,
+          "title": "Insert Into SQL – How to Insert Into a Table Query [Example Statement]"
+        },
+        {
+          "id": "6155429464aefe07d3fa1019",
+          "author": null,
+          "description": "I have observed a fascinating phenomenon amongst folks applying for their first developer jobs.  The behavior seems consistent across college graduates, Bootcampers, and self-taught folks. When asking for a résumé review, they almost always get the answer \"build more projects\".  This is great advice, but you can do more to",
+          "link": "https://www.freecodecamp.org/news/build-your-developer-resume-without-job-experience/",
+          "publishedOn": "2021-10-06T15:29:13.000Z",
+          "wordCount": 2042,
+          "title": "How to Build Your Developer Résumé Without Job Experience"
+        },
+        {
+          "id": "6070ea34d5756f080ba98017",
+          "author": null,
+          "description": "Just the thought of learning to code can be very intimidating. The word code is mysterious by definition. It implies a technical form of communication that computers, and not humans, are meant to understand. One way many people start learning to code is by picking a popular programming language and",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-programming/",
+          "publishedOn": "2021-10-06T15:17:39.000Z",
+          "wordCount": 10466,
+          "title": "How to Learn Programming – The Guide I Wish I Had When I Started Learning to Code"
+        },
+        {
+          "id": "613cbc6b852f4307d372bc5a",
+          "author": null,
+          "description": "Hacktoberfest is an event hosted by DigitalOcean that partners with many organizations. The goal is to give back and contribute to open-source projects. The organizers offer little incentives for a job well done, like a shirt and stickers. Other organizations also get involved by offering their own rewards. You can",
+          "link": "https://www.freecodecamp.org/news/how-anyone-can-participate-in-hacktoberfest/",
+          "publishedOn": "2021-10-06T15:14:48.000Z",
+          "wordCount": 1955,
+          "title": "How to Participate in Hacktoberfest – Even if You Don&#x27;t Write Code"
+        },
+        {
+          "id": "615db6910d91c9077974deb1",
+          "author": null,
+          "description": "Computers can be intimidating, especially if you didn't grow up with them. Some tasks that seem simple to experienced users can seem impossible to new users. We just released a computer and technology basics course on the freeCodeCamp.org YouTube channel. This course teaches the basics of computer use and",
+          "link": "https://www.freecodecamp.org/news/computer-basics-for-absolute-beginners/",
+          "publishedOn": "2021-10-06T14:54:13.000Z",
+          "wordCount": 426,
+          "title": "Computer Basics for Absolute Beginners"
+        },
+        {
           "id": "61533caa64aefe07d3fa041a",
           "author": null,
           "description": "Every JavaScript beginner will face this question at least once: \"What is a callback function?\"  Well, we can find the answer in the word callback itself. It's all about notifying the caller after the successful completion or failure of a task.  In this article, I'll focus less on the technical",
@@ -1019,6 +1091,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=109124",
+          "author": "Jordana Cepelewicz",
+          "description": "Benjamin List and David MacMillan received the 2021 Nobel Prize in Chemistry for their development of asymmetrical organocatalysis.            \nThe post Chemistry Nobel Prize Honors Technique for Building Molecules first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/chemistry-nobel-prize-honors-technique-for-building-molecules-20211006/",
+          "publishedOn": "2021-10-06T10:03:16.000Z",
+          "wordCount": null,
+          "title": "Chemistry Nobel Prize Honors Technique for Building Molecules",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=109120",
           "author": "Natalie Wolchover",
           "description": "Syukuro Manabe and Klaus Hasselmann have been honored for their work that led to reliable predictions of the effects of climate change. They will share the Nobel with Giorgio Parisi, who has made pioneering studies of chaotic physical systems.            \nThe post Work on Earth’s Climate and Other Complex Systems Earns Nobel Prize in Physics first appeared on Quanta Magazine",
@@ -1176,16 +1258,6 @@
           "publishedOn": "2021-09-08T16:28:58.000Z",
           "wordCount": null,
           "title": "Karen Miga Fills In the Missing Pieces of Our Genome",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=108435",
-          "author": "Adam Becker",
-          "description": "For over two decades, physicists have pondered how the fabric of space-time may emerge from some kind of quantum entanglement. In Monika Schleier-Smith’s lab at Stanford University, the thought experiment is becoming real.            \nThe post One Lab’s Quest to Build Space-Time Out of Quantum Particles first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/one-labs-quest-to-build-space-time-out-of-quantum-particles-20210907/",
-          "publishedOn": "2021-09-07T05:43:46.000Z",
-          "wordCount": null,
-          "title": "One Lab’s Quest to Build Space-Time Out of Quantum Particles",
           "itunes": {}
         }
       ]

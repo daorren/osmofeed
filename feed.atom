@@ -2,10 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-06T00:22:13.971Z</updated>
+    <updated>2021-10-07T00:21:42.993Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[C String – How to Declare Strings in the C Programming Language]]></title>
+        <id>615beb720d91c9077974c716</id>
+        <link href="https://www.freecodecamp.org/news/c-string-how-to-declare-strings-in-the-c-programming-language/"/>
+        <updated>2021-10-06T17:51:39.000Z</updated>
+        <summary type="html"><![CDATA[Computers store and process all kinds of data.  Strings are just one of the many forms in which information is presented and gets processed by computers.  Strings in the C programming language work differently than in other modern programming languages.  In this article, you'll learn how to declare strings in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python range() Function – Explained with Code Examples]]></title>
+        <id>612f4388d6679a07b7d3fee4</id>
+        <link href="https://www.freecodecamp.org/news/python-range-function-explained-with-code-examples/"/>
+        <updated>2021-10-06T17:21:45.000Z</updated>
+        <summary type="html"><![CDATA[In Python, can use use the range() function to get a sequence of indices to loop through an iterable. You'll often use range() in conjunction with a for loop.  In this tutorial, you'll learn about the different ways in which you can use the range() function – with explicit start and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux tar Command – How to Compress Files in Linux]]></title>
+        <id>614870b9852f4307d3731030</id>
+        <link href="https://www.freecodecamp.org/news/how-to-compress-files-in-linux-with-tar-command/"/>
+        <updated>2021-10-06T16:19:13.000Z</updated>
+        <summary type="html"><![CDATA[File compression is an essential utility across all platforms. It helps you reduce file size and share files efficiently. And compressed files are also easier to copy to remote servers.  You can also compress older and rarely used files and save them for future use which helps you conserve disk]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insert Into SQL – How to Insert Into a Table Query [Example Statement]]]></title>
+        <id>615d55b40d91c9077974d3f8</id>
+        <link href="https://www.freecodecamp.org/news/insert-into-sql-how-to-insert-into-a-table-query-example-statement/"/>
+        <updated>2021-10-06T16:10:50.000Z</updated>
+        <summary type="html"><![CDATA[If you want to add data to your SQL table, then you can use the INSERT statement.  In this article, I will show you how to use the INSERT statement to add a single row, multiple rows, and to copy rows from one SQL table to another. Basic INSERT syntaxHere]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Developer Résumé Without Job Experience]]></title>
+        <id>6155429464aefe07d3fa1019</id>
+        <link href="https://www.freecodecamp.org/news/build-your-developer-resume-without-job-experience/"/>
+        <updated>2021-10-06T15:29:13.000Z</updated>
+        <summary type="html"><![CDATA[I have observed a fascinating phenomenon amongst folks applying for their first developer jobs.  The behavior seems consistent across college graduates, Bootcampers, and self-taught folks. When asking for a résumé review, they almost always get the answer "build more projects".  This is great advice, but you can do more to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn Programming – The Guide I Wish I Had When I Started Learning to Code]]></title>
+        <id>6070ea34d5756f080ba98017</id>
+        <link href="https://www.freecodecamp.org/news/how-to-learn-programming/"/>
+        <updated>2021-10-06T15:17:39.000Z</updated>
+        <summary type="html"><![CDATA[Just the thought of learning to code can be very intimidating. The word code is mysterious by definition. It implies a technical form of communication that computers, and not humans, are meant to understand. One way many people start learning to code is by picking a popular programming language and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Participate in Hacktoberfest – Even if You Don&#x27;t Write Code]]></title>
+        <id>613cbc6b852f4307d372bc5a</id>
+        <link href="https://www.freecodecamp.org/news/how-anyone-can-participate-in-hacktoberfest/"/>
+        <updated>2021-10-06T15:14:48.000Z</updated>
+        <summary type="html"><![CDATA[Hacktoberfest is an event hosted by DigitalOcean that partners with many organizations. The goal is to give back and contribute to open-source projects. The organizers offer little incentives for a job well done, like a shirt and stickers. Other organizations also get involved by offering their own rewards. You can]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Basics for Absolute Beginners]]></title>
+        <id>615db6910d91c9077974deb1</id>
+        <link href="https://www.freecodecamp.org/news/computer-basics-for-absolute-beginners/"/>
+        <updated>2021-10-06T14:54:13.000Z</updated>
+        <summary type="html"><![CDATA[Computers can be intimidating, especially if you didn't grow up with them. Some tasks that seem simple to experienced users can seem impossible to new users. We just released a computer and technology basics course on the freeCodeCamp.org YouTube channel. This course teaches the basics of computer use and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chemistry Nobel Prize Honors Technique for Building Molecules]]></title>
+        <id>https://www.quantamagazine.org/?p=109124</id>
+        <link href="https://www.quantamagazine.org/chemistry-nobel-prize-honors-technique-for-building-molecules-20211006/"/>
+        <updated>2021-10-06T10:03:16.000Z</updated>
+        <summary type="html"><![CDATA[Benjamin List and David MacMillan received the 2021 Nobel Prize in Chemistry for their development of asymmetrical organocatalysis.            
+The post Chemistry Nobel Prize Honors Technique for Building Molecules first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Jordana Cepelewicz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Callback Function –Explained in Plain English]]></title>
         <id>61533caa64aefe07d3fa041a</id>
@@ -1753,17 +1844,6 @@ So here we go with something to copy and paste into your settings.json.
         <summary type="html"><![CDATA[Magazine covers, business logos, and book covers are all common examples of graphic design. But what is graphic design? In this article, I'll explain what graphic design is, discuss different areas of graphic design, provide helpful learning resources, and talk about salaries for designers.  What is Graphic Design?Graphic Design]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Lab’s Quest to Build Space-Time Out of Quantum Particles]]></title>
-        <id>https://www.quantamagazine.org/?p=108435</id>
-        <link href="https://www.quantamagazine.org/one-labs-quest-to-build-space-time-out-of-quantum-particles-20210907/"/>
-        <updated>2021-09-07T05:43:46.000Z</updated>
-        <summary type="html"><![CDATA[For over two decades, physicists have pondered how the fabric of space-time may emerge from some kind of quantum entanglement. In Monika Schleier-Smith’s lab at Stanford University, the thought experiment is becoming real.            
-The post One Lab’s Quest to Build Space-Time Out of Quantum Particles first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Adam Becker</name>
         </author>
     </entry>
 </feed>
