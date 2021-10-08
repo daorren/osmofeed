@@ -31,6 +31,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "615de4da0d91c9077974e23f",
+          "author": null,
+          "description": "Go, also known as Golang, is an open-source, compiled, and statically typed programming language designed by Google. It is built to be simple, high-performing, readable, and efficient.  In this article, you'll learn:  Where Go came from and where it is now, Why I think you should learn it, How to",
+          "link": "https://www.freecodecamp.org/news/what-is-go-programming-language/",
+          "publishedOn": "2021-10-07T15:26:18.000Z",
+          "wordCount": 1602,
+          "title": "What is Go? Golang Programming Language Meaning Explained"
+        },
+        {
           "id": "615beb720d91c9077974c716",
           "author": null,
           "description": "Computers store and process all kinds of data.  Strings are just one of the many forms in which information is presented and gets processed by computers.  Strings in the C programming language work differently than in other modern programming languages.  In this article, you'll learn how to declare strings in",
@@ -974,114 +983,6 @@
           "publishedOn": "2021-09-08T14:23:56.000Z",
           "wordCount": 522,
           "title": "Learn Algorithms and Data Structures in Python"
-        },
-        {
-          "id": "611827fe72231b077cdb021c",
-          "author": null,
-          "description": "Today you will learn how to build your own clone of the 2048 game in React.  What makes this article unique is that we will focus on creating delightful animations. Aside from React, we will use TypeScript and we'll make some CSS transitions using LESS.  We are only going to",
-          "link": "https://www.freecodecamp.org/news/how-to-make-2048-game-in-react/",
-          "publishedOn": "2021-09-08T01:38:41.000Z",
-          "wordCount": 3549,
-          "title": "React Tutorial – How to Build the 2048 Game in React"
-        },
-        {
-          "id": "61372fd1d6679a07b7d43e77",
-          "author": null,
-          "description": "You can use the HTML span tag as a container to group inline elements together so you can style or manipulate them with JavaScript.  In this article, I will show you how to use the span tag to make a certain part of your content distinct from the rest. Then",
-          "link": "https://www.freecodecamp.org/news/span-html-how-to-use-the-span-tag-with-css/",
-          "publishedOn": "2021-09-08T01:18:28.000Z",
-          "wordCount": 668,
-          "title": "Span HTML – How to Use the Span Tag with CSS"
-        },
-        {
-          "id": "6132237ad6679a07b7d418ca",
-          "author": null,
-          "description": "Functions are one of the main parts of computer programs.  They are widely used and are one of JavaScript's fundamental building blocks.  In this article, we'll go over the definition of functions and why they are so important. I'll also show you how to get started writing functions in JavaScript.",
-          "link": "https://www.freecodecamp.org/news/what-is-a-function-javascript-function-examples/",
-          "publishedOn": "2021-09-07T23:46:55.000Z",
-          "wordCount": 1473,
-          "title": "What is a Function? JavaScript Function Examples"
-        },
-        {
-          "id": "612204093bccf807612a575a",
-          "author": null,
-          "description": "In Python, you have a few options to format your strings. In this article, I will go over str.format(), formatted string literals, and template strings.  But first, let's take a look at what is considered to be the \"old way\" of formatting strings.  What is % string formatting in Python?",
-          "link": "https://www.freecodecamp.org/news/python-string-format-python-s-print-format-example/",
-          "publishedOn": "2021-09-07T23:20:34.000Z",
-          "wordCount": 1421,
-          "title": "Python String Format – Python S Print Format Example"
-        },
-        {
-          "id": "61320c11d6679a07b7d41704",
-          "author": null,
-          "description": "When you're working with an array in JavaScript, sometimes you might just want to check if at least one element inside that array passes a test. And you might not care about any other subsequent matches.  In such a case, you should use the some() JavaScript method. So let's see",
-          "link": "https://www.freecodecamp.org/news/javascript-array-some-tutorial-how-to-iterate-through-elements-in-an-array/",
-          "publishedOn": "2021-09-07T22:14:16.000Z",
-          "wordCount": 1207,
-          "title": "JavaScript Array.some() Tutorial – How to Iterate Through Elements in an Array"
-        },
-        {
-          "id": "6114c91072231b077cdae3f6",
-          "author": null,
-          "description": "When you're building a project that needs to represent data visually, you will need a good way to display the information so it's easy to read and understand.  Now, depending on the type of data, you can select between different representation methods using HTML elements.  In most cases, tables are",
-          "link": "https://www.freecodecamp.org/news/html-tables-table-tutorial-with-css-example-code/",
-          "publishedOn": "2021-09-07T21:17:18.000Z",
-          "wordCount": 1539,
-          "title": "HTML Tables – Table Tutorial with Example Code"
-        },
-        {
-          "id": "61330342d6679a07b7d41de1",
-          "author": null,
-          "description": "*ngIf and *ngFor can help you keep your Angular code clean, simple, and effective. So, let's learn what *ngFor and *ngIf are all about. What is *ngFor?Let's talk about *ngFor first. You use the *ngFor directive to traverse over an array object and display the data in the UI.",
-          "link": "https://www.freecodecamp.org/news/angular-ngfor-and-ngif-explained/",
-          "publishedOn": "2021-09-07T20:45:34.000Z",
-          "wordCount": 979,
-          "title": "Angular *ngFor and *ngIf Directives Explained for Beginners"
-        },
-        {
-          "id": "61327c7fd6679a07b7d41b17",
-          "author": null,
-          "description": "Over the past few years, serverless architecture has become very popular. This is largely because it has removed the burden of managing infrastructure, such as servers, storage, databases, scalability, and so on.  When people first started using the term \"serverless,\" it created some confusion in the industry. Some",
-          "link": "https://www.freecodecamp.org/news/how-to-test-serverless-applications-in-aws/",
-          "publishedOn": "2021-09-07T18:33:36.000Z",
-          "wordCount": 3368,
-          "title": "How to Test Serverless Applications in AWS"
-        },
-        {
-          "id": "61350ccad6679a07b7d4314c",
-          "author": null,
-          "description": "We believe that everyone deserves to have free programming education in their own native language. So we are expanding International Translation Day (September 30th) into a full month-long effort. Over the past few years, hundreds of volunteer contributors have worked to translate freeCodeCamp into major world languages. In February, Quincy",
-          "link": "https://www.freecodecamp.org/news/world-translation-month-event/",
-          "publishedOn": "2021-09-07T17:37:37.000Z",
-          "wordCount": 1011,
-          "title": "World Translation Month – Help Us Translate freeCodeCamp into Your Native Language"
-        },
-        {
-          "id": "61307fb1d6679a07b7d4061e",
-          "author": null,
-          "description": "In coding, files are used to store data. Then you can easily access that data at any point.  Reading, writing, and editing files in Python is a common task, since the language provides us with built-in functions that allow us to do so.  In this article, I'll create a simple",
-          "link": "https://www.freecodecamp.org/news/python-create-file-how-to-append-and-write-to-a-text-file/",
-          "publishedOn": "2021-09-07T16:44:25.000Z",
-          "wordCount": 1116,
-          "title": "Python Create File – How to Append and Write to a Text File"
-        },
-        {
-          "id": "613784fa581b610782a917ce",
-          "author": null,
-          "description": "Vue is one of the more popular front-end JavaScirpt frameworks. It makes it simpler to create powerful websites. We just released a Vue course on the freeCodeCamp.org YouTube channel that will teach you the latest version of this progressive JavaScript framework. Gwendolyn Faraday developed this course. She previously created",
-          "link": "https://www.freecodecamp.org/news/vue-3-full-course/",
-          "publishedOn": "2021-09-07T15:37:36.000Z",
-          "wordCount": 28804,
-          "title": "Learn Vue 3, a Front-End JavaScript Framework"
-        },
-        {
-          "id": "610655073306a507d1bfc0d2",
-          "author": null,
-          "description": "Magazine covers, business logos, and book covers are all common examples of graphic design. But what is graphic design? In this article, I'll explain what graphic design is, discuss different areas of graphic design, provide helpful learning resources, and talk about salaries for designers.  What is Graphic Design?Graphic Design",
-          "link": "https://www.freecodecamp.org/news/what-is-graphic-design-the-graphic-designer-job-explained-in-plain-english/",
-          "publishedOn": "2021-09-07T15:08:49.000Z",
-          "wordCount": 1003,
-          "title": "What is Graphic Design? The Graphic Designer Job Explained in Plain English"
         }
       ]
     },
@@ -1090,6 +991,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=109369",
+          "author": "Mordechai Rorvig",
+          "description": "After decades of effort, mathematicians now have a complete understanding of the complicated equations that model the motion of free boundaries, like the one between ice and water.            \nThe post Mathematicians Prove Melting Ice Stays Smooth first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/mathematicians-prove-melting-ice-stays-smooth-20211006/",
+          "publishedOn": "2021-10-06T14:24:38.000Z",
+          "wordCount": null,
+          "title": "Mathematicians Prove Melting Ice Stays Smooth",
+          "itunes": {}
+        },
         {
           "id": "https://www.quantamagazine.org/?p=109124",
           "author": "Jordana Cepelewicz",
@@ -1426,15 +1337,6 @@
           "publishedOn": "2021-09-10T22:00:00.000Z",
           "wordCount": 474,
           "title": "How to discard tabs to save resources in Chrome, Edge and Firefox (#tilPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/how-to-configure-vs-code-bracket-colors/",
-          "author": null,
-          "description": "Bracket Colorization became a native VS Code feature with the August 2021 update, and it replaces the popular Bracket Pair Colorizer extension. The reason behind the new native functionality is that the extension suffered from bad performance when colorizing large files (I never noticed that, but hey... 🤷‍♂️).\n\n\n\n\n\n          \n            \nWhen I went to my VS Code settings to enable the feature, I couldn't figure out how to configure the bracket colors to match my color theme. Unfortunately, the setting description was not very helpful because it doesn't tell what to put into workbench.colorCustomizations.\n\n\n\n\n          \n            \nLuckily, I found a tweet by Rachel Leggett that describes how to configure the colors using the editorBracketHighlight.foreground keys.\nSo here we go with something to copy and paste into your settings.json.\n{\n  \"editor.bracketPairColorization.enabled\": true,\n  \"workbench.colorCustomizations\": {\n    \"editorBracketHighlight.foreground1\": \"#5caeef\",\n    \"editorBracketHighlight.foreground2\": \"#dfb976\",\n    \"editorBracketHighlight.foreground3\": \"#c172d9\",\n    \"editorBracketHighlight.foreground4\": \"#4fb1bc\",\n    \"editorBracketHighlight.foreground5\": \"#97c26c\",\n    \"editorBracketHighlight.foreground6\": \"#abb2c0\",\n    \"editorBracketHighlight.unexpectedBracket.foreground\": \"#db6165\"\n  },\n}\n\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/snippets/how-to-configure-vs-code-bracket-colors/",
-          "publishedOn": "2021-09-07T22:00:00.000Z",
-          "wordCount": 315,
-          "title": "How to configure VS Code Bracket Colors (#snippet)"
         }
       ]
     }
