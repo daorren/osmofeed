@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-10T00:22:45.401Z</updated>
+    <updated>2021-10-11T00:22:26.690Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #40 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-40/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-40/"/>
+        <updated>2021-10-09T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Happy Sunday, party people! 👋
+
+Last week was super busy because of Jamstack conf. We were sponsoring the event, and I had the honor to give a workshop about Next.js and Contentful. It was a lot of work, but now that we have the materials, we might publish a course on the topic next year! 🎉
+I'm looking forward to a chilled week and hope you're all well!
+This week's Web Weekly includes:
+All the web development areas one could know
+The importance of real user performance metrics
+New progressive web app features
+... and, as always, GitHub repositories, a new Tiny Helper and some music.
+Quick links
+
+The HTML attribute enterkeyhint is now supported in Safari, Chromium and(!) Firefox.
+Eleventy reached version 1.0.
+Mac trivia: menu options with ... trigger an additional dialog box.
+"What should …]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — 👋 Could be fun to fix]]></title>
         <id>6158a6febcaf577e11e184cc</id>
@@ -1574,38 +1598,6 @@ How …]]></summary>
         <summary type="html"><![CDATA[This week we crack the naughty word list, reduce drag, make it rain, and use this one hack to improve the relationship with our ISP.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to discard tabs to save resources in Chrome, Edge and Firefox (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/how-to-discard-tabs-to-save-resources-in-chrome-edge-and-firefox/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/how-to-discard-tabs-to-save-resources-in-chrome-edge-and-firefox/"/>
-        <updated>2021-09-10T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you're a tab hoarder like me, you probably noticed that browsers discard inactive browser tabs to save resources eventually. The tabs are still open and visible in the browser UI but are put to sleep and only brought back and reloaded on tab focus.
-Today I found out that there are ways to control if tabs should be discarded and even discard tabs yourself.
-In Chrome/Edge navigate to about://discards (about is a shorthand to use the same protocol in Chrome and Edge and find all open tabs ready to be controlled.
-
-
-
-
-          
-            
-All tab entries include an Urgent Discard button to put them to sleep, and you can configure if a particular tab should be auto-discardable, too.
-Similar functionality will be included in Firefox 94 at about:unloads. The page provides insights into the allocated tab resources and allows you to "unload" them one at a time. What's different here is that you can't decide which tabs to unload because the "unload" button only discards tabs in a prioritized order. 🤷‍♂️
-
-
-
-          
-            
-All in all, tab discarding is a handy functionality, and I'll try out discarding all tabs the next time I'm running low on memory or battery. (I can't lose all the tabs...)
-But configuring "auto discard" for each tab, I won't mess with it. Browsers don't discard active tabs like a YouTube music video or the Slack UI, and they're probably smarter at figuring out when an active tab consumes too many resources than I am. 😉
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

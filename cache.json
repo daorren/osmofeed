@@ -1064,7 +1064,7 @@
       ]
     },
     {
-      "title": "Labnotes (by Assaf Arkin)",
+      "title": "👋 Labnotes (by Assaf Arkin)",
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
@@ -1120,6 +1120,15 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-40/",
+          "author": null,
+          "description": "Happy Sunday, party people! 👋\n\nLast week was super busy because of Jamstack conf. We were sponsoring the event, and I had the honor to give a workshop about Next.js and Contentful. It was a lot of work, but now that we have the materials, we might publish a course on the topic next year! 🎉\nI'm looking forward to a chilled week and hope you're all well!\nThis week's Web Weekly includes:\nAll the web development areas one could know\nThe importance of real user performance metrics\nNew progressive web app features\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nQuick links\n\nThe HTML attribute enterkeyhint is now supported in Safari, Chromium and(!) Firefox.\nEleventy reached version 1.0.\nMac trivia: menu options with ... trigger an additional dialog box.\n\"What should …",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-40/",
+          "publishedOn": "2021-10-09T22:00:00.000Z",
+          "wordCount": 987,
+          "title": "Web Weekly #40 (#blogPost)"
+        },
         {
           "id": "https://www.stefanjudis.com/notes/how-to-define-progressive-web-app-pwa-screenshots-and-shortcuts/",
           "author": null,
@@ -1236,15 +1245,6 @@
           "publishedOn": "2021-09-12T22:00:00.000Z",
           "wordCount": 929,
           "title": "Web Weekly #36 (#blogPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/how-to-discard-tabs-to-save-resources-in-chrome-edge-and-firefox/",
-          "author": null,
-          "description": "If you're a tab hoarder like me, you probably noticed that browsers discard inactive browser tabs to save resources eventually. The tabs are still open and visible in the browser UI but are put to sleep and only brought back and reloaded on tab focus.\nToday I found out that there are ways to control if tabs should be discarded and even discard tabs yourself.\nIn Chrome/Edge navigate to about://discards (about is a shorthand to use the same protocol in Chrome and Edge and find all open tabs ready to be controlled.\n\n\n\n\n          \n            \nAll tab entries include an Urgent Discard button to put them to sleep, and you can configure if a particular tab should be auto-discardable, too.\nSimilar functionality will be included in Firefox 94 at about:unloads. The page provides insights into the allocated tab resources and allows you to \"unload\" them one at a time. What's different here is that you can't decide which tabs to unload because the \"unload\" button only discards tabs in a prioritized order. 🤷‍♂️\n\n\n\n          \n            \nAll in all, tab discarding is a handy functionality, and I'll try out discarding all tabs the next time I'm running low on memory or battery. (I can't lose all the tabs...)\nBut configuring \"auto discard\" for each tab, I won't mess with it. Browsers don't discard active tabs like a YouTube music video or the Slack UI, and they're probably smarter at figuring out when an active tab consumes too many resources than I am. 😉\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/how-to-discard-tabs-to-save-resources-in-chrome-edge-and-firefox/",
-          "publishedOn": "2021-09-10T22:00:00.000Z",
-          "wordCount": 474,
-          "title": "How to discard tabs to save resources in Chrome, Edge and Firefox (#tilPost)"
         }
       ]
     }
