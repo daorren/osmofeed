@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-11T00:22:26.690Z</updated>
+    <updated>2021-10-12T00:23:15.775Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Start a Blog [Free 70-Page Book]]]></title>
+        <id>6159ab734aa03507d9412321</id>
+        <link href="https://www.freecodecamp.org/news/how-to-start-a-blog-book/"/>
+        <updated>2021-10-11T17:21:00.000Z</updated>
+        <summary type="html"><![CDATA[What follows is a full-length book on how to create a successful blog. I am a software developer and I've written 1,500 posts on my blog over the past few years. Millions of people have read my writing. And my blog is now one of the top 20,000]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Link to an Old Model Could Crack the Mystery of Deep Learning]]></title>
+        <id>https://www.quantamagazine.org/?p=109421</id>
+        <link href="https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/"/>
+        <updated>2021-10-11T15:33:28.000Z</updated>
+        <summary type="html"><![CDATA[To help them explain the shocking success of deep neural networks, researchers are turning to older but better-understood models of machine learning.            
+The post A New Link to an Old Model Could Crack the Mystery of Deep Learning first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Anil Ananthaswamy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Dynamic Twitter Header]]></title>
+        <id>615408e064aefe07d3fa0743</id>
+        <link href="https://www.freecodecamp.org/news/create-a-dynamic-twitter-header/"/>
+        <updated>2021-10-11T14:50:00.000Z</updated>
+        <summary type="html"><![CDATA[In mid-2021, a new Twitter design trend emerged: dynamically updated headers. Developers decided that static headers were boring, and dynamic Twitter headers were the way to go.  Ever since then, many developers (including me) have been creating dynamic banners on Twitter. But what does this actually mean? The idea is]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #40 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-40/</id>
@@ -342,6 +373,61 @@ I learned that the checkmark (and other symbols) can have different meanings in 
         <summary type="html"><![CDATA[This week in accidental renaissance, we budget our bandwidth, park our car with 500 lines of code, and treat executives like elderly relatives.]]></summary>
         <author>
             <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three exciting Chromium DevTools experiments (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/three-exciting-chromium-devtools-experiments/</id>
+        <link href="https://www.stefanjudis.com/blog/three-exciting-chromium-devtools-experiments/"/>
+        <updated>2021-10-01T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I just had a look at the current Chromium DevTools experiments (Chrome and Edge) and enabled three handy new features. Let's have a look!
+How to enable Chromium experiments
+
+First, how do you enable Chromium experiments?
+You can either hit the little gear icons in the top-right corner and navigate to "Experiments". As a heavy keyboard user, I preview the shortcut way: open the command palette with CMD + Shift + p and go directly to the experiments menu.
+
+
+
+
+
+          
+            
+Look at all these possibly upcoming Chromium DevTools features and play around with them. That's why they're there!
+CSS Overview
+
+
+
+
+
+
+          
+            
+There are many CSS analysis tools out there, but having them right in your developer tools is super handy. The CSS overview lists defined colors and media queries, used fonts and useless CSS declarations. It's time to clean up your CSS!
+Warnings about low contrast text
+
+
+
+
+          
+            
+Low contrast text is one of the most common accessibility issues. Tools like Lighthouse check for these when you scan your site, but wouldn't it be great if the DevTools would tell you about issues right away? I (and the Chromium DevTools folks) think so, too, and that's why you can enable "Contrast issue reporting" to see warnings in your console. 💯
+A new font editor tool
+
+
+
+
+
+          
+            
+I always found it hard to define and style custom fonts. The new font editor helps with that and allows to change font settings with a visual UI!
+I love all this new DevTools functionality and can't wait to see what's next!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
@@ -1588,16 +1674,6 @@ Shopify bets on web components now 🎉
 How …]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — 🛏️ If you love someone, let them nap]]></title>
-        <id>6133d24efc488562793ae08a</id>
-        <link href="https://labnotes.org/weekend-reading-if-you-love-someone-let-them-nap/"/>
-        <updated>2021-09-11T19:36:58.000Z</updated>
-        <summary type="html"><![CDATA[This week we crack the naughty word list, reduce drag, make it rain, and use this one hack to improve the relationship with our ISP.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
