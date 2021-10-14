@@ -31,6 +31,42 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "6167483480d82d07c45a445f",
+          "author": null,
+          "description": "Amazon Virtual Private Cloud is a service that lets you launch AWS resources in a logically isolated virtual network that you define. You get complete control over the networking environment including IP address ranges, subnets, routing, firewalls and more. We just released a full course about Amazon Virtual Private Cloud",
+          "link": "https://www.freecodecamp.org/news/amazon-virtual-private-cloud-course/",
+          "publishedOn": "2021-10-13T21:00:37.000Z",
+          "wordCount": 389,
+          "title": "Amazon Virtual Private Cloud Course"
+        },
+        {
+          "id": "616706d380d82d07c45a422b",
+          "author": null,
+          "description": "Most sites that display a list of data in a table typically have some kind of filter functionality implemented. This helps the user filter relevant items based on the text they type into the form input. In this quick tutorial, we are going to build a responsive filterable table which",
+          "link": "https://www.freecodecamp.org/news/build-a-responsive-filterable-form-with-css-and-javascript/",
+          "publishedOn": "2021-10-13T20:54:46.000Z",
+          "wordCount": 1314,
+          "title": "How to Build a Responsive Form with Filter Functionality Using HTML, CSS, and JavaScript"
+        },
+        {
+          "id": "6166934680d82d07c45a3e48",
+          "author": null,
+          "description": "Every computer has a graphics card that handles the rendering of every pixel you see on the monitor. This graphics card also plays a crucial role in displaying videos, running applications, and most especially, handling video game graphics.  Computers also have a graphics processing unit (GPU), which renders images and",
+          "link": "https://www.freecodecamp.org/news/what-graphics-card-do-i-have-how-to-check-your-gpu-in-windows-10-pc-guide/",
+          "publishedOn": "2021-10-13T17:01:26.000Z",
+          "wordCount": 622,
+          "title": "What Graphics Card Do I Have? How to Check Your GPU in Windows 10 [PC GUIDE]"
+        },
+        {
+          "id": "615855ad4aa03507d9411890",
+          "author": null,
+          "description": "In this article, we will be learning about one of Firebase's build products called Cloud Firestore. It lets you store, sync, and retrieve data in a document-based database.  We'll learn how to set up our project for the web. Since this isn't a design-focused tutorial, we'll just use an HTML",
+          "link": "https://www.freecodecamp.org/news/firebase-firestore-crash-course/",
+          "publishedOn": "2021-10-13T15:57:42.000Z",
+          "wordCount": 1790,
+          "title": "Firebase Cloud Firestore – Database Crash Course"
+        },
+        {
           "id": "615e276e0d91c9077974e6ba",
           "author": null,
           "description": "IntroductionReact is one of the best libraries for creating stateful interfaces, and is an essential part of the internet as we know it.  Many web apps including Twitter, Facebook, Instagram, and Airbnb depend on this library to deliver stateful, cross-platform applications to billions of users. It continues to be one",
@@ -911,69 +947,6 @@
           "publishedOn": "2021-09-14T13:03:08.000Z",
           "wordCount": 372,
           "title": "Linux Essentials for Hackers"
-        },
-        {
-          "id": "613fbc95852f4307d372cf35",
-          "author": null,
-          "description": "In Microsoft Word, you can create digital forms, surveys, to-do lists, and printable forms. And you might need to add a checkbox in these forms so your respondents can select certain options.  In this tutorial, I will show you how to insert an interactive checkbox in Microsoft Word for softcopy",
-          "link": "https://www.freecodecamp.org/news/insert-a-checkbox-in-word-how-to-add-a-checkmark-in-microsoft-word/",
-          "publishedOn": "2021-09-13T23:48:00.000Z",
-          "wordCount": 1128,
-          "title": "Insert a Checkbox in Word – How to Add a Checkmark in Microsoft Word"
-        },
-        {
-          "id": "6138a480581b610782a921ee",
-          "author": null,
-          "description": "In this tutorial we are going to build a modern sign up form with floating labels and smooth transitions using plain HTML and CSS. A viewAs you can see in the above image, when an input within the form gains focus, its label floats to the top and a semi-thick",
-          "link": "https://www.freecodecamp.org/news/how-to-build-sign-up-form-with-html-and-css/",
-          "publishedOn": "2021-09-13T21:15:35.000Z",
-          "wordCount": 1605,
-          "title": "How to Build a Sign Up Form with Floating Labels and Transitions Using Plain HTML and CSS"
-        },
-        {
-          "id": "613b2c1a852f4307d372b02f",
-          "author": null,
-          "description": "Emoji help you express feelings and emotions beyond texts. They also bring liveliness into conversations in a fun and concise way.  But sometimes it's hard to find the right emoji to use, so I decided to prepare a giant table of them that you can simply copy and paste into",
-          "link": "https://www.freecodecamp.org/news/all-emojis-emoji-list-for-copy-and-paste/",
-          "publishedOn": "2021-09-13T21:04:08.000Z",
-          "wordCount": 2042,
-          "title": "All Emojis – Emoji List for Copy and Paste"
-        },
-        {
-          "id": "612e048bd6679a07b7d3f47b",
-          "author": null,
-          "description": "Let me start this article by asking, \"What is JavaScript\"? Well, here's the most confusing yet to-the-point answer I have found so far: JavaScript is a single-threaded, non-blocking, asynchronous, concurrent programming language with lots of flexibility.Hold on a second – did it say single-threaded and asynchronous at the same time?",
-          "link": "https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/",
-          "publishedOn": "2021-09-13T21:00:57.000Z",
-          "wordCount": 2632,
-          "title": "Synchronous vs Asynchronous JavaScript – Call Stack, Promises, and More"
-        },
-        {
-          "id": "608851a68eb3fb07cf098178",
-          "author": null,
-          "description": "The best way to learn a new programming language is to build projects with it. I have created a list of 25 beginner friendly project tutorials in Python. My advice for tutorials would be to watch the video, build the project, break it apart and rebuild it your own way.",
-          "link": "https://www.freecodecamp.org/news/python-projects-for-beginners/",
-          "publishedOn": "2021-09-13T15:12:15.000Z",
-          "wordCount": 1470,
-          "title": "25 Python Projects for Beginners – Easy Ideas to Get Started Coding Python"
-        },
-        {
-          "id": "613c107c852f4307d372b87a",
-          "author": null,
-          "description": "When you're writing a shell script, you may find that you need it to wait a certain number of seconds before proceeding. For example, you might want the script to wait while a process completes or before retrying a failed command.  To do this, you can use the very straightforward",
-          "link": "https://www.freecodecamp.org/news/bash-sleep-how-to-make-a-shell-script-wait-n-seconds-example-command/",
-          "publishedOn": "2021-09-13T14:29:40.000Z",
-          "wordCount": 590,
-          "title": "Bash Sleep – How to Make a Shell Script Wait N Seconds (Example Command)"
-        },
-        {
-          "id": "6122041a3bccf807612a575e",
-          "author": null,
-          "description": "In Python, there are a few ways you can read a text file.  In this article, I will go over the open() function, the read(), readline(), readlines(), close() methods, and the with keyword. What is the open() function in Python? If you want to read a text file in Python,",
-          "link": "https://www.freecodecamp.org/news/python-open-file-how-to-read-a-text-file-line-by-line/",
-          "publishedOn": "2021-09-13T14:00:03.000Z",
-          "wordCount": 1255,
-          "title": "Python Open File – How to Read a Text File Line by Line"
         }
       ]
     },
@@ -982,6 +955,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=109528",
+          "author": "Alexander Hellemans",
+          "description": "Built upon the ubiquitous Fourier transform, the mathematical tools known as wavelets allow unprecedented analysis and understanding of continuous signals.            \nThe post How Wavelets Allow Researchers to Transform, and Understand, Data first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-wavelets-allow-researchers-to-transform-and-understand-data-20211013/",
+          "publishedOn": "2021-10-13T16:55:24.000Z",
+          "wordCount": null,
+          "title": "How Wavelets Allow Researchers to Transform, and Understand, Data",
+          "itunes": {}
+        },
         {
           "id": "https://www.quantamagazine.org/?p=109449",
           "author": "Thomas Lewton",
@@ -1151,16 +1134,6 @@
           "wordCount": null,
           "title": "How Ancient War Trickery Is Alive in Math Today",
           "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=108649",
-          "author": "David S. Richeson",
-          "description": "The concept of dimension seems simple enough, but mathematicians struggled for centuries to precisely define and understand it.            \nThe post The Journey to Define Dimension first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/a-mathematicians-guided-tour-through-high-dimensions-20210913/",
-          "publishedOn": "2021-09-13T15:39:28.000Z",
-          "wordCount": null,
-          "title": "The Journey to Define Dimension",
-          "itunes": {}
         }
       ]
     },
@@ -1212,6 +1185,15 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/notes/aria-in-html-authoring-rules/",
+          "author": null,
+          "description": "Steve Faulkner shared a link to a new spec: \"ARIA in HTML\". The specification defines what landmarks and ARIA attributes are valid, and maybe more importantly, it describes invalid scenarios, too!\n\n\n\n          \n            \nThis spec is one for your bookmarks. I promise!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/notes/aria-in-html-authoring-rules/",
+          "publishedOn": "2021-10-12T22:00:00.000Z",
+          "wordCount": 259,
+          "title": "ARIA in HTML authoring rules (#note)"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-40/",
           "author": null,
