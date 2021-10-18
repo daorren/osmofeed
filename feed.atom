@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-17T00:22:38.666Z</updated>
+    <updated>2021-10-18T00:22:28.557Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #41 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-41/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-41/"/>
+        <updated>2021-10-16T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Happy Sunday, party people! 👋
+
+This week I spent some time reading about Vite. Vite is one of these new build tools that bets on EcmaScript modules and uses go-based Esbuild under the hood. It looks super fancy, and I'll give it a try in my next play-around project.
+Other than that, I tweaked my Chrome browser not to show me all these "valuable" URL bar suggestions. It's so much better now!
+This week's Web Weekly includes:
+New CSS features
+A new spec that helps with ARIA
+The leaky autofill browser feature
+... and, as always, GitHub repositories, a new Tiny Helper and some music.
+Something that made me smile
+
+
+
+
+          
+            
+Christmas is approaching (I don't think it is, but the supermarket Christmas season started 🤦‍♂️). So I thought it might be a good time to get out the good…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cross-origin module scripts require CORS response headers (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/cross-origin-module-scripts-require-cors-response-headers/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/cross-origin-module-scripts-require-cors-response-headers/"/>
+        <updated>2021-10-16T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While reading Jake Archibald's article How to win at CORS, I learned that classic and module scripts treat CORS (Cross-Origin Resource Sharing) differently.
+<!-- Not a CORS request -->
+<script src="https://example.com/script.js"></script>
+<!-- CORS request -->
+<script type="module" src="https://example.com/script.js"></script>
+
+If you're requesting a JavaScript file in a module context the response needs to define an Access-Control-Allow-Origin header or it will be blocked by the browser.
+
+          
+            
+Classic scripts don't require it to not break the web and guarantee backward compatibility. Very interesting! If you want to learn more, read the article. It's a good one.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — 🤦‍♂️ Decoding the HTML]]></title>
         <id>61620b4ee4956d432e8f76c9</id>
@@ -1605,39 +1656,6 @@ These two new features made color handling easier! You don't have to worry about
         <summary type="html"><![CDATA[This week final_final2.psd, the more emails you send … AI hallucinate us some art, and we learn that squirty cream is a thing.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to enable beautiful cursive fonts in your VS Code theme (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/how-to-enable-beautiful-cursive-fonts-in-your-vs-code-theme/</id>
-        <link href="https://www.stefanjudis.com/blog/how-to-enable-beautiful-cursive-fonts-in-your-vs-code-theme/"/>
-        <updated>2021-09-17T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I'm on a VS Code improvement trip lately (read more about semantic syntax code highlighting here) and continued it by tweaking my coding theme.
-Do you know these beautiful coding themes with fancy-looking cursive fonts? 👇
-
-
-
-          
-            
-I was always jealous of people using them, and today I spent some time figuring out how that works.
-A font with cursive characters and a theme using italics
-
-You need two things to enable a cursive font in your editor:
-a coding theme that leverages italics for particular tokens (not many do)
-a font that is primarily monospaced but includes cursive characters for italics
-My VS Code setup consists of the Yi light/dark coding theme and the FiraCode editor font. And, unfortunately, Yi doesn't use italics and FireCode doesn't include cursive charact…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSV Format – How to Open a .csv File and Export it]]></title>
-        <id>613f3cc7852f4307d372c7e4</id>
-        <link href="https://www.freecodecamp.org/news/csv-format-how-to-open-a-csv-file-and-export-it/"/>
-        <updated>2021-09-17T18:22:47.000Z</updated>
-        <summary type="html"><![CDATA[You might have heard of a CSV file but what does it mean?  In this article, we are going to learn what a CSV file is, and how to open and export them using Microsoft Excel and Google Sheets.  What is a CSV file? CSV stands for Comma Separated Values.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

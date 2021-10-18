@@ -821,15 +821,6 @@
           "publishedOn": "2021-09-20T13:59:58.000Z",
           "wordCount": 1817,
           "title": "What is a Contraction? Grammar and Definition"
-        },
-        {
-          "id": "613f3cc7852f4307d372c7e4",
-          "author": null,
-          "description": "You might have heard of a CSV file but what does it mean?  In this article, we are going to learn what a CSV file is, and how to open and export them using Microsoft Excel and Google Sheets.  What is a CSV file? CSV stands for Comma Separated Values.",
-          "link": "https://www.freecodecamp.org/news/csv-format-how-to-open-a-csv-file-and-export-it/",
-          "publishedOn": "2021-09-17T18:22:47.000Z",
-          "wordCount": 711,
-          "title": "CSV Format – How to Open a .csv File and Export it"
         }
       ]
     },
@@ -1058,6 +1049,24 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-41/",
+          "author": null,
+          "description": "Happy Sunday, party people! 👋\n\nThis week I spent some time reading about Vite. Vite is one of these new build tools that bets on EcmaScript modules and uses go-based Esbuild under the hood. It looks super fancy, and I'll give it a try in my next play-around project.\nOther than that, I tweaked my Chrome browser not to show me all these \"valuable\" URL bar suggestions. It's so much better now!\nThis week's Web Weekly includes:\nNew CSS features\nA new spec that helps with ARIA\nThe leaky autofill browser feature\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nSomething that made me smile\n\n\n\n\n          \n            \nChristmas is approaching (I don't think it is, but the supermarket Christmas season started 🤦‍♂️). So I thought it might be a good time to get out the good…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-41/",
+          "publishedOn": "2021-10-16T22:00:00.000Z",
+          "wordCount": 957,
+          "title": "Web Weekly #41 (#blogPost)"
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/cross-origin-module-scripts-require-cors-response-headers/",
+          "author": null,
+          "description": "While reading Jake Archibald's article How to win at CORS, I learned that classic and module scripts treat CORS (Cross-Origin Resource Sharing) differently.\n<!-- Not a CORS request -->\n<script src=\"https://example.com/script.js\"></script>\n<!-- CORS request -->\n<script type=\"module\" src=\"https://example.com/script.js\"></script>\n\nIf you're requesting a JavaScript file in a module context the response needs to define an Access-Control-Allow-Origin header or it will be blocked by the browser.\n\n          \n            \nClassic scripts don't require it to not break the web and guarantee backward compatibility. Very interesting! If you want to learn more, read the article. It's a good one.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/cross-origin-module-scripts-require-cors-response-headers/",
+          "publishedOn": "2021-10-16T22:00:00.000Z",
+          "wordCount": 303,
+          "title": "Cross-origin module scripts require CORS response headers (#tilPost)"
+        },
+        {
           "id": "https://www.stefanjudis.com/today-i-learned/how-to-control-the-used-gmail-account-when-using-slides-new-docs-new-etc/",
           "author": null,
           "description": "Thanks to the new top-level domains, many companies provide short URLs to use their product quickly. CodePen has pen.new, CodeSandbox has react.new, GitHub has repo.new, and they're many more out there. These URLs make the web feel very app-like, I like that!\nAnd of course, Google is providing new URLs with doc.new or docs.new and slide.new and slides.new, too. The problem with these URLs is that many people use Docs and Slides with multiple Gmail accounts.\nWhich account should be used when using docs.new? And what happens if Google constantly chooses the wrong account to create a new document.\nToday I learned, that Google's new URLs support a URL parameter to specify the used Gmail account:\ndocs.new/1 – primary account\ndocs.new/2 - secondary account\nand so on...\nThat's pretty cool!\n\n\n          \n          \n            Reply to Stefan",
@@ -1200,15 +1209,6 @@
           "publishedOn": "2021-09-18T22:00:00.000Z",
           "wordCount": 427,
           "title": "rgba() and hsla() are legacy functions and aliases in modern browsers (#tilPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/how-to-enable-beautiful-cursive-fonts-in-your-vs-code-theme/",
-          "author": null,
-          "description": "I'm on a VS Code improvement trip lately (read more about semantic syntax code highlighting here) and continued it by tweaking my coding theme.\nDo you know these beautiful coding themes with fancy-looking cursive fonts? 👇\n\n\n\n          \n            \nI was always jealous of people using them, and today I spent some time figuring out how that works.\nA font with cursive characters and a theme using italics\n\nYou need two things to enable a cursive font in your editor:\na coding theme that leverages italics for particular tokens (not many do)\na font that is primarily monospaced but includes cursive characters for italics\nMy VS Code setup consists of the Yi light/dark coding theme and the FiraCode editor font. And, unfortunately, Yi doesn't use italics and FireCode doesn't include cursive charact…",
-          "link": "https://www.stefanjudis.com/blog/how-to-enable-beautiful-cursive-fonts-in-your-vs-code-theme/",
-          "publishedOn": "2021-09-17T22:00:00.000Z",
-          "wordCount": 646,
-          "title": "How to enable beautiful cursive fonts in your VS Code theme (#blogPost)"
         }
       ]
     }
