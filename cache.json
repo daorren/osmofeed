@@ -6,875 +6,181 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3",
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4",
           "author": null,
-          "description": "Fixed: broken links in documentation\nChore: Dependency updates\nThank you: @hirdot",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3",
-          "publishedOn": "2021-10-16T00:01:47.000Z",
-          "wordCount": 299,
-          "title": "v1.11.3"
+          "description": "Fixed: Several style issues",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4",
+          "publishedOn": "2022-02-14T06:58:28.000Z",
+          "wordCount": 257,
+          "title": "v1.14.4",
+          "imageUrl": "https://opengraph.githubassets.com/9a7043530dac30c2f389b7a285822cfe3c2b54efc7d2cdc63a0735d3cc5095a2/osmoscraft/osmosfeed/releases/tag/v1.14.4"
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3",
           "author": null,
-          "description": "Fixed: unicode characters in URL caused download error\nFixed: project root npm install error\nAdded: unit test library\nChore: Dependency updates\nThank you: @CaptNo1",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
-          "publishedOn": "2021-09-26T18:45:39.000Z",
-          "wordCount": 354,
-          "title": "v1.11.2"
+          "description": "style tweak",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3",
+          "publishedOn": "2022-02-14T06:29:16.000Z",
+          "wordCount": 254,
+          "title": "v1.14.3",
+          "imageUrl": "https://repository-images.githubusercontent.com/312859305/30a63d00-a162-11eb-8a1d-a3167673e96a"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2",
+          "author": null,
+          "description": "New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.\nNew: Card title now toggles card content\nNew: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.\nNew: Build timestamp now links to the GitHub Action run\nChanged: Sources are sorted based on publish time rather than alphabetical order\nChanged: Style adjusted for easier reading\nFixed: Horizontal overflow on Safari\nFixed: HTML syntax error in default template",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2",
+          "publishedOn": "2022-02-14T05:53:33.000Z",
+          "wordCount": 355,
+          "title": "v1.14.2",
+          "imageUrl": "https://opengraph.githubassets.com/3d1aa7f7484f74c258c25be470129b65acc359f03644040243b05803daae68aa/osmoscraft/osmosfeed/releases/tag/v1.14.2"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1",
+          "author": null,
+          "description": "git typo in gh run url",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1",
+          "publishedOn": "2022-02-14T05:26:23.000Z",
+          "wordCount": 258,
+          "title": "v1.14.1",
+          "imageUrl": "https://repository-images.githubusercontent.com/312859305/30a63d00-a162-11eb-8a1d-a3167673e96a"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0",
+          "author": null,
+          "description": "New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.\nNew: Card title now toggles card content\nNew: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.\nNew: Build timestamp now links to the GitHub Action run\nChanged: Sources are sorted based on publish time rather than alphabetical order\nChanged: Style adjusted for easier reading\nFixed: Horizontal overflow on Safari\nFixed: HTML syntax error in default template",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0",
+          "publishedOn": "2022-02-14T05:13:00.000Z",
+          "wordCount": 398,
+          "title": "v1.14.0: V1.14.0 (#79)",
+          "imageUrl": "https://repository-images.githubusercontent.com/312859305/30a63d00-a162-11eb-8a1d-a3167673e96a"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0",
+          "author": null,
+          "description": "New: Thumbnail image display for each article\nNew: Improved color, spacing, and typography for easier reading\nNew: Click the date to toggle all accordions on that day. Ctrl + Click to toggle all accordions on the entire site.\nChanged: All sections are expanded by default\nChanged: Switched to vitest for easier testing\nFixed: Long string (e.g. URL) caused horizontal overflow\nThank you: @naari3, @tianheg",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0",
+          "publishedOn": "2022-02-13T05:05:17.000Z",
+          "wordCount": 339,
+          "title": "v1.13.0",
+          "imageUrl": "https://opengraph.githubassets.com/fc77c41c87b2cd4d8990f4c940e0ddf681667b6b6e4363b0f609861b7ae5b6d8/osmoscraft/osmosfeed/releases/tag/v1.13.0"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1",
+          "author": null,
+          "description": "Fixed: Future articles appeared in the feed\nFxied: Security vulnerability from axios\nThank you: @naari3",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1",
+          "publishedOn": "2022-02-12T17:46:42.000Z",
+          "wordCount": 268,
+          "title": "v1.12.1",
+          "imageUrl": "https://opengraph.githubassets.com/d69790a31f94b1adf743c58bae86b9754de6969cceb83f11b8fbeb28ab1ad632/osmoscraft/osmosfeed/releases/tag/v1.12.1"
         }
       ]
     },
     {
       "title": "freeCodeCamp.org",
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news",
+      "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
-          "id": "6169435380d82d07c45a5119",
-          "author": null,
-          "description": "When working with strings in Python, you may have to split a string into substrings. Or you might need to join together smaller chunks to form a string. Python's split() and join() string methods help you do these tasks easily. In this tutorial, you'll learn about the split() and join(",
-          "link": "https://www.freecodecamp.org/news/python-string-split-and-join-methods-explained-with-examples/",
-          "publishedOn": "2021-10-18T22:40:12.000Z",
-          "wordCount": 1007,
-          "title": "Python String split() and join() Methods – Explained with Examples"
+          "id": "622ae68d63ded806bb9e81de",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this article, we'll talk about comments in Python, why they are important, and how to use them effectively in your code.  When to Use Comments In this section, we'll talk about some of the general use cases for comments. These aren't only applicable to Python, but to most",
+          "link": "https://www.freecodecamp.org/news/python-comment-block-how-to-comment-out-code-in-python/",
+          "publishedOn": "2022-03-11T20:11:40.000Z",
+          "wordCount": 744,
+          "title": "Python Comment Block – How to Comment Out Code in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/comments-python.jpg"
         },
         {
-          "id": "616bf9ac80d82d07c45a5f84",
-          "author": null,
-          "description": "If you've had some experience with NLP, you probably know that tokenization is at the helm of any NLP pipeline.  Tokenization is often regarded as a subfield of NLP but it has its own story of evolution. And now it underpins many state-of-the-art NLP models. This post is all about",
-          "link": "https://www.freecodecamp.org/news/train-algorithms-from-scratch-with-hugging-face/",
-          "publishedOn": "2021-10-18T22:27:40.000Z",
-          "wordCount": 2086,
-          "title": "How to Train BPE, WordPiece, and Unigram Tokenizers from Scratch using Hugging Face"
-        },
-        {
-          "id": "6167a24680d82d07c45a4519",
-          "author": null,
-          "description": "A great conversation I had this evening got me thinking about and revisiting a concept I've toyed with before – currying. But this time, I'd like to explore it with you all! The concept of currying is not a new one, but it is very useful. It is also foundational for",
-          "link": "https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/",
-          "publishedOn": "2021-10-18T22:06:59.000Z",
-          "wordCount": 2226,
-          "title": "How to Use Currying and Composition in JavaScript"
-        },
-        {
-          "id": "616db48dd48e1707b6d7789b",
-          "author": null,
-          "description": "A DAT file is a data file that contains specific information about the program used to create it.  This file always has the .dat file extension, which is a generic format that can contain any information – video, audio, PDF, and virtually any other type of file.  Many desktop and mobile",
-          "link": "https://www.freecodecamp.org/news/dat-file-how-to-open-the-dat-file-format-extension/",
-          "publishedOn": "2021-10-18T21:05:35.000Z",
-          "wordCount": 846,
-          "title": "DAT File – How to Open the .dat File Format Extension"
-        },
-        {
-          "id": "61694c9980d82d07c45a51ce",
-          "author": null,
-          "description": "So you want to develop using the JavaScript run-everywhere platform on the same computer where you game, edit videos, code C# desktop apps, or whatever.  You are also aware that there are multiple Node.js versions in active development and it is fairly common to find projects in the wild",
-          "link": "https://www.freecodecamp.org/news/set-up-windows-for-nodejs-development-with-nvm/",
-          "publishedOn": "2021-10-18T20:56:58.000Z",
-          "wordCount": 1202,
-          "title": "How to Set Up Windows for Node.js Development with NVM"
-        },
-        {
-          "id": "616c101880d82d07c45a5f9a",
-          "author": null,
-          "description": "When you're coding in C++, there will often be times when you'll want to convert one data type to a different one.  In this article you'll learn how to convert a string to an integer in C++ by seeing two of the most popular ways to do so.  Let's get",
-          "link": "https://www.freecodecamp.org/news/string-to-int-in-c-how-to-convert-a-string-to-an-integer-example/",
-          "publishedOn": "2021-10-18T14:54:58.000Z",
-          "wordCount": 1321,
-          "title": "String to Int in C++ – How to Convert a String to an Integer Example"
-        },
-        {
-          "id": "61063abe3306a507d1bfbfb0",
-          "author": null,
-          "description": "If you are new to tech, you might have just discovered UI/ UX design and want to pursue that career path. But what is the starting salary for entry level UX/UI designers? In this article, I will provide definitions for UI/ UX design as well as starting salary information",
-          "link": "https://www.freecodecamp.org/news/ux-designer-salary-how-much-do-ux-ui-designers-make-entry-level-range/",
-          "publishedOn": "2021-10-15T17:39:48.000Z",
-          "wordCount": 669,
-          "title": "UX Designer Salary – How much do UX/UI Designers Make? Entry Level Range"
-        },
-        {
-          "id": "61694be680d82d07c45a51bf",
-          "author": null,
-          "description": "If you're using Microsoft Word, you don't want blank pages appearing in the middle of your document, or extra pages at the end.  These extra pages could be caused by tables, hitting the ENTER key too many times, unnecessary section breaks, unintentional page breaks, extra paragraph markers, and more.  You",
-          "link": "https://www.freecodecamp.org/news/how-to-delete-a-page-in-word-remove-blank-or-extra-pages/",
-          "publishedOn": "2021-10-15T16:49:29.000Z",
-          "wordCount": 622,
-          "title": "How to Delete a Page in Word – Remove Blank or Extra Pages"
-        },
-        {
-          "id": "61680b4480d82d07c45a4661",
-          "author": null,
-          "description": "The Internet is one of our greatest inventions.  Millions of people use the Internet every second of the day, and it has changed many aspects of our lives – from creating new jobs and a new way of working to influencing how news is consumed and how decisions are made.  Although",
-          "link": "https://www.freecodecamp.org/news/ipv4-vs-ipv6-what-is-the-difference-between-ip-addressing-schemes/",
-          "publishedOn": "2021-10-15T16:30:13.000Z",
-          "wordCount": 1764,
-          "title": "IPV4 vs IPV6 – What is the Difference Between IP Addressing Schemes?"
-        },
-        {
-          "id": "61686f8b80d82d07c45a4e4a",
-          "author": null,
-          "description": "React hooks have been around for a while now. Most developers have gotten pretty comfortable with how they work and their common use cases. But there is one useEffect gotcha that a lot of us keep falling for. The use caseLet's start with a simple scenario. We are building a",
-          "link": "https://www.freecodecamp.org/news/most-common-react-useeffect-problems-and-how-to-fix-them/",
-          "publishedOn": "2021-10-14T22:07:02.000Z",
-          "wordCount": 1154,
-          "title": "React.useEffect Hook – Common Problems and How to Fix Them"
-        },
-        {
-          "id": "615d559e0d91c9077974d3ec",
-          "author": null,
-          "description": "iPhone and iPad both have an app called Files where you can locate all of your files from services including iCloud Drive, Dropbox, and more.  If you want to access the Downloads folder, you can find it inside the Files app. In this article, I will show you how to",
-          "link": "https://www.freecodecamp.org/news/iphone-downloads-folder-where-are-my-downloads-ios-and-ipad/",
-          "publishedOn": "2021-10-14T21:59:03.000Z",
-          "wordCount": 382,
-          "title": "iPhone Downloads Folder – Where are my Downloads? iOS and iPad"
-        },
-        {
-          "id": "6167f81c80d82d07c45a4630",
-          "author": null,
-          "description": "BIOS stands for Basic Input/Output System. It is embedded into computers as a motherboard chip and is primarily responsible for booting the computer system.  Apart from booting up your computer, BIOS is responsible for a lot of other functionality behind the scenes – like managing data flow between an operating",
-          "link": "https://www.freecodecamp.org/news/how-to-get-into-bios-in-windows-10-bios-setup-pc-guide/",
-          "publishedOn": "2021-10-14T21:03:48.000Z",
-          "wordCount": 731,
-          "title": "How to Get into BIOS in Windows 10 – BIOS Setup PC Guide"
-        },
-        {
-          "id": "6163d60c804854468fda82ca",
-          "author": null,
-          "description": "High-profile celebrities like Jay-Z and Snoop Dog are getting into NFTs. With the cheapest CryptoPunk selling for 103 ETH (~360,000 USD at the time of this article), it is an excellent time for us developers to learn more about the engineering behind them to start building things. At the",
-          "link": "https://www.freecodecamp.org/news/how-to-make-an-nft/",
-          "publishedOn": "2021-10-14T17:49:36.000Z",
-          "wordCount": 3063,
-          "title": "How to Make an NFT in 14 Lines of Code"
-        },
-        {
-          "id": "615da5e40d91c9077974dd6a",
-          "author": null,
-          "description": "Developers around the world use GitHub to share their projects with the global developer community.  In this article, I'll give you some opinionated tips to help you build a great open-source project you can start using. You can also use these tips for building hackathon projects. Quite recently I ended",
-          "link": "https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/",
-          "publishedOn": "2021-10-14T17:09:37.000Z",
-          "wordCount": 3149,
-          "title": "How to Start an Open Source Project on GitHub – Tips from Building My Trending Repo"
-        },
-        {
-          "id": "6162db83804854468fda7b4c",
-          "author": null,
-          "description": "Windows 10 has a built-in feature that lets you flip or rotate your monitor screen just like you can do on your smartphone.  In this article, I will show you how to flip or rotate the monitor of your Windows 10 machine in several orientations such as reverse-landscape, portrait, and",
-          "link": "https://www.freecodecamp.org/news/rotate-screen-in-windows-10-how-to-flip-your-monitor-orientation-90-degrees/",
-          "publishedOn": "2021-10-14T15:39:17.000Z",
-          "wordCount": 569,
-          "title": "Rotate Screen in Windows 10 – How to Flip Your Monitor Orientation 90 Degrees"
-        },
-        {
-          "id": "61683f7180d82d07c45a4893",
-          "author": null,
-          "description": "Node.js and Express.js are popular technologies used for JavaScript backend web development. We just released a 10-hour course on the freeCodeCamp.org YouTube channel that will show you how to create four projects using Node and Express. John Smilga developed this course. John is one of the more",
-          "link": "https://www.freecodecamp.org/news/build-six-node-js-and-express-js/",
-          "publishedOn": "2021-10-14T15:05:45.000Z",
-          "wordCount": 299,
-          "title": "Build Four Node.js and Express.js Projects"
-        },
-        {
-          "id": "6167483480d82d07c45a445f",
-          "author": null,
-          "description": "Amazon Virtual Private Cloud is a service that lets you launch AWS resources in a logically isolated virtual network that you define. You get complete control over the networking environment including IP address ranges, subnets, routing, firewalls and more. We just released a full course about Amazon Virtual Private Cloud",
-          "link": "https://www.freecodecamp.org/news/amazon-virtual-private-cloud-course/",
-          "publishedOn": "2021-10-13T21:00:37.000Z",
-          "wordCount": 389,
-          "title": "Amazon Virtual Private Cloud Course"
-        },
-        {
-          "id": "616706d380d82d07c45a422b",
-          "author": null,
-          "description": "Most sites that display a list of data in a table typically have some kind of filter functionality implemented. This helps the user filter relevant items based on the text they type into the form input. In this quick tutorial, we are going to build a responsive filterable table which",
-          "link": "https://www.freecodecamp.org/news/build-a-responsive-filterable-form-with-css-and-javascript/",
-          "publishedOn": "2021-10-13T20:54:46.000Z",
-          "wordCount": 1314,
-          "title": "How to Build a Responsive Form with Filter Functionality Using HTML, CSS, and JavaScript"
-        },
-        {
-          "id": "6168835180d82d07c45a4ee2",
-          "author": null,
-          "description": "Object Oriented Programming is an important concept in software development.  Object Oriented Programming (OOP) is a programming paradigm that relies on the concept of classes and objects. You can use this method of writing programs in many programming languages, including Python We just published a complete Object Oriented Programming in",
-          "link": "https://www.freecodecamp.org/news/learn-object-oriented-programming-with-python/",
-          "publishedOn": "2021-10-13T19:32:00.000Z",
-          "wordCount": 316,
-          "title": "Learn Object Oriented Programming With Python"
-        },
-        {
-          "id": "6166934680d82d07c45a3e48",
-          "author": null,
-          "description": "Every computer has a graphics card that handles the rendering of every pixel you see on the monitor. This graphics card also plays a crucial role in displaying videos, running applications, and most especially, handling video game graphics.  Computers also have a graphics processing unit (GPU), which renders images and",
-          "link": "https://www.freecodecamp.org/news/what-graphics-card-do-i-have-how-to-check-your-gpu-in-windows-10-pc-guide/",
-          "publishedOn": "2021-10-13T17:01:26.000Z",
-          "wordCount": 622,
-          "title": "What Graphics Card Do I Have? How to Check Your GPU in Windows 10 [PC GUIDE]"
-        },
-        {
-          "id": "615855ad4aa03507d9411890",
-          "author": null,
-          "description": "In this article, we will be learning about one of Firebase's build products called Cloud Firestore. It lets you store, sync, and retrieve data in a document-based database.  We'll learn how to set up our project for the web. Since this isn't a design-focused tutorial, we'll just use an HTML",
-          "link": "https://www.freecodecamp.org/news/firebase-firestore-crash-course/",
-          "publishedOn": "2021-10-13T15:57:42.000Z",
-          "wordCount": 1790,
-          "title": "Firebase Cloud Firestore – Database Crash Course"
-        },
-        {
-          "id": "615e276e0d91c9077974e6ba",
-          "author": null,
-          "description": "IntroductionReact is one of the best libraries for creating stateful interfaces, and is an essential part of the internet as we know it.  Many web apps including Twitter, Facebook, Instagram, and Airbnb depend on this library to deliver stateful, cross-platform applications to billions of users. It continues to be one",
-          "link": "https://www.freecodecamp.org/news/add-a-database-hook-to-react-and-react-native/",
-          "publishedOn": "2021-10-12T21:17:09.000Z",
-          "wordCount": 2891,
-          "title": "How to Add a Flawless Database Hook to Your React Projects"
-        },
-        {
-          "id": "61642329804854468fda8506",
-          "author": null,
-          "description": "As more and more people are working remotely, online meeting services like Zoom are becoming more popular and widely-used.  And if you're in a Zoom meeting, you'll probably have to show your work to your co-workers from time to time.  Zoom offers many features that make sharing your screen fast",
-          "link": "https://www.freecodecamp.org/news/zoom-screen-sharing-how-to-share-my-screen-on-zoom-solved/",
-          "publishedOn": "2021-10-12T20:53:11.000Z",
-          "wordCount": 784,
-          "title": "Zoom Screen Sharing – How to Share My Screen on Zoom [Solved]"
-        },
-        {
-          "id": "61612118804854468fda6b2b",
-          "author": null,
-          "description": "Creating forms with proper validation can be tough and problematic. But in this blog post, I will show you how to do so in a simple and straightforward way.  We'll learn how to add validation in a form using React and React Hook Form. How to Create a Form in",
-          "link": "https://www.freecodecamp.org/news/add-form-validation-in-react-app-with-react-hook-form/",
-          "publishedOn": "2021-10-12T20:52:04.000Z",
-          "wordCount": 1320,
-          "title": "How to Add Form Validation in React Forms using React Hook Form"
-        },
-        {
-          "id": "616478dc804854468fda89eb",
-          "author": null,
-          "description": "When you're working on your computer, you want to do things as quickly as possible. And you probably don't want to repeat typing the same thing over and over again.  Knowing how to copy and paste text and other data will help you work efficiently without repeating yourself.  So in",
-          "link": "https://www.freecodecamp.org/news/how-to-copy-and-paste-on-a-computer-windows-pc-keyboard-shortcut-guide/",
-          "publishedOn": "2021-10-12T15:35:00.000Z",
-          "wordCount": 961,
-          "title": "How to Copy and Paste on a Computer [Windows PC Keyboard Shortcut Guide]"
-        },
-        {
-          "id": "61604b37804854468fda625c",
-          "author": null,
-          "description": "In this beginner-friendly guide, you'll learn the very basics of the awk command. You'll also see some of the ways you can use it when dealing with text.  Let's get started!  What is the awk command? awk is a scripting language, and it is helpful when working in the command",
-          "link": "https://www.freecodecamp.org/news/the-linux-awk-command-linux-and-unix-usage-syntax-examples/",
-          "publishedOn": "2021-10-12T15:34:47.000Z",
-          "wordCount": 1572,
-          "title": "The Linux AWK Command – Linux and Unix Usage Syntax Examples"
-        },
-        {
-          "id": "615d55dc0d91c9077974d404",
-          "author": null,
-          "description": "Game development is a popular field within the software industry. But what does it take to start building games from scratch? In this article, I will talk about the different game engines and tools that you can use to build your own games. I will also provide you with dozens",
-          "link": "https://www.freecodecamp.org/news/how-to-make-a-video-game-create-your-own-game-from-scratch-tutorial/",
-          "publishedOn": "2021-10-12T15:34:31.000Z",
-          "wordCount": 1597,
-          "title": "How to Make a Video Game – Create Your Own Game From Scratch Tutorial"
-        },
-        {
-          "id": "6162f83f804854468fda7c7a",
-          "author": null,
-          "description": "In Python, you'll probably use a tuple to initialize a sequence that shouldn't be modified elsewhere in the program. This is because tuples are immutable.  However, using a tuple may reduce the readability of your code as you cannot describe what each item in the tuple stands for. This is",
-          "link": "https://www.freecodecamp.org/news/python-namedtuple-examples-how-to-create-and-work-with-namedtuples/",
-          "publishedOn": "2021-10-12T15:34:19.000Z",
-          "wordCount": 1416,
-          "title": "Python NamedTuple Examples – How to Create and Work with NamedTuples"
-        },
-        {
-          "id": "6159ab734aa03507d9412321",
-          "author": null,
-          "description": "What follows is a full-length book on how to create a successful blog. I am a software developer and I've written 1,500 posts on my blog over the past few years. Millions of people have read my writing. And my blog is now one of the top 20,000",
-          "link": "https://www.freecodecamp.org/news/how-to-start-a-blog-book/",
-          "publishedOn": "2021-10-11T17:21:00.000Z",
-          "wordCount": 14932,
-          "title": "How to Start a Blog [Free 70-Page Book]"
-        },
-        {
-          "id": "615408e064aefe07d3fa0743",
-          "author": null,
-          "description": "In mid-2021, a new Twitter design trend emerged: dynamically updated headers. Developers decided that static headers were boring, and dynamic Twitter headers were the way to go.  Ever since then, many developers (including me) have been creating dynamic banners on Twitter. But what does this actually mean? The idea is",
-          "link": "https://www.freecodecamp.org/news/create-a-dynamic-twitter-header/",
-          "publishedOn": "2021-10-11T14:50:00.000Z",
-          "wordCount": 2257,
-          "title": "How to Create a Dynamic Twitter Header"
-        },
-        {
-          "id": "615d55e60d91c9077974d408",
-          "author": null,
-          "description": "In today's world, we are all heavily reliant on various software products that were carefully programmed by developers. But what is computer programming? In this article, I will provide a definition of programming, as well as examples of different types of programmers. I will also suggest a list of courses",
-          "link": "https://www.freecodecamp.org/news/what-is-programming/",
-          "publishedOn": "2021-10-08T19:11:39.000Z",
-          "wordCount": 1421,
-          "title": "What is Computer Programming?"
-        },
-        {
-          "id": "6160836e804854468fda67bf",
-          "author": null,
-          "description": "These days, lots of developers like to use dark mode. And it's no surprise, as activating dark mode reduces eye strain and leads to better eye health. It also helps both machines and humans perform better overall.  In this article, I will show you how to turn on the dark",
-          "link": "https://www.freecodecamp.org/news/how-to-turn-on-dark-mode-on-google-chrome-black-theme-tutorial/",
-          "publishedOn": "2021-10-08T19:10:46.000Z",
-          "wordCount": 606,
-          "title": "How to Turn On Dark Mode on Google – Chrome Black Theme Tutorial"
-        },
-        {
-          "id": "613f3c5e852f4307d372c7c6",
-          "author": null,
-          "description": "If you want to save a new location you discovered on Google Maps, you need to drop a pin on that location.  In this article, I will show you how to drop a pin in Google Maps from your phone or computer. How to Drop a Pin on Google Maps",
-          "link": "https://www.freecodecamp.org/news/how-to-drop-a-pin-on-google-maps/",
-          "publishedOn": "2021-10-08T19:03:55.000Z",
-          "wordCount": 589,
-          "title": "How to Drop a Pin on Google Maps"
-        },
-        {
-          "id": "615dbaeb0d91c9077974defb",
-          "author": null,
-          "description": "“Hey, could you please send me our customers' emails? We’re about to launch a new marketing campaign and…we need them ASAP.” If you work in the Web department on a corporate level, you've probably heard this sentence hundreds of times. So, today I want to share how I",
-          "link": "https://www.freecodecamp.org/news/how-to-create-an-excel-file-with-customers-data-with-woocommerce-and-python/",
-          "publishedOn": "2021-10-08T15:15:28.000Z",
-          "wordCount": 1214,
-          "title": "How to Create an Excel File that Pulls Customer Data with WooCommerce and Python"
-        },
-        {
-          "id": "615de4da0d91c9077974e23f",
-          "author": null,
-          "description": "Go, also known as Golang, is an open-source, compiled, and statically typed programming language designed by Google. It is built to be simple, high-performing, readable, and efficient.  In this article, you'll learn:  Where Go came from and where it is now, Why I think you should learn it, How to",
-          "link": "https://www.freecodecamp.org/news/what-is-go-programming-language/",
-          "publishedOn": "2021-10-07T15:26:18.000Z",
-          "wordCount": 1602,
-          "title": "What is Go? Golang Programming Language Meaning Explained"
-        },
-        {
-          "id": "615beb720d91c9077974c716",
-          "author": null,
-          "description": "Computers store and process all kinds of data.  Strings are just one of the many forms in which information is presented and gets processed by computers.  Strings in the C programming language work differently than in other modern programming languages.  In this article, you'll learn how to declare strings in",
-          "link": "https://www.freecodecamp.org/news/c-string-how-to-declare-strings-in-the-c-programming-language/",
-          "publishedOn": "2021-10-06T17:51:39.000Z",
-          "wordCount": 2390,
-          "title": "C String – How to Declare Strings in the C Programming Language"
-        },
-        {
-          "id": "612f4388d6679a07b7d3fee4",
-          "author": null,
-          "description": "In Python, can use use the range() function to get a sequence of indices to loop through an iterable. You'll often use range() in conjunction with a for loop.  In this tutorial, you'll learn about the different ways in which you can use the range() function – with explicit start and",
-          "link": "https://www.freecodecamp.org/news/python-range-function-explained-with-code-examples/",
-          "publishedOn": "2021-10-06T17:21:45.000Z",
-          "wordCount": 1529,
-          "title": "Python range() Function – Explained with Code Examples"
-        },
-        {
-          "id": "614870b9852f4307d3731030",
-          "author": null,
-          "description": "File compression is an essential utility across all platforms. It helps you reduce file size and share files efficiently. And compressed files are also easier to copy to remote servers.  You can also compress older and rarely used files and save them for future use which helps you conserve disk",
-          "link": "https://www.freecodecamp.org/news/how-to-compress-files-in-linux-with-tar-command/",
-          "publishedOn": "2021-10-06T16:19:13.000Z",
+          "id": "61e5c35ab837d507ba0a4b06",
+          "author": "Natalie Pina",
+          "description": "What is the CSS Isolation Property? In CSS, you can use the isolation property to create a new stacking context. Here's what that looks like: .container-for-new-stacking-context {   isolation: isolate; } The default value for isolation is auto, which is a bit more nuanced as a stacking context can",
+          "link": "https://www.freecodecamp.org/news/the-css-isolation-property/",
+          "publishedOn": "2022-03-11T20:03:45.000Z",
           "wordCount": 899,
-          "title": "Linux tar Command – How to Compress Files in Linux"
+          "title": "How to Create a New Stacking Context with the Isolation Property in CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/stacked.jpg"
         },
         {
-          "id": "615d55b40d91c9077974d3f8",
-          "author": null,
-          "description": "If you want to add data to your SQL table, then you can use the INSERT statement.  In this article, I will show you how to use the INSERT statement to add a single row, multiple rows, and to copy rows from one SQL table to another. Basic INSERT syntaxHere",
-          "link": "https://www.freecodecamp.org/news/insert-into-sql-how-to-insert-into-a-table-query-example-statement/",
-          "publishedOn": "2021-10-06T16:10:50.000Z",
-          "wordCount": 955,
-          "title": "Insert Into SQL – How to Insert Into a Table Query [Example Statement]"
+          "id": "622a2a6663ded806bb9e7d22",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When you're learning a programming language, you're likely to come across a data type called a string. A string usually contains a series of characters nested in quotation marks that can be represented as a text.  In this article, we will talk about string concatenation in Python. This is",
+          "link": "https://www.freecodecamp.org/news/python-concatenate-strings-how-to-combine-and-append-strings-in-python/",
+          "publishedOn": "2022-03-11T17:19:31.000Z",
+          "wordCount": 769,
+          "title": "Python Concatenate Strings – How to Combine and Append Strings in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/join.jpg"
         },
         {
-          "id": "6155429464aefe07d3fa1019",
-          "author": null,
-          "description": "I have observed a fascinating phenomenon amongst folks applying for their first developer jobs.  The behavior seems consistent across college graduates, Bootcampers, and self-taught folks. When asking for a résumé review, they almost always get the answer \"build more projects\".  This is great advice, but you can do more to",
-          "link": "https://www.freecodecamp.org/news/build-your-developer-resume-without-job-experience/",
-          "publishedOn": "2021-10-06T15:29:13.000Z",
-          "wordCount": 2042,
-          "title": "How to Build Your Developer Résumé Without Job Experience"
+          "id": "6220e4a7c4d0d306772f366e",
+          "author": "Andrew Brown",
+          "description": "This exam mostly deals with cloud-native concepts. Even if you are new to cloud-native, you should be able to prepare for this exam and earn the CNCF certification. This entire free course is now live on YouTube, and linked below. Before you dive into it, read this guide to help",
+          "link": "https://www.freecodecamp.org/news/cncf-kubernetes-cloud-native-associate-exam-course/",
+          "publishedOn": "2022-03-10T20:19:15.000Z",
+          "wordCount": 921,
+          "title": "CNCF Kubernetes and Cloud-Native Associate Study Course – Pass the Exam With This Free 13-Hour Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/cncf.png"
         },
         {
-          "id": "6070ea34d5756f080ba98017",
-          "author": null,
-          "description": "Just the thought of learning to code can be very intimidating. The word code is mysterious by definition. It implies a technical form of communication that computers, and not humans, are meant to understand. One way many people start learning to code is by picking a popular programming language and",
-          "link": "https://www.freecodecamp.org/news/how-to-learn-programming/",
-          "publishedOn": "2021-10-06T15:17:39.000Z",
-          "wordCount": 10466,
-          "title": "How to Learn Programming – The Guide I Wish I Had When I Started Learning to Code"
+          "id": "6226651763ded806bb9e60eb",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you work with Java, you've probably used one of the well known text editors like Sublime Text, VS Code, Brackets, Atom, and Notepad++ as well as IDEs like Apache NetBeans and IntelliJ IDEA.  Running code in your IDE is straightforward, but you don't often get to see how",
+          "link": "https://www.freecodecamp.org/news/how-to-execute-and-run-java-code/",
+          "publishedOn": "2022-03-10T19:20:03.000Z",
+          "wordCount": 1691,
+          "title": "How to Execute and Run Java Code from the Terminal",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Run-Java-Using-The-Terminal---freeCodeCamp-Cover-image.jpg"
         },
         {
-          "id": "613cbc6b852f4307d372bc5a",
-          "author": null,
-          "description": "Hacktoberfest is an event hosted by DigitalOcean that partners with many organizations. The goal is to give back and contribute to open-source projects. The organizers offer little incentives for a job well done, like a shirt and stickers. Other organizations also get involved by offering their own rewards. You can",
-          "link": "https://www.freecodecamp.org/news/how-anyone-can-participate-in-hacktoberfest/",
-          "publishedOn": "2021-10-06T15:14:48.000Z",
-          "wordCount": 1955,
-          "title": "How to Participate in Hacktoberfest – Even if You Don&#x27;t Write Code"
+          "id": "622a09b763ded806bb9e7c6f",
+          "author": "Kolade Chris",
+          "description": "Git is a version control system that software developers use to keep track of changes in their applications and collaborate with others. One helpful feature of Git is branches. Different people working on a software project can work in different branches before merging their changes with the original code. You",
+          "link": "https://www.freecodecamp.org/news/how-to-rename-a-local-or-remote-branch-in-git/",
+          "publishedOn": "2022-03-10T19:03:32.000Z",
+          "wordCount": 750,
+          "title": "How to Rename a Local or Remote Branch in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/git.png"
         },
         {
-          "id": "615db6910d91c9077974deb1",
-          "author": null,
-          "description": "Computers can be intimidating, especially if you didn't grow up with them. Some tasks that seem simple to experienced users can seem impossible to new users. We just released a computer and technology basics course on the freeCodeCamp.org YouTube channel. This course teaches the basics of computer use and",
-          "link": "https://www.freecodecamp.org/news/computer-basics-for-absolute-beginners/",
-          "publishedOn": "2021-10-06T14:54:13.000Z",
-          "wordCount": 426,
-          "title": "Computer Basics for Absolute Beginners"
+          "id": "6228676363ded806bb9e6fa7",
+          "author": "Zaira Hira",
+          "description": "The print function is an important function in Python, as it is used to redirect output to the terminal. The output can also be redirected to a file.  The print function, by default, prints on a new line every time. This is due to the definition of print() in",
+          "link": "https://www.freecodecamp.org/news/python-print-without-new-line-print-on-the-same-line/",
+          "publishedOn": "2022-03-10T18:11:21.000Z",
+          "wordCount": 999,
+          "title": "Python Print Without New Line – Print on the Same Line",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Copy-of-pip.png"
         },
         {
-          "id": "61533caa64aefe07d3fa041a",
-          "author": null,
-          "description": "Every JavaScript beginner will face this question at least once: \"What is a callback function?\"  Well, we can find the answer in the word callback itself. It's all about notifying the caller after the successful completion or failure of a task.  In this article, I'll focus less on the technical",
-          "link": "https://www.freecodecamp.org/news/javascript-callback-function-plain-english/",
-          "publishedOn": "2021-10-05T17:17:28.000Z",
-          "wordCount": 1270,
-          "title": "JavaScript Callback Function –Explained in Plain English"
+          "id": "60c5b9d1d3126007592d75b4",
+          "author": "Andrea Koutifaris",
+          "description": "It's hard to tell exactly when my journey creating Occulto, a point and click adventure game, started. But I have a significant date in mind: 3 May 2018. Here's one thing that got the ball rolling: > Luigi: Hello Andrea. Sorry to bother you. I would like to learn how",
+          "link": "https://www.freecodecamp.org/news/how-i-developed-my-first-game/",
+          "publishedOn": "2022-03-09T20:05:24.000Z",
+          "wordCount": 3748,
+          "title": "How I Developed My First Adventure Game",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/presentazione-new.min.jpg"
         },
         {
-          "id": "6159b85c4aa03507d94123fb",
-          "author": null,
-          "description": "Natural Language Processing may have come a little late to the AI game, but companies like Google and OpenAI are working wonders with NLP techniques these days. These companies have released state-of-the-art language models like BERT and GPT-2 and GPT-3. And GitHub Copilot and OpenAI codex are among some of",
-          "link": "https://www.freecodecamp.org/news/evolution-of-tokenization/",
-          "publishedOn": "2021-10-05T15:26:44.000Z",
-          "wordCount": 2698,
-          "title": "The Evolution of Tokenization – Byte Pair Encoding in NLP"
+          "id": "6222908cc4d0d306772f4477",
+          "author": "Dillion Megida",
+          "description": "git config is a powerful command in Git. You can use the Git configuration file to customize how Git works. This file exists in the project level where Git is initialized ( /project/.git/config) or at the root level (~/.gitcongig). If no configurations are specified, Git uses its default settings. In",
+          "link": "https://www.freecodecamp.org/news/git-config-how-to-configure-git-settings/",
+          "publishedOn": "2022-03-09T19:14:42.000Z",
+          "wordCount": 1128,
+          "title": "git config – How to Configure Git Settings to Improve Your Development Workflow",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-thisisengineering-3861958.jpg"
         },
         {
-          "id": "615b198b4aa03507d9412b36",
-          "author": null,
-          "description": "Learn how to pass the HashiCorp Terraform Associate Certification with this free 12-hour course. What is the HashiCorp Terraform Associate?HashiCorp is a company specializing in open-source tools for multi-cloud workloads. HashiCorp's most popular tool is Terraform, which allows DevOps Engineers to write code to provision infrastructure for multiple Cloud",
-          "link": "https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course/",
-          "publishedOn": "2021-10-05T14:07:18.000Z",
-          "wordCount": 612,
-          "title": "HashiCorp Terraform Associate Certification Study Course – Pass the Exam With This Free 12+ Hour Course"
-        },
-        {
-          "id": "5fff3ec998be260817e495ee",
-          "author": null,
-          "description": "Ping and traceroute are common commands you can use to troubleshoot network problems.  Ping is a simple command that can test the reachability of a device on the network.  Traceroute is a command you use to 'trace' the route that a packet takes when traveling to its destination. It's useful",
-          "link": "https://www.freecodecamp.org/news/traceroute-and-ping/",
-          "publishedOn": "2021-10-04T23:46:48.000Z",
-          "wordCount": 1157,
-          "title": "How to Use the Traceroute and Ping Commands to Troubleshoot Network Connectivity Issues"
-        },
-        {
-          "id": "6154775964aefe07d3fa0b7d",
-          "author": null,
-          "description": "Everyone needs websites and web applications these days. So there are many opportunities for you if you work as a web developer.  But if you want to get a web developer job, you'll need a good portfolio website to showcase your skills and experience.  In this tutorial, I'll discuss some",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website/",
-          "publishedOn": "2021-10-04T20:59:10.000Z",
-          "wordCount": 6519,
-          "title": "How to Build Your Own Developer Portfolio Website with HTML, CSS, and JavaScript"
-        },
-        {
-          "id": "613b97f1852f4307d372b637",
-          "author": null,
-          "description": "In this article, you will learn about the core concepts of the Open Systems Interconnections (OSI) model in a simple and easy way. As a developer, it's a good idea to learn how things work \"under the hood\". That way you understand what your code and the tools you use",
-          "link": "https://www.freecodecamp.org/news/osi-model-computer-networking-for-beginners/",
-          "publishedOn": "2021-10-04T16:27:49.000Z",
-          "wordCount": 1915,
-          "title": "What is the OSI Model? Computer Networking for Beginners"
-        },
-        {
-          "id": "61063c1d3306a507d1bfbfca",
-          "author": null,
-          "description": "You might have heard of the term User Experience or UX design. But what does it mean exactly? In this article, I will explain what UX design is and talk about how to become a UX designer.  What is UX design?The term User Experience refers to how users interact",
-          "link": "https://www.freecodecamp.org/news/user-experience-design-what-does-a-ux-designer-do/",
-          "publishedOn": "2021-10-04T16:21:30.000Z",
-          "wordCount": 1195,
-          "title": "What is UX Design? User Experience Design Explained in Plain English"
-        },
-        {
-          "id": "5f9c98a3740569d1a4ca1b33",
-          "author": null,
-          "description": "Every year Class Central releases a list of the Best Free Online Courses Of All Time, based on tens of thousands of user reviews. This year, thanks to a growing number of reviews, I've expanded the list from 200 to 250 courses. For close to ten years, well-known and well-respected",
-          "link": "https://www.freecodecamp.org/news/best-online-courses/",
-          "publishedOn": "2021-10-03T04:21:00.000Z",
-          "wordCount": 11998,
-          "title": "The 250 Best Free Online Courses of All Time – A Data-Driven Analysis [2021 Edition]"
-        },
-        {
-          "id": "613f8a73852f4307d372cc55",
-          "author": null,
-          "description": "Java is one of the most popular object-oriented programming languages in use today.  Because it is platform-independent, you will find Java applications on every type of device and every operating system. And because Java is relatively easy to learn, it is one of the first languages that many programmers pick",
-          "link": "https://www.freecodecamp.org/news/how-to-solve-multiple-inheritance-in-java/",
-          "publishedOn": "2021-10-01T14:42:02.000Z",
-          "wordCount": 1381,
-          "title": "How to Solve the Problem of Multiple Inheritance in Java"
-        },
-        {
-          "id": "611b08a4e884de075217ff23",
-          "author": null,
-          "description": "The United States Census Bureau estimates that more than 12% of the United States' population is living with a disability. Disabilities can include vision difficulties, hearing difficulties, mobility challenges, and much more.  And a person can become disabled at any stage of their life.  Since a significant portion of the",
-          "link": "https://www.freecodecamp.org/news/mobile-accessibility/",
-          "publishedOn": "2021-09-30T21:47:00.000Z",
-          "wordCount": 1886,
-          "title": "Accessibility Best Practices for Mobile App Development"
-        },
-        {
-          "id": "6155b8f964aefe07d3fa1234",
-          "author": null,
-          "description": "We use lists all the time in our everyday lives.  We create them to structure and organize our days, and we use them to make to-do lists. We use them in recipes so we don't miss any of the steps. And we use them when we want to assemble a",
-          "link": "https://www.freecodecamp.org/news/html-bullet-points-how-to-create-an-unordered-list-with-the-ul-tag-example/",
-          "publishedOn": "2021-09-30T17:31:40.000Z",
-          "wordCount": 1234,
-          "title": "HTML Bullet Points – How to Create an Unordered List with the &lt;ul&gt; Tag Example"
-        },
-        {
-          "id": "613f3c6d852f4307d372c7ca",
-          "author": null,
-          "description": "In SQL, you can make a database query and use the COUNT function to get the number of rows for a particular group in the table.  In this article, I will show you how to use the COUNT function with a few code examples.  What is the COUNT function in",
-          "link": "https://www.freecodecamp.org/news/sql-distinct-statement-how-to-query-select-and-count/",
-          "publishedOn": "2021-09-30T16:24:19.000Z",
-          "wordCount": 1065,
-          "title": "SQL Distinct Statement – How to Query, Select, and Count"
-        },
-        {
-          "id": "6155d5c364aefe07d3fa1467",
-          "author": null,
-          "description": "Almost every software developer uses git. Many use it continually throughout the day. While you may already know the very basics of git, your productivity will be increased if you learn some advanced git concepts. We just released a git course on the freeCodeCamp.org YouTube channel that will help",
-          "link": "https://www.freecodecamp.org/news/git-for-professionals/",
-          "publishedOn": "2021-09-30T15:29:20.000Z",
-          "wordCount": 5941,
-          "title": "Git for Professionals – Free Version Control Course"
-        },
-        {
-          "id": "612cbfe4b5177808226d4a4b",
-          "author": null,
-          "description": "In SQL, there are two built-in functions to sum or average the data in your table.  In this article I will show you how to use the SUM and AVG functions in SQL using code examples.  How to use the SUM function in SQLIf you need to add a group",
-          "link": "https://www.freecodecamp.org/news/sql-count-how-to-select-sum-and-average-rows-in-sql/",
-          "publishedOn": "2021-09-29T20:04:04.000Z",
-          "wordCount": 845,
-          "title": "SQL Count – How to Select, Sum, and Average Rows in SQL"
-        },
-        {
-          "id": "615440ac64aefe07d3fa0855",
-          "author": null,
-          "description": "You can use HTML, CSS and JavaScript to create stylish and dynamic web elements. And one useful element you can build is an accordion menu. Accordion menus expand and collapse when a user clicks a button. It's a great way to not have to show all the info about a",
-          "link": "https://www.freecodecamp.org/news/build-an-accordion-menu-using-html-css-and-javascript/",
-          "publishedOn": "2021-09-29T19:45:33.000Z",
-          "wordCount": 1718,
-          "title": "How to Build an Accordion Menu Using HTML, CSS and JavaScript"
-        },
-        {
-          "id": "6154412664aefe07d3fa085b",
-          "author": null,
-          "description": "In this article, you'll learn how to add single and multi-line comments to your HTML documents.  You'll also see why comments are considered a good practice when writing HTML code.  Let's get started!  The HTML Comment Tag The general syntax for an HTML comment looks like this:  <!-- I",
-          "link": "https://www.freecodecamp.org/news/html-comment-how-to-comment-out-a-line-or-tag-in-html/",
-          "publishedOn": "2021-09-29T17:03:35.000Z",
-          "wordCount": 1170,
-          "title": "HTML Comment – How to Comment Out a Line or Tag in HTML"
-        },
-        {
-          "id": "614e7e50ccc97307eb2bc3e5",
-          "author": null,
-          "description": "Flexbox can help you simplify the process of creating both basic and advanced layouts. And it's pretty straightforward to create side and bottom navigation menus with CSS flexbox or Grid. These layouts are so popular that they appear almost everywhere on the web. For example, check out Twitter's sidebar, which",
-          "link": "https://www.freecodecamp.org/news/fixed-side-and-bottom-navbar-with-css-flexbox/",
-          "publishedOn": "2021-09-28T21:41:48.000Z",
-          "wordCount": 783,
-          "title": "CSS Flexbox Tutorial – How to Build a Fixed Side and Bottom Navbar"
-        },
-        {
-          "id": "6153616d64aefe07d3fa049a",
-          "author": null,
-          "description": "Building projects is a great way to build your skills, especially when it comes to web development. We just published an HTML & CSS course on the freeCodeCamp.org YouTube channel teach you how to build a recipe website. John Smilga developed this course. He is one of the most",
-          "link": "https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/",
-          "publishedOn": "2021-09-28T18:56:03.000Z",
-          "wordCount": 22802,
-          "title": "HTML / CSS Tutorial - Build a Recipe Website"
-        },
-        {
-          "id": "613c75b1852f4307d372b9ab",
-          "author": null,
-          "description": "You have finished creating your HTML website and you're feeling proud of your hard work. But there is one thing that is still missing: you have no idea how to publish your website. In this tutorial, you will learn how to publish an HTML website using two popular platforms – Netlify",
-          "link": "https://www.freecodecamp.org/news/publish-your-website-netlify-github/",
-          "publishedOn": "2021-09-28T17:36:52.000Z",
-          "wordCount": 968,
-          "title": "How to Publish an HTML Website on Netlify or GitHub Pages"
-        },
-        {
-          "id": "615233ec64aefe07d3f9fdb4",
-          "author": null,
-          "description": "Sentry.io is an external monitoring and logging service which can help you identify and triage errors in your code.  These logs provide information such as a trace stack, breadcrumbs, and (assuming this is a web application) browser data. This can help you triage issues and resolve bugs faster, with",
-          "link": "https://www.freecodecamp.org/news/how-to-add-sentry-to-your-node-js-project-with-typescript/",
-          "publishedOn": "2021-09-28T16:24:26.000Z",
-          "wordCount": 1195,
-          "title": "How to Add Sentry to Your Node.js Project with TypeScript"
-        },
-        {
-          "id": "614e05eeccc97307eb2bc165",
-          "author": null,
-          "description": "Raise your hand if your typical HTML layout looks like this: <body> \t<div class=\"header\" id=\"site-header\"> \t\t<div class=\"site-nav\"> \t\t\t<ul> \t\t\t\t<li><a href=\"/\">Home</a></li> \t\t\t\t<li><a href=\"/\">",
-          "link": "https://www.freecodecamp.org/news/semantic-html-alternatives-to-using-divs/",
-          "publishedOn": "2021-09-28T16:00:39.000Z",
-          "wordCount": 1698,
-          "title": "Semantic HTML Guide – 10 Alternatives to Using divs"
-        },
-        {
-          "id": "6149e65e9456b407b870fdc5",
-          "author": null,
-          "description": "GitHub is a collection of web-based tools that helps you work with version control and Git methodologies.  With the help of GitHub, you can create, manage, and collaborate on projects with multiple other team members. You keep the project folders and files in a store (file system) on GitHub. This",
-          "link": "https://www.freecodecamp.org/news/increase-engagement-on-your-public-github-repositories/",
-          "publishedOn": "2021-09-28T00:05:11.000Z",
-          "wordCount": 1737,
-          "title": "GitHub Repo Guide – How to Increase Engagement on your Public GitHub Repositories"
-        },
-        {
-          "id": "6148802f9456b407b870f041",
-          "author": null,
-          "description": "There are many articles about the Open-Closed Principle, but I can never find one that explains it in a way that really works for me.  So here, hopefully, is a good one – with a non trivial and real life example, what changes to support, and a description of the trade",
-          "link": "https://www.freecodecamp.org/news/open-closed-principle/",
-          "publishedOn": "2021-09-27T19:43:06.000Z",
-          "wordCount": 1607,
-          "title": "Open-Closed Principle – The Software Development Concept Explained in Plain English"
-        },
-        {
-          "id": "61508279ccc97307eb2bca3f",
-          "author": null,
-          "description": "Sharing your knowledge can help you improve your skills and level up your career as a developer. Many developers are already doing it, and if you aren't, this article is for you. In it, I will show you why you should share your coding expertise by looking at five extraordinary",
-          "link": "https://www.freecodecamp.org/news/why-you-should-share-your-knowledge-as-a-developer/",
-          "publishedOn": "2021-09-27T17:41:26.000Z",
-          "wordCount": 972,
-          "title": "Why You Should Share Your Knowledge as a Developer"
-        },
-        {
-          "id": "613f3cd3852f4307d372c7e8",
-          "author": null,
-          "description": "If you have just started learning JavaScript, you might have heard of the DOM. But what is it exactly? In this article, I will explain what the DOM is and provide some JavaScript code examples.  We will take a look at how to select elements from an HTML document, how",
-          "link": "https://www.freecodecamp.org/news/what-is-the-dom-document-object-model-meaning-in-javascript/",
-          "publishedOn": "2021-09-27T16:23:19.000Z",
-          "wordCount": 1470,
-          "title": "What is the DOM? Document Object Model Meaning in JavaScript"
-        },
-        {
-          "id": "614ad5b79456b407b871028d",
-          "author": null,
-          "description": "Lambda functions are anonymous functions that can contain only one expression. You may think that lambda functions are an intermediate or advanced feature, but here you will learn how you can easily start using them in your code. In Python, functions are usually created like this: def my_func(a)",
-          "link": "https://www.freecodecamp.org/news/lambda-function-in-python-example-syntax/",
-          "publishedOn": "2021-09-27T15:23:43.000Z",
-          "wordCount": 905,
-          "title": "Lambda Function in Python – Example Syntax"
-        },
-        {
-          "id": "614c40119456b407b8710b0f",
-          "author": null,
-          "description": "Making a website or web app accessible improves the user experience for people with disabilities and for all users as well. Since developers deal with tight deadlines and competing priorities, it is easy to accidentally ship unresolved accessibility issues to production. And things becomes even more complex when working with",
-          "link": "https://www.freecodecamp.org/news/react-accessibility-tools-build-accessible-react-apps/",
-          "publishedOn": "2021-09-27T14:18:59.000Z",
-          "wordCount": 2213,
-          "title": "React Accessibility Tools – How to Build More Accessible React Apps"
-        },
-        {
-          "id": "6151be27ccc97307eb2bcfa2",
-          "author": null,
-          "description": "Natural language processing, or NLP, is a branch of linguistics that seeks to parse human language in a computer system. spaCy is a popular Python library used for NLP. We just published a NLP and spaCy course on the freeCodeCamp.org YouTube channel. In the course you will learn all",
-          "link": "https://www.freecodecamp.org/news/natural-language-processing-with-spacy-python-full-course/",
-          "publishedOn": "2021-09-27T14:12:24.000Z",
-          "wordCount": 4451,
-          "title": "Natural Language Processing with spaCy &amp; Python - Full Course"
-        },
-        {
-          "id": "614bc3bd9456b407b87108b3",
-          "author": null,
-          "description": "By using big data, companies can learn a lot about how their businesses are performing. Analytics on sales, churn rates, and other basic metrics are available in almost real time as data comes in.  Then there are more complex analyses that you'll need to do. At times relationships between two",
-          "link": "https://www.freecodecamp.org/news/how-to-use-object-storage-for-parallelization-and-experimentation/",
-          "publishedOn": "2021-09-27T14:09:57.000Z",
-          "wordCount": 1510,
-          "title": "How to Use Object Storage for Data Parallelization and Experimentation"
-        },
-        {
-          "id": "614df185ccc97307eb2bc079",
-          "author": null,
-          "description": "Buttons are an essential part of websites. You need them for various functionalities, from submitting information and getting access to more content to linking to different parts of the web page and other websites.  HTML gives you several ways to add buttons to your website – with the button tag, the",
-          "link": "https://www.freecodecamp.org/news/html-button-type-how-to-add-buttons-to-your-website/",
-          "publishedOn": "2021-09-24T18:06:24.000Z",
-          "wordCount": 1170,
-          "title": "HTML Button Type – How to Add Buttons to your Website"
-        },
-        {
-          "id": "614b428f9456b407b871068a",
-          "author": null,
-          "description": "Google Docs is one of the most popular text processors.  It has many features available to help you visually enhance your writing and make specific parts stand out more.  One of the ways you can add more functionality to your documents is by adding a textbox.  A textbox helps make",
-          "link": "https://www.freecodecamp.org/news/how-to-insert-a-text-box-in-google-docs-add-textbox-tutorial/",
-          "publishedOn": "2021-09-24T17:42:48.000Z",
-          "wordCount": 1026,
-          "title": "How to Insert a Text Box in Google Docs – Add Textbox Tutorial"
-        },
-        {
-          "id": "6106568e3306a507d1bfc0f6",
-          "author": null,
-          "description": "Model–View–Controller is a popular software pattern used to break up the logic of your application into three different components.  In this article, I will break down the three components behind the MVC pattern, provide some history, and show you how it can be used in an application. History",
-          "link": "https://www.freecodecamp.org/news/mvc-architecture-what-is-a-model-view-controller-framework/",
-          "publishedOn": "2021-09-24T17:36:14.000Z",
-          "wordCount": 1275,
-          "title": "MVC Architecture – What is a Model View Controller Framework?"
-        },
-        {
-          "id": "614c72939456b407b8710f0a",
-          "author": null,
-          "description": "The HEIC photo format is Apple’s proprietary version of the HEIF (High-Efficiency Image File) file format.  It’s a better way to save photos than JPG and JPEG, because with it, you can save up to 50% disk space on your device without losing quality.  Because HEIC is owned",
-          "link": "https://www.freecodecamp.org/news/convert-heic-to-jpg-on-windows-heic-file-format-on-pc/",
-          "publishedOn": "2021-09-23T21:29:17.000Z",
-          "wordCount": 496,
-          "title": "Convert HEIC to JPG on Windows – HEIC File Format on PC"
-        },
-        {
-          "id": "61386e5b581b610782a9206b",
-          "author": null,
-          "description": "When coding in Python, you can often anticipate runtime errors even in a syntactically and logically correct program. These errors can be caused by invalid inputs or some predictable inconsistencies.  In Python, you can use the try and the except blocks to handle most of these errors as exceptions all",
-          "link": "https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/",
-          "publishedOn": "2021-09-23T21:00:47.000Z",
-          "wordCount": 2039,
-          "title": "Python Try and Except Statements – How to Handle Exceptions in Python"
-        },
-        {
-          "id": "612cbfcab5177808226d4a41",
-          "author": null,
-          "description": "In SQL, you can delete a row in a table by using the DELETE query and the WHERE clause.  In the article, I will walk you through how to use the DELETE query and WHERE clause to delete rows. I will also show you how to delete multiple rows from",
-          "link": "https://www.freecodecamp.org/news/how-to-delete-a-row-in-sql-example-query/",
-          "publishedOn": "2021-09-23T17:56:36.000Z",
-          "wordCount": 831,
-          "title": "How to Delete a Row in SQL – Example Query"
-        },
-        {
-          "id": "61495c979456b407b870f9f7",
-          "author": null,
-          "description": "One of the very interesting and widely used applications of Natural Language Processing is Named Entity Recognition (NER). Getting insights from raw and unstructured data is of vital importance. Uploading a document and getting the important bits of information from it is called information retrieval. Information retrieval has always been",
-          "link": "https://www.freecodecamp.org/news/use-python-spacy-streamlit-to-build-structured-financial-newsfeed/",
-          "publishedOn": "2021-09-23T17:01:09.000Z",
-          "wordCount": 2125,
-          "title": "Use Python, SpaCy, and Streamlit to Build a Structured Financial Newsfeed"
-        },
-        {
-          "id": "612780233bccf807612a8955",
-          "author": null,
-          "description": "Today we're going to learn how to do form validation in JavaScript. We'l also add images and media queries to build out the entire project and keep it as a portfolio.   Here's the project demo that we're gonna build 👇 Desktop designHere's a small sample of how the form will work",
-          "link": "https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/",
-          "publishedOn": "2021-09-22T18:33:54.000Z",
-          "wordCount": 1981,
-          "title": "Learn JavaScript Form Validation – Build a JS Project for Beginners ✨"
-        },
-        {
-          "id": "614b18f59456b407b87105b2",
-          "author": null,
-          "description": "In HTML, the font you choose will play a major role in the look and feel of your web pages.  You get to pick the font's color, weight, size, and so on. And all these features make your websites and apps look better and more presentable to the user.  With",
-          "link": "https://www.freecodecamp.org/news/html-font-size-how-to-change-text-size-using-inline-css-style/",
-          "publishedOn": "2021-09-22T18:02:22.000Z",
-          "wordCount": 796,
-          "title": "HTML Font Size – How to Change Text Size Using Inline CSS Style"
-        },
-        {
-          "id": "612203ef3bccf807612a5752",
-          "author": null,
-          "description": "When you're coding in Python, you can use the enumerate() function and a for loop  to print out each value of an iterable with a counter. In this article, I will show you how to use Python's enumerate() function with a for loop and explain why it is a better",
-          "link": "https://www.freecodecamp.org/news/python-enumerate-python-enum-for-loop-index-example/",
-          "publishedOn": "2021-09-22T17:53:56.000Z",
-          "wordCount": 906,
-          "title": "Python Enumerate – Python Enum For Loop Index Example"
-        },
-        {
-          "id": "614b2a529456b407b8710629",
-          "author": null,
-          "description": "Shiny is an R package that makes it easy to build interactive and data-driven web apps straight from R. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use R Shiny. Dr. Chanin Nantasenamat, also known as the Data Professor, teaches this",
-          "link": "https://www.freecodecamp.org/news/build-interactive-data-driven-web-apps-with-r-shiny/",
-          "publishedOn": "2021-09-22T13:17:46.000Z",
-          "wordCount": 13763,
-          "title": "Build Interactive Data-Driven Web Apps With R Shiny"
-        },
-        {
-          "id": "6114c92f72231b077cdae3fa",
-          "author": null,
-          "description": "Whenever you're working with computers or any electronic device that has storage capacity, you might need to distribute or share information and files in various ways.  These might be sound files, images, notes, or any number of text configuration files.  And the information you share will often be private or",
-          "link": "https://www.freecodecamp.org/news/scp-linux-command-example-how-to-ssh-file-transfer-from-remote-to-local/",
-          "publishedOn": "2021-09-21T21:41:38.000Z",
-          "wordCount": 1333,
-          "title": "SCP Linux Command – How to SSH File Transfer from Remote to Local"
-        },
-        {
-          "id": "611b66d9e884de0752180165",
-          "author": null,
-          "description": "Google Sheets provide a simple way to create online forms and gather data from users. In this tutorial we will use Google Sheets and Next.js to build a simple form. We'll use Next.js as our front end, and we'll use Google Sheets as the back end to send",
-          "link": "https://www.freecodecamp.org/news/create-a-feedback-form-using-nextjs-and-google-sheets-api/",
-          "publishedOn": "2021-09-21T17:44:05.000Z",
-          "wordCount": 1767,
-          "title": "How to Create a Feedback Form using the Google Sheets API"
-        },
-        {
-          "id": "61474c2a852f4307d37305e1",
-          "author": null,
-          "description": "As a developer, you probably want to improve your skills constantly. Be the best developer you can possibly be. But how you can actually improve is a tricky question to answer.  The Software industry is obsessed with the idea of 10x engineers. These are engineers who are supposedly 10 times",
-          "link": "https://www.freecodecamp.org/news/how-to-become-a-better-developer/",
-          "publishedOn": "2021-09-21T15:52:00.000Z",
-          "wordCount": 1505,
-          "title": "How to Become a Better Developer – Tips to Grow Your Coding Skills"
-        },
-        {
-          "id": "6149f6de9456b407b870fe26",
-          "author": null,
-          "description": "If you use a computer a lot you've probably had to do some repetitive tasks. Python can be used to automate many boring tasks to give you more time for other things. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to automate",
-          "link": "https://www.freecodecamp.org/news/how-to-automate-things-using-python/",
-          "publishedOn": "2021-09-21T15:18:57.000Z",
-          "wordCount": 495,
-          "title": "How to Automate Things Using Python"
-        },
-        {
-          "id": "5fbf192a49c47664ed825d46",
-          "author": null,
-          "description": "In this article, you'll learn how to set up reCAPTCHA v3 in your Laravel project. This can be a bit tricky, so I'll help you simplify the process here.  What is reCaptcha?reCaptcha is a Google service provided for free that helps you protect your websites from spam and malicious",
-          "link": "https://www.freecodecamp.org/news/how-to-setup-recaptcha-v3-in-laravel/",
-          "publishedOn": "2021-09-20T22:26:01.000Z",
-          "wordCount": 732,
-          "title": "How to Set Up reCAPTCHA v3 in a Laravel Project"
-        },
-        {
-          "id": "61483e50852f4307d3730d48",
-          "author": null,
-          "description": "Tuples and lists are two of the four available built-in data types that you can use to store data in Python.  They are both useful and they might seem similar at first glance. But they have significant differences and each one is best used in different cases.  This article will",
-          "link": "https://www.freecodecamp.org/news/python-tuple-vs-list-what-is-the-difference/",
-          "publishedOn": "2021-09-20T21:15:57.000Z",
-          "wordCount": 2100,
-          "title": "Python Tuple VS List – What is the Difference?"
-        },
-        {
-          "id": "61330a1fd6679a07b7d41e3e",
-          "author": null,
-          "description": "React-icons is a small library that helps you add icons (from all different icon libraries) to your React apps. It delivers the icons to your app as components so they're easier to work with, and it lets you style them so they're consistent with the overall style of your app.",
-          "link": "https://www.freecodecamp.org/news/how-to-use-react-icons/",
-          "publishedOn": "2021-09-20T19:44:00.000Z",
-          "wordCount": 2562,
-          "title": "How to use react-icons to install Font Awesome in a React app"
-        },
-        {
-          "id": "613a5047852f4307d372a9ea",
-          "author": null,
-          "description": "In this article I am going to walk you through building a prototype with Spring Boot. Think of it like building a project for a hackathon or a prototype for your startup in limited time.  In other words, we are not trying to build something perfect – but rather something that",
-          "link": "https://www.freecodecamp.org/news/spring-boot-tutorial-build-fast-modern-java-app/",
-          "publishedOn": "2021-09-20T19:43:06.000Z",
-          "wordCount": 8254,
-          "title": "Spring Boot Tutorial – How to Build Fast and Modern Java Apps"
-        },
-        {
-          "id": "6148d0dc9456b407b870f5ba",
-          "author": null,
-          "description": "Django is one of the most popular ways to create full-stack websites with Python. We just published an 18-hour Django course on the freeCodeCamp.org YouTube channel. Charles Severance (a.k.a. Dr. Chuck) created this course, along with the popular Python for Everybody course. He is a Clinical Professor",
-          "link": "https://www.freecodecamp.org/news/django-for-everybody-learn-the-popular-python-framework-from-dr-chuck/",
-          "publishedOn": "2021-09-20T18:29:03.000Z",
-          "wordCount": 789,
-          "title": "Django for Everybody - Learn the Popular Python Framework from Dr. Chuck"
-        },
-        {
-          "id": "612cbfd8b5177808226d4a47",
-          "author": null,
-          "description": "In this article, I will show you a few code examples on how you can sort your data in ascending order using the ORDER BY clause in SQL.  ORDER BY syntaxThis is the basic syntax to sort your data in ascending order: SELECT columns FROM table ORDER BY column;If",
-          "link": "https://www.freecodecamp.org/news/ascending-order-with-sql-order-by/",
-          "publishedOn": "2021-09-20T14:29:04.000Z",
-          "wordCount": 767,
-          "title": "Ascending Order with SQL Order By"
-        },
-        {
-          "id": "614382b2852f4307d372f2d6",
-          "author": null,
-          "description": "Take  a look at the following sentences:  I’m learning how to  code.  I'll get a software developer job.  Learning how to code doesn’t have to cost you money.  The words I’m, I’ll and doesn’t are called contractions.  In this article, you'll learn all about contractions",
-          "link": "https://www.freecodecamp.org/news/what-is-a-contraction-grammar-and-definition/",
-          "publishedOn": "2021-09-20T13:59:58.000Z",
-          "wordCount": 1817,
-          "title": "What is a Contraction? Grammar and Definition"
+          "id": "6216b67dc4d0d306772ef0ed",
+          "author": "Reed Barger",
+          "description": "One of the most essential concepts that any modern JavaScript developer needs to understand is state.  If you don't understand state, you're not going to be able to fully use and take advantage of powerful libraries such as React to build your applications.  Let's see exactly what state",
+          "link": "https://www.freecodecamp.org/news/react-state/",
+          "publishedOn": "2022-03-09T16:48:55.000Z",
+          "wordCount": 1788,
+          "title": "React State for Absolute Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/react-state-absolute-beginners.png"
         }
       ]
     },
@@ -884,217 +190,131 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
-          "id": "https://www.quantamagazine.org/?p=109616",
-          "author": "Allison Whitten",
-          "description": "A new model of learning centers on bursts of neural activity that act as teaching signals — approximating backpropagation, the algorithm behind learning in AI.            \nThe post Neuron Bursts Can Mimic Famous AI Learning Strategy first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/brain-bursts-can-mimic-famous-ai-learning-strategy-20211018/",
-          "publishedOn": "2021-10-18T14:52:33.000Z",
-          "wordCount": null,
-          "title": "Neuron Bursts Can Mimic Famous AI Learning Strategy",
-          "itunes": {}
+          "id": "https://www.quantamagazine.org/?p=113152",
+          "author": "Stephen Ornes",
+          "description": "A simple algorithm that revolutionizes how neural networks approach language is now taking on image classification as well. It may not stop there.            \nThe post Will Transformers Take Over Artificial Intelligence? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/will-transformers-take-over-artificial-intelligence-20220310/",
+          "publishedOn": "2022-03-10T13:48:54.000Z",
+          "wordCount": 2364,
+          "title": "Will Transformers Take Over Artificial Intelligence?",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Transformers_1200_social.jpg"
         },
         {
-          "id": "https://www.quantamagazine.org/?p=109585",
+          "id": "https://www.quantamagazine.org/?p=112984",
           "author": "Jordana Cepelewicz",
-          "description": "When animals move through 3D spaces, the neat system of grid cell activity they use for navigating on flat surfaces gets more disorderly. That has implications for some ideas about memory and other processes.            \nThe post How Animals Map 3D Spaces Surprises Brain Researchers first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-animals-map-3d-spaces-surprises-brain-researchers-20211014/",
-          "publishedOn": "2021-10-14T15:32:37.000Z",
-          "wordCount": null,
-          "title": "How Animals Map 3D Spaces Surprises Brain Researchers",
-          "itunes": {}
+          "description": "A new proof significantly strengthens a decades-old result about the ubiquity of ways to represent whole numbers as sums of unit fractions.            \nThe post Math’s ‘Oldest Problem Ever’ Gets a New Answer first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/maths-oldest-problem-ever-gets-a-new-answer-20220309/",
+          "publishedOn": "2022-03-09T12:55:13.000Z",
+          "wordCount": 1682,
+          "title": "Math’s ‘Oldest Problem Ever’ Gets a New Answer",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/One_1200_social.jpg"
         },
         {
-          "id": "https://www.quantamagazine.org/?p=109528",
-          "author": "Alexander Hellemans",
-          "description": "Built upon the ubiquitous Fourier transform, the mathematical tools known as wavelets allow unprecedented analysis and understanding of continuous signals.            \nThe post How Wavelets Allow Researchers to Transform, and Understand, Data first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-wavelets-allow-researchers-to-transform-and-understand-data-20211013/",
-          "publishedOn": "2021-10-13T16:55:24.000Z",
-          "wordCount": null,
-          "title": "How Wavelets Allow Researchers to Transform, and Understand, Data",
-          "itunes": {}
+          "id": "https://www.quantamagazine.org/?p=113108",
+          "author": "Yasemin Saplakoglu",
+          "description": "The discovery that short peptides can form spontaneously on cosmic dust hints at more of a role for them in the earliest stages of life’s origin, on Earth or elsewhere.            \nThe post Peptides on Stardust May Have Provided a Shortcut to Life first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/peptides-on-stardust-may-have-provided-a-shortcut-to-life-20220308/",
+          "publishedOn": "2022-03-08T12:35:21.000Z",
+          "wordCount": 1531,
+          "title": "Peptides on Stardust May Have Provided a Shortcut to Life",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Space-Peptides_1200_Social.jpg"
         },
         {
-          "id": "https://www.quantamagazine.org/?p=109449",
-          "author": "Thomas Lewton",
-          "description": "After the ultra-powerful James Webb Space Telescope launches later this year, Laura Kreidberg will lead two efforts to check the weather on rocky planets orbiting other stars.            \nThe post The Astronomer Who’s About to See the Skies of Other Earths first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/with-a-new-space-telescope-laura-kreidberg-will-probe-exoplanet-skies-20211012/",
-          "publishedOn": "2021-10-12T15:11:50.000Z",
-          "wordCount": null,
-          "title": "The Astronomer Who’s About to See the Skies of Other Earths",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=109421",
-          "author": "Anil Ananthaswamy",
-          "description": "To help them explain the shocking success of deep neural networks, researchers are turning to older but better-understood models of machine learning.            \nThe post A New Link to an Old Model Could Crack the Mystery of Deep Learning first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/",
-          "publishedOn": "2021-10-11T15:33:28.000Z",
-          "wordCount": null,
-          "title": "A New Link to an Old Model Could Crack the Mystery of Deep Learning",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=109369",
-          "author": "Mordechai Rorvig",
-          "description": "After decades of effort, mathematicians now have a complete understanding of the complicated equations that model the motion of free boundaries, like the one between ice and water.            \nThe post Mathematicians Prove Melting Ice Stays Smooth first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/mathematicians-prove-melting-ice-stays-smooth-20211006/",
-          "publishedOn": "2021-10-06T14:24:38.000Z",
-          "wordCount": null,
-          "title": "Mathematicians Prove Melting Ice Stays Smooth",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=109124",
-          "author": "Jordana Cepelewicz",
-          "description": "Benjamin List and David MacMillan received the 2021 Nobel Prize in Chemistry for their development of asymmetrical organocatalysis.            \nThe post Chemistry Nobel Prize Honors Technique for Building Molecules first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/chemistry-nobel-prize-honors-technique-for-building-molecules-20211006/",
-          "publishedOn": "2021-10-06T10:03:16.000Z",
-          "wordCount": null,
-          "title": "Chemistry Nobel Prize Honors Technique for Building Molecules",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=109120",
-          "author": "Natalie Wolchover",
-          "description": "Syukuro Manabe and Klaus Hasselmann have been honored for their work that led to reliable predictions of the effects of climate change. They will share the Nobel with Giorgio Parisi, who has made pioneering studies of chaotic physical systems.            \nThe post Work on Earth’s Climate and Other Complex Systems Earns Nobel Prize in Physics first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/pioneering-climate-modelers-earn-nobel-prize-in-physics-20211005/",
-          "publishedOn": "2021-10-05T09:52:38.000Z",
-          "wordCount": null,
-          "title": "Work on Earth’s Climate and Other Complex Systems Earns Nobel Prize in Physics",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=109116",
-          "author": "Jordana Cepelewicz",
-          "description": "David Julius and Ardem Patapoutian receive the 2021 Nobel Prize in Physiology or Medicine for their discoveries of how we detect heat and touch.            \nThe post Medicine Nobel Prize Goes to Temperature and Touch Discoveries first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/medicine-nobel-prize-goes-for-temperature-and-touch-discoveries-20211004/",
-          "publishedOn": "2021-10-04T09:42:09.000Z",
-          "wordCount": null,
-          "title": "Medicine Nobel Prize Goes to Temperature and Touch Discoveries",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=109006",
-          "author": "Dan Falk",
-          "description": "How does consciousness arise in mere flesh and blood? To the neuroscientist Anil Seth, our organic bodies are the key to the experience.            \nThe post Anil Seth Finds Consciousness in Life’s Push Against Entropy first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/anil-seth-finds-consciousness-in-lifes-push-against-entropy-20210930/",
-          "publishedOn": "2021-09-30T15:52:44.000Z",
-          "wordCount": null,
-          "title": "Anil Seth Finds Consciousness in Life’s Push Against Entropy",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=109003",
-          "author": "Philip Ball",
-          "description": "So-called topological quantum computing would avoid many of the problems that stand in the way of full-scale quantum computers. But high-profile missteps have led some experts to question whether the field is fooling itself.            \nThe post Major Quantum Computing Strategy Suffers Serious Setbacks first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/major-quantum-computing-strategy-suffers-serious-setbacks-20210929/",
-          "publishedOn": "2021-09-29T16:52:52.000Z",
-          "wordCount": null,
-          "title": "Major Quantum Computing Strategy Suffers Serious Setbacks",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=109000",
-          "author": "Kevin Hartnett",
-          "description": "As topologists seek to classify shapes, the effort hinges on how to define a manifold and what it means for two of them to be equivalent.            \nThe post In Topology, When Are Two Shapes the Same? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/in-topology-when-are-two-shapes-the-same-20210928/",
-          "publishedOn": "2021-09-28T14:15:04.000Z",
-          "wordCount": null,
-          "title": "In Topology, When Are Two Shapes the Same?",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=108997",
-          "author": "Charlie Wood",
-          "description": "The unexpected discovery of the double-charm tetraquark has given physicists a new tool with which to hone their understanding of the strongest of nature’s fundamental forces.            \nThe post ‘Impossible’ Particle Discovery Adds Key Piece to the Strong Force Puzzle first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/impossible-particle-discovery-adds-key-piece-to-the-strong-force-puzzle-20210927/",
-          "publishedOn": "2021-09-27T14:36:02.000Z",
-          "wordCount": null,
-          "title": "‘Impossible’ Particle Discovery Adds Key Piece to the Strong Force Puzzle",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=108871",
-          "author": "Patrick Honner",
-          "description": "Solutions to the simplest polynomial equations — called “roots of unity” — have an elegant structure that mathematicians still use to study some of math’s greatest open questions.            \nThe post The Simple Math Behind the Mighty Roots of Unity first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/the-simple-math-behind-the-mighty-roots-of-unity-20210923/",
-          "publishedOn": "2021-09-23T14:02:27.000Z",
-          "wordCount": null,
-          "title": "The Simple Math Behind the Mighty Roots of Unity",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=108868",
-          "author": "Veronique Greenwood",
-          "description": "Researchers have discovered that environments favoring clumpy growth are all that’s needed to quickly transform single-celled yeast into complex multicellular organisms.            \nThe post Single Cells Evolve Large Multicellular Forms in Just Two Years first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/single-cells-evolve-large-multicellular-forms-in-just-two-years-20210922/",
-          "publishedOn": "2021-09-22T16:11:01.000Z",
-          "wordCount": null,
-          "title": "Single Cells Evolve Large Multicellular Forms in Just Two Years",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=108859",
+          "id": "https://www.quantamagazine.org/?p=112851",
           "author": "Leila Sloman",
-          "description": "The n-queens problem is about finding how many different ways queens can be placed on a chessboard so that none attack each other. A mathematician has now all but solved it.             \nThe post Mathematician Answers Chess Problem About Attacking Queens first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/mathematician-answers-chess-problem-about-attacking-queens-20210921/",
-          "publishedOn": "2021-09-21T14:13:20.000Z",
-          "wordCount": null,
-          "title": "Mathematician Answers Chess Problem About Attacking Queens",
-          "itunes": {}
+          "description": "A new computer program fashioned after artificial intelligence systems like AlphaGo has solved several open problems in combinatorics and graph theory.            \nThe post In New Math Proofs, Artificial Intelligence Plays to Win first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/in-new-math-proofs-artificial-intelligence-plays-to-win-20220307/",
+          "publishedOn": "2022-03-07T12:56:25.000Z",
+          "wordCount": 1354,
+          "title": "In New Math Proofs, Artificial Intelligence Plays to Win",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Counterexamle_1200_Social.jpg"
         },
         {
-          "id": "https://www.quantamagazine.org/?p=108834",
-          "author": "Elena Renken",
-          "description": "A painstaking study of wing morphology shows both the striking uniformity of individuals in a species and a subtle pattern of linked variations that evolution can exploit.            \nThe post Mathematical Analysis of Fruit Fly Wings Hints at Evolution’s Limits first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/mathematical-analysis-of-fruit-fly-wings-hints-at-evolutions-limits-20210920/",
-          "publishedOn": "2021-09-20T13:21:47.000Z",
-          "wordCount": null,
-          "title": "Mathematical Analysis of Fruit Fly Wings Hints at Evolution’s Limits",
-          "itunes": {}
+          "id": "https://www.quantamagazine.org/?p=112802",
+          "author": "Yasemin Saplakoglu",
+          "description": "While watching a fearful memory take shape in the brain of a living fish, neuroscientists see an unexpected level of rewiring occur in the synaptic connections.            \nThe post Scientists Watch a Memory Form in a Living Brain first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/scientists-watch-a-memory-form-in-a-living-brain-20220303/",
+          "publishedOn": "2022-03-03T15:05:40.000Z",
+          "wordCount": 1552,
+          "title": "Scientists Watch a Memory Form in a Living Brain",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/ZebrafishBrain_1200_Social_REVISED.jpg"
         }
       ]
     },
     {
-      "title": "👋 Labnotes (by Assaf Arkin)",
+      "title": "Labnotes (by Assaf Arkin)",
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
-          "id": "61620b4ee4956d432e8f76c9",
+          "id": "621c0e2fd2f1e329f893318b",
           "author": "Assaf Arkin",
-          "description": "This week we're the spooky arcane oldhat sysadmin, playing checkboxes of DOOM, pinning down the location independent, and decoding the HTML.",
-          "link": "https://labnotes.org/weekend-reading-decoding-the-html/",
-          "publishedOn": "2021-10-16T19:28:19.000Z",
-          "wordCount": 1038,
-          "title": "Weekend Reading — 🤦‍♂️ Decoding the HTML"
+          "description": "via 𝔻𝕖𝕖𝕡 𝕋𝕙𝕠𝕥\n\nTech Stuff\n\nSocket - Secure your JavaScript supply chain I hope this works as advertised:\nSocket also uses static analysis to detect usage of privileged APIs such as shell, filesystem, eval(), and environment variables.\nBeyond capability detection, we also detect telltale",
+          "link": "https://labnotes.org/weekend-reading-panic-carefully/",
+          "publishedOn": "2022-03-07T01:27:09.000Z",
+          "wordCount": 627,
+          "title": "Weekend Reading — Panic carefully",
+          "imageUrl": "https://labnotes.org/content/images/2022/03/image-4-1.jpeg"
         },
         {
-          "id": "6158a6febcaf577e11e184cc",
+          "id": "621158d4a5e8935e7f26fe7d",
           "author": "Assaf Arkin",
-          "description": "This week we triple our displays, struggle with CSS math, blame the DNS, commit to ending finsta, and brave all four.",
-          "link": "https://labnotes.org/weekend-reading-could-be-fun-to-fix/",
-          "publishedOn": "2021-10-09T21:35:02.000Z",
-          "wordCount": 958,
-          "title": "Weekend Reading — 👋 Could be fun to fix"
+          "description": "Nerdy two panel london underground name jokes\n\nTech Stuff\n\nCodeCaptcha.io   What if Captcha, but also a job interview and you have to solve a code challenge?\n\n\nLucas Ou-Yang Fascinating look at the cultural difference. For me what stands is the way in which the salary differences (China vs US)",
+          "link": "https://labnotes.org/weekend-reading-stay-strong-ukraine/",
+          "publishedOn": "2022-02-27T23:48:52.000Z",
+          "wordCount": 826,
+          "title": "Weekend Reading — 🇺🇦 Stay Strong Ukraine",
+          "imageUrl": "https://labnotes.org/content/images/2022/02/image-49-1.jpeg"
         },
         {
-          "id": "614f7ad08900685c40daff17",
+          "id": "620af96cd1a79a2953e1299a",
           "author": "Assaf Arkin",
-          "description": "This week in accidental renaissance, we budget our bandwidth, park our car with 500 lines of code, and treat executives like elderly relatives.",
-          "link": "https://labnotes.org/weekend-reading-modern-accidental-renaissance/",
-          "publishedOn": "2021-10-02T18:36:58.000Z",
-          "wordCount": 1234,
-          "title": "Weekend Reading — 🖼️ Modern accidental renaissance"
+          "description": "User Experience\n\nMike Rundle\nMy buddy is an electrician and told me a few months ago that he always leaves the screws in a vertical position on jobs as a sign of craftsmanship. Been thinking ever since what my “vertical screws” equivalent is for product design.\n\n\nKenneth Auchenberg",
+          "link": "https://labnotes.org/collected-links/",
+          "publishedOn": "2022-02-23T18:18:46.000Z",
+          "wordCount": 1001,
+          "title": "Collected Links Feb 23, 2022",
+          "imageUrl": "https://labnotes.org/content/images/2022/02/image-32-1.jpeg"
         },
         {
-          "id": "61463249a595c34c7a49d262",
+          "id": "6209640dd1a79a2953e12842",
           "author": "Assaf Arkin",
-          "description": "This week we drop folders, party with sync XHR, add more developers to a late project, get a puppy, and feel the pun.",
-          "link": "https://labnotes.org/weekend-reading-laundry-baskets/",
-          "publishedOn": "2021-09-25T19:37:32.000Z",
-          "wordCount": 1415,
-          "title": "Weekend Reading — 🧺 Laundry baskets"
+          "description": "This week we got a new email client, miniature Cray-1, non-advise on exercising stock options, and vampire killing kit.",
+          "link": "https://labnotes.org/weekend-reading-not-another-channel/",
+          "publishedOn": "2022-02-19T20:53:19.000Z",
+          "wordCount": 1122,
+          "title": "Weekend Reading — Not another channel!",
+          "imageUrl": "https://labnotes.org/content/images/2022/02/image-45-1.jpeg"
+        },
+        {
+          "id": "620ebc0da5e8935e7f26f253",
+          "author": "Assaf Arkin",
+          "description": "How to write and deploy a scheduled job in 3 easy steps. You write the code, QueueRun will deploy and manage it for you.",
+          "link": "https://labnotes.org/queue-run-scheduled-jobs/",
+          "publishedOn": "2022-02-17T22:21:11.000Z",
+          "wordCount": 541,
+          "title": "Running Scheduled Jobs, as easy as 1,2,3",
+          "imageUrl": "https://labnotes.org/content/images/2019/12/powerpuff.png"
+        },
+        {
+          "id": "620720c9d1a79a2953e11dac",
+          "author": "Assaf Arkin",
+          "description": "Identifying Chocolates With Computer Vision\n\nTech\n\nGitHub - ObuchiYuki/DevToysMac: DevToys For mac\nDevToys For mac. Contribute to ObuchiYuki/DevToysMac development by creating an account on GitHub.\nGitHubObuchiYuki\n\n\n\nHere's the thing about software development: no matter how much time and thought and planning you put into it,",
+          "link": "https://labnotes.org/collected-links-feb-14-2022/",
+          "publishedOn": "2022-02-15T00:48:34.000Z",
+          "wordCount": 703,
+          "title": "Collected Links Feb 14, 2021",
+          "imageUrl": "https://labnotes.org/content/images/2022/02/image-33-1.jpeg"
+        },
+        {
+          "id": "620080a13f46da6e0d6de46e",
+          "author": "Assaf Arkin",
+          "description": "This week we're going to a shorter format that's more email-friendly for all my newsletter subscribers.",
+          "link": "https://labnotes.org/weekend-reading-smaller-portion-same-great-taste/",
+          "publishedOn": "2022-02-12T23:42:22.000Z",
+          "wordCount": 761,
+          "title": "Weekend Reading — Smaller portion, same great taste",
+          "imageUrl": "https://labnotes.org/content/images/2022/02/image-21-1.jpeg"
         }
       ]
     },
@@ -1104,151 +324,124 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-41/",
+          "id": "https://www.stefanjudis.com/today-i-learned/vs-code-supports-jsdoc-powered-type-checking/",
           "author": null,
-          "description": "Happy Sunday, party people! 👋\n\nThis week I spent some time reading about Vite. Vite is one of these new build tools that bets on EcmaScript modules and uses go-based Esbuild under the hood. It looks super fancy, and I'll give it a try in my next play-around project.\nOther than that, I tweaked my Chrome browser not to show me all these \"valuable\" URL bar suggestions. It's so much better now!\nThis week's Web Weekly includes:\nNew CSS features\nA new spec that helps with ARIA\nThe leaky autofill browser feature\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nSomething that made me smile\n\n\n\n\n          \n            \nChristmas is approaching (I don't think it is, but the supermarket Christmas season started 🤦‍♂️). So I thought it might be a good time to get out the good…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-41/",
-          "publishedOn": "2021-10-16T22:00:00.000Z",
-          "wordCount": 957,
-          "title": "Web Weekly #41 (#blogPost)"
+          "description": "Tech Twitter discussed a new ECMAScript proposal for a type syntax today.\nFollowing the proposal, the following JavaScript lines would be valid.\nfunction add(a: number, b: number) {\n    return a + b;\n}\n\nBrowsers would treat type annotations as inline comments and not throw runtime errors if you violate them. But why bother if things are ignored anyway?\nLet's think this through: if inline type annotations would be valid JavaScript (even though browsers don't parse or run them), you could save a code compilation step.\nTypeScript is not valid JavaScript so that the provided TypeScript tooling constantly transforms your code to make it runnable. File watchers compile your Typescript code to JavaScript in development on every file save. And to ship to production, your entire codebase needs to b…",
+          "link": "https://www.stefanjudis.com/today-i-learned/vs-code-supports-jsdoc-powered-type-checking/",
+          "publishedOn": "2022-03-10T23:00:00.000Z",
+          "wordCount": 674,
+          "title": "VS Code supports JSDoc-powered type checking (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:VS%20Code%20supports%20JSDoc-powered%20type%20checking/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         },
         {
-          "id": "https://www.stefanjudis.com/today-i-learned/cross-origin-module-scripts-require-cors-response-headers/",
+          "id": "https://www.stefanjudis.com/blog/a-look-at-the-dialog-elements-super-powers/",
           "author": null,
-          "description": "While reading Jake Archibald's article How to win at CORS, I learned that classic and module scripts treat CORS (Cross-Origin Resource Sharing) differently.\n<!-- Not a CORS request -->\n<script src=\"https://example.com/script.js\"></script>\n<!-- CORS request -->\n<script type=\"module\" src=\"https://example.com/script.js\"></script>\n\nIf you're requesting a JavaScript file in a module context the response needs to define an Access-Control-Allow-Origin header or it will be blocked by the browser.\n\n          \n            \nClassic scripts don't require it to not break the web and guarantee backward compatibility. Very interesting! If you want to learn more, read the article. It's a good one.\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/cross-origin-module-scripts-require-cors-response-headers/",
-          "publishedOn": "2021-10-16T22:00:00.000Z",
-          "wordCount": 303,
-          "title": "Cross-origin module scripts require CORS response headers (#tilPost)"
+          "description": "A long time ago in 2014, the dialog element landed in Chromium 37. The idea behind the HTML element was to make it easier to build modals, dialogs and popups.\nThe specification defines the element as follows:\nThe dialog element represents a part of an application that a user interacts with to perform a task, for example a dialog box, inspector, or window.\nWe have 2022 now and almost made it to be able to use the dialog element! 🎉 In March, starting with Safari 15.4 (Safari release notes) and Firefox 98 (Firefox release notes), both missing browsers ship the element that's in Chromium for ages.\nThis progress brings us to a cross-browser-supported dialog element in all evergreen browsers soon!\n\n        \nMDN Compat Data (source)\nBrowser support info for Dialog element \n            \n         …",
+          "link": "https://www.stefanjudis.com/blog/a-look-at-the-dialog-elements-super-powers/",
+          "publishedOn": "2022-03-07T23:00:00.000Z",
+          "wordCount": 1239,
+          "title": "A look at the dialog element's super powers (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20look%20at%20the%20dialog%20element's%20super%20powers/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         },
         {
-          "id": "https://www.stefanjudis.com/today-i-learned/how-to-control-the-used-gmail-account-when-using-slides-new-docs-new-etc/",
+          "id": "https://www.stefanjudis.com/notes/readable-javascript-conditions/",
           "author": null,
-          "description": "Thanks to the new top-level domains, many companies provide short URLs to use their product quickly. CodePen has pen.new, CodeSandbox has react.new, GitHub has repo.new, and they're many more out there. These URLs make the web feel very app-like, I like that!\nAnd of course, Google is providing new URLs with doc.new or docs.new and slide.new and slides.new, too. The problem with these URLs is that many people use Docs and Slides with multiple Gmail accounts.\nWhich account should be used when using docs.new? And what happens if Google constantly chooses the wrong account to create a new document.\nToday I learned, that Google's new URLs support a URL parameter to specify the used Gmail account:\ndocs.new/1 – primary account\ndocs.new/2 - secondary account\nand so on...\nThat's pretty cool!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/how-to-control-the-used-gmail-account-when-using-slides-new-docs-new-etc/",
-          "publishedOn": "2021-10-15T22:00:00.000Z",
-          "wordCount": 352,
-          "title": "How to control the used Gmail account when using slides.new, docs.new, etc. (#tilPost)"
+          "description": "Chris Ferdinandi, the vanilla JavaScript guy, published an excellent coding tip to make your JavaScript conditions more readable.\nSuppose you have the following condition:\nif (fruit === 'apple' || fruit === 'strawberry') {\n  // ...\n}\n\nMy mind needs a moment to process this if. It's just not easy to read. And additionally, the condition becomes even harder to read if there are more fruits and you have to chain all these logical ORs.\nAnd now look at what Chris advises to use instead:\nif (['apple', 'strawberry'].includes(fruit)) {\n  // ...\n}\n\n// or even place things in a variable \n// to make it even clearer\nif (deliciousFruits.includes(fruit)) {\n  // ...\n}\n\nIs that readable code, or what? 😲 The condition even includes the word includes to make it easier to understand! 👏 It's a tiny change that improves readability tremendously.\nI'll adopt this pattern from now on! Thanks, Chris.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/notes/readable-javascript-conditions/",
+          "publishedOn": "2022-02-22T23:00:00.000Z",
+          "wordCount": 379,
+          "title": "Readable JavaScript conditions (#note)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Readable%20JavaScript%20conditions/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         },
         {
-          "id": "https://www.stefanjudis.com/blog/conditional-border-radius-and-three-future-css-features/",
+          "id": "https://www.stefanjudis.com/blog/web-weekly-58/",
           "author": null,
-          "description": "Ahmad Shadeed's post Conditional Border Radius In CSS is a wonderful example of CSS trickery that explains a fairly cryptic CSS snippet found on facebook.com.\n.conditional-border-radius {\n   border-radius: max(0px, min(8px, calc((100vw - 4px - 100%) * 9999)));\n}\n\nThis snippet is quite hefty CSS, and if you want to learn how it works first, head over to read Ahmad's post. It's a good hack, but it is also unreadable. Even if you understand this border-radius declaration today, you have to write a lengthy comment so that your future self won't travel back in time to have a word with you.\nIf you describe the CSS' functionality in JavaScript, that's how it would look like.\nif (cardWidth >= viewportWidth) {\n  radius = 0;\n} else {\n  radius = 8px;\n}\n\nThat's reasonable logic! It's readable and easy…",
-          "link": "https://www.stefanjudis.com/blog/conditional-border-radius-and-three-future-css-features/",
-          "publishedOn": "2021-10-13T22:00:00.000Z",
-          "wordCount": 846,
-          "title": "Conditional border-radius and three future CSS features (#blogPost)"
+          "description": "Happy, stormy Monday, party people!\n\nFor the folks living outside of Europe: we had some intense storms over here, and everybody was thrilled by airplanes still landing in London Heathrow despite it. It was pretty scary because I didn't experience such wind very often in my life, and especially in Berlin, people tend to have loose plant pots on their balconies. I stayed inside as much as possible, and I hope you did the same!\nThis time Web Weekly includes:\ncolorful native checkboxes\nthe new global reportError JS method\n3rd party assets and the browser cache\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nOn a personal note\n\n\n\n\n\n\n          \n            \nI continued playing with my site and added favicons to every link going elsewhere. ☝️ The favicons are fetched a…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-58/",
+          "publishedOn": "2022-02-20T23:00:00.000Z",
+          "wordCount": 1404,
+          "title": "Web Weekly #58 (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252358/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
         },
         {
-          "id": "https://www.stefanjudis.com/today-i-learned/how-to-disable-chromes-url-autosuggestions/",
+          "id": "https://www.stefanjudis.com/today-i-learned/the-array-prototype-reduces-initial-value-is-optional/",
           "author": null,
-          "description": "Firefox is my primary browser, but I switch to Chrome at work because we're relying heavily on Google Slides and Docs. That's why I spend a lot of time looking for files, and I leverage Chrome's URL bar to find them with their filename.\n\n\n\n\n          \n            \nChrome's URL bar suggestions include previously opened URLs and files (great 👍), but also search query suggestions and links to \"related and useful\" sites (not so great 👎). These smart suggestions are just in my way, and I tried to figure out how to disable them after an unsuccessful Google search.\nThanks to Leif, I now know that the \"turn off autosuggestions\" setting is buried in the sync section (chrome://settings/syncSetup).\n\n\n          \n            \nAnd now look at that. 👇 Much better! 🎉\n\n\n\n\n          \n            \n              \n              \n            \n          \n        \n      \n    \n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/how-to-disable-chromes-url-autosuggestions/",
-          "publishedOn": "2021-10-13T22:00:00.000Z",
-          "wordCount": 346,
-          "title": "How to disable Chrome's URL bar autosuggestions (#tilPost)"
+          "description": "reduce() is one of these underrated Array methods that can be tremendously useful to accumulate array items. Define an initial value, iterate over all array items and define a callback function to form a combined result.\nThe beauty: each callback's return value is provided to the next entry callback so that you can sum numbers or regroup the array entries inside of an object.\nreduce((previousValue, currentValue) => {\n  /* ... */\n});\nreduce((previousValue, currentValue, currentIndex) => {\n  /* ... */\n});\nreduce((previousValue, currentValue, currentIndex, array) => {\n  /* ... */\n});\nreduce((previousValue, currentValue, currentIndex, array) => {\n  /* ... */\n}, initialValue);\n\nAnd after all these years, looking at these recude callback signatures, I discovered that the initial value is optional. 😲\nLet's look at an example of summing numbers.\n// sum all numbers in the array\n// start with `0`\n[1, 2, 3, 4, 5].reduce((previousValue, currentValue) => {\n  console.log(previousValue);\n  // the return value will be the next `previousValue`\n  return previousValue + currentValue;\n}, 0); // 15\n\n// Output in the console:\n// 0 \n// 1 \n// 3\n// 6\n// 10 \n// 15\n\nYou might ask if the first iteration starting with 0 is necessary. And you're correct – it's redundant and is a case for not providing an initial value at all!\n// sum all numbers in the array\n// start with `1`\n[1, 2, 3, 4, 5].reduce((previousValue, currentValue) => {\n  console.log(previousValue);\n  // the return value will be the next `previousValue`\n  return previousValue + currentValue;\n}); // 15\n\n// Output in the console:\n// 1 \n// 3\n// 6\n// 10 \n// 15\n\nWithout a second argument, the reduce loop starts with the first array entry instead of an initial value – ergo, you'll save one iteration! 🎉\nThis is a nifty little find! Big thanks to Ramón, who tweeted this tip!\nIf you want to learn more about the array method, head over to the reduce entry on MDN.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/the-array-prototype-reduces-initial-value-is-optional/",
+          "publishedOn": "2022-02-18T23:00:00.000Z",
+          "wordCount": 553,
+          "title": "Array.prototype.reduce's initial value is optional (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Array.prototype.reduce's%20initial%20value%20is%20optional/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         },
         {
-          "id": "https://www.stefanjudis.com/notes/aria-in-html-authoring-rules/",
+          "id": "https://www.stefanjudis.com/blog/web-weekly-57/",
           "author": null,
-          "description": "Steve Faulkner shared a link to a new spec: \"ARIA in HTML\". The specification defines what landmarks and ARIA attributes are valid, and maybe more importantly, it describes invalid scenarios, too!\n\n\n\n          \n            \nThis spec is one for your bookmarks. I promise!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/notes/aria-in-html-authoring-rules/",
-          "publishedOn": "2021-10-12T22:00:00.000Z",
-          "wordCount": 259,
-          "title": "ARIA in HTML authoring rules (#note)"
+          "description": "Happy Monday Tuesday, party people!\n\nMajor announcement: we've seen the sun here in Berlin the last few days. It makes such a difference in my mood. Life's just better when the sun is shining. Wherever you are, I hope it's sunny, too!\nThis time Web Weekly includes:\nthe dialog element\ncreative ways to speed up your builds\nnew CSS color features\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nOn a personal note\n\n\n\n\n\n          \n            \nI spent some time rolling out a minor redesign of my website this weekend. It has more gradients and new buttons now. Additionally, it throws more confetti, and I felt hilarious shipping an easter egg in the browser console (Chromium only).\nIt's the tiny things that spark joy!\nBesides that, I'm packing boxes and getting ready to …",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-57/",
+          "publishedOn": "2022-02-14T23:00:00.000Z",
+          "wordCount": 1303,
+          "title": "Web Weekly #57 (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252357/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
         },
         {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-40/",
+          "id": "https://www.stefanjudis.com/today-i-learned/google-displays-table-of-contents-and-anchor-links/",
           "author": null,
-          "description": "Happy Sunday, party people! 👋\n\nLast week was super busy because of Jamstack conf. We were sponsoring the event, and I had the honor to give a workshop about Next.js and Contentful. It was a lot of work, but now that we have the materials, we might publish a course on the topic next year! 🎉\nI'm looking forward to a chilled week and hope you're all well!\nThis week's Web Weekly includes:\nAll the web development areas one could know\nThe importance of real user performance metrics\nNew progressive web app features\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nQuick links\n\nThe HTML attribute enterkeyhint is now supported in Safari, Chromium and(!) Firefox.\nEleventy reached version 1.0.\nMac trivia: menu options with ... trigger an additional dialog box.\n\"What should …",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-40/",
-          "publishedOn": "2021-10-09T22:00:00.000Z",
-          "wordCount": 987,
-          "title": "Web Weekly #40 (#blogPost)"
+          "description": "For content creators: table of contents sections and anchor links can improve and extend your site's Google Search result entries.\n\n\n\n\n          \n            \nI didn't know that Google released this functionality in June 2020, but I'll surely add some TOC sections to my blog soon.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/google-displays-table-of-contents-and-anchor-links/",
+          "publishedOn": "2022-02-12T23:00:00.000Z",
+          "wordCount": 261,
+          "title": "Google displays table of contents and anchor links (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Google%20displays%20table%20of%20contents%20and%20anchor%20links/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        }
+      ]
+    },
+    {
+      "title": "Golang Weekly",
+      "feedUrl": "https://golangweekly.com/rss/",
+      "siteUrl": "https://golangweekly.com/",
+      "articles": [
+        {
+          "id": "https://golangweekly.com/issues/403",
+          "author": null,
+          "description": "#​403 — March 11, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nGoPlay: A Better Go Playground? — Powered by React and the Monaco editor control behind VS Code, the “better” here includes a dark theme, autocompletion, a ton of loadable snippets, file loading/saving, and WASM support. There’s also a Docker image so you can have a private playground of your own and tell those kids to get off your lawn.\nDenis Sedchenko \n\n\n  \n  \nIsolating Problematic Cgo Code — This is a wonderfully explained tutorial on using parent-child processes to create, pass, and monitor file descriptors for memory- and CPU-intensive work.\nJon Williams \n\n\n  \n  \nUnderstand a Complex Codebase in Minutes, Not Weeks — Decrease time to first commit with self-serve onboarding, codebase e…",
+          "link": "https://golangweekly.com/issues/403",
+          "publishedOn": "2022-03-11T00:00:00.000Z",
+          "wordCount": 889,
+          "title": "An alternative Go playground",
+          "imageUrl": null
         },
         {
-          "id": "https://www.stefanjudis.com/notes/how-to-define-progressive-web-app-pwa-screenshots-and-shortcuts/",
+          "id": "https://golangweekly.com/issues/402",
           "author": null,
-          "description": "I'm not following what's happening in the progressive web app space because I don't think every website needs to be an offline-ready PWA. But today, I learned about two valuable new PWA features while skipping through Önder Ceylan's PWA summit slides \"Make your PWAs Look and Launch Beautifully\".\nProgressive web apps are configured via a web app manifest that you define in an HTML link element.\n<link rel=\"manifest\" href=\"manifest.json\">\n\nThis manifest JSON file holds information such as the app name, its icons and, as I learned today, screenshots and shortcuts. 😲\nPWA installation screenshots\n\nIt's possible to define screenshots that show up when people install your progressive web app. Define a screenshots property in the manifest file, and the installation dialog will look more polished. …",
-          "link": "https://www.stefanjudis.com/notes/how-to-define-progressive-web-app-pwa-screenshots-and-shortcuts/",
-          "publishedOn": "2021-10-08T22:00:00.000Z",
-          "wordCount": 491,
-          "title": "How to define progressive web app (PWA) screenshots and shortcuts (#note)"
+          "description": "#​402 — March 4, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n\n\n\n  \n  \n⭐️  Go: A Documentary (Of Sorts) — What happens if you bring together over 700 links to papers, talks, issues, and other digital artefacts covering Go’s history, the background to its feature, creators, and more? You get this treasure trove of a resource. A feat of curation.\nChangkun Ou \n\n\n  \n  \nSpeeding Up Go's Builtin JSON Encoder — A lot of modern programs use JSON as a data interchange format with the outside world, so being able to read and write it quickly is a must. How fantastic, then, that folks like Phil are putting in work like this. go-json is the end result.\nPhil Eaton \n\n\n  \n  \nButterCMS Melts into Your Go App $ ButterCMS.getposts() — ButterCMS is your content backend. Enab…",
+          "link": "https://golangweekly.com/issues/402",
+          "publishedOn": "2022-03-04T00:00:00.000Z",
+          "wordCount": 887,
+          "title": "A treasure trove of Go history",
+          "imageUrl": null
         },
         {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-39/",
+          "id": "https://golangweekly.com/issues/401",
           "author": null,
-          "description": "Goooooood morning! 👋\n\nWhat's up, party people? Last week I spent some time implementing a Firefox-only feature on my website (it's a minimap). And I'm super into it! We need more fancy browser UI functionality.\nApart from that, I have a busy week ahead because I'll be running a Jamstack conf workshop about Next.js and Contentful. Come and say Hi!\nThis week's Web Weekly includes:\nInnovative browser UI patterns.\nA new proposal for CSS conditionals.\nColorful scrollbars.\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nQuick links\n\nContainer queries will also have new CSS units.\nChrome is approaching version 100, and people are already testing if that will break things (it does).\nI learned that the checkmark (and other symbols) can have different meanings in this wor…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-39/",
-          "publishedOn": "2021-10-03T22:00:00.000Z",
-          "wordCount": 952,
-          "title": "Web Weekly #39 (#blogPost)"
+          "description": "#​401 — February 25, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nGo Weekly\n\n\n\n\n  \n\n\n\n\n\n\n\n\n  \n  \nflamegraph.com: A Site to Share Interactive Flamegraphs — If you’re doing some profiling of your apps with pprof and want to share the resulting flamegraphs, this slimmed down version of Pyroscope is for you. It also includes a feature to diff two flamegraphs.\nPyroscope \n\n\n  \n  \nThe Internals of Go's New Fuzzing System — While the new fuzz testing feature in 1.18 has gotten a lot of press, no one has dug in and described how it works. Jay, who was part of the team that built it, does just that.\nJay Conrod \n\n\n  \n  \nButterCMS Melts into Your Go App $ ButterCMS.getposts() — ButterCMS is your content backend. Enable your marketing team to update website + app content without needing you. Try the #1 ra…",
+          "link": "https://golangweekly.com/issues/401",
+          "publishedOn": "2022-02-25T00:00:00.000Z",
+          "wordCount": 748,
+          "title": "The internals of the Go fuzz testing system",
+          "imageUrl": null
         },
         {
-          "id": "https://www.stefanjudis.com/blog/three-exciting-chromium-devtools-experiments/",
+          "id": "https://golangweekly.com/issues/400",
           "author": null,
-          "description": "I just had a look at the current Chromium DevTools experiments (Chrome and Edge) and enabled three handy new features. Let's have a look!\nHow to enable Chromium experiments\n\nFirst, how do you enable Chromium experiments?\nYou can either hit the little gear icons in the top-right corner and navigate to \"Experiments\". As a heavy keyboard user, I preview the shortcut way: open the command palette with CMD + Shift + p and go directly to the experiments menu.\n\n\n\n\n\n          \n            \nLook at all these possibly upcoming Chromium DevTools features and play around with them. That's why they're there!\nCSS Overview\n\n\n\n\n\n\n          \n            \nThere are many CSS analysis tools out there, but having them right in your developer tools is super handy. The CSS overview lists defined colors and media queries, used fonts and useless CSS declarations. It's time to clean up your CSS!\nWarnings about low contrast text\n\n\n\n\n          \n            \nLow contrast text is one of the most common accessibility issues. Tools like Lighthouse check for these when you scan your site, but wouldn't it be great if the DevTools would tell you about issues right away? I (and the Chromium DevTools folks) think so, too, and that's why you can enable \"Contrast issue reporting\" to see warnings in your console. 💯\nA new font editor tool\n\n\n\n\n\n          \n            \nI always found it hard to define and style custom fonts. The new font editor helps with that and allows to change font settings with a visual UI!\nI love all this new DevTools functionality and can't wait to see what's next!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/blog/three-exciting-chromium-devtools-experiments/",
-          "publishedOn": "2021-10-01T22:00:00.000Z",
-          "wordCount": 454,
-          "title": "Three exciting Chromium DevTools experiments (#blogPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/three-exciting-chrome-devtools-experiments/",
-          "author": null,
-          "description": "I just had a look at the current Chrome DevTools experiments and enabled three handy new features. Let's have a look!\nHow to enable Chrome experiments\n\nFirst, how do you enable Chrome experiments?\nYou can either hit the little gear icons in the top-right corner and navigate to \"Experiments\". As a heavy keyboard user, I preview the shortcut way: open the command palette with CMD + Shift + p and go directly to the experiments menu.\n\n\n\n\n\n          \n            \nLook at all these possibly upcoming Chrome DevTools features and play around with them. That's why they're there!\nCSS Overview\n\n\n\n\n\n\n          \n            \nThere are many CSS analysis tools out there, but having them right in your developer tools is super handy. The CSS overview lists defined colors and media queries, used fonts and useless CSS declarations. It's time to clean up your CSS!\nWarnings about low contrast text\n\n\n\n\n          \n            \nLow contrast text is one of the most common accessibility issues. Tools like Lighthouse check for these when you scan your site, but wouldn't it be great if the DevTools would tell you about issues right away? I (and the Chrome DevTools folks) think so, too, and that's why you can enable \"Contrast issue reporting\" to see warnings in your console. 💯\nA new font editor tool\n\n\n\n\n\n          \n            \nI always found it hard to define and style custom fonts. The new font editor helps with that and allows to change font settings with a visual UI!\nI love all this new DevTools functionality and can't wait to see what's next!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/blog/three-exciting-chrome-devtools-experiments/",
-          "publishedOn": "2021-10-01T22:00:00.000Z",
-          "wordCount": 451,
-          "title": "Three exciting Chrome DevTools experiments (#blogPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/codeswing-a-vs-code-extension-for-quick-prototyping/",
-          "author": null,
-          "description": "I was a huge CodePen fan in the past, but lately, I prefer my local development environment for creating quick demos and tryouts. I'm so used to my VS Code setup that I don't want to miss it.\nTo not fill my computer with random \"throw away files\", I usually create projects in the /tmp directory, test something out and forget about the files because they'll be deleted automatically.\nI rarely need to clean up my computer; if you want to learn how to avoid an overflowing Downloads directory or a desktop full of screenshots on macOS, check this blog post.\nToday I discovered the CodeSwing VS Code extension. It's like a local CodePen and precisely what I needed. It quickly spins up a demo environment, includes a snappy browser preview and automatically cleans up the files. It's beautiful!\n\n\n\n\n          \n            \nFind CodeSwing on the VS Code marketplace or, if you want to learn more, read Bramus' blog post about it.\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/notes/codeswing-a-vs-code-extension-for-quick-prototyping/",
-          "publishedOn": "2021-09-30T22:00:00.000Z",
-          "wordCount": 374,
-          "title": "CodeSwing – a VS Code extension for quick prototyping (#note)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/how-to-color-the-browser-scrollbar-across-browsers/",
-          "author": null,
-          "description": "As a Firefox user, I rarely see colorful scrollbars, which led me to conclude, that it's still impossible to style the scrollbar across all browsers. I was wrong; today I learned that you can color the scrollbar in desktop Chrome, Edge, Safari and (!) Firefox.\nStyleable scrollbar pseudo-elements in Safari, Chrome and Edge\n\nWebKit and Chromium browsers allow scrollbar styling with a hand full of pseudo-elements:\n::-webkit-scrollbar\n::-webkit-scrollbar-button\n::-webkit-scrollbar-thumb\n::-webkit-scrollbar-track\n::-webkit-scrollbar-track-piece\n::-webkit-scrollbar-corner\n::-webkit-resizer\nAdd shadows, make them bigger, do your thing! This post only covers scrollbar coloring, though. But if you want to learn more about the WebKit/Chromium implementation, find more info in the webkit-scrollbar MD…",
-          "link": "https://www.stefanjudis.com/snippets/how-to-color-the-browser-scrollbar-across-browsers/",
-          "publishedOn": "2021-09-30T22:00:00.000Z",
-          "wordCount": 609,
-          "title": "How to color the browser scrollbar across browsers (#snippet)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-38/",
-          "author": null,
-          "description": "Goooooood day! 👋\n\nHello everyone! How has your week been? I had some time to work on my website, ran a new 10km best time (5:15 min/km), and read many nerdy articles. It was a good week, and I hope the same applies to you!\nThis week's Web Weekly includes:\nBrowser and VS Code extensions.\nA new proposal for native browser prerendering.\nWhy you shouldn't argue with strangers on the internet.\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nSomething that made me smile\n\nI loved this Tweet (and project) from 2018 and will adopt the term VPG from now on! 😆\n\n\n\n          \n            \nQuick links\n\nThere are accessibility guidelines for authoring tools such as social media.\nGitHub now allows styling your organization's homepage with a README.\nGitHub's source code tab siz…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-38/",
-          "publishedOn": "2021-09-26T22:00:00.000Z",
-          "wordCount": 1103,
-          "title": "Web Weekly #38 (#blogPost)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/a-ui-for-managing-your-node-js-dependencies-in-vs-code/",
-          "author": null,
-          "description": "I always enjoy installing Node.js dependencies when I use CodeSandbox. It provides a quick and easy-to-use UI; I can update dependencies with a click, and it feels great to not fiddle around with the package.json file.\nToday I found the Node Dependencies VS Code extensions, and it's providing this exact functionality. Kudos to Kasper Mikiewicz for developing it!\n\n\n\n\n          \n            \n              \n              \n            \n          \n        \n      \n    \n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/notes/a-ui-for-managing-your-node-js-dependencies-in-vs-code/",
-          "publishedOn": "2021-09-25T22:00:00.000Z",
-          "wordCount": 276,
-          "title": "A UI for managing your Node.js dependencies in VS Code (#note)"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/how-to-use-a-serverless-function-as-image-caching-proxy/",
-          "author": null,
-          "description": "Today I fixed an annoyance in one of my side projects Tiny Helpers. Tiny Helpers is a resource collection of free online developer tools. The site includes tool screenshots and, if available, the maintainer's GitHub profile image.\nAnd these profile images were the problem; when you navigated the site, you requested many GitHub profile images, and, eventually they stopped showing up.\n\n\n\n          \n            \nSo what's going on there? The answer could be found in the developer tools network panel.\n\n\n          \n            \nGitHub limits the profile image requests when you're making too many. I couldn't find the exact rate limits, but one thing is clear, the more projects will be listed on Tiny Helpers, the quicker visitors will hit these limits.\nLuckily, modern hosting can help out with th…",
-          "link": "https://www.stefanjudis.com/snippets/how-to-use-a-serverless-function-as-image-caching-proxy/",
-          "publishedOn": "2021-09-25T22:00:00.000Z",
-          "wordCount": 639,
-          "title": "How to use a serverless function as image/caching proxy (#snippet)"
+          "description": "#​400 — February 18, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nGo Weekly\n\n\n\n\n  \n\n\n\n\n\n  \n  \nGo’s Version Control History — Did you know the first commit in the Go repository is from 1972? Or is it..? Russ starts there and walks us through relevant commits, revision control tool changes, and pranks will be enjoyable to any gopher.\nRuss Cox \n\n\n  \n  \nGo 1.18 Release Candidate 1: The Release Notes — There’s no official blog post but the first release candidate of Go 1.18 is now out (if you want to try it out, follow the instructions in this golang-announce post) so it’s a good time to skim the release notes and prepare for the final release any week now (and hopefully not five minutes after we send this newsletter…)\nGo Team \n\n\n  \n  \nBuild Video for Go That Just Works — Mux is an API-first platf…",
+          "link": "https://golangweekly.com/issues/400",
+          "publishedOn": "2022-02-18T00:00:00.000Z",
+          "wordCount": 802,
+          "title": "Go's first commit was in 1972?",
+          "imageUrl": null
         }
       ]
     }
   ],
-  "cliVersion": "1.11.3"
+  "cliVersion": "1.14.4"
 }
