@@ -324,6 +324,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/new-in-vs-code-surround-code-with-snippets/",
+          "author": null,
+          "description": "VS Code's January release notes included an excellent new editor feature that lets you wrap lines with everyday snippets such as if/else or loops.\nYou might know that I'm always on the hunt for editor workflows that help me save some keystrokes. Check the \"JavaScript booster\" extension if you're looking for VS Code commands to convert let to const, replace strings with template strings or convert arrow functions to anonymous functions. It's so good!\n\n      \n        \n        \n          \n        \n        \n      \n      \nThe new command – \"Surround with snippet\"\n\nThe functionality is quickly explained. Highlight the code lines you want to surround with a snippet, open the command palette and wrap away!\nHere's it in action. 👇\nSave some keystrokes, friends! 👋\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/blog/new-in-vs-code-surround-code-with-snippets/",
+          "publishedOn": "2022-03-12T23:00:00.000Z",
+          "wordCount": 338,
+          "title": "New in VS Code: Surround code with Snippets (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:New%20in%20VS%20Code%3A%20Surround%20code%20with%20Snippets/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/today-i-learned/vs-code-supports-jsdoc-powered-type-checking/",
           "author": null,
           "description": "Tech Twitter discussed a new ECMAScript proposal for a type syntax today.\nFollowing the proposal, the following JavaScript lines would be valid.\nfunction add(a: number, b: number) {\n    return a + b;\n}\n\nBrowsers would treat type annotations as inline comments and not throw runtime errors if you violate them. But why bother if things are ignored anyway?\nLet's think this through: if inline type annotations would be valid JavaScript (even though browsers don't parse or run them), you could save a code compilation step.\nTypeScript is not valid JavaScript so that the provided TypeScript tooling constantly transforms your code to make it runnable. File watchers compile your Typescript code to JavaScript in development on every file save. And to ship to production, your entire codebase needs to b…",
