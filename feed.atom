@@ -2,10 +2,132 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-14T01:19:50.169Z</updated>
+    <updated>2022-03-15T01:21:41.780Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Plugins in Figma]]></title>
+        <id>622acecd63ded806bb9e8101</id>
+        <link href="https://www.freecodecamp.org/news/plugins-in-figma/"/>
+        <updated>2022-03-14T20:42:03.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to install plugins in Figma. You'll also get to know some really cool Figma plugins that every designer and developer should use.  Plugins help make your design process easier and smoother. From image assets to embedding maps into your designs, plugins are easy]]></summary>
+        <author>
+            <name>Ijelekhai Faith Olohijere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Remove All Docker Images – A Docker Cleanup Guide]]></title>
+        <id>622cecd663ded806bb9e8dfd</id>
+        <link href="https://www.freecodecamp.org/news/how-to-remove-all-docker-images-a-docker-cleanup-guide/"/>
+        <updated>2022-03-14T20:25:16.000Z</updated>
+        <summary type="html"><![CDATA[Containers are everywhere in today’s tech world. The most popular technology for container management is Docker [https://www.docker.com/]. It makes using containers easy and helps you easily get applications up and running.  Unfortunately, this can take a lot of disk space, and you will eventually end up with a full]]></summary>
+        <author>
+            <name>Sebastian Sigl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Perform CRUD Operations using Angular 13]]></title>
+        <id>622c9d4363ded806bb9e8a9f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-angular-13/"/>
+        <updated>2022-03-14T19:49:03.000Z</updated>
+        <summary type="html"><![CDATA[Building a full-stack application can be tough. And the base of building such an application is learning how to perform CRUD operations – Create, Read, Update, and Delete.  It's by using these operations that we manage the data flow between the client application and the server. So, in this]]></summary>
+        <author>
+            <name>Nishant Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Music for Programming – Coding Music Playlists, Radio Stations, Videos, and Lives]]></title>
+        <id>622c7bf563ded806bb9e8a20</id>
+        <link href="https://www.freecodecamp.org/news/music-for-programming-youtube-channels-twitchtv-web-radios-and-more/"/>
+        <updated>2022-03-14T19:16:43.000Z</updated>
+        <summary type="html"><![CDATA[Do you like listening to music while you code? If so, you're in luck. This blog post is all about music for programming.  In this reference guide, I'll be sharing a variety of different playlists, radio stations, and videos that you can listen to while coding. Whether you're a]]></summary>
+        <author>
+            <name>Gaël Thomas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Compiler? Compilers in C Explained for Beginners]]></title>
+        <id>62239491c4d0d306772f4a00</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-compiler-in-c/"/>
+        <updated>2022-03-14T18:39:43.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that it is thanks to compilers that software exists? Exactly – compilers are very important, and some form of a compiler exists in all programming languages. But, what is a compiler? What do they do exactly? This article will teach you:  1. What a compiler is]]></summary>
+        <author>
+            <name>Tiago Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Securely Erase a Disk and File using the Linux shred Command]]></title>
+        <id>622b53f963ded806bb9e8436</id>
+        <link href="https://www.freecodecamp.org/news/securely-erasing-a-disk-and-file-using-linux-command-shred/"/>
+        <updated>2022-03-14T14:55:27.000Z</updated>
+        <summary type="html"><![CDATA[Removing files and formatting disks is a common task for users. And Linux provides a number of utilities to delete files and folders from the command line.  The most common command to delete files and folders is rm and rmdir, respectively. You can read in detail about the rm]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Dictionary in Python – Python Dict Methods]]></title>
+        <id>6221c8d2c4d0d306772f3f43</id>
+        <link href="https://www.freecodecamp.org/news/create-a-dictionary-in-python-python-dict-methods/"/>
+        <updated>2022-03-14T14:19:43.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn the basics of dictionaries in Python. You will learn how to create dictionaries, access the elements inside them, and how to modify them depending on your needs. You will also learn some of the most common built-in methods used on dictionaries. Here is what]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Break and Python Continue – How to Skip to the Next Function]]></title>
+        <id>62134fa821bfb3068cf2bf43</id>
+        <link href="https://www.freecodecamp.org/news/python-break-and-python-continue-how-to-skip-to-the-next-function/"/>
+        <updated>2022-03-14T13:55:01.000Z</updated>
+        <summary type="html"><![CDATA[If you ever need to skip part of the current loop you are in or break out of the loop completely, then you can use the break and continue statements. In this article, I will cover how to use the break and continue statements in your Python code. How to]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiny Galaxies Reveal Secrets of Supermassive Black Holes]]></title>
+        <id>https://www.quantamagazine.org/?p=113186</id>
+        <link href="https://www.quantamagazine.org/tiny-galaxies-reveal-secrets-of-supermassive-black-holes-20220314/"/>
+        <updated>2022-03-14T11:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Dwarf galaxies weren’t supposed to have big black holes. Their surprise discovery has revealed clues about how the universe’s biggest black holes could have formed.            
+The post Tiny Galaxies Reveal Secrets of Supermassive Black Holes first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Charlie Wood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — ☕  Decafurious]]></title>
+        <id>62255fa3ee93676e38db174d</id>
+        <link href="https://labnotes.org/weekend-reading-decafurious/"/>
+        <updated>2022-03-14T03:10:34.000Z</updated>
+        <summary type="html"><![CDATA[This week we add a word to the dictionary, design a 5-pop-up-sandwich, discover the best AirBnB, and learn to do our own laundry.,]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #59 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-59/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-59/"/>
+        <updated>2022-03-13T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Happy Monday, friends!
+
+You may have noticed that I took a break from Web Weekly. I didn't feel like writing it and spent more time watching the news. Wherever you are, take care of yourself, rest and consider helping the people in the Ukraine.
+This time Web Weekly includes:
+resources to help the Ukraine
+type checking of JavaScript files
+the new dialog element
+... and, as always, GitHub repositories, a new Tiny Helper and some music.
+On a personal note
+
+I just couldn't believe it because we're still in the pandemic, but we face a war in Europe. It's horrifying to see cities I've been to a few years ago being bombed and attacked. People leave their lives behind and are fleeing as we speak.
+If you can, please consider offering help or donating. Smashing Mag shared resources on how you can he…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New in VS Code: Surround code with Snippets (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/new-in-vs-code-surround-code-with-snippets/</id>
@@ -707,66 +829,6 @@ Changed: Sources are sorted based on publish time rather than alphabetical order
 Changed: Style adjusted for easier reading
 Fixed: Horizontal overflow on Safari
 Fixed: HTML syntax error in default template]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.13.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0"/>
-        <updated>2022-02-13T05:05:17.000Z</updated>
-        <summary type="html"><![CDATA[New: Thumbnail image display for each article
-New: Improved color, spacing, and typography for easier reading
-New: Click the date to toggle all accordions on that day. Ctrl + Click to toggle all accordions on the entire site.
-Changed: All sections are expanded by default
-Changed: Switched to vitest for easier testing
-Fixed: Long string (e.g. URL) caused horizontal overflow
-Thank you: @naari3, @tianheg]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Smaller portion, same great taste]]></title>
-        <id>620080a13f46da6e0d6de46e</id>
-        <link href="https://labnotes.org/weekend-reading-smaller-portion-same-great-taste/"/>
-        <updated>2022-02-12T23:42:22.000Z</updated>
-        <summary type="html"><![CDATA[This week we're going to a shorter format that's more email-friendly for all my newsletter subscribers.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google displays table of contents and anchor links (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/google-displays-table-of-contents-and-anchor-links/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/google-displays-table-of-contents-and-anchor-links/"/>
-        <updated>2022-02-12T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For content creators: table of contents sections and anchor links can improve and extend your site's Google Search result entries.
-
-
-
-
-          
-            
-I didn't know that Google released this functionality in June 2020, but I'll surely add some TOC sections to my blog soon.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.12.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1"/>
-        <updated>2022-02-12T17:46:42.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Future articles appeared in the feed
-Fxied: Security vulnerability from axios
-Thank you: @naari3]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>
