@@ -12,6 +12,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "62321616cdcd57069ddfa114",
+          "author": "Germán Cocca",
+          "description": "In this article we'll talk about what debugging is, how to debug your code, and how you can get better at it. Table of contents  * How Debugging Started  * Why Should You Learn About Debugging?  * How to Debug Your Code  * How to Get",
+          "link": "https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code/",
+          "publishedOn": "2022-03-16T21:31:29.000Z",
+          "wordCount": 5846,
+          "title": "What is Debugging? How to Debug Your Code for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-mike-198101.jpg"
+        },
+        {
+          "id": "6231fec0cdcd57069ddfa05d",
+          "author": "Kolade Chris",
+          "description": "In programming, a function is a reusable block of code that executes a certain functionality when it is called. Functions are integral parts of every programming language because they help make your code more modular and reusable. In this article, I will show you how to define a function in",
+          "link": "https://www.freecodecamp.org/news/python-functions-define-and-call-a-function/",
+          "publishedOn": "2022-03-16T17:17:43.000Z",
+          "wordCount": 882,
+          "title": "Python Functions – How to Define and Call a Function",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/functions.png"
+        },
+        {
+          "id": "623204d4cdcd57069ddfa080",
+          "author": "Beau Carnes",
+          "description": "Python is one of the most popular programming languages in the word. It is used everywhere from web development, to simple scripts, to machine learning and AI. We just published a Python tutorial on the freeCodeCamp.org YouTube channel that will teach you the basics of Python. Bobby Stearman developed this",
+          "link": "https://www.freecodecamp.org/news/free-python-crash-course/",
+          "publishedOn": "2022-03-16T15:46:45.000Z",
+          "wordCount": 420,
+          "title": "Free Python Crash Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pythonbobby.png"
+        },
+        {
+          "id": "62310fbac3e3d106805db8d1",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Lists are one of the built-in data types in Python. You use them to store multiple elements in one variable.  Lists enable us group similar data together, and we can also perform operations on these grouped elements at the same time. In this article, we will talk about how",
+          "link": "https://www.freecodecamp.org/news/python-get-last-element-in-list-how-to-select-the-last-item/",
+          "publishedOn": "2022-03-15T23:26:34.000Z",
+          "wordCount": 843,
+          "title": "Python Get Last Element in List – How to Select the Last Item",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/list.jpg"
+        },
+        {
           "id": "62245d2ac4d0d306772f4e3a",
           "author": "TAPAS ADHIKARY",
           "description": "React.js is an open-source JavaScript-based user interface library. It is hugely popular for web and mobile app development.  React follows the principle of component-based architecture. A component in React is an isolated and reusable piece of code. The components can be of two types – class components and functional",
@@ -249,6 +289,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=113237",
+          "author": "Charlie Wood",
+          "description": "An experiment conducted on hybrid matter-antimatter atoms has defied researchers’ expectations.             \nThe post An Antimatter Experiment Shows Surprises Near Absolute Zero first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/icy-antimatter-experiment-surprises-physicists-20220316/",
+          "publishedOn": "2022-03-16T16:00:44.000Z",
+          "wordCount": 1540,
+          "title": "An Antimatter Experiment Shows Surprises Near Absolute Zero",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Antiprotonic_helium_1200_Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=113218",
           "author": "Nick Thieme",
           "description": "Traditional algorithms power complicated computational tools like machine learning. A new approach, called algorithms with predictions, uses the power of machine learning to improve algorithms.             \nThe post Machine Learning Reimagines the Building Blocks of Computing first appeared on Quanta Magazine",
@@ -384,16 +434,6 @@
           "wordCount": 541,
           "title": "Running Scheduled Jobs, as easy as 1,2,3",
           "imageUrl": "https://labnotes.org/content/images/2019/12/powerpuff.png"
-        },
-        {
-          "id": "620720c9d1a79a2953e11dac",
-          "author": "Assaf Arkin",
-          "description": "Identifying Chocolates With Computer Vision\n\nTech\n\nGitHub - ObuchiYuki/DevToysMac: DevToys For mac\nDevToys For mac. Contribute to ObuchiYuki/DevToysMac development by creating an account on GitHub.\nGitHubObuchiYuki\n\n\n\nHere's the thing about software development: no matter how much time and thought and planning you put into it,",
-          "link": "https://labnotes.org/collected-links-feb-14-2022/",
-          "publishedOn": "2022-02-15T00:48:34.000Z",
-          "wordCount": 703,
-          "title": "Collected Links Feb 14, 2021",
-          "imageUrl": "https://labnotes.org/content/images/2022/02/image-33-1.jpeg"
         }
       ]
     },
@@ -471,16 +511,6 @@
           "wordCount": 553,
           "title": "Array.prototype.reduce's initial value is optional (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Array.prototype.reduce's%20initial%20value%20is%20optional/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-57/",
-          "author": null,
-          "description": "Happy Monday Tuesday, party people!\n\nMajor announcement: we've seen the sun here in Berlin the last few days. It makes such a difference in my mood. Life's just better when the sun is shining. Wherever you are, I hope it's sunny, too!\nThis time Web Weekly includes:\nthe dialog element\ncreative ways to speed up your builds\nnew CSS color features\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nOn a personal note\n\n\n\n\n\n          \n            \nI spent some time rolling out a minor redesign of my website this weekend. It has more gradients and new buttons now. Additionally, it throws more confetti, and I felt hilarious shipping an easter egg in the browser console (Chromium only).\nIt's the tiny things that spark joy!\nBesides that, I'm packing boxes and getting ready to …",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-57/",
-          "publishedOn": "2022-02-14T23:00:00.000Z",
-          "wordCount": 1303,
-          "title": "Web Weekly #57 (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252357/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
         }
       ]
     },

@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-16T01:22:48.021Z</updated>
+    <updated>2022-03-17T01:20:21.606Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Debugging? How to Debug Your Code for Beginners]]></title>
+        <id>62321616cdcd57069ddfa114</id>
+        <link href="https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code/"/>
+        <updated>2022-03-16T21:31:29.000Z</updated>
+        <summary type="html"><![CDATA[In this article we'll talk about what debugging is, how to debug your code, and how you can get better at it. Table of contents  * How Debugging Started  * Why Should You Learn About Debugging?  * How to Debug Your Code  * How to Get]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Functions – How to Define and Call a Function]]></title>
+        <id>6231fec0cdcd57069ddfa05d</id>
+        <link href="https://www.freecodecamp.org/news/python-functions-define-and-call-a-function/"/>
+        <updated>2022-03-16T17:17:43.000Z</updated>
+        <summary type="html"><![CDATA[In programming, a function is a reusable block of code that executes a certain functionality when it is called. Functions are integral parts of every programming language because they help make your code more modular and reusable. In this article, I will show you how to define a function in]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Antimatter Experiment Shows Surprises Near Absolute Zero]]></title>
+        <id>https://www.quantamagazine.org/?p=113237</id>
+        <link href="https://www.quantamagazine.org/icy-antimatter-experiment-surprises-physicists-20220316/"/>
+        <updated>2022-03-16T16:00:44.000Z</updated>
+        <summary type="html"><![CDATA[An experiment conducted on hybrid matter-antimatter atoms has defied researchers’ expectations.             
+The post An Antimatter Experiment Shows Surprises Near Absolute Zero first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Charlie Wood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Python Crash Course]]></title>
+        <id>623204d4cdcd57069ddfa080</id>
+        <link href="https://www.freecodecamp.org/news/free-python-crash-course/"/>
+        <updated>2022-03-16T15:46:45.000Z</updated>
+        <summary type="html"><![CDATA[Python is one of the most popular programming languages in the word. It is used everywhere from web development, to simple scripts, to machine learning and AI. We just published a Python tutorial on the freeCodeCamp.org YouTube channel that will teach you the basics of Python. Bobby Stearman developed this]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Get Last Element in List – How to Select the Last Item]]></title>
+        <id>62310fbac3e3d106805db8d1</id>
+        <link href="https://www.freecodecamp.org/news/python-get-last-element-in-list-how-to-select-the-last-item/"/>
+        <updated>2022-03-15T23:26:34.000Z</updated>
+        <summary type="html"><![CDATA[Lists are one of the built-in data types in Python. You use them to store multiple elements in one variable.  Lists enable us group similar data together, and we can also perform operations on these grouped elements at the same time. In this article, we will talk about how]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[React Hooks Fundamentals for Beginners]]></title>
         <id>62245d2ac4d0d306772f4e3a</id>
@@ -780,54 +831,6 @@ Build Video for Go That Just Works — Mux is an API-first platf…]]></summary>
         <summary type="html"><![CDATA[How to write and deploy a scheduled job in 3 easy steps. You write the code, QueueRun will deploy and manage it for you.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collected Links Feb 14, 2021]]></title>
-        <id>620720c9d1a79a2953e11dac</id>
-        <link href="https://labnotes.org/collected-links-feb-14-2022/"/>
-        <updated>2022-02-15T00:48:34.000Z</updated>
-        <summary type="html"><![CDATA[Identifying Chocolates With Computer Vision
-
-Tech
-
-GitHub - ObuchiYuki/DevToysMac: DevToys For mac
-DevToys For mac. Contribute to ObuchiYuki/DevToysMac development by creating an account on GitHub.
-GitHubObuchiYuki
-
-
-
-Here's the thing about software development: no matter how much time and thought and planning you put into it,]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #57 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-57/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-57/"/>
-        <updated>2022-02-14T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Happy Monday Tuesday, party people!
-
-Major announcement: we've seen the sun here in Berlin the last few days. It makes such a difference in my mood. Life's just better when the sun is shining. Wherever you are, I hope it's sunny, too!
-This time Web Weekly includes:
-the dialog element
-creative ways to speed up your builds
-new CSS color features
-... and, as always, GitHub repositories, a new Tiny Helper and some music.
-On a personal note
-
-
-
-
-
-          
-            
-I spent some time rolling out a minor redesign of my website this weekend. It has more gradients and new buttons now. Additionally, it throws more confetti, and I felt hilarious shipping an easter egg in the browser console (Chromium only).
-It's the tiny things that spark joy!
-Besides that, I'm packing boxes and getting ready to …]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
