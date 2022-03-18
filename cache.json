@@ -12,6 +12,76 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "62333a16cdcd57069ddfa7f3",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When creating a program, you may need to get numerical input from users and perform various mathematical operations on the value.  Similarly, there are cases where you might want to perform mathematical operations on string values.  In both cases, the values returned are strings so we cannot perform",
+          "link": "https://www.freecodecamp.org/news/python-string-to-int-convert-a-string-example/",
+          "publishedOn": "2022-03-17T23:53:39.000Z",
+          "wordCount": 743,
+          "title": "Python String to Int – Convert a String Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/integer.jpg"
+        },
+        {
+          "id": "62322496cdcd57069ddfa225",
+          "author": "Beau Carnes",
+          "description": "WebGPU is the next-generation graphics API and future web standard for graphics and compute, aiming to provide modern 3D graphics and computation capabilities with the GPU acceleration. We just published a WebGPU course on the freeCodeCmap.org YouTube channel.  Dr. Jack Xu developed this course. Dr. Xu has over 25",
+          "link": "https://www.freecodecamp.org/news/learn-webgpu-a-next-generation-graphics-api-for-the-web/",
+          "publishedOn": "2022-03-17T21:33:19.000Z",
+          "wordCount": 14096,
+          "title": "Learn WebGPU – A next-generation graphics API for the web",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/webgpu.png"
+        },
+        {
+          "id": "62331abccdcd57069ddfa72f",
+          "author": "Zaira Hira",
+          "description": "Searching for files is relatively easy when you are using a GUI. But in certain environments like GUI-less servers, you need to search for files using the command line.  There is a powerful command in Linux that helps you search for files and folders called find. In this article,",
+          "link": "https://www.freecodecamp.org/news/how-to-search-for-files-from-the-linux-command-line/",
+          "publishedOn": "2022-03-17T19:55:40.000Z",
+          "wordCount": 1169,
+          "title": "How to Search for Files from the Linux Command Line",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Copy-of-remove-key-val.gif"
+        },
+        {
+          "id": "621d17ecc4d0d306772f1b2f",
+          "author": "Slimane Aguersif",
+          "description": "In this article I'm going to discuss some use cases of REM (Root EM) in CSS.  I will begin with some background knowledge about CSS properties and values, which I think is necessary. Then I'll discuss the differences between absolute length values and relative ones. REM is a relative",
+          "link": "https://www.freecodecamp.org/news/what-is-rem-in-css/",
+          "publishedOn": "2022-03-17T19:47:22.000Z",
+          "wordCount": 1943,
+          "title": "CSS REM – What is REM in CSS?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/rem-in-css-cover-image.jpeg"
+        },
+        {
+          "id": "623308b9cdcd57069ddfa696",
+          "author": "Kolade Chris",
+          "description": "While running a Python program, there might be times when you'd like to delay the execution of the program for some seconds. The Python time module has a built-in function called time.sleep() with which you can delay the execution of a program. With the sleep() function, you can get more",
+          "link": "https://www.freecodecamp.org/news/python-sleep-time-sleep-in-python/",
+          "publishedOn": "2022-03-17T17:22:29.000Z",
+          "wordCount": 686,
+          "title": "Python Sleep – time.sleep() in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/sleep.png"
+        },
+        {
+          "id": "6233481fcdcd57069ddfa86c",
+          "author": "Beau Carnes",
+          "description": "If you are looking for a web developer job it can be helpful to have a portfolio website. It can also be helpful to have projects you've created to show to potential employers. You can accomplish both tasks at once by creating your own portfolio website with HTML, CSS, &",
+          "link": "https://www.freecodecamp.org/news/create-a-portfolio-website-using-html-css-javascript/",
+          "publishedOn": "2022-03-17T14:49:23.000Z",
+          "wordCount": 24496,
+          "title": "Create a Portfolio Website Using HTML, CSS, & JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/portfoliojs.png"
+        },
+        {
+          "id": "6231a5b3c3e3d106805db9fc",
+          "author": "Ashutosh Krishna",
+          "description": "In this Python tutorial, we'll learn how to build a terminal application (CLI app) to manage our contact book.  We'll use Typer for building the CLI app, Rich for a colorized terminal output, and TinyDB for the database. Get your tools ready We'll be using a few external libraries",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-contact-book-application-in-python-using-rich-typer-and-tinydb/",
+          "publishedOn": "2022-03-17T00:15:43.000Z",
+          "wordCount": 1846,
+          "title": "How to Build a Contact Book Application in Python using Rich, Typer, and TinyDB",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/contact-book.png"
+        },
+        {
           "id": "62321616cdcd57069ddfa114",
           "author": "Germán Cocca",
           "description": "In this article we'll talk about what debugging is, how to debug your code, and how you can get better at it. Table of contents  * How Debugging Started  * Why Should You Learn About Debugging?  * How to Debug Your Code  * How to Get",
@@ -289,6 +359,26 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=113342",
+          "author": "Steven Strogatz",
+          "description": "The noted mathematician and author Steven Strogatz explains how the conversations with experts in his new Quanta Magazine podcast address his lifelong fascination with timeless mysteries.            \nThe post Deep Curiosity Inspires The Joy of Why Podcast first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/deep-curiosity-inspires-the-joy-of-why-podcast-20220317/",
+          "publishedOn": "2022-03-17T18:18:21.000Z",
+          "wordCount": 1318,
+          "title": "Deep Curiosity Inspires The Joy of Why Podcast",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Joy-of-Why-intro-illustration_1200_Social.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=113256",
+          "author": "Jordana Cepelewicz",
+          "description": "Biomechanical interactions, rather than neurons, control the movements of one of the simplest animals. The discovery offers a glimpse into how animal behavior worked before neurons evolved.            \nThe post This Animal’s Behavior Is Mechanically Programmed first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/before-brains-mechanics-may-have-ruled-animal-behavior-20220316/",
+          "publishedOn": "2022-03-16T19:42:05.000Z",
+          "wordCount": 3025,
+          "title": "This Animal’s Behavior Is Mechanically Programmed",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Perceptive_Machines_1200_Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=113237",
           "author": "Charlie Wood",
           "description": "An experiment conducted on hybrid matter-antimatter atoms has defied researchers’ expectations.             \nThe post An Antimatter Experiment Shows Surprises Near Absolute Zero first appeared on Quanta Magazine",
@@ -442,6 +532,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/notes/packages-with-high-download-numbers-that-nobody-wanted-to-install/",
+          "author": null,
+          "description": "Today's one of these days when I just ask myself why the entire web development ecosystem doesn't implode.\nSo what's up?\nnpm's rich ecosystem plays a substantial role in web development. There's a package for literally everything. And even though npm provides scoped packages these days (@stefanjudis/a-package), it's still common to release a package with a simple name.\nnpm is the wild wild west in this regard. Did you find a free package name? Great! Take it and do whatever you like with it.\nBut what's a valid package name in the first place?\nValid npm package names\n\nOf course, npm provides an npm package to answer this question – validate-npm-package-name. Use it in your Node.js scripts to evaluate if a package name would be valid on the npm registry. The project repository also lists req…",
+          "link": "https://www.stefanjudis.com/notes/packages-with-high-download-numbers-that-nobody-wanted-to-install/",
+          "publishedOn": "2022-03-16T23:00:00.000Z",
+          "wordCount": 579,
+          "title": "Packages with high download numbers that nobody wanted to install (#note)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Packages%20with%20high%20download%20numbers%20that%20nobody%20wanted%20to%20install/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-59/",
           "author": null,
