@@ -12,6 +12,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6233b95bcdcd57069ddfadb1",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When crafting the logic in your code, you may want to execute different commands depending on the similarities or differences between two or more strings.  In this article, we'll see various operators that can help us check if strings are equal or not. If two strings are equal, the",
+          "link": "https://www.freecodecamp.org/news/python-compare-strings-how-to-check-for-string-equality/",
+          "publishedOn": "2022-03-18T22:00:00.000Z",
+          "wordCount": 955,
+          "title": "Python Compare Strings – How to Check for String Equality",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/compare1.jpg"
+        },
+        {
+          "id": "6228643563ded806bb9e6f77",
+          "author": "Dionysia Lemonaki",
+          "description": "At the start of your web development journey, you will often hear about the frontend and the backend parts of an application. But what do these terms mean exactly? In this article, you will learn about the differences between the two by examining the frontend and backend separately. Here is",
+          "link": "https://www.freecodecamp.org/news/frontend-vs-backend-whats-the-difference/",
+          "publishedOn": "2022-03-18T20:48:41.000Z",
+          "wordCount": 3147,
+          "title": "Frontend VS Backend – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-christina-morillo-1181677.jpg"
+        },
+        {
           "id": "62333a16cdcd57069ddfa7f3",
           "author": "Ihechikara Vincent Abba",
           "description": "When creating a program, you may need to get numerical input from users and perform various mathematical operations on the value.  Similarly, there are cases where you might want to perform mathematical operations on string values.  In both cases, the values returned are strings so we cannot perform",
@@ -619,6 +639,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/404",
+          "author": null,
+          "description": "#​404 — March 18, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\n🥳 Woo-hoo, Go 1.18 is finally here. And yes, we stole our subject line's joke from Brad Fitzpatrick :-)\n\n\n    \n    \n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n    \nGo 1.18 Released\nGiven the extra excitement around Go 1.18 recently, it's hard to believe Go 1.17 was only released seven months ago! 1.18 is a big enough release that rather than  link solely to the main release announcement, we want to cover a variety of things you might find useful:\nThe official release post is a good place to start – the headline features of generics, fuzz testing, and workspaces are mentioned, but without going into details.\nThe official Go 1.18 release notes cover the technicalities of the release at a high level in bulletpoint fashion.\nCarl Johnson c…",
+          "link": "https://golangweekly.com/issues/404",
+          "publishedOn": "2022-03-18T00:00:00.000Z",
+          "wordCount": 942,
+          "title": "Go 1.18 - the most generic release yet",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/403",
           "author": null,

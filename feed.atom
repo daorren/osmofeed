@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-18T01:23:22.027Z</updated>
+    <updated>2022-03-19T01:16:08.489Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python Compare Strings – How to Check for String Equality]]></title>
+        <id>6233b95bcdcd57069ddfadb1</id>
+        <link href="https://www.freecodecamp.org/news/python-compare-strings-how-to-check-for-string-equality/"/>
+        <updated>2022-03-18T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When crafting the logic in your code, you may want to execute different commands depending on the similarities or differences between two or more strings.  In this article, we'll see various operators that can help us check if strings are equal or not. If two strings are equal, the]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frontend VS Backend – What's the Difference?]]></title>
+        <id>6228643563ded806bb9e6f77</id>
+        <link href="https://www.freecodecamp.org/news/frontend-vs-backend-whats-the-difference/"/>
+        <updated>2022-03-18T20:48:41.000Z</updated>
+        <summary type="html"><![CDATA[At the start of your web development journey, you will often hear about the frontend and the backend parts of an application. But what do these terms mean exactly? In this article, you will learn about the differences between the two by examining the frontend and backend separately. Here is]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go 1.18 - the most generic release yet]]></title>
+        <id>https://golangweekly.com/issues/404</id>
+        <link href="https://golangweekly.com/issues/404"/>
+        <updated>2022-03-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#​404 — March 18, 2022
+
+
+Unsubscribe  |  Read on the Web
+
+
+
+🥳 Woo-hoo, Go 1.18 is finally here. And yes, we stole our subject line's joke from Brad Fitzpatrick :-)
+
+
+    
+    
+
+The Go Weekly Newsletter
+
+
+
+
+  
+
+
+
+
+
+    
+Go 1.18 Released
+Given the extra excitement around Go 1.18 recently, it's hard to believe Go 1.17 was only released seven months ago! 1.18 is a big enough release that rather than  link solely to the main release announcement, we want to cover a variety of things you might find useful:
+The official release post is a good place to start – the headline features of generics, fuzz testing, and workspaces are mentioned, but without going into details.
+The official Go 1.18 release notes cover the technicalities of the release at a high level in bulletpoint fashion.
+Carl Johnson c…]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python String to Int – Convert a String Example]]></title>
         <id>62333a16cdcd57069ddfa7f3</id>
