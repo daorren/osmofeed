@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-19T01:16:08.489Z</updated>
+    <updated>2022-03-20T01:21:48.368Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -947,58 +947,6 @@ If you want to learn more about the array method, head over to the reduce entry 
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go's first commit was in 1972?]]></title>
-        <id>https://golangweekly.com/issues/400</id>
-        <link href="https://golangweekly.com/issues/400"/>
-        <updated>2022-02-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​400 — February 18, 2022
-
-
-Unsubscribe  |  Read on the Web
-
-
-
-Go Weekly
-
-
-
-
-  
-
-
-
-
-
-  
-  
-Go’s Version Control History — Did you know the first commit in the Go repository is from 1972? Or is it..? Russ starts there and walks us through relevant commits, revision control tool changes, and pranks will be enjoyable to any gopher.
-Russ Cox 
-
-
-  
-  
-Go 1.18 Release Candidate 1: The Release Notes — There’s no official blog post but the first release candidate of Go 1.18 is now out (if you want to try it out, follow the instructions in this golang-announce post) so it’s a good time to skim the release notes and prepare for the final release any week now (and hopefully not five minutes after we send this newsletter…)
-Go Team 
-
-
-  
-  
-Build Video for Go That Just Works — Mux is an API-first platf…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running Scheduled Jobs, as easy as 1,2,3]]></title>
-        <id>620ebc0da5e8935e7f26f253</id>
-        <link href="https://labnotes.org/queue-run-scheduled-jobs/"/>
-        <updated>2022-02-17T22:21:11.000Z</updated>
-        <summary type="html"><![CDATA[How to write and deploy a scheduled job in 3 easy steps. You write the code, QueueRun will deploy and manage it for you.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>

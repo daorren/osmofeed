@@ -534,16 +534,6 @@
           "wordCount": 1122,
           "title": "Weekend Reading — Not another channel!",
           "imageUrl": "https://labnotes.org/content/images/2022/02/image-45-1.jpeg"
-        },
-        {
-          "id": "620ebc0da5e8935e7f26f253",
-          "author": "Assaf Arkin",
-          "description": "How to write and deploy a scheduled job in 3 easy steps. You write the code, QueueRun will deploy and manage it for you.",
-          "link": "https://labnotes.org/queue-run-scheduled-jobs/",
-          "publishedOn": "2022-02-17T22:21:11.000Z",
-          "wordCount": 541,
-          "title": "Running Scheduled Jobs, as easy as 1,2,3",
-          "imageUrl": "https://labnotes.org/content/images/2019/12/powerpuff.png"
         }
       ]
     },
@@ -677,16 +667,6 @@
           "publishedOn": "2022-02-25T00:00:00.000Z",
           "wordCount": 748,
           "title": "The internals of the Go fuzz testing system",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/400",
-          "author": null,
-          "description": "#​400 — February 18, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nGo Weekly\n\n\n\n\n  \n\n\n\n\n\n  \n  \nGo’s Version Control History — Did you know the first commit in the Go repository is from 1972? Or is it..? Russ starts there and walks us through relevant commits, revision control tool changes, and pranks will be enjoyable to any gopher.\nRuss Cox \n\n\n  \n  \nGo 1.18 Release Candidate 1: The Release Notes — There’s no official blog post but the first release candidate of Go 1.18 is now out (if you want to try it out, follow the instructions in this golang-announce post) so it’s a good time to skim the release notes and prepare for the final release any week now (and hopefully not five minutes after we send this newsletter…)\nGo Team \n\n\n  \n  \nBuild Video for Go That Just Works — Mux is an API-first platf…",
-          "link": "https://golangweekly.com/issues/400",
-          "publishedOn": "2022-02-18T00:00:00.000Z",
-          "wordCount": 802,
-          "title": "Go's first commit was in 1972?",
           "imageUrl": null
         }
       ]
