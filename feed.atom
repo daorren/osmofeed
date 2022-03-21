@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-20T01:21:48.368Z</updated>
+    <updated>2022-03-21T01:25:12.574Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — People who are Very Computer]]></title>
+        <id>622eb2edd86b41350151f191</id>
+        <link href="https://labnotes.org/weekend-reading-people-who-are-very-computer/"/>
+        <updated>2022-03-21T00:56:59.000Z</updated>
+        <summary type="html"><![CDATA[This week we make some progress, create an honest UX portfolio, peer into a ransomware workplace, and learn to halve a giraffe.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to align the text of the last paragraph line (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/how-to-align-the-text-of-the-last-paragraph-line/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/how-to-align-the-text-of-the-last-paragraph-line/"/>
+        <updated>2022-03-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today I learned there's a CSS property to align the last line of a rendered paragraph – text-align-last. 😲
+Initially, I couldn't see the value of this property because the last paragraph line always follows the overall text-align property. If your text is left-aligned, the last line is left-aligned, too. The same applies to center and right.
+So, what's the deal?
+A use case for text-align-last
+
+After researching the topic, I discovered that the property can be helpful with text-align: justify. As discussed in a Tailwind issue, you can't style justified paragraphs and control the alignment of the last line. For example, a layout like the one below is not possible without an additional CSS property.
+
+
+
+          
+            
+With a combination of text-align and text-align-last this design b…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python Compare Strings – How to Check for String Equality]]></title>
         <id>6233b95bcdcd57069ddfadb1</id>
@@ -881,72 +912,6 @@ I continued playing with my site and added favicons to every link going elsewher
         <summary type="html"><![CDATA[This week we got a new email client, miniature Cray-1, non-advise on exercising stock options, and vampire killing kit.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Array.prototype.reduce's initial value is optional (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/the-array-prototype-reduces-initial-value-is-optional/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/the-array-prototype-reduces-initial-value-is-optional/"/>
-        <updated>2022-02-18T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[reduce() is one of these underrated Array methods that can be tremendously useful to accumulate array items. Define an initial value, iterate over all array items and define a callback function to form a combined result.
-The beauty: each callback's return value is provided to the next entry callback so that you can sum numbers or regroup the array entries inside of an object.
-reduce((previousValue, currentValue) => {
-  /* ... */
-});
-reduce((previousValue, currentValue, currentIndex) => {
-  /* ... */
-});
-reduce((previousValue, currentValue, currentIndex, array) => {
-  /* ... */
-});
-reduce((previousValue, currentValue, currentIndex, array) => {
-  /* ... */
-}, initialValue);
-
-And after all these years, looking at these recude callback signatures, I discovered that the initial value is optional. 😲
-Let's look at an example of summing numbers.
-// sum all numbers in the array
-// start with `0`
-[1, 2, 3, 4, 5].reduce((previousValue, currentValue) => {
-  console.log(previousValue);
-  // the return value will be the next `previousValue`
-  return previousValue + currentValue;
-}, 0); // 15
-
-// Output in the console:
-// 0 
-// 1 
-// 3
-// 6
-// 10 
-// 15
-
-You might ask if the first iteration starting with 0 is necessary. And you're correct – it's redundant and is a case for not providing an initial value at all!
-// sum all numbers in the array
-// start with `1`
-[1, 2, 3, 4, 5].reduce((previousValue, currentValue) => {
-  console.log(previousValue);
-  // the return value will be the next `previousValue`
-  return previousValue + currentValue;
-}); // 15
-
-// Output in the console:
-// 1 
-// 3
-// 6
-// 10 
-// 15
-
-Without a second argument, the reduce loop starts with the first array entry instead of an initial value – ergo, you'll save one iteration! 🎉
-This is a nifty little find! Big thanks to Ramón, who tweeted this tip!
-If you want to learn more about the array method, head over to the reduce entry on MDN.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

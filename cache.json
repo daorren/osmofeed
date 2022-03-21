@@ -486,6 +486,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "622eb2edd86b41350151f191",
+          "author": "Assaf Arkin",
+          "description": "This week we make some progress, create an honest UX portfolio, peer into a ransomware workplace, and learn to halve a giraffe.",
+          "link": "https://labnotes.org/weekend-reading-people-who-are-very-computer/",
+          "publishedOn": "2022-03-21T00:56:59.000Z",
+          "wordCount": 1043,
+          "title": "Weekend Reading — People who are Very Computer",
+          "imageUrl": "https://labnotes.org/content/images/2022/03/image-23-1.png"
+        },
+        {
           "id": "62255fa3ee93676e38db174d",
           "author": "Assaf Arkin",
           "description": "This week we add a word to the dictionary, design a 5-pop-up-sandwich, discover the best AirBnB, and learn to do our own laundry.,",
@@ -542,6 +552,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/how-to-align-the-text-of-the-last-paragraph-line/",
+          "author": null,
+          "description": "Today I learned there's a CSS property to align the last line of a rendered paragraph – text-align-last. 😲\nInitially, I couldn't see the value of this property because the last paragraph line always follows the overall text-align property. If your text is left-aligned, the last line is left-aligned, too. The same applies to center and right.\nSo, what's the deal?\nA use case for text-align-last\n\nAfter researching the topic, I discovered that the property can be helpful with text-align: justify. As discussed in a Tailwind issue, you can't style justified paragraphs and control the alignment of the last line. For example, a layout like the one below is not possible without an additional CSS property.\n\n\n\n          \n            \nWith a combination of text-align and text-align-last this design b…",
+          "link": "https://www.stefanjudis.com/today-i-learned/how-to-align-the-text-of-the-last-paragraph-line/",
+          "publishedOn": "2022-03-19T23:00:00.000Z",
+          "wordCount": 619,
+          "title": "How to align the text of the last paragraph line (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20align%20the%20text%20of%20the%20last%20paragraph%20line/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/notes/packages-with-high-download-numbers-that-nobody-wanted-to-install/",
           "author": null,
@@ -611,16 +631,6 @@
           "wordCount": 1404,
           "title": "Web Weekly #58 (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252358/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/the-array-prototype-reduces-initial-value-is-optional/",
-          "author": null,
-          "description": "reduce() is one of these underrated Array methods that can be tremendously useful to accumulate array items. Define an initial value, iterate over all array items and define a callback function to form a combined result.\nThe beauty: each callback's return value is provided to the next entry callback so that you can sum numbers or regroup the array entries inside of an object.\nreduce((previousValue, currentValue) => {\n  /* ... */\n});\nreduce((previousValue, currentValue, currentIndex) => {\n  /* ... */\n});\nreduce((previousValue, currentValue, currentIndex, array) => {\n  /* ... */\n});\nreduce((previousValue, currentValue, currentIndex, array) => {\n  /* ... */\n}, initialValue);\n\nAnd after all these years, looking at these recude callback signatures, I discovered that the initial value is optional. 😲\nLet's look at an example of summing numbers.\n// sum all numbers in the array\n// start with `0`\n[1, 2, 3, 4, 5].reduce((previousValue, currentValue) => {\n  console.log(previousValue);\n  // the return value will be the next `previousValue`\n  return previousValue + currentValue;\n}, 0); // 15\n\n// Output in the console:\n// 0 \n// 1 \n// 3\n// 6\n// 10 \n// 15\n\nYou might ask if the first iteration starting with 0 is necessary. And you're correct – it's redundant and is a case for not providing an initial value at all!\n// sum all numbers in the array\n// start with `1`\n[1, 2, 3, 4, 5].reduce((previousValue, currentValue) => {\n  console.log(previousValue);\n  // the return value will be the next `previousValue`\n  return previousValue + currentValue;\n}); // 15\n\n// Output in the console:\n// 1 \n// 3\n// 6\n// 10 \n// 15\n\nWithout a second argument, the reduce loop starts with the first array entry instead of an initial value – ergo, you'll save one iteration! 🎉\nThis is a nifty little find! Big thanks to Ramón, who tweeted this tip!\nIf you want to learn more about the array method, head over to the reduce entry on MDN.\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/the-array-prototype-reduces-initial-value-is-optional/",
-          "publishedOn": "2022-02-18T23:00:00.000Z",
-          "wordCount": 553,
-          "title": "Array.prototype.reduce's initial value is optional (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Array.prototype.reduce's%20initial%20value%20is%20optional/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
