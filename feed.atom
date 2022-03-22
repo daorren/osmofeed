@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-21T01:25:12.574Z</updated>
+    <updated>2022-03-22T01:34:18.968Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VS Code Extensions to Increase Developer Productivity]]></title>
+        <id>6238da58cdcd57069ddfc85e</id>
+        <link href="https://www.freecodecamp.org/news/vs-code-extensions-to-increase-developer-productivity/"/>
+        <updated>2022-03-21T20:23:21.000Z</updated>
+        <summary type="html"><![CDATA[Visual Studio Code is one of the most popular code editors used by software developers. While it has many great features built-in, there are a lot of extensions you can install to increase your productivity.  We just published a video on the freeCodeCamp.org YouTube channel that will teach you]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Solve freeCodeCamp's Record Collection Challenge]]></title>
+        <id>6236cc8acdcd57069ddfba7a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-solve-the-record-collection-challenge/"/>
+        <updated>2022-03-21T18:14:42.000Z</updated>
+        <summary type="html"><![CDATA[freeCodeCamp's JavaScript certification [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/]  is filled with hundreds of interactive challenges. But one of the hardest ones to tackle for most beginners is the Record Collection [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection] . In this article, I will walk you through Record Collection [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-str]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chmod Command – How to Change File Permissions in Linux]]></title>
+        <id>62375a8dcdcd57069ddfbec1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-change-file-permissions-with-the-chmod-command-on-linux/"/>
+        <updated>2022-03-21T15:33:36.000Z</updated>
+        <summary type="html"><![CDATA[One of the first commands I learned on Linux was the touch command that creates a file using the command line.  If you ever try to create, for instance, a text file, all you have to do is type  touch filename.txt, press Enter, and the file is created]]></summary>
+        <author>
+            <name>Daniel Rosa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Tool for Finding Dark Matter Digs Up Nothing]]></title>
+        <id>https://www.quantamagazine.org/?p=113416</id>
+        <link href="https://www.quantamagazine.org/a-new-tool-for-finding-dark-matter-digs-up-nothing-20220321/"/>
+        <updated>2022-03-21T13:56:36.000Z</updated>
+        <summary type="html"><![CDATA[Physicists are devising clever new ways to exploit the extreme sensitivity of gravitational wave detectors like LIGO. But so far, they’ve seen no signs of exotica.            
+The post A New Tool for Finding Dark Matter Digs Up Nothing first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Thomas Lewton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get the Current Time in Python with Datetime]]></title>
+        <id>6236e160cdcd57069ddfbbbf</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-the-current-time-in-python-with-datetime/"/>
+        <updated>2022-03-21T13:52:01.000Z</updated>
+        <summary type="html"><![CDATA[In your Python applications, you might want to work with time to add functionalities like timestamps, check the time of a user’s activity, and more. One of the modules that helps you work with date and time in Python is datetime. With the datetime module, you can get the current]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SyntaxError Unexpected EOF While Parsing Python Error [Solved]]]></title>
+        <id>6237b189cdcd57069ddfc248</id>
+        <link href="https://www.freecodecamp.org/news/syntaxerror-unexpected-eof-while-parsing-python-error-solved/"/>
+        <updated>2022-03-21T13:47:24.000Z</updated>
+        <summary type="html"><![CDATA[Error messages help us solve/fix problems in our code. But some error messages, when you first see them, may confuse you because they seem unclear.  One of these errors is the "SyntaxError: unexpected EOF while parsing" error you might get in Python. In this article, we'll see why this]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — People who are Very Computer]]></title>
         <id>622eb2edd86b41350151f191</id>
@@ -14,6 +75,29 @@
         <summary type="html"><![CDATA[This week we make some progress, create an honest UX portfolio, peer into a ransomware workplace, and learn to halve a giraffe.]]></summary>
         <author>
             <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #60 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-60/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-60/"/>
+        <updated>2022-03-20T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Happy Monday, friends!
+
+Today's Web Weekly is the sixtieth edition. 😊 It's wild that this tiny newsletter has been with me for over a year now. Thanks for reading along!
+This time Web Weekly includes:
+a guide to networking at developer events
+the security problems in the npm ecosystem
+the difference between onchange and onChange
+... and, as always, GitHub repositories, a new Tiny Helper and some music.
+On a personal note
+
+Today I'm entering my last week working for Contentful. It's been fabulous two years. I learned so much about management and leadership. But now, after a month-long break, I'll start my next adventure. Watch the space!
+And because the situation in Europe didn't get any better. If you can, please consider offering help or donating money to the folks in Ukraine.
+💙💛
+Somet…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
@@ -902,16 +986,6 @@ On a personal note
 I continued playing with my site and added favicons to every link going elsewhere. ☝️ The favicons are fetched a…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Not another channel!]]></title>
-        <id>6209640dd1a79a2953e12842</id>
-        <link href="https://labnotes.org/weekend-reading-not-another-channel/"/>
-        <updated>2022-02-19T20:53:19.000Z</updated>
-        <summary type="html"><![CDATA[This week we got a new email client, miniature Cray-1, non-advise on exercising stock options, and vampire killing kit.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
