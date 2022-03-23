@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-22T01:34:18.968Z</updated>
+    <updated>2022-03-23T01:37:35.031Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Else-If in Python – Python If Statement Example Syntax]]></title>
+        <id>623848d7cdcd57069ddfc40d</id>
+        <link href="https://www.freecodecamp.org/news/else-if-in-python-python-if-statement-example-syntax/"/>
+        <updated>2022-03-22T20:41:35.000Z</updated>
+        <summary type="html"><![CDATA[When you're coding, you need to be able to check certain conditions and change the control of the program execution accordingly.  Python provides many conditional statements for decision making, and if-else is one of them. In this blog post, we will learn:  1. The default order of execution]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Go Programming by Building 11 Projects]]></title>
+        <id>623a17b2cdcd57069ddfd0b3</id>
+        <link href="https://www.freecodecamp.org/news/learn-go-by-building-11-projects/"/>
+        <updated>2022-03-22T18:50:22.000Z</updated>
+        <summary type="html"><![CDATA[The Go programming language is an open-source and compiled language designed by Google. Go is popular for cloud-based or server-side applications. We just published a course on the freeCodeCamp.org YouTube channel that will help you improve your Go skills by teaching you how to create eleven projects. Akhil Sharma developed]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Remove the Start Text from PowerShell]]></title>
+        <id>62358f0ccdcd57069ddfb8b4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-remove-starting-text-from-powershell/"/>
+        <updated>2022-03-22T17:18:05.000Z</updated>
+        <summary type="html"><![CDATA[If you are using a Windows operating system, you have likely used the latest Windows PowerShell at least once.  Whenever you open the PowerShell, you get a text message inside the terminal which shows the terminal version, the link to download the latest PowerShell, and so on.  Sometimes]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brain Chemical Helps Signal to Neurons When to Start a Movement]]></title>
+        <id>https://www.quantamagazine.org/?p=113455</id>
+        <link href="https://www.quantamagazine.org/brain-chemical-helps-signal-to-neurons-when-to-start-a-movement-20220322/"/>
+        <updated>2022-03-22T14:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Dopamine, a neurochemical often associated with reward behavior, also seems to help organize precisely when the brain initiates movements. It’s the latest revelation about the power of neuromodulators.            
+The post Brain Chemical Helps Signal to Neurons When to Start a Movement first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Allison Whitten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Operator – Logical Operators in Python]]></title>
+        <id>62346eeacdcd57069ddfae72</id>
+        <link href="https://www.freecodecamp.org/news/operators-in-python-how-to-use-logical-operators-in-python/"/>
+        <updated>2022-03-22T00:21:14.000Z</updated>
+        <summary type="html"><![CDATA[Operators in any programming language are the basic building blocks using which we can construct powerful, complex statements for problem solving.  Python offers different types of operators, like arithmetic operators, logical operators, relational operators and so on. In this post, let's dive into logical operators in Python and learn]]></summary>
+        <author>
+            <name>Suchandra Datta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manage State in a React App – With Hooks, Redux, and More]]></title>
+        <id>62376c2ecdcd57069ddfbf7f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-manage-state-in-a-react-app/"/>
+        <updated>2022-03-21T23:31:54.000Z</updated>
+        <summary type="html"><![CDATA[Hi! In this article we'll take a look at the many ways you can manage state in a React app. We'll start by talking about what state is, and then go through the many tools you can use to manage it. We'll look at the simple useState hook and also]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VS Code Extensions to Increase Developer Productivity]]></title>
         <id>6238da58cdcd57069ddfc85e</id>
@@ -957,33 +1018,6 @@ I'll adopt this pattern from now on! Thanks, Chris.
           
           
             Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #58 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-58/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-58/"/>
-        <updated>2022-02-20T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Happy, stormy Monday, party people!
-
-For the folks living outside of Europe: we had some intense storms over here, and everybody was thrilled by airplanes still landing in London Heathrow despite it. It was pretty scary because I didn't experience such wind very often in my life, and especially in Berlin, people tend to have loose plant pots on their balconies. I stayed inside as much as possible, and I hope you did the same!
-This time Web Weekly includes:
-colorful native checkboxes
-the new global reportError JS method
-3rd party assets and the browser cache
-... and, as always, GitHub repositories, a new Tiny Helper and some music.
-On a personal note
-
-
-
-
-
-
-          
-            
-I continued playing with my site and added favicons to every link going elsewhere. ☝️ The favicons are fetched a…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>
