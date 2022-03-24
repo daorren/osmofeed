@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-23T01:37:35.031Z</updated>
+    <updated>2022-03-24T01:25:55.415Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Create a List in Python – Lists in Python Syntax]]></title>
+        <id>623af0d3cdcd57069ddfd5bb</id>
+        <link href="https://www.freecodecamp.org/news/create-a-list-in-python-lists-in-python-syntax/"/>
+        <updated>2022-03-23T20:32:31.000Z</updated>
+        <summary type="html"><![CDATA[Lists are one of the core data structures in Python. We use them for storing any data type, whether it's an integer, string, boolean, or even an object. Because one list can store multiple types of data, lists are one of the most powerful and widely used tools for storing]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes Security – Common Vulnerabilities and Exposures for K8s Programs]]></title>
+        <id>6230d789c3e3d106805db72a</id>
+        <link href="https://www.freecodecamp.org/news/kubernetes-security-common-vulnerabilities-and-exposures/"/>
+        <updated>2022-03-23T19:06:43.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes has become the go-to tool for orchestration, scaling, automated deployment, and management of containerized applications.  Simply put, Kubernetes is a system that maintains coordination between diverse applications across a group of machines. It is important to note that this system mostly deals with containerized applications, like Docker images.]]></summary>
+        <author>
+            <name>Prajwal Kulkarni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use *args and **kwargs in Python]]></title>
+        <id>623a9306cdcd57069ddfd494</id>
+        <link href="https://www.freecodecamp.org/news/args-and-kwargs-in-python/"/>
+        <updated>2022-03-23T18:55:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll discuss *args and **kwargs in Python along with their uses and some examples. When writing a function, we often need to pass values to the function. These values are called function arguments.  Problem with Function Arguments Let's define a function to add two numbers in]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add a MetaMask Login to Your Laravel Web Application]]></title>
+        <id>6238bd3dcdcd57069ddfc5ad</id>
+        <link href="https://www.freecodecamp.org/news/add-a-metamask-login-to-your-laravel-app/"/>
+        <updated>2022-03-23T18:38:03.000Z</updated>
+        <summary type="html"><![CDATA[Logging into a website via third parties is ubiquitous online. Almost every other member-based website allows you to log in with accounts like Facebook, Twitter, and Google. If you’ve ever visited NFT marketplaces like OpenSea or Rarible, you would have noticed they allow you to sign in with a crypto]]></summary>
+        <author>
+            <name>Darren Chowles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taxes for Freelance Developers – How Much Tax You Should Pay as a Freelancer]]></title>
+        <id>6238d5a4cdcd57069ddfc7db</id>
+        <link href="https://www.freecodecamp.org/news/taxes-for-freelance-developers/"/>
+        <updated>2022-03-23T13:52:08.000Z</updated>
+        <summary type="html"><![CDATA[Disclaimer: This article should not be construed as advice for tax management or investment decisions.  Neither the author of this article, nor freeCodeCamp, are professionals in these areas. The discussion below is a matter of personal opinion only and you should discuss such matters with a licensed professional. If]]></summary>
+        <author>
+            <name>Luke Ciciliano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dennis Sullivan, Uniter of Topology and Chaos, Wins the Abel Prize]]></title>
+        <id>https://www.quantamagazine.org/?p=113467</id>
+        <link href="https://www.quantamagazine.org/dennis-sullivan-uniter-of-topology-and-chaos-wins-the-abel-prize-20220323/"/>
+        <updated>2022-03-23T11:53:50.000Z</updated>
+        <summary type="html"><![CDATA[The American mathematician invented entire new ways to understand shapes and spaces.             
+The post Dennis Sullivan, Uniter of Topology and Chaos, Wins the Abel Prize first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Jordana Cepelewicz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is WordPress a Code or No-code Tool?]]></title>
+        <id>6236e318cdcd57069ddfbc09</id>
+        <link href="https://www.freecodecamp.org/news/is-wordpress-a-code-or-no-code-tool/"/>
+        <updated>2022-03-23T01:56:34.000Z</updated>
+        <summary type="html"><![CDATA[WordPress is an open-source content management system (CMS) for building any kind of website – an eCommerce site, a portfolio, a forum, and many more. WordPress started out as a simple platform for creating blogs, but today WordPress powers over 43% of the total websites on earth, and that number]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Else-If in Python – Python If Statement Example Syntax]]></title>
         <id>623848d7cdcd57069ddfc40d</id>
@@ -14,6 +85,17 @@
         <summary type="html"><![CDATA[When you're coding, you need to be able to check certain conditions and change the control of the program execution accordingly.  Python provides many conditional statements for decision making, and if-else is one of them. In this blog post, we will learn:  1. The default order of execution]]></summary>
         <author>
             <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Do We Die Without Sleep?]]></title>
+        <id>https://www.quantamagazine.org/?p=113485</id>
+        <link href="https://www.quantamagazine.org/why-do-we-die-without-sleep-20220322/"/>
+        <updated>2022-03-22T20:31:34.000Z</updated>
+        <summary type="html"><![CDATA[The reasons why sleep is so vital often hide in unexpected parts of the body, as host Steven Strogatz discovers in conversations with researchers Dragana Rogulja and Alex Keene.            
+The post Why Do We Die Without Sleep? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steven Strogatz</name>
         </author>
     </entry>
     <entry>

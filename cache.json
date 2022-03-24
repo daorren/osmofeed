@@ -12,6 +12,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "623af0d3cdcd57069ddfd5bb",
+          "author": "Kolade Chris",
+          "description": "Lists are one of the core data structures in Python. We use them for storing any data type, whether it's an integer, string, boolean, or even an object. Because one list can store multiple types of data, lists are one of the most powerful and widely used tools for storing",
+          "link": "https://www.freecodecamp.org/news/create-a-list-in-python-lists-in-python-syntax/",
+          "publishedOn": "2022-03-23T20:32:31.000Z",
+          "wordCount": 1104,
+          "title": "Create a List in Python – Lists in Python Syntax",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/list.png"
+        },
+        {
+          "id": "6230d789c3e3d106805db72a",
+          "author": "Prajwal Kulkarni",
+          "description": "Kubernetes has become the go-to tool for orchestration, scaling, automated deployment, and management of containerized applications.  Simply put, Kubernetes is a system that maintains coordination between diverse applications across a group of machines. It is important to note that this system mostly deals with containerized applications, like Docker images.",
+          "link": "https://www.freecodecamp.org/news/kubernetes-security-common-vulnerabilities-and-exposures/",
+          "publishedOn": "2022-03-23T19:06:43.000Z",
+          "wordCount": 1386,
+          "title": "Kubernetes Security – Common Vulnerabilities and Exposures for K8s Programs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/jens-rademacher-kJOj4dU76mE-unsplash-1.jpg"
+        },
+        {
+          "id": "623a9306cdcd57069ddfd494",
+          "author": "Ashutosh Krishna",
+          "description": "In this article, we'll discuss *args and **kwargs in Python along with their uses and some examples. When writing a function, we often need to pass values to the function. These values are called function arguments.  Problem with Function Arguments Let's define a function to add two numbers in",
+          "link": "https://www.freecodecamp.org/news/args-and-kwargs-in-python/",
+          "publishedOn": "2022-03-23T18:55:00.000Z",
+          "wordCount": 846,
+          "title": "How to Use *args and **kwargs in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/args.png"
+        },
+        {
+          "id": "6238bd3dcdcd57069ddfc5ad",
+          "author": "Darren Chowles",
+          "description": "Logging into a website via third parties is ubiquitous online. Almost every other member-based website allows you to log in with accounts like Facebook, Twitter, and Google. If you’ve ever visited NFT marketplaces like OpenSea or Rarible, you would have noticed they allow you to sign in with a crypto",
+          "link": "https://www.freecodecamp.org/news/add-a-metamask-login-to-your-laravel-app/",
+          "publishedOn": "2022-03-23T18:38:03.000Z",
+          "wordCount": 1648,
+          "title": "How to Add a MetaMask Login to Your Laravel Web Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/photo.png"
+        },
+        {
+          "id": "6238d5a4cdcd57069ddfc7db",
+          "author": "Luke Ciciliano",
+          "description": "Disclaimer: This article should not be construed as advice for tax management or investment decisions.  Neither the author of this article, nor freeCodeCamp, are professionals in these areas. The discussion below is a matter of personal opinion only and you should discuss such matters with a licensed professional. If",
+          "link": "https://www.freecodecamp.org/news/taxes-for-freelance-developers/",
+          "publishedOn": "2022-03-23T13:52:08.000Z",
+          "wordCount": 11700,
+          "title": "Taxes for Freelance Developers – How Much Tax You Should Pay as a Freelancer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/1040.jpg"
+        },
+        {
+          "id": "6236e318cdcd57069ddfbc09",
+          "author": "Kolade Chris",
+          "description": "WordPress is an open-source content management system (CMS) for building any kind of website – an eCommerce site, a portfolio, a forum, and many more. WordPress started out as a simple platform for creating blogs, but today WordPress powers over 43% of the total websites on earth, and that number",
+          "link": "https://www.freecodecamp.org/news/is-wordpress-a-code-or-no-code-tool/",
+          "publishedOn": "2022-03-23T01:56:34.000Z",
+          "wordCount": 1373,
+          "title": "Is WordPress a Code or No-code Tool?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/wordpress--1-.png"
+        },
+        {
           "id": "623848d7cdcd57069ddfc40d",
           "author": "Zaira Hira",
           "description": "When you're coding, you need to be able to check certain conditions and change the control of the program execution accordingly.  Python provides many conditional statements for decision making, and if-else is one of them. In this blog post, we will learn:  1. The default order of execution",
@@ -478,6 +538,26 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=113467",
+          "author": "Jordana Cepelewicz",
+          "description": "The American mathematician invented entire new ways to understand shapes and spaces.             \nThe post Dennis Sullivan, Uniter of Topology and Chaos, Wins the Abel Prize first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/dennis-sullivan-uniter-of-topology-and-chaos-wins-the-abel-prize-20220323/",
+          "publishedOn": "2022-03-23T11:53:50.000Z",
+          "wordCount": 1664,
+          "title": "Dennis Sullivan, Uniter of Topology and Chaos, Wins the Abel Prize",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Abel_prize_1200_Social.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=113485",
+          "author": "Steven Strogatz",
+          "description": "The reasons why sleep is so vital often hide in unexpected parts of the body, as host Steven Strogatz discovers in conversations with researchers Dragana Rogulja and Alex Keene.            \nThe post Why Do We Die Without Sleep? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/why-do-we-die-without-sleep-20220322/",
+          "publishedOn": "2022-03-22T20:31:34.000Z",
+          "wordCount": 8513,
+          "title": "Why Do We Die Without Sleep?",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/JOY_OF_Y-E1_1200_Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=113455",
           "author": "Allison Whitten",
