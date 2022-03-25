@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-24T01:25:55.415Z</updated>
+    <updated>2022-03-25T01:26:05.879Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How a freeCodeCamp Student Started a Business and Teaches Kids to Code]]></title>
+        <id>6236afa1cdcd57069ddfb9e6</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-student-started-business-teaches-kids-about-computers/"/>
+        <updated>2022-03-24T22:55:39.000Z</updated>
+        <summary type="html"><![CDATA[Original Article: 脑瘫、面包店、志愿者——“编程让我变得更真实” [https://chinese.freecodecamp.org/news/cerebral-palsy-bakery-volunteer-programming-makes-me-real/] Original Author: Miya Liu [https://chinese.freecodecamp.org/news/author/miyaliu/] In 2019, the freeCodeCamp Chinese community launched the DevTalk interview program. We invited senior developers, Internet practitioners, and people with development backgrounds to share their experiences learning programming, working experiences, and other exciting stories.]]></summary>
+        <author>
+            <name>Alan Luo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to SSH into a Docker Container – Secure Shell vs Docker Attach]]></title>
+        <id>6234b763cdcd57069ddfb192</id>
+        <link href="https://www.freecodecamp.org/news/how-to-ssh-into-a-docker-container-secure-shell-vs-docker-attach/"/>
+        <updated>2022-03-24T19:47:16.000Z</updated>
+        <summary type="html"><![CDATA[Containers are the bread and butter for running applications today. And the most popular container technology is called Docker [https://www.docker.com/].  Knowing how to SSH into a container is essential to using, debugging, and operating containers on your local operating system or remote setup.  This article will describe different]]></summary>
+        <author>
+            <name>Sebastian Sigl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What a Math Party Game Tells Us About Graph Theory]]></title>
+        <id>https://www.quantamagazine.org/?p=113504</id>
+        <link href="https://www.quantamagazine.org/what-a-math-party-game-tells-us-about-graph-theory-20220324/"/>
+        <updated>2022-03-24T17:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Play this simple math game with your friends to gain insights into fundamental principles of graph theory.            
+The post What a Math Party Game Tells Us About Graph Theory first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Patrick Honner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Int Object is Not Iterable – Python Error [Solved]]]></title>
+        <id>623c45ea138a19064b064195</id>
+        <link href="https://www.freecodecamp.org/news/int-object-is-not-iterable-python-error-solved/"/>
+        <updated>2022-03-24T16:46:42.000Z</updated>
+        <summary type="html"><![CDATA[If you are running your Python code and you see the error “TypeError: 'int' object is not iterable”, it means you are trying to loop through an integer or other data type that loops cannot work on. In Python, iterable data are lists, tuples, sets, dictionaries, and so on. In]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Microservices with FastAPI]]></title>
+        <id>623c9dd5138a19064b06449b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-microservices-with-fastapi/"/>
+        <updated>2022-03-24T16:43:34.000Z</updated>
+        <summary type="html"><![CDATA[FastAPI is a Web framework for developing RESTful APIs in Python. It is a great choice when you want to build an app based on microservices. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to develop microservices app using FastAPI. In this course,]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[indexOf in Java – How to Find the Index of a String in Java]]></title>
+        <id>62389b37cdcd57069ddfc5a0</id>
+        <link href="https://www.freecodecamp.org/news/indexof-in-java-how-to-find-the-index-of-a-string-in-java/"/>
+        <updated>2022-03-24T16:11:05.000Z</updated>
+        <summary type="html"><![CDATA[A string is a collection of characters nested in double quotes. The indexOf  method returns the index position of a specified character or substring in a string. In this article, we'll see the syntax for the different indexOf methods. We'll also look at some examples to help you understand]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use UISearchController in iOS Apps]]></title>
+        <id>62388dc7cdcd57069ddfc4d1</id>
+        <link href="https://www.freecodecamp.org/news/learn-to-use-uisearchcontroller-in-ios-apps/"/>
+        <updated>2022-03-24T15:55:58.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone! In this article we are going to learn how to use UISearchController in iOS Apps. What are we going to build? We are going to build a movie search application which uses the TMDB [https://www.themoviedb.org/] API to fetch movie info and display it using a UICollectionView based on]]></summary>
+        <author>
+            <name>Sai Balaji K</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create a List in Python – Lists in Python Syntax]]></title>
         <id>623af0d3cdcd57069ddfd5bb</id>
@@ -1068,40 +1139,6 @@ My buddy is an electrician and told me a few months ago that he always leaves th
 Kenneth Auchenberg]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Readable JavaScript conditions (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/readable-javascript-conditions/</id>
-        <link href="https://www.stefanjudis.com/notes/readable-javascript-conditions/"/>
-        <updated>2022-02-22T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chris Ferdinandi, the vanilla JavaScript guy, published an excellent coding tip to make your JavaScript conditions more readable.
-Suppose you have the following condition:
-if (fruit === 'apple' || fruit === 'strawberry') {
-  // ...
-}
-
-My mind needs a moment to process this if. It's just not easy to read. And additionally, the condition becomes even harder to read if there are more fruits and you have to chain all these logical ORs.
-And now look at what Chris advises to use instead:
-if (['apple', 'strawberry'].includes(fruit)) {
-  // ...
-}
-
-// or even place things in a variable 
-// to make it even clearer
-if (deliciousFruits.includes(fruit)) {
-  // ...
-}
-
-Is that readable code, or what? 😲 The condition even includes the word includes to make it easier to understand! 👏 It's a tiny change that improves readability tremendously.
-I'll adopt this pattern from now on! Thanks, Chris.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
