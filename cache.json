@@ -12,6 +12,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "62310caec3e3d106805db8b3",
+          "author": "Dillion Megida",
+          "description": "HTML has different tags, some of which have semantic meanings. A basic boilerplate for an HTML file looks like this:",
+          "link": "https://www.freecodecamp.org/news/html-starter-template-a-basic-html5-boilerplate-for-index-html/",
+          "publishedOn": "2022-03-25T23:18:46.000Z",
+          "wordCount": 1156,
+          "title": "HTML Starter Template – A Basic HTML5 Boilerplate for index.html",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-pixabay-270404.jpg"
+        },
+        {
+          "id": "602b31e00a2838549dcc6253",
+          "author": "Natalie Pina",
+          "description": "I am currently a User Experience or UX Engineer for D2iQ. And lots of people ask me what exactly is a UX Engineer.  This question comes from designers and developers alike. So, I figured it was time to write about it to create awareness and demystify the role. This",
+          "link": "https://www.freecodecamp.org/news/what-is-a-ux-engineer/",
+          "publishedOn": "2022-03-25T21:47:17.000Z",
+          "wordCount": 1886,
+          "title": "What is a UX Engineer? User Experience Engineer Role Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Blog-Header-1200x600-px--1--1.png"
+        },
+        {
+          "id": "623c71ec138a19064b0642c4",
+          "author": "Ihechikara Vincent Abba",
+          "description": "An enumeration (enum for short) in Java is a special data type which contains a set of predefined constants.  You'll usually use an enum when dealing with values that aren't required to change, like days of the week, seasons of the year, colors, and so on. In this article,",
+          "link": "https://www.freecodecamp.org/news/java-enum-enumeration-in-java-example/",
+          "publishedOn": "2022-03-25T21:33:55.000Z",
+          "wordCount": 899,
+          "title": "Java Enum – Enumeration in Java Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/enum.jpg"
+        },
+        {
+          "id": "62351427cdcd57069ddfb5e4",
+          "author": "Ijelekhai Faith Olohijere",
+          "description": "In this article, we'll be learning how to create, edit, and use color and text styles in Figma. We'll also learn how to combine color and text styles and use them to create beautiful designs. Styles help you simplify your workflow, keep text and layers consistent, and save valuable time.",
+          "link": "https://www.freecodecamp.org/news/how-to-create-color-and-text-styles-in-figma/",
+          "publishedOn": "2022-03-25T21:24:53.000Z",
+          "wordCount": 961,
+          "title": "How to Create Color and Text Styles in Figma",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-sharon-mccutcheon-1212407.jpg"
+        },
+        {
           "id": "6236afa1cdcd57069ddfb9e6",
           "author": "Alan Luo",
           "description": "Original Article: 脑瘫、面包店、志愿者——“编程让我变得更真实” [https://chinese.freecodecamp.org/news/cerebral-palsy-bakery-volunteer-programming-makes-me-real/] Original Author: Miya Liu [https://chinese.freecodecamp.org/news/author/miyaliu/] In 2019, the freeCodeCamp Chinese community launched the DevTalk interview program. We invited senior developers, Internet practitioners, and people with development backgrounds to share their experiences learning programming, working experiences, and other exciting stories.",
@@ -794,16 +834,6 @@
           "wordCount": 826,
           "title": "Weekend Reading — 🇺🇦 Stay Strong Ukraine",
           "imageUrl": "https://labnotes.org/content/images/2022/02/image-49-1.jpeg"
-        },
-        {
-          "id": "620af96cd1a79a2953e1299a",
-          "author": "Assaf Arkin",
-          "description": "User Experience\n\nMike Rundle\nMy buddy is an electrician and told me a few months ago that he always leaves the screws in a vertical position on jobs as a sign of craftsmanship. Been thinking ever since what my “vertical screws” equivalent is for product design.\n\n\nKenneth Auchenberg",
-          "link": "https://labnotes.org/collected-links/",
-          "publishedOn": "2022-02-23T18:18:46.000Z",
-          "wordCount": 1001,
-          "title": "Collected Links Feb 23, 2022",
-          "imageUrl": "https://labnotes.org/content/images/2022/02/image-32-1.jpeg"
         }
       ]
     },
@@ -889,6 +919,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/405",
+          "author": null,
+          "description": "🇺🇦 #​405 — March 25, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nAn Introduction to Generics — It’s brief but it’s as official an introduction as it gets with two Go project members introducing generics (as now generally available in Go 1.18) focusing on type parameters, type sets/constraints, and type inference in a well-explained set of examples. Some caution is advised, however, to tread carefully when deploying generic code in production. There’s a 30-minute talk from last year’s GopherCon, too, if you prefer video.\nRobert Griesemer and Ian Lance Taylor \n\n\n  \n  \nImplementing a Toy Version of TLS 1.3 — Julia is well known for her educational blog posts, and she’s currently interested in creating simple versions of various protocols and tools – …",
+          "link": "https://golangweekly.com/issues/405",
+          "publishedOn": "2022-03-25T00:00:00.000Z",
+          "wordCount": 792,
+          "title": "Why Bitly uses Go everywhere",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/404",
           "author": null,

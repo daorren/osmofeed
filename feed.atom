@@ -2,10 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-25T01:26:05.879Z</updated>
+    <updated>2022-03-26T01:24:28.073Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HTML Starter Template – A Basic HTML5 Boilerplate for index.html]]></title>
+        <id>62310caec3e3d106805db8b3</id>
+        <link href="https://www.freecodecamp.org/news/html-starter-template-a-basic-html5-boilerplate-for-index-html/"/>
+        <updated>2022-03-25T23:18:46.000Z</updated>
+        <summary type="html"><![CDATA[HTML has different tags, some of which have semantic meanings. A basic boilerplate for an HTML file looks like this:]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a UX Engineer? User Experience Engineer Role Explained]]></title>
+        <id>602b31e00a2838549dcc6253</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-ux-engineer/"/>
+        <updated>2022-03-25T21:47:17.000Z</updated>
+        <summary type="html"><![CDATA[I am currently a User Experience or UX Engineer for D2iQ. And lots of people ask me what exactly is a UX Engineer.  This question comes from designers and developers alike. So, I figured it was time to write about it to create awareness and demystify the role. This]]></summary>
+        <author>
+            <name>Natalie Pina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java Enum – Enumeration in Java Example]]></title>
+        <id>623c71ec138a19064b0642c4</id>
+        <link href="https://www.freecodecamp.org/news/java-enum-enumeration-in-java-example/"/>
+        <updated>2022-03-25T21:33:55.000Z</updated>
+        <summary type="html"><![CDATA[An enumeration (enum for short) in Java is a special data type which contains a set of predefined constants.  You'll usually use an enum when dealing with values that aren't required to change, like days of the week, seasons of the year, colors, and so on. In this article,]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Color and Text Styles in Figma]]></title>
+        <id>62351427cdcd57069ddfb5e4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-color-and-text-styles-in-figma/"/>
+        <updated>2022-03-25T21:24:53.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll be learning how to create, edit, and use color and text styles in Figma. We'll also learn how to combine color and text styles and use them to create beautiful designs. Styles help you simplify your workflow, keep text and layers consistent, and save valuable time.]]></summary>
+        <author>
+            <name>Ijelekhai Faith Olohijere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Bitly uses Go everywhere]]></title>
+        <id>https://golangweekly.com/issues/405</id>
+        <link href="https://golangweekly.com/issues/405"/>
+        <updated>2022-03-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🇺🇦 #​405 — March 25, 2022
+
+
+Unsubscribe  |  Read on the Web
+
+
+
+The Go Weekly Newsletter
+
+
+
+
+  
+
+
+
+
+
+  
+  
+An Introduction to Generics — It’s brief but it’s as official an introduction as it gets with two Go project members introducing generics (as now generally available in Go 1.18) focusing on type parameters, type sets/constraints, and type inference in a well-explained set of examples. Some caution is advised, however, to tread carefully when deploying generic code in production. There’s a 30-minute talk from last year’s GopherCon, too, if you prefer video.
+Robert Griesemer and Ian Lance Taylor 
+
+
+  
+  
+Implementing a Toy Version of TLS 1.3 — Julia is well known for her educational blog posts, and she’s currently interested in creating simple versions of various protocols and tools – …]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How a freeCodeCamp Student Started a Business and Teaches Kids to Code]]></title>
         <id>6236afa1cdcd57069ddfb9e6</id>
@@ -1123,22 +1199,6 @@ Jay Conrod
 ButterCMS Melts into Your Go App $ ButterCMS.getposts() — ButterCMS is your content backend. Enable your marketing team to update website + app content without needing you. Try the #1 ra…]]></summary>
         <author>
             <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collected Links Feb 23, 2022]]></title>
-        <id>620af96cd1a79a2953e1299a</id>
-        <link href="https://labnotes.org/collected-links/"/>
-        <updated>2022-02-23T18:18:46.000Z</updated>
-        <summary type="html"><![CDATA[User Experience
-
-Mike Rundle
-My buddy is an electrician and told me a few months ago that he always leaves the screws in a vertical position on jobs as a sign of craftsmanship. Been thinking ever since what my “vertical screws” equivalent is for product design.
-
-
-Kenneth Auchenberg]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
