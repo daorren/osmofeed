@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-26T01:24:28.073Z</updated>
+    <updated>2022-03-27T01:36:47.930Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -1154,51 +1154,6 @@ CodeCaptcha.io   What if Captcha, but also a job interview and you have to solve
 Lucas Ou-Yang Fascinating look at the cultural difference. For me what stands is the way in which the salary differences (China vs US)]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The internals of the Go fuzz testing system]]></title>
-        <id>https://golangweekly.com/issues/401</id>
-        <link href="https://golangweekly.com/issues/401"/>
-        <updated>2022-02-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​401 — February 25, 2022
-
-
-Unsubscribe  |  Read on the Web
-
-
-
-Go Weekly
-
-
-
-
-  
-
-
-
-
-
-
-
-
-  
-  
-flamegraph.com: A Site to Share Interactive Flamegraphs — If you’re doing some profiling of your apps with pprof and want to share the resulting flamegraphs, this slimmed down version of Pyroscope is for you. It also includes a feature to diff two flamegraphs.
-Pyroscope 
-
-
-  
-  
-The Internals of Go's New Fuzzing System — While the new fuzz testing feature in 1.18 has gotten a lot of press, no one has dug in and described how it works. Jay, who was part of the team that built it, does just that.
-Jay Conrod 
-
-
-  
-  
-ButterCMS Melts into Your Go App $ ButterCMS.getposts() — ButterCMS is your content backend. Enable your marketing team to update website + app content without needing you. Try the #1 ra…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
         </author>
     </entry>
 </feed>

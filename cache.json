@@ -958,16 +958,6 @@
           "wordCount": 887,
           "title": "A treasure trove of Go history",
           "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/401",
-          "author": null,
-          "description": "#​401 — February 25, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nGo Weekly\n\n\n\n\n  \n\n\n\n\n\n\n\n\n  \n  \nflamegraph.com: A Site to Share Interactive Flamegraphs — If you’re doing some profiling of your apps with pprof and want to share the resulting flamegraphs, this slimmed down version of Pyroscope is for you. It also includes a feature to diff two flamegraphs.\nPyroscope \n\n\n  \n  \nThe Internals of Go's New Fuzzing System — While the new fuzz testing feature in 1.18 has gotten a lot of press, no one has dug in and described how it works. Jay, who was part of the team that built it, does just that.\nJay Conrod \n\n\n  \n  \nButterCMS Melts into Your Go App $ ButterCMS.getposts() — ButterCMS is your content backend. Enable your marketing team to update website + app content without needing you. Try the #1 ra…",
-          "link": "https://golangweekly.com/issues/401",
-          "publishedOn": "2022-02-25T00:00:00.000Z",
-          "wordCount": 748,
-          "title": "The internals of the Go fuzz testing system",
-          "imageUrl": null
         }
       ]
     }
