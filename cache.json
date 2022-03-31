@@ -12,6 +12,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "62418eca138a19064b066d98",
+          "author": "Zubair Idris Aweda",
+          "description": "Building modern web applications usually involves a lot of data. Managing these data (databases) during development and production can be a lot.  This is especially tru if there's more than one developer, and multiple environments where changes have to be manually implemented. Database migrations help developers manage these changes",
+          "link": "https://www.freecodecamp.org/news/easy-database-migrations-in-php-using-phinx/",
+          "publishedOn": "2022-03-30T23:59:31.000Z",
+          "wordCount": 2013,
+          "title": "How to Migrate a Database in PHP Using Phinx",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/0-ddWHLcHqIojSq_GO.png"
+        },
+        {
+          "id": "62442bd2138a19064b06836a",
+          "author": "Kolade Chris",
+          "description": "Branching is an integral part of Git because it lets you work without tampering with code that's already in production. When you finish working with a branch other than main, you'll want to merge it with the main so the feature or bug fix you just integrated will be reflected.",
+          "link": "https://www.freecodecamp.org/news/git-undo-merge-how-to-revert-the-last-merge-commit-in-git/",
+          "publishedOn": "2022-03-30T17:40:00.000Z",
+          "wordCount": 711,
+          "title": "Git Undo Merge – How to Revert the Last Merge Commit in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/puppy-g3ddb72a98_1920.jpg"
+        },
+        {
+          "id": "62418f22138a19064b066da1",
+          "author": "Dragos Ivanov",
+          "description": "I work on an app that removes the background of any image. The app will have a freemium plan, which means that I will offer a free number of credits to all users, and if they need more credits, they will need to buy more. My Android and iOS app",
+          "link": "https://www.freecodecamp.org/news/how-to-schedule-a-task-with-firebase-cloud-functions/",
+          "publishedOn": "2022-03-30T17:14:35.000Z",
+          "wordCount": 1211,
+          "title": "How to Schedule a Task With Firebase Scheduled Cloud Functions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/how-to-schedule-a-task-with-firebase-cloud-functions-1.png"
+        },
+        {
+          "id": "623d7224138a19064b06490a",
+          "author": "Hillary Nyakundi",
+          "description": "In recent years, various tech companies and organizations have started supporting students who have an interest in and passion for tech. Many companies give their premium services to students for free, and others offer discounts on their products. If you're a student, basically all you need to take advantage of",
+          "link": "https://www.freecodecamp.org/news/top-benefits-of-student-email-address/",
+          "publishedOn": "2022-03-30T17:00:46.000Z",
+          "wordCount": 1522,
+          "title": "Top Benefits of a Student Email Address",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Creative-Business-Template-Presentation--1-.png"
+        },
+        {
           "id": "62153d68c4d0d306772ee7ae",
           "author": "Ihechikara Vincent Abba",
           "description": "The SOLID design principles help us create maintainable, reusable, and flexible software designs. Each letter in the acronym SOLID stands for a specific principle.  Here is what each letter in the acronym stands for:  * S: Single responsibility principle.  * O: Open–closed principle.  * L: Liskov",
@@ -788,6 +828,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=113740",
+          "author": "Jordana Cepelewicz",
+          "description": "Lillian Pierce wants to transform access to the world of mathematics, while making headway on problems that bridge the discrete and continuous.            \nThe post In Music and Math, Lillian Pierce Builds Landscapes first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/in-music-and-math-lillian-pierce-builds-landscapes-20220330/",
+          "publishedOn": "2022-03-30T16:05:58.000Z",
+          "wordCount": 2571,
+          "title": "In Music and Math, Lillian Pierce Builds Landscapes",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Lillian-Pierce_520x292.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=113686",
           "author": "Charlie Wood",
