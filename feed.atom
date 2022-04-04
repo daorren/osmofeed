@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-03T01:42:25.503Z</updated>
+    <updated>2022-04-04T01:45:08.101Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — “based on my training and experience”]]></title>
+        <id>6240ca4dcabeea378ed3ee33</id>
+        <link href="https://labnotes.org/weekend-reading-based-on-my-training-and-experience/"/>
+        <updated>2022-04-04T00:52:11.000Z</updated>
+        <summary type="html"><![CDATA[This week we fight the underground, use JIRA to turn lights on/off, explore the dialects of web3, and tell dad jokes.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APIs to generate random user avatars (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/apis-to-generate-random-user-avatars/</id>
+        <link href="https://www.stefanjudis.com/blog/apis-to-generate-random-user-avatars/"/>
+        <updated>2022-04-02T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I'm a tab hoarder. There you have it! I often discover resources and keep their browser tabs open for months. They might come in handy in the future, right?
+Today I'm cleaning up my browser tabs, putting things into my bookmarking system, my blog. So, here are some handy image APIs to generate random user avatars.
+DiceBear avatars
+
+
+
+
+
+          
+            
+DiceBear provides many hash-dependent avatars. Every URL hash (a user id or name) generates a new avatar image.
+The service offers many different avatar style options, too.
+And they'll get bonus points for serving SVGs! 💯
+[Interactive component: visit the article to see it...]
+RoboHash
+
+
+
+
+          
+            
+RoboHash provides hash-dependent avatars, too. They're not serving SVGs but PNGs. Nevertheless, I'm super into the Futurama style!
+[Interactive component: visit the article to see it...]
+LOREM.SPACE
+
+
+
+
+
+          
+            
+LOREM.SPACE offers more than avatar images. They provide movie and music album covers, pizzas, watches and random face pictures. It's a valuable service if you're building a shop or something!
+The service doesn't generate images but redirects you to a different URL when calling their endpoints.
+They receive bonus points for their built-in image resize options!
+[Interactive component: visit the article to see it...]
+Conclusion
+
+I just love that we have all these random APIs available these days! 💙
+I'll try to extend this post in the future. If you know of more avatar APIs, shoot them my way.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Pass Callback Functions to String.replace() in JavaScript]]></title>
         <id>6246e84d138a19064b06a1c9</id>

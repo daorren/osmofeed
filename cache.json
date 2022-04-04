@@ -1126,6 +1126,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "6240ca4dcabeea378ed3ee33",
+          "author": "Assaf Arkin",
+          "description": "This week we fight the underground, use JIRA to turn lights on/off, explore the dialects of web3, and tell dad jokes.",
+          "link": "https://labnotes.org/weekend-reading-based-on-my-training-and-experience/",
+          "publishedOn": "2022-04-04T00:52:11.000Z",
+          "wordCount": 980,
+          "title": "Weekend Reading — “based on my training and experience”",
+          "imageUrl": "https://labnotes.org/content/images/2022/04/image-3-1.jpeg"
+        },
+        {
           "id": "6237cd867e842c4ac4bd9a1c",
           "author": "Assaf Arkin",
           "description": "This week we build a better search engine, print the receipts, munch on a travel taco, and communicate with care.",
@@ -1172,6 +1182,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/apis-to-generate-random-user-avatars/",
+          "author": null,
+          "description": "I'm a tab hoarder. There you have it! I often discover resources and keep their browser tabs open for months. They might come in handy in the future, right?\nToday I'm cleaning up my browser tabs, putting things into my bookmarking system, my blog. So, here are some handy image APIs to generate random user avatars.\nDiceBear avatars\n\n\n\n\n\n          \n            \nDiceBear provides many hash-dependent avatars. Every URL hash (a user id or name) generates a new avatar image.\nThe service offers many different avatar style options, too.\nAnd they'll get bonus points for serving SVGs! 💯\n[Interactive component: visit the article to see it...]\nRoboHash\n\n\n\n\n          \n            \nRoboHash provides hash-dependent avatars, too. They're not serving SVGs but PNGs. Nevertheless, I'm super into the Futurama style!\n[Interactive component: visit the article to see it...]\nLOREM.SPACE\n\n\n\n\n\n          \n            \nLOREM.SPACE offers more than avatar images. They provide movie and music album covers, pizzas, watches and random face pictures. It's a valuable service if you're building a shop or something!\nThe service doesn't generate images but redirects you to a different URL when calling their endpoints.\nThey receive bonus points for their built-in image resize options!\n[Interactive component: visit the article to see it...]\nConclusion\n\nI just love that we have all these random APIs available these days! 💙\nI'll try to extend this post in the future. If you know of more avatar APIs, shoot them my way.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/blog/apis-to-generate-random-user-avatars/",
+          "publishedOn": "2022-04-02T22:00:00.000Z",
+          "wordCount": 384,
+          "title": "APIs to generate random user avatars (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:APIs%20to%20generate%20random%20user%20avatars/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/today-i-learned/how-to-match-html-elements-with-an-indeterminate-state/",
           "author": null,
