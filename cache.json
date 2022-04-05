@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "624515df138a19064b068e7c",
+          "author": "Ukeje Chukwuemeriwo Goodness",
+          "description": "In this article, I'll introduce you to Gonum, a package you can use to perform scientific computations in the Go programming language. Here's what we'll cover in this intermediate tutorial:  * What is Gonum?  * Why use Gonum  * How to install and set up Gonum",
+          "link": "https://www.freecodecamp.org/news/scientific-computing-in-golang-using-gonum/",
+          "publishedOn": "2022-04-04T15:49:21.000Z",
+          "wordCount": 1419,
+          "title": "Scientific Computing in Golang with the Gonum Package",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/freecode_ccexpress.jpeg"
+        },
+        {
+          "id": "6244b25c138a19064b0686d0",
+          "author": "Estefania Cassingena Navone",
+          "description": "Translation is a powerful tool that can change lives. Everyone should have access to free learning resources in their native language.  To achieve this, freeCodeCamp has started translating our curriculum into dozens of world languages, with the help of thousands of volunteers around the world. To honor our translators",
+          "link": "https://www.freecodecamp.org/news/the-freecodecamp-world-translation-summit-2022-join-the-translation-effort/",
+          "publishedOn": "2022-04-04T14:23:26.000Z",
+          "wordCount": 2326,
+          "title": "The freeCodeCamp World Translation Summit 2022 – Join the Translation Effort",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/World-Translation-Summit-Image.png"
+        },
+        {
+          "id": "623f380c138a19064b06605b",
+          "author": "Andrew Brown",
+          "description": "If you are a web-application developer looking to learn how to leverage the cloud or want to become a cloud developer, the ExamPro Cloud Development Environment (EXP-CDE-01) is the first step. What is a Cloud Developer Environment?  A Cloud Developer Environment (CDE) is a:  *  code editor",
+          "link": "https://www.freecodecamp.org/news/exampro-cloud-developer-environment-certification-gitpod-course/",
+          "publishedOn": "2022-04-04T13:14:49.000Z",
+          "wordCount": 1169,
+          "title": "ExamPro Cloud Developer Environment Certification — Pass the Exam with This 12 Hour Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/gitpod-1.png"
+        },
+        {
           "id": "6246e84d138a19064b06a1c9",
           "author": "Dillion Megida",
           "description": "Did you know that the string .replace() method accepts a callback function? I just discovered it today and thought I'd share. What do you need this function for? Why does it exist? I'll answer all these questions as you go through this article. The replace() Method The replace() string method",
@@ -939,6 +969,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=113816",
+          "author": "Rachel Crowell",
+          "description": "The result could help researchers answer a larger question about flattening objects from the fourth dimension to the third dimension.             \nThe post Father-Son Team Solves Geometry Problem With Infinite Folds first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/father-son-team-solves-geometry-problem-with-infinite-folds-20220404/",
+          "publishedOn": "2022-04-04T15:30:31.000Z",
+          "wordCount": 1392,
+          "title": "Father-Son Team Solves Geometry Problem With Infinite Folds",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/04/Flattening_Polyhedra_1200_Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=113773",
           "author": "Nicole Yunger Halpern",
           "description": "Thanks to the power of fluctuation relations, physicists are taking the second law of thermodynamics to settings once thought impossible.            \nThe post Beyond the Second Law first appeared on Quanta Magazine",
@@ -1182,6 +1222,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-61/",
+          "author": null,
+          "description": "Happy 404 day, friends!\n\nYou might have noticed I skipped last week's Web Weekly. Sitting in between moving boxes got me. Every box I unpacked just made more mess! But I'm almost done moving into my new place... 🤞\nI'll also switch to scheduled sending starting next week. Web Weekly will hit your inbox around 8 AM CET every Monday from now on! 🎉\nAnd lastly, welcome to the 54 new subscribers since the last edition! I'm super excited to have you around! 👋\nAnd with this, today you'll learn about:\nmany unknown HTML tricks (there's some good stuff in this edition)\nCSS layouts\nmessy keyboard JavaScript events\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nOn a personal note\n\n\n          \n            \nZell (who you might know from his blog) and I jumped on a call to t…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-61/",
+          "publishedOn": "2022-04-03T22:00:00.000Z",
+          "wordCount": 1129,
+          "title": "Web Weekly #61 (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252361/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/apis-to-generate-random-user-avatars/",
           "author": null,
