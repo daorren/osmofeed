@@ -2,10 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-05T01:35:54.529Z</updated>
+    <updated>2022-04-06T01:39:03.420Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Command Line for Beginners – How to Use the Terminal Like a Pro]]></title>
+        <id>6244f93a138a19064b068b9e</id>
+        <link href="https://www.freecodecamp.org/news/command-line-for-beginners/"/>
+        <updated>2022-04-05T16:45:18.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we'll take a good look at the command line (also known as the CLI, console, terminal or shell). The command line is one of the most useful and efficient tools we have as developers and as computer users in general. But using it can feel]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mitochondria Double as Tiny Lenses in the Eye]]></title>
+        <id>https://www.quantamagazine.org/?p=113850</id>
+        <link href="https://www.quantamagazine.org/mitochondria-double-as-tiny-lenses-in-the-eye-20220405/"/>
+        <updated>2022-04-05T15:48:56.000Z</updated>
+        <summary type="html"><![CDATA[The optical properties of mitochondrial bundles in the retina may improve how efficiently the eye captures light.             
+The post Mitochondria Double as Tiny Lenses in the Eye first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Yasemin Saplakoglu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Package Manager – Complete Guide to NPM and Yarn]]></title>
+        <id>624b0547ac55f60686c2d2e1</id>
+        <link href="https://www.freecodecamp.org/news/javascript-package-manager-npm-and-yarn/"/>
+        <updated>2022-04-05T00:08:08.000Z</updated>
+        <summary type="html"><![CDATA[A package manager is a tool developers use to automate finding, downloading, installing, configuring, upgrading, and removing a system's packages. This article will show you all you need to get started with package managers like NPM and Yarn. But why exactly do we need a package manager in our development]]></summary>
+        <author>
+            <name>Oluwatobi Sofela</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Beginner's Guide to Sass]]></title>
+        <id>6233c160cdcd57069ddfadb8</id>
+        <link href="https://www.freecodecamp.org/news/the-beginners-guide-to-sass/"/>
+        <updated>2022-04-04T23:39:31.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered what SASS stands for? Or perhaps you already know what it is but haven't taken the time to study and use it. Whether you're learning about it for the first time, or want to brush up on your knowledge of the subject, this is the article]]></summary>
+        <author>
+            <name>Israel Mitolu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Types of Hard Drives – SATA, PATA, SCSI, and SSD]]></title>
+        <id>624ad0f4ac55f60686c2d118</id>
+        <link href="https://www.freecodecamp.org/news/types-of-hard-drives-sata-pata-scsi-and-more-2/"/>
+        <updated>2022-04-04T23:17:35.000Z</updated>
+        <summary type="html"><![CDATA[A hard drive is a non-volatile hardware component on a computer that acts as the storage for all digital content. It holds program files, documents, pictures, videos, music, and more. The non-volatile nature of hard drives means they don’t lose data, even if power is lost. Due to this, they]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make an Image Search App in React using the Unsplash API]]></title>
+        <id>6249d59dac55f60686c2ce11</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-an-image-search-app-in-react/"/>
+        <updated>2022-04-04T22:19:13.000Z</updated>
+        <summary type="html"><![CDATA[Unsplash is a site where you can download free and unlicensed images and use them as you see fit. In this tutorial, we will make an Image Search App using the Unsplash API to get access to its enormous collection of images and also download them. Before starting the development]]></summary>
+        <author>
+            <name>Ateev Duggal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Project – How to Build a Wordle Clone using Python and Rich]]></title>
+        <id>624a520eac55f60686c2cfa0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-wordle-clone-using-python-and-rich/"/>
+        <updated>2022-04-04T20:21:41.000Z</updated>
+        <summary type="html"><![CDATA[Wordle is a popular game where you guess a five-letter word in six tries. After each guess, the color of the tiles will change to show how close your guess was to the word.  It is similar to the Hangman game [https://ireadblog.com/posts/124/hangman-game-using-python] which I've already shown you how to]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Mount Volume – How To Mount a Local Directory]]></title>
+        <id>62402130138a19064b0666c6</id>
+        <link href="https://www.freecodecamp.org/news/docker-mount-volume-guide-how-to-mount-a-local-directory/"/>
+        <updated>2022-04-04T20:08:50.000Z</updated>
+        <summary type="html"><![CDATA[Containers make software engineering easier and more efficient, and Docker [https://www.docker.com/] containers are popular and easy to use.  Containers are essential for local development. They let you test-run your applications in local environments and start building out the required infrastructure. Docker containers are immutable by nature. This means that]]></summary>
+        <author>
+            <name>Sebastian Sigl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thunder Client – An Alternative Way to Test Restful APIs]]></title>
+        <id>623646bccdcd57069ddfb98f</id>
+        <link href="https://www.freecodecamp.org/news/thunder-client-for-vscode/"/>
+        <updated>2022-04-04T19:09:46.000Z</updated>
+        <summary type="html"><![CDATA[This article will teach you an alternative approach to testing client APIs using Thunder Client, an open-source extension available on VS Code marketplace [https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client] .  You will not need to download any tools to do this, since you can get it done right within VS Code. The article covers]]></summary>
+        <author>
+            <name>Sule-Balogun Olanrewaju Ganiu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scientific Computing in Golang with the Gonum Package]]></title>
         <id>624515df138a19064b068e7c</id>
@@ -1596,33 +1687,6 @@ Browser support info for Dialog element
          …]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In New Math Proofs, Artificial Intelligence Plays to Win]]></title>
-        <id>https://www.quantamagazine.org/?p=112851</id>
-        <link href="https://www.quantamagazine.org/in-new-math-proofs-artificial-intelligence-plays-to-win-20220307/"/>
-        <updated>2022-03-07T12:56:25.000Z</updated>
-        <summary type="html"><![CDATA[A new computer program fashioned after artificial intelligence systems like AlphaGo has solved several open problems in combinatorics and graph theory.            
-The post In New Math Proofs, Artificial Intelligence Plays to Win first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Leila Sloman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Panic carefully]]></title>
-        <id>621c0e2fd2f1e329f893318b</id>
-        <link href="https://labnotes.org/weekend-reading-panic-carefully/"/>
-        <updated>2022-03-07T01:27:09.000Z</updated>
-        <summary type="html"><![CDATA[via 𝔻𝕖𝕖𝕡 𝕋𝕙𝕠𝕥
-
-Tech Stuff
-
-Socket - Secure your JavaScript supply chain I hope this works as advertised:
-Socket also uses static analysis to detect usage of privileged APIs such as shell, filesystem, eval(), and environment variables.
-Beyond capability detection, we also detect telltale]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,86 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6244f93a138a19064b068b9e",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article we'll take a good look at the command line (also known as the CLI, console, terminal or shell). The command line is one of the most useful and efficient tools we have as developers and as computer users in general. But using it can feel",
+          "link": "https://www.freecodecamp.org/news/command-line-for-beginners/",
+          "publishedOn": "2022-04-05T16:45:18.000Z",
+          "wordCount": 5633,
+          "title": "Command Line for Beginners – How to Use the Terminal Like a Pro",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-pixabay-207580.jpg"
+        },
+        {
+          "id": "624b0547ac55f60686c2d2e1",
+          "author": "Oluwatobi Sofela",
+          "description": "A package manager is a tool developers use to automate finding, downloading, installing, configuring, upgrading, and removing a system's packages. This article will show you all you need to get started with package managers like NPM and Yarn. But why exactly do we need a package manager in our development",
+          "link": "https://www.freecodecamp.org/news/javascript-package-manager-npm-and-yarn/",
+          "publishedOn": "2022-04-05T00:08:08.000Z",
+          "wordCount": 4226,
+          "title": "JavaScript Package Manager – Complete Guide to NPM and Yarn",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/package-manager-npm-and-yarn-explained-curology-pDsmoI5j3B8-unsplash.jpg"
+        },
+        {
+          "id": "6233c160cdcd57069ddfadb8",
+          "author": "Israel Mitolu",
+          "description": "Have you ever wondered what SASS stands for? Or perhaps you already know what it is but haven't taken the time to study and use it. Whether you're learning about it for the first time, or want to brush up on your knowledge of the subject, this is the article",
+          "link": "https://www.freecodecamp.org/news/the-beginners-guide-to-sass/",
+          "publishedOn": "2022-04-04T23:39:31.000Z",
+          "wordCount": 2181,
+          "title": "The Beginner's Guide to Sass",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/The-Beginner-s-Guide-to-SASS.png"
+        },
+        {
+          "id": "624ad0f4ac55f60686c2d118",
+          "author": "Kolade Chris",
+          "description": "A hard drive is a non-volatile hardware component on a computer that acts as the storage for all digital content. It holds program files, documents, pictures, videos, music, and more. The non-volatile nature of hard drives means they don’t lose data, even if power is lost. Due to this, they",
+          "link": "https://www.freecodecamp.org/news/types-of-hard-drives-sata-pata-scsi-and-more-2/",
+          "publishedOn": "2022-04-04T23:17:35.000Z",
+          "wordCount": 1039,
+          "title": "Types of Hard Drives – SATA, PATA, SCSI, and SSD",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/hard-drive-1110813_1280.png"
+        },
+        {
+          "id": "6249d59dac55f60686c2ce11",
+          "author": "Ateev Duggal",
+          "description": "Unsplash is a site where you can download free and unlicensed images and use them as you see fit. In this tutorial, we will make an Image Search App using the Unsplash API to get access to its enormous collection of images and also download them. Before starting the development",
+          "link": "https://www.freecodecamp.org/news/how-to-make-an-image-search-app-in-react/",
+          "publishedOn": "2022-04-04T22:19:13.000Z",
+          "wordCount": 2399,
+          "title": "How to Make an Image Search App in React using the Unsplash API",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Unsplash.jpg"
+        },
+        {
+          "id": "624a520eac55f60686c2cfa0",
+          "author": "Ashutosh Krishna",
+          "description": "Wordle is a popular game where you guess a five-letter word in six tries. After each guess, the color of the tiles will change to show how close your guess was to the word.  It is similar to the Hangman game [https://ireadblog.com/posts/124/hangman-game-using-python] which I've already shown you how to",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-wordle-clone-using-python-and-rich/",
+          "publishedOn": "2022-04-04T20:21:41.000Z",
+          "wordCount": 1978,
+          "title": "Python Project – How to Build a Wordle Clone using Python and Rich",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/wordle_ar8gck.png"
+        },
+        {
+          "id": "62402130138a19064b0666c6",
+          "author": "Sebastian Sigl",
+          "description": "Containers make software engineering easier and more efficient, and Docker [https://www.docker.com/] containers are popular and easy to use.  Containers are essential for local development. They let you test-run your applications in local environments and start building out the required infrastructure. Docker containers are immutable by nature. This means that",
+          "link": "https://www.freecodecamp.org/news/docker-mount-volume-guide-how-to-mount-a-local-directory/",
+          "publishedOn": "2022-04-04T20:08:50.000Z",
+          "wordCount": 1004,
+          "title": "Docker Mount Volume – How To Mount a Local Directory",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Docker-mount-volume-guide.png"
+        },
+        {
+          "id": "623646bccdcd57069ddfb98f",
+          "author": "Sule-Balogun Olanrewaju Ganiu",
+          "description": "This article will teach you an alternative approach to testing client APIs using Thunder Client, an open-source extension available on VS Code marketplace [https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client] .  You will not need to download any tools to do this, since you can get it done right within VS Code. The article covers",
+          "link": "https://www.freecodecamp.org/news/thunder-client-for-vscode/",
+          "publishedOn": "2022-04-04T19:09:46.000Z",
+          "wordCount": 1644,
+          "title": "Thunder Client – An Alternative Way to Test Restful APIs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-greg-2418664.jpg"
+        },
+        {
           "id": "624515df138a19064b068e7c",
           "author": "Ukeje Chukwuemeriwo Goodness",
           "description": "In this article, I'll introduce you to Gonum, a package you can use to perform scientific computations in the Go programming language. Here's what we'll cover in this intermediate tutorial:  * What is Gonum?  * Why use Gonum  * How to install and set up Gonum",
@@ -969,6 +1049,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=113850",
+          "author": "Yasemin Saplakoglu",
+          "description": "The optical properties of mitochondrial bundles in the retina may improve how efficiently the eye captures light.             \nThe post Mitochondria Double as Tiny Lenses in the Eye first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/mitochondria-double-as-tiny-lenses-in-the-eye-20220405/",
+          "publishedOn": "2022-04-05T15:48:56.000Z",
+          "wordCount": 1417,
+          "title": "Mitochondria Double as Tiny Lenses in the Eye",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/04/Mitochondria_microlens_1200_Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=113816",
           "author": "Rachel Crowell",
           "description": "The result could help researchers answer a larger question about flattening objects from the fourth dimension to the third dimension.             \nThe post Father-Son Team Solves Geometry Problem With Infinite Folds first appeared on Quanta Magazine",
@@ -1147,16 +1237,6 @@
           "wordCount": 1531,
           "title": "Peptides on Stardust May Have Provided a Shortcut to Life",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Space-Peptides_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=112851",
-          "author": "Leila Sloman",
-          "description": "A new computer program fashioned after artificial intelligence systems like AlphaGo has solved several open problems in combinatorics and graph theory.            \nThe post In New Math Proofs, Artificial Intelligence Plays to Win first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/in-new-math-proofs-artificial-intelligence-plays-to-win-20220307/",
-          "publishedOn": "2022-03-07T12:56:25.000Z",
-          "wordCount": 1354,
-          "title": "In New Math Proofs, Artificial Intelligence Plays to Win",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Counterexamle_1200_Social.jpg"
         }
       ]
     },
@@ -1204,16 +1284,6 @@
           "wordCount": 982,
           "title": "Weekend Reading — ☕  Decafurious",
           "imageUrl": "https://labnotes.org/content/images/2022/03/image-14-1.jpeg"
-        },
-        {
-          "id": "621c0e2fd2f1e329f893318b",
-          "author": "Assaf Arkin",
-          "description": "via 𝔻𝕖𝕖𝕡 𝕋𝕙𝕠𝕥\n\nTech Stuff\n\nSocket - Secure your JavaScript supply chain I hope this works as advertised:\nSocket also uses static analysis to detect usage of privileged APIs such as shell, filesystem, eval(), and environment variables.\nBeyond capability detection, we also detect telltale",
-          "link": "https://labnotes.org/weekend-reading-panic-carefully/",
-          "publishedOn": "2022-03-07T01:27:09.000Z",
-          "wordCount": 627,
-          "title": "Weekend Reading — Panic carefully",
-          "imageUrl": "https://labnotes.org/content/images/2022/03/image-4-1.jpeg"
         }
       ]
     },
