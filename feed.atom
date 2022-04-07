@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-06T01:39:03.420Z</updated>
+    <updated>2022-04-07T01:35:34.050Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untangling Why Knots Are Important]]></title>
+        <id>https://www.quantamagazine.org/?p=112368</id>
+        <link href="https://www.quantamagazine.org/untangling-why-knots-are-important-20220406/"/>
+        <updated>2022-04-06T21:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Steven Strogatz explores the mysteries of knots with the mathematicians Colin Adams and Lisa Piccirillo.            
+The post Untangling Why Knots Are Important first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steven Strogatz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Identify ‘Master Problem’ Underlying All Cryptography]]></title>
+        <id>https://www.quantamagazine.org/?p=113874</id>
+        <link href="https://www.quantamagazine.org/researchers-identify-master-problem-underlying-all-cryptography-20220406/"/>
+        <updated>2022-04-06T16:58:20.000Z</updated>
+        <summary type="html"><![CDATA[The existence of secure cryptography depends on one of the oldest questions in computational complexity.            
+The post Researchers Identify ‘Master Problem’ Underlying All Cryptography first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Erica Klarreich</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Command Line for Beginners – How to Use the Terminal Like a Pro]]></title>
         <id>6244f93a138a19064b068b9e</id>
@@ -1656,37 +1678,6 @@ The post Will Transformers Take Over Artificial Intelligence? first appeared on 
 The post Math’s ‘Oldest Problem Ever’ Gets a New Answer first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Jordana Cepelewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peptides on Stardust May Have Provided a Shortcut to Life]]></title>
-        <id>https://www.quantamagazine.org/?p=113108</id>
-        <link href="https://www.quantamagazine.org/peptides-on-stardust-may-have-provided-a-shortcut-to-life-20220308/"/>
-        <updated>2022-03-08T12:35:21.000Z</updated>
-        <summary type="html"><![CDATA[The discovery that short peptides can form spontaneously on cosmic dust hints at more of a role for them in the earliest stages of life’s origin, on Earth or elsewhere.            
-The post Peptides on Stardust May Have Provided a Shortcut to Life first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Yasemin Saplakoglu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A look at the dialog element's super powers (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/a-look-at-the-dialog-elements-super-powers/</id>
-        <link href="https://www.stefanjudis.com/blog/a-look-at-the-dialog-elements-super-powers/"/>
-        <updated>2022-03-07T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A long time ago in 2014, the dialog element landed in Chromium 37. The idea behind the HTML element was to make it easier to build modals, dialogs and popups.
-The specification defines the element as follows:
-The dialog element represents a part of an application that a user interacts with to perform a task, for example a dialog box, inspector, or window.
-We have 2022 now and almost made it to be able to use the dialog element! 🎉 In March, starting with Safari 15.4 (Safari release notes) and Firefox 98 (Firefox release notes), both missing browsers ship the element that's in Chromium for ages.
-This progress brings us to a cross-browser-supported dialog element in all evergreen browsers soon!
-
-        
-MDN Compat Data (source)
-Browser support info for Dialog element 
-            
-         …]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

@@ -1049,6 +1049,26 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=112368",
+          "author": "Steven Strogatz",
+          "description": "Steven Strogatz explores the mysteries of knots with the mathematicians Colin Adams and Lisa Piccirillo.            \nThe post Untangling Why Knots Are Important first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/untangling-why-knots-are-important-20220406/",
+          "publishedOn": "2022-04-06T21:00:12.000Z",
+          "wordCount": 9027,
+          "title": "Untangling Why Knots Are Important",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/04/JOY_OF_Y-E2_1200_Social_logo.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=113874",
+          "author": "Erica Klarreich",
+          "description": "The existence of secure cryptography depends on one of the oldest questions in computational complexity.            \nThe post Researchers Identify ‘Master Problem’ Underlying All Cryptography first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/researchers-identify-master-problem-underlying-all-cryptography-20220406/",
+          "publishedOn": "2022-04-06T16:58:20.000Z",
+          "wordCount": 2744,
+          "title": "Researchers Identify ‘Master Problem’ Underlying All Cryptography",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/04/OneWay_1200_social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=113850",
           "author": "Yasemin Saplakoglu",
           "description": "The optical properties of mitochondrial bundles in the retina may improve how efficiently the eye captures light.             \nThe post Mitochondria Double as Tiny Lenses in the Eye first appeared on Quanta Magazine",
@@ -1227,16 +1247,6 @@
           "wordCount": 1682,
           "title": "Math’s ‘Oldest Problem Ever’ Gets a New Answer",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/One_1200_social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=113108",
-          "author": "Yasemin Saplakoglu",
-          "description": "The discovery that short peptides can form spontaneously on cosmic dust hints at more of a role for them in the earliest stages of life’s origin, on Earth or elsewhere.            \nThe post Peptides on Stardust May Have Provided a Shortcut to Life first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/peptides-on-stardust-may-have-provided-a-shortcut-to-life-20220308/",
-          "publishedOn": "2022-03-08T12:35:21.000Z",
-          "wordCount": 1531,
-          "title": "Peptides on Stardust May Have Provided a Shortcut to Life",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Space-Peptides_1200_Social.jpg"
         }
       ]
     },
@@ -1381,16 +1391,6 @@
           "wordCount": 674,
           "title": "VS Code supports JSDoc-powered type checking (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:VS%20Code%20supports%20JSDoc-powered%20type%20checking/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/a-look-at-the-dialog-elements-super-powers/",
-          "author": null,
-          "description": "A long time ago in 2014, the dialog element landed in Chromium 37. The idea behind the HTML element was to make it easier to build modals, dialogs and popups.\nThe specification defines the element as follows:\nThe dialog element represents a part of an application that a user interacts with to perform a task, for example a dialog box, inspector, or window.\nWe have 2022 now and almost made it to be able to use the dialog element! 🎉 In March, starting with Safari 15.4 (Safari release notes) and Firefox 98 (Firefox release notes), both missing browsers ship the element that's in Chromium for ages.\nThis progress brings us to a cross-browser-supported dialog element in all evergreen browsers soon!\n\n        \nMDN Compat Data (source)\nBrowser support info for Dialog element \n            \n         …",
-          "link": "https://www.stefanjudis.com/blog/a-look-at-the-dialog-elements-super-powers/",
-          "publishedOn": "2022-03-07T23:00:00.000Z",
-          "wordCount": 1239,
-          "title": "A look at the dialog element's super powers (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20look%20at%20the%20dialog%20element's%20super%20powers/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
