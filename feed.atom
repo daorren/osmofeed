@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-07T01:35:34.050Z</updated>
+    <updated>2022-04-08T01:41:45.858Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Newly Measured Particle Seems Heavy Enough to Break Known Physics]]></title>
+        <id>https://www.quantamagazine.org/?p=113941</id>
+        <link href="https://www.quantamagazine.org/fermilab-says-particle-is-heavy-enough-to-break-the-standard-model-20220407/"/>
+        <updated>2022-04-07T18:00:02.000Z</updated>
+        <summary type="html"><![CDATA[A new analysis of W bosons suggests these particles are significantly heavier than predicted by the Standard Model of particle physics.            
+The post Newly Measured Particle Seems Heavy Enough to Break Known Physics first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Charlie Wood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design a Scalable Mobile App With Figma Variants]]></title>
+        <id>624ca9a4ac55f60686c2e7f9</id>
+        <link href="https://www.freecodecamp.org/news/design-a-scalable-mobile-app-with-figma-variants/"/>
+        <updated>2022-04-07T12:15:32.000Z</updated>
+        <summary type="html"><![CDATA[Figma is a popular graphics editor and prototyping tool. Figma variants can streamline your frontend design process by allowing you to group and organize similar components into a single container. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn how to use Figma variants]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[flushdns – How to Flush DNS with the Windows ipconfig /flushdns Command]]></title>
+        <id>624bfc9bac55f60686c2e0ff</id>
+        <link href="https://www.freecodecamp.org/news/flushdns-how-to-flush-dns-with-the-windows-ipconfig-flushdns-command/"/>
+        <updated>2022-04-07T03:41:13.000Z</updated>
+        <summary type="html"><![CDATA[You've probably noticed that, after visiting a website for the first time, the website loads much quicker the next time you visit. This is because your operating system, or browser in the case of Google Chrome, cache IP addresses and DNS (Domain Name System) information of any website you visit.]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IAM – Policy, Access Roles, Resources Explained, and Why They're Useful]]></title>
+        <id>62435e6e138a19064b068027</id>
+        <link href="https://www.freecodecamp.org/news/the-introduction-to-iam-i-wish-i-had/"/>
+        <updated>2022-04-07T02:50:41.000Z</updated>
+        <summary type="html"><![CDATA[IAM, or Identity and Access Management, is one of the most common terms you'll hear in cloud-native environments. But what does it do? And if you're already familiar with IAM, how long did it take you to fully understand it? I will explain the main concepts behind this massive family]]></summary>
+        <author>
+            <name>Periklis Gkolias</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untangling Why Knots Are Important]]></title>
+        <id>https://www.quantamagazine.org/?p=112368</id>
+        <link href="https://www.quantamagazine.org/why-knots-matter-in-math-and-science-20220406/"/>
+        <updated>2022-04-06T21:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Steven Strogatz explores the mysteries of knots with the mathematicians Colin Adams and Lisa Piccirillo.            
+The post Untangling Why Knots Are Important first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steven Strogatz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untangling Why Knots Are Important]]></title>
         <id>https://www.quantamagazine.org/?p=112368</id>
@@ -1667,17 +1719,6 @@ The post Will Transformers Take Over Artificial Intelligence? first appeared on 
         <summary type="html"><![CDATA[One of the most essential concepts that any modern JavaScript developer needs to understand is state.  If you don't understand state, you're not going to be able to fully use and take advantage of powerful libraries such as React to build your applications.  Let's see exactly what state]]></summary>
         <author>
             <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Math’s ‘Oldest Problem Ever’ Gets a New Answer]]></title>
-        <id>https://www.quantamagazine.org/?p=112984</id>
-        <link href="https://www.quantamagazine.org/maths-oldest-problem-ever-gets-a-new-answer-20220309/"/>
-        <updated>2022-03-09T12:55:13.000Z</updated>
-        <summary type="html"><![CDATA[A new proof significantly strengthens a decades-old result about the ubiquity of ways to represent whole numbers as sums of unit fractions.            
-The post Math’s ‘Oldest Problem Ever’ Gets a New Answer first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Jordana Cepelewicz</name>
         </author>
     </entry>
 </feed>

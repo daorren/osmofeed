@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "624ca9a4ac55f60686c2e7f9",
+          "author": "Beau Carnes",
+          "description": "Figma is a popular graphics editor and prototyping tool. Figma variants can streamline your frontend design process by allowing you to group and organize similar components into a single container. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn how to use Figma variants",
+          "link": "https://www.freecodecamp.org/news/design-a-scalable-mobile-app-with-figma-variants/",
+          "publishedOn": "2022-04-07T12:15:32.000Z",
+          "wordCount": 528,
+          "title": "Design a Scalable Mobile App With Figma Variants",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/figmavarients.png"
+        },
+        {
+          "id": "624bfc9bac55f60686c2e0ff",
+          "author": "Kolade Chris",
+          "description": "You've probably noticed that, after visiting a website for the first time, the website loads much quicker the next time you visit. This is because your operating system, or browser in the case of Google Chrome, cache IP addresses and DNS (Domain Name System) information of any website you visit.",
+          "link": "https://www.freecodecamp.org/news/flushdns-how-to-flush-dns-with-the-windows-ipconfig-flushdns-command/",
+          "publishedOn": "2022-04-07T03:41:13.000Z",
+          "wordCount": 754,
+          "title": "flushdns – How to Flush DNS with the Windows ipconfig /flushdns Command",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/domain-names-1772240_1920.png"
+        },
+        {
+          "id": "62435e6e138a19064b068027",
+          "author": "Periklis Gkolias",
+          "description": "IAM, or Identity and Access Management, is one of the most common terms you'll hear in cloud-native environments. But what does it do? And if you're already familiar with IAM, how long did it take you to fully understand it? I will explain the main concepts behind this massive family",
+          "link": "https://www.freecodecamp.org/news/the-introduction-to-iam-i-wish-i-had/",
+          "publishedOn": "2022-04-07T02:50:41.000Z",
+          "wordCount": 1463,
+          "title": "AWS IAM – Policy, Access Roles, Resources Explained, and Why They're Useful",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/g7In5Xr-2.jpg"
+        },
+        {
           "id": "6244f93a138a19064b068b9e",
           "author": "Germán Cocca",
           "description": "Hi everyone! In this article we'll take a good look at the command line (also known as the CLI, console, terminal or shell). The command line is one of the most useful and efficient tools we have as developers and as computer users in general. But using it can feel",
@@ -1049,6 +1079,26 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=113941",
+          "author": "Charlie Wood",
+          "description": "A new analysis of W bosons suggests these particles are significantly heavier than predicted by the Standard Model of particle physics.            \nThe post Newly Measured Particle Seems Heavy Enough to Break Known Physics first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/fermilab-says-particle-is-heavy-enough-to-break-the-standard-model-20220407/",
+          "publishedOn": "2022-04-07T18:00:02.000Z",
+          "wordCount": 1971,
+          "title": "Newly Measured Particle Seems Heavy Enough to Break Known Physics",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/04/W-Boson_1200_Social.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=112368",
+          "author": "Steven Strogatz",
+          "description": "Steven Strogatz explores the mysteries of knots with the mathematicians Colin Adams and Lisa Piccirillo.            \nThe post Untangling Why Knots Are Important first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/why-knots-matter-in-math-and-science-20220406/",
+          "publishedOn": "2022-04-06T21:00:12.000Z",
+          "wordCount": 9029,
+          "title": "Untangling Why Knots Are Important",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/04/JOY_OF_Y-E2_1200_Social_logo.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=112368",
           "author": "Steven Strogatz",
           "description": "Steven Strogatz explores the mysteries of knots with the mathematicians Colin Adams and Lisa Piccirillo.            \nThe post Untangling Why Knots Are Important first appeared on Quanta Magazine",
@@ -1237,16 +1287,6 @@
           "wordCount": 2364,
           "title": "Will Transformers Take Over Artificial Intelligence?",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Transformers_1200_social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=112984",
-          "author": "Jordana Cepelewicz",
-          "description": "A new proof significantly strengthens a decades-old result about the ubiquity of ways to represent whole numbers as sums of unit fractions.            \nThe post Math’s ‘Oldest Problem Ever’ Gets a New Answer first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/maths-oldest-problem-ever-gets-a-new-answer-20220309/",
-          "publishedOn": "2022-03-09T12:55:13.000Z",
-          "wordCount": 1682,
-          "title": "Math’s ‘Oldest Problem Ever’ Gets a New Answer",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/One_1200_social.jpg"
         }
       ]
     },
