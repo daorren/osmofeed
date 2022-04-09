@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-08T01:41:45.858Z</updated>
+    <updated>2022-04-09T01:34:16.543Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Secrets of Zugzwang in Chess, Math and Pizzas]]></title>
+        <id>https://www.quantamagazine.org/?p=113973</id>
+        <link href="https://www.quantamagazine.org/the-secrets-of-zugzwang-in-chess-math-and-pizzas-20220408/"/>
+        <updated>2022-04-08T16:20:10.000Z</updated>
+        <summary type="html"><![CDATA[Learn the magic and math of how to win games when your opponent goes first.             
+The post The Secrets of Zugzwang in Chess, Math and Pizzas first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Pradeep Mutalik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Force Delete a File – Windows Command Prompt cmd delete]]></title>
+        <id>624c24d2ac55f60686c2e356</id>
+        <link href="https://www.freecodecamp.org/news/how-to-force-delete-a-file-windows-command-prompt-cmd-delete/"/>
+        <updated>2022-04-08T07:11:26.000Z</updated>
+        <summary type="html"><![CDATA[On a Windows computer, you might want to delete files to free up disk space, or because you don't want the file(s) on your computer anymore. But sometimes, it seems impossible to delete a file for various reasons. These include the file being open in another program, lack of write]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Break The Code 2.0: A Browser Game Where You Solve Missions Using Coding Skills]]></title>
+        <id>624f8558ac55f60686c2f79a</id>
+        <link href="https://www.freecodecamp.org/news/break-the-code-2-game/"/>
+        <updated>2022-04-08T03:38:54.000Z</updated>
+        <summary type="html"><![CDATA[Break The Code 2.0 is a new browser game that sends you back in time to the year 1999. You complete codebreaking missions using your programming knowledge and your puzzle-solving intuition. The game is spread across 4 drives worth of missions:  * The /g1/ drive – "BoxOfChocolates"  *]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Going to work(spaces)]]></title>
+        <id>https://golangweekly.com/issues/407</id>
+        <link href="https://golangweekly.com/issues/407"/>
+        <updated>2022-04-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🇺🇦 #​407 — April 8, 2022
+
+
+Unsubscribe  |  Read on the Web
+
+
+
+The Go Weekly Newsletter
+
+
+
+
+  
+
+
+
+
+
+  
+  
+Getting Familiar with Workspaces — Generics schmerenics.. it’s time for Go 1.18’s other big feature to have its day in the sun: workspaces. “Workspaces in Go 1.18 let you work on multiple modules simultaneously without having to edit go.mod files for each module.” Beth breaks down how to get started.
+Beth Brown (Go Team) 
+
+
+  
+  
+Gophers - Opportunity is Knocking — We’re a premier software engineering firm looking for mid to senior level engineers to help us develop advanced software solutions and applications in Go. Got at least 1 year of professional Go experience and located in the Americas or Western Europe? We want to hear from you.
+Ardan Labs sponsor
+
+
+  
+  
+Faster Sorting with …]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newly Measured Particle Seems Heavy Enough to Break Known Physics]]></title>
         <id>https://www.quantamagazine.org/?p=113941</id>
@@ -45,6 +118,16 @@ The post Newly Measured Particle Seems Heavy Enough to Break Known Physics first
         <summary type="html"><![CDATA[IAM, or Identity and Access Management, is one of the most common terms you'll hear in cloud-native environments. But what does it do? And if you're already familiar with IAM, how long did it take you to fully understand it? I will explain the main concepts behind this massive family]]></summary>
         <author>
             <name>Periklis Gkolias</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to do a Hanging Indent in Google Docs]]></title>
+        <id>6250a2faac55f60686c2ff69</id>
+        <link href="https://www.freecodecamp.org/news/how-to-do-a-hanging-indent-in-google-docs/"/>
+        <updated>2022-04-06T21:02:00.000Z</updated>
+        <summary type="html"><![CDATA[A hanging indent is an easy way to make your documents look more professional. Google Docs has built in functionality to create this. What is a Hanging Indent? A hanging indent is a type of indentation where the first line of a paragraph is not indented, but subsequent lines in]]></summary>
+        <author>
+            <name>Alex Garcia</name>
         </author>
     </entry>
     <entry>
@@ -1689,36 +1772,6 @@ TypeScript is not valid JavaScript so that the provided TypeScript tooling const
 The post Will Transformers Take Over Artificial Intelligence? first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Stephen Ornes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Developed My First Adventure Game]]></title>
-        <id>60c5b9d1d3126007592d75b4</id>
-        <link href="https://www.freecodecamp.org/news/how-i-developed-my-first-game/"/>
-        <updated>2022-03-09T20:05:24.000Z</updated>
-        <summary type="html"><![CDATA[It's hard to tell exactly when my journey creating Occulto, a point and click adventure game, started. But I have a significant date in mind: 3 May 2018. Here's one thing that got the ball rolling: > Luigi: Hello Andrea. Sorry to bother you. I would like to learn how]]></summary>
-        <author>
-            <name>Andrea Koutifaris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[git config – How to Configure Git Settings to Improve Your Development Workflow]]></title>
-        <id>6222908cc4d0d306772f4477</id>
-        <link href="https://www.freecodecamp.org/news/git-config-how-to-configure-git-settings/"/>
-        <updated>2022-03-09T19:14:42.000Z</updated>
-        <summary type="html"><![CDATA[git config is a powerful command in Git. You can use the Git configuration file to customize how Git works. This file exists in the project level where Git is initialized ( /project/.git/config) or at the root level (~/.gitcongig). If no configurations are specified, Git uses its default settings. In]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React State for Absolute Beginners]]></title>
-        <id>6216b67dc4d0d306772ef0ed</id>
-        <link href="https://www.freecodecamp.org/news/react-state/"/>
-        <updated>2022-03-09T16:48:55.000Z</updated>
-        <summary type="html"><![CDATA[One of the most essential concepts that any modern JavaScript developer needs to understand is state.  If you don't understand state, you're not going to be able to fully use and take advantage of powerful libraries such as React to build your applications.  Let's see exactly what state]]></summary>
-        <author>
-            <name>Reed Barger</name>
         </author>
     </entry>
 </feed>
