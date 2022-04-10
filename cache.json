@@ -12,6 +12,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "625208b3ac55f60686c30de0",
+          "author": "Alex Garcia",
+          "description": "Sometimes you want to convert your Python lists into strings. This tutorial will show you an example of how you can do this. But first, let's explore the difference between the Python list data structure and the Python string data structure. What is a List in Python? In Python, a",
+          "link": "https://www.freecodecamp.org/news/python-list-to-string-join-example/",
+          "publishedOn": "2022-04-09T23:24:00.000Z",
+          "wordCount": 982,
+          "title": "List to String Python – join() Syntax Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/david-clode-5uU8HSpfwkI-unsplash.jpg"
+        },
+        {
+          "id": "62518273ac55f60686c30623",
+          "author": "Alex Garcia",
+          "description": "When you’re working with images, it’s important to understand the different file types. Which format is best for what application? In this tutorial, we’re going to explain the most common image file types, and when you should use them. Note that this is a short, non-technical article. If you want",
+          "link": "https://www.freecodecamp.org/news/image-file-types-picture-format-extensions-jpeg-gif-png-svg-tiff/",
+          "publishedOn": "2022-04-09T22:26:12.000Z",
+          "wordCount": 1295,
+          "title": "Image File Types – The .jpeg, .svg, and .png Picture Format Extensions Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/timon-klauser-3MAmj1ZKSZA-unsplash.jpg"
+        },
+        {
           "id": "624c24d2ac55f60686c2e356",
           "author": "Kolade Chris",
           "description": "On a Windows computer, you might want to delete files to free up disk space, or because you don't want the file(s) on your computer anymore. But sometimes, it seems impossible to delete a file for various reasons. These include the file being open in another program, lack of write",
@@ -30,6 +50,26 @@
           "wordCount": 541,
           "title": "Break The Code 2.0: A Browser Game Where You Solve Missions Using Coding Skills",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/os-loader--1-.png"
+        },
+        {
+          "id": "6251f9feac55f60686c30c4e",
+          "author": "Alex Garcia",
+          "description": "The web would not work at all without DNS servers. They are responsible for translating domain names into IP addresses. Then computers use those IP addresses to locate and connect to web servers, and send users to the right websites. Many people first learned about the DNS system in October",
+          "link": "https://www.freecodecamp.org/news/what-is-a-dns-server/",
+          "publishedOn": "2022-04-07T21:49:00.000Z",
+          "wordCount": 929,
+          "title": "What is a DNS Server? DNS Servers Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/christina-wocintechchat-com-glRqyWJgUeY-unsplash--1-.jpg"
+        },
+        {
+          "id": "6251f744ac55f60686c30bf9",
+          "author": "Alex Garcia",
+          "description": "When it comes to CSS, there are a lot of properties that control the spacing of elements on a page. Two of the most common properties are margin and padding. Both margin and padding control the amount of space around an element, but they do it in different ways. This",
+          "link": "https://www.freecodecamp.org/news/css-margin-vs-padding-what-is-the-difference/",
+          "publishedOn": "2022-04-07T21:25:00.000Z",
+          "wordCount": 530,
+          "title": "CSS Margin VS Padding – What is the Difference? [Solved]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/simona-sergi-OfjOuw_prPg-unsplash.jpg"
         },
         {
           "id": "624ca9a4ac55f60686c2e7f9",
@@ -1030,46 +1070,6 @@
           "wordCount": 769,
           "title": "Python Concatenate Strings – How to Combine and Append Strings in Python",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/join.jpg"
-        },
-        {
-          "id": "6220e4a7c4d0d306772f366e",
-          "author": "Andrew Brown",
-          "description": "This exam mostly deals with cloud-native concepts. Even if you are new to cloud-native, you should be able to prepare for this exam and earn the CNCF certification. This entire free course is now live on YouTube, and linked below. Before you dive into it, read this guide to help",
-          "link": "https://www.freecodecamp.org/news/cncf-kubernetes-cloud-native-associate-exam-course/",
-          "publishedOn": "2022-03-10T20:19:15.000Z",
-          "wordCount": 921,
-          "title": "CNCF Kubernetes and Cloud-Native Associate Study Course – Pass the Exam With This Free 13-Hour Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/cncf.png"
-        },
-        {
-          "id": "6226651763ded806bb9e60eb",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you work with Java, you've probably used one of the well known text editors like Sublime Text, VS Code, Brackets, Atom, and Notepad++ as well as IDEs like Apache NetBeans and IntelliJ IDEA.  Running code in your IDE is straightforward, but you don't often get to see how",
-          "link": "https://www.freecodecamp.org/news/how-to-execute-and-run-java-code/",
-          "publishedOn": "2022-03-10T19:20:03.000Z",
-          "wordCount": 1691,
-          "title": "How to Execute and Run Java Code from the Terminal",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Run-Java-Using-The-Terminal---freeCodeCamp-Cover-image.jpg"
-        },
-        {
-          "id": "622a09b763ded806bb9e7c6f",
-          "author": "Kolade Chris",
-          "description": "Git is a version control system that software developers use to keep track of changes in their applications and collaborate with others. One helpful feature of Git is branches. Different people working on a software project can work in different branches before merging their changes with the original code. You",
-          "link": "https://www.freecodecamp.org/news/how-to-rename-a-local-or-remote-branch-in-git/",
-          "publishedOn": "2022-03-10T19:03:32.000Z",
-          "wordCount": 750,
-          "title": "How to Rename a Local or Remote Branch in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/git.png"
-        },
-        {
-          "id": "6228676363ded806bb9e6fa7",
-          "author": "Zaira Hira",
-          "description": "The print function is an important function in Python, as it is used to redirect output to the terminal. The output can also be redirected to a file.  The print function, by default, prints on a new line every time. This is due to the definition of print() in",
-          "link": "https://www.freecodecamp.org/news/python-print-without-new-line-print-on-the-same-line/",
-          "publishedOn": "2022-03-10T18:11:21.000Z",
-          "wordCount": 999,
-          "title": "Python Print Without New Line – Print on the Same Line",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Copy-of-pip.png"
         }
       ]
     },
@@ -1287,16 +1287,6 @@
           "wordCount": 1902,
           "title": "Tiny Galaxies Reveal Secrets of Supermassive Black Holes",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Supermassive-_Dwafs_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=113152",
-          "author": "Stephen Ornes",
-          "description": "A simple algorithm that revolutionizes how neural networks approach language is now taking on image classification as well. It may not stop there.            \nThe post Will Transformers Take Over Artificial Intelligence? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/will-transformers-take-over-artificial-intelligence-20220310/",
-          "publishedOn": "2022-03-10T13:48:54.000Z",
-          "wordCount": 2364,
-          "title": "Will Transformers Take Over Artificial Intelligence?",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Transformers_1200_social.jpg"
         }
       ]
     },
@@ -1352,6 +1342,26 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/the-inert-attribute-is-finally-coming-to-the-web/",
+          "author": null,
+          "description": "There are UI scenarios when you want to make particular page areas inaccessible to whoever clicks around. For example: let's assume you fade in a modal dialog asking the user if they want to delete their account?\nDo you want them to interact with inputs while this question hangs around? Most likely not.\nBut how do you prevent people from doing precisely this? Covering the page with a faded-in semi-transparent div won't cut it because it's still possible to tab around and focus other areas and elements on the page using the keyboard. Folks using assistive technology might miss the dialog and navigate away, not realizing that their account is up for deletion.\nThe dialog element is soon cross-browser supported and can help with modal focus handling.\nOr to name another example: if you navigate…",
+          "link": "https://www.stefanjudis.com/blog/the-inert-attribute-is-finally-coming-to-the-web/",
+          "publishedOn": "2022-04-08T22:00:00.000Z",
+          "wordCount": 594,
+          "title": "The \"inert\" attribute is finally coming to the web (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:The%20%22inert%22%20attribute%20is%20finally%20coming%20to%20the%20web/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
+          "id": "https://www.stefanjudis.com/notes/twitter-started-to-mess-with-embedded-content-on-your-site/",
+          "author": null,
+          "description": "The following news is wild!\nTwitter changed how its library widgets.js handles deleted Tweets embedded on other sites. I never considered this interesting case. How would one build a UI library for data that's not available anymore?\nI'd have to sleep over this problem, but here's what I wouldn't do, aka the new Twitter way. 🤦‍♂️\nTwitter decided that it's reasonable to wipe out embedded Tweet content on millions of sites if the Tweet in question isn't available on their platform anymore. 😲\nKevin Marks shares this discovery in detail on his blog. Here's a quick summary for my archive.\nwidgets.js behavior so far\n\nIf you decide to embed a Tweet and hit the embed button in the Twitter UI, you'll receive a snippet like the following.\n<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">\n  …",
+          "link": "https://www.stefanjudis.com/notes/twitter-started-to-mess-with-embedded-content-on-your-site/",
+          "publishedOn": "2022-04-08T22:00:00.000Z",
+          "wordCount": 590,
+          "title": "Twitter started to mess with embedded content on your site (#note)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Twitter%20started%20to%20mess%20with%20embedded%20content%20on%20your%20site/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-61/",
           "author": null,
@@ -1431,16 +1441,6 @@
           "wordCount": 338,
           "title": "New in VS Code: Surround code with Snippets (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:New%20in%20VS%20Code%3A%20Surround%20code%20with%20Snippets/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/vs-code-supports-jsdoc-powered-type-checking/",
-          "author": null,
-          "description": "Tech Twitter discussed a new ECMAScript proposal for a type syntax today.\nFollowing the proposal, the following JavaScript lines would be valid.\nfunction add(a: number, b: number) {\n    return a + b;\n}\n\nBrowsers would treat type annotations as inline comments and not throw runtime errors if you violate them. But why bother if things are ignored anyway?\nLet's think this through: if inline type annotations would be valid JavaScript (even though browsers don't parse or run them), you could save a code compilation step.\nTypeScript is not valid JavaScript so that the provided TypeScript tooling constantly transforms your code to make it runnable. File watchers compile your Typescript code to JavaScript in development on every file save. And to ship to production, your entire codebase needs to b…",
-          "link": "https://www.stefanjudis.com/today-i-learned/vs-code-supports-jsdoc-powered-type-checking/",
-          "publishedOn": "2022-03-10T23:00:00.000Z",
-          "wordCount": 674,
-          "title": "VS Code supports JSDoc-powered type checking (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:VS%20Code%20supports%20JSDoc-powered%20type%20checking/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
@@ -1487,16 +1487,6 @@
           "publishedOn": "2022-03-18T00:00:00.000Z",
           "wordCount": 942,
           "title": "Go 1.18 - the most generic release yet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/403",
-          "author": null,
-          "description": "#​403 — March 11, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nGoPlay: A Better Go Playground? — Powered by React and the Monaco editor control behind VS Code, the “better” here includes a dark theme, autocompletion, a ton of loadable snippets, file loading/saving, and WASM support. There’s also a Docker image so you can have a private playground of your own and tell those kids to get off your lawn.\nDenis Sedchenko \n\n\n  \n  \nIsolating Problematic Cgo Code — This is a wonderfully explained tutorial on using parent-child processes to create, pass, and monitor file descriptors for memory- and CPU-intensive work.\nJon Williams \n\n\n  \n  \nUnderstand a Complex Codebase in Minutes, Not Weeks — Decrease time to first commit with self-serve onboarding, codebase e…",
-          "link": "https://golangweekly.com/issues/403",
-          "publishedOn": "2022-03-11T00:00:00.000Z",
-          "wordCount": 889,
-          "title": "An alternative Go playground",
           "imageUrl": null
         }
       ]

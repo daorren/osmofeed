@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-09T01:34:16.543Z</updated>
+    <updated>2022-04-10T01:42:04.915Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[List to String Python – join() Syntax Example]]></title>
+        <id>625208b3ac55f60686c30de0</id>
+        <link href="https://www.freecodecamp.org/news/python-list-to-string-join-example/"/>
+        <updated>2022-04-09T23:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you want to convert your Python lists into strings. This tutorial will show you an example of how you can do this. But first, let's explore the difference between the Python list data structure and the Python string data structure. What is a List in Python? In Python, a]]></summary>
+        <author>
+            <name>Alex Garcia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Image File Types – The .jpeg, .svg, and .png Picture Format Extensions Explained]]></title>
+        <id>62518273ac55f60686c30623</id>
+        <link href="https://www.freecodecamp.org/news/image-file-types-picture-format-extensions-jpeg-gif-png-svg-tiff/"/>
+        <updated>2022-04-09T22:26:12.000Z</updated>
+        <summary type="html"><![CDATA[When you’re working with images, it’s important to understand the different file types. Which format is best for what application? In this tutorial, we’re going to explain the most common image file types, and when you should use them. Note that this is a short, non-technical article. If you want]]></summary>
+        <author>
+            <name>Alex Garcia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The "inert" attribute is finally coming to the web (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/the-inert-attribute-is-finally-coming-to-the-web/</id>
+        <link href="https://www.stefanjudis.com/blog/the-inert-attribute-is-finally-coming-to-the-web/"/>
+        <updated>2022-04-08T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are UI scenarios when you want to make particular page areas inaccessible to whoever clicks around. For example: let's assume you fade in a modal dialog asking the user if they want to delete their account?
+Do you want them to interact with inputs while this question hangs around? Most likely not.
+But how do you prevent people from doing precisely this? Covering the page with a faded-in semi-transparent div won't cut it because it's still possible to tab around and focus other areas and elements on the page using the keyboard. Folks using assistive technology might miss the dialog and navigate away, not realizing that their account is up for deletion.
+The dialog element is soon cross-browser supported and can help with modal focus handling.
+Or to name another example: if you navigate…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter started to mess with embedded content on your site (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/twitter-started-to-mess-with-embedded-content-on-your-site/</id>
+        <link href="https://www.stefanjudis.com/notes/twitter-started-to-mess-with-embedded-content-on-your-site/"/>
+        <updated>2022-04-08T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The following news is wild!
+Twitter changed how its library widgets.js handles deleted Tweets embedded on other sites. I never considered this interesting case. How would one build a UI library for data that's not available anymore?
+I'd have to sleep over this problem, but here's what I wouldn't do, aka the new Twitter way. 🤦‍♂️
+Twitter decided that it's reasonable to wipe out embedded Tweet content on millions of sites if the Tweet in question isn't available on their platform anymore. 😲
+Kevin Marks shares this discovery in detail on his blog. Here's a quick summary for my archive.
+widgets.js behavior so far
+
+If you decide to embed a Tweet and hit the embed button in the Twitter UI, you'll receive a snippet like the following.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">
+  …]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Secrets of Zugzwang in Chess, Math and Pizzas]]></title>
         <id>https://www.quantamagazine.org/?p=113973</id>
@@ -77,6 +130,26 @@ Ardan Labs sponsor
 Faster Sorting with …]]></summary>
         <author>
             <name>Golang Weekly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a DNS Server? DNS Servers Explained]]></title>
+        <id>6251f9feac55f60686c30c4e</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-dns-server/"/>
+        <updated>2022-04-07T21:49:00.000Z</updated>
+        <summary type="html"><![CDATA[The web would not work at all without DNS servers. They are responsible for translating domain names into IP addresses. Then computers use those IP addresses to locate and connect to web servers, and send users to the right websites. Many people first learned about the DNS system in October]]></summary>
+        <author>
+            <name>Alex Garcia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Margin VS Padding – What is the Difference? [Solved]]]></title>
+        <id>6251f744ac55f60686c30bf9</id>
+        <link href="https://www.freecodecamp.org/news/css-margin-vs-padding-what-is-the-difference/"/>
+        <updated>2022-04-07T21:25:00.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to CSS, there are a lot of properties that control the spacing of elements on a page. Two of the most common properties are margin and padding. Both margin and padding control the amount of space around an element, but they do it in different ways. This]]></summary>
+        <author>
+            <name>Alex Garcia</name>
         </author>
     </entry>
     <entry>
@@ -1661,117 +1734,6 @@ Save some keystrokes, friends! 👋
         <summary type="html"><![CDATA[When you're learning a programming language, you're likely to come across a data type called a string. A string usually contains a series of characters nested in quotation marks that can be represented as a text.  In this article, we will talk about string concatenation in Python. This is]]></summary>
         <author>
             <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An alternative Go playground]]></title>
-        <id>https://golangweekly.com/issues/403</id>
-        <link href="https://golangweekly.com/issues/403"/>
-        <updated>2022-03-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​403 — March 11, 2022
-
-
-Unsubscribe  |  Read on the Web
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-GoPlay: A Better Go Playground? — Powered by React and the Monaco editor control behind VS Code, the “better” here includes a dark theme, autocompletion, a ton of loadable snippets, file loading/saving, and WASM support. There’s also a Docker image so you can have a private playground of your own and tell those kids to get off your lawn.
-Denis Sedchenko 
-
-
-  
-  
-Isolating Problematic Cgo Code — This is a wonderfully explained tutorial on using parent-child processes to create, pass, and monitor file descriptors for memory- and CPU-intensive work.
-Jon Williams 
-
-
-  
-  
-Understand a Complex Codebase in Minutes, Not Weeks — Decrease time to first commit with self-serve onboarding, codebase e…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VS Code supports JSDoc-powered type checking (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/vs-code-supports-jsdoc-powered-type-checking/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/vs-code-supports-jsdoc-powered-type-checking/"/>
-        <updated>2022-03-10T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tech Twitter discussed a new ECMAScript proposal for a type syntax today.
-Following the proposal, the following JavaScript lines would be valid.
-function add(a: number, b: number) {
-    return a + b;
-}
-
-Browsers would treat type annotations as inline comments and not throw runtime errors if you violate them. But why bother if things are ignored anyway?
-Let's think this through: if inline type annotations would be valid JavaScript (even though browsers don't parse or run them), you could save a code compilation step.
-TypeScript is not valid JavaScript so that the provided TypeScript tooling constantly transforms your code to make it runnable. File watchers compile your Typescript code to JavaScript in development on every file save. And to ship to production, your entire codebase needs to b…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNCF Kubernetes and Cloud-Native Associate Study Course – Pass the Exam With This Free 13-Hour Course]]></title>
-        <id>6220e4a7c4d0d306772f366e</id>
-        <link href="https://www.freecodecamp.org/news/cncf-kubernetes-cloud-native-associate-exam-course/"/>
-        <updated>2022-03-10T20:19:15.000Z</updated>
-        <summary type="html"><![CDATA[This exam mostly deals with cloud-native concepts. Even if you are new to cloud-native, you should be able to prepare for this exam and earn the CNCF certification. This entire free course is now live on YouTube, and linked below. Before you dive into it, read this guide to help]]></summary>
-        <author>
-            <name>Andrew Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Execute and Run Java Code from the Terminal]]></title>
-        <id>6226651763ded806bb9e60eb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-execute-and-run-java-code/"/>
-        <updated>2022-03-10T19:20:03.000Z</updated>
-        <summary type="html"><![CDATA[If you work with Java, you've probably used one of the well known text editors like Sublime Text, VS Code, Brackets, Atom, and Notepad++ as well as IDEs like Apache NetBeans and IntelliJ IDEA.  Running code in your IDE is straightforward, but you don't often get to see how]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Rename a Local or Remote Branch in Git]]></title>
-        <id>622a09b763ded806bb9e7c6f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-rename-a-local-or-remote-branch-in-git/"/>
-        <updated>2022-03-10T19:03:32.000Z</updated>
-        <summary type="html"><![CDATA[Git is a version control system that software developers use to keep track of changes in their applications and collaborate with others. One helpful feature of Git is branches. Different people working on a software project can work in different branches before merging their changes with the original code. You]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Print Without New Line – Print on the Same Line]]></title>
-        <id>6228676363ded806bb9e6fa7</id>
-        <link href="https://www.freecodecamp.org/news/python-print-without-new-line-print-on-the-same-line/"/>
-        <updated>2022-03-10T18:11:21.000Z</updated>
-        <summary type="html"><![CDATA[The print function is an important function in Python, as it is used to redirect output to the terminal. The output can also be redirected to a file.  The print function, by default, prints on a new line every time. This is due to the definition of print() in]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will Transformers Take Over Artificial Intelligence?]]></title>
-        <id>https://www.quantamagazine.org/?p=113152</id>
-        <link href="https://www.quantamagazine.org/will-transformers-take-over-artificial-intelligence-20220310/"/>
-        <updated>2022-03-10T13:48:54.000Z</updated>
-        <summary type="html"><![CDATA[A simple algorithm that revolutionizes how neural networks approach language is now taking on image classification as well. It may not stop there.            
-The post Will Transformers Take Over Artificial Intelligence? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Stephen Ornes</name>
         </author>
     </entry>
 </feed>
