@@ -12,6 +12,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "62530365ac55f60686c316e5",
+          "author": "Quincy Larson",
+          "description": "If-Else statements – AKA conditional logic – are the bedrock of programming. And Python has these in spades. Python offers several options for evaluating variables, their states, and whether specific conditions are met:  * Vanilla if-else statements  * if statements without the else part  * nested if-else",
+          "link": "https://www.freecodecamp.org/news/python-if-else-statement-example/",
+          "publishedOn": "2022-04-10T17:05:36.000Z",
+          "wordCount": 1222,
+          "title": "Python If-Else Statement Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/rosie-steggles-h1OhvEIIcxs-unsplash.jpg"
+        },
+        {
+          "id": "6252eea7ac55f60686c315af",
+          "author": "Quincy Larson",
+          "description": "The Project Management Professional (PMP) is widely seen by project managers as the \"gold standard\" credential. Many senior PM roles now require you to be PMP certified. So if you have been working as a PM for a few years, this guide will show you how you can take the",
+          "link": "https://www.freecodecamp.org/news/pmp-certification-cost-degree-experience/",
+          "publishedOn": "2022-04-10T15:44:12.000Z",
+          "wordCount": 1099,
+          "title": "PMP Certification Cost – 2022 Exam Fees, Degree Requirements, and Years of Experience",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/adetola-afolabi-W6Xfv9Rq1j0-unsplash.jpg"
+        },
+        {
           "id": "625208b3ac55f60686c30de0",
           "author": "Alex Garcia",
           "description": "Sometimes you want to convert your Python lists into strings. This tutorial will show you an example of how you can do this. But first, let's explore the difference between the Python list data structure and the Python string data structure. What is a List in Python? In Python, a",
@@ -1040,36 +1060,6 @@
           "wordCount": 839,
           "title": "Python Break and Python Continue – How to Skip to the Next Function",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/thisisengineering-raeng-uyfohHiTxho-unsplash.jpg"
-        },
-        {
-          "id": "622ae68d63ded806bb9e81de",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In this article, we'll talk about comments in Python, why they are important, and how to use them effectively in your code.  When to Use Comments In this section, we'll talk about some of the general use cases for comments. These aren't only applicable to Python, but to most",
-          "link": "https://www.freecodecamp.org/news/python-comment-block-how-to-comment-out-code-in-python/",
-          "publishedOn": "2022-03-11T20:11:40.000Z",
-          "wordCount": 744,
-          "title": "Python Comment Block – How to Comment Out Code in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/comments-python.jpg"
-        },
-        {
-          "id": "61e5c35ab837d507ba0a4b06",
-          "author": "Natalie Pina",
-          "description": "What is the CSS Isolation Property? In CSS, you can use the isolation property to create a new stacking context. Here's what that looks like: .container-for-new-stacking-context {   isolation: isolate; } The default value for isolation is auto, which is a bit more nuanced as a stacking context can",
-          "link": "https://www.freecodecamp.org/news/the-css-isolation-property/",
-          "publishedOn": "2022-03-11T20:03:45.000Z",
-          "wordCount": 899,
-          "title": "How to Create a New Stacking Context with the Isolation Property in CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/stacked.jpg"
-        },
-        {
-          "id": "622a2a6663ded806bb9e7d22",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When you're learning a programming language, you're likely to come across a data type called a string. A string usually contains a series of characters nested in quotation marks that can be represented as a text.  In this article, we will talk about string concatenation in Python. This is",
-          "link": "https://www.freecodecamp.org/news/python-concatenate-strings-how-to-combine-and-append-strings-in-python/",
-          "publishedOn": "2022-03-11T17:19:31.000Z",
-          "wordCount": 769,
-          "title": "Python Concatenate Strings – How to Combine and Append Strings in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/join.jpg"
         }
       ]
     },
@@ -1296,6 +1286,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "624a41b2e2f6fe23f306bfc5",
+          "author": "Assaf Arkin",
+          "description": "This week we have a new terminal app, our creativity replaced by machines, and what happened to lemon denim?",
+          "link": "https://labnotes.org/weekend-reading-technically-no-difference/",
+          "publishedOn": "2022-04-10T21:44:03.000Z",
+          "wordCount": 842,
+          "title": "Weekend Reading — Technically no difference",
+          "imageUrl": "https://labnotes.org/content/images/2022/04/IMG_0533-1.JPG"
+        },
+        {
           "id": "6240ca4dcabeea378ed3ee33",
           "author": "Assaf Arkin",
           "description": "This week we fight the underground, use JIRA to turn lights on/off, explore the dialects of web3, and tell dad jokes.",
@@ -1342,6 +1342,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/notes/google-docs-now-supports-markdown-syntax/",
+          "author": null,
+          "description": "Here's a very quick one for the Markdown lovers. I just discovered that Google Docs supports Markdown syntax. Enable the feature under Tools > Preferences > Automatically detect markdown.\n\n\n\n\n          \n            \nThe release post describes that headings, italic, bold, bold-italic and links are supported.\nMartin pointed out that the feature isn't rolled out for everybody at the time of writing this post.\nTo be honest, I don't need all these text formating options because I'm used to pressing CMD + b and its friends, but being able to control headlines with a few leading # characters is very welcome! 👏\n\n      \n        \n      \n    \n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/notes/google-docs-now-supports-markdown-syntax/",
+          "publishedOn": "2022-04-09T22:00:00.000Z",
+          "wordCount": 331,
+          "title": "Google Docs supports Markdown syntax (#note)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Google%20Docs%20supports%20Markdown%20syntax/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/the-inert-attribute-is-finally-coming-to-the-web/",
           "author": null,
