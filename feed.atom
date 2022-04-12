@@ -2,10 +2,104 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-11T01:44:23.249Z</updated>
+    <updated>2022-04-12T01:40:05.635Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up a Virtual Environment in Python – And Why It's Useful]]></title>
+        <id>6250c642ac55f60686c3023c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/"/>
+        <updated>2022-04-11T20:46:19.000Z</updated>
+        <summary type="html"><![CDATA[When developing software with Python, a basic approach is to install Python on your machine, install all your required libraries via the terminal, write all your code in a single .py file or notebook, and run your Python program in the terminal. This is a common approach for a lot]]></summary>
+        <author>
+            <name>Stephen Sanwo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Sandbox Tutorial – How to Enable Sandbox On Windows]]></title>
+        <id>62515952ac55f60686c304b7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-enable-sandbox-on-windows/"/>
+        <updated>2022-04-11T20:13:55.000Z</updated>
+        <summary type="html"><![CDATA[Windows Sandbox is a temporary lightweight desktop environment that you can use to safely run Windows applications in an isolated space.  The software or applications that you install inside the Windows sandbox environment remain "sandboxed", and they all run separately from the host machine. So whatever happens in the]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn the C++ Programming Language]]></title>
+        <id>624447b2138a19064b0683f8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-learn-the-c-programming-language/"/>
+        <updated>2022-04-11T17:10:10.000Z</updated>
+        <summary type="html"><![CDATA[In the early days of computer programming, programmers had to write individual instructions in the Assembly language one by one.  Later on programming languages like FORTRAN and COBOL were created. The problem with these languages was that they were targeted at a certain group of people – FORTRAN for]]></summary>
+        <author>
+            <name>Farhan Hasin Chowdhury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Life With Longer Genetic Codes Seems Possible — but Less Likely]]></title>
+        <id>https://www.quantamagazine.org/?p=114023</id>
+        <link href="https://www.quantamagazine.org/life-with-longer-genetic-codes-seems-possible-but-less-likely-20220411/"/>
+        <updated>2022-04-11T16:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Life could use a more expansive genetic code in theory, but new work shows that improving on three-letter codons would be a challenge.            
+The post Life With Longer Genetic Codes Seems Possible — but Less Likely first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Yasemin Saplakoglu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNS Server Not Responding – Service Unavailable DNS Failure [Solved]]]></title>
+        <id>624e9e37ac55f60686c2f16b</id>
+        <link href="https://www.freecodecamp.org/news/dns-server-not-responding-service-unavailable-dns-failure-solved/"/>
+        <updated>2022-04-11T15:59:55.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes, you might suddenly discover that you can’t access the internet on your computer because of the error “DNS server not responding”. If you run a troubleshooter for the issue, you'll get a message like the below: In your Chrome browser, you might also get an error like the one]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create and Upload Your First Python Package to PyPI]]></title>
+        <id>624da2d3ac55f60686c2eb3c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-and-upload-your-first-python-package-to-pypi/"/>
+        <updated>2022-04-11T15:40:44.000Z</updated>
+        <summary type="html"><![CDATA[A few weeks ago, I wanted to learn how to build my first Python package, and I was trying to figure out where to start.  Well, I got confused and a bit stressed trying to find a simple and easy tutorial I could use to get started. For this]]></summary>
+        <author>
+            <name>Rochdi Khalid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Git Stash Command]]></title>
+        <id>62459f78138a19064b069268</id>
+        <link href="https://www.freecodecamp.org/news/git-stash-commands/"/>
+        <updated>2022-04-11T15:05:10.000Z</updated>
+        <summary type="html"><![CDATA[Let's say you're working on a serious feature of a branch in Git – like revamping the hero section of your marketing page. You'll want to start doing experiments in your Revamp/Marketing-page-hero-section branch without screwing up master or main branch. Then suddenly you get call from your coworker to fix]]></summary>
+        <author>
+            <name>Preethi⚡</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #62 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-62/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-62/"/>
+        <updated>2022-04-10T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Happy Monday, friends!
+
+It's Web Weekly time and a special welcome to the 18 new subscribers! I'm super excited to have you around! 👋
+Today you'll learn about:
+mistakes when writing async JavaScript
+the inert HTML attribute
+the :has() CSS selector
+... and, as always, GitHub repositories, a new Tiny Helper and some music.
+On a personal note
+
+Last week I said that I wanted to switch to sending this newsletter with an automated schedule. It should hit your inbox Mondays at 8 AM CET.
+Well yeah... That didn't work out, but I'll try it again next week!
+Apart from that, I'm trying to get some official grownup things done, and it's been challenging. For the folks not living in Berlin, getting appointments at the city service are a real challenge here.
+It goes so far that the city places console.l…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Technically no difference]]></title>
         <id>624a41b2e2f6fe23f306bfc5</id>
@@ -1731,36 +1825,6 @@ On a personal note
 
 I just couldn't believe it because we're still in the pandemic, but we face a war in Europe. It's horrifying to see cities I've been to a few years ago being bombed and attacked. People leave their lives behind and are fleeing as we speak.
 If you can, please consider offering help or donating. Smashing Mag shared resources on how you can he…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New in VS Code: Surround code with Snippets (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/new-in-vs-code-surround-code-with-snippets/</id>
-        <link href="https://www.stefanjudis.com/blog/new-in-vs-code-surround-code-with-snippets/"/>
-        <updated>2022-03-12T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[VS Code's January release notes included an excellent new editor feature that lets you wrap lines with everyday snippets such as if/else or loops.
-You might know that I'm always on the hunt for editor workflows that help me save some keystrokes. Check the "JavaScript booster" extension if you're looking for VS Code commands to convert let to const, replace strings with template strings or convert arrow functions to anonymous functions. It's so good!
-
-      
-        
-        
-          
-        
-        
-      
-      
-The new command – "Surround with snippet"
-
-The functionality is quickly explained. Highlight the code lines you want to surround with a snippet, open the command palette and wrap away!
-Here's it in action. 👇
-Save some keystrokes, friends! 👋
-
-
-          
-          
-            Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>

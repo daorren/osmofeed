@@ -12,6 +12,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6250c642ac55f60686c3023c",
+          "author": "Stephen Sanwo",
+          "description": "When developing software with Python, a basic approach is to install Python on your machine, install all your required libraries via the terminal, write all your code in a single .py file or notebook, and run your Python program in the terminal. This is a common approach for a lot",
+          "link": "https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/",
+          "publishedOn": "2022-04-11T20:46:19.000Z",
+          "wordCount": 1608,
+          "title": "How to Set Up a Virtual Environment in Python – And Why It's Useful",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/virtual-env-python.png"
+        },
+        {
+          "id": "62515952ac55f60686c304b7",
+          "author": "Md. Fahim Bin Amin",
+          "description": "Windows Sandbox is a temporary lightweight desktop environment that you can use to safely run Windows applications in an isolated space.  The software or applications that you install inside the Windows sandbox environment remain \"sandboxed\", and they all run separately from the host machine. So whatever happens in the",
+          "link": "https://www.freecodecamp.org/news/how-to-enable-sandbox-on-windows/",
+          "publishedOn": "2022-04-11T20:13:55.000Z",
+          "wordCount": 1538,
+          "title": "Windows Sandbox Tutorial – How to Enable Sandbox On Windows",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/close-up-image-programer-working-his-desk-office.jpg"
+        },
+        {
+          "id": "624447b2138a19064b0683f8",
+          "author": "Farhan Hasin Chowdhury",
+          "description": "In the early days of computer programming, programmers had to write individual instructions in the Assembly language one by one.  Later on programming languages like FORTRAN and COBOL were created. The problem with these languages was that they were targeted at a certain group of people – FORTRAN for",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-the-c-programming-language/",
+          "publishedOn": "2022-04-11T17:10:10.000Z",
+          "wordCount": 2866,
+          "title": "How to Learn the C++ Programming Language",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/How-to-Learn-the-C---Programming-Language.png"
+        },
+        {
+          "id": "624e9e37ac55f60686c2f16b",
+          "author": "Kolade Chris",
+          "description": "Sometimes, you might suddenly discover that you can’t access the internet on your computer because of the error “DNS server not responding”. If you run a troubleshooter for the issue, you'll get a message like the below: In your Chrome browser, you might also get an error like the one",
+          "link": "https://www.freecodecamp.org/news/dns-server-not-responding-service-unavailable-dns-failure-solved/",
+          "publishedOn": "2022-04-11T15:59:55.000Z",
+          "wordCount": 1548,
+          "title": "DNS Server Not Responding – Service Unavailable DNS Failure [Solved]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/binary-g3068c576e_1920.jpg"
+        },
+        {
+          "id": "624da2d3ac55f60686c2eb3c",
+          "author": "Rochdi Khalid",
+          "description": "A few weeks ago, I wanted to learn how to build my first Python package, and I was trying to figure out where to start.  Well, I got confused and a bit stressed trying to find a simple and easy tutorial I could use to get started. For this",
+          "link": "https://www.freecodecamp.org/news/how-to-create-and-upload-your-first-python-package-to-pypi/",
+          "publishedOn": "2022-04-11T15:40:44.000Z",
+          "wordCount": 3034,
+          "title": "How to Create and Upload Your First Python Package to PyPI",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/cover-image-python-packaging-blog-1.jpg"
+        },
+        {
+          "id": "62459f78138a19064b069268",
+          "author": "Preethi⚡",
+          "description": "Let's say you're working on a serious feature of a branch in Git – like revamping the hero section of your marketing page. You'll want to start doing experiments in your Revamp/Marketing-page-hero-section branch without screwing up master or main branch. Then suddenly you get call from your coworker to fix",
+          "link": "https://www.freecodecamp.org/news/git-stash-commands/",
+          "publishedOn": "2022-04-11T15:05:10.000Z",
+          "wordCount": 1405,
+          "title": "How to Use the Git Stash Command",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/stahs-1.png"
+        },
+        {
           "id": "62530365ac55f60686c316e5",
           "author": "Quincy Larson",
           "description": "If-Else statements – AKA conditional logic – are the bedrock of programming. And Python has these in spades. Python offers several options for evaluating variables, their states, and whether specific conditions are met:  * Vanilla if-else statements  * if statements without the else part  * nested if-else",
@@ -1069,6 +1129,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=114023",
+          "author": "Yasemin Saplakoglu",
+          "description": "Life could use a more expansive genetic code in theory, but new work shows that improving on three-letter codons would be a challenge.            \nThe post Life With Longer Genetic Codes Seems Possible — but Less Likely first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/life-with-longer-genetic-codes-seems-possible-but-less-likely-20220411/",
+          "publishedOn": "2022-04-11T16:00:46.000Z",
+          "wordCount": 1490,
+          "title": "Life With Longer Genetic Codes Seems Possible — but Less Likely",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/04/Codons_1200_Social_V2.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=113973",
           "author": "Pradeep Mutalik",
           "description": "Learn the magic and math of how to win games when your opponent goes first.             \nThe post The Secrets of Zugzwang in Chess, Math and Pizzas first appeared on Quanta Magazine",
@@ -1343,6 +1413,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-62/",
+          "author": null,
+          "description": "Happy Monday, friends!\n\nIt's Web Weekly time and a special welcome to the 18 new subscribers! I'm super excited to have you around! 👋\nToday you'll learn about:\nmistakes when writing async JavaScript\nthe inert HTML attribute\nthe :has() CSS selector\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nOn a personal note\n\nLast week I said that I wanted to switch to sending this newsletter with an automated schedule. It should hit your inbox Mondays at 8 AM CET.\nWell yeah... That didn't work out, but I'll try it again next week!\nApart from that, I'm trying to get some official grownup things done, and it's been challenging. For the folks not living in Berlin, getting appointments at the city service are a real challenge here.\nIt goes so far that the city places console.l…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-62/",
+          "publishedOn": "2022-04-10T22:00:00.000Z",
+          "wordCount": 1224,
+          "title": "Web Weekly #62 (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252362/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/notes/google-docs-now-supports-markdown-syntax/",
           "author": null,
           "description": "Here's a very quick one for the Markdown lovers. I just discovered that Google Docs supports Markdown syntax. Enable the feature under Tools > Preferences > Automatically detect markdown.\n\n\n\n\n          \n            \nThe release post describes that headings, italic, bold, bold-italic and links are supported.\nMartin pointed out that the feature isn't rolled out for everybody at the time of writing this post.\nTo be honest, I don't need all these text formating options because I'm used to pressing CMD + b and its friends, but being able to control headlines with a few leading # characters is very welcome! 👏\n\n      \n        \n      \n    \n\n\n          \n          \n            Reply to Stefan",
@@ -1441,16 +1521,6 @@
           "wordCount": 1224,
           "title": "Web Weekly #59 (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252359/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/new-in-vs-code-surround-code-with-snippets/",
-          "author": null,
-          "description": "VS Code's January release notes included an excellent new editor feature that lets you wrap lines with everyday snippets such as if/else or loops.\nYou might know that I'm always on the hunt for editor workflows that help me save some keystrokes. Check the \"JavaScript booster\" extension if you're looking for VS Code commands to convert let to const, replace strings with template strings or convert arrow functions to anonymous functions. It's so good!\n\n      \n        \n        \n          \n        \n        \n      \n      \nThe new command – \"Surround with snippet\"\n\nThe functionality is quickly explained. Highlight the code lines you want to surround with a snippet, open the command palette and wrap away!\nHere's it in action. 👇\nSave some keystrokes, friends! 👋\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/blog/new-in-vs-code-surround-code-with-snippets/",
-          "publishedOn": "2022-03-12T23:00:00.000Z",
-          "wordCount": 338,
-          "title": "New in VS Code: Surround code with Snippets (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:New%20in%20VS%20Code%3A%20Surround%20code%20with%20Snippets/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
