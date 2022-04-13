@@ -12,6 +12,106 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "622e87c6c3e3d106805daa1f",
+          "author": "Dillion Megida",
+          "description": "Node is a runtime environment that allows developers to execute JavaScript code outside the browser, on the server-side. NPM, on the other hand, is a package manager for publishing JavaScript packages (also known as Node modules) to the npm registry [https://www.npmjs.com/]. You can also use it to install packages to",
+          "link": "https://www.freecodecamp.org/news/how-to-update-node-and-npm-to-the-latest-version/",
+          "publishedOn": "2022-04-12T20:28:40.000Z",
+          "wordCount": 909,
+          "title": "How to Update Node and NPM to the Latest Version",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-markus-winkler-4052195.jpg"
+        },
+        {
+          "id": "624eee4fac55f60686c2f457",
+          "author": "Ihechikara Vincent Abba",
+          "description": "While surfing the internet, we are able to interact with web servers through HyperText Transfer Protocol (HTTP) requests. These requests are sent from the client (our browsers) to the server before we get a response.  HTTP status codes allows us know if our request to the server was successful",
+          "link": "https://www.freecodecamp.org/news/http-error-504-gateway-timeout-status-code-explained/",
+          "publishedOn": "2022-04-12T20:21:09.000Z",
+          "wordCount": 974,
+          "title": "HTTP Error 504 – 504 Gateway Timeout Status Code Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/error.jpg"
+        },
+        {
+          "id": "624aff1fac55f60686c2d22b",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article I'm going to give a brief introduction to operating systems and compare the three main OSs that are out there nowadays. First we're going to review what an OS is and little history about them. Then, we'll review the main features and differences of the",
+          "link": "https://www.freecodecamp.org/news/an-introduction-to-operating-systems/",
+          "publishedOn": "2022-04-12T20:14:34.000Z",
+          "wordCount": 4350,
+          "title": "Windows vs MacOS vs Linux – Operating System Handbook",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/artiom-vallat-mx9axbKqKW8-unsplash.jpg"
+        },
+        {
+          "id": "6255d209ac55f60686c33156",
+          "author": "Beau Carnes",
+          "description": "Terraform is an open-source infrastructure as code software tool that makes it easy to programmatically to set up infrastructure on a variety of cloud service providers. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Terraform and AWS to setup a development",
+          "link": "https://www.freecodecamp.org/news/learn-terraform-and-aws-by-building-a-dev-environment/",
+          "publishedOn": "2022-04-12T19:32:38.000Z",
+          "wordCount": 521,
+          "title": "Learn Terraform and AWS by Building a Dev Environment",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/terraform.png"
+        },
+        {
+          "id": "62552a7eac55f60686c32a7f",
+          "author": "Farhan Hasin Chowdhury",
+          "description": "Much of your experience as a developer will depend on what program you've chosen to write your code in. A good integrated development environment (IDE) or Code Editor can really boost your productivity. The problem with popular languages like Python is that every IDE or code editor under the sun",
+          "link": "https://www.freecodecamp.org/news/python-ide-best-ides-and-editors-for-python/",
+          "publishedOn": "2022-04-12T19:28:47.000Z",
+          "wordCount": 1581,
+          "title": "Python IDE – Best IDEs and Editors for Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-pixabay-45246.jpg"
+        },
+        {
+          "id": "62557467ac55f60686c32c28",
+          "author": "Kolade Chris",
+          "description": "If you take a look at your keyboard, you'll see that there’s no key for typing a checkmark. You could decide to copy the checkmark symbol from the internet and paste it directly into your HTML code, but an easier way to do it is to use the appropriate Unicode",
+          "link": "https://www.freecodecamp.org/news/checkmark-symbol-html-for-checkmark-unicode/",
+          "publishedOn": "2022-04-12T19:17:04.000Z",
+          "wordCount": 724,
+          "title": "Checkmark Symbol – HTML for Checkmark Unicode",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/checkmark.png"
+        },
+        {
+          "id": "623e2e30138a19064b065122",
+          "author": "Natalie Pina",
+          "description": "Engineers spend a good portion of their day writing code in their integrated development environment, or IDE for short. And Visual Studio Code [https://code.visualstudio.com/] is one of the best free IDE's on the market.  I find that personalizing my IDE helps me enjoy the time I spend using it",
+          "link": "https://www.freecodecamp.org/news/best-colorful-vscode-extensions-for-productivity/",
+          "publishedOn": "2022-04-12T18:19:17.000Z",
+          "wordCount": 830,
+          "title": "Best Colorful VSCode Extensions – How to Personalize Your Editor",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Cover.png"
+        },
+        {
+          "id": "6248ec02ac55f60686c2c9f8",
+          "author": "Maybell Obadoni",
+          "description": "Imagine that you just bought a new home theater system and you go to set it up. What do you do first? Thank goodness you have a handy device manual to help you out. You just need to follow the steps detailed in the manual, and voilà! Your home theater",
+          "link": "https://www.freecodecamp.org/news/how-to-write-api-documentation-like-a-pro/",
+          "publishedOn": "2022-04-12T02:30:15.000Z",
+          "wordCount": 3015,
+          "title": "How to Write Good API Documentation",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/nick-morrison-FHnnjk1Yj7Y-unsplash-1.jpg"
+        },
+        {
+          "id": "6252cd94ac55f60686c312e0",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When creating a class in Python, you'll usually create attributes that may be shared across every object of a class or attributes that will be unique to each object of the class. In this article, we'll see the difference between class attributes and instance attributes in Python with examples. Before",
+          "link": "https://www.freecodecamp.org/news/python-attributes-class-and-instance-attribute-examples/",
+          "publishedOn": "2022-04-12T02:17:19.000Z",
+          "wordCount": 847,
+          "title": "Python Attributes – Class and Instance Attribute Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pyAttributes.jpg"
+        },
+        {
+          "id": "624bed98ac55f60686c2e0f3",
+          "author": "Dionysia Lemonaki",
+          "description": "HTML is one of the fundamental technologies you can learn when starting out in web development. HTML code is present in every single webpage online. Once you have a good grasp of the fundamental concepts of the language, you will be well equipped to move on to the two other",
+          "link": "https://www.freecodecamp.org/news/what-is-html-what-does-html-stand-for-solved/",
+          "publishedOn": "2022-04-12T01:27:51.000Z",
+          "wordCount": 3464,
+          "title": "What is HTML? What Does HTML Stand For? [Solved]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-pixabay-270404.jpg"
+        },
+        {
           "id": "6250c642ac55f60686c3023c",
           "author": "Stephen Sanwo",
           "description": "When developing software with Python, a basic approach is to install Python on your machine, install all your required libraries via the terminal, write all your code in a single .py file or notebook, and run your Python program in the terminal. This is a common approach for a lot",
@@ -1129,6 +1229,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=114049",
+          "author": "Jordana Cepelewicz",
+          "description": "For centuries, mathematicians have tried to prove that Euler’s fluid equations can produce nonsensical answers. A new approach to machine learning has researchers betting that “blowup” is near.            \nThe post Deep Learning Poised to ‘Blow Up’ Famed Fluid Equations first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/deep-learning-poised-to-blow-up-famed-fluid-equations-20220412/",
+          "publishedOn": "2022-04-12T15:36:17.000Z",
+          "wordCount": 2782,
+          "title": "Deep Learning Poised to ‘Blow Up’ Famed Fluid Equations",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/04/3D_Euler_520x292.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=114023",
           "author": "Yasemin Saplakoglu",
           "description": "Life could use a more expansive genetic code in theory, but new work shows that improving on three-letter codons would be a challenge.            \nThe post Life With Longer Genetic Codes Seems Possible — but Less Likely first appeared on Quanta Magazine",
@@ -1337,16 +1447,6 @@
           "wordCount": 1446,
           "title": "Machine Learning Reimagines the Building Blocks of Computing",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Gears_1200_social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=113186",
-          "author": "Charlie Wood",
-          "description": "Dwarf galaxies weren’t supposed to have big black holes. Their surprise discovery has revealed clues about how the universe’s biggest black holes could have formed.            \nThe post Tiny Galaxies Reveal Secrets of Supermassive Black Holes first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/tiny-galaxies-reveal-secrets-of-supermassive-black-holes-20220314/",
-          "publishedOn": "2022-03-14T11:42:45.000Z",
-          "wordCount": 1902,
-          "title": "Tiny Galaxies Reveal Secrets of Supermassive Black Holes",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Supermassive-_Dwafs_1200_Social.jpg"
         }
       ]
     },
@@ -1394,16 +1494,6 @@
           "wordCount": 1043,
           "title": "Weekend Reading — People who are Very Computer",
           "imageUrl": "https://labnotes.org/content/images/2022/03/image-23-1.png"
-        },
-        {
-          "id": "62255fa3ee93676e38db174d",
-          "author": "Assaf Arkin",
-          "description": "This week we add a word to the dictionary, design a 5-pop-up-sandwich, discover the best AirBnB, and learn to do our own laundry.,",
-          "link": "https://labnotes.org/weekend-reading-decafurious/",
-          "publishedOn": "2022-03-14T03:10:34.000Z",
-          "wordCount": 982,
-          "title": "Weekend Reading — ☕  Decafurious",
-          "imageUrl": "https://labnotes.org/content/images/2022/03/image-14-1.jpeg"
         }
       ]
     },
@@ -1511,16 +1601,6 @@
           "wordCount": 579,
           "title": "Packages with high download numbers that nobody wanted to install (#note)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Packages%20with%20high%20download%20numbers%20that%20nobody%20wanted%20to%20install/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-59/",
-          "author": null,
-          "description": "Happy Monday, friends!\n\nYou may have noticed that I took a break from Web Weekly. I didn't feel like writing it and spent more time watching the news. Wherever you are, take care of yourself, rest and consider helping the people in the Ukraine.\nThis time Web Weekly includes:\nresources to help the Ukraine\ntype checking of JavaScript files\nthe new dialog element\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nOn a personal note\n\nI just couldn't believe it because we're still in the pandemic, but we face a war in Europe. It's horrifying to see cities I've been to a few years ago being bombed and attacked. People leave their lives behind and are fleeing as we speak.\nIf you can, please consider offering help or donating. Smashing Mag shared resources on how you can he…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-59/",
-          "publishedOn": "2022-03-13T23:00:00.000Z",
-          "wordCount": 1224,
-          "title": "Web Weekly #59 (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252359/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
         }
       ]
     },
