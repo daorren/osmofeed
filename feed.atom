@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-17T01:44:03.816Z</updated>
+    <updated>2022-04-18T01:56:53.031Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -1788,26 +1788,6 @@ After researching the topic, I discovered that the property can be helpful with 
 With a combination of text-align and text-align-last this design b…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Compare Strings – How to Check for String Equality]]></title>
-        <id>6233b95bcdcd57069ddfadb1</id>
-        <link href="https://www.freecodecamp.org/news/python-compare-strings-how-to-check-for-string-equality/"/>
-        <updated>2022-03-18T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When crafting the logic in your code, you may want to execute different commands depending on the similarities or differences between two or more strings.  In this article, we'll see various operators that can help us check if strings are equal or not. If two strings are equal, the]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frontend VS Backend – What's the Difference?]]></title>
-        <id>6228643563ded806bb9e6f77</id>
-        <link href="https://www.freecodecamp.org/news/frontend-vs-backend-whats-the-difference/"/>
-        <updated>2022-03-18T20:48:41.000Z</updated>
-        <summary type="html"><![CDATA[At the start of your web development journey, you will often hear about the frontend and the backend parts of an application. But what do these terms mean exactly? In this article, you will learn about the differences between the two by examining the frontend and backend separately. Here is]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
         </author>
     </entry>
 </feed>
