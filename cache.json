@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "601e56cc0a2838549dcbf3d6",
+          "author": "Patrick Cyubahiro",
+          "description": "Hi, folks! Today we are going to talk about object-oriented programming in Java. This article will help give you a thorough understanding of the underlying principles of object-oriented programming and its concepts.  Once you understand these concepts, you should have the confidence and ability to develop basic problem-solving applications",
+          "link": "https://www.freecodecamp.org/news/object-oriented-programming-concepts-java/",
+          "publishedOn": "2022-04-18T22:03:31.000Z",
+          "wordCount": 4000,
+          "title": "Object-Oriented Programming in Java – A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/01/ian-dooley-DJ7bWa-Gwks-unsplash-2-2.jpg"
+        },
+        {
+          "id": "625dbd15ac55f60686c37860",
+          "author": "Beau Carnes",
+          "description": "Improve your Python programming skills by coding everyone's favorite Windows 3.1 game: Minesweeper. We just published a Python course on the freeCodeCamp.org YouTube channel that will teach you how to code Minesweeper using the tkinter library. Jim from JimShapedCoding developed this course. He has published many popular programming courses both",
+          "link": "https://www.freecodecamp.org/news/object-oriented-programming-with-python-code-a-minesweeper-game/",
+          "publishedOn": "2022-04-18T19:46:59.000Z",
+          "wordCount": 23986,
+          "title": "Object Oriented Programming with Python – Code a Minesweeper Game",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/minsweeper.png"
+        },
+        {
+          "id": "624bed78ac55f60686c2e0eb",
+          "author": "Dionysia Lemonaki",
+          "description": "This article is an overview of relational and non-relational databases. Besides learning the fundamental differences between the two types of databases, you will also learn how to decide which one to use for your next project by going over their strengths and weaknesses. Here is what we'll cover:  1.",
+          "link": "https://www.freecodecamp.org/news/relational-vs-nonrelational-databases-difference-between-sql-db-and-nosql-db/",
+          "publishedOn": "2022-04-18T17:56:26.000Z",
+          "wordCount": 2989,
+          "title": "Relational VS Nonrelational Databases – the Difference Between a SQL DB and a NoSQL DB",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/valeriia-svitlini-5w0ZbF8P5-4-unsplash.jpg"
+        },
+        {
+          "id": "625aba3aac55f60686c36423",
+          "author": "Idris Olubisi",
+          "description": "Two of the most fundamental image editing functions are resizing and cropping. But you should do these carefully because they have the potential to degrade image quality. Cropping always includes removing a portion of the original image, resulting in the loss of some pixels. This post will teach you how",
+          "link": "https://www.freecodecamp.org/news/how-to-upload-crop-resize-images-in-the-browser-in-nextjs/",
+          "publishedOn": "2022-04-18T17:19:23.000Z",
+          "wordCount": 1932,
+          "title": "Next.js Image Tutorial – How to Upload, Crop, and Resize Images in the Browser in Next",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-cottonbro-5083407.jpg"
+        },
+        {
+          "id": "622394b8c4d0d306772f4a08",
+          "author": "Tiago Monteiro",
+          "description": "I was recently reading J. Martin's book Systems Engineering Guidebook – A Process for Developing Systems and Products. From it, I learned that systems engineering reduces manufacturing costs by 40% – did you know that? Neither did I. Even after taking a class where one of the topics was systems",
+          "link": "https://www.freecodecamp.org/news/what-is-systems-engineering/",
+          "publishedOn": "2022-04-18T15:18:31.000Z",
+          "wordCount": 1461,
+          "title": "What is Systems Engineering? A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/tt.jpeg"
+        },
+        {
           "id": "62585158ac55f60686c34d0a",
           "author": "Md. Fahim Bin Amin",
           "description": "If you use a Windows operating system, then you might have gotten this error before when trying to delete a file or folder.  It happens when, even though the file or folder is there, Windows says that it is failing to delete it because it can't find that file/folder",
@@ -1189,6 +1239,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=114176",
+          "author": "Erica Klarreich",
+          "description": "Cryptographers want to know which of five possible worlds we inhabit, which will reveal whether truly secure cryptography is even possible.            \nThe post Which Computational Universe Do We Live In? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/which-computational-universe-do-we-live-in-20220418/",
+          "publishedOn": "2022-04-18T14:45:14.000Z",
+          "wordCount": 1670,
+          "title": "Which Computational Universe Do We Live In?",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/04/Cryptography-Worlds_1200_social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=114144",
           "author": "Mordechai Rorvig",
           "description": "Language processing programs are notoriously hard to interpret, but smaller versions can provide important insights into how they work.             \nThe post Researchers Gain New Understanding From Simple AI first appeared on Quanta Magazine",
@@ -1453,6 +1513,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/today-i-learned/how-to-measure-network-quality-download-upload-on-macos/",
+          "author": null,
+          "description": "Short'n'sweet: I usually use Netflix' fast.com to measure my internet connection's quality.\nToday I learned that macOS Monterey comes with a CLI tool to do exactly this, too.\n$ networkQuality\n==== SUMMARY ====\nUpload capacity: 382.509 Kbps\nDownload capacity: 8.432 Mbps\nUpload flows: 16\nDownload flows: 20\nResponsiveness: Low (109 RPM)\n\nNice! 👏\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/how-to-measure-network-quality-download-upload-on-macos/",
+          "publishedOn": "2022-04-17T22:00:00.000Z",
+          "wordCount": 292,
+          "title": "How to measure network quality (download/upload) on macOS  (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20measure%20network%20quality%20(download%252Fupload)%20on%20macOS%20/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-62/",
           "author": null,
           "description": "Happy Monday, friends!\n\nIt's Web Weekly time and a special welcome to the 18 new subscribers! I'm super excited to have you around! 👋\nToday you'll learn about:\nmistakes when writing async JavaScript\nthe inert HTML attribute\nthe :has() CSS selector\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nOn a personal note\n\nLast week I said that I wanted to switch to sending this newsletter with an automated schedule. It should hit your inbox Mondays at 8 AM CET.\nWell yeah... That didn't work out, but I'll try it again next week!\nApart from that, I'm trying to get some official grownup things done, and it's been challenging. For the folks not living in Berlin, getting appointments at the city service are a real challenge here.\nIt goes so far that the city places console.l…",
@@ -1531,16 +1601,6 @@
           "wordCount": 1242,
           "title": "Web Weekly #60 (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252360/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/how-to-align-the-text-of-the-last-paragraph-line/",
-          "author": null,
-          "description": "Today I learned there's a CSS property to align the last line of a rendered paragraph – text-align-last. 😲\nInitially, I couldn't see the value of this property because the last paragraph line always follows the overall text-align property. If your text is left-aligned, the last line is left-aligned, too. The same applies to center and right.\nSo, what's the deal?\nA use case for text-align-last\n\nAfter researching the topic, I discovered that the property can be helpful with text-align: justify. As discussed in a Tailwind issue, you can't style justified paragraphs and control the alignment of the last line. For example, a layout like the one below is not possible without an additional CSS property.\n\n\n\n          \n            \nWith a combination of text-align and text-align-last this design b…",
-          "link": "https://www.stefanjudis.com/today-i-learned/how-to-align-the-text-of-the-last-paragraph-line/",
-          "publishedOn": "2022-03-19T23:00:00.000Z",
-          "wordCount": 619,
-          "title": "How to align the text of the last paragraph line (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20align%20the%20text%20of%20the%20last%20paragraph%20line/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },

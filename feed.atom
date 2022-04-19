@@ -2,10 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-18T01:56:53.031Z</updated>
+    <updated>2022-04-19T01:54:20.492Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Object-Oriented Programming in Java – A Beginner's Guide]]></title>
+        <id>601e56cc0a2838549dcbf3d6</id>
+        <link href="https://www.freecodecamp.org/news/object-oriented-programming-concepts-java/"/>
+        <updated>2022-04-18T22:03:31.000Z</updated>
+        <summary type="html"><![CDATA[Hi, folks! Today we are going to talk about object-oriented programming in Java. This article will help give you a thorough understanding of the underlying principles of object-oriented programming and its concepts.  Once you understand these concepts, you should have the confidence and ability to develop basic problem-solving applications]]></summary>
+        <author>
+            <name>Patrick Cyubahiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Object Oriented Programming with Python – Code a Minesweeper Game]]></title>
+        <id>625dbd15ac55f60686c37860</id>
+        <link href="https://www.freecodecamp.org/news/object-oriented-programming-with-python-code-a-minesweeper-game/"/>
+        <updated>2022-04-18T19:46:59.000Z</updated>
+        <summary type="html"><![CDATA[Improve your Python programming skills by coding everyone's favorite Windows 3.1 game: Minesweeper. We just published a Python course on the freeCodeCamp.org YouTube channel that will teach you how to code Minesweeper using the tkinter library. Jim from JimShapedCoding developed this course. He has published many popular programming courses both]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relational VS Nonrelational Databases – the Difference Between a SQL DB and a NoSQL DB]]></title>
+        <id>624bed78ac55f60686c2e0eb</id>
+        <link href="https://www.freecodecamp.org/news/relational-vs-nonrelational-databases-difference-between-sql-db-and-nosql-db/"/>
+        <updated>2022-04-18T17:56:26.000Z</updated>
+        <summary type="html"><![CDATA[This article is an overview of relational and non-relational databases. Besides learning the fundamental differences between the two types of databases, you will also learn how to decide which one to use for your next project by going over their strengths and weaknesses. Here is what we'll cover:  1.]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js Image Tutorial – How to Upload, Crop, and Resize Images in the Browser in Next]]></title>
+        <id>625aba3aac55f60686c36423</id>
+        <link href="https://www.freecodecamp.org/news/how-to-upload-crop-resize-images-in-the-browser-in-nextjs/"/>
+        <updated>2022-04-18T17:19:23.000Z</updated>
+        <summary type="html"><![CDATA[Two of the most fundamental image editing functions are resizing and cropping. But you should do these carefully because they have the potential to degrade image quality. Cropping always includes removing a portion of the original image, resulting in the loss of some pixels. This post will teach you how]]></summary>
+        <author>
+            <name>Idris Olubisi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Systems Engineering? A Beginner's Guide]]></title>
+        <id>622394b8c4d0d306772f4a08</id>
+        <link href="https://www.freecodecamp.org/news/what-is-systems-engineering/"/>
+        <updated>2022-04-18T15:18:31.000Z</updated>
+        <summary type="html"><![CDATA[I was recently reading J. Martin's book Systems Engineering Guidebook – A Process for Developing Systems and Products. From it, I learned that systems engineering reduces manufacturing costs by 40% – did you know that? Neither did I. Even after taking a class where one of the topics was systems]]></summary>
+        <author>
+            <name>Tiago Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which Computational Universe Do We Live In?]]></title>
+        <id>https://www.quantamagazine.org/?p=114176</id>
+        <link href="https://www.quantamagazine.org/which-computational-universe-do-we-live-in-20220418/"/>
+        <updated>2022-04-18T14:45:14.000Z</updated>
+        <summary type="html"><![CDATA[Cryptographers want to know which of five possible worlds we inhabit, which will reveal whether truly secure cryptography is even possible.            
+The post Which Computational Universe Do We Live In? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Erica Klarreich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to measure network quality (download/upload) on macOS  (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/how-to-measure-network-quality-download-upload-on-macos/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/how-to-measure-network-quality-download-upload-on-macos/"/>
+        <updated>2022-04-17T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Short'n'sweet: I usually use Netflix' fast.com to measure my internet connection's quality.
+Today I learned that macOS Monterey comes with a CLI tool to do exactly this, too.
+$ networkQuality
+==== SUMMARY ====
+Upload capacity: 382.509 Kbps
+Download capacity: 8.432 Mbps
+Upload flows: 16
+Download flows: 20
+Responsiveness: Low (109 RPM)
+
+Nice! 👏
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Print. Fold. Reminisce.]]></title>
         <id>62534fe207f695657dd4acf3</id>
@@ -1765,27 +1851,6 @@ Today I'm entering my last week working for Contentful. It's been fabulous two y
 And because the situation in Europe didn't get any better. If you can, please consider offering help or donating money to the folks in Ukraine.
 💙💛
 Somet…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to align the text of the last paragraph line (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/how-to-align-the-text-of-the-last-paragraph-line/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/how-to-align-the-text-of-the-last-paragraph-line/"/>
-        <updated>2022-03-19T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today I learned there's a CSS property to align the last line of a rendered paragraph – text-align-last. 😲
-Initially, I couldn't see the value of this property because the last paragraph line always follows the overall text-align property. If your text is left-aligned, the last line is left-aligned, too. The same applies to center and right.
-So, what's the deal?
-A use case for text-align-last
-
-After researching the topic, I discovered that the property can be helpful with text-align: justify. As discussed in a Tailwind issue, you can't style justified paragraphs and control the alignment of the last line. For example, a layout like the one below is not possible without an additional CSS property.
-
-
-
-          
-            
-With a combination of text-align and text-align-last this design b…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>
