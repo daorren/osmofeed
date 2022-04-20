@@ -12,6 +12,96 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "625c8890ac55f60686c37088",
+          "author": "Zaira Hira",
+          "description": "Linux is a multi-user Operating System which means it supports multiple users on a single system.  Each user has its own rights which might be limited as well to increase security. For example, users have a particular set of permissions to access a file – some users might be",
+          "link": "https://www.freecodecamp.org/news/linux-permissions-how-to-find-permissions-of-a-file/",
+          "publishedOn": "2022-04-19T21:49:02.000Z",
+          "wordCount": 1083,
+          "title": "Linux Permissions – How to Find Permissions of a File",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Copy-of-python-append.png"
+        },
+        {
+          "id": "6252e40fac55f60686c3142d",
+          "author": "Caleb Olojo",
+          "description": "When you are building an application that can be accessed on the web, there are a lot of dependencies or packages that you will need for your application to function well. You'll need most of these packages when you're building JAMStack applications with frameworks or libraries like React, Vuejs, Next.js,",
+          "link": "https://www.freecodecamp.org/news/how-to-bypass-es-modules-error-in-next-js/",
+          "publishedOn": "2022-04-19T19:58:52.000Z",
+          "wordCount": 1231,
+          "title": "How to Bypass ES Modules Errors in Next.js with Dynamic Imports",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/tim-gouw-1K9T5YiZ2WU-unsplash.jpg"
+        },
+        {
+          "id": "625d1728ac55f60686c3725e",
+          "author": "Sebastian Sigl",
+          "description": "Containers are an essential tool for software development today. Running applications in any environment becomes easy when you leverage containers.  The most popular technology for running containers is Docker [https://www.docker.com/], which runs on any operating system. In this blog post, you will learn to use Docker for the top",
+          "link": "https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/",
+          "publishedOn": "2022-04-19T19:50:39.000Z",
+          "wordCount": 1546,
+          "title": "What is Docker? Learn How to Use Containers – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/how-to-use-docker-containers.png"
+        },
+        {
+          "id": "625e7b77ac55f60686c37edc",
+          "author": "Kolade Chris",
+          "description": "As a software developer, you’ve probably been in a situation where your code is not working as expected. This could happen because you made a typo, you weren't paying enough attention, or you weren't sure how something worked. When your code doesn't work, it's frustrating – but the only thing",
+          "link": "https://www.freecodecamp.org/news/rubber-duck-debugging/",
+          "publishedOn": "2022-04-19T17:55:41.000Z",
+          "wordCount": 1007,
+          "title": "Rubber Duck Debugging",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/duck-meet-gd27f1e256_1280.jpg"
+        },
+        {
+          "id": "61372766d6679a07b7d43ded",
+          "author": "Mihail Gaberov",
+          "description": "In this tutorial, we will see how to build an Order Book web application, that we'll use to display real-time cryptocurrency info. We will use React with Typescript [https://create-react-app.dev/docs/adding-typescript/] for creating the UI,  Redux [https://redux.js.org/] for managing the application state, and  styled-components [https://styled-components.com/] for applying the styling. And",
+          "link": "https://www.freecodecamp.org/news/react-websockets-project-build-real-time-order-book-app/",
+          "publishedOn": "2022-04-19T17:15:27.000Z",
+          "wordCount": 5501,
+          "title": "React + WebSockets Project – Build a Real-Time Order Book Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/react-and-websockets-articlde.png"
+        },
+        {
+          "id": "6259eec8ac55f60686c35fe1",
+          "author": "Rodrigo Kamada",
+          "description": "In this article, we'll create an application using the latest version of Angular. Then we'll host it on the GitHub Pages static website service using the continuous integration tool Travis CI to deploy the application. Prerequisites Before you start, you need to install and configure the tools below to create",
+          "link": "https://www.freecodecamp.org/news/host-an-angular-application-on-github-pages-with-travis-ci/",
+          "publishedOn": "2022-04-19T10:00:00.000Z",
+          "wordCount": 1523,
+          "title": "How to Host an Angular Application on GitHub Pages with Travis CI",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/angular-travisci-cover.png"
+        },
+        {
+          "id": "62584ad7ac55f60686c34bd0",
+          "author": "Ihechikara Vincent Abba",
+          "description": "The datetime object lets us work with dates and times in Python. But the value returned when we use this object is of the datatime data type rather than a  string. Here is an example that prints the current year, month, day and time to the console: from datetime",
+          "link": "https://www.freecodecamp.org/news/strftime-python-datetime-timestamp-string/",
+          "publishedOn": "2022-04-19T01:15:23.000Z",
+          "wordCount": 700,
+          "title": "strftime – Python DateTime Timestamp String",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/brooke-lark-BRBjShcA8D4-unsplash.jpg"
+        },
+        {
+          "id": "625bf31cac55f60686c36991",
+          "author": "Temani Afif",
+          "description": "If you are new to CSS gradients, you may have heard about something called  radial-gradient(). If you have never used it before, you are in the right place to learn about it. In this tutorial, I will focus on some real and practical examples to explain the secrets behind",
+          "link": "https://www.freecodecamp.org/news/css-radial-gradient/",
+          "publishedOn": "2022-04-19T01:12:33.000Z",
+          "wordCount": 2426,
+          "title": "Learn CSS radial-gradient by Building Background Patterns",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pattern-header.png"
+        },
+        {
+          "id": "625c80fcac55f60686c37035",
+          "author": "Jose Vicente Nunez",
+          "description": "In a previous article [/news/wireless-security-using-raspberry-pi-4-kismet-and-python/], I showed you how to secure your wireless home network using Kismet [https://www.kismetwireless.net/]. Kismet is perfect for detecting anomalies and certain types of attack – but what if I want to analyze the traffic and look for abnormal patterns or patterns that could indicate an",
+          "link": "https://www.freecodecamp.org/news/home-network-security-with-suricata-raspberrypi4-python/",
+          "publishedOn": "2022-04-19T00:23:10.000Z",
+          "wordCount": 3301,
+          "title": "Home Network Security – How to Use Suricata, RaspberryPI4, and Python to Make Your Network Safe",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-george-becker-333837.jpg"
+        },
+        {
           "id": "601e56cc0a2838549dcbf3d6",
           "author": "Patrick Cyubahiro",
           "description": "Hi, folks! Today we are going to talk about object-oriented programming in Java. This article will help give you a thorough understanding of the underlying principles of object-oriented programming and its concepts.  Once you understand these concepts, you should have the confidence and ability to develop basic problem-solving applications",
@@ -1210,26 +1300,6 @@
           "wordCount": 1376,
           "title": "Chmod Command – How to Change File Permissions in Linux",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-artem-beliaikin-912005.jpg"
-        },
-        {
-          "id": "6236e160cdcd57069ddfbbbf",
-          "author": "Kolade Chris",
-          "description": "In your Python applications, you might want to work with time to add functionalities like timestamps, check the time of a user’s activity, and more. One of the modules that helps you work with date and time in Python is datetime. With the datetime module, you can get the current",
-          "link": "https://www.freecodecamp.org/news/how-to-get-the-current-time-in-python-with-datetime/",
-          "publishedOn": "2022-03-21T13:52:01.000Z",
-          "wordCount": 1044,
-          "title": "How to Get the Current Time in Python with Datetime",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/datetime.png"
-        },
-        {
-          "id": "6237b189cdcd57069ddfc248",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Error messages help us solve/fix problems in our code. But some error messages, when you first see them, may confuse you because they seem unclear.  One of these errors is the \"SyntaxError: unexpected EOF while parsing\" error you might get in Python. In this article, we'll see why this",
-          "link": "https://www.freecodecamp.org/news/syntaxerror-unexpected-eof-while-parsing-python-error-solved/",
-          "publishedOn": "2022-03-21T13:47:24.000Z",
-          "wordCount": 689,
-          "title": "SyntaxError Unexpected EOF While Parsing Python Error [Solved]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/solve.jpg"
         }
       ]
     },
@@ -1238,6 +1308,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=114200",
+          "author": "Carrie Arnold",
+          "description": "Traits from RNA molecules passed between multiple generations of worms can work with genetic changes to influence future evolution.            \nThe post In Sexy Worms, Inheritance Beyond Genes Can Help Evolution first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/in-worms-inheritance-beyond-genes-can-help-evolution-20220419/",
+          "publishedOn": "2022-04-19T16:00:57.000Z",
+          "wordCount": 2376,
+          "title": "In Sexy Worms, Inheritance Beyond Genes Can Help Evolution",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/04/Inheritance_1200_Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=114176",
           "author": "Erica Klarreich",
@@ -1437,16 +1517,6 @@
           "wordCount": 2261,
           "title": "Brain Chemical Helps Signal to Neurons When to Start a Movement",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/03/Neuromods_520x292.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=113416",
-          "author": "Thomas Lewton",
-          "description": "Physicists are devising clever new ways to exploit the extreme sensitivity of gravitational wave detectors like LIGO. But so far, they’ve seen no signs of exotica.            \nThe post A New Tool for Finding Dark Matter Digs Up Nothing first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/a-new-tool-for-finding-dark-matter-digs-up-nothing-20220321/",
-          "publishedOn": "2022-03-21T13:56:36.000Z",
-          "wordCount": 1565,
-          "title": "A New Tool for Finding Dark Matter Digs Up Nothing",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Beam-Splitter_1200_social.jpg"
         }
       ]
     },
@@ -1494,16 +1564,6 @@
           "wordCount": 885,
           "title": "Weekend Reading —🦆 What the duck",
           "imageUrl": "https://labnotes.org/content/images/2022/03/FN7IytGWUAgpKDK.jpeg"
-        },
-        {
-          "id": "622eb2edd86b41350151f191",
-          "author": "Assaf Arkin",
-          "description": "This week we make some progress, create an honest UX portfolio, peer into a ransomware workplace, and learn to halve a giraffe.",
-          "link": "https://labnotes.org/weekend-reading-people-who-are-very-computer/",
-          "publishedOn": "2022-03-21T00:56:59.000Z",
-          "wordCount": 1043,
-          "title": "Weekend Reading — People who are Very Computer",
-          "imageUrl": "https://labnotes.org/content/images/2022/03/image-23-1.png"
         }
       ]
     },
@@ -1512,6 +1572,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-63/",
+          "author": null,
+          "description": "Happy week, friends! 👋\n\nI just discovered that the great resignation has its own Wikipedia entry now and because I quit my job, too, I reflected on the reasons to change companies six times in eleven years.\nTo my surprise, I mainly changed jobs because of \"bigger\" topics like an overall disagreement with the company vision or not being satisfied with company values that were nothing but wallpaper.\nAnd even though no reason was the same, five of my six resignations had one thing in common. My managers were caught by surprise and only started acting on my frustration after I decided to leave.\nThis is months too late...\nI learned about an approach that could help out while listening to the Work Life podcast – the stay interview.\nAsk people why they’ve decided to stick around – and what would…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-63/",
+          "publishedOn": "2022-04-18T22:00:00.000Z",
+          "wordCount": 1135,
+          "title": "Web Weekly #63 (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252363/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/today-i-learned/how-to-measure-network-quality-download-upload-on-macos/",
           "author": null,
@@ -1591,16 +1661,6 @@
           "wordCount": 471,
           "title": "How to match HTML elements with an indeterminate state (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20match%20HTML%20elements%20with%20an%20indeterminate%20state/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-60/",
-          "author": null,
-          "description": "Happy Monday, friends!\n\nToday's Web Weekly is the sixtieth edition. 😊 It's wild that this tiny newsletter has been with me for over a year now. Thanks for reading along!\nThis time Web Weekly includes:\na guide to networking at developer events\nthe security problems in the npm ecosystem\nthe difference between onchange and onChange\n... and, as always, GitHub repositories, a new Tiny Helper and some music.\nOn a personal note\n\nToday I'm entering my last week working for Contentful. It's been fabulous two years. I learned so much about management and leadership. But now, after a month-long break, I'll start my next adventure. Watch the space!\nAnd because the situation in Europe didn't get any better. If you can, please consider offering help or donating money to the folks in Ukraine.\n💙💛\nSomet…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-60/",
-          "publishedOn": "2022-03-20T23:00:00.000Z",
-          "wordCount": 1242,
-          "title": "Web Weekly #60 (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252360/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
         }
       ]
     },

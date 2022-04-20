@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-19T01:54:20.492Z</updated>
+    <updated>2022-04-20T01:58:22.898Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Permissions – How to Find Permissions of a File]]></title>
+        <id>625c8890ac55f60686c37088</id>
+        <link href="https://www.freecodecamp.org/news/linux-permissions-how-to-find-permissions-of-a-file/"/>
+        <updated>2022-04-19T21:49:02.000Z</updated>
+        <summary type="html"><![CDATA[Linux is a multi-user Operating System which means it supports multiple users on a single system.  Each user has its own rights which might be limited as well to increase security. For example, users have a particular set of permissions to access a file – some users might be]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Bypass ES Modules Errors in Next.js with Dynamic Imports]]></title>
+        <id>6252e40fac55f60686c3142d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-bypass-es-modules-error-in-next-js/"/>
+        <updated>2022-04-19T19:58:52.000Z</updated>
+        <summary type="html"><![CDATA[When you are building an application that can be accessed on the web, there are a lot of dependencies or packages that you will need for your application to function well. You'll need most of these packages when you're building JAMStack applications with frameworks or libraries like React, Vuejs, Next.js,]]></summary>
+        <author>
+            <name>Caleb Olojo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Docker? Learn How to Use Containers – Explained with Examples]]></title>
+        <id>625d1728ac55f60686c3725e</id>
+        <link href="https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/"/>
+        <updated>2022-04-19T19:50:39.000Z</updated>
+        <summary type="html"><![CDATA[Containers are an essential tool for software development today. Running applications in any environment becomes easy when you leverage containers.  The most popular technology for running containers is Docker [https://www.docker.com/], which runs on any operating system. In this blog post, you will learn to use Docker for the top]]></summary>
+        <author>
+            <name>Sebastian Sigl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rubber Duck Debugging]]></title>
+        <id>625e7b77ac55f60686c37edc</id>
+        <link href="https://www.freecodecamp.org/news/rubber-duck-debugging/"/>
+        <updated>2022-04-19T17:55:41.000Z</updated>
+        <summary type="html"><![CDATA[As a software developer, you’ve probably been in a situation where your code is not working as expected. This could happen because you made a typo, you weren't paying enough attention, or you weren't sure how something worked. When your code doesn't work, it's frustrating – but the only thing]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React + WebSockets Project – Build a Real-Time Order Book Application]]></title>
+        <id>61372766d6679a07b7d43ded</id>
+        <link href="https://www.freecodecamp.org/news/react-websockets-project-build-real-time-order-book-app/"/>
+        <updated>2022-04-19T17:15:27.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will see how to build an Order Book web application, that we'll use to display real-time cryptocurrency info. We will use React with Typescript [https://create-react-app.dev/docs/adding-typescript/] for creating the UI,  Redux [https://redux.js.org/] for managing the application state, and  styled-components [https://styled-components.com/] for applying the styling. And]]></summary>
+        <author>
+            <name>Mihail Gaberov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Sexy Worms, Inheritance Beyond Genes Can Help Evolution]]></title>
+        <id>https://www.quantamagazine.org/?p=114200</id>
+        <link href="https://www.quantamagazine.org/in-worms-inheritance-beyond-genes-can-help-evolution-20220419/"/>
+        <updated>2022-04-19T16:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Traits from RNA molecules passed between multiple generations of worms can work with genetic changes to influence future evolution.            
+The post In Sexy Worms, Inheritance Beyond Genes Can Help Evolution first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Carrie Arnold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Host an Angular Application on GitHub Pages with Travis CI]]></title>
+        <id>6259eec8ac55f60686c35fe1</id>
+        <link href="https://www.freecodecamp.org/news/host-an-angular-application-on-github-pages-with-travis-ci/"/>
+        <updated>2022-04-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll create an application using the latest version of Angular. Then we'll host it on the GitHub Pages static website service using the continuous integration tool Travis CI to deploy the application. Prerequisites Before you start, you need to install and configure the tools below to create]]></summary>
+        <author>
+            <name>Rodrigo Kamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[strftime – Python DateTime Timestamp String]]></title>
+        <id>62584ad7ac55f60686c34bd0</id>
+        <link href="https://www.freecodecamp.org/news/strftime-python-datetime-timestamp-string/"/>
+        <updated>2022-04-19T01:15:23.000Z</updated>
+        <summary type="html"><![CDATA[The datetime object lets us work with dates and times in Python. But the value returned when we use this object is of the datatime data type rather than a  string. Here is an example that prints the current year, month, day and time to the console: from datetime]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS radial-gradient by Building Background Patterns]]></title>
+        <id>625bf31cac55f60686c36991</id>
+        <link href="https://www.freecodecamp.org/news/css-radial-gradient/"/>
+        <updated>2022-04-19T01:12:33.000Z</updated>
+        <summary type="html"><![CDATA[If you are new to CSS gradients, you may have heard about something called  radial-gradient(). If you have never used it before, you are in the right place to learn about it. In this tutorial, I will focus on some real and practical examples to explain the secrets behind]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home Network Security – How to Use Suricata, RaspberryPI4, and Python to Make Your Network Safe]]></title>
+        <id>625c80fcac55f60686c37035</id>
+        <link href="https://www.freecodecamp.org/news/home-network-security-with-suricata-raspberrypi4-python/"/>
+        <updated>2022-04-19T00:23:10.000Z</updated>
+        <summary type="html"><![CDATA[In a previous article [/news/wireless-security-using-raspberry-pi-4-kismet-and-python/], I showed you how to secure your wireless home network using Kismet [https://www.kismetwireless.net/]. Kismet is perfect for detecting anomalies and certain types of attack – but what if I want to analyze the traffic and look for abnormal patterns or patterns that could indicate an]]></summary>
+        <author>
+            <name>Jose Vicente Nunez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Object-Oriented Programming in Java – A Beginner's Guide]]></title>
         <id>601e56cc0a2838549dcbf3d6</id>
@@ -14,6 +115,23 @@
         <summary type="html"><![CDATA[Hi, folks! Today we are going to talk about object-oriented programming in Java. This article will help give you a thorough understanding of the underlying principles of object-oriented programming and its concepts.  Once you understand these concepts, you should have the confidence and ability to develop basic problem-solving applications]]></summary>
         <author>
             <name>Patrick Cyubahiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #63 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-63/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-63/"/>
+        <updated>2022-04-18T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Happy week, friends! 👋
+
+I just discovered that the great resignation has its own Wikipedia entry now and because I quit my job, too, I reflected on the reasons to change companies six times in eleven years.
+To my surprise, I mainly changed jobs because of "bigger" topics like an overall disagreement with the company vision or not being satisfied with company values that were nothing but wallpaper.
+And even though no reason was the same, five of my six resignations had one thing in common. My managers were caught by surprise and only started acting on my frustration after I decided to leave.
+This is months too late...
+I learned about an approach that could help out while listening to the Work Life podcast – the stay interview.
+Ask people why they’ve decided to stick around – and what would…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
@@ -1789,70 +1907,6 @@ The post Brain Chemical Helps Signal to Neurons When to Start a Movement first a
         <summary type="html"><![CDATA[One of the first commands I learned on Linux was the touch command that creates a file using the command line.  If you ever try to create, for instance, a text file, all you have to do is type  touch filename.txt, press Enter, and the file is created]]></summary>
         <author>
             <name>Daniel Rosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Tool for Finding Dark Matter Digs Up Nothing]]></title>
-        <id>https://www.quantamagazine.org/?p=113416</id>
-        <link href="https://www.quantamagazine.org/a-new-tool-for-finding-dark-matter-digs-up-nothing-20220321/"/>
-        <updated>2022-03-21T13:56:36.000Z</updated>
-        <summary type="html"><![CDATA[Physicists are devising clever new ways to exploit the extreme sensitivity of gravitational wave detectors like LIGO. But so far, they’ve seen no signs of exotica.            
-The post A New Tool for Finding Dark Matter Digs Up Nothing first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Thomas Lewton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get the Current Time in Python with Datetime]]></title>
-        <id>6236e160cdcd57069ddfbbbf</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-the-current-time-in-python-with-datetime/"/>
-        <updated>2022-03-21T13:52:01.000Z</updated>
-        <summary type="html"><![CDATA[In your Python applications, you might want to work with time to add functionalities like timestamps, check the time of a user’s activity, and more. One of the modules that helps you work with date and time in Python is datetime. With the datetime module, you can get the current]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SyntaxError Unexpected EOF While Parsing Python Error [Solved]]]></title>
-        <id>6237b189cdcd57069ddfc248</id>
-        <link href="https://www.freecodecamp.org/news/syntaxerror-unexpected-eof-while-parsing-python-error-solved/"/>
-        <updated>2022-03-21T13:47:24.000Z</updated>
-        <summary type="html"><![CDATA[Error messages help us solve/fix problems in our code. But some error messages, when you first see them, may confuse you because they seem unclear.  One of these errors is the "SyntaxError: unexpected EOF while parsing" error you might get in Python. In this article, we'll see why this]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — People who are Very Computer]]></title>
-        <id>622eb2edd86b41350151f191</id>
-        <link href="https://labnotes.org/weekend-reading-people-who-are-very-computer/"/>
-        <updated>2022-03-21T00:56:59.000Z</updated>
-        <summary type="html"><![CDATA[This week we make some progress, create an honest UX portfolio, peer into a ransomware workplace, and learn to halve a giraffe.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #60 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-60/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-60/"/>
-        <updated>2022-03-20T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Happy Monday, friends!
-
-Today's Web Weekly is the sixtieth edition. 😊 It's wild that this tiny newsletter has been with me for over a year now. Thanks for reading along!
-This time Web Weekly includes:
-a guide to networking at developer events
-the security problems in the npm ecosystem
-the difference between onchange and onChange
-... and, as always, GitHub repositories, a new Tiny Helper and some music.
-On a personal note
-
-Today I'm entering my last week working for Contentful. It's been fabulous two years. I learned so much about management and leadership. But now, after a month-long break, I'll start my next adventure. Watch the space!
-And because the situation in Europe didn't get any better. If you can, please consider offering help or donating money to the folks in Ukraine.
-💙💛
-Somet…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
