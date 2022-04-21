@@ -12,6 +12,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "625fe437ac55f60686c38f04",
+          "author": "Kolade Chris",
+          "description": "If you are a regular Google Chrome user, then you might have encountered the error “dns_probe_finished_nxdomain” before. It is usually accompanied by “This site can’t be reached”. This error is associated with the Domain Name System (DNS) server and can occur due to misconfiguration in the DNS server, an unresponsive",
+          "link": "https://www.freecodecamp.org/news/dns_probe_finished_nxdomain-error-solved/",
+          "publishedOn": "2022-04-20T15:39:02.000Z",
+          "wordCount": 1292,
+          "title": "dns_probe_finished_nxdomain Error [Solved]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/earth-931552_1920.jpg"
+        },
+        {
+          "id": "626007e4ac55f60686c3924f",
+          "author": "Beau Carnes",
+          "description": "Redux Toolkit is an opinionated toolset for efficient Redux development created by the Redux team. It is the the standard and recommended way to write Redux logic and manage state in your JavaScript applications. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how",
+          "link": "https://www.freecodecamp.org/news/learn-redux-toolkit-the-recommended-way-to-use-redux/",
+          "publishedOn": "2022-04-20T13:33:54.000Z",
+          "wordCount": 492,
+          "title": "Learn Redux Toolkit – The Recommended Way to Use Redux",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/reduxtoolkit.png"
+        },
+        {
           "id": "625c8890ac55f60686c37088",
           "author": "Zaira Hira",
           "description": "Linux is a multi-user Operating System which means it supports multiple users on a single system.  Each user has its own rights which might be limited as well to increase security. For example, users have a particular set of permissions to access a file – some users might be",
@@ -1250,56 +1270,6 @@
           "wordCount": 601,
           "title": "How to Remove the Start Text from PowerShell",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Artboard-1-1.jpg"
-        },
-        {
-          "id": "62346eeacdcd57069ddfae72",
-          "author": "Suchandra Datta",
-          "description": "Operators in any programming language are the basic building blocks using which we can construct powerful, complex statements for problem solving.  Python offers different types of operators, like arithmetic operators, logical operators, relational operators and so on. In this post, let's dive into logical operators in Python and learn",
-          "link": "https://www.freecodecamp.org/news/operators-in-python-how-to-use-logical-operators-in-python/",
-          "publishedOn": "2022-03-22T00:21:14.000Z",
-          "wordCount": 1458,
-          "title": "Python Operator – Logical Operators in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-pixabay-161154.jpg"
-        },
-        {
-          "id": "62376c2ecdcd57069ddfbf7f",
-          "author": "Germán Cocca",
-          "description": "Hi! In this article we'll take a look at the many ways you can manage state in a React app. We'll start by talking about what state is, and then go through the many tools you can use to manage it. We'll look at the simple useState hook and also",
-          "link": "https://www.freecodecamp.org/news/how-to-manage-state-in-a-react-app/",
-          "publishedOn": "2022-03-21T23:31:54.000Z",
-          "wordCount": 5607,
-          "title": "How to Manage State in a React App – With Hooks, Redux, and More",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/lautaro-andreani-UYsBCu9RP3Y-unsplash.jpg"
-        },
-        {
-          "id": "6238da58cdcd57069ddfc85e",
-          "author": "Beau Carnes",
-          "description": "Visual Studio Code is one of the most popular code editors used by software developers. While it has many great features built-in, there are a lot of extensions you can install to increase your productivity.  We just published a video on the freeCodeCamp.org YouTube channel that will teach you",
-          "link": "https://www.freecodecamp.org/news/vs-code-extensions-to-increase-developer-productivity/",
-          "publishedOn": "2022-03-21T20:23:21.000Z",
-          "wordCount": 6691,
-          "title": "VS Code Extensions to Increase Developer Productivity",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/vscode.png"
-        },
-        {
-          "id": "6236cc8acdcd57069ddfba7a",
-          "author": "Jessica Wilkins",
-          "description": "freeCodeCamp's JavaScript certification [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/]  is filled with hundreds of interactive challenges. But one of the hardest ones to tackle for most beginners is the Record Collection [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection] . In this article, I will walk you through Record Collection [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-str",
-          "link": "https://www.freecodecamp.org/news/how-to-solve-the-record-collection-challenge/",
-          "publishedOn": "2022-03-21T18:14:42.000Z",
-          "wordCount": 1742,
-          "title": "How to Solve freeCodeCamp's Record Collection Challenge",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/fili-santillan-qp51FQhBnS0-unsplash.jpg"
-        },
-        {
-          "id": "62375a8dcdcd57069ddfbec1",
-          "author": "Daniel Rosa",
-          "description": "One of the first commands I learned on Linux was the touch command that creates a file using the command line.  If you ever try to create, for instance, a text file, all you have to do is type  touch filename.txt, press Enter, and the file is created",
-          "link": "https://www.freecodecamp.org/news/how-to-change-file-permissions-with-the-chmod-command-on-linux/",
-          "publishedOn": "2022-03-21T15:33:36.000Z",
-          "wordCount": 1376,
-          "title": "Chmod Command – How to Change File Permissions in Linux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-artem-beliaikin-912005.jpg"
         }
       ]
     },
@@ -1308,6 +1278,26 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=114258",
+          "author": "Steven Strogatz",
+          "description": "The immune system protects us from a full spectrum of pathogens, but without balance, it can end up hurting us over time, too. The immunologist Shruti Naik explains how our defenses can turn on us.            \nThe post Why Is Inflammation a Dangerous Necessity? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/why-is-inflammation-a-dangerous-necessity-20220420/",
+          "publishedOn": "2022-04-20T20:30:52.000Z",
+          "wordCount": 7654,
+          "title": "Why Is Inflammation a Dangerous Necessity?",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/04/JOY_OF_Y_E3_1200_Social_LOGO.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=114238",
+          "author": "Charlie Wood",
+          "description": "Vijay Balasubramanian investigates whether the fabric of the universe might be built from information, and what it means that physicists can even ask such a question.            \nThe post Pondering the Bits That Build Space-Time and Brains first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/pondering-the-bits-that-build-space-time-and-brains-20220420/",
+          "publishedOn": "2022-04-20T18:33:10.000Z",
+          "wordCount": 2782,
+          "title": "Pondering the Bits That Build Space-Time and Brains",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/04/Vijay_Balasubramanian_1200_Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=114200",
           "author": "Carrie Arnold",

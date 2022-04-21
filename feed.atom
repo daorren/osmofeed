@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-20T01:58:22.898Z</updated>
+    <updated>2022-04-21T01:49:55.787Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Is Inflammation a Dangerous Necessity?]]></title>
+        <id>https://www.quantamagazine.org/?p=114258</id>
+        <link href="https://www.quantamagazine.org/why-is-inflammation-a-dangerous-necessity-20220420/"/>
+        <updated>2022-04-20T20:30:52.000Z</updated>
+        <summary type="html"><![CDATA[The immune system protects us from a full spectrum of pathogens, but without balance, it can end up hurting us over time, too. The immunologist Shruti Naik explains how our defenses can turn on us.            
+The post Why Is Inflammation a Dangerous Necessity? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steven Strogatz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pondering the Bits That Build Space-Time and Brains]]></title>
+        <id>https://www.quantamagazine.org/?p=114238</id>
+        <link href="https://www.quantamagazine.org/pondering-the-bits-that-build-space-time-and-brains-20220420/"/>
+        <updated>2022-04-20T18:33:10.000Z</updated>
+        <summary type="html"><![CDATA[Vijay Balasubramanian investigates whether the fabric of the universe might be built from information, and what it means that physicists can even ask such a question.            
+The post Pondering the Bits That Build Space-Time and Brains first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Charlie Wood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dns_probe_finished_nxdomain Error [Solved]]]></title>
+        <id>625fe437ac55f60686c38f04</id>
+        <link href="https://www.freecodecamp.org/news/dns_probe_finished_nxdomain-error-solved/"/>
+        <updated>2022-04-20T15:39:02.000Z</updated>
+        <summary type="html"><![CDATA[If you are a regular Google Chrome user, then you might have encountered the error “dns_probe_finished_nxdomain” before. It is usually accompanied by “This site can’t be reached”. This error is associated with the Domain Name System (DNS) server and can occur due to misconfiguration in the DNS server, an unresponsive]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Redux Toolkit – The Recommended Way to Use Redux]]></title>
+        <id>626007e4ac55f60686c3924f</id>
+        <link href="https://www.freecodecamp.org/news/learn-redux-toolkit-the-recommended-way-to-use-redux/"/>
+        <updated>2022-04-20T13:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Redux Toolkit is an opinionated toolset for efficient Redux development created by the Redux team. It is the the standard and recommended way to write Redux logic and manage state in your JavaScript applications. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux Permissions – How to Find Permissions of a File]]></title>
         <id>625c8890ac55f60686c37088</id>
@@ -1857,56 +1899,6 @@ The post Why Do We Die Without Sleep? first appeared on Quanta Magazine]]></summ
 The post Brain Chemical Helps Signal to Neurons When to Start a Movement first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Allison Whitten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Operator – Logical Operators in Python]]></title>
-        <id>62346eeacdcd57069ddfae72</id>
-        <link href="https://www.freecodecamp.org/news/operators-in-python-how-to-use-logical-operators-in-python/"/>
-        <updated>2022-03-22T00:21:14.000Z</updated>
-        <summary type="html"><![CDATA[Operators in any programming language are the basic building blocks using which we can construct powerful, complex statements for problem solving.  Python offers different types of operators, like arithmetic operators, logical operators, relational operators and so on. In this post, let's dive into logical operators in Python and learn]]></summary>
-        <author>
-            <name>Suchandra Datta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Manage State in a React App – With Hooks, Redux, and More]]></title>
-        <id>62376c2ecdcd57069ddfbf7f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-manage-state-in-a-react-app/"/>
-        <updated>2022-03-21T23:31:54.000Z</updated>
-        <summary type="html"><![CDATA[Hi! In this article we'll take a look at the many ways you can manage state in a React app. We'll start by talking about what state is, and then go through the many tools you can use to manage it. We'll look at the simple useState hook and also]]></summary>
-        <author>
-            <name>Germán Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VS Code Extensions to Increase Developer Productivity]]></title>
-        <id>6238da58cdcd57069ddfc85e</id>
-        <link href="https://www.freecodecamp.org/news/vs-code-extensions-to-increase-developer-productivity/"/>
-        <updated>2022-03-21T20:23:21.000Z</updated>
-        <summary type="html"><![CDATA[Visual Studio Code is one of the most popular code editors used by software developers. While it has many great features built-in, there are a lot of extensions you can install to increase your productivity.  We just published a video on the freeCodeCamp.org YouTube channel that will teach you]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Solve freeCodeCamp's Record Collection Challenge]]></title>
-        <id>6236cc8acdcd57069ddfba7a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-solve-the-record-collection-challenge/"/>
-        <updated>2022-03-21T18:14:42.000Z</updated>
-        <summary type="html"><![CDATA[freeCodeCamp's JavaScript certification [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/]  is filled with hundreds of interactive challenges. But one of the hardest ones to tackle for most beginners is the Record Collection [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection] . In this article, I will walk you through Record Collection [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-str]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chmod Command – How to Change File Permissions in Linux]]></title>
-        <id>62375a8dcdcd57069ddfbec1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-change-file-permissions-with-the-chmod-command-on-linux/"/>
-        <updated>2022-03-21T15:33:36.000Z</updated>
-        <summary type="html"><![CDATA[One of the first commands I learned on Linux was the touch command that creates a file using the command line.  If you ever try to create, for instance, a text file, all you have to do is type  touch filename.txt, press Enter, and the file is created]]></summary>
-        <author>
-            <name>Daniel Rosa</name>
         </author>
     </entry>
 </feed>
