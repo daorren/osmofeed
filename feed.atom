@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-26T01:56:26.979Z</updated>
+    <updated>2022-04-27T01:59:18.746Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Resize Elements in Figma]]></title>
+        <id>6253a5fcac55f60686c31c25</id>
+        <link href="https://www.freecodecamp.org/news/how-to-resize-elements-in-figma/"/>
+        <updated>2022-04-26T23:05:31.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll learn a few different ways to resize elements and groups in Figma (in addition to the default method). We'll also learn how to resize frames without moving elements in the frames. In Figma, there are other ways to resize elements apart from the default method. So]]></summary>
+        <author>
+            <name>Ijelekhai Faith Olohijere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Homomorphic Encryption?]]></title>
+        <id>6255a0d4ac55f60686c32eaa</id>
+        <link href="https://www.freecodecamp.org/news/introduction-to-homomorphic-encryption/"/>
+        <updated>2022-04-26T23:01:28.000Z</updated>
+        <summary type="html"><![CDATA[In this article we will discuss Homomorphic Encryption, the problem that it solves, and the different types that exist.  Then we will write code in Python to show some of its capabilities in action. Here's what we'll cover:  1. What is Homomorphic Encryption?  2. Advantages of Homomorphic]]></summary>
+        <author>
+            <name>Aris Zagakos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vite.js Tutorial – How to Install and Use Vite in Your Web Projects]]></title>
+        <id>6265c16bac55f60686c3bf05</id>
+        <link href="https://www.freecodecamp.org/news/get-started-with-vite/"/>
+        <updated>2022-04-26T21:41:58.000Z</updated>
+        <summary type="html"><![CDATA[Vite.js [/news/p/e534a679-ce3c-4cf1-842b-96087d30944d/Vite.js] is a rapid development tool for modern web projects. It focuses on speed and performance by improving the development experience. Vite uses native browser ES imports to enable support for modern browsers without a build process. Vite consists of two major parts:  * The dev server provides]]></summary>
+        <author>
+            <name>Popoola Temitope</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Memoization? How and When to Memoize in JavaScript and React]]></title>
+        <id>6259a28cac55f60686c35b31</id>
+        <link href="https://www.freecodecamp.org/news/memoization-in-javascript-and-react/"/>
+        <updated>2022-04-26T21:16:12.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we will talk about memoization, an optimization technique that can help make heavy computation processes more efficient. We will start by talking about what memoization is and when it's best to implement it. Later on we will give practical examples for JavaScript and React. Table]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Wait – How to Sleep N Seconds in JS with .setTimeout()]]></title>
+        <id>622864b663ded806bb9e6f8d</id>
+        <link href="https://www.freecodecamp.org/news/javascript-wait-how-to-sleep-n-seconds-in-js-with-settimeout/"/>
+        <updated>2022-04-26T19:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you might want to delay the execution of your code. You may need certain lines of code to execute at a point in the future, when you explicitly specify, rather than all the code executing synchronously. Something like that is possible with JavaScript. In this article, you will learn]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Text Align in CSS – How to Align Text in Center with HTML]]></title>
+        <id>626595d9ac55f60686c3bcb6</id>
+        <link href="https://www.freecodecamp.org/news/text-align-in-css-how-to-align-text-in-center-with-html/"/>
+        <updated>2022-04-26T19:08:29.000Z</updated>
+        <summary type="html"><![CDATA[There will be many times where you will need to center some text using HTML and CSS. But what is the best way to go about that? In this article, I will show you how to use the text-align property in CSS and show you how to vertically align text]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python For Loop Example – How to Write Loops in Python]]></title>
+        <id>6267fd8cc1c601068f4e77d0</id>
+        <link href="https://www.freecodecamp.org/news/python-for-loop-example-how-to-write-loops-in-python/"/>
+        <updated>2022-04-26T19:01:37.000Z</updated>
+        <summary type="html"><![CDATA[If you are just getting started in Python, for loops are one of the fundamentals you should learn how to use. In the Python programming language, for loops are also called “definite loops” because they perform the instruction a certain number of times. This is in contrast to while loops,]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Reusable SVG Icon React Components]]></title>
+        <id>6260a9fcac55f60686c399f9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-reusable-icon-react-components-for-colors-and-sizes-customization/"/>
+        <updated>2022-04-26T18:22:02.000Z</updated>
+        <summary type="html"><![CDATA[We use icons when building frontend applications all the time – for indications, pointers, and so on. Here's how to create a reusable React component for icons. When it comes to icons, you can use PNG or SVG images. PNGs come with a fixed color but allow dimension changes (like]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ancient Genes for Symbiosis Hint at Mitochondria’s Origins]]></title>
+        <id>https://www.quantamagazine.org/?p=114387</id>
+        <link href="https://www.quantamagazine.org/ancient-genes-for-symbiosis-hint-at-mitochondrias-origins-20220426/"/>
+        <updated>2022-04-26T15:20:20.000Z</updated>
+        <summary type="html"><![CDATA[Was the addition of mitochondria a first step in the formation of complex cells or one of the last? A new study of bacteria tries to answer this contentious question in evolutionary biology.            
+The post Ancient Genes for Symbiosis Hint at Mitochondria’s Origins first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Veronique Greenwood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Debug Applications with Strace, Python, and Wireshark]]></title>
+        <id>6262a8d5ac55f60686c3abd5</id>
+        <link href="https://www.freecodecamp.org/news/debug-an-app-with-strace-python-wireshark/"/>
+        <updated>2022-04-26T00:23:26.000Z</updated>
+        <summary type="html"><![CDATA[In this article I will show you a few techniques you can use to troubleshoot a program when is not behaving.  This list is not universal and, depending on what you are looking for, it may not be enough to solve your problem. But it should be a good]]></summary>
+        <author>
+            <name>Jose Vicente Nunez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Variables Definition – What are CSS Vars and How to Use Them?]]></title>
         <id>6265e8feac55f60686c3bf60</id>
@@ -1994,26 +2095,6 @@ The post Cells Blaze Their Own Trails to Navigate Through the Body first appeare
         <summary type="html"><![CDATA[Having strong computer skills is necessary for almost any job. That knowledge can set you apart from others who don't possess it. But what are the most necessary computer skills to have? And when you acquire those skills, how do you showcase them effectively to prospective employers? In this article,]]></summary>
         <author>
             <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is it Like to Work as a Junior Developer?]]></title>
-        <id>6236efafcdcd57069ddfbd4f</id>
-        <link href="https://www.freecodecamp.org/news/what-does-a-junior-developer-do-on-the-job/"/>
-        <updated>2022-03-28T13:51:12.000Z</updated>
-        <summary type="html"><![CDATA[If you're studying to become a professional developer, you might be wondering what a junior developer does on the job. In this article, I will talk about the typical day of a junior developer and what to expect on the job. The Onboarding Process When you get started with a]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading —🦆 What the duck]]></title>
-        <id>6237cd867e842c4ac4bd9a1c</id>
-        <link href="https://labnotes.org/weekend-reading-what-the-duck/"/>
-        <updated>2022-03-27T20:33:29.000Z</updated>
-        <summary type="html"><![CDATA[This week we build a better search engine, print the receipts, munch on a travel taco, and communicate with care.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
