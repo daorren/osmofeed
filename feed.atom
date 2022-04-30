@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-29T01:59:05.777Z</updated>
+    <updated>2022-04-30T01:58:33.231Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Good and bad with generics]]></title>
+        <id>https://golangweekly.com/issues/409</id>
+        <link href="https://golangweekly.com/issues/409"/>
+        <updated>2022-04-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🇺🇦 #​409 — April 29, 2022
+
+
+Unsubscribe  |  Read on the Web
+
+
+
+The Go Weekly Newsletter
+
+
+
+
+  
+
+
+
+
+
+  
+  
+'Crimes' with Go Generics — Many Go developers have warned  there’s likely a period of churn and trial and error as everyone learns when and, importantly, when not to use generics. This post playfully focuses on the latter and on bad ideas which, perhaps, can help you refine your own attitudes to them.
+Xe Iaso 
+
+
+  
+  
+Shaving 40% Off Google’s B-Tree Implementation with Generics — We’ve seen articles saying generics can hurt performance, but here’s a case showing a sizeable performance gain in many different categories: user time, heap allocations, GC pressure, and CPU utilization. Replacing interfaces with generics had more effect here than you might imagine.
+Michal Matczuk (Scyllad…]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Blazor WebAssembly and Web API on .NET 6 by Building a Shopping Cart App]]></title>
         <id>626acd1fc1c601068f4e86be</id>
@@ -35,6 +72,22 @@ The post Secrets of the Moon’s Permanent Shadows Are Coming to Light first app
         <summary type="html"><![CDATA[Do you ever find it challenging to work on your project, side hustle, or even your hobby?  Have you ever had those moments where nothing feels exciting? You lay in bed thinking – is it me, or is my work that boring?  I have those days too. Some]]></summary>
         <author>
             <name>Shruti Kapoor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A clipboard magic trick - how to use different MIME types with the Clipboard API (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/a-clipboard-magic-trick-how-to-use-different-mime-types-with-the-clipboard/</id>
+        <link href="https://www.stefanjudis.com/notes/a-clipboard-magic-trick-how-to-use-different-mime-types-with-the-clipboard/"/>
+        <updated>2022-04-27T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I discovered a web development magic trick from Cyrus Roshan today. It took me a good 20 minutes to figure out how the trick works, and I learned some things about JavaScript clipboard handling and MIME types. Sounds intriguing? Read on!
+Try the magic tricks yourself; I'll wait. 😉
+If you didn't try it, here's the flow:
+You're tasked to click an ASCII art play card. The card's characters are automatically copied to your clipboard using JavaScript.
+Then, a new screen tells you to paste the copied ASCII card into a textarea (which works as expected).
+Next, you're told to open a new Google Doc and paste your clipboard content into it (the ASCII art playing card).
+The just copied ASCII art now includes a new line telling you to paste the same content into the URL bar, and boom! 🪄 You just pas…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
@@ -1987,74 +2040,6 @@ Writing a Document Database From Scratch in Go — Now this is what we’re alwa
 The post Beyond the Second Law first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Nicole Yunger Halpern</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Migrate a Database in PHP Using Phinx]]></title>
-        <id>62418eca138a19064b066d98</id>
-        <link href="https://www.freecodecamp.org/news/easy-database-migrations-in-php-using-phinx/"/>
-        <updated>2022-03-30T23:59:31.000Z</updated>
-        <summary type="html"><![CDATA[Building modern web applications usually involves a lot of data. Managing these data (databases) during development and production can be a lot.  This is especially tru if there's more than one developer, and multiple environments where changes have to be manually implemented. Database migrations help developers manage these changes]]></summary>
-        <author>
-            <name>Zubair Idris Aweda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to match HTML elements with an indeterminate state (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/how-to-match-html-elements-with-an-indeterminate-state/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/how-to-match-html-elements-with-an-indeterminate-state/"/>
-        <updated>2022-03-30T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Adam's excellent guide "Building a loading bar component" covers all things about the progress element. It's a good read because it covers HTML, CSS and JavaScript, and taught me something new!
-Today I learned that progress HTML elements are considered to be in an indeterminate state if you don't define a element value.
-But it's not only the progress element that can have this state. It's:
-radio buttons in a group when no radio is selected
-checkboxes with an indeterminate JavaScript property set true
-and the mentioned progress elements without a defined value
-Why's that interesting? Indeterminate elements can be selected with the :indeterminate pseudo-class. 😲 (yeah, I haven't seen that one before either).
-See below that :indeterminate matches all radio elements in a group if there's none…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Undo Merge – How to Revert the Last Merge Commit in Git]]></title>
-        <id>62442bd2138a19064b06836a</id>
-        <link href="https://www.freecodecamp.org/news/git-undo-merge-how-to-revert-the-last-merge-commit-in-git/"/>
-        <updated>2022-03-30T17:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Branching is an integral part of Git because it lets you work without tampering with code that's already in production. When you finish working with a branch other than main, you'll want to merge it with the main so the feature or bug fix you just integrated will be reflected.]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Schedule a Task With Firebase Scheduled Cloud Functions]]></title>
-        <id>62418f22138a19064b066da1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-schedule-a-task-with-firebase-cloud-functions/"/>
-        <updated>2022-03-30T17:14:35.000Z</updated>
-        <summary type="html"><![CDATA[I work on an app that removes the background of any image. The app will have a freemium plan, which means that I will offer a free number of credits to all users, and if they need more credits, they will need to buy more. My Android and iOS app]]></summary>
-        <author>
-            <name>Dragos Ivanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Benefits of a Student Email Address]]></title>
-        <id>623d7224138a19064b06490a</id>
-        <link href="https://www.freecodecamp.org/news/top-benefits-of-student-email-address/"/>
-        <updated>2022-03-30T17:00:46.000Z</updated>
-        <summary type="html"><![CDATA[In recent years, various tech companies and organizations have started supporting students who have an interest in and passion for tech. Many companies give their premium services to students for free, and others offer discounts on their products. If you're a student, basically all you need to take advantage of]]></summary>
-        <author>
-            <name>Hillary Nyakundi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Music and Math, Lillian Pierce Builds Landscapes]]></title>
-        <id>https://www.quantamagazine.org/?p=113740</id>
-        <link href="https://www.quantamagazine.org/in-music-and-math-lillian-pierce-builds-landscapes-20220330/"/>
-        <updated>2022-03-30T16:05:58.000Z</updated>
-        <summary type="html"><![CDATA[Lillian Pierce wants to transform access to the world of mathematics, while making headway on problems that bridge the discrete and continuous.            
-The post In Music and Math, Lillian Pierce Builds Landscapes first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Jordana Cepelewicz</name>
         </author>
     </entry>
 </feed>
