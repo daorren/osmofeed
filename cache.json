@@ -1250,66 +1250,6 @@
           "wordCount": 7841,
           "title": "NextJS and HarperDB Tutorial –Build a Full Stack Productivity Timer App",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/feature.jpg"
-        },
-        {
-          "id": "6245d985138a19064b069946",
-          "author": "Beau Carnes",
-          "description": "Firebase is a platform developed by Google for creating mobile and web applications.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Firebase. This is the perfect course for beginners.  After learning the basics of Firebase, you will learn how",
-          "link": "https://www.freecodecamp.org/news/create-apps-with-firebase/",
-          "publishedOn": "2022-04-01T00:10:02.000Z",
-          "wordCount": 26625,
-          "title": "How to Create Apps with Firebase",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/firebase.png"
-        },
-        {
-          "id": "623cc7e0138a19064b06474d",
-          "author": "Zaira Hira",
-          "description": "Shell scripting is an important part of process automation in Linux. Scripting helps you write a sequence of commands in a file and then execute them.  This saves you time because you don't have to write certain commands again and again. You can perform daily tasks efficiently and even",
-          "link": "https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/",
-          "publishedOn": "2022-03-31T19:26:38.000Z",
-          "wordCount": 2165,
-          "title": "Shell Scripting for Beginners – How to Write Bash Scripts in Linux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/remove-key-val.gif"
-        },
-        {
-          "id": "62421c54138a19064b0672c6",
-          "author": "Edan Ben-Atar",
-          "description": "Email automation is not something new in the e-commerce space. And it's a pretty simple and straightforward concept. Email automation is all about sending emails to customers based on events that occur on your website, like abandoned cart emails, order confirmation emails, shipping confirmation emails, and so on. The result?",
-          "link": "https://www.freecodecamp.org/news/shopify-email-automation/",
-          "publishedOn": "2022-03-31T17:00:18.000Z",
-          "wordCount": 1627,
-          "title": "Shopify Email Automation – How to Automatically Send Emails",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Shopify-Email-Automation.jpg"
-        },
-        {
-          "id": "6245d736138a19064b0698d9",
-          "author": "Beau Carnes",
-          "description": "Augmented reality is a technology that lets people superimpose digital content, such as images, sounds & text, over a real-world environment. We just published a 12-hour course on the freeCodeCamp.org YouTube channel that will teach you about augmented reality from a theoretical and practical perspective. Priyanshu Bhattaharjee developed this course.",
-          "link": "https://www.freecodecamp.org/news/augmented-reality-full-course/",
-          "publishedOn": "2022-03-31T16:40:02.000Z",
-          "wordCount": 526,
-          "title": "Augmented Reality Full Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/ar.png"
-        },
-        {
-          "id": "62445137138a19064b068407",
-          "author": "Ihechikara Vincent Abba",
-          "description": "The charAt() method in Java returns the char value of a character in a string at a given or specified index. In this article, we'll see how to use the charAt() method starting with it's syntax and then through a few examples/use cases.  How to Use the Java charAt()",
-          "link": "https://www.freecodecamp.org/news/charat-in-java-how-to-use-the-java-charat-method-2/",
-          "publishedOn": "2022-03-31T16:10:26.000Z",
-          "wordCount": 916,
-          "title": "charAt() in Java – How to Use the Java charAt() Method",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/charAt.png"
-        },
-        {
-          "id": "6245705d138a19064b068f59",
-          "author": "Kolade Chris",
-          "description": "Recently, I was able to convert some video files to a gif as I needed them in gif format for some of my articles. I decided to show you how I did it in 3 lines of code, so you can save yourself the extra effort of looking up a",
-          "link": "https://www.freecodecamp.org/news/how-to-convert-video-files-to-gif-in-python/",
-          "publishedOn": "2022-03-31T16:06:08.000Z",
-          "wordCount": 629,
-          "title": "How to Convert Video Files to a Gif in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/convert.png"
         }
       ]
     },
@@ -1517,16 +1457,6 @@
           "wordCount": 1392,
           "title": "Father-Son Team Solves Geometry Problem With Infinite Folds",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/04/Flattening_Polyhedra_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=113773",
-          "author": "Nicole Yunger Halpern",
-          "description": "Thanks to the power of fluctuation relations, physicists are taking the second law of thermodynamics to settings once thought impossible.            \nThe post Beyond the Second Law first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/beyond-the-second-law-of-thermodynamics-20220331/",
-          "publishedOn": "2022-03-31T15:59:07.000Z",
-          "wordCount": 1475,
-          "title": "Beyond the Second Law",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Steampunk_1200_social.jpg"
         }
       ]
     },
@@ -1535,6 +1465,16 @@
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
+        {
+          "id": "626463579148eb5b8b7e1d44",
+          "author": "Assaf Arkin",
+          "description": "This week we take some notes, explore vibe shifts in design, reach the performance ceiling, and mail ourselves some Osmium.",
+          "link": "https://labnotes.org/weekend-reading-the-code-illusion/",
+          "publishedOn": "2022-04-30T22:14:08.000Z",
+          "wordCount": 955,
+          "title": "Weekend Reading — The code illusion",
+          "imageUrl": "https://labnotes.org/content/images/2022/04/cover-3.png"
+        },
         {
           "id": "625b414a9148eb5b8b7e11e9",
           "author": "Assaf Arkin",
@@ -1737,16 +1677,6 @@
           "publishedOn": "2022-04-08T00:00:00.000Z",
           "wordCount": 782,
           "title": "Going to work(spaces)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/406",
-          "author": null,
-          "description": "🇺🇦 #​406 — April 1, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\n🤞 Fingers crossed.. but this issue should be an April Fools' free zone, unless we've been pranked too, of course.. :-)\n\n\n    \n    \n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nGenerics Can Make Your Go Code Slower (Sometimes...) — It’s not as negative as it sounds. This is a deep and informative article that looks at compiler output for various generic and non-generic examples along with benchmarks that lead to a solid list of ‘dos and don’ts’ when it comes to using generics in your Go code.\nVicent Marti (PlanetScale) \n\n\n  \n  \nWriting a Document Database From Scratch in Go — Now this is what we’re always here to see. A data tooling expert (who also happens to have once worked at Oracle) digging into the fundamentals of creatin…",
-          "link": "https://golangweekly.com/issues/406",
-          "publishedOn": "2022-04-01T00:00:00.000Z",
-          "wordCount": 1040,
-          "title": "Brian Kernighan shares 50 years of wisdom",
           "imageUrl": null
         }
       ]
