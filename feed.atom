@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-05T01:50:08.379Z</updated>
+    <updated>2022-05-06T01:41:45.592Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Data Visualization with D3.js]]></title>
+        <id>62740998c1c601068f4ecc38</id>
+        <link href="https://www.freecodecamp.org/news/data-visualizatoin-with-d3/"/>
+        <updated>2022-05-05T17:43:46.000Z</updated>
+        <summary type="html"><![CDATA[D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. We just published a full course on the freeCodeCamp.org YouTube channel that teaches how to implement various data visualization techniques with D3.js. Curran Kelleher teaches this course.]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Destructure an Array in JavaScript]]></title>
+        <id>62715143c1c601068f4eb5fe</id>
+        <link href="https://www.freecodecamp.org/news/how-to-destructure-an-array-in-javascript/"/>
+        <updated>2022-05-05T14:38:34.000Z</updated>
+        <summary type="html"><![CDATA[Array destructuring is an efficient way to extract multiple values from data that’s stored in an array. In this tutorial we’ll learn about array destructuring. We'll go over examples to learn the ins and outs of how array destructuring works.  I've also created a video of this tutorial: Let's]]></summary>
+        <author>
+            <name>Madison Kanna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Test Tubes, RNA Molecules Evolve Into a Tiny Ecosystem]]></title>
+        <id>https://www.quantamagazine.org/?p=114606</id>
+        <link href="https://www.quantamagazine.org/in-test-tubes-rna-molecules-evolve-into-a-tiny-ecosystem-20220505/"/>
+        <updated>2022-05-05T13:28:33.000Z</updated>
+        <summary type="html"><![CDATA[When researchers gave a genetic molecule the ability to replicate, it evolved over time into a complex network of “hosts” and “parasites” that both competed and cooperated to survive.            
+The post In Test Tubes, RNA Molecules Evolve Into a Tiny Ecosystem first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Yasemin Saplakoglu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Getline in C++ – cin getline() Function Example]]></title>
         <id>626fbddfc1c601068f4eaec5</id>
@@ -1939,27 +1970,6 @@ The post Untangling Why Knots Are Important first appeared on Quanta Magazine]]>
 The post Researchers Identify ‘Master Problem’ Underlying All Cryptography first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Erica Klarreich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Command Line for Beginners – How to Use the Terminal Like a Pro]]></title>
-        <id>6244f93a138a19064b068b9e</id>
-        <link href="https://www.freecodecamp.org/news/command-line-for-beginners/"/>
-        <updated>2022-04-05T16:45:18.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! In this article we'll take a good look at the command line (also known as the CLI, console, terminal or shell). The command line is one of the most useful and efficient tools we have as developers and as computer users in general. But using it can feel]]></summary>
-        <author>
-            <name>Germán Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mitochondria Double as Tiny Lenses in the Eye]]></title>
-        <id>https://www.quantamagazine.org/?p=113850</id>
-        <link href="https://www.quantamagazine.org/mitochondria-double-as-tiny-lenses-in-the-eye-20220405/"/>
-        <updated>2022-04-05T15:48:56.000Z</updated>
-        <summary type="html"><![CDATA[The optical properties of mitochondrial bundles in the retina may improve how efficiently the eye captures light.             
-The post Mitochondria Double as Tiny Lenses in the Eye first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Yasemin Saplakoglu</name>
         </author>
     </entry>
 </feed>
