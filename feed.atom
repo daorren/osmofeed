@@ -2,10 +2,135 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-06T01:41:45.592Z</updated>
+    <updated>2022-05-07T01:42:36.462Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Center an Absolute Positioned Element Vertically and Horizontally with CSS]]></title>
+        <id>62720d66c1c601068f4ebbdb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-center-an-absolute-positioned-element/"/>
+        <updated>2022-05-06T19:56:35.000Z</updated>
+        <summary type="html"><![CDATA[Absolute positioned elements are removed from the flow of a document. And sometimes, knowing how to correctly position such elements in the center of the page can be confusing. I mean, CSS is confusing already. 😅 In this article, I will show you how to center an absolute element either]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn Python in 2022]]></title>
+        <id>627036b7c1c601068f4eb2b6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-learn-python/"/>
+        <updated>2022-05-06T17:09:52.000Z</updated>
+        <summary type="html"><![CDATA[With each passing year, the Python programming language becomes more and more popular. According to the Stack Overflow Developer Survey for 2021 [https://insights.stackoverflow.com/survey/2021#technology], Python was the 3rd most popular language, following JavaScript and HTML & CSS. And this growth doesn't seem to be slowing down anytime soon, so Python programmers]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go - the fastest growing language on GitHub?]]></title>
+        <id>https://golangweekly.com/issues/410</id>
+        <link href="https://golangweekly.com/issues/410"/>
+        <updated>2022-05-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#​410 — May 6, 2022
+
+
+Unsubscribe  |  Read on the Web
+
+
+
+The Go Weekly Newsletter
+
+
+
+
+  
+
+
+
+
+
+  
+  
+📄  The Design Decisions Behind the Go Language and Environment — In an article for the ACM, the creators of Go discuss the origins of the language, their goals in creating it, and the design choices they made leading up to the first major change to the language in a decade (we won't spoil, but you know what it is..)
+Cox, Griesemer, Pike, Taylor, and Thompson 
+
+
+  
+  
+An Experience Report After 6 Months of Go — A developer at Sourcegraph reflects on his experiences in working with Go after nearly three years of C++. This is beautifully presented and explained - more posts like this please.
+Varun Gandhi 
+
+
+  
+  
+Troubleshoot and Optimize Golang App Performance with Datadog APM — Datadog’s APM…]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Table cells support a "headers" HTML attribute (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/table-cells-support-a-headers-html-attribute/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/table-cells-support-a-headers-html-attribute/"/>
+        <updated>2022-05-05T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I love that even after writing HTML for such a long time, there's always something new to discover. #htmlIsNotEasy
+Today I learned that HTML table cells support a headers attribute. I haven't seen that one before!
+
+        
+
+        
+Stefan Judis
+              @stefanjudis
+            
+TIL there's a `headers` HTML attribute that you can to make cells spanning across columns more accessible. 😲
+Read more on @aardrian's blog. 👇
+adrianroselli.com/2017/11/hey-it… 
+16 retweets
+            71 likes
+
+            Tweeted 
+              
+                May 06 2022
+              
+            
+            Open Tweet
+          
+
+I rarely use tables because I usually don't deal with tabular data. But suppose you're building complex tables with cells spanning multiple columns or rows. In that case, you can use headers to define which table header elements are connected to the particular table cell.
+Here are some resources to read more about it:
+Adrian's blog post explains how to deal with spanning cells
+The WCAG success criterion describing table cell association
+
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to enforce pinch-to-zoom on Firefox/Chrome on Android (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/how-to-enforce-pinch-to-zoom-on-firefox-chrome-on-android/</id>
+        <link href="https://www.stefanjudis.com/notes/how-to-enforce-pinch-to-zoom-on-firefox-chrome-on-android/"/>
+        <updated>2022-05-05T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Manuel's quick explainer "Please, stop disabling zoom" includes a tip for Android Chrome/Firefox users I didn't know.
+You might know that you can disable pinch-to-zoom on mobile devices using an evil meta element.
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"> 
+
+But did you know that you can overwrite this meta element and force Chrome and Firefox to allow pinch-to-zoom?
+Now you do. 😉
+Thanks Manuel for sharing this little detail. I'm happily zooming everywhere on my Android device now!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data Visualization with D3.js]]></title>
         <id>62740998c1c601068f4ecc38</id>
@@ -1897,79 +2022,6 @@ Faster Sorting with …]]></summary>
 The post Newly Measured Particle Seems Heavy Enough to Break Known Physics first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Charlie Wood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design a Scalable Mobile App With Figma Variants]]></title>
-        <id>624ca9a4ac55f60686c2e7f9</id>
-        <link href="https://www.freecodecamp.org/news/design-a-scalable-mobile-app-with-figma-variants/"/>
-        <updated>2022-04-07T12:15:32.000Z</updated>
-        <summary type="html"><![CDATA[Figma is a popular graphics editor and prototyping tool. Figma variants can streamline your frontend design process by allowing you to group and organize similar components into a single container. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn how to use Figma variants]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[flushdns – How to Flush DNS with the Windows ipconfig /flushdns Command]]></title>
-        <id>624bfc9bac55f60686c2e0ff</id>
-        <link href="https://www.freecodecamp.org/news/flushdns-how-to-flush-dns-with-the-windows-ipconfig-flushdns-command/"/>
-        <updated>2022-04-07T03:41:13.000Z</updated>
-        <summary type="html"><![CDATA[You've probably noticed that, after visiting a website for the first time, the website loads much quicker the next time you visit. This is because your operating system, or browser in the case of Google Chrome, cache IP addresses and DNS (Domain Name System) information of any website you visit.]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IAM – Policy, Access Roles, Resources Explained, and Why They're Useful]]></title>
-        <id>62435e6e138a19064b068027</id>
-        <link href="https://www.freecodecamp.org/news/the-introduction-to-iam-i-wish-i-had/"/>
-        <updated>2022-04-07T02:50:41.000Z</updated>
-        <summary type="html"><![CDATA[IAM, or Identity and Access Management, is one of the most common terms you'll hear in cloud-native environments. But what does it do? And if you're already familiar with IAM, how long did it take you to fully understand it? I will explain the main concepts behind this massive family]]></summary>
-        <author>
-            <name>Periklis Gkolias</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to do a Hanging Indent in Google Docs]]></title>
-        <id>6250a2faac55f60686c2ff69</id>
-        <link href="https://www.freecodecamp.org/news/how-to-do-a-hanging-indent-in-google-docs/"/>
-        <updated>2022-04-06T21:02:00.000Z</updated>
-        <summary type="html"><![CDATA[A hanging indent is an easy way to make your documents look more professional. Google Docs has built in functionality to create this. What is a Hanging Indent? A hanging indent is a type of indentation where the first line of a paragraph is not indented, but subsequent lines in]]></summary>
-        <author>
-            <name>Alex Garcia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untangling Why Knots Are Important]]></title>
-        <id>https://www.quantamagazine.org/?p=112368</id>
-        <link href="https://www.quantamagazine.org/why-knots-matter-in-math-and-science-20220406/"/>
-        <updated>2022-04-06T21:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Steven Strogatz explores the mysteries of knots with the mathematicians Colin Adams and Lisa Piccirillo.            
-The post Untangling Why Knots Are Important first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Steven Strogatz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untangling Why Knots Are Important]]></title>
-        <id>https://www.quantamagazine.org/?p=112368</id>
-        <link href="https://www.quantamagazine.org/untangling-why-knots-are-important-20220406/"/>
-        <updated>2022-04-06T21:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Steven Strogatz explores the mysteries of knots with the mathematicians Colin Adams and Lisa Piccirillo.            
-The post Untangling Why Knots Are Important first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Steven Strogatz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Identify ‘Master Problem’ Underlying All Cryptography]]></title>
-        <id>https://www.quantamagazine.org/?p=113874</id>
-        <link href="https://www.quantamagazine.org/researchers-identify-master-problem-underlying-all-cryptography-20220406/"/>
-        <updated>2022-04-06T16:58:20.000Z</updated>
-        <summary type="html"><![CDATA[The existence of secure cryptography depends on one of the oldest questions in computational complexity.            
-The post Researchers Identify ‘Master Problem’ Underlying All Cryptography first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Erica Klarreich</name>
         </author>
     </entry>
 </feed>
