@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-07T01:42:36.462Z</updated>
+    <updated>2022-05-08T01:53:28.430Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Try to make new mistakes]]></title>
+        <id>626db4e89148eb5b8b7e28b6</id>
+        <link href="https://labnotes.org/weekend-reading-try-to-make-new-mistakes/"/>
+        <updated>2022-05-08T00:03:57.000Z</updated>
+        <summary type="html"><![CDATA[This week we train the elephant, read evergreen notes, discover the ultimate MVP, explore analog watches, and dream to generalize.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Center an Absolute Positioned Element Vertically and Horizontally with CSS]]></title>
         <id>62720d66c1c601068f4ebbdb</id>
@@ -1929,99 +1939,6 @@ If you decide to embed a Tweet and hit the embed button in the Twitter UI, you'l
 The post The Secrets of Zugzwang in Chess, Math and Pizzas first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Pradeep Mutalik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Force Delete a File – Windows Command Prompt cmd delete]]></title>
-        <id>624c24d2ac55f60686c2e356</id>
-        <link href="https://www.freecodecamp.org/news/how-to-force-delete-a-file-windows-command-prompt-cmd-delete/"/>
-        <updated>2022-04-08T07:11:26.000Z</updated>
-        <summary type="html"><![CDATA[On a Windows computer, you might want to delete files to free up disk space, or because you don't want the file(s) on your computer anymore. But sometimes, it seems impossible to delete a file for various reasons. These include the file being open in another program, lack of write]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Break The Code 2.0: A Browser Game Where You Solve Missions Using Coding Skills]]></title>
-        <id>624f8558ac55f60686c2f79a</id>
-        <link href="https://www.freecodecamp.org/news/break-the-code-2-game/"/>
-        <updated>2022-04-08T03:38:54.000Z</updated>
-        <summary type="html"><![CDATA[Break The Code 2.0 is a new browser game that sends you back in time to the year 1999. You complete codebreaking missions using your programming knowledge and your puzzle-solving intuition. The game is spread across 4 drives worth of missions:  * The /g1/ drive – "BoxOfChocolates"  *]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Going to work(spaces)]]></title>
-        <id>https://golangweekly.com/issues/407</id>
-        <link href="https://golangweekly.com/issues/407"/>
-        <updated>2022-04-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[🇺🇦 #​407 — April 8, 2022
-
-
-Unsubscribe  |  Read on the Web
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-Getting Familiar with Workspaces — Generics schmerenics.. it’s time for Go 1.18’s other big feature to have its day in the sun: workspaces. “Workspaces in Go 1.18 let you work on multiple modules simultaneously without having to edit go.mod files for each module.” Beth breaks down how to get started.
-Beth Brown (Go Team) 
-
-
-  
-  
-Gophers - Opportunity is Knocking — We’re a premier software engineering firm looking for mid to senior level engineers to help us develop advanced software solutions and applications in Go. Got at least 1 year of professional Go experience and located in the Americas or Western Europe? We want to hear from you.
-Ardan Labs sponsor
-
-
-  
-  
-Faster Sorting with …]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a DNS Server? DNS Servers Explained]]></title>
-        <id>6251f9feac55f60686c30c4e</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-dns-server/"/>
-        <updated>2022-04-07T21:49:00.000Z</updated>
-        <summary type="html"><![CDATA[The web would not work at all without DNS servers. They are responsible for translating domain names into IP addresses. Then computers use those IP addresses to locate and connect to web servers, and send users to the right websites. Many people first learned about the DNS system in October]]></summary>
-        <author>
-            <name>Alex Garcia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Margin VS Padding – What is the Difference? [Solved]]]></title>
-        <id>6251f744ac55f60686c30bf9</id>
-        <link href="https://www.freecodecamp.org/news/css-margin-vs-padding-what-is-the-difference/"/>
-        <updated>2022-04-07T21:25:00.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to CSS, there are a lot of properties that control the spacing of elements on a page. Two of the most common properties are margin and padding. Both margin and padding control the amount of space around an element, but they do it in different ways. This]]></summary>
-        <author>
-            <name>Alex Garcia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newly Measured Particle Seems Heavy Enough to Break Known Physics]]></title>
-        <id>https://www.quantamagazine.org/?p=113941</id>
-        <link href="https://www.quantamagazine.org/fermilab-says-particle-is-heavy-enough-to-break-the-standard-model-20220407/"/>
-        <updated>2022-04-07T18:00:02.000Z</updated>
-        <summary type="html"><![CDATA[A new analysis of W bosons suggests these particles are significantly heavier than predicted by the Standard Model of particle physics.            
-The post Newly Measured Particle Seems Heavy Enough to Break Known Physics first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Charlie Wood</name>
         </author>
     </entry>
 </feed>
