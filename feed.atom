@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-08T01:53:28.430Z</updated>
+    <updated>2022-05-09T01:56:15.315Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -1895,50 +1895,6 @@ To be honest, I don't need all these text formating options because I'm used to 
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The "inert" attribute is finally coming to the web (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/the-inert-attribute-is-finally-coming-to-the-web/</id>
-        <link href="https://www.stefanjudis.com/blog/the-inert-attribute-is-finally-coming-to-the-web/"/>
-        <updated>2022-04-08T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There are UI scenarios when you want to make particular page areas inaccessible to whoever clicks around. For example: let's assume you fade in a modal dialog asking the user if they want to delete their account?
-Do you want them to interact with inputs while this question hangs around? Most likely not.
-But how do you prevent people from doing precisely this? Covering the page with a faded-in semi-transparent div won't cut it because it's still possible to tab around and focus other areas and elements on the page using the keyboard. Folks using assistive technology might miss the dialog and navigate away, not realizing that their account is up for deletion.
-The dialog element is soon cross-browser supported and can help with modal focus handling.
-Or to name another example: if you navigate…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter started to mess with embedded content on your site (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/twitter-started-to-mess-with-embedded-content-on-your-site/</id>
-        <link href="https://www.stefanjudis.com/notes/twitter-started-to-mess-with-embedded-content-on-your-site/"/>
-        <updated>2022-04-08T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The following news is wild!
-Twitter changed how its library widgets.js handles deleted Tweets embedded on other sites. I never considered this interesting case. How would one build a UI library for data that's not available anymore?
-I'd have to sleep over this problem, but here's what I wouldn't do, aka the new Twitter way. 🤦‍♂️
-Twitter decided that it's reasonable to wipe out embedded Tweet content on millions of sites if the Tweet in question isn't available on their platform anymore. 😲
-Kevin Marks shares this discovery in detail on his blog. Here's a quick summary for my archive.
-widgets.js behavior so far
-
-If you decide to embed a Tweet and hit the embed button in the Twitter UI, you'll receive a snippet like the following.
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">
-  …]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Secrets of Zugzwang in Chess, Math and Pizzas]]></title>
-        <id>https://www.quantamagazine.org/?p=113973</id>
-        <link href="https://www.quantamagazine.org/the-secrets-of-zugzwang-in-chess-math-and-pizzas-20220408/"/>
-        <updated>2022-04-08T16:20:10.000Z</updated>
-        <summary type="html"><![CDATA[Learn the magic and math of how to win games when your opponent goes first.             
-The post The Secrets of Zugzwang in Chess, Math and Pizzas first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Pradeep Mutalik</name>
         </author>
     </entry>
 </feed>

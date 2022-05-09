@@ -1447,16 +1447,6 @@
           "wordCount": 1490,
           "title": "Life With Longer Genetic Codes Seems Possible — but Less Likely",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/04/Codons_1200_Social_V2.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=113973",
-          "author": "Pradeep Mutalik",
-          "description": "Learn the magic and math of how to win games when your opponent goes first.             \nThe post The Secrets of Zugzwang in Chess, Math and Pizzas first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/the-secrets-of-zugzwang-in-chess-math-and-pizzas-20220408/",
-          "publishedOn": "2022-04-08T16:20:10.000Z",
-          "wordCount": 3419,
-          "title": "The Secrets of Zugzwang in Chess, Math and Pizzas",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/02/Zugzwang_1200_social.jpg"
         }
       ]
     },
@@ -1631,26 +1621,6 @@
           "wordCount": 331,
           "title": "Google Docs supports Markdown syntax (#note)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Google%20Docs%20supports%20Markdown%20syntax/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/the-inert-attribute-is-finally-coming-to-the-web/",
-          "author": null,
-          "description": "There are UI scenarios when you want to make particular page areas inaccessible to whoever clicks around. For example: let's assume you fade in a modal dialog asking the user if they want to delete their account?\nDo you want them to interact with inputs while this question hangs around? Most likely not.\nBut how do you prevent people from doing precisely this? Covering the page with a faded-in semi-transparent div won't cut it because it's still possible to tab around and focus other areas and elements on the page using the keyboard. Folks using assistive technology might miss the dialog and navigate away, not realizing that their account is up for deletion.\nThe dialog element is soon cross-browser supported and can help with modal focus handling.\nOr to name another example: if you navigate…",
-          "link": "https://www.stefanjudis.com/blog/the-inert-attribute-is-finally-coming-to-the-web/",
-          "publishedOn": "2022-04-08T22:00:00.000Z",
-          "wordCount": 594,
-          "title": "The \"inert\" attribute is finally coming to the web (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:The%20%22inert%22%20attribute%20is%20finally%20coming%20to%20the%20web/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/twitter-started-to-mess-with-embedded-content-on-your-site/",
-          "author": null,
-          "description": "The following news is wild!\nTwitter changed how its library widgets.js handles deleted Tweets embedded on other sites. I never considered this interesting case. How would one build a UI library for data that's not available anymore?\nI'd have to sleep over this problem, but here's what I wouldn't do, aka the new Twitter way. 🤦‍♂️\nTwitter decided that it's reasonable to wipe out embedded Tweet content on millions of sites if the Tweet in question isn't available on their platform anymore. 😲\nKevin Marks shares this discovery in detail on his blog. Here's a quick summary for my archive.\nwidgets.js behavior so far\n\nIf you decide to embed a Tweet and hit the embed button in the Twitter UI, you'll receive a snippet like the following.\n<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">\n  …",
-          "link": "https://www.stefanjudis.com/notes/twitter-started-to-mess-with-embedded-content-on-your-site/",
-          "publishedOn": "2022-04-08T22:00:00.000Z",
-          "wordCount": 590,
-          "title": "Twitter started to mess with embedded content on your site (#note)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Twitter%20started%20to%20mess%20with%20embedded%20content%20on%20your%20site/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
