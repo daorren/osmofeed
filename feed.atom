@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-09T01:56:15.315Z</updated>
+    <updated>2022-05-10T01:26:11.972Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Resolve Merge Conflicts in Git – A Practical Guide with Examples]]></title>
+        <id>6272b9cdc1c601068f4ec497</id>
+        <link href="https://www.freecodecamp.org/news/resolve-merge-conflicts-in-git-a-practical-guide/"/>
+        <updated>2022-05-09T23:09:43.000Z</updated>
+        <summary type="html"><![CDATA[Git is an open-source distributed version control system. It helps you manage your project files easily using local branching, staging, and workflows.  Many developers use Git today. And they're usually familiar with basic Git concepts like:  * How to initiate a repository.  * How to create branches.]]></summary>
+        <author>
+            <name>TAPAS ADHIKARY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Lowercase – How to Use the String lower() Function]]></title>
+        <id>62725fadc1c601068f4ebf17</id>
+        <link href="https://www.freecodecamp.org/news/python-lowercase-how-to-use-the-string-lower-function/"/>
+        <updated>2022-05-09T22:04:42.000Z</updated>
+        <summary type="html"><![CDATA[Strings are a fundamental part of working with Python. And the lower() method is one of the many integrated methods that you can use to work with strings. In this article, we'll see how to make strings lowercase with the lower() method in Python. What is a string? A string]]></summary>
+        <author>
+            <name>Ilenia Magoni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Google Docs Clone with React, Material UI, & Firebase]]></title>
+        <id>627601655aeb5306e9ee6ab2</id>
+        <link href="https://www.freecodecamp.org/news/build-a-google-docs-clone-with-react-and-firebase/"/>
+        <updated>2022-05-09T21:16:05.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll build a Google Docs clone using React, Material UI, and Firebase. The final app will look like this: If we click any document, it will open up and we can edit them however we need to. And the most amazing feature is that we can edit]]></summary>
+        <author>
+            <name>Nishant Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Object-Oriented Programming in JavaScript for Beginners]]></title>
+        <id>6258683aac55f60686c35075</id>
+        <link href="https://www.freecodecamp.org/news/object-oriented-javascript-for-beginners/"/>
+        <updated>2022-05-09T20:36:30.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we're going to review the main characteristics of object oriented programming (OOP) with practical JavaScript examples. We will talk about OOP main concepts, why and when it can be useful, and I'll give you plenty of examples using JS code.  If you're not familiar]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excel Shortcuts – Keyboard Shortcuts for Beginners]]></title>
+        <id>62727994c1c601068f4ec082</id>
+        <link href="https://www.freecodecamp.org/news/excel-shortcuts-keyboard-shortcuts-for-beginners/"/>
+        <updated>2022-05-09T15:24:30.000Z</updated>
+        <summary type="html"><![CDATA[There are many data analytics tools out there, but Microsoft Excel remains a popular go-to for storing and managing data. Since Excel has a lot of functionality built into it, getting familiar with the various keyboard shortcuts will help you work more efficiently. In this article, I’m going to show]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why ‘De-Extinction’ Is Impossible (But Could Work Anyway)]]></title>
+        <id>https://www.quantamagazine.org/?p=114673</id>
+        <link href="https://www.quantamagazine.org/why-de-extinction-is-impossible-but-could-work-anyway-20220509/"/>
+        <updated>2022-05-09T13:42:01.000Z</updated>
+        <summary type="html"><![CDATA[Several projects are aiming to bring back mammoths and other species that have vanished from the planet. Whether that’s technically possible is beside the point.            
+The post Why ‘De-Extinction’ Is Impossible (But Could Work Anyway) first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Yasemin Saplakoglu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Try to make new mistakes]]></title>
         <id>626db4e89148eb5b8b7e28b6</id>
@@ -1846,55 +1907,6 @@ It goes so far that the city places console.l…]]></summary>
         <summary type="html"><![CDATA[The Project Management Professional (PMP) is widely seen by project managers as the "gold standard" credential. Many senior PM roles now require you to be PMP certified. So if you have been working as a PM for a few years, this guide will show you how you can take the]]></summary>
         <author>
             <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[List to String Python – join() Syntax Example]]></title>
-        <id>625208b3ac55f60686c30de0</id>
-        <link href="https://www.freecodecamp.org/news/python-list-to-string-join-example/"/>
-        <updated>2022-04-09T23:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes you want to convert your Python lists into strings. This tutorial will show you an example of how you can do this. But first, let's explore the difference between the Python list data structure and the Python string data structure. What is a List in Python? In Python, a]]></summary>
-        <author>
-            <name>Alex Garcia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Image File Types – The .jpeg, .svg, and .png Picture Format Extensions Explained]]></title>
-        <id>62518273ac55f60686c30623</id>
-        <link href="https://www.freecodecamp.org/news/image-file-types-picture-format-extensions-jpeg-gif-png-svg-tiff/"/>
-        <updated>2022-04-09T22:26:12.000Z</updated>
-        <summary type="html"><![CDATA[When you’re working with images, it’s important to understand the different file types. Which format is best for what application? In this tutorial, we’re going to explain the most common image file types, and when you should use them. Note that this is a short, non-technical article. If you want]]></summary>
-        <author>
-            <name>Alex Garcia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Docs supports Markdown syntax (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/google-docs-now-supports-markdown-syntax/</id>
-        <link href="https://www.stefanjudis.com/notes/google-docs-now-supports-markdown-syntax/"/>
-        <updated>2022-04-09T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here's a very quick one for the Markdown lovers. I just discovered that Google Docs supports Markdown syntax. Enable the feature under Tools > Preferences > Automatically detect markdown.
-
-
-
-
-          
-            
-The release post describes that headings, italic, bold, bold-italic and links are supported.
-Martin pointed out that the feature isn't rolled out for everybody at the time of writing this post.
-To be honest, I don't need all these text formating options because I'm used to pressing CMD + b and its friends, but being able to control headlines with a few leading # characters is very welcome! 👏
-
-      
-        
-      
-    
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

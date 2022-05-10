@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6272b9cdc1c601068f4ec497",
+          "author": "TAPAS ADHIKARY",
+          "description": "Git is an open-source distributed version control system. It helps you manage your project files easily using local branching, staging, and workflows.  Many developers use Git today. And they're usually familiar with basic Git concepts like:  * How to initiate a repository.  * How to create branches.",
+          "link": "https://www.freecodecamp.org/news/resolve-merge-conflicts-in-git-a-practical-guide/",
+          "publishedOn": "2022-05-09T23:09:43.000Z",
+          "wordCount": 1899,
+          "title": "How to Resolve Merge Conflicts in Git – A Practical Guide with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/freeCodeCamp-Cover-1.png"
+        },
+        {
+          "id": "62725fadc1c601068f4ebf17",
+          "author": "Ilenia Magoni",
+          "description": "Strings are a fundamental part of working with Python. And the lower() method is one of the many integrated methods that you can use to work with strings. In this article, we'll see how to make strings lowercase with the lower() method in Python. What is a string? A string",
+          "link": "https://www.freecodecamp.org/news/python-lowercase-how-to-use-the-string-lower-function/",
+          "publishedOn": "2022-05-09T22:04:42.000Z",
+          "wordCount": 1080,
+          "title": "Python Lowercase – How to Use the String lower() Function",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-christina-morillo-1181467--1-.jpg"
+        },
+        {
+          "id": "627601655aeb5306e9ee6ab2",
+          "author": "Nishant Kumar",
+          "description": "In this article, we'll build a Google Docs clone using React, Material UI, and Firebase. The final app will look like this: If we click any document, it will open up and we can edit them however we need to. And the most amazing feature is that we can edit",
+          "link": "https://www.freecodecamp.org/news/build-a-google-docs-clone-with-react-and-firebase/",
+          "publishedOn": "2022-05-09T21:16:05.000Z",
+          "wordCount": 4296,
+          "title": "How to Build a Google Docs Clone with React, Material UI, & Firebase",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/How-to-Build-a-Weather-Application-using-React--11-.png"
+        },
+        {
+          "id": "6258683aac55f60686c35075",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article we're going to review the main characteristics of object oriented programming (OOP) with practical JavaScript examples. We will talk about OOP main concepts, why and when it can be useful, and I'll give you plenty of examples using JS code.  If you're not familiar",
+          "link": "https://www.freecodecamp.org/news/object-oriented-javascript-for-beginners/",
+          "publishedOn": "2022-05-09T20:36:30.000Z",
+          "wordCount": 4406,
+          "title": "Object-Oriented Programming in JavaScript for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-lukas-317377.jpg"
+        },
+        {
+          "id": "62727994c1c601068f4ec082",
+          "author": "Kolade Chris",
+          "description": "There are many data analytics tools out there, but Microsoft Excel remains a popular go-to for storing and managing data. Since Excel has a lot of functionality built into it, getting familiar with the various keyboard shortcuts will help you work more efficiently. In this article, I’m going to show",
+          "link": "https://www.freecodecamp.org/news/excel-shortcuts-keyboard-shortcuts-for-beginners/",
+          "publishedOn": "2022-05-09T15:24:30.000Z",
+          "wordCount": 1359,
+          "title": "Excel Shortcuts – Keyboard Shortcuts for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/excelShortcuts.png"
+        },
+        {
           "id": "62720d66c1c601068f4ebbdb",
           "author": "Dillion Megida",
           "description": "Absolute positioned elements are removed from the flow of a document. And sometimes, knowing how to correctly position such elements in the center of the page can be confusing. I mean, CSS is confusing already. 😅 In this article, I will show you how to center an absolute element either",
@@ -1240,26 +1290,6 @@
           "wordCount": 1099,
           "title": "PMP Certification Cost – 2022 Exam Fees, Degree Requirements, and Years of Experience",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/adetola-afolabi-W6Xfv9Rq1j0-unsplash.jpg"
-        },
-        {
-          "id": "625208b3ac55f60686c30de0",
-          "author": "Alex Garcia",
-          "description": "Sometimes you want to convert your Python lists into strings. This tutorial will show you an example of how you can do this. But first, let's explore the difference between the Python list data structure and the Python string data structure. What is a List in Python? In Python, a",
-          "link": "https://www.freecodecamp.org/news/python-list-to-string-join-example/",
-          "publishedOn": "2022-04-09T23:24:00.000Z",
-          "wordCount": 982,
-          "title": "List to String Python – join() Syntax Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/david-clode-5uU8HSpfwkI-unsplash.jpg"
-        },
-        {
-          "id": "62518273ac55f60686c30623",
-          "author": "Alex Garcia",
-          "description": "When you’re working with images, it’s important to understand the different file types. Which format is best for what application? In this tutorial, we’re going to explain the most common image file types, and when you should use them. Note that this is a short, non-technical article. If you want",
-          "link": "https://www.freecodecamp.org/news/image-file-types-picture-format-extensions-jpeg-gif-png-svg-tiff/",
-          "publishedOn": "2022-04-09T22:26:12.000Z",
-          "wordCount": 1295,
-          "title": "Image File Types – The .jpeg, .svg, and .png Picture Format Extensions Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/timon-klauser-3MAmj1ZKSZA-unsplash.jpg"
         }
       ]
     },
@@ -1268,6 +1298,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=114673",
+          "author": "Yasemin Saplakoglu",
+          "description": "Several projects are aiming to bring back mammoths and other species that have vanished from the planet. Whether that’s technically possible is beside the point.            \nThe post Why ‘De-Extinction’ Is Impossible (But Could Work Anyway) first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/why-de-extinction-is-impossible-but-could-work-anyway-20220509/",
+          "publishedOn": "2022-05-09T13:42:01.000Z",
+          "wordCount": 1808,
+          "title": "Why ‘De-Extinction’ Is Impossible (But Could Work Anyway)",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/05/De-Extinction_520x292.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=114606",
           "author": "Yasemin Saplakoglu",
@@ -1611,16 +1651,6 @@
           "wordCount": 1224,
           "title": "Web Weekly #62 (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252362/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/google-docs-now-supports-markdown-syntax/",
-          "author": null,
-          "description": "Here's a very quick one for the Markdown lovers. I just discovered that Google Docs supports Markdown syntax. Enable the feature under Tools > Preferences > Automatically detect markdown.\n\n\n\n\n          \n            \nThe release post describes that headings, italic, bold, bold-italic and links are supported.\nMartin pointed out that the feature isn't rolled out for everybody at the time of writing this post.\nTo be honest, I don't need all these text formating options because I'm used to pressing CMD + b and its friends, but being able to control headlines with a few leading # characters is very welcome! 👏\n\n      \n        \n      \n    \n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/notes/google-docs-now-supports-markdown-syntax/",
-          "publishedOn": "2022-04-09T22:00:00.000Z",
-          "wordCount": 331,
-          "title": "Google Docs supports Markdown syntax (#note)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Google%20Docs%20supports%20Markdown%20syntax/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
