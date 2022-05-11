@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-10T01:26:11.972Z</updated>
+    <updated>2022-05-11T01:57:38.229Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python List insert() – How to Add to a List in Python]]></title>
+        <id>627a6d54ac30a306bbeac950</id>
+        <link href="https://www.freecodecamp.org/news/python-list-insert-how-to-add-to-a-list-in-python/"/>
+        <updated>2022-05-10T21:22:33.000Z</updated>
+        <summary type="html"><![CDATA[The list data type is one of the built-in data structures in Python along with sets, tuples, and dictionaries. You use a list to organize, group, and store data. But each of these data structures has distinctive features that differentiates them from each other. In this article, we'll see how]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Print Without Newline [SOLVED]]]></title>
+        <id>627a1dd3ac30a306bbeac53f</id>
+        <link href="https://www.freecodecamp.org/news/python-print-without-newline-solved/"/>
+        <updated>2022-05-10T16:18:38.000Z</updated>
+        <summary type="html"><![CDATA[If you're familiar with Python, you may have noticed that the built-in function  print() doesn't need an explicit \n character at the end of each line.  This means that the output from the following snippet of code print('freeCodeCamp Curriculum') print('freeCodeCamp News') print('freeCodeCamp YouTube Channel') will be: freeCodeCamp Curriculum]]></summary>
+        <author>
+            <name>Farhan Hasin Chowdhury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Lock Cells in Excel – Excel Locked Cell Tutorial]]></title>
+        <id>627a40ceac30a306bbeac5da</id>
+        <link href="https://www.freecodecamp.org/news/how-to-lock-cells-in-excel-excel-locked-cell-tutorial/"/>
+        <updated>2022-05-10T15:57:58.000Z</updated>
+        <summary type="html"><![CDATA[To keep your Excel data safe from unwanted editing and tampering, you might want to lock the cells and protect the worksheet. Fortunately, Excel is a highly customizable data analysis tool which lets you lock cells and protect your worksheets with a password at the same time. In this guide,]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Secure Server Infrastructure Clouds using Falco, Prometheus, Grafana and Docker]]></title>
+        <id>627859645aeb5306e9ee725f</id>
+        <link href="https://www.freecodecamp.org/news/secure-server-infrastructure-clouds-using-falco-prometheus-grafana-and-docker/"/>
+        <updated>2022-05-10T14:58:47.000Z</updated>
+        <summary type="html"><![CDATA[I was recently looking for a way to keep tabs on our containers and applications at work. Specifically, I was interested in detecting anomalies in the configuration. After a little research, I stumbled on Falco [https://github.com/falcosecurity/falco]. What I found was a very complete Open Source platform with lots of features]]></summary>
+        <author>
+            <name>Jose Vicente Nunez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powerful ‘Machine Scientists’ Distill the Laws of Physics From Raw Data]]></title>
+        <id>https://www.quantamagazine.org/?p=114708</id>
+        <link href="https://www.quantamagazine.org/machine-scientists-distill-the-laws-of-physics-from-raw-data-20220510/"/>
+        <updated>2022-05-10T14:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Researchers say we’re on the cusp of “GoPro physics,” where a camera can point at an event and an algorithm can identify the underlying physics equation.            
+The post Powerful ‘Machine Scientists’ Distill the Laws of Physics From Raw Data first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Charlie Wood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Path – How to Use the Pathlib Module with Examples]]></title>
+        <id>6269555ac1c601068f4e811b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-pathlib-module-in-python/"/>
+        <updated>2022-05-10T13:59:54.000Z</updated>
+        <summary type="html"><![CDATA[Each operating system has different rules for constructing file paths. For example, Linux uses forward slashes for paths, while Windows uses backslashes.  This small difference can cause issues if you are working on a project and you want other developers who come from different operating systems to expand your]]></summary>
+        <author>
+            <name>Rochdi Khalid</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Resolve Merge Conflicts in Git – A Practical Guide with Examples]]></title>
         <id>6272b9cdc1c601068f4ec497</id>
@@ -1854,59 +1915,6 @@ The post Life With Longer Genetic Codes Seems Possible — but Less Likely first
         <summary type="html"><![CDATA[Let's say you're working on a serious feature of a branch in Git – like revamping the hero section of your marketing page. You'll want to start doing experiments in your Revamp/Marketing-page-hero-section branch without screwing up master or main branch. Then suddenly you get call from your coworker to fix]]></summary>
         <author>
             <name>Preethi⚡</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #62 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-62/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-62/"/>
-        <updated>2022-04-10T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Happy Monday, friends!
-
-It's Web Weekly time and a special welcome to the 18 new subscribers! I'm super excited to have you around! 👋
-Today you'll learn about:
-mistakes when writing async JavaScript
-the inert HTML attribute
-the :has() CSS selector
-... and, as always, GitHub repositories, a new Tiny Helper and some music.
-On a personal note
-
-Last week I said that I wanted to switch to sending this newsletter with an automated schedule. It should hit your inbox Mondays at 8 AM CET.
-Well yeah... That didn't work out, but I'll try it again next week!
-Apart from that, I'm trying to get some official grownup things done, and it's been challenging. For the folks not living in Berlin, getting appointments at the city service are a real challenge here.
-It goes so far that the city places console.l…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Technically no difference]]></title>
-        <id>624a41b2e2f6fe23f306bfc5</id>
-        <link href="https://labnotes.org/weekend-reading-technically-no-difference/"/>
-        <updated>2022-04-10T21:44:03.000Z</updated>
-        <summary type="html"><![CDATA[This week we have a new terminal app, our creativity replaced by machines, and what happened to lemon denim?]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python If-Else Statement Example]]></title>
-        <id>62530365ac55f60686c316e5</id>
-        <link href="https://www.freecodecamp.org/news/python-if-else-statement-example/"/>
-        <updated>2022-04-10T17:05:36.000Z</updated>
-        <summary type="html"><![CDATA[If-Else statements – AKA conditional logic – are the bedrock of programming. And Python has these in spades. Python offers several options for evaluating variables, their states, and whether specific conditions are met:  * Vanilla if-else statements  * if statements without the else part  * nested if-else]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PMP Certification Cost – 2022 Exam Fees, Degree Requirements, and Years of Experience]]></title>
-        <id>6252eea7ac55f60686c315af</id>
-        <link href="https://www.freecodecamp.org/news/pmp-certification-cost-degree-experience/"/>
-        <updated>2022-04-10T15:44:12.000Z</updated>
-        <summary type="html"><![CDATA[The Project Management Professional (PMP) is widely seen by project managers as the "gold standard" credential. Many senior PM roles now require you to be PMP certified. So if you have been working as a PM for a few years, this guide will show you how you can take the]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
 </feed>
