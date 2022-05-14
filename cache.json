@@ -12,6 +12,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-reduce-reduceright-works-javascript/",
+          "author": "Ashutosh Biswas",
+          "description": "reduce and reduceRight are two built-in JavaScript array methods that have a bit of a steep learning curve.  But the very essence of these methods are as simple as the following arithmetic computations. Suppose we have an array of numbers: [1, 2, 3, 4] And we want to get",
+          "link": "https://www.freecodecamp.org/news/how-reduce-reduceright-works-javascript/",
+          "publishedOn": "2022-05-13T16:10:35.000Z",
+          "wordCount": 1672,
+          "title": "How the JavaScript reduce and reduceRight Methods Work",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/reduce-cover-with-title-3.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/github-discussions-as-chat-system/",
+          "author": "Rakesh Potnuru",
+          "description": "If you have a personal blog, you might be using a comment system to manage your blog's discussions and comments. If so, it's time to think about updating your comment system.  You can take your blog's comments to the next level with the help of GitHub Discussions. In this",
+          "link": "https://www.freecodecamp.org/news/github-discussions-as-chat-system/",
+          "publishedOn": "2022-05-13T15:48:14.000Z",
+          "wordCount": 949,
+          "title": "How to Use GitHub Discussions as Your Blog's Chat System",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/GitHub-Discussions-as-chat-system-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-apache-airflow-to-manage-workflows/",
+          "author": "Sameer Shukla",
+          "description": "Apache Airflow is an open-source workflow management system that makes it easy to write, schedule, and monitor workflows. A workflow as a sequence of operations, from start to finish. The workflows in Airflow are authored as Directed Acyclic Graphs (DAG) using standard Python programming.  You can configure when a",
+          "link": "https://www.freecodecamp.org/news/how-to-use-apache-airflow-to-manage-workflows/",
+          "publishedOn": "2022-05-13T15:11:17.000Z",
+          "wordCount": 1599,
+          "title": "How to Use Apache Airflow to Schedule and Manage Workflows",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/My-project--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/building-a-wordle-game/",
+          "author": "Tantoluwa Heritage Alabi",
+          "description": "Python",
+          "link": "https://www.freecodecamp.org/news/building-a-wordle-game/",
+          "publishedOn": "2022-05-12T21:24:00.000Z",
+          "wordCount": 1949,
+          "title": "How to Build a Wordle Clone with Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-suzy-hazelwood-1822568.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/concatenate-in-excel-how-to-use-the-concat-function/",
           "author": "Ilenia Magoni",
           "description": "Excel has many useful functions that you can use to work with your data. In this guide you will learn about the CONCAT function and how to use it. Concatenation just means to join two things together. And in Excel, you can use the CONCAT function to join data from",
@@ -1120,96 +1160,6 @@
           "wordCount": 2367,
           "title": "How to Get Ready for a Job in Tech – Tips for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/1.png"
-        },
-        {
-          "id": "62560533ac55f60686c33336",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we're going to take a look at modules in JavaScript. Modules are a technique heavily used in today's software design/architecture. First we're going to learn what they are and the different types of modules that exist. Then we're going to discuss why modules are useful.",
-          "link": "https://www.freecodecamp.org/news/modules-in-javascript/",
-          "publishedOn": "2022-04-14T01:17:29.000Z",
-          "wordCount": 2952,
-          "title": "Modules in JavaScript – CommonJS and ESmodules Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/carson-arias-7Z03R1wOdmI-unsplash.jpg"
-        },
-        {
-          "id": "62577335ac55f60686c342d8",
-          "author": "Beau Carnes",
-          "description": "Low-code is a software development approach that requires little coding in order to build applications. It is made possible through a low-code platform. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use the Appsmith Low-Code platform.  Ania Kubów created this course.",
-          "link": "https://www.freecodecamp.org/news/low-code-for-freelance-developers-startups/",
-          "publishedOn": "2022-04-14T01:17:01.000Z",
-          "wordCount": 518,
-          "title": "Low-Code for Freelance Developers & Startups",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/lowcode.png"
-        },
-        {
-          "id": "6256c1d7ac55f60686c33a90",
-          "author": "Kolade Chris",
-          "description": "In your HTML documents, you'll often need to make a list of items. And you can use bullet points for this purpose. You can show bullet points with the Unicode character (or entity) for bullet points. In this article, I will show you the Unicode and HTML entities for showing",
-          "link": "https://www.freecodecamp.org/news/dot-symbol-bullet-point-in-html-unicode/",
-          "publishedOn": "2022-04-14T00:45:10.000Z",
-          "wordCount": 550,
-          "title": "Dot Symbol – Bullet Point in HTML Unicode",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/bullet.png"
-        },
-        {
-          "id": "6257472dac55f60686c341a4",
-          "author": "Shruti Kapoor",
-          "description": "React 18 was released in March 2022. This release focuses on performance improvements and updating the rendering engine.  React 18 sets the foundation for concurrent rendering APIs that future React features will be built on top of.  In this tutorial, I will give a quick guide of the",
-          "link": "https://www.freecodecamp.org/news/react-18-new-features/",
-          "publishedOn": "2022-04-13T21:58:00.000Z",
-          "wordCount": 1992,
-          "title": "React 18 New Features – Concurrent Rendering, Automatic Batching, and More",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/featured.jpg"
-        },
-        {
-          "id": "62552369ac55f60686c329f4",
-          "author": "Ashutosh Krishna",
-          "description": "We often need to store some data while working on our personal projects. We can use a SQL or NoSQL database with a server, but that would require us to do a bit of setup.  In one of my previous articles, we saw a solution to this problem with",
-          "link": "https://www.freecodecamp.org/news/how-to-get-started-with-pysondb/",
-          "publishedOn": "2022-04-13T19:30:13.000Z",
-          "wordCount": 2055,
-          "title": "How to Get Started with PysonDB",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pysondb.png"
-        },
-        {
-          "id": "625664b6ac55f60686c33732",
-          "author": "Jessica Wilkins",
-          "description": "When you are first learning JavaScript, it might be difficult to know the difference between the slice() and splice() array methods.  In this article, I will walk you through how to use the slice() and splice()  array methods using code examples.  How to use the slice() JavaScript",
-          "link": "https://www.freecodecamp.org/news/javascript-slice-and-splice-how-to-use-the-slice-and-splice-js-array-methods/",
-          "publishedOn": "2022-04-13T19:17:33.000Z",
-          "wordCount": 1132,
-          "title": "How to Use the slice() and splice() JavaScript Array Methods",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pankaj-patel-1IW4HQuauSU-unsplash.jpg"
-        },
-        {
-          "id": "62527fd2ac55f60686c30fd4",
-          "author": "Keyur Paralkar",
-          "description": "In this article, we are going to talk about closures in JavaScript. I'll walk you through the definition of a closure, a simple day-to-day fetch utility closure example, and some of the advantages and disadvantages of using closures.  Table of Contents  * Prerequisites   * What are",
-          "link": "https://www.freecodecamp.org/news/javascript-closures-explained-with-example/",
-          "publishedOn": "2022-04-13T18:57:03.000Z",
-          "wordCount": 1526,
-          "title": "Closure in JavaScript – Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/safar-safarov-LKsHwgzyk7c-unsplash-2.jpg"
-        },
-        {
-          "id": "624f2d28ac55f60686c2f644",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When you use the zip() function in Python, it takes two or more data sets and \"zips\" them together. This returns an object containing pairs of items derived from the data sets. It groups these items in the order of their indexes.  Let me break it down a bit",
-          "link": "https://www.freecodecamp.org/news/python-zip-zip-function-in-python/",
-          "publishedOn": "2022-04-13T18:28:32.000Z",
-          "wordCount": 714,
-          "title": "Python .zip() – Zip Function in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/zip.jpg"
-        },
-        {
-          "id": "62508fa3ac55f60686c2feff",
-          "author": "Joy Shaheb",
-          "description": "Today we're gonna learn how to do CRUD Operations in JavaScript by making a Todo App. Let's get started 🔥 This is the app we're making today:  * Live preview [https://crud-application-al9am9v2v-joyshaheb.vercel.app/]  * GitHub Repository [https://github.com/JoyShaheb/CRUD-Application] You can watch this tutorial on YouTube as well if you like 🎥",
-          "link": "https://www.freecodecamp.org/news/learn-crud-operations-in-javascript-by-building-todo-app/",
-          "publishedOn": "2022-04-13T17:57:32.000Z",
-          "wordCount": 2971,
-          "title": "Learn CRUD Operations in JavaScript by Building TODO APP",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Frame-12--2-.png"
         }
       ]
     },
@@ -1559,6 +1509,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/411",
+          "author": null,
+          "description": "🇺🇦 #​411 — May 13, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nChanging One Character Wildly Improved Segment's App Performance — In terms of value per keypress, you can’t beat this, surely. Segment’s engineers noticed some sluggishness in a Go-powered system, used pprof to see what was going on, and discovered a tiny change to a sorting comparison function would pay huge dividends.\nKevin Burke (Segment) \n\n\n  \n  \n▶  How to Refactor Cloud Apps in Go 1.18 with Generics — A 20-minute talk from this week’s Google I/O event by two Googlers that introduces Go 1.18’s generics feature, how they differ to other implementations, why to use them, plus a practical demo of refactoring a Go 1.16 app. Easy to follow – a good primer.\nCameron Balahan and Cody Oss …",
+          "link": "https://golangweekly.com/issues/411",
+          "publishedOn": "2022-05-13T00:00:00.000Z",
+          "wordCount": 962,
+          "title": "Using go run to manage tool dependencies",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/410",
           "author": null,

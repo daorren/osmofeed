@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-13T02:00:08.689Z</updated>
+    <updated>2022-05-14T02:04:46.094Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How the JavaScript reduce and reduceRight Methods Work]]></title>
+        <id>https://www.freecodecamp.org/news/how-reduce-reduceright-works-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-reduce-reduceright-works-javascript/"/>
+        <updated>2022-05-13T16:10:35.000Z</updated>
+        <summary type="html"><![CDATA[reduce and reduceRight are two built-in JavaScript array methods that have a bit of a steep learning curve.  But the very essence of these methods are as simple as the following arithmetic computations. Suppose we have an array of numbers: [1, 2, 3, 4] And we want to get]]></summary>
+        <author>
+            <name>Ashutosh Biswas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use GitHub Discussions as Your Blog's Chat System]]></title>
+        <id>https://www.freecodecamp.org/news/github-discussions-as-chat-system/</id>
+        <link href="https://www.freecodecamp.org/news/github-discussions-as-chat-system/"/>
+        <updated>2022-05-13T15:48:14.000Z</updated>
+        <summary type="html"><![CDATA[If you have a personal blog, you might be using a comment system to manage your blog's discussions and comments. If so, it's time to think about updating your comment system.  You can take your blog's comments to the next level with the help of GitHub Discussions. In this]]></summary>
+        <author>
+            <name>Rakesh Potnuru</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Apache Airflow to Schedule and Manage Workflows]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-apache-airflow-to-manage-workflows/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-apache-airflow-to-manage-workflows/"/>
+        <updated>2022-05-13T15:11:17.000Z</updated>
+        <summary type="html"><![CDATA[Apache Airflow is an open-source workflow management system that makes it easy to write, schedule, and monitor workflows. A workflow as a sequence of operations, from start to finish. The workflows in Airflow are authored as Directed Acyclic Graphs (DAG) using standard Python programming.  You can configure when a]]></summary>
+        <author>
+            <name>Sameer Shukla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using go run to manage tool dependencies]]></title>
+        <id>https://golangweekly.com/issues/411</id>
+        <link href="https://golangweekly.com/issues/411"/>
+        <updated>2022-05-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🇺🇦 #​411 — May 13, 2022
+
+
+Unsubscribe  |  Read on the Web
+
+
+
+The Go Weekly Newsletter
+
+
+
+
+  
+
+
+
+
+
+  
+  
+Changing One Character Wildly Improved Segment's App Performance — In terms of value per keypress, you can’t beat this, surely. Segment’s engineers noticed some sluggishness in a Go-powered system, used pprof to see what was going on, and discovered a tiny change to a sorting comparison function would pay huge dividends.
+Kevin Burke (Segment) 
+
+
+  
+  
+▶  How to Refactor Cloud Apps in Go 1.18 with Generics — A 20-minute talk from this week’s Google I/O event by two Googlers that introduces Go 1.18’s generics feature, how they differ to other implementations, why to use them, plus a practical demo of refactoring a Go 1.16 app. Easy to follow – a good primer.
+Cameron Balahan and Cody Oss …]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Wordle Clone with Python]]></title>
+        <id>https://www.freecodecamp.org/news/building-a-wordle-game/</id>
+        <link href="https://www.freecodecamp.org/news/building-a-wordle-game/"/>
+        <updated>2022-05-12T21:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Python]]></summary>
+        <author>
+            <name>Tantoluwa Heritage Alabi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Concatenate in Excel – How to Use the Concat Function]]></title>
         <id>https://www.freecodecamp.org/news/concatenate-in-excel-how-to-use-the-concat-function/</id>
@@ -1704,96 +1781,6 @@ Nice! 👏
 The post Researchers Gain New Understanding From Simple AI first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Mordechai Rorvig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modules in JavaScript – CommonJS and ESmodules Explained]]></title>
-        <id>62560533ac55f60686c33336</id>
-        <link href="https://www.freecodecamp.org/news/modules-in-javascript/"/>
-        <updated>2022-04-14T01:17:29.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! In this article we're going to take a look at modules in JavaScript. Modules are a technique heavily used in today's software design/architecture. First we're going to learn what they are and the different types of modules that exist. Then we're going to discuss why modules are useful.]]></summary>
-        <author>
-            <name>Germán Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Low-Code for Freelance Developers & Startups]]></title>
-        <id>62577335ac55f60686c342d8</id>
-        <link href="https://www.freecodecamp.org/news/low-code-for-freelance-developers-startups/"/>
-        <updated>2022-04-14T01:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Low-code is a software development approach that requires little coding in order to build applications. It is made possible through a low-code platform. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use the Appsmith Low-Code platform.  Ania Kubów created this course.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dot Symbol – Bullet Point in HTML Unicode]]></title>
-        <id>6256c1d7ac55f60686c33a90</id>
-        <link href="https://www.freecodecamp.org/news/dot-symbol-bullet-point-in-html-unicode/"/>
-        <updated>2022-04-14T00:45:10.000Z</updated>
-        <summary type="html"><![CDATA[In your HTML documents, you'll often need to make a list of items. And you can use bullet points for this purpose. You can show bullet points with the Unicode character (or entity) for bullet points. In this article, I will show you the Unicode and HTML entities for showing]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React 18 New Features – Concurrent Rendering, Automatic Batching, and More]]></title>
-        <id>6257472dac55f60686c341a4</id>
-        <link href="https://www.freecodecamp.org/news/react-18-new-features/"/>
-        <updated>2022-04-13T21:58:00.000Z</updated>
-        <summary type="html"><![CDATA[React 18 was released in March 2022. This release focuses on performance improvements and updating the rendering engine.  React 18 sets the foundation for concurrent rendering APIs that future React features will be built on top of.  In this tutorial, I will give a quick guide of the]]></summary>
-        <author>
-            <name>Shruti Kapoor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Started with PysonDB]]></title>
-        <id>62552369ac55f60686c329f4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-pysondb/"/>
-        <updated>2022-04-13T19:30:13.000Z</updated>
-        <summary type="html"><![CDATA[We often need to store some data while working on our personal projects. We can use a SQL or NoSQL database with a server, but that would require us to do a bit of setup.  In one of my previous articles, we saw a solution to this problem with]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the slice() and splice() JavaScript Array Methods]]></title>
-        <id>625664b6ac55f60686c33732</id>
-        <link href="https://www.freecodecamp.org/news/javascript-slice-and-splice-how-to-use-the-slice-and-splice-js-array-methods/"/>
-        <updated>2022-04-13T19:17:33.000Z</updated>
-        <summary type="html"><![CDATA[When you are first learning JavaScript, it might be difficult to know the difference between the slice() and splice() array methods.  In this article, I will walk you through how to use the slice() and splice()  array methods using code examples.  How to use the slice() JavaScript]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Closure in JavaScript – Explained with Examples]]></title>
-        <id>62527fd2ac55f60686c30fd4</id>
-        <link href="https://www.freecodecamp.org/news/javascript-closures-explained-with-example/"/>
-        <updated>2022-04-13T18:57:03.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we are going to talk about closures in JavaScript. I'll walk you through the definition of a closure, a simple day-to-day fetch utility closure example, and some of the advantages and disadvantages of using closures.  Table of Contents  * Prerequisites   * What are]]></summary>
-        <author>
-            <name>Keyur Paralkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python .zip() – Zip Function in Python]]></title>
-        <id>624f2d28ac55f60686c2f644</id>
-        <link href="https://www.freecodecamp.org/news/python-zip-zip-function-in-python/"/>
-        <updated>2022-04-13T18:28:32.000Z</updated>
-        <summary type="html"><![CDATA[When you use the zip() function in Python, it takes two or more data sets and "zips" them together. This returns an object containing pairs of items derived from the data sets. It groups these items in the order of their indexes.  Let me break it down a bit]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn CRUD Operations in JavaScript by Building TODO APP]]></title>
-        <id>62508fa3ac55f60686c2feff</id>
-        <link href="https://www.freecodecamp.org/news/learn-crud-operations-in-javascript-by-building-todo-app/"/>
-        <updated>2022-04-13T17:57:32.000Z</updated>
-        <summary type="html"><![CDATA[Today we're gonna learn how to do CRUD Operations in JavaScript by making a Todo App. Let's get started 🔥 This is the app we're making today:  * Live preview [https://crud-application-al9am9v2v-joyshaheb.vercel.app/]  * GitHub Repository [https://github.com/JoyShaheb/CRUD-Application] You can watch this tutorial on YouTube as well if you like 🎥]]></summary>
-        <author>
-            <name>Joy Shaheb</name>
         </author>
     </entry>
 </feed>
