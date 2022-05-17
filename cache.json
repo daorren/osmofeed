@@ -12,6 +12,96 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/javascript-promise-methods/",
+          "author": "Dillion Megida",
+          "description": "A promise is an object in JavaScript that will produce a value sometime in the future. This usually applies to asynchronous operations. In applications, asynchronous operations happen a lot. This can be API requests, delayed data processing, and much more. Instead of having to block code execution until the data",
+          "link": "https://www.freecodecamp.org/news/javascript-promise-methods/",
+          "publishedOn": "2022-05-16T18:30:06.000Z",
+          "wordCount": 957,
+          "title": "JavaScript Promises – The promise.then, promise.catch and promise.finally Methods Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-pixabay-532414.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-an-array-in-javascript/",
+          "author": "Jessica Wilkins",
+          "description": "An array is a type of data structure where you can store an ordered list of elements.  In this article, I will show you 3 ways you can create an array using JavaScript.  I will also show you how to create an array from a string using the",
+          "link": "https://www.freecodecamp.org/news/how-to-create-an-array-in-javascript/",
+          "publishedOn": "2022-05-16T18:17:35.000Z",
+          "wordCount": 1071,
+          "title": "JavaScript Arrays - How to Create an Array in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/jexo-73REk-BB7-Y-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/entry-level-tech-job-guide/",
+          "author": "Zaira Hira",
+          "description": "Entry-level jobs hire people with little or no experience in that job. There are plenty of entry-level tech jobs on the market these days because of the ever-growing demand for technology-savvy workers.  There are many reasons to join the tech industry such as competitive salaries, promising career paths, and",
+          "link": "https://www.freecodecamp.org/news/entry-level-tech-job-guide/",
+          "publishedOn": "2022-05-16T17:51:58.000Z",
+          "wordCount": 2151,
+          "title": "Entry-Level Tech Jobs – Beginner IT Jobs with No Experience Required",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Copy-of-guided-exercise.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/excel-absolute-reference-cell-referencing-example/",
+          "author": "Kolade Chris",
+          "description": "In Excel, you can use both absolute and relative cell referencing to make calculations. Relative referencing is the default. So, for example, whenever you extend a formula down some cells, the cells change based on the relationships of the rows and columns. What if you want each cell to lock",
+          "link": "https://www.freecodecamp.org/news/excel-absolute-reference-cell-referencing-example/",
+          "publishedOn": "2022-05-16T17:29:50.000Z",
+          "wordCount": 782,
+          "title": "Excel Absolute Reference – Cell Referencing Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/spreadsheets-24956_1280.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article we're going to take a look at a key topic when it comes to computer science and software development: data structures. It's definitely a must know topic for anyone working in the software development world, but it can be hard to understand and even a",
+          "link": "https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/",
+          "publishedOn": "2022-05-16T17:16:52.000Z",
+          "wordCount": 5913,
+          "title": "Data Structures in JavaScript – With Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-clem-onojeghuo-175771.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-become-a-quality-assurance-engineer-qa-engineer-career-guide/",
+          "author": "Jessica Wilkins",
+          "description": "A Quality Assurance (QA) Engineer is someone who tests software products throughout the whole development process. They ensure that the product meets high quality standards before releasing it to the public. But how do you become a QA Engineer? In this article, I will talk about the qualifications and process",
+          "link": "https://www.freecodecamp.org/news/how-to-become-a-quality-assurance-engineer-qa-engineer-career-guide/",
+          "publishedOn": "2022-05-16T15:33:12.000Z",
+          "wordCount": 1113,
+          "title": "How to Become a Quality Assurance Engineer – QA Engineer Career Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/thisisengineering-raeng-1oYSrlQrpY4-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-backup-hashnode-articles-to-github/",
+          "author": "Md. Fahim Bin Amin",
+          "description": "Many developers have a personal blog on Hashnode [https://hashnode.com/], one of the most popular blogging communities for people exploring tech.  I also write on Hashnode, but recently I was thinking about whether there is any way to backup my published articles to GitHub. Fortunately, I have found an easy",
+          "link": "https://www.freecodecamp.org/news/how-to-backup-hashnode-articles-to-github/",
+          "publishedOn": "2022-05-16T15:21:57.000Z",
+          "wordCount": 1013,
+          "title": "How to Backup Your Hashnode Articles to GitHub",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/gradient-color-Modern-Music-Playlist-YouTube-Thumbnail.gif"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/should-i-be-a-developer-programmer/",
+          "author": "Luke Ciciliano",
+          "description": "Few things are as important as picking your career path. And consequently, fewer decisions are harder to make.  It is, after all, hard to know whether or not you’ll like something that you’ve never done. If you choose a career path based on the wrong reasons, you might end",
+          "link": "https://www.freecodecamp.org/news/should-i-be-a-developer-programmer/",
+          "publishedOn": "2022-05-16T15:03:48.000Z",
+          "wordCount": 4644,
+          "title": "Should I Be A Developer? How to Pick a Career as a Programmer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/career-choices-1.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-full-stack-single-page-application-with-laravel-mysql-vue-and-docker/",
+          "author": "Fabio Pacific",
+          "description": "In this tutorial, you will learn how to build a single page application. I'll take you through the process step by step, using cutting edge technologies like Laravel 9, Jetstream, Vuejs, Inertiajs, MySQL, Tailwind CSS, and Docker. Let's get started. What you need to follow this guide: To follow along",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-full-stack-single-page-application-with-laravel-mysql-vue-and-docker/",
+          "publishedOn": "2022-05-16T13:55:50.000Z",
+          "wordCount": 8125,
+          "title": "How to Build a Full-Stack Single Page Application with Laravel 9, MySQL, Vue.js, Inertia, Jetstream and Docker",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/EP__3__LiveCoding.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-reduce-reduceright-works-javascript/",
           "author": "Ashutosh Biswas",
           "description": "reduce and reduceRight are two built-in JavaScript array methods that have a bit of a steep learning curve.  But the very essence of these methods are as simple as the following arithmetic computations. Suppose we have an array of numbers: [1, 2, 3, 4] And we want to get",
@@ -1079,6 +1169,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=114878",
+          "author": "Katie McCormick",
+          "description": "By resolving a paradox about light in a box, researchers hope to clarify the concept of energy in quantum theory.            \nThe post Puzzling Quantum Scenario Appears Not to Conserve Energy first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/puzzling-quantum-scenario-appears-not-to-conserve-energy-20220516/",
+          "publishedOn": "2022-05-16T13:44:56.000Z",
+          "wordCount": 1567,
+          "title": "Puzzling Quantum Scenario Appears Not to Conserve Energy",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/05/Conservation-of-Energy_520x292.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=114829",
           "author": "Jonathan O'Callaghan",
           "description": "In 2019, the Event Horizon Telescope released a historic image of a supermassive black hole in another galaxy. The follow-up — an image of Sagittarius A* — shows it shimmering at the center of our own.            \nThe post Black Hole Image Reveals the Beast Inside the Milky Way’s Heart first appeared on Quanta Magazine",
@@ -1304,16 +1404,6 @@
           "wordCount": 850,
           "title": "Weekend Reading — Load-bearing Excel spreadsheet",
           "imageUrl": "https://labnotes.org/content/images/2022/04/image-38-1.jpeg"
-        },
-        {
-          "id": "62534fe207f695657dd4acf3",
-          "author": "Assaf Arkin",
-          "description": "This week we print, fold, and reminisce. Twitter drama is depleting our popcorn supply. And we read the most funny vaccine experiment.",
-          "link": "https://labnotes.org/weekend-reading-print-fold-reminisce/",
-          "publishedOn": "2022-04-16T22:19:58.000Z",
-          "wordCount": 1311,
-          "title": "Weekend Reading — Print. Fold. Reminisce.",
-          "imageUrl": "https://labnotes.org/content/images/2022/04/tumblr_dc5563ca687debc988a04c86caf07080_45a3a6d9_1280.jpg"
         }
       ]
     },
