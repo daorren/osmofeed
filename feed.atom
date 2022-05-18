@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-17T01:50:49.418Z</updated>
+    <updated>2022-05-18T01:44:35.014Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Improve SQL Server Performance]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-improve-sql-server-performance/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-improve-sql-server-performance/"/>
+        <updated>2022-05-17T17:49:37.000Z</updated>
+        <summary type="html"><![CDATA[SQL server performance can be tricky. But there are a lot of things you can do to increase the speed of your queries. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to improve performance on SQL Server. Rajan Arora developed this course. Rajan]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Axios React – How to Make Get, Post, and Delete API Requests]]></title>
+        <id>https://www.freecodecamp.org/news/axios-react-how-to-make-get-post-and-delete-api-requests/</id>
+        <link href="https://www.freecodecamp.org/news/axios-react-how-to-make-get-post-and-delete-api-requests/"/>
+        <updated>2022-05-17T16:12:39.000Z</updated>
+        <summary type="html"><![CDATA[Axios [https://axios-http.com/] is an HTTP client library based on promises. It makes sending asynchronous HTTP requests to REST endpoints easier and helps you perform CRUD operations. This REST endpoint/API could be an external API like the Google API, GitHub API, and so on – or it could be your own]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Break in Python – Nested For Loop Break if Condition Met Example]]></title>
+        <id>https://www.freecodecamp.org/news/break-in-python-nested-for-loop-break-if-condition-met-example/</id>
+        <link href="https://www.freecodecamp.org/news/break-in-python-nested-for-loop-break-if-condition-met-example/"/>
+        <updated>2022-05-17T15:05:36.000Z</updated>
+        <summary type="html"><![CDATA[Loops in programming let us execute a set of instructions/block of code continuously until a certain condition is met.  We can also use loops to iterate over a collection of data and perform a similar operation on each item in the data set. names = ["John", "Jane", "Doe"] for]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Software With Mathematical Perfection]]></title>
+        <id>https://www.quantamagazine.org/?p=114927</id>
+        <link href="https://www.quantamagazine.org/computing-expert-says-programmers-need-more-math-20220517/"/>
+        <updated>2022-05-17T14:17:04.000Z</updated>
+        <summary type="html"><![CDATA[Leslie Lamport revolutionized how computers talk to each other. Now he’s working on how engineers talk to their machines.             
+The post How to Write Software With Mathematical Perfection first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Sheon Han</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Promises – The promise.then, promise.catch and promise.finally Methods Explained]]></title>
         <id>https://www.freecodecamp.org/news/javascript-promise-methods/</id>
@@ -1756,31 +1797,6 @@ Ask people why they’ve decided to stick around – and what would…]]></summa
 The post Which Computational Universe Do We Live In? first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Erica Klarreich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to measure network quality (download/upload) on macOS  (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/how-to-measure-network-quality-download-upload-on-macos/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/how-to-measure-network-quality-download-upload-on-macos/"/>
-        <updated>2022-04-17T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Short'n'sweet: I usually use Netflix' fast.com to measure my internet connection's quality.
-Today I learned that macOS Monterey comes with a CLI tool to do exactly this, too.
-$ networkQuality
-==== SUMMARY ====
-Upload capacity: 382.509 Kbps
-Download capacity: 8.432 Mbps
-Upload flows: 16
-Download flows: 20
-Responsiveness: Low (109 RPM)
-
-Nice! 👏
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-improve-sql-server-performance/",
+          "author": "Beau Carnes",
+          "description": "SQL server performance can be tricky. But there are a lot of things you can do to increase the speed of your queries. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to improve performance on SQL Server. Rajan Arora developed this course. Rajan",
+          "link": "https://www.freecodecamp.org/news/how-to-improve-sql-server-performance/",
+          "publishedOn": "2022-05-17T17:49:37.000Z",
+          "wordCount": 798,
+          "title": "How to Improve SQL Server Performance",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/sqlserver.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/axios-react-how-to-make-get-post-and-delete-api-requests/",
+          "author": "Joel Olawanle",
+          "description": "Axios [https://axios-http.com/] is an HTTP client library based on promises. It makes sending asynchronous HTTP requests to REST endpoints easier and helps you perform CRUD operations. This REST endpoint/API could be an external API like the Google API, GitHub API, and so on – or it could be your own",
+          "link": "https://www.freecodecamp.org/news/axios-react-how-to-make-get-post-and-delete-api-requests/",
+          "publishedOn": "2022-05-17T16:12:39.000Z",
+          "wordCount": 1705,
+          "title": "Axios React – How to Make Get, Post, and Delete API Requests",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/cover-template.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/break-in-python-nested-for-loop-break-if-condition-met-example/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Loops in programming let us execute a set of instructions/block of code continuously until a certain condition is met.  We can also use loops to iterate over a collection of data and perform a similar operation on each item in the data set. names = [\"John\", \"Jane\", \"Doe\"] for",
+          "link": "https://www.freecodecamp.org/news/break-in-python-nested-for-loop-break-if-condition-met-example/",
+          "publishedOn": "2022-05-17T15:05:36.000Z",
+          "wordCount": 1424,
+          "title": "Break in Python – Nested For Loop Break if Condition Met Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/henry-co-1qlMnKfql5c-unsplash.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/javascript-promise-methods/",
           "author": "Dillion Megida",
           "description": "A promise is an object in JavaScript that will produce a value sometime in the future. This usually applies to asynchronous operations. In applications, asynchronous operations happen a lot. This can be API requests, delayed data processing, and much more. Instead of having to block code execution until the data",
@@ -1169,6 +1199,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=114927",
+          "author": "Sheon Han",
+          "description": "Leslie Lamport revolutionized how computers talk to each other. Now he’s working on how engineers talk to their machines.             \nThe post How to Write Software With Mathematical Perfection first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/computing-expert-says-programmers-need-more-math-20220517/",
+          "publishedOn": "2022-05-17T14:17:04.000Z",
+          "wordCount": 2272,
+          "title": "How to Write Software With Mathematical Perfection",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/05/Lamport_1200_Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=114878",
           "author": "Katie McCormick",
           "description": "By resolving a paradox about light in a box, researchers hope to clarify the concept of energy in quantum theory.            \nThe post Puzzling Quantum Scenario Appears Not to Conserve Energy first appeared on Quanta Magazine",
@@ -1491,16 +1531,6 @@
           "wordCount": 1135,
           "title": "Web Weekly #63 (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252363/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/how-to-measure-network-quality-download-upload-on-macos/",
-          "author": null,
-          "description": "Short'n'sweet: I usually use Netflix' fast.com to measure my internet connection's quality.\nToday I learned that macOS Monterey comes with a CLI tool to do exactly this, too.\n$ networkQuality\n==== SUMMARY ====\nUpload capacity: 382.509 Kbps\nDownload capacity: 8.432 Mbps\nUpload flows: 16\nDownload flows: 20\nResponsiveness: Low (109 RPM)\n\nNice! 👏\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/how-to-measure-network-quality-download-upload-on-macos/",
-          "publishedOn": "2022-04-17T22:00:00.000Z",
-          "wordCount": 292,
-          "title": "How to measure network quality (download/upload) on macOS  (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20measure%20network%20quality%20(download%252Fupload)%20on%20macOS%20/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
