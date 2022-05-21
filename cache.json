@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-find-and-fix-security-vulnerabilities-using-snyk/",
+          "author": "Ashutosh Krishna",
+          "description": "In this article, we will be covering an important topic, Security in Python.  We often download and install packages from PyPi but we're not sure about the vulnerabilities that might come with them.  So, in this tutorial, we will learn about an awesome tool called Snyk that helps",
+          "link": "https://www.freecodecamp.org/news/how-to-find-and-fix-security-vulnerabilities-using-snyk/",
+          "publishedOn": "2022-05-20T18:08:14.000Z",
+          "wordCount": 1570,
+          "title": "How to Find and Fix Security Vulnerabilities Using Snyk",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/snyk-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-convert-value-to-boolean-javascript/",
+          "author": "Natalie Pina",
+          "description": "A boolean is a primitive value [https://developer.mozilla.org/en-US/docs/Glossary/Primitive] that represents either true or false. In Boolean contexts, JavaScript utilizes type casting [https://developer.mozilla.org/en-US/docs/Glossary/Type_Conversion] to convert values to true/false. There are implicit and explicit methods to convert values into their boolean counterparts. This article provides an overview of truthy and falsy values and",
+          "link": "https://www.freecodecamp.org/news/how-to-convert-value-to-boolean-javascript/",
+          "publishedOn": "2022-05-20T18:06:38.000Z",
+          "wordCount": 741,
+          "title": "How to Convert a Value to a Boolean in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Fashion-Sale--Banner--Landscape--.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-coding-used-for/",
+          "author": "Dionysia Lemonaki",
+          "description": "Are you aware of the millions of lines of code behind the applications and devices you use every day? Coding is used for many different purposes - more than you may realize. In this article, I will first go over what the term 'coding' actually means. Then, I will briefly",
+          "link": "https://www.freecodecamp.org/news/what-is-coding-used-for/",
+          "publishedOn": "2022-05-20T16:16:56.000Z",
+          "wordCount": 2676,
+          "title": "What is Coding Used For?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/ilya-pavlov-OqtafYT5kTw-unsplash.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/double-vs-float-in-cpp-the-difference-between-floats-and-doubles/",
           "author": "Ihechikara Vincent Abba",
           "description": "In C++, there are various data types like string, int, char, bool, float, and  double. Each of these data types have specific values that can be stored in them. When working with integers, we usually store them in an int data type. But this is only useful for whole",
@@ -1050,66 +1080,6 @@
           "wordCount": 577,
           "title": "How to Remove a Property from a JavaScript Object",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/remove-property-from-js-object.jpeg"
-        },
-        {
-          "id": "625b6643ac55f60686c36806",
-          "author": "Caleb Olojo",
-          "description": "When I decided to build my blog, I found many tools out there that were readily available. I looked at Gastby [https://www.gatsbyjs.com/] along with content management systems like Ghost [https://ghost.org/], Contentful [https://www.contentful.com/], Sanity dot io [https://www.sanity.io/], and HUGO [https://gohugo.io/].  But I needed something that I could have total control",
-          "link": "https://www.freecodecamp.org/news/how-to-build-your-own-blog-with-next-js-and-mdx/",
-          "publishedOn": "2022-04-21T02:28:29.000Z",
-          "wordCount": 4190,
-          "title": "How to Build Your Own Blog with Next.js and MDX",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/thoughts.jpg"
-        },
-        {
-          "id": "625eae40ac55f60686c381d2",
-          "author": "Ihechikara Vincent Abba",
-          "description": "FTP stands for File Transfer Protocol. This is a network/communication protocol for transferring files between computers over a TCP/IP (Transmission Control Protocol/Internet Protocol) network.  Examples of TCP/IP networks are:  * HTTP (Hypertext Transfer Protocol).  * HTTPS (Hypertext Transfer Protocol Secure).  * FTP (File Transfer Protocol). How",
-          "link": "https://www.freecodecamp.org/news/what-is-ftp-file-transfer-protocol-and-ftp-server-meaning/",
-          "publishedOn": "2022-04-21T01:01:16.000Z",
-          "wordCount": 940,
-          "title": "What is FTP? File Transfer Protocol and FTP Server Meaning",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/thisisengineering-raeng-zBLtU0zbJcU-unsplash--1-.jpg"
-        },
-        {
-          "id": "624beda6ac55f60686c2e0f7",
-          "author": "Dionysia Lemonaki",
-          "description": "In this tutorial, you will learn why flushing your DNS cache is important, and how you can clear the cache on your local system. Here is what we'll discuss in this guide:  1. What is DNS cache? 1. Why flushing DNS cache is important",
-          "link": "https://www.freecodecamp.org/news/how-to-flush-dns-on-mac-macos-clear-dns-cache/",
-          "publishedOn": "2022-04-21T00:15:54.000Z",
-          "wordCount": 1355,
-          "title": "How to Flush DNS on Mac – MacOS Clear DNS Cache",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg"
-        },
-        {
-          "id": "625d0d69ac55f60686c37241",
-          "author": "Farhan Hasin Chowdhury",
-          "description": "The extern keyword in C and C++ extends the visibility of variables and functions across multiple source files.  In the case of functions, the extern keyword is used implicitly. But with variables, you have to use the keyword explicitly. I believe a simple code example can explain things better",
-          "link": "https://www.freecodecamp.org/news/extern-keyword-function-tutorial/",
-          "publishedOn": "2022-04-21T00:08:58.000Z",
-          "wordCount": 1216,
-          "title": "Extern – C and C++ Extern Keyword Function Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Extern---C-and-C---Extern-Keyword-Function-Tutorial.png"
-        },
-        {
-          "id": "6255cce5ac55f60686c330c4",
-          "author": "Rohit Jacob Mathew",
-          "description": "Most of us are used to logging into different accounts using a password. For years this has been the norm, but passwords also face security issues:  * They are extremely annoying when we don’t remember them and even harder to    reset  * They can be",
-          "link": "https://www.freecodecamp.org/news/intro-to-webauthn/",
-          "publishedOn": "2022-04-20T23:45:39.000Z",
-          "wordCount": 1675,
-          "title": "How WebAuthn Authenticates Users Without a Password",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/webauthn.jpeg"
-        },
-        {
-          "id": "625fe437ac55f60686c38f04",
-          "author": "Kolade Chris",
-          "description": "If you are a regular Google Chrome user, then you might have encountered the error “dns_probe_finished_nxdomain” before. It is usually accompanied by “This site can’t be reached”. This error is associated with the Domain Name System (DNS) server and can occur due to misconfiguration in the DNS server, an unresponsive",
-          "link": "https://www.freecodecamp.org/news/dns_probe_finished_nxdomain-error-solved/",
-          "publishedOn": "2022-04-20T15:39:02.000Z",
-          "wordCount": 1292,
-          "title": "dns_probe_finished_nxdomain Error [Solved]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/earth-931552_1920.jpg"
         }
       ]
     },
@@ -1307,26 +1277,6 @@
           "wordCount": 1379,
           "title": "New Proof Illuminates the Hidden Structure of Common Equations",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/04/Van_der_Waerden_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=114258",
-          "author": "Steven Strogatz",
-          "description": "The immune system protects us from a full spectrum of pathogens, but without balance, it can end up hurting us over time, too. The immunologist Shruti Naik explains how our defenses can turn on us.            \nThe post Why Is Inflammation a Dangerous Necessity? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/why-is-inflammation-a-dangerous-necessity-20220420/",
-          "publishedOn": "2022-04-20T20:30:52.000Z",
-          "wordCount": 7654,
-          "title": "Why Is Inflammation a Dangerous Necessity?",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/04/JOY_OF_Y_E3_1200_Social_LOGO.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=114238",
-          "author": "Charlie Wood",
-          "description": "Vijay Balasubramanian investigates whether the fabric of the universe might be built from information, and what it means that physicists can even ask such a question.            \nThe post Pondering the Bits That Build Space-Time and Brains first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/pondering-the-bits-that-build-space-time-and-brains-20220420/",
-          "publishedOn": "2022-04-20T18:33:10.000Z",
-          "wordCount": 2782,
-          "title": "Pondering the Bits That Build Space-Time and Brains",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/04/Vijay_Balasubramanian_1200_Social.jpg"
         }
       ]
     },
@@ -1382,6 +1332,26 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/notes/should-browsers-offer-per-site-user-preferences/",
+          "author": null,
+          "description": "I rarely read posts and find myself nodding along the entire time. But today was one of these days when I discovered Jim's post Rationale for a Browser-Level Color Scheme Preference .\nJim explains why browsers should expose site-specific color scheme preference controls. Imagine you could run your operating system in dark mode (I really like the dark MacOS UI!), your browser in light mode, and still switch particular sites to dark mode.\nI'm super into this idea! Read Jim's post if you want to learn more about this color preference cascade. ☝️\nThe post includes a few things that stand out, though.\nSafari's hidden website preferences\n\nI didn't know that Safari offers website-specific controls. They're hidden and only show up after enabling them via the toolbar settings.\nThey're a perfect loc…",
+          "link": "https://www.stefanjudis.com/notes/should-browsers-offer-per-site-user-preferences/",
+          "publishedOn": "2022-05-19T22:00:00.000Z",
+          "wordCount": 678,
+          "title": "Should browsers offer site-specific user preference controls? (yes!) (#note)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Should%20browsers%20offer%20site-specific%20user%20preference%20controls%253F%20(yes!)/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
+          "id": "https://www.stefanjudis.com/snippets/how-to-navigate-to-the-git-root-directory/",
+          "author": null,
+          "description": "Today Bez Hermoso's git tip passed my Twitter timeline, and it's worth bookmarking it here on my blog.\nWhenever you find yourself cd'ing around in a large project just to reach the root of a git repository, the following alias might come in handy.\nalias gr='cd $(git rev-parse --show-toplevel)'\n\nIt automatically navigates you to the git repo root! 💪\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/snippets/how-to-navigate-to-the-git-root-directory/",
+          "publishedOn": "2022-05-19T22:00:00.000Z",
+          "wordCount": 290,
+          "title": "How to navigate to the git root directory (#snippet)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20navigate%20to%20the%20git%20root%20directory/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/today-i-learned/table-cells-support-a-headers-html-attribute/",
           "author": null,
@@ -1459,6 +1429,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/412",
+          "author": null,
+          "description": "🇺🇦 #​412 — May 20, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nTim Bray's Go Diaries: Generics — Tim (one of the original co-authors of the XML spec) finds a use case for generics in his Quamima pattern matching library, only to find that there are some ‘bumps in the road’ which he shares here for everyone’s benefit.\nTim concludes: “I don’t hate Go’s generics, which is actually pretty strong testimony given that I spent the best part of a couple of days fighting all the stuff described above. But, my guess is the Go generics story is isn’t finished yet.”\nTim Bray \n\n\n  \n  \nGophers - Opportunity is Knocking — We’re a premier software engineering firm looking for mid to senior level engineers to help us develop advanced software solutions and applica…",
+          "link": "https://golangweekly.com/issues/412",
+          "publishedOn": "2022-05-20T00:00:00.000Z",
+          "wordCount": 858,
+          "title": "An arrow style function experiment for Go",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/411",
           "author": null,

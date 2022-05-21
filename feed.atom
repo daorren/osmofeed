@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-20T01:52:13.702Z</updated>
+    <updated>2022-05-21T01:24:58.603Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Find and Fix Security Vulnerabilities Using Snyk]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-find-and-fix-security-vulnerabilities-using-snyk/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-find-and-fix-security-vulnerabilities-using-snyk/"/>
+        <updated>2022-05-20T18:08:14.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will be covering an important topic, Security in Python.  We often download and install packages from PyPi but we're not sure about the vulnerabilities that might come with them.  So, in this tutorial, we will learn about an awesome tool called Snyk that helps]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Convert a Value to a Boolean in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-convert-value-to-boolean-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-convert-value-to-boolean-javascript/"/>
+        <updated>2022-05-20T18:06:38.000Z</updated>
+        <summary type="html"><![CDATA[A boolean is a primitive value [https://developer.mozilla.org/en-US/docs/Glossary/Primitive] that represents either true or false. In Boolean contexts, JavaScript utilizes type casting [https://developer.mozilla.org/en-US/docs/Glossary/Type_Conversion] to convert values to true/false. There are implicit and explicit methods to convert values into their boolean counterparts. This article provides an overview of truthy and falsy values and]]></summary>
+        <author>
+            <name>Natalie Pina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Coding Used For?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-coding-used-for/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-coding-used-for/"/>
+        <updated>2022-05-20T16:16:56.000Z</updated>
+        <summary type="html"><![CDATA[Are you aware of the millions of lines of code behind the applications and devices you use every day? Coding is used for many different purposes - more than you may realize. In this article, I will first go over what the term 'coding' actually means. Then, I will briefly]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An arrow style function experiment for Go]]></title>
+        <id>https://golangweekly.com/issues/412</id>
+        <link href="https://golangweekly.com/issues/412"/>
+        <updated>2022-05-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🇺🇦 #​412 — May 20, 2022
+
+
+Unsubscribe  |  Read on the Web
+
+
+
+The Go Weekly Newsletter
+
+
+
+
+  
+
+
+
+
+
+  
+  
+Tim Bray's Go Diaries: Generics — Tim (one of the original co-authors of the XML spec) finds a use case for generics in his Quamima pattern matching library, only to find that there are some ‘bumps in the road’ which he shares here for everyone’s benefit.
+Tim concludes: “I don’t hate Go’s generics, which is actually pretty strong testimony given that I spent the best part of a couple of days fighting all the stuff described above. But, my guess is the Go generics story is isn’t finished yet.”
+Tim Bray 
+
+
+  
+  
+Gophers - Opportunity is Knocking — We’re a premier software engineering firm looking for mid to senior level engineers to help us develop advanced software solutions and applica…]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Double VS Float in C++ – The Difference Between Floats and Doubles]]></title>
         <id>https://www.freecodecamp.org/news/double-vs-float-in-cpp-the-difference-between-floats-and-doubles/</id>
@@ -14,6 +81,42 @@
         <summary type="html"><![CDATA[In C++, there are various data types like string, int, char, bool, float, and  double. Each of these data types have specific values that can be stored in them. When working with integers, we usually store them in an int data type. But this is only useful for whole]]></summary>
         <author>
             <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should browsers offer site-specific user preference controls? (yes!) (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/should-browsers-offer-per-site-user-preferences/</id>
+        <link href="https://www.stefanjudis.com/notes/should-browsers-offer-per-site-user-preferences/"/>
+        <updated>2022-05-19T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I rarely read posts and find myself nodding along the entire time. But today was one of these days when I discovered Jim's post Rationale for a Browser-Level Color Scheme Preference .
+Jim explains why browsers should expose site-specific color scheme preference controls. Imagine you could run your operating system in dark mode (I really like the dark MacOS UI!), your browser in light mode, and still switch particular sites to dark mode.
+I'm super into this idea! Read Jim's post if you want to learn more about this color preference cascade. ☝️
+The post includes a few things that stand out, though.
+Safari's hidden website preferences
+
+I didn't know that Safari offers website-specific controls. They're hidden and only show up after enabling them via the toolbar settings.
+They're a perfect loc…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to navigate to the git root directory (#snippet)]]></title>
+        <id>https://www.stefanjudis.com/snippets/how-to-navigate-to-the-git-root-directory/</id>
+        <link href="https://www.stefanjudis.com/snippets/how-to-navigate-to-the-git-root-directory/"/>
+        <updated>2022-05-19T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today Bez Hermoso's git tip passed my Twitter timeline, and it's worth bookmarking it here on my blog.
+Whenever you find yourself cd'ing around in a large project just to reach the root of a git repository, the following alias might come in handy.
+alias gr='cd $(git rev-parse --show-toplevel)'
+
+It automatically navigates you to the git repo root! 💪
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
@@ -1629,88 +1732,6 @@ The code comes from the Next.js codebase and polyfills the fetch method. It has 
 The post New Proof Illuminates the Hidden Structure of Common Equations first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Leila Sloman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your Own Blog with Next.js and MDX]]></title>
-        <id>625b6643ac55f60686c36806</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-your-own-blog-with-next-js-and-mdx/"/>
-        <updated>2022-04-21T02:28:29.000Z</updated>
-        <summary type="html"><![CDATA[When I decided to build my blog, I found many tools out there that were readily available. I looked at Gastby [https://www.gatsbyjs.com/] along with content management systems like Ghost [https://ghost.org/], Contentful [https://www.contentful.com/], Sanity dot io [https://www.sanity.io/], and HUGO [https://gohugo.io/].  But I needed something that I could have total control]]></summary>
-        <author>
-            <name>Caleb Olojo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is FTP? File Transfer Protocol and FTP Server Meaning]]></title>
-        <id>625eae40ac55f60686c381d2</id>
-        <link href="https://www.freecodecamp.org/news/what-is-ftp-file-transfer-protocol-and-ftp-server-meaning/"/>
-        <updated>2022-04-21T01:01:16.000Z</updated>
-        <summary type="html"><![CDATA[FTP stands for File Transfer Protocol. This is a network/communication protocol for transferring files between computers over a TCP/IP (Transmission Control Protocol/Internet Protocol) network.  Examples of TCP/IP networks are:  * HTTP (Hypertext Transfer Protocol).  * HTTPS (Hypertext Transfer Protocol Secure).  * FTP (File Transfer Protocol). How]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Flush DNS on Mac – MacOS Clear DNS Cache]]></title>
-        <id>624beda6ac55f60686c2e0f7</id>
-        <link href="https://www.freecodecamp.org/news/how-to-flush-dns-on-mac-macos-clear-dns-cache/"/>
-        <updated>2022-04-21T00:15:54.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will learn why flushing your DNS cache is important, and how you can clear the cache on your local system. Here is what we'll discuss in this guide:  1. What is DNS cache? 1. Why flushing DNS cache is important]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extern – C and C++ Extern Keyword Function Tutorial]]></title>
-        <id>625d0d69ac55f60686c37241</id>
-        <link href="https://www.freecodecamp.org/news/extern-keyword-function-tutorial/"/>
-        <updated>2022-04-21T00:08:58.000Z</updated>
-        <summary type="html"><![CDATA[The extern keyword in C and C++ extends the visibility of variables and functions across multiple source files.  In the case of functions, the extern keyword is used implicitly. But with variables, you have to use the keyword explicitly. I believe a simple code example can explain things better]]></summary>
-        <author>
-            <name>Farhan Hasin Chowdhury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How WebAuthn Authenticates Users Without a Password]]></title>
-        <id>6255cce5ac55f60686c330c4</id>
-        <link href="https://www.freecodecamp.org/news/intro-to-webauthn/"/>
-        <updated>2022-04-20T23:45:39.000Z</updated>
-        <summary type="html"><![CDATA[Most of us are used to logging into different accounts using a password. For years this has been the norm, but passwords also face security issues:  * They are extremely annoying when we don’t remember them and even harder to    reset  * They can be]]></summary>
-        <author>
-            <name>Rohit Jacob Mathew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Is Inflammation a Dangerous Necessity?]]></title>
-        <id>https://www.quantamagazine.org/?p=114258</id>
-        <link href="https://www.quantamagazine.org/why-is-inflammation-a-dangerous-necessity-20220420/"/>
-        <updated>2022-04-20T20:30:52.000Z</updated>
-        <summary type="html"><![CDATA[The immune system protects us from a full spectrum of pathogens, but without balance, it can end up hurting us over time, too. The immunologist Shruti Naik explains how our defenses can turn on us.            
-The post Why Is Inflammation a Dangerous Necessity? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Steven Strogatz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pondering the Bits That Build Space-Time and Brains]]></title>
-        <id>https://www.quantamagazine.org/?p=114238</id>
-        <link href="https://www.quantamagazine.org/pondering-the-bits-that-build-space-time-and-brains-20220420/"/>
-        <updated>2022-04-20T18:33:10.000Z</updated>
-        <summary type="html"><![CDATA[Vijay Balasubramanian investigates whether the fabric of the universe might be built from information, and what it means that physicists can even ask such a question.            
-The post Pondering the Bits That Build Space-Time and Brains first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Charlie Wood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dns_probe_finished_nxdomain Error [Solved]]]></title>
-        <id>625fe437ac55f60686c38f04</id>
-        <link href="https://www.freecodecamp.org/news/dns_probe_finished_nxdomain-error-solved/"/>
-        <updated>2022-04-20T15:39:02.000Z</updated>
-        <summary type="html"><![CDATA[If you are a regular Google Chrome user, then you might have encountered the error “dns_probe_finished_nxdomain” before. It is usually accompanied by “This site can’t be reached”. This error is associated with the Domain Name System (DNS) server and can occur due to misconfiguration in the DNS server, an unresponsive]]></summary>
-        <author>
-            <name>Kolade Chris</name>
         </author>
     </entry>
 </feed>
