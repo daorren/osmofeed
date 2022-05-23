@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-22T01:46:14.282Z</updated>
+    <updated>2022-05-23T01:50:42.814Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -14,6 +14,24 @@
         <summary type="html"><![CDATA[This week the new startup growth strategy is just staying alive, and we have some tips for organizations Getting Things Done.]]></summary>
         <author>
             <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #66 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-66/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-66/"/>
+        <updated>2022-05-21T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Happy Sunday, party people!
+
+You might have noticed that I took a two-week break from Web Weekly. I just felt too exhausted with too many moving pieces in my life. But everything's on track again! 😊
+I started building a proper landing page for this newsletter mainly to play around with Remix. It felt great that I didn't hit any blockers and could get rolling right away. The structure of Remix files reminds me of writing PHP back in the day, though. Is this web development repeating itself with another file extension?
+I have a quick ask: do you see the testimonials section? I'd love to include more quotes in it. If you enjoy Web Weekly, it'd be great if you could share it online. Thank you!
+And with this, today you'll learn about:
+named CSS grid lines
+site-specific browser controls
+situati…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
