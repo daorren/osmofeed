@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-23T01:50:42.814Z</updated>
+    <updated>2022-05-24T01:55:47.570Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Istio – How to Manage, Monitor, and Secure Microservices]]></title>
+        <id>https://www.freecodecamp.org/news/learn-istio-manage-microservices/</id>
+        <link href="https://www.freecodecamp.org/news/learn-istio-manage-microservices/"/>
+        <updated>2022-05-23T14:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Three years ago, I wrote an article titled "Back to Microservices with Istio" [https://medium.com/google-cloud/back-to-microservices-with-istio-p1-827c872daa53]  for Google Cloud Community. I published it there to reach people interested in the latest technologies built on top of Kubernetes.  At that point, Istio was a niche technology. But fast-forward three years, and:]]></summary>
+        <author>
+            <name>Rinor Maloku</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Computer Scientists Learned to Reinvent the Proof]]></title>
+        <id>https://www.quantamagazine.org/?p=115078</id>
+        <link href="https://www.quantamagazine.org/how-computer-scientists-learned-to-reinvent-the-proof-20220523/"/>
+        <updated>2022-05-23T13:44:45.000Z</updated>
+        <summary type="html"><![CDATA[Why verify every line of a proof, when just a few checks will do?            
+The post How Computer Scientists Learned to Reinvent the Proof first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Mordechai Rorvig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Features are fractal]]></title>
         <id>628124219148eb5b8b7e3fc7</id>
@@ -1554,16 +1575,6 @@ a script to install apps from brew or the App store
 all files that …]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Load-bearing Excel spreadsheet]]></title>
-        <id>625b414a9148eb5b8b7e11e9</id>
-        <link href="https://labnotes.org/weekend-reading-load-bearing-excel-spreadsheet/"/>
-        <updated>2022-04-23T20:36:24.000Z</updated>
-        <summary type="html"><![CDATA[This week we play Wordle from a cassette player, muse about covert ops and org charts, and discover the best hyper-focused industry newsletter.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/learn-istio-manage-microservices/",
+          "author": "Rinor Maloku",
+          "description": "Three years ago, I wrote an article titled \"Back to Microservices with Istio\" [https://medium.com/google-cloud/back-to-microservices-with-istio-p1-827c872daa53]  for Google Cloud Community. I published it there to reach people interested in the latest technologies built on top of Kubernetes.  At that point, Istio was a niche technology. But fast-forward three years, and:",
+          "link": "https://www.freecodecamp.org/news/learn-istio-manage-microservices/",
+          "publishedOn": "2022-05-23T14:00:55.000Z",
+          "wordCount": 8358,
+          "title": "Learn Istio – How to Manage, Monitor, and Secure Microservices",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/how-traces-are-generated-1.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-find-and-fix-security-vulnerabilities-using-snyk/",
           "author": "Ashutosh Krishna",
           "description": "In this article, we will be covering an important topic, Security in Python.  We often download and install packages from PyPi but we're not sure about the vulnerabilities that might come with them.  So, in this tutorial, we will learn about an awesome tool called Snyk that helps",
@@ -1009,6 +1019,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=115078",
+          "author": "Mordechai Rorvig",
+          "description": "Why verify every line of a proof, when just a few checks will do?            \nThe post How Computer Scientists Learned to Reinvent the Proof first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-computer-scientists-learned-to-reinvent-the-proof-20220523/",
+          "publishedOn": "2022-05-23T13:44:45.000Z",
+          "wordCount": 1471,
+          "title": "How Computer Scientists Learned to Reinvent the Proof",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/05/PCP-Explainer_1200_Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=115020",
           "author": "Veronique Greenwood",
           "description": "Synthetic biology experiments suggest a “MultiFate” model for how genetically identical cells become the many different types found in complex organisms like us.            \nThe post Simple Gene Circuits Hint at How Stem Cells Find New Identities first appeared on Quanta Magazine",
@@ -1234,16 +1254,6 @@
           "wordCount": 955,
           "title": "Weekend Reading — The code illusion",
           "imageUrl": "https://labnotes.org/content/images/2022/04/cover-3.png"
-        },
-        {
-          "id": "625b414a9148eb5b8b7e11e9",
-          "author": "Assaf Arkin",
-          "description": "This week we play Wordle from a cassette player, muse about covert ops and org charts, and discover the best hyper-focused industry newsletter.",
-          "link": "https://labnotes.org/weekend-reading-load-bearing-excel-spreadsheet/",
-          "publishedOn": "2022-04-23T20:36:24.000Z",
-          "wordCount": 850,
-          "title": "Weekend Reading — Load-bearing Excel spreadsheet",
-          "imageUrl": "https://labnotes.org/content/images/2022/04/image-38-1.jpeg"
         }
       ]
     },
