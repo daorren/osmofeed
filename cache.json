@@ -12,6 +12,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When coding, you're likely to encounter errors. Error messages, in most cases, help you understand what the error is about. And understanding an error message is one of the steps in solving an error.  In this article, we'll talk about an error in Python – the \"TypeError: can't multiply",
+          "link": "https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved/",
+          "publishedOn": "2022-05-24T23:30:53.000Z",
+          "wordCount": 1112,
+          "title": "TypeError: can't multiply sequence by non-int of type 'float' [SOLVED]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/jake-walker-MPKQiDpMyqU-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/all-caps-in-css-how-to-uppercase-text-with-style/",
+          "author": "Dillion Megida",
+          "description": "When you're designing a website or working on a project, you might want to use uppercase text for various reasons. Maybe you want to use an abbreviation or acronym, emphasize certain text, or use it for headings. There are multiple ways to uppercase text in HTML. The first way is",
+          "link": "https://www.freecodecamp.org/news/all-caps-in-css-how-to-uppercase-text-with-style/",
+          "publishedOn": "2022-05-24T21:02:28.000Z",
+          "wordCount": 748,
+          "title": "All Caps in CSS - How to Uppercase Text with Style",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/how-to-uppercase-text-in-CSS.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-react-based-code-editor/",
+          "author": "Manu Arora",
+          "description": "An online code execution platform lets you write code in your favourite programming language and run that code on the same platform.  You can ideally see an output of the program that you've written (for example, a binary search program written in JavaScript). Today, we are going to build",
+          "link": "https://www.freecodecamp.org/news/how-to-build-react-based-code-editor/",
+          "publishedOn": "2022-05-24T16:54:28.000Z",
+          "wordCount": 4178,
+          "title": "How to Build a Code Editor with React that Compiles and Executes in 40+ Languages",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Build-a-React-Code-Editor-That-Compiles-and-Executes-in-10--Languages--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-round-numbers-up-or-down-in-python/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When working with float values (numbers with decimal values) in our Python program, we might want to round them up or down, or to the nearest whole number.  In this article, we'll see some built-in functionalities that let us round numbers in Python. And we'll see how to use",
+          "link": "https://www.freecodecamp.org/news/how-to-round-numbers-up-or-down-in-python/",
+          "publishedOn": "2022-05-24T16:52:40.000Z",
+          "wordCount": 960,
+          "title": "Python Round to Int – How to Round Up or Round Down to the Nearest Whole Number",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/volkan-olmez-aG-pvyMsbis-unsplash-1.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/learn-istio-manage-microservices/",
           "author": "Rinor Maloku",
           "description": "Three years ago, I wrote an article titled \"Back to Microservices with Istio\" [https://medium.com/google-cloud/back-to-microservices-with-istio-p1-827c872daa53]  for Google Cloud Community. I published it there to reach people interested in the latest technologies built on top of Kubernetes.  At that point, Istio was a niche technology. But fast-forward three years, and:",
@@ -1000,16 +1040,6 @@
           "wordCount": 2244,
           "title": "How to Manage State in Flutter Apps",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/connor-betts-50rXLuz0Txg-unsplash-1.jpg"
-        },
-        {
-          "id": "625fb4c7ac55f60686c38c36",
-          "author": "Israel Mitolu",
-          "description": "Content loaders, skeleton screens, ghost elements, and content placeholders. These are the names given to the effect we'll be exploring today. Many companies, such as Linkedin, Facebook, Youtube and Slack, use this effect in their apps and websites, as you may have noticed. As much as we developers want our",
-          "link": "https://www.freecodecamp.org/news/how-to-build-skeleton-screens-using-css-for-better-user-experience/",
-          "publishedOn": "2022-04-25T13:49:34.000Z",
-          "wordCount": 2264,
-          "title": "Skeleton Loader Example – How to Build a Skeleton Screen with CSS for Better UX",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Build-Skeleton-Screens-for-Better-UX.png"
         }
       ]
     },
@@ -1018,6 +1048,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=115151",
+          "author": "Yasemin Saplakoglu",
+          "description": "RNA and peptides coevolving in the primordial world might have jointly served as a precursor to the modern ribosome.            \nThe post Life’s First Peptides May Have Grown on RNA Strands first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/lifes-first-peptides-may-have-grown-on-rna-20220524/",
+          "publishedOn": "2022-05-24T14:52:08.000Z",
+          "wordCount": 1717,
+          "title": "Life’s First Peptides May Have Grown on RNA Strands",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/05/RNA-PEPTIDE_520x292.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=115078",
           "author": "Mordechai Rorvig",
@@ -1331,16 +1371,6 @@
           "wordCount": 1520,
           "title": "A clipboard magic trick - how to use different MIME types with the Clipboard API (#note)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20clipboard%20magic%20trick%20-%20how%20to%20use%20different%20MIME%20types%20with%20the%20Clipboard%20API/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-64/",
-          "author": null,
-          "description": "Happy Monday, party people!\n\nNext week I'll start my new job, and I can't wait to set up my new working laptop. Why?\nFirst of all, it's a new Mac, and who doesn't like unboxing these. But also, years ago, I invested some time into my dotfiles. Today, I just love kicking off a script to set up a new machine entirely. If you don't have your computer configuration in code, you should consider it. You'll use it your entire life!\nMy dotfiles are a combination of configuration files and scripts installing and linking all sorts of things. Unfortunately, I failed to document them properly, but they're still good enough to poke around and give you some ideas.\nHere are some examples to get you started:\na script to configure your mac\na script to install apps from brew or the App store\nall files that …",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-64/",
-          "publishedOn": "2022-04-24T22:00:00.000Z",
-          "wordCount": 1241,
-          "title": "Web Weekly #64 (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252364/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
         }
       ]
     },

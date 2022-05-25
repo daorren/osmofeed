@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-24T01:55:47.570Z</updated>
+    <updated>2022-05-25T01:54:41.407Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TypeError: can't multiply sequence by non-int of type 'float' [SOLVED]]]></title>
+        <id>https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved/</id>
+        <link href="https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved/"/>
+        <updated>2022-05-24T23:30:53.000Z</updated>
+        <summary type="html"><![CDATA[When coding, you're likely to encounter errors. Error messages, in most cases, help you understand what the error is about. And understanding an error message is one of the steps in solving an error.  In this article, we'll talk about an error in Python – the "TypeError: can't multiply]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All Caps in CSS - How to Uppercase Text with Style]]></title>
+        <id>https://www.freecodecamp.org/news/all-caps-in-css-how-to-uppercase-text-with-style/</id>
+        <link href="https://www.freecodecamp.org/news/all-caps-in-css-how-to-uppercase-text-with-style/"/>
+        <updated>2022-05-24T21:02:28.000Z</updated>
+        <summary type="html"><![CDATA[When you're designing a website or working on a project, you might want to use uppercase text for various reasons. Maybe you want to use an abbreviation or acronym, emphasize certain text, or use it for headings. There are multiple ways to uppercase text in HTML. The first way is]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Code Editor with React that Compiles and Executes in 40+ Languages]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-react-based-code-editor/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-react-based-code-editor/"/>
+        <updated>2022-05-24T16:54:28.000Z</updated>
+        <summary type="html"><![CDATA[An online code execution platform lets you write code in your favourite programming language and run that code on the same platform.  You can ideally see an output of the program that you've written (for example, a binary search program written in JavaScript). Today, we are going to build]]></summary>
+        <author>
+            <name>Manu Arora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Round to Int – How to Round Up or Round Down to the Nearest Whole Number]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-round-numbers-up-or-down-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-round-numbers-up-or-down-in-python/"/>
+        <updated>2022-05-24T16:52:40.000Z</updated>
+        <summary type="html"><![CDATA[When working with float values (numbers with decimal values) in our Python program, we might want to round them up or down, or to the nearest whole number.  In this article, we'll see some built-in functionalities that let us round numbers in Python. And we'll see how to use]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Life’s First Peptides May Have Grown on RNA Strands]]></title>
+        <id>https://www.quantamagazine.org/?p=115151</id>
+        <link href="https://www.quantamagazine.org/lifes-first-peptides-may-have-grown-on-rna-20220524/"/>
+        <updated>2022-05-24T14:52:08.000Z</updated>
+        <summary type="html"><![CDATA[RNA and peptides coevolving in the primordial world might have jointly served as a precursor to the modern ribosome.            
+The post Life’s First Peptides May Have Grown on RNA Strands first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Yasemin Saplakoglu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Istio – How to Manage, Monitor, and Secure Microservices]]></title>
         <id>https://www.freecodecamp.org/news/learn-istio-manage-microservices/</id>
@@ -1547,34 +1598,6 @@ The post Elegant Six-Page Proof Reveals the Emergence of Random Structure first 
         <summary type="html"><![CDATA[Managing state is something most developers need to deal with when working on applications.  You might be familiar with the model-view-viewmodel (MVVM) pattern, where the ViewModel is the one responsible for a view’s state. But in Flutter, things are a bit different.  If you are reading this, then]]></summary>
         <author>
             <name>Tomer Ben Rachel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skeleton Loader Example – How to Build a Skeleton Screen with CSS for Better UX]]></title>
-        <id>625fb4c7ac55f60686c38c36</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-skeleton-screens-using-css-for-better-user-experience/"/>
-        <updated>2022-04-25T13:49:34.000Z</updated>
-        <summary type="html"><![CDATA[Content loaders, skeleton screens, ghost elements, and content placeholders. These are the names given to the effect we'll be exploring today. Many companies, such as Linkedin, Facebook, Youtube and Slack, use this effect in their apps and websites, as you may have noticed. As much as we developers want our]]></summary>
-        <author>
-            <name>Israel Mitolu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #64 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-64/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-64/"/>
-        <updated>2022-04-24T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Happy Monday, party people!
-
-Next week I'll start my new job, and I can't wait to set up my new working laptop. Why?
-First of all, it's a new Mac, and who doesn't like unboxing these. But also, years ago, I invested some time into my dotfiles. Today, I just love kicking off a script to set up a new machine entirely. If you don't have your computer configuration in code, you should consider it. You'll use it your entire life!
-My dotfiles are a combination of configuration files and scripts installing and linking all sorts of things. Unfortunately, I failed to document them properly, but they're still good enough to poke around and give you some ideas.
-Here are some examples to get you started:
-a script to configure your mac
-a script to install apps from brew or the App store
-all files that …]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
