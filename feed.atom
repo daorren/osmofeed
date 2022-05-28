@@ -2,10 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-27T01:54:36.819Z</updated>
+    <updated>2022-05-28T01:48:21.015Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[C++ Vector – How to Initialize a Vector in a Constructor in C++]]></title>
+        <id>https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/</id>
+        <link href="https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/"/>
+        <updated>2022-05-27T20:08:33.000Z</updated>
+        <summary type="html"><![CDATA[When you're working with a collection of variables or data in programming, you usually store them in specific data types.  In C++, you can store them in arrays, structures, vectors, strings and so on. While these data structures have their distinctive features, we'll focus mainly on the various methods]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript For Loop – Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-for-loops/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-for-loops/"/>
+        <updated>2022-05-27T16:32:36.000Z</updated>
+        <summary type="html"><![CDATA[Loops are a programming concept that we constantly encounter and implement as JavaScript developers.  And many developers are familiar with loops, but not everyone understands how they work and why or when they should use a specific type of loop. In this article, we will learn what for loops]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Chrome Extension]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-chrome-extension/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-chrome-extension/"/>
+        <updated>2022-05-27T14:35:37.000Z</updated>
+        <summary type="html"><![CDATA[A chrome extension is a software program that is designed to run within the Google Chrome web browser. Extensions can add a variety of functionality to the browser, including providing tools for web development, adding features to the browser interface, and changing the behavior of web pages. We just published]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Secret Math Behind Mind-Reading Magic Tricks]]></title>
+        <id>https://www.quantamagazine.org/?p=115360</id>
+        <link href="https://www.quantamagazine.org/the-secret-math-behind-mind-reading-magic-tricks-20220527/"/>
+        <updated>2022-05-27T14:10:01.000Z</updated>
+        <summary type="html"><![CDATA[Four puzzle solutions reveal different ways to divine someone’s hidden number with impossibly little information.            
+The post The Secret Math Behind Mind-Reading Magic Tricks first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Pradeep Mutalik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Someone ported NIBBLES.BAS to Go]]></title>
+        <id>https://golangweekly.com/issues/413</id>
+        <link href="https://golangweekly.com/issues/413"/>
+        <updated>2022-05-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#​413 — May 27, 2022
+
+
+Unsubscribe  |  Read on the Web
+
+
+
+The Go Weekly Newsletter
+
+
+
+
+  
+
+
+
+
+
+  
+  
+Bud: A New Web Framework for Gophers — And in a classic Ruby on Rails-esque style, the creator has a fantastic 15-minute screencast showing off how to use it – not to build a blog, but a Hacker News client of sorts.
+Matt Mueller 
+
+
+  
+  
+Google's Greedy Go Module Mirror? — The owner of Sourcehut, a popular open source forge, claims that the changes to Go modules in 1.16 resulted in his git service receiving tons of redundant and expensive traffic from Google and his pleas for help appear to have resulted in him being banned from the relevant issue tracker..
+Drew DeVault 
+
+
+  
+  
+How Teleport Works — Teleport provides secure access to SSH or Windows servers, Windows Desktops, Kubernetes clus…]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Blockchain, Solidity, and Full Stack JavaScript Development]]></title>
         <id>https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/</id>
@@ -1390,114 +1473,6 @@ Michal Matczuk (Scyllad…]]></summary>
         <summary type="html"><![CDATA[Blazor WebAssembly is a single-page app framework for building interactive client-side web apps with .NET. It uses open web standards without plugins or recompiling code into other languages. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use Blazor WebAssembly and Web]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secrets of the Moon’s Permanent Shadows Are Coming to Light]]></title>
-        <id>https://www.quantamagazine.org/?p=114436</id>
-        <link href="https://www.quantamagazine.org/secrets-of-the-moons-permanent-shadows-are-coming-to-light-20220428/"/>
-        <updated>2022-04-28T13:40:43.000Z</updated>
-        <summary type="html"><![CDATA[Robots are about to venture into the sunless depths of lunar craters to investigate ancient water ice trapped there, while remote studies find hints about how water arrives on rocky worlds.            
-The post Secrets of the Moon’s Permanent Shadows Are Coming to Light first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Jonathan O'Callaghan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Habit System and Stay Motivated as a Developer]]></title>
-        <id>6267958cc1c601068f4e758d</id>
-        <link href="https://www.freecodecamp.org/news/create-a-habit-system-and-stay-motivated-as-a-developer/"/>
-        <updated>2022-04-28T00:43:46.000Z</updated>
-        <summary type="html"><![CDATA[Do you ever find it challenging to work on your project, side hustle, or even your hobby?  Have you ever had those moments where nothing feels exciting? You lay in bed thinking – is it me, or is my work that boring?  I have those days too. Some]]></summary>
-        <author>
-            <name>Shruti Kapoor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A clipboard magic trick - how to use different MIME types with the Clipboard API (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/a-clipboard-magic-trick-how-to-use-different-mime-types-with-the-clipboard/</id>
-        <link href="https://www.stefanjudis.com/notes/a-clipboard-magic-trick-how-to-use-different-mime-types-with-the-clipboard/"/>
-        <updated>2022-04-27T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I discovered a web development magic trick from Cyrus Roshan today. It took me a good 20 minutes to figure out how the trick works, and I learned some things about JavaScript clipboard handling and MIME types. Sounds intriguing? Read on!
-Try the magic tricks yourself; I'll wait. 😉
-If you didn't try it, here's the flow:
-You're tasked to click an ASCII art play card. The card's characters are automatically copied to your clipboard using JavaScript.
-Then, a new screen tells you to paste the copied ASCII card into a textarea (which works as expected).
-Next, you're told to open a new Google Doc and paste your clipboard content into it (the ASCII art playing card).
-The just copied ASCII art now includes a new line telling you to paste the same content into the URL bar, and boom! 🪄 You just pas…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Center a Div with CSS]]></title>
-        <id>62458d52138a19064b069054</id>
-        <link href="https://www.freecodecamp.org/news/how-to-center-a-div-with-css/"/>
-        <updated>2022-04-27T19:58:59.000Z</updated>
-        <summary type="html"><![CDATA[There are a few common coding problems you might encounter when you start practicing what you've learned by building projects. One common problem you'll face as a web developer is how to place an element at the center of a page or within an element acting as its container. It's]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Send Large Video Files – Share a Big File with Email]]></title>
-        <id>626919edc1c601068f4e809e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-send-large-video-files-share-a-big-file-with-email/"/>
-        <updated>2022-04-27T19:51:49.000Z</updated>
-        <summary type="html"><![CDATA[Sending large files through email can be quite challenging. This is because each email client has a size limit for file sharing. Gmail and Yahoo limit file size to 25MB, while outlook and iCloud limit files to 20MB. So, if you decide to send, for example, a video file larger]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fix Google Chrome Black Screen on Linux OS (Wayland)]]></title>
-        <id>6266b589ac55f60686c3c44f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-fix-black-screen-on-google-chrome-on-linux-os/"/>
-        <updated>2022-04-27T19:33:58.000Z</updated>
-        <summary type="html"><![CDATA[If you are a Linux user, then you've likely used the GNOME Desktop Environment at least once. The latest GNOME DE (Desktop Environment) uses Wayland nowadays. And while it's possible to remove Wayland and select Xorg if you want, most users are starting to use Wayland as their daily driver.]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run Multiple Containers with Docker Compose]]></title>
-        <id>6267fe2ec1c601068f4e77da</id>
-        <link href="https://www.freecodecamp.org/news/run-multiple-containers-with-docker-compose/"/>
-        <updated>2022-04-27T19:31:29.000Z</updated>
-        <summary type="html"><![CDATA[Docker has become increasingly popular over the last several years. One reason for this is that you can create portable containers which are fast and easy to deploy.  As described on Docker's website [https://www.docker.com/resources/what-container/], a container is something that packages your code along with any other dependencies so that]]></summary>
-        <author>
-            <name>Arjav Dave</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build and Push Docker Images to AWS ECR]]></title>
-        <id>625fc3caac55f60686c38ce0</id>
-        <link href="https://www.freecodecamp.org/news/build-and-push-docker-images-to-aws-ecr/"/>
-        <updated>2022-04-27T16:38:22.000Z</updated>
-        <summary type="html"><![CDATA[Docker is a platform that helps you build, run, and ship applications in a seamless and error-free way.  You've likely come across a scenario where the code is running on your machine, but is somehow throwing errors on someone else's machine.  Well, Docker was created to solve this]]></summary>
-        <author>
-            <name>Kaushal Joshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Assembly Language Programming with ARM]]></title>
-        <id>6269557fc1c601068f4e8127</id>
-        <link href="https://www.freecodecamp.org/news/learn-assembly-language-programming-with-arm/"/>
-        <updated>2022-04-27T14:49:31.000Z</updated>
-        <summary type="html"><![CDATA[Assembly language is a low-level programming language for a computer or other programmable device that is closest to the machine language. It is often specific to a particular computer architecture so there are multiple types of assembly languages. ARM is an increasingly popular assembly language.  We just published a]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Happens When We Give Animals Our Diseases?]]></title>
-        <id>https://www.quantamagazine.org/?p=114419</id>
-        <link href="https://www.quantamagazine.org/what-happens-when-we-give-animals-our-diseases-20220427/"/>
-        <updated>2022-04-27T14:45:11.000Z</updated>
-        <summary type="html"><![CDATA[While it’s understandable to focus on the diseases affecting humans, it’s important to study how our illnesses may affect animals.            
-The post What Happens When We Give Animals Our Diseases? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Tara C. Smith</name>
         </author>
     </entry>
 </feed>

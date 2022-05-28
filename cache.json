@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When you're working with a collection of variables or data in programming, you usually store them in specific data types.  In C++, you can store them in arrays, structures, vectors, strings and so on. While these data structures have their distinctive features, we'll focus mainly on the various methods",
+          "link": "https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/",
+          "publishedOn": "2022-05-27T20:08:33.000Z",
+          "wordCount": 1435,
+          "title": "C++ Vector – How to Initialize a Vector in a Constructor in C++",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/uday-awal-UjJWhMerJx0-unsplash--2-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-for-loops/",
+          "author": "Joel Olawanle",
+          "description": "Loops are a programming concept that we constantly encounter and implement as JavaScript developers.  And many developers are familiar with loops, but not everyone understands how they work and why or when they should use a specific type of loop. In this article, we will learn what for loops",
+          "link": "https://www.freecodecamp.org/news/javascript-for-loops/",
+          "publishedOn": "2022-05-27T16:32:36.000Z",
+          "wordCount": 1666,
+          "title": "JavaScript For Loop – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/for-loops.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-chrome-extension/",
+          "author": "Beau Carnes",
+          "description": "A chrome extension is a software program that is designed to run within the Google Chrome web browser. Extensions can add a variety of functionality to the browser, including providing tools for web development, adding features to the browser interface, and changing the behavior of web pages. We just published",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-chrome-extension/",
+          "publishedOn": "2022-05-27T14:35:37.000Z",
+          "wordCount": 9832,
+          "title": "How to Build a Chrome Extension",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/ext.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/",
           "author": "Beau Carnes",
           "description": "There are thousands of open jobs related to blockchain development companies like IBM, VMware, and Deloitte. We just published a 30-hour course on the freeCodeCamp.org YouTube channel that will help you learn skills related to blockchain, Solidity, and Web3 development. If you are interested in learning about blockchain development, this",
@@ -870,76 +900,6 @@
           "wordCount": 589,
           "title": "Learn Blazor WebAssembly and Web API on .NET 6 by Building a Shopping Cart App",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/blazorwa.png"
-        },
-        {
-          "id": "6267958cc1c601068f4e758d",
-          "author": "Shruti Kapoor",
-          "description": "Do you ever find it challenging to work on your project, side hustle, or even your hobby?  Have you ever had those moments where nothing feels exciting? You lay in bed thinking – is it me, or is my work that boring?  I have those days too. Some",
-          "link": "https://www.freecodecamp.org/news/create-a-habit-system-and-stay-motivated-as-a-developer/",
-          "publishedOn": "2022-04-28T00:43:46.000Z",
-          "wordCount": 2045,
-          "title": "How to Create a Habit System and Stay Motivated as a Developer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-philip-ackermann-878151.jpg"
-        },
-        {
-          "id": "62458d52138a19064b069054",
-          "author": "Ihechikara Vincent Abba",
-          "description": "There are a few common coding problems you might encounter when you start practicing what you've learned by building projects. One common problem you'll face as a web developer is how to place an element at the center of a page or within an element acting as its container. It's",
-          "link": "https://www.freecodecamp.org/news/how-to-center-a-div-with-css/",
-          "publishedOn": "2022-04-27T19:58:59.000Z",
-          "wordCount": 1072,
-          "title": "How to Center a Div with CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-pixabay-161043-1.jpg"
-        },
-        {
-          "id": "626919edc1c601068f4e809e",
-          "author": "Kolade Chris",
-          "description": "Sending large files through email can be quite challenging. This is because each email client has a size limit for file sharing. Gmail and Yahoo limit file size to 25MB, while outlook and iCloud limit files to 20MB. So, if you decide to send, for example, a video file larger",
-          "link": "https://www.freecodecamp.org/news/how-to-send-large-video-files-share-a-big-file-with-email/",
-          "publishedOn": "2022-04-27T19:51:49.000Z",
-          "wordCount": 883,
-          "title": "How to Send Large Video Files – Share a Big File with Email",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/technology-2125547_1280.jpg"
-        },
-        {
-          "id": "6266b589ac55f60686c3c44f",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you are a Linux user, then you've likely used the GNOME Desktop Environment at least once. The latest GNOME DE (Desktop Environment) uses Wayland nowadays. And while it's possible to remove Wayland and select Xorg if you want, most users are starting to use Wayland as their daily driver.",
-          "link": "https://www.freecodecamp.org/news/how-to-fix-black-screen-on-google-chrome-on-linux-os/",
-          "publishedOn": "2022-04-27T19:33:58.000Z",
-          "wordCount": 911,
-          "title": "How to Fix Google Chrome Black Screen on Linux OS (Wayland)",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Fix---1-.png"
-        },
-        {
-          "id": "6267fe2ec1c601068f4e77da",
-          "author": "Arjav Dave",
-          "description": "Docker has become increasingly popular over the last several years. One reason for this is that you can create portable containers which are fast and easy to deploy.  As described on Docker's website [https://www.docker.com/resources/what-container/], a container is something that packages your code along with any other dependencies so that",
-          "link": "https://www.freecodecamp.org/news/run-multiple-containers-with-docker-compose/",
-          "publishedOn": "2022-04-27T19:31:29.000Z",
-          "wordCount": 2559,
-          "title": "How to Run Multiple Containers with Docker Compose",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/docker-compose-scaled-1.jpeg"
-        },
-        {
-          "id": "625fc3caac55f60686c38ce0",
-          "author": "Kaushal Joshi",
-          "description": "Docker is a platform that helps you build, run, and ship applications in a seamless and error-free way.  You've likely come across a scenario where the code is running on your machine, but is somehow throwing errors on someone else's machine.  Well, Docker was created to solve this",
-          "link": "https://www.freecodecamp.org/news/build-and-push-docker-images-to-aws-ecr/",
-          "publishedOn": "2022-04-27T16:38:22.000Z",
-          "wordCount": 2323,
-          "title": "How to Build and Push Docker Images to AWS ECR",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/How-to-Build-and-Push-Docker-Images-to-AWS-ECR.png"
-        },
-        {
-          "id": "6269557fc1c601068f4e8127",
-          "author": "Beau Carnes",
-          "description": "Assembly language is a low-level programming language for a computer or other programmable device that is closest to the machine language. It is often specific to a particular computer architecture so there are multiple types of assembly languages. ARM is an increasingly popular assembly language.  We just published a",
-          "link": "https://www.freecodecamp.org/news/learn-assembly-language-programming-with-arm/",
-          "publishedOn": "2022-04-27T14:49:31.000Z",
-          "wordCount": 523,
-          "title": "Learn Assembly Language Programming with ARM",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/arm.png"
         }
       ]
     },
@@ -948,6 +908,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=115360",
+          "author": "Pradeep Mutalik",
+          "description": "Four puzzle solutions reveal different ways to divine someone’s hidden number with impossibly little information.            \nThe post The Secret Math Behind Mind-Reading Magic Tricks first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-secret-math-behind-mind-reading-magic-tricks-20220527/",
+          "publishedOn": "2022-05-27T14:10:01.000Z",
+          "wordCount": 3463,
+          "title": "The Secret Math Behind Mind-Reading Magic Tricks",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/05/Puzzle_May_1200_Social-2-1.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=115311",
           "author": "Philip Ball",
@@ -1127,26 +1097,6 @@
           "wordCount": 1450,
           "title": "Mathematicians Coax Fluid Equations Into Nonphysical Solutions",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/04/Leray_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=114436",
-          "author": "Jonathan O'Callaghan",
-          "description": "Robots are about to venture into the sunless depths of lunar craters to investigate ancient water ice trapped there, while remote studies find hints about how water arrives on rocky worlds.            \nThe post Secrets of the Moon’s Permanent Shadows Are Coming to Light first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/secrets-of-the-moons-permanent-shadows-are-coming-to-light-20220428/",
-          "publishedOn": "2022-04-28T13:40:43.000Z",
-          "wordCount": 2753,
-          "title": "Secrets of the Moon’s Permanent Shadows Are Coming to Light",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/04/Shackleton_Crater_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=114419",
-          "author": "Tara C. Smith",
-          "description": "While it’s understandable to focus on the diseases affecting humans, it’s important to study how our illnesses may affect animals.            \nThe post What Happens When We Give Animals Our Diseases? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/what-happens-when-we-give-animals-our-diseases-20220427/",
-          "publishedOn": "2022-04-27T14:45:11.000Z",
-          "wordCount": 1655,
-          "title": "What Happens When We Give Animals Our Diseases?",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/04/Spillback_1200_social.jpg"
         }
       ]
     },
@@ -1261,16 +1211,6 @@
           "wordCount": 1286,
           "title": "Web Weekly #65 (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252365/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/a-clipboard-magic-trick-how-to-use-different-mime-types-with-the-clipboard/",
-          "author": null,
-          "description": "I discovered a web development magic trick from Cyrus Roshan today. It took me a good 20 minutes to figure out how the trick works, and I learned some things about JavaScript clipboard handling and MIME types. Sounds intriguing? Read on!\nTry the magic tricks yourself; I'll wait. 😉\nIf you didn't try it, here's the flow:\nYou're tasked to click an ASCII art play card. The card's characters are automatically copied to your clipboard using JavaScript.\nThen, a new screen tells you to paste the copied ASCII card into a textarea (which works as expected).\nNext, you're told to open a new Google Doc and paste your clipboard content into it (the ASCII art playing card).\nThe just copied ASCII art now includes a new line telling you to paste the same content into the URL bar, and boom! 🪄 You just pas…",
-          "link": "https://www.stefanjudis.com/notes/a-clipboard-magic-trick-how-to-use-different-mime-types-with-the-clipboard/",
-          "publishedOn": "2022-04-27T22:00:00.000Z",
-          "wordCount": 1520,
-          "title": "A clipboard magic trick - how to use different MIME types with the Clipboard API (#note)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20clipboard%20magic%20trick%20-%20how%20to%20use%20different%20MIME%20types%20with%20the%20Clipboard%20API/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
@@ -1279,6 +1219,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/413",
+          "author": null,
+          "description": "#​413 — May 27, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nBud: A New Web Framework for Gophers — And in a classic Ruby on Rails-esque style, the creator has a fantastic 15-minute screencast showing off how to use it – not to build a blog, but a Hacker News client of sorts.\nMatt Mueller \n\n\n  \n  \nGoogle's Greedy Go Module Mirror? — The owner of Sourcehut, a popular open source forge, claims that the changes to Go modules in 1.16 resulted in his git service receiving tons of redundant and expensive traffic from Google and his pleas for help appear to have resulted in him being banned from the relevant issue tracker..\nDrew DeVault \n\n\n  \n  \nHow Teleport Works — Teleport provides secure access to SSH or Windows servers, Windows Desktops, Kubernetes clus…",
+          "link": "https://golangweekly.com/issues/413",
+          "publishedOn": "2022-05-27T00:00:00.000Z",
+          "wordCount": 932,
+          "title": "Someone ported NIBBLES.BAS to Go",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/412",
           "author": null,
