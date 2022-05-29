@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-28T01:48:21.015Z</updated>
+    <updated>2022-05-29T02:06:17.583Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Extra fancy jump]]></title>
+        <id>6289735b9148eb5b8b7e4aea</id>
+        <link href="https://labnotes.org/weekend-reading-extra-fancy-jump/"/>
+        <updated>2022-05-29T00:10:05.000Z</updated>
+        <summary type="html"><![CDATA[This week we got a lot more ML than is healthy, so we balance with the Pong schematics and email horses.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C++ Vector – How to Initialize a Vector in a Constructor in C++]]></title>
         <id>https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/</id>
@@ -1426,53 +1436,6 @@ The post Mathematicians Coax Fluid Equations Into Nonphysical Solutions first ap
         <summary type="html"><![CDATA[This week we take some notes, explore vibe shifts in design, reach the performance ceiling, and mail ourselves some Osmium.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good and bad with generics]]></title>
-        <id>https://golangweekly.com/issues/409</id>
-        <link href="https://golangweekly.com/issues/409"/>
-        <updated>2022-04-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[🇺🇦 #​409 — April 29, 2022
-
-
-Unsubscribe  |  Read on the Web
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-'Crimes' with Go Generics — Many Go developers have warned  there’s likely a period of churn and trial and error as everyone learns when and, importantly, when not to use generics. This post playfully focuses on the latter and on bad ideas which, perhaps, can help you refine your own attitudes to them.
-Xe Iaso 
-
-
-  
-  
-Shaving 40% Off Google’s B-Tree Implementation with Generics — We’ve seen articles saying generics can hurt performance, but here’s a case showing a sizeable performance gain in many different categories: user time, heap allocations, GC pressure, and CPU utilization. Replacing interfaces with generics had more effect here than you might imagine.
-Michal Matczuk (Scyllad…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Blazor WebAssembly and Web API on .NET 6 by Building a Shopping Cart App]]></title>
-        <id>626acd1fc1c601068f4e86be</id>
-        <link href="https://www.freecodecamp.org/news/learn-blazor-webassembly-and/"/>
-        <updated>2022-04-28T17:28:46.000Z</updated>
-        <summary type="html"><![CDATA[Blazor WebAssembly is a single-page app framework for building interactive client-side web apps with .NET. It uses open web standards without plugins or recompiling code into other languages. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use Blazor WebAssembly and Web]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>

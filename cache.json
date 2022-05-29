@@ -890,16 +890,6 @@
           "wordCount": 759,
           "title": "Google Cloud Associate Cloud Engineer Certification Study Course – Pass the Exam With This Free 20 Hour Course",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/ace.png"
-        },
-        {
-          "id": "626acd1fc1c601068f4e86be",
-          "author": "Beau Carnes",
-          "description": "Blazor WebAssembly is a single-page app framework for building interactive client-side web apps with .NET. It uses open web standards without plugins or recompiling code into other languages. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use Blazor WebAssembly and Web",
-          "link": "https://www.freecodecamp.org/news/learn-blazor-webassembly-and/",
-          "publishedOn": "2022-04-28T17:28:46.000Z",
-          "wordCount": 589,
-          "title": "Learn Blazor WebAssembly and Web API on .NET 6 by Building a Shopping Cart App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/blazorwa.png"
         }
       ]
     },
@@ -1106,6 +1096,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "6289735b9148eb5b8b7e4aea",
+          "author": "Assaf Arkin",
+          "description": "This week we got a lot more ML than is healthy, so we balance with the Pong schematics and email horses.",
+          "link": "https://labnotes.org/weekend-reading-extra-fancy-jump/",
+          "publishedOn": "2022-05-29T00:10:05.000Z",
+          "wordCount": 828,
+          "title": "Weekend Reading — Extra fancy jump",
+          "imageUrl": "https://labnotes.org/content/images/2022/05/77b6a3b6dd70b182f888c2972ed74253c26880a157fba2c0e2988a424521f0ce-1.png"
+        },
+        {
           "id": "628124219148eb5b8b7e3fc7",
           "author": "Assaf Arkin",
           "description": "This week the new startup growth strategy is just staying alive, and we have some tips for organizations Getting Things Done.",
@@ -1257,16 +1257,6 @@
           "publishedOn": "2022-05-06T00:00:00.000Z",
           "wordCount": 924,
           "title": "Go - the fastest growing language on GitHub?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/409",
-          "author": null,
-          "description": "🇺🇦 #​409 — April 29, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \n'Crimes' with Go Generics — Many Go developers have warned  there’s likely a period of churn and trial and error as everyone learns when and, importantly, when not to use generics. This post playfully focuses on the latter and on bad ideas which, perhaps, can help you refine your own attitudes to them.\nXe Iaso \n\n\n  \n  \nShaving 40% Off Google’s B-Tree Implementation with Generics — We’ve seen articles saying generics can hurt performance, but here’s a case showing a sizeable performance gain in many different categories: user time, heap allocations, GC pressure, and CPU utilization. Replacing interfaces with generics had more effect here than you might imagine.\nMichal Matczuk (Scyllad…",
-          "link": "https://golangweekly.com/issues/409",
-          "publishedOn": "2022-04-29T00:00:00.000Z",
-          "wordCount": 799,
-          "title": "Good and bad with generics",
           "imageUrl": null
         }
       ]
