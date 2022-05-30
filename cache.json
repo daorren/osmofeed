@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/python-split-string/",
+          "author": "Quincy Larson",
+          "description": "Do you want to turn a string into an array of strings using Python? One way to do this is with Python's built-in .split() method. Here's an example of how to do this in the Python command line: >>> string1 = \"test your might\" >>> string1.split(\" \"); # Output: ['test',",
+          "link": "https://www.freecodecamp.org/news/python-split-string/",
+          "publishedOn": "2022-05-29T20:27:27.000Z",
+          "wordCount": 783,
+          "title": "Python .split() – Splitting a String in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/mariana-jm-UvdzLNj1Vmk-unsplash_jpg.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/lorem-ipsum-placeholder-text-latin-filler-history/",
+          "author": "Quincy Larson",
+          "description": "Here is the full Lorem Ipsum text from 55 BC: Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo.  Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur",
+          "link": "https://www.freecodecamp.org/news/lorem-ipsum-placeholder-text-latin-filler-history/",
+          "publishedOn": "2022-05-29T13:24:56.000Z",
+          "wordCount": 1096,
+          "title": "Lorem Ipsum Placeholder Text – Long Latin Filler Text and its History",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Lorem-Ipsum.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/html-space-how-to-add-spaces/",
+          "author": "Quincy Larson",
+          "description": "Adding a space to your HTML can be deceptively difficult. And there are at least 5 of ways to go about doing this.  This tutorial will show you several examples. It will also show you how to use fancy versions of space, too. You can do all this in",
+          "link": "https://www.freecodecamp.org/news/html-space-how-to-add-spaces/",
+          "publishedOn": "2022-05-29T00:47:27.000Z",
+          "wordCount": 838,
+          "title": "HTML Space – How to Add Spaces in HTML",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/jeremy-thomas-E0AHdsENmDg-unsplash.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/",
           "author": "Ihechikara Vincent Abba",
           "description": "When you're working with a collection of variables or data in programming, you usually store them in specific data types.  In C++, you can store them in arrays, structures, vectors, strings and so on. While these data structures have their distinctive features, we'll focus mainly on the various methods",
@@ -1152,6 +1182,26 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-67/",
+          "author": null,
+          "description": "Heidi Ho, friends!\n\nAs you may know, I started a new job recently and had to set up a new Gmail account. I discovered that there are some customizations I can't live without. Maybe they're valuable for you, too!\nMy morning routine includes getting my inbox as close to zero as possible. To not get distracted, I turn on auto-advance. Find the feature under the \"Advanced\" settings and automatically move to the next email after replying, deleting or archiving an email. It's perfect for flying through your inbox while keeping the flow!\nKeyboard shortcuts are hidden behind the \"Advanced\" settings, too. Once you have enabled it, you can navigate your inbox using your keyboard! 💯\nAnd lastly, I wrote about Gmails multiple stars and inbox features in the past. You can group and structure your inbox…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-67/",
+          "publishedOn": "2022-05-28T22:00:00.000Z",
+          "wordCount": 1201,
+          "title": "Web Weekly #67 (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252367/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/how-specify-the-starting-number-of-an-ordered-html-list/",
+          "author": null,
+          "description": "I discovered an HTML attribute that I hadn't seen before. Let me introduce you to the value attribute. 👇\n\n        \n\n        \nStefan Judis\n              @stefanjudis\n            \nQuick HTML tip: I just discovered that `li` elements support a `value` attribute to configure the start of an ordered list. \n369 retweets\n            2715 likes\n\n            Tweeted \n              \n                Apr 04 2022\n              \n            \n            Open Tweet\n          \n\nTrending Tweets often come with priceless comments. And it turned out that there are multiple ways to control the numbers of an ordered list.\nLet's have a quick look!\nSpecify the list start using start\n\nManuel pointed out that the start attribute also allows you to specify the beginning of the unordered list. Ordered lists usually start at 1.\n[Interactive component: visit the article to see it...]\nThis functionality is valuable if your listings are divided by paragraphs and additional information.\nDefine the list item position using value\n\nAs already mentioned; if you want to control the position of a single list item, you can also use the value attribute on a specific list item.\n[Interactive component: visit the article to see it...]\nThis functionality is valuable if you're dealing with rankings and two entries are in the same position.\nBonus: Control list styles via CSS\n\nAnd for completeness, there are also ways to control the list styles via list-style in CSS.\n[Interactive component: visit the article to see it...]\nRead more about list-style on MDN.\nIf you're going for custom list styles, don't visually change the meaning of your listing to keep your HTML accessible in RSS feeds or assistive technology.\n\nIt's so fascinating that HTML still holds surprises for me after writing it for over ten years!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/how-specify-the-starting-number-of-an-ordered-html-list/",
+          "publishedOn": "2022-05-28T22:00:00.000Z",
+          "wordCount": 656,
+          "title": "How specify the starting number of an ordered HTML list (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20specify%20the%20starting%20number%20of%20an%20ordered%20HTML%20list/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-66/",
           "author": null,
