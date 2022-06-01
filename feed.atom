@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-31T01:57:59.348Z</updated>
+    <updated>2022-06-01T02:18:20.672Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Apply to Google Summer of Code – GSoC Application Guide]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-apply-to-google-summer-of-code/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-apply-to-google-summer-of-code/"/>
+        <updated>2022-05-31T19:48:57.000Z</updated>
+        <summary type="html"><![CDATA[If you have heard of Google Summer of Code [https://summerofcode.withgoogle.com]  but aren't sure how to apply, then read on. Whether you are a college student or a working professional, GSoC now is open to both. What is GSoC and How Does it Work? GSoC is a program that encourages]]></summary>
+        <author>
+            <name>Jagruti Tiwari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make the Universe Think for Us]]></title>
+        <id>https://www.quantamagazine.org/?p=115472</id>
+        <link href="https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/"/>
+        <updated>2022-05-31T18:50:45.000Z</updated>
+        <summary type="html"><![CDATA[Physicists are building neural networks out of vibrations, voltages and lasers, arguing that the future of computing lies in exploiting the universe’s complex physical behaviors.            
+The post How to Make the Universe Think for Us first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Charlie Wood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Data Analysis?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-data-analysis/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-data-analysis/"/>
+        <updated>2022-05-31T15:59:04.000Z</updated>
+        <summary type="html"><![CDATA[Data are everywhere nowadays. And with each passing year, the amount of data we are producing will only continue to increase. There is a large amount of data available, but what do we do with all that data? How is it all used? And what does all that data mean?]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Square a Number in Python – Squaring Function]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-square-a-number-in-python-squaring-function/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-square-a-number-in-python-squaring-function/"/>
+        <updated>2022-05-31T15:03:14.000Z</updated>
+        <summary type="html"><![CDATA[To square a number, you multiply that number by itself. And there are multiple ways to do this in Python. You can directly multiple a number by itself (number * number) but in this article, I'll show you three ways you can do this without hardcoding both numbers. The three]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Open a Link in a New Tab – HTML target blank Attribute Explained]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-open-a-link-in-a-new-tab/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-open-a-link-in-a-new-tab/"/>
+        <updated>2022-05-31T14:53:07.000Z</updated>
+        <summary type="html"><![CDATA[There will be times where you will want your user to click on a website link and have it open in a new browser tab. But how do you do that in HTML? In this article, I will show you how to use the target="_blank" attribute through code examples. I]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Read File – How to Open, Read, and Write to Files in Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-read-files-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-read-files-in-python/"/>
+        <updated>2022-05-31T14:29:06.000Z</updated>
+        <summary type="html"><![CDATA[Reading and writing files is a common operation when working with any programming language. You can program your code to read data or instructions from a file and then write the data as well. This increases efficiency and reduces manual effort. Python has a well-defined methodology for opening, reading, and]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python .split() – Splitting a String in Python]]></title>
         <id>https://www.freecodecamp.org/news/python-split-string/</id>
@@ -1504,27 +1565,6 @@ And with this, to…]]></summary>
         <summary type="html"><![CDATA[Hi everyone! In this article we're going to take a look at programming paradigms, a fancy title to describe popular ways or styles to organize your programming. I'll try to break it down in pieces and give a simple explanation of each paradigm. This way you can understand what people]]></summary>
         <author>
             <name>Germán Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematicians Coax Fluid Equations Into Nonphysical Solutions]]></title>
-        <id>https://www.quantamagazine.org/?p=114495</id>
-        <link href="https://www.quantamagazine.org/mathematicians-coax-fluid-equations-into-nonphysical-solutions-20220502/"/>
-        <updated>2022-05-02T13:45:49.000Z</updated>
-        <summary type="html"><![CDATA[The famed Navier-Stokes equations can lead to cases where more than one result is possible, but only in an extremely narrow set of situations.            
-The post Mathematicians Coax Fluid Equations Into Nonphysical Solutions first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Leila Sloman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Cloud Associate Cloud Engineer Certification Study Course – Pass the Exam With This Free 20 Hour Course]]></title>
-        <id>626c1b56c1c601068f4e9287</id>
-        <link href="https://www.freecodecamp.org/news/google-cloud-digital-leader-certification-study-course-pass-the-exam-with-this-free-20-hour-course/"/>
-        <updated>2022-05-02T13:32:13.000Z</updated>
-        <summary type="html"><![CDATA[What is the Google Cloud Associate Cloud Engineer? The Associate Cloud Engineer also commonly referred to as the ACE is the associate level certification by Google Cloud.  They key difference between the Associate Cloud Engineer and the Google Cloud Digital Cloud Leader is that the Associate Cloud Engineer]]></summary>
-        <author>
-            <name>Andrew Brown</name>
         </author>
     </entry>
 </feed>

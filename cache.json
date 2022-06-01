@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-apply-to-google-summer-of-code/",
+          "author": "Jagruti Tiwari",
+          "description": "If you have heard of Google Summer of Code [https://summerofcode.withgoogle.com]  but aren't sure how to apply, then read on. Whether you are a college student or a working professional, GSoC now is open to both. What is GSoC and How Does it Work? GSoC is a program that encourages",
+          "link": "https://www.freecodecamp.org/news/how-to-apply-to-google-summer-of-code/",
+          "publishedOn": "2022-05-31T19:48:57.000Z",
+          "wordCount": 3213,
+          "title": "How to Apply to Google Summer of Code – GSoC Application Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/cristian-tarzi-6K8gY2g0Mfo-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-data-analysis/",
+          "author": "Dionysia Lemonaki",
+          "description": "Data are everywhere nowadays. And with each passing year, the amount of data we are producing will only continue to increase. There is a large amount of data available, but what do we do with all that data? How is it all used? And what does all that data mean?",
+          "link": "https://www.freecodecamp.org/news/what-is-data-analysis/",
+          "publishedOn": "2022-05-31T15:59:04.000Z",
+          "wordCount": 3049,
+          "title": "What is Data Analysis?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/luke-chesser-JKUTrJ4vK00-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-square-a-number-in-python-squaring-function/",
+          "author": "Dillion Megida",
+          "description": "To square a number, you multiply that number by itself. And there are multiple ways to do this in Python. You can directly multiple a number by itself (number * number) but in this article, I'll show you three ways you can do this without hardcoding both numbers. The three",
+          "link": "https://www.freecodecamp.org/news/how-to-square-a-number-in-python-squaring-function/",
+          "publishedOn": "2022-05-31T15:03:14.000Z",
+          "wordCount": 811,
+          "title": "How to Square a Number in Python – Squaring Function",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/square-number-python.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-open-a-link-in-a-new-tab/",
+          "author": "Jessica Wilkins",
+          "description": "There will be times where you will want your user to click on a website link and have it open in a new browser tab. But how do you do that in HTML? In this article, I will show you how to use the target=\"_blank\" attribute through code examples. I",
+          "link": "https://www.freecodecamp.org/news/how-to-open-a-link-in-a-new-tab/",
+          "publishedOn": "2022-05-31T14:53:07.000Z",
+          "wordCount": 893,
+          "title": "How to Open a Link in a New Tab – HTML target blank Attribute Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/markus-spiske-4qbS830djfs-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-read-files-in-python/",
+          "author": "Zaira Hira",
+          "description": "Reading and writing files is a common operation when working with any programming language. You can program your code to read data or instructions from a file and then write the data as well. This increases efficiency and reduces manual effort. Python has a well-defined methodology for opening, reading, and",
+          "link": "https://www.freecodecamp.org/news/how-to-read-files-in-python/",
+          "publishedOn": "2022-05-31T14:29:06.000Z",
+          "wordCount": 1912,
+          "title": "Python Read File – How to Open, Read, and Write to Files in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/read-write-files-python--1-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/python-split-string/",
           "author": "Quincy Larson",
           "description": "Do you want to turn a string into an array of strings using Python? One way to do this is with Python's built-in .split() method. Here's an example of how to do this in the Python command line: >>> string1 = \"test your might\" >>> string1.split(\" \"); # Output: ['test',",
@@ -910,16 +960,6 @@
           "wordCount": 2299,
           "title": "Programming Paradigms – Paradigm Examples for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/anne-nygard-OJzEnupZWGM-unsplash.jpg"
-        },
-        {
-          "id": "626c1b56c1c601068f4e9287",
-          "author": "Andrew Brown",
-          "description": "What is the Google Cloud Associate Cloud Engineer? The Associate Cloud Engineer also commonly referred to as the ACE is the associate level certification by Google Cloud.  They key difference between the Associate Cloud Engineer and the Google Cloud Digital Cloud Leader is that the Associate Cloud Engineer",
-          "link": "https://www.freecodecamp.org/news/google-cloud-digital-leader-certification-study-course-pass-the-exam-with-this-free-20-hour-course/",
-          "publishedOn": "2022-05-02T13:32:13.000Z",
-          "wordCount": 759,
-          "title": "Google Cloud Associate Cloud Engineer Certification Study Course – Pass the Exam With This Free 20 Hour Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/ace.png"
         }
       ]
     },
@@ -928,6 +968,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=115472",
+          "author": "Charlie Wood",
+          "description": "Physicists are building neural networks out of vibrations, voltages and lasers, arguing that the future of computing lies in exploiting the universe’s complex physical behaviors.            \nThe post How to Make the Universe Think for Us first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/",
+          "publishedOn": "2022-05-31T18:50:45.000Z",
+          "wordCount": 2963,
+          "title": "How to Make the Universe Think for Us",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/0601_Physical-Neural-Networks_1200_Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=115360",
           "author": "Pradeep Mutalik",
@@ -1107,16 +1157,6 @@
           "wordCount": 1565,
           "title": "Physicists Pin Down How Quantum Uncertainty Sharpens Measurements",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/05/Metrology_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=114495",
-          "author": "Leila Sloman",
-          "description": "The famed Navier-Stokes equations can lead to cases where more than one result is possible, but only in an extremely narrow set of situations.            \nThe post Mathematicians Coax Fluid Equations Into Nonphysical Solutions first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/mathematicians-coax-fluid-equations-into-nonphysical-solutions-20220502/",
-          "publishedOn": "2022-05-02T13:45:49.000Z",
-          "wordCount": 1450,
-          "title": "Mathematicians Coax Fluid Equations Into Nonphysical Solutions",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/04/Leray_1200_Social.jpg"
         }
       ]
     },
