@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/what-is-an-svg-file/",
+          "author": "Kolade Chris",
+          "description": "SVG stands for scalable vector graphics. It's a web-friendly vector-based file format used to render two-dimensional images on the internet. You can identify SVG files by their extension – .svg. Unlike other popular image formats like PNG, JPEG, and JPG – which store image information in form of pixels because",
+          "link": "https://www.freecodecamp.org/news/what-is-an-svg-file/",
+          "publishedOn": "2022-06-01T16:05:04.000Z",
+          "wordCount": 1055,
+          "title": "What is an SVG File?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/svg.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-indent-in-html-and-why-it-is-important/",
+          "author": "Jessica Wilkins",
+          "description": "When you are building out HTML files, it's really important to indent your code. But how do you do that in HTML and why is it important? In this article, I will show you how to properly indent your HTML files and explain why it is important to properly format",
+          "link": "https://www.freecodecamp.org/news/how-to-indent-in-html-and-why-it-is-important/",
+          "publishedOn": "2022-06-01T15:40:55.000Z",
+          "wordCount": 1228,
+          "title": "How to Indent HTML Code – And Why it's Important",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/irvan-smith-ymn_TY_MBn8-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-deploy-your-machine-learning-model-as-a-web-app-using-gradio/",
+          "author": "Ibrahim Abayomi Ogunbiyi",
+          "description": "You've built your Machine Learning model with 99% accuracy and now you are ecstatic. You are like yaaaaaaaaay! My model performed well.  Then you paused and you were like – now what?  Well first, you might have thought of uploading your code to GitHub and showing people your",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-your-machine-learning-model-as-a-web-app-using-gradio/",
+          "publishedOn": "2022-06-01T15:14:51.000Z",
+          "wordCount": 1754,
+          "title": "How to Deploy a Machine Learning Model as a Web App Using Gradio",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/deploy-ml-models-article.jpeg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-apply-to-google-summer-of-code/",
           "author": "Jagruti Tiwari",
           "description": "If you have heard of Google Summer of Code [https://summerofcode.withgoogle.com]  but aren't sure how to apply, then read on. Whether you are a college student or a working professional, GSoC now is open to both. What is GSoC and How Does it Work? GSoC is a program that encourages",
@@ -870,96 +900,6 @@
           "wordCount": 1288,
           "title": "How to Use Google Dataproc – Example with PySpark and Jupyter Notebook",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/My-project.jpg"
-        },
-        {
-          "id": "624bed87ac55f60686c2e0ef",
-          "author": "Dionysia Lemonaki",
-          "description": "When you start learning graphic design theory, you may be surprised to find out that there are specific rules you need to follow when designing. Those rules are known as design principles, and in this article, you will learn the basics of the 13 design principles. Knowing what design principles",
-          "link": "https://www.freecodecamp.org/news/design-principles-a-list-of-the-principles-of-design/",
-          "publishedOn": "2022-05-02T22:41:41.000Z",
-          "wordCount": 2799,
-          "title": "Design Principles – A List of the Principles of Design",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/hal-gatewood-tZc3vjPCk-Q-unsplash.jpg"
-        },
-        {
-          "id": "626e3d0bc1c601068f4ea71d",
-          "author": "Jessica Wilkins",
-          "description": "There are many ways to convert a string into a number using JavaScript. But what does that look like in code?  In this article, I will show you 11 ways to convert a string into a number.  How to convert a string to a number in JavaScript using",
-          "link": "https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-number-in-javascript/",
-          "publishedOn": "2022-05-02T22:25:54.000Z",
-          "wordCount": 1436,
-          "title": "How to Convert a String to a Number in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/volkan-olmez-aG-pvyMsbis-unsplash.jpg"
-        },
-        {
-          "id": "626c00bdc1c601068f4e918e",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When working with strings in your code, you might want to perform certain operations like concatenating (or linking together) two strings.  But there are cases when you'd rather work with numerical values as though they were strings because concatenating a string and an integer will give you an error.",
-          "link": "https://www.freecodecamp.org/news/int-to-string-in-cpp-how-to-convert-an-integer-with-tostring/",
-          "publishedOn": "2022-05-02T21:01:13.000Z",
-          "wordCount": 794,
-          "title": "Int to String in C++ – How to Convert an Integer with to_string",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/oskar-yildiz-cOkpTiJMGzA-unsplash.jpg"
-        },
-        {
-          "id": "62652501ac55f60686c3b91b",
-          "author": "Suchandra Datta",
-          "description": "When you're learning to code, you eventually learn about lists and the different operations you can perform on them.  In this article, we'll go through how you can find the index of a particular element which is stored in a list in Python. What is a List in Python?",
-          "link": "https://www.freecodecamp.org/news/python-index-find-index-of-element-in-list/",
-          "publishedOn": "2022-05-02T20:59:13.000Z",
-          "wordCount": 1494,
-          "title": "Python Index – How to Find the Index of an Element in a List",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-olya-kobruseva-5408919.jpg"
-        },
-        {
-          "id": "626cee91c1c601068f4e995b",
-          "author": "Andrej Kovacevic",
-          "description": "Coding is not supposed to be a steep mountain climb. And it can get a lot easier if you have the right strategies and tools.  After all, as noted software engineer and writer Joel Spolsky [http://blogs.perl.org/users/buddy_burden/2013/12/perl-and-me-part-4-a-worthy-program-exceedingly-well-read.html#note1]  says, \"it is harder to read code than to write it.\" One",
-          "link": "https://www.freecodecamp.org/news/collaborative-coding-tips/",
-          "publishedOn": "2022-05-02T20:13:44.000Z",
-          "wordCount": 1765,
-          "title": "What is Collaborative Coding? Pair Programming, Mob Programming, and How it All Works",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/collaborative-coding-tips.jpg"
-        },
-        {
-          "id": "626c29dac1c601068f4e92e3",
-          "author": "Vinod Mathew Sebastian",
-          "description": "Learning the command line is essential for any aspiring developer. And to execute commands on the command line, you need a shell. The Bash shell is popular in Unix-like operating systems like Mac and Linux. In fact in most Linux distros, Bash is the default shell. You can also use",
-          "link": "https://www.freecodecamp.org/news/bash-command-line-tips-to-help-you-work-faster/",
-          "publishedOn": "2022-05-02T19:56:22.000Z",
-          "wordCount": 1125,
-          "title": "Bash Command Line Tips to Help You Work Faster",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Bash-1.jpg"
-        },
-        {
-          "id": "6262bcd7ac55f60686c3acd4",
-          "author": "Kris Koishigawa",
-          "description": "sudo apt-get update and sudo apt-get upgrade are two commands you can use to keep all of your packages up to date in Debian or a Debian-based Linux distribution. They're common commands for Linux admins and people doing DevOps, but are handy to know even if you don't use the",
-          "link": "https://www.freecodecamp.org/news/sudo-apt-get-update-vs-upgrade-what-is-the-difference/",
-          "publishedOn": "2022-05-02T19:30:12.000Z",
-          "wordCount": 2398,
-          "title": "sudo apt-get update VS upgrade – What is the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/gabriel-heinzer-4Mw7nkQDByk-unsplash.jpg"
-        },
-        {
-          "id": "626b9e1cc1c601068f4e8d20",
-          "author": "Kolade Chris",
-          "description": "If you’ve ever had to make a domain name work with a website, you’ve probably seen ANAME as some record – just like the popular Canonical name record type or simply CNAME. CNAME and ANAME are both solutions for pointing a hostname to your website. For example, yourapp.netlify.com to yourwebsite.com.",
-          "link": "https://www.freecodecamp.org/news/what-is-aname-aname-record-dns-tutorial/",
-          "publishedOn": "2022-05-02T18:02:19.000Z",
-          "wordCount": 741,
-          "title": "What is ANAME? ANAME Record DNS Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/alias-1.png"
-        },
-        {
-          "id": "6267194ac1c601068f4e72c2",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we're going to take a look at programming paradigms, a fancy title to describe popular ways or styles to organize your programming. I'll try to break it down in pieces and give a simple explanation of each paradigm. This way you can understand what people",
-          "link": "https://www.freecodecamp.org/news/an-introduction-to-programming-paradigms/",
-          "publishedOn": "2022-05-02T16:42:37.000Z",
-          "wordCount": 2299,
-          "title": "Programming Paradigms – Paradigm Examples for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/anne-nygard-OJzEnupZWGM-unsplash.jpg"
         }
       ]
     },
@@ -968,6 +908,26 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=115400",
+          "author": "Alex Kontorovich",
+          "description": "The Langlands program provides a beautifully intricate set of connections between various areas of mathematics, pointing the way toward novel solutions for old problems.            \nThe post What Is the Langlands Program? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/what-is-the-langlands-program-20220601/",
+          "publishedOn": "2022-06-01T20:35:09.000Z",
+          "wordCount": 1518,
+          "title": "What Is the Langlands Program?",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/05/Langlands_1200_Social.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=115538",
+          "author": "Steven Strogatz",
+          "description": "How did life arise on Earth? Steven Strogatz speaks with the Nobel Prize-winning biologist Jack Szostak and Betül Kaçar, a paleogeneticist and astrobiologist, to explore our best understanding of how we all got here.            \nThe post How Could Life Evolve From Cyanide? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-could-life-evolve-from-cyanide-20220601/",
+          "publishedOn": "2022-06-01T17:27:17.000Z",
+          "wordCount": 7099,
+          "title": "How Could Life Evolve From Cyanide?",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/TJY_Origins_Life_1200_Social_LOGO.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=115472",
           "author": "Charlie Wood",
@@ -1147,16 +1107,6 @@
           "wordCount": 1508,
           "title": "Think of a Number. How Do Math Magicians Know What It Is?",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/05/Puzzle_May_1200_Social-2.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=114525",
-          "author": "Ben Brubaker",
-          "description": "Throwing out data seems to make measurements of distances and angles more precise. The reason why has been traced to Heisenberg’s uncertainty principle.            \nThe post Physicists Pin Down How Quantum Uncertainty Sharpens Measurements first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/physicists-show-how-quantum-uncertainty-sharpens-measurements-20220503/",
-          "publishedOn": "2022-05-03T13:55:19.000Z",
-          "wordCount": 1565,
-          "title": "Physicists Pin Down How Quantum Uncertainty Sharpens Measurements",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/05/Metrology_1200_Social.jpg"
         }
       ]
     },
@@ -1281,16 +1231,6 @@
           "wordCount": 315,
           "title": "How to enforce pinch-to-zoom on Firefox/Chrome on Android (#note)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20enforce%20pinch-to-zoom%20on%20Firefox%252FChrome%20on%20Android/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-65/",
-          "author": null,
-          "description": "Happy Monday, party people!\n\nGmail decided to throw Web Weekly right into the spam folder last week. 😢 If you didn't receive last week's Weekly, read it online.\nI changed things, and the email sender is now stefan@webweekly.email. Let's hope this fixes things. If you didn't receive last week's email and find it in your spam, it'd be fantastic if you could hit the \"no spam\" button. Thank you!\nBut on the bright side – I have news! I started a new job yesterday. 🥁🥁🥁\nI joined a Berlin-based startup called Checkly. Checkly's a service to check your APIs, write end-to-end browser tests and monitor your site's performance.\nAnd I'll be helping developers to build great stuff and make sure it stays great!\nI'm super excited about this (and not only because the logo is so cute)!\nAnd with this, to…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-65/",
-          "publishedOn": "2022-05-02T22:00:00.000Z",
-          "wordCount": 1286,
-          "title": "Web Weekly #65 (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252365/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
         }
       ]
     },
