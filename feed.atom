@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-03T01:45:01.105Z</updated>
+    <updated>2022-06-04T01:44:17.723Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brain-Signal Proteins Evolved Before Animals Did]]></title>
+        <id>https://www.quantamagazine.org/?p=115606</id>
+        <link href="https://www.quantamagazine.org/brain-signal-proteins-evolved-before-animals-did-20220603/"/>
+        <updated>2022-06-03T13:24:57.000Z</updated>
+        <summary type="html"><![CDATA[Some animal neuropeptides have been around longer than nervous systems.            
+The post Brain-Signal Proteins Evolved Before Animals Did first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Viviane Callier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Go team needs your input]]></title>
+        <id>https://golangweekly.com/issues/414</id>
+        <link href="https://golangweekly.com/issues/414"/>
+        <updated>2022-06-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#​414 — June 3, 2022
+
+
+Unsubscribe  |  Read on the Web
+
+
+
+The Go Weekly Newsletter
+
+
+
+
+  
+
+
+
+
+
+  
+  
+😇  It's Time to Share Your Feedback About Developing with Go — Go’s latest official developer survey is here (and with a new twice-annually cadence). It’s open for the next few weeks (until June 21) and should take around 5-10 minutes to complete. The aggregated results will be shared with the community and used by the Go team to make the language and its ecosystem better.
+The Go Team 
+
+
+  
+  
+The 'Hello World' of Creating WebAssembly with Go? — We like simple, straight forward examples, particularly when it comes to tinkering with unusual or new combinations of tools and tech. If you’re new to WebAssembly, this may be just what you need to figure out the basics of writing Go code and havi…]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PHP Tutorial – How to Setup PHP and XAMPP for Your Project]]></title>
         <id>https://www.freecodecamp.org/news/how-to-get-started-with-php/</id>
@@ -1406,88 +1453,6 @@ Thanks Manuel for sharing this little detail. I'm happily zooming everywhere on 
         <summary type="html"><![CDATA[Array destructuring is an efficient way to extract multiple values from data that’s stored in an array. In this tutorial we’ll learn about array destructuring. We'll go over examples to learn the ins and outs of how array destructuring works.  I've also created a video of this tutorial: Let's]]></summary>
         <author>
             <name>Madison Kanna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Test Tubes, RNA Molecules Evolve Into a Tiny Ecosystem]]></title>
-        <id>https://www.quantamagazine.org/?p=114606</id>
-        <link href="https://www.quantamagazine.org/in-test-tubes-rna-molecules-evolve-into-a-tiny-ecosystem-20220505/"/>
-        <updated>2022-05-05T13:28:33.000Z</updated>
-        <summary type="html"><![CDATA[When researchers gave a genetic molecule the ability to replicate, it evolved over time into a complex network of “hosts” and “parasites” that both competed and cooperated to survive.            
-The post In Test Tubes, RNA Molecules Evolve Into a Tiny Ecosystem first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Yasemin Saplakoglu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getline in C++ – cin getline() Function Example]]></title>
-        <id>626fbddfc1c601068f4eaec5</id>
-        <link href="https://www.freecodecamp.org/news/getline-in-cpp-cin-getline-function-example/"/>
-        <updated>2022-05-04T20:06:07.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll talk about the getline() function in C++. This is an inbuilt function that accepts single and multiple character inputs. When working with user input in C++, the cin object allows us to get input information from the user. But when we try to log out the]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Manage Browser Defaults with event.preventDefault() and event.stopPropagation()]]></title>
-        <id>626b0796c1c601068f4e89b4</id>
-        <link href="https://www.freecodecamp.org/news/manage-default-behavior-in-browser/"/>
-        <updated>2022-05-04T19:59:02.000Z</updated>
-        <summary type="html"><![CDATA[Browsers have default interactions and behaviors for different events. For example, when a user clicks a "submit" button on a form, the form is submitted to a URL by default. When the child of an element is clicked, the click event also occurs on the element because it is the]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where Do Space, Time and Gravity Come From?]]></title>
-        <id>https://www.quantamagazine.org/?p=114571</id>
-        <link href="https://www.quantamagazine.org/where-do-space-time-and-gravity-come-from-20220504/"/>
-        <updated>2022-05-04T18:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Einstein’s description of curved space-time doesn’t easily mesh with a universe made up of quantum wavefunctions. Theoretical physicist Sean Carroll discusses the quest for quantum gravity with host Steven Strogatz.            
-The post Where Do Space, Time and Gravity Come From? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Steven Strogatz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Code Examples – Simple Python Program Example]]></title>
-        <id>626d5ae3c1c601068f4ea1c2</id>
-        <link href="https://www.freecodecamp.org/news/python-code-examples-simple-python-program-example/"/>
-        <updated>2022-05-04T17:20:38.000Z</updated>
-        <summary type="html"><![CDATA[Python is a high-level, general purpose, interpreted programming language. It's well-known for being very easy to learn yet powerful, and it has many uses in many different fields. If you're someone trying to get started with Python, it's easy to get lost among all the excellent learning resources on the]]></summary>
-        <author>
-            <name>Farhan Hasin Chowdhury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How to Manipulate CSS with JavaScript by Coding a Dynamic Picture Frame]]></title>
-        <id>626d47a4c1c601068f4e9f91</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-manipulate-css-with-javascript-by-coding-a-dynamic-picture-frame/"/>
-        <updated>2022-05-04T15:27:39.000Z</updated>
-        <summary type="html"><![CDATA[DOM manipulation can simply be defined as manipulating HTML documents (or pages) with JavaScript.  The DOM stands for Document Object Model that you can visualize as a tree-like structure made up of different HTML elements.  Visualizing an HTML document like a tree makes it easy to access its]]></summary>
-        <author>
-            <name>Samuel A. Olubiyo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REST API Design Best Practices – How to Build a REST API with JavaScript, Node.js, and Express.js]]></title>
-        <id>625e8e8bac55f60686c37f27</id>
-        <link href="https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/"/>
-        <updated>2022-05-04T15:10:32.000Z</updated>
-        <summary type="html"><![CDATA[I've created and consumed many API's over the past few years. During that time, I've come across good and bad practices and have experienced nasty situations when consuming and building API's. But there also have been great moments. There are helpful articles online which present many best practices, but many]]></summary>
-        <author>
-            <name>Jean-Marc Möckel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn React Router 6]]></title>
-        <id>62728f26c1c601068f4ec233</id>
-        <link href="https://www.freecodecamp.org/news/learn-react-router-6/"/>
-        <updated>2022-05-04T14:42:27.000Z</updated>
-        <summary type="html"><![CDATA[React Router is a JavaScript library that helps developers create single-page applications that are responsive and have a dynamic user interface. It is a popular tool among React developers and is used to create routing and navigation for web applications. We just published a course on the freeCodeCamp.org YouTube channel]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
