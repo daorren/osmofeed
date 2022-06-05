@@ -810,26 +810,6 @@
           "wordCount": 2717,
           "title": "How to Learn Python in 2022",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/brett-jordan-NDjaUqvB7uE-unsplash.jpg"
-        },
-        {
-          "id": "62740998c1c601068f4ecc38",
-          "author": "Beau Carnes",
-          "description": "D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. We just published a full course on the freeCodeCamp.org YouTube channel that teaches how to implement various data visualization techniques with D3.js. Curran Kelleher teaches this course.",
-          "link": "https://www.freecodecamp.org/news/data-visualizatoin-with-d3/",
-          "publishedOn": "2022-05-05T17:43:46.000Z",
-          "wordCount": 506,
-          "title": "Data Visualization with D3.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/dataviz.png"
-        },
-        {
-          "id": "62715143c1c601068f4eb5fe",
-          "author": "Madison Kanna",
-          "description": "Array destructuring is an efficient way to extract multiple values from data that’s stored in an array. In this tutorial we’ll learn about array destructuring. We'll go over examples to learn the ins and outs of how array destructuring works.  I've also created a video of this tutorial: Let's",
-          "link": "https://www.freecodecamp.org/news/how-to-destructure-an-array-in-javascript/",
-          "publishedOn": "2022-05-05T14:38:34.000Z",
-          "wordCount": 1197,
-          "title": "How to Destructure an Array in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/code-1839406_1920.jpg"
         }
       ]
     },
@@ -1083,6 +1063,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/today-i-learned/firefox-devtools-provide-a-multiline-javascript-console/",
+          "author": null,
+          "description": "I'm a big fan of prototyping in the JavaScript console and find myself opening the developer tools just for this purpose.\nUnfortunately, console prototyping can sometimes be a little cumbersome for extensive snippets because the console isn't built for writing extended snippets spanning multiple lines. You can work around this by pressing Shift + Enter, but still, it's not great.\nToday, I was thrilled to learn that the Firefox developer tools provide a somewhat hidden multi-line console editor to write extended snippets more easily!\nThis feature is top DX in action! 💯 Thanks Firefox.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/firefox-devtools-provide-a-multiline-javascript-console/",
+          "publishedOn": "2022-06-03T22:00:00.000Z",
+          "wordCount": 330,
+          "title": "Firefox DevTools provide a multiline JavaScript console (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Firefox%20DevTools%20provide%20a%20multiline%20JavaScript%20console/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-67/",
           "author": null,
           "description": "Heidi Ho, friends!\n\nAs you may know, I started a new job recently and had to set up a new Gmail account. I discovered that there are some customizations I can't live without. Maybe they're valuable for you, too!\nMy morning routine includes getting my inbox as close to zero as possible. To not get distracted, I turn on auto-advance. Find the feature under the \"Advanced\" settings and automatically move to the next email after replying, deleting or archiving an email. It's perfect for flying through your inbox while keeping the flow!\nKeyboard shortcuts are hidden behind the \"Advanced\" settings, too. Once you have enabled it, you can navigate your inbox using your keyboard! 💯\nAnd lastly, I wrote about Gmails multiple stars and inbox features in the past. You can group and structure your inbox…",
@@ -1131,26 +1121,6 @@
           "wordCount": 290,
           "title": "How to navigate to the git root directory (#snippet)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20navigate%20to%20the%20git%20root%20directory/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/table-cells-support-a-headers-html-attribute/",
-          "author": null,
-          "description": "I love that even after writing HTML for such a long time, there's always something new to discover. #htmlIsNotEasy\nToday I learned that HTML table cells support a headers attribute. I haven't seen that one before!\n\n        \n\n        \nStefan Judis\n              @stefanjudis\n            \nTIL there's a `headers` HTML attribute that you can to make cells spanning across columns more accessible. 😲\nRead more on @aardrian's blog. 👇\nadrianroselli.com/2017/11/hey-it… \n16 retweets\n            71 likes\n\n            Tweeted \n              \n                May 06 2022\n              \n            \n            Open Tweet\n          \n\nI rarely use tables because I usually don't deal with tabular data. But suppose you're building complex tables with cells spanning multiple columns or rows. In that case, you can use headers to define which table header elements are connected to the particular table cell.\nHere are some resources to read more about it:\nAdrian's blog post explains how to deal with spanning cells\nThe WCAG success criterion describing table cell association\n\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/table-cells-support-a-headers-html-attribute/",
-          "publishedOn": "2022-05-05T22:00:00.000Z",
-          "wordCount": 383,
-          "title": "Table cells support a \"headers\" HTML attribute (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Table%20cells%20support%20a%20%22headers%22%20HTML%20attribute/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/how-to-enforce-pinch-to-zoom-on-firefox-chrome-on-android/",
-          "author": null,
-          "description": "Manuel's quick explainer \"Please, stop disabling zoom\" includes a tip for Android Chrome/Firefox users I didn't know.\nYou might know that you can disable pinch-to-zoom on mobile devices using an evil meta element.\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no\"> \n\nBut did you know that you can overwrite this meta element and force Chrome and Firefox to allow pinch-to-zoom?\nNow you do. 😉\nThanks Manuel for sharing this little detail. I'm happily zooming everywhere on my Android device now!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/notes/how-to-enforce-pinch-to-zoom-on-firefox-chrome-on-android/",
-          "publishedOn": "2022-05-05T22:00:00.000Z",
-          "wordCount": 315,
-          "title": "How to enforce pinch-to-zoom on Firefox/Chrome on Android (#note)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20enforce%20pinch-to-zoom%20on%20Firefox%252FChrome%20on%20Android/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
@@ -1197,16 +1167,6 @@
           "publishedOn": "2022-05-13T00:00:00.000Z",
           "wordCount": 962,
           "title": "Using go run to manage tool dependencies",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/410",
-          "author": null,
-          "description": "#​410 — May 6, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \n📄  The Design Decisions Behind the Go Language and Environment — In an article for the ACM, the creators of Go discuss the origins of the language, their goals in creating it, and the design choices they made leading up to the first major change to the language in a decade (we won't spoil, but you know what it is..)\nCox, Griesemer, Pike, Taylor, and Thompson \n\n\n  \n  \nAn Experience Report After 6 Months of Go — A developer at Sourcegraph reflects on his experiences in working with Go after nearly three years of C++. This is beautifully presented and explained - more posts like this please.\nVarun Gandhi \n\n\n  \n  \nTroubleshoot and Optimize Golang App Performance with Datadog APM — Datadog’s APM…",
-          "link": "https://golangweekly.com/issues/410",
-          "publishedOn": "2022-05-06T00:00:00.000Z",
-          "wordCount": 924,
-          "title": "Go - the fastest growing language on GitHub?",
           "imageUrl": null
         }
       ]

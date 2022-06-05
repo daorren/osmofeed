@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-04T01:44:17.723Z</updated>
+    <updated>2022-06-05T01:56:16.399Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Firefox DevTools provide a multiline JavaScript console (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/firefox-devtools-provide-a-multiline-javascript-console/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/firefox-devtools-provide-a-multiline-javascript-console/"/>
+        <updated>2022-06-03T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I'm a big fan of prototyping in the JavaScript console and find myself opening the developer tools just for this purpose.
+Unfortunately, console prototyping can sometimes be a little cumbersome for extensive snippets because the console isn't built for writing extended snippets spanning multiple lines. You can work around this by pressing Shift + Enter, but still, it's not great.
+Today, I was thrilled to learn that the Firefox developer tools provide a somewhat hidden multi-line console editor to write extended snippets more easily!
+This feature is top DX in action! 💯 Thanks Firefox.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brain-Signal Proteins Evolved Before Animals Did]]></title>
         <id>https://www.quantamagazine.org/?p=115606</id>
@@ -1328,131 +1346,6 @@ The post Why ‘De-Extinction’ Is Impossible (But Could Work Anyway) first app
         <summary type="html"><![CDATA[With each passing year, the Python programming language becomes more and more popular. According to the Stack Overflow Developer Survey for 2021 [https://insights.stackoverflow.com/survey/2021#technology], Python was the 3rd most popular language, following JavaScript and HTML & CSS. And this growth doesn't seem to be slowing down anytime soon, so Python programmers]]></summary>
         <author>
             <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go - the fastest growing language on GitHub?]]></title>
-        <id>https://golangweekly.com/issues/410</id>
-        <link href="https://golangweekly.com/issues/410"/>
-        <updated>2022-05-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​410 — May 6, 2022
-
-
-Unsubscribe  |  Read on the Web
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-📄  The Design Decisions Behind the Go Language and Environment — In an article for the ACM, the creators of Go discuss the origins of the language, their goals in creating it, and the design choices they made leading up to the first major change to the language in a decade (we won't spoil, but you know what it is..)
-Cox, Griesemer, Pike, Taylor, and Thompson 
-
-
-  
-  
-An Experience Report After 6 Months of Go — A developer at Sourcegraph reflects on his experiences in working with Go after nearly three years of C++. This is beautifully presented and explained - more posts like this please.
-Varun Gandhi 
-
-
-  
-  
-Troubleshoot and Optimize Golang App Performance with Datadog APM — Datadog’s APM…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Table cells support a "headers" HTML attribute (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/table-cells-support-a-headers-html-attribute/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/table-cells-support-a-headers-html-attribute/"/>
-        <updated>2022-05-05T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I love that even after writing HTML for such a long time, there's always something new to discover. #htmlIsNotEasy
-Today I learned that HTML table cells support a headers attribute. I haven't seen that one before!
-
-        
-
-        
-Stefan Judis
-              @stefanjudis
-            
-TIL there's a `headers` HTML attribute that you can to make cells spanning across columns more accessible. 😲
-Read more on @aardrian's blog. 👇
-adrianroselli.com/2017/11/hey-it… 
-16 retweets
-            71 likes
-
-            Tweeted 
-              
-                May 06 2022
-              
-            
-            Open Tweet
-          
-
-I rarely use tables because I usually don't deal with tabular data. But suppose you're building complex tables with cells spanning multiple columns or rows. In that case, you can use headers to define which table header elements are connected to the particular table cell.
-Here are some resources to read more about it:
-Adrian's blog post explains how to deal with spanning cells
-The WCAG success criterion describing table cell association
-
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to enforce pinch-to-zoom on Firefox/Chrome on Android (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/how-to-enforce-pinch-to-zoom-on-firefox-chrome-on-android/</id>
-        <link href="https://www.stefanjudis.com/notes/how-to-enforce-pinch-to-zoom-on-firefox-chrome-on-android/"/>
-        <updated>2022-05-05T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Manuel's quick explainer "Please, stop disabling zoom" includes a tip for Android Chrome/Firefox users I didn't know.
-You might know that you can disable pinch-to-zoom on mobile devices using an evil meta element.
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"> 
-
-But did you know that you can overwrite this meta element and force Chrome and Firefox to allow pinch-to-zoom?
-Now you do. 😉
-Thanks Manuel for sharing this little detail. I'm happily zooming everywhere on my Android device now!
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Visualization with D3.js]]></title>
-        <id>62740998c1c601068f4ecc38</id>
-        <link href="https://www.freecodecamp.org/news/data-visualizatoin-with-d3/"/>
-        <updated>2022-05-05T17:43:46.000Z</updated>
-        <summary type="html"><![CDATA[D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. We just published a full course on the freeCodeCamp.org YouTube channel that teaches how to implement various data visualization techniques with D3.js. Curran Kelleher teaches this course.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Destructure an Array in JavaScript]]></title>
-        <id>62715143c1c601068f4eb5fe</id>
-        <link href="https://www.freecodecamp.org/news/how-to-destructure-an-array-in-javascript/"/>
-        <updated>2022-05-05T14:38:34.000Z</updated>
-        <summary type="html"><![CDATA[Array destructuring is an efficient way to extract multiple values from data that’s stored in an array. In this tutorial we’ll learn about array destructuring. We'll go over examples to learn the ins and outs of how array destructuring works.  I've also created a video of this tutorial: Let's]]></summary>
-        <author>
-            <name>Madison Kanna</name>
         </author>
     </entry>
 </feed>
