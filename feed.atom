@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-05T01:56:16.399Z</updated>
+    <updated>2022-06-06T01:55:21.987Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Git List Remote Branches]]></title>
+        <id>https://www.freecodecamp.org/news/git-list-remote-branches/</id>
+        <link href="https://www.freecodecamp.org/news/git-list-remote-branches/"/>
+        <updated>2022-06-05T23:29:19.000Z</updated>
+        <summary type="html"><![CDATA[There are 4 different Git commands you can enter into your command line to list all of the remote branches of a repo. I will show you command line code examples of each of these. For all of these examples, I will use freeCodeCamp's open source repository [https://github.com/freeCodeCamp/freeCodeCamp/]. Command #1:]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — What's Latin for Waffle House?]]></title>
+        <id>6292ba8418f2762794c295b2</id>
+        <link href="https://labnotes.org/weekend-reading-whats-latin-for-waffle-house/"/>
+        <updated>2022-06-05T16:48:04.000Z</updated>
+        <summary type="html"><![CDATA[This week we learn the DALLE language, discover infinite disk space, and bring flexbox to 1986.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Firefox DevTools provide a multiline JavaScript console (#tilPost)]]></title>
         <id>https://www.stefanjudis.com/today-i-learned/firefox-devtools-provide-a-multiline-javascript-console/</id>
@@ -1326,26 +1346,6 @@ The post Why ‘De-Extinction’ Is Impossible (But Could Work Anyway) first app
         <summary type="html"><![CDATA[This week we train the elephant, read evergreen notes, discover the ultimate MVP, explore analog watches, and dream to generalize.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Center an Absolute Positioned Element Vertically and Horizontally with CSS]]></title>
-        <id>62720d66c1c601068f4ebbdb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-center-an-absolute-positioned-element/"/>
-        <updated>2022-05-06T19:56:35.000Z</updated>
-        <summary type="html"><![CDATA[Absolute positioned elements are removed from the flow of a document. And sometimes, knowing how to correctly position such elements in the center of the page can be confusing. I mean, CSS is confusing already. 😅 In this article, I will show you how to center an absolute element either]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Learn Python in 2022]]></title>
-        <id>627036b7c1c601068f4eb2b6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-learn-python/"/>
-        <updated>2022-05-06T17:09:52.000Z</updated>
-        <summary type="html"><![CDATA[With each passing year, the Python programming language becomes more and more popular. According to the Stack Overflow Developer Survey for 2021 [https://insights.stackoverflow.com/survey/2021#technology], Python was the 3rd most popular language, following JavaScript and HTML & CSS. And this growth doesn't seem to be slowing down anytime soon, so Python programmers]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
         </author>
     </entry>
 </feed>
