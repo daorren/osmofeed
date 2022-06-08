@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-react-components/",
+          "author": "Spruce Emmanuel",
+          "description": "I wrote the article \"How to Search and Filter Components in React\" exactly one year ago. > If you're building a React app, you want your users to be able to search & get exact results. And if you're getting data from an API, they need to be able to",
+          "link": "https://www.freecodecamp.org/news/how-to-react-components/",
+          "publishedOn": "2022-06-07T23:37:17.000Z",
+          "wordCount": 1564,
+          "title": "React Components – How to Create a Search, Filter, and Pagination Component in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/wirxeocmd6tpnn9c5oqc.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-add-jwt-authentication-in-fastapi/",
+          "author": "Abdullah Adeel",
+          "description": "FastAPI [https://fastapi.tiangolo.com/] is a modern, fast, battle tested and light-weight web development framework written in Python. Other popular options in the space are Django [https://www.djangoproject.com/], Flask [https://flask.palletsprojects.com/en/2.1.x/]and Bottle [https://bottlepy.org/docs/dev/]. And since it's new, FastAPI comes with both advantages and disadvantages. On the positive side, FastAPI implements all the modern standards,",
+          "link": "https://www.freecodecamp.org/news/how-to-add-jwt-authentication-in-fastapi/",
+          "publishedOn": "2022-06-07T23:28:25.000Z",
+          "wordCount": 2228,
+          "title": "How to Add JWT Authentication in FastAPI – A Practical Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/fcc-fastapi-jwt-auth.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/hello-world-in-java-example-program/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When you're learning a new programming language, you'll often see the first program called a \"Hello World\" program. It's used in most cases as a simple program for beginners.  I will assume that you're either reading this article as a beginner to the Java programming language or you're here",
+          "link": "https://www.freecodecamp.org/news/hello-world-in-java-example-program/",
+          "publishedOn": "2022-06-07T17:13:21.000Z",
+          "wordCount": 912,
+          "title": "Hello World in Java – Example Program",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/helloWorld.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-change-font-with-html/",
+          "author": "Kolade Chris",
+          "description": "Back in the days of HTML4, there was a  tag you could use to change the font size, font family, and the color of a text. But with HTML5, the  tag has been deprecated. So if you want to change anything related to the font, you have to",
+          "link": "https://www.freecodecamp.org/news/how-to-change-font-with-html/",
+          "publishedOn": "2022-06-07T16:41:40.000Z",
+          "wordCount": 1142,
+          "title": "How to Change Font with HTML",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/abc-3523454_1280.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/manage-postgresql-with-psql/",
+          "author": "Gerard Hynes",
+          "description": "Now is a great time to learn relational databases and SQL. From web development to data science, they are used everywhere.  In the Stack Overflow 2021 Survey [https://insights.stackoverflow.com/survey/2021#most-popular-technologies-database-prof] , 4 out of the top 5 database technologies used by professional developers were relational database management systems. PostgreSQL is an",
+          "link": "https://www.freecodecamp.org/news/manage-postgresql-with-psql/",
+          "publishedOn": "2022-06-07T15:29:11.000Z",
+          "wordCount": 3214,
+          "title": "How to Manage PostgreSQL Databases from the Command Line with psql",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/manage-postgreSQL-with-psql.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/problem-solving-and-technical-interview-prep/",
           "author": "Germán Cocca",
           "description": "Hi everyone! In this article we're going to talk a bit about technical interviews. I'll share a few tips that, based on my experience, might help you go through these interviews successfully. I originally wrote this article more than a year ago, before getting my first job offer as a",
@@ -909,6 +959,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=115635",
+          "author": "Yasemin Saplakoglu",
+          "description": "The lush biodiversity of the Amazon may be due in part to the dynamics of branching rivers, which serve as invisible fences that continuously barricade and merge bird populations.            \nThe post Reshuffled Rivers Bolster the Amazon’s Hyper-Biodiversity first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/reshuffled-rivers-bolster-the-amazons-hyper-biodiversity-20220607/",
+          "publishedOn": "2022-06-07T13:35:59.000Z",
+          "wordCount": 1489,
+          "title": "Reshuffled Rivers Bolster the Amazon’s Hyper-Biodiversity",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/River-Networks_1200_Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=115637",
           "author": "Jordana Cepelewicz",
           "description": "Jared Duker Lichtman, 26, has proved a longstanding conjecture relating prime numbers to a broad class of “primitive” sets. To his adviser, it came as a “complete shock.”             \nThe post Graduate Student’s Side Project Proves Prime Number Conjecture first appeared on Quanta Magazine",
@@ -1097,16 +1157,6 @@
           "wordCount": 3609,
           "title": "Powerful ‘Machine Scientists’ Distill the Laws of Physics From Raw Data",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/05/Machine_Scientist_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=114673",
-          "author": "Yasemin Saplakoglu",
-          "description": "Several projects are aiming to bring back mammoths and other species that have vanished from the planet. Whether that’s technically possible is beside the point.            \nThe post Why ‘De-Extinction’ Is Impossible (But Could Work Anyway) first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/why-de-extinction-is-impossible-but-could-work-anyway-20220509/",
-          "publishedOn": "2022-05-09T13:42:01.000Z",
-          "wordCount": 1808,
-          "title": "Why ‘De-Extinction’ Is Impossible (But Could Work Anyway)",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/05/De-Extinction_520x292.jpg"
         }
       ]
     },
