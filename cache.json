@@ -12,6 +12,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/inline-style-in-html/",
+          "author": "Joel Olawanle",
+          "description": "Cascading Style Sheets (CSS) is a markup language that determines how your web pages will appear. It manages the colors, fonts, and layouts of your website elements, as well as allowing you to add effects or animations to your pages. We can style an HTML file/page in three ways: external",
+          "link": "https://www.freecodecamp.org/news/inline-style-in-html/",
+          "publishedOn": "2022-06-08T21:24:31.000Z",
+          "wordCount": 929,
+          "title": "Inline Style in HTML – CSS Inline Styles",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/error-502-bad-gateway-meaning/",
+          "author": "Kolade Chris",
+          "description": "When you visit a website and you get a “502 Bad Gateway” error, it means there’s an issue with the servers powering the website. On many occasions, this error is an issue with the website itself, so on your end, there’s nothing you can do to solve it. But the",
+          "link": "https://www.freecodecamp.org/news/error-502-bad-gateway-meaning/",
+          "publishedOn": "2022-06-08T20:21:52.000Z",
+          "wordCount": 734,
+          "title": "Error 502 Bad Gateway Meaning",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/502b.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-enumerate-what-is-the-enumerate-function-in-python/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "The enumerate() function in Python takes in a data collection as a parameter and returns an enumerate object.  The enumerate object is returned in a key-value pair format. The key is the corresponding index of each item and the value is the items.  In this article, we'll see",
+          "link": "https://www.freecodecamp.org/news/python-enumerate-what-is-the-enumerate-function-in-python/",
+          "publishedOn": "2022-06-08T19:56:15.000Z",
+          "wordCount": 915,
+          "title": "Python enumerate() – What is the Enumerate Function in Python?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/edge2edge-media-uKlneQRwaxY-unsplash--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-remove-a-directory-in-linux/",
+          "author": "Dillion Megida",
+          "description": "If you're using a user interface, you can right-click on a directory and select \"Delete\" or \"Move to Bin\". But how do you do this on the terminal? I'll explain that in this article. How to Remove a Directory in Linux There are two ways to remove directories in Linux:",
+          "link": "https://www.freecodecamp.org/news/how-to-remove-a-directory-in-linux/",
+          "publishedOn": "2022-06-08T17:11:56.000Z",
+          "wordCount": 1016,
+          "title": "How to Remove a Directory in Linux – Delete a Folder Command",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/delete-folders-command.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-implement-any-ui-in-flutter/",
+          "author": "Obumuneme Nwabude",
+          "description": "In this article, you will learn how to convert any user interface image, piece, or screen into Flutter [https://flutter.dev] code. This is not a tutorial on building an app. It is rather a guide that will help you implement any UI you come across into an app you already have.",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-any-ui-in-flutter/",
+          "publishedOn": "2022-06-08T15:22:36.000Z",
+          "wordCount": 2657,
+          "title": "How to Implement Any UI in Flutter",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/anyuicover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/speech-recognition-in-python/",
+          "author": "Beau Carnes",
+          "description": "Speech recognition allows software to recognize speech within audio and convert it into text. There are many interesting use-cases for speech recognition and it is easier than you may think to add it your own applications. We just published a course on the freeCodeCamp.org YouTube channel that will teach you",
+          "link": "https://www.freecodecamp.org/news/speech-recognition-in-python/",
+          "publishedOn": "2022-06-08T14:10:46.000Z",
+          "wordCount": 576,
+          "title": "Speech Recognition in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/speachai.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-react-components/",
           "author": "Spruce Emmanuel",
           "description": "I wrote the article \"How to Search and Filter Components in React\" exactly one year ago. > If you're building a React app, you want your users to be able to search & get exact results. And if you're getting data from an API, they need to be able to",
@@ -900,56 +960,6 @@
           "wordCount": 2546,
           "title": "Python Path – How to Use the Pathlib Module with Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pathlib-cover-freecodecamp.jpg"
-        },
-        {
-          "id": "6272b9cdc1c601068f4ec497",
-          "author": "TAPAS ADHIKARY",
-          "description": "Git is an open-source distributed version control system. It helps you manage your project files easily using local branching, staging, and workflows.  Many developers use Git today. And they're usually familiar with basic Git concepts like:  * How to initiate a repository.  * How to create branches.",
-          "link": "https://www.freecodecamp.org/news/resolve-merge-conflicts-in-git-a-practical-guide/",
-          "publishedOn": "2022-05-09T23:09:43.000Z",
-          "wordCount": 1899,
-          "title": "How to Resolve Merge Conflicts in Git – A Practical Guide with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/freeCodeCamp-Cover-1.png"
-        },
-        {
-          "id": "62725fadc1c601068f4ebf17",
-          "author": "Ilenia Magoni",
-          "description": "Strings are a fundamental part of working with Python. And the lower() method is one of the many integrated methods that you can use to work with strings. In this article, we'll see how to make strings lowercase with the lower() method in Python. What is a string? A string",
-          "link": "https://www.freecodecamp.org/news/python-lowercase-how-to-use-the-string-lower-function/",
-          "publishedOn": "2022-05-09T22:04:42.000Z",
-          "wordCount": 1080,
-          "title": "Python Lowercase – How to Use the String lower() Function",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-christina-morillo-1181467--1-.jpg"
-        },
-        {
-          "id": "627601655aeb5306e9ee6ab2",
-          "author": "Nishant Kumar",
-          "description": "In this article, we'll build a Google Docs clone using React, Material UI, and Firebase. The final app will look like this: If we click any document, it will open up and we can edit them however we need to. And the most amazing feature is that we can edit",
-          "link": "https://www.freecodecamp.org/news/build-a-google-docs-clone-with-react-and-firebase/",
-          "publishedOn": "2022-05-09T21:16:05.000Z",
-          "wordCount": 4296,
-          "title": "How to Build a Google Docs Clone with React, Material UI, & Firebase",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/How-to-Build-a-Weather-Application-using-React--11-.png"
-        },
-        {
-          "id": "6258683aac55f60686c35075",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we're going to review the main characteristics of object oriented programming (OOP) with practical JavaScript examples. We will talk about OOP main concepts, why and when it can be useful, and I'll give you plenty of examples using JS code.  If you're not familiar",
-          "link": "https://www.freecodecamp.org/news/object-oriented-javascript-for-beginners/",
-          "publishedOn": "2022-05-09T20:36:30.000Z",
-          "wordCount": 4406,
-          "title": "Object-Oriented Programming in JavaScript for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-lukas-317377.jpg"
-        },
-        {
-          "id": "62727994c1c601068f4ec082",
-          "author": "Kolade Chris",
-          "description": "There are many data analytics tools out there, but Microsoft Excel remains a popular go-to for storing and managing data. Since Excel has a lot of functionality built into it, getting familiar with the various keyboard shortcuts will help you work more efficiently. In this article, I’m going to show",
-          "link": "https://www.freecodecamp.org/news/excel-shortcuts-keyboard-shortcuts-for-beginners/",
-          "publishedOn": "2022-05-09T15:24:30.000Z",
-          "wordCount": 1359,
-          "title": "Excel Shortcuts – Keyboard Shortcuts for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/excelShortcuts.png"
         }
       ]
     },
@@ -958,6 +968,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=115736",
+          "author": "Erica Klarreich",
+          "description": "Computer scientists can now solve a decades-old problem in practically the time it takes to write it down.            \nThe post Researchers Achieve ‘Absurdly Fast’ Algorithm for Network Flow first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/researchers-achieve-absurdly-fast-algorithm-for-network-flow-20220608/",
+          "publishedOn": "2022-06-08T14:04:43.000Z",
+          "wordCount": 2437,
+          "title": "Researchers Achieve ‘Absurdly Fast’ Algorithm for Network Flow",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/Maximum-Flows_1200_Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=115635",
           "author": "Yasemin Saplakoglu",
