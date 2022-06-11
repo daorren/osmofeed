@@ -2,10 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-10T01:58:04.084Z</updated>
+    <updated>2022-06-11T01:50:59.606Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Global Variable in Python – Non-Local Python Variables]]></title>
+        <id>https://www.freecodecamp.org/news/global-variable-in-python-non-local-python-variables/</id>
+        <link href="https://www.freecodecamp.org/news/global-variable-in-python-non-local-python-variables/"/>
+        <updated>2022-06-10T21:21:45.000Z</updated>
+        <summary type="html"><![CDATA[In Python and most programming languages, variables declared outside a function are known as global variables. You can access such variables inside and outside of a function, as they have global scope.  Here's an example of a global variable: x = 10  def showX():]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn PHP Syntax, Comments, Variables and Data Types – with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/php-syntax-comments-variables-data-types-with-examples/</id>
+        <link href="https://www.freecodecamp.org/news/php-syntax-comments-variables-data-types-with-examples/"/>
+        <updated>2022-06-10T20:18:35.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to today's tutorial, everyone. In my last article [/news/how-to-get-started-with-php/], I walked you through what PHP is and how to get it set up along with XAMPP.  And today, we'll review those introductory PHP concepts and then dive into the language a bit more in depth. We'll look at]]></summary>
+        <author>
+            <name>Okoro Emmanuel Nzube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Front End Developer – Front End Web Dev Skills]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/"/>
+        <updated>2022-06-10T20:16:06.000Z</updated>
+        <summary type="html"><![CDATA[Some of the highest-paid professionals in the world are front-end developers. They use their knowledge and talents to design appealing and user-friendly websites. Front-end developers do not need a degree or a school certificate to work. Rather, they must understand the fundamentals of front-end development, programming languages, and front-end development]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statistics for Beginners – Top Stats Concepts to Know Before Getting into Data Science]]></title>
+        <id>https://www.freecodecamp.org/news/top-statistics-concepts-to-know-before-getting-into-data-science/</id>
+        <link href="https://www.freecodecamp.org/news/top-statistics-concepts-to-know-before-getting-into-data-science/"/>
+        <updated>2022-06-10T16:33:29.000Z</updated>
+        <summary type="html"><![CDATA[You've probably heard that statistics is the gateway to data science and that the data science map starts with stats. Perhaps you've also heard from others that you have to learn statistics before learning data science.  But then you ponder, "Since I'm not from a technical background like science, technology,]]></summary>
+        <author>
+            <name>Ibrahim Abayomi Ogunbiyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Screenshot on Windows – Take a Screen Shot on PC]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-screenshot-on-windows-take-a-screen-shot-on-pc/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-screenshot-on-windows-take-a-screen-shot-on-pc/"/>
+        <updated>2022-06-10T15:01:34.000Z</updated>
+        <summary type="html"><![CDATA[Just like you can take screenshots on your phone, you can also do the same on your Windows computer. Whether you want to take a screenshot of a particular part of your screen or you want to take a screenshot of the whole screen, there are tools and keyboard combinations]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The star of the Go]]></title>
+        <id>https://golangweekly.com/issues/415</id>
+        <link href="https://golangweekly.com/issues/415"/>
+        <updated>2022-06-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#​415 — June 10, 2022
+
+
+Unsubscribe  |  Read on the Web
+
+
+
+The Go Weekly Newsletter
+
+
+
+
+  
+
+
+
+
+
+Go has passed 100,000 stars on GitHub. There was no obvious top feature this week, so what better way to celebrate than to mark the (arguably quite arbitrary) milestone of Go passing into the six figure GitHub stars club? I mean, it's twice as many as Ruby on Rails has, and GitHub was built with that.. :-)
+
+
+
+
+
+  
+  
+Data Race Patterns in Go — Uber's engineers analyzed over 1,100 data races and found that it’s much easier than you might think to introduce them in Go "due to certain language design choices." This post breaks down seven of the most common reasons – your code probably engages in one of them too.
+Chabbi and Ramanathan (Uber) 
+
+
+  
+  
+Ebiten, the 2D Game Library for Go, Becomes Ebite…]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Higher Order Functions in JavaScript – Beginner's Guide]]></title>
         <id>https://www.freecodecamp.org/news/higher-order-functions-in-javascript/</id>
@@ -1487,67 +1579,6 @@ Cameron Balahan and Cody Oss …]]></summary>
         <summary type="html"><![CDATA[Microsoft Excel lets you use formulas and functions to perform basic and advanced numerical calculations. You can do addition, subtraction, multiplication, division, mean, worke with strings, and many others. In Excel, the difference between a formula and a function is that a function is a predefined calculation while a formula]]></summary>
         <author>
             <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Hole Image Reveals the Beast Inside the Milky Way’s Heart]]></title>
-        <id>https://www.quantamagazine.org/?p=114829</id>
-        <link href="https://www.quantamagazine.org/black-hole-image-reveals-sagittarius-a-20220512/"/>
-        <updated>2022-05-12T13:28:31.000Z</updated>
-        <summary type="html"><![CDATA[In 2019, the Event Horizon Telescope released a historic image of a supermassive black hole in another galaxy. The follow-up — an image of Sagittarius A* — shows it shimmering at the center of our own.            
-The post Black Hole Image Reveals the Beast Inside the Milky Way’s Heart first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Jonathan O'Callaghan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python split() – String Splitting Example]]></title>
-        <id>https://www.freecodecamp.org/news/python-split-string-splitting-example/</id>
-        <link href="https://www.freecodecamp.org/news/python-split-string-splitting-example/"/>
-        <updated>2022-05-11T23:12:18.000Z</updated>
-        <summary type="html"><![CDATA[The split() method in Python splits characters in a string into separate items in a list.  In this tutorial, we'll go over some examples to help you learn how to use the  split() method. We'll start from the syntax and then see how we can modify the list]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Modules – Complete Guide to ES Modules and Module Bundlers]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-es-modules-and-module-bundlers/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-es-modules-and-module-bundlers/"/>
-        <updated>2022-05-11T23:06:42.000Z</updated>
-        <summary type="html"><![CDATA[Modules and Module Bundlers are essential components of modern web development. But understanding how they work can quickly become overwhelming. This article will show you all you need to know about ES Modules and Module Bundlers in plain English. Table of Contents  1.  What Exactly Is a JavaScript]]></summary>
-        <author>
-            <name>Oluwatobi Sofela</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technology Trends in 2022 – Keeping Up [Full Book for Managers]]]></title>
-        <id>https://www.freecodecamp.org/news/technology-trends-in-2022-keeping-up-full-book-for-managers/</id>
-        <link href="https://www.freecodecamp.org/news/technology-trends-in-2022-keeping-up-full-book-for-managers/"/>
-        <updated>2022-05-11T23:06:08.000Z</updated>
-        <summary type="html"><![CDATA[This post is based on my recently published book, Keeping Up, a quick and accessible guide to the current state of the tech industry and the big trends you can't afford to ignore.  In it, we'll cover everything from digital security, privacy, serverless platforms, the internet of things (IoT),]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detecting ANRs in Your Application]]></title>
-        <id>https://www.freecodecamp.org/news/detect-application-not-responding-errors-in-your-application/</id>
-        <link href="https://www.freecodecamp.org/news/detect-application-not-responding-errors-in-your-application/"/>
-        <updated>2022-05-11T15:48:14.000Z</updated>
-        <summary type="html"><![CDATA[If there was a way to make my applications "Application not responding" error proof, I would do it.  ANRs always seem to sneak up on you when you're not expecting them. And the problem is that there's nothing you can do about them.  You might see them pop]]></summary>
-        <author>
-            <name>Tomer Ben Rachel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a Social Media App with Django]]></title>
-        <id>https://www.freecodecamp.org/news/create-a-social-media-app-with-django/</id>
-        <link href="https://www.freecodecamp.org/news/create-a-social-media-app-with-django/"/>
-        <updated>2022-05-11T14:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Django is a high-level Python web framework that enables rapid development of secure and maintainable websites. We just published a 5-hour course on the freeCodeCamp.org YouTube channel that will help you improve your Django skills by building a social media application.  Tomi Tokko teaches this course. He has created]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
