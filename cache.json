@@ -950,56 +950,6 @@
           "wordCount": 1599,
           "title": "How to Use Apache Airflow to Schedule and Manage Workflows",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/My-project--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/building-a-wordle-game/",
-          "author": "Tantoluwa Heritage Alabi",
-          "description": "Python",
-          "link": "https://www.freecodecamp.org/news/building-a-wordle-game/",
-          "publishedOn": "2022-05-12T21:24:00.000Z",
-          "wordCount": 1949,
-          "title": "How to Build a Wordle Clone with Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-suzy-hazelwood-1822568.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/concatenate-in-excel-how-to-use-the-concat-function/",
-          "author": "Ilenia Magoni",
-          "description": "Excel has many useful functions that you can use to work with your data. In this guide you will learn about the CONCAT function and how to use it. Concatenation just means to join two things together. And in Excel, you can use the CONCAT function to join data from",
-          "link": "https://www.freecodecamp.org/news/concatenate-in-excel-how-to-use-the-concat-function/",
-          "publishedOn": "2022-05-12T19:26:13.000Z",
-          "wordCount": 1458,
-          "title": "Concatenate in Excel – How to Use the Concat Function",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-yan-krukov-7693224.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-global-variables-examples/",
-          "author": "Dionysia Lemonaki",
-          "description": "In this article, you will learn the basics of global variables. To begin with, you will learn how to declare variables in Python and what the term 'variable scope' actually means. Then, you will learn the differences between local and global variables and understand how to define global variables and",
-          "link": "https://www.freecodecamp.org/news/python-global-variables-examples/",
-          "publishedOn": "2022-05-12T18:46:34.000Z",
-          "wordCount": 1849,
-          "title": "Python Global Variables – How to Define a Global Variable Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/fernando-cferdophotography-tNDYN8jWyfM-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/self-driving-car-javascript/",
-          "author": "Beau Carnes",
-          "description": "\"Any application that can be written in JavaScript, will eventually be written in JavaScript.\" – Jeff Atwood It's time for you to create a self-driving car using JavaScript! We just published a course on the freeCodeCamp.org YouTube channel that will help you learn about neural networks by teaching you how",
-          "link": "https://www.freecodecamp.org/news/self-driving-car-javascript/",
-          "publishedOn": "2022-05-12T16:29:42.000Z",
-          "wordCount": 544,
-          "title": "Learn Neural Networks by Building a Self-Driving Car Sim Using JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/NN.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/excel-formulas-for-beginners/",
-          "author": "Kolade Chris",
-          "description": "Microsoft Excel lets you use formulas and functions to perform basic and advanced numerical calculations. You can do addition, subtraction, multiplication, division, mean, worke with strings, and many others. In Excel, the difference between a formula and a function is that a function is a predefined calculation while a formula",
-          "link": "https://www.freecodecamp.org/news/excel-formulas-for-beginners/",
-          "publishedOn": "2022-05-12T15:44:00.000Z",
-          "wordCount": 1092,
-          "title": "Excel Formulas – Basic Functions for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/einstein-153422_1280.png"
         }
       ]
     },
@@ -1206,6 +1156,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "62a0c65050eccb22d9895eb4",
+          "author": "Assaf Arkin",
+          "description": "This week we get schooled by ML, find new uses for iDevices, go fishing for bees, and can you get these dishes unstuck?",
+          "link": "https://labnotes.org/weekend-reading-if-bees-are-fish/",
+          "publishedOn": "2022-06-12T00:11:22.000Z",
+          "wordCount": 897,
+          "title": "Weekend Reading — 🐝 If bees are fish …",
+          "imageUrl": "https://labnotes.org/content/images/2022/06/FUhNEYyXEAYXdR_.jpeg"
+        },
+        {
           "id": "6292ba8418f2762794c295b2",
           "author": "Assaf Arkin",
           "description": "This week we learn the DALLE language, discover infinite disk space, and bring flexbox to 1986.",
@@ -1357,16 +1317,6 @@
           "publishedOn": "2022-05-20T00:00:00.000Z",
           "wordCount": 858,
           "title": "An arrow style function experiment for Go",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/411",
-          "author": null,
-          "description": "🇺🇦 #​411 — May 13, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nChanging One Character Wildly Improved Segment's App Performance — In terms of value per keypress, you can’t beat this, surely. Segment’s engineers noticed some sluggishness in a Go-powered system, used pprof to see what was going on, and discovered a tiny change to a sorting comparison function would pay huge dividends.\nKevin Burke (Segment) \n\n\n  \n  \n▶  How to Refactor Cloud Apps in Go 1.18 with Generics — A 20-minute talk from this week’s Google I/O event by two Googlers that introduces Go 1.18’s generics feature, how they differ to other implementations, why to use them, plus a practical demo of refactoring a Go 1.16 app. Easy to follow – a good primer.\nCameron Balahan and Cody Oss …",
-          "link": "https://golangweekly.com/issues/411",
-          "publishedOn": "2022-05-13T00:00:00.000Z",
-          "wordCount": 962,
-          "title": "Using go run to manage tool dependencies",
           "imageUrl": null
         }
       ]
