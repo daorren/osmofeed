@@ -920,36 +920,6 @@
           "wordCount": 8125,
           "title": "How to Build a Full-Stack Single Page Application with Laravel 9, MySQL, Vue.js, Inertia, Jetstream and Docker",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/EP__3__LiveCoding.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-reduce-reduceright-works-javascript/",
-          "author": "Ashutosh Biswas",
-          "description": "reduce and reduceRight are two built-in JavaScript array methods that have a bit of a steep learning curve.  But the very essence of these methods are as simple as the following arithmetic computations. Suppose we have an array of numbers: [1, 2, 3, 4] And we want to get",
-          "link": "https://www.freecodecamp.org/news/how-reduce-reduceright-works-javascript/",
-          "publishedOn": "2022-05-13T16:10:35.000Z",
-          "wordCount": 1672,
-          "title": "How the JavaScript reduce and reduceRight Methods Work",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/reduce-cover-with-title-3.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/github-discussions-as-chat-system/",
-          "author": "Rakesh Potnuru",
-          "description": "If you have a personal blog, you might be using a comment system to manage your blog's discussions and comments. If so, it's time to think about updating your comment system.  You can take your blog's comments to the next level with the help of GitHub Discussions. In this",
-          "link": "https://www.freecodecamp.org/news/github-discussions-as-chat-system/",
-          "publishedOn": "2022-05-13T15:48:14.000Z",
-          "wordCount": 949,
-          "title": "How to Use GitHub Discussions as Your Blog's Chat System",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/GitHub-Discussions-as-chat-system-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-apache-airflow-to-manage-workflows/",
-          "author": "Sameer Shukla",
-          "description": "Apache Airflow is an open-source workflow management system that makes it easy to write, schedule, and monitor workflows. A workflow as a sequence of operations, from start to finish. The workflows in Airflow are authored as Directed Acyclic Graphs (DAG) using standard Python programming.  You can configure when a",
-          "link": "https://www.freecodecamp.org/news/how-to-use-apache-airflow-to-manage-workflows/",
-          "publishedOn": "2022-05-13T15:11:17.000Z",
-          "wordCount": 1599,
-          "title": "How to Use Apache Airflow to Schedule and Manage Workflows",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/My-project--1-.jpg"
         }
       ]
     },
@@ -1212,6 +1182,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/fetch-supports-a-keepalive-option-to-make-it-outlive-page-navigations/",
+          "author": null,
+          "description": "This site uses Umami as a self-hosted and privacy-first analytics tool. An item in Umami's changelog caught my eye – \"Update tracker/index.js: SendBeacon() to Fetch API\".\nsendBeacon is a JavaScript method to send requests to an analytics server. These requests are supposed to be async, not be canceled and outlive the current navigation. But apparently, sendBeacon is sometimes blocked by ad blockers.\nThat's not a big deal, though, because today I learned I can drop sendBeacon from my memory entirely and use the fetch method with a keepalive option. 👇\nfetch(`${root}/api/collect`, {\n  method: 'POST',\n  body: data,\n  // note the `keepalive` option\n  keepalive: true,\n});\n\nfetch with a keepalive option has the same characteristics as sendBeacon and acts as its replacement. This is good to know!\nDon't confuse the keepalive fetch attribute with the Keep-Alive HTTP header.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/fetch-supports-a-keepalive-option-to-make-it-outlive-page-navigations/",
+          "publishedOn": "2022-06-11T22:00:00.000Z",
+          "wordCount": 384,
+          "title": "\"fetch\" supports a \"keepAlive\" option to make it outlive page navigations (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:%22fetch%22%20supports%20a%20%22keepAlive%22%20option%20to%20make%20it%20outlive%20page%20navigations/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/today-i-learned/firefox-devtools-provide-a-multiline-javascript-console/",
           "author": null,
