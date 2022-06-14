@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-13T02:04:10.638Z</updated>
+    <updated>2022-06-14T02:06:56.523Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Computer Scientist Who Parlays Failures Into Breakthroughs]]></title>
+        <id>https://www.quantamagazine.org/?p=115826</id>
+        <link href="https://www.quantamagazine.org/the-computer-scientist-who-parlays-failures-into-breakthroughs-20220613/"/>
+        <updated>2022-06-13T14:31:55.000Z</updated>
+        <summary type="html"><![CDATA[Daniel Spielman solves important problems by thinking hard — about other questions.             
+The post The Computer Scientist Who Parlays Failures Into Breakthroughs first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Mordechai Rorvig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If Statement in C – How to use If-Else Statements in the C Programming Language]]></title>
+        <id>https://www.freecodecamp.org/news/if-statement-in-c-how-to-use-if-else-statements-in-the-c-programming-language/</id>
+        <link href="https://www.freecodecamp.org/news/if-statement-in-c-how-to-use-if-else-statements-in-the-c-programming-language/"/>
+        <updated>2022-06-13T13:47:00.000Z</updated>
+        <summary type="html"><![CDATA[In the C programming language, you have the ability to control the flow of a program. In particular, the program is able to make decisions on what it should do next. And those decisions are based on the state of certain pre-defined conditions you set. The program will decide what]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #68 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-68/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-68/"/>
+        <updated>2022-06-12T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Buna ziua, friends!
+
+In preparation for my new talk "Back to boring" I looked at the Open UI project whose goal is to standardize more UI components.
+The idea is simple. If there are components that are included and reinvented in every design system out there, shouldn't these components become HTML elements? Big yes from my side!
+And there are good things in the making:
+selectmenu will enable us to build styleable select controls finally.
+popup will help to show and hide elements on click or keyboard navigation.
+focusgroup will make custom controls more accessible.
+I can't wait until I can build accessible components like the one below without JavaScript.
+The project's still in the early stages, but I'm 100% convinced we need more high-level HTML components. The web evolved, and if 95% of …]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — 🐝 If bees are fish …]]></title>
         <id>62a0c65050eccb22d9895eb4</id>
@@ -90,6 +130,16 @@ Don't confuse the keepalive fetch attribute with the Keep-Alive HTTP header.
         <summary type="html"><![CDATA[Just like you can take screenshots on your phone, you can also do the same on your Windows computer. Whether you want to take a screenshot of a particular part of your screen or you want to take a screenshot of the whole screen, there are tools and keyboard combinations]]></summary>
         <author>
             <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Extract Pages from a PDF and Render Them with JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/extract-pdf-pages-render-with-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/extract-pdf-pages-render-with-javascript/"/>
+        <updated>2022-06-10T03:16:00.000Z</updated>
+        <summary type="html"><![CDATA[PDF stands for portable document format. PDFs were designed by Adobe in the 90s for Windows. They are self-contained documents with support for nearly all major operating systems.  But sometimes you'll need to modify a PDF to suit your needs and not just view it. Unfortunately, the available software]]></summary>
+        <author>
+            <name>Hrishikesh Pathak</name>
         </author>
     </entry>
     <entry>
