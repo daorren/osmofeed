@@ -12,6 +12,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you want to improve your analytical skills, there's no better way to do that than solving problems. If you are a programmer, then this is something you should do for yourself. Programmers need to deal with all sorts of problems almost every day. Most importantly, solving problems in an",
+          "link": "https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/",
+          "publishedOn": "2022-06-15T22:23:18.000Z",
+          "wordCount": 3988,
+          "title": "The Most Popular Coding Challenge Websites",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/fCC-Banner.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/help-translate-freecodecamp-language/",
+          "author": "Quincy Larson",
+          "description": "The freeCodeCamp community has been hard at work translating our 9,000+ tutorials into many world languages. Quality is everything. So instead of relying on machine translation, we are doing this entire process by hand. Dozens of native speakers are collaborating to make these free learning resources accessible to more people",
+          "link": "https://www.freecodecamp.org/news/help-translate-freecodecamp-language/",
+          "publishedOn": "2022-06-15T16:55:35.000Z",
+          "wordCount": 696,
+          "title": "How to Help Translate freeCodeCamp into Your Native Language",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/farzad-mohsenvand-pKhfJme9mP0-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/crud-operations-explained/",
+          "author": "Kolade Chris",
+          "description": "Despite being commonly pronounced /krʌd/, CRUD is not a word. It’s an abbreviation that stands for Create, Read, Update, and Delete or Destroy. In this article, I will show you what CRUD means, and what the individual terms mean and do. I will also show you how create, read, update,",
+          "link": "https://www.freecodecamp.org/news/crud-operations-explained/",
+          "publishedOn": "2022-06-15T16:51:42.000Z",
+          "wordCount": 1084,
+          "title": "CRUD Operations – What is CRUD?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/crud.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/text-classification-tensorflow/",
+          "author": "Beau Carnes",
+          "description": "Text classification algorithms are used in a lot of different software systems to help process text data. For example, when you get an email, the email software uses a text classification algorithm to decide whether to put it in your inbox or in your spam folder. It's also how discussion",
+          "link": "https://www.freecodecamp.org/news/text-classification-tensorflow/",
+          "publishedOn": "2022-06-15T14:01:18.000Z",
+          "wordCount": 542,
+          "title": "Text Classification with TensorFlow",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/classification.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/java-sort-array-how-to-reverse-an-array-in-ascending-or-descending-order-with-arrays-sort-2/",
           "author": "Ihechikara Vincent Abba",
           "description": "In Java, you use arrays to store a collection of variables (with the same data type) in a single variable.  In many cases, the values stored in an array appear in a random order. Using the  Arrays class in Java, you have access to various methods you can",
@@ -890,86 +930,6 @@
           "wordCount": 1424,
           "title": "Break in Python – Nested For Loop Break if Condition Met Example",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/henry-co-1qlMnKfql5c-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-promise-methods/",
-          "author": "Dillion Megida",
-          "description": "A promise is an object in JavaScript that will produce a value sometime in the future. This usually applies to asynchronous operations. In applications, asynchronous operations happen a lot. This can be API requests, delayed data processing, and much more. Instead of having to block code execution until the data",
-          "link": "https://www.freecodecamp.org/news/javascript-promise-methods/",
-          "publishedOn": "2022-05-16T18:30:06.000Z",
-          "wordCount": 957,
-          "title": "JavaScript Promises – The promise.then, promise.catch and promise.finally Methods Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-pixabay-532414.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-an-array-in-javascript/",
-          "author": "Jessica Wilkins",
-          "description": "An array is a type of data structure where you can store an ordered list of elements.  In this article, I will show you 3 ways you can create an array using JavaScript.  I will also show you how to create an array from a string using the",
-          "link": "https://www.freecodecamp.org/news/how-to-create-an-array-in-javascript/",
-          "publishedOn": "2022-05-16T18:17:35.000Z",
-          "wordCount": 1071,
-          "title": "JavaScript Arrays - How to Create an Array in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/jexo-73REk-BB7-Y-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/entry-level-tech-job-guide/",
-          "author": "Zaira Hira",
-          "description": "Entry-level jobs hire people with little or no experience in that job. There are plenty of entry-level tech jobs on the market these days because of the ever-growing demand for technology-savvy workers.  There are many reasons to join the tech industry such as competitive salaries, promising career paths, and",
-          "link": "https://www.freecodecamp.org/news/entry-level-tech-job-guide/",
-          "publishedOn": "2022-05-16T17:51:58.000Z",
-          "wordCount": 2151,
-          "title": "Entry-Level Tech Jobs – Beginner IT Jobs with No Experience Required",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Copy-of-guided-exercise.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/excel-absolute-reference-cell-referencing-example/",
-          "author": "Kolade Chris",
-          "description": "In Excel, you can use both absolute and relative cell referencing to make calculations. Relative referencing is the default. So, for example, whenever you extend a formula down some cells, the cells change based on the relationships of the rows and columns. What if you want each cell to lock",
-          "link": "https://www.freecodecamp.org/news/excel-absolute-reference-cell-referencing-example/",
-          "publishedOn": "2022-05-16T17:29:50.000Z",
-          "wordCount": 782,
-          "title": "Excel Absolute Reference – Cell Referencing Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/spreadsheets-24956_1280.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we're going to take a look at a key topic when it comes to computer science and software development: data structures. It's definitely a must know topic for anyone working in the software development world, but it can be hard to understand and even a",
-          "link": "https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/",
-          "publishedOn": "2022-05-16T17:16:52.000Z",
-          "wordCount": 5913,
-          "title": "Data Structures in JavaScript – With Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-clem-onojeghuo-175771.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-become-a-quality-assurance-engineer-qa-engineer-career-guide/",
-          "author": "Jessica Wilkins",
-          "description": "A Quality Assurance (QA) Engineer is someone who tests software products throughout the whole development process. They ensure that the product meets high quality standards before releasing it to the public. But how do you become a QA Engineer? In this article, I will talk about the qualifications and process",
-          "link": "https://www.freecodecamp.org/news/how-to-become-a-quality-assurance-engineer-qa-engineer-career-guide/",
-          "publishedOn": "2022-05-16T15:33:12.000Z",
-          "wordCount": 1113,
-          "title": "How to Become a Quality Assurance Engineer – QA Engineer Career Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/thisisengineering-raeng-1oYSrlQrpY4-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-backup-hashnode-articles-to-github/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "Many developers have a personal blog on Hashnode [https://hashnode.com/], one of the most popular blogging communities for people exploring tech.  I also write on Hashnode, but recently I was thinking about whether there is any way to backup my published articles to GitHub. Fortunately, I have found an easy",
-          "link": "https://www.freecodecamp.org/news/how-to-backup-hashnode-articles-to-github/",
-          "publishedOn": "2022-05-16T15:21:57.000Z",
-          "wordCount": 1013,
-          "title": "How to Backup Your Hashnode Articles to GitHub",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/gradient-color-Modern-Music-Playlist-YouTube-Thumbnail.gif"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/should-i-be-a-developer-programmer/",
-          "author": "Luke Ciciliano",
-          "description": "Few things are as important as picking your career path. And consequently, fewer decisions are harder to make.  It is, after all, hard to know whether or not you’ll like something that you’ve never done. If you choose a career path based on the wrong reasons, you might end",
-          "link": "https://www.freecodecamp.org/news/should-i-be-a-developer-programmer/",
-          "publishedOn": "2022-05-16T15:03:48.000Z",
-          "wordCount": 4644,
-          "title": "Should I Be A Developer? How to Pick a Career as a Programmer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/career-choices-1.jpeg"
         }
       ]
     },
@@ -978,6 +938,26 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=115982",
+          "author": "Steven Strogatz",
+          "description": "Without a good definition of life, how do we look for it on alien planets? Steven Strogatz speaks with Robert Hazen, a mineralogist and astrobiologist, and Sheref Mansy, a chemist, to learn more.            \nThe post What Is Life? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/what-is-life-20220615/",
+          "publishedOn": "2022-06-15T19:55:50.000Z",
+          "wordCount": 8161,
+          "title": "What Is Life?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=115932",
+          "author": "Ben Brubaker",
+          "description": "Physicists have solved a key problem of robotic locomotion by revising the usual rules of interaction between simple component parts.            \nThe post Wheel Made of ‘Odd Matter’ Spontaneously Rolls Uphill first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/wheel-made-of-odd-matter-spontaneously-rolls-uphill-20220615/",
+          "publishedOn": "2022-06-15T14:24:58.000Z",
+          "wordCount": 2311,
+          "title": "Wheel Made of ‘Odd Matter’ Spontaneously Rolls Uphill",
+          "imageUrl": null
+        },
         {
           "id": "https://www.quantamagazine.org/?p=115884",
           "author": "Allison Whitten",

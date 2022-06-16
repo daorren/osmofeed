@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-15T02:03:40.638Z</updated>
+    <updated>2022-06-16T01:54:32.959Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Most Popular Coding Challenge Websites]]></title>
+        <id>https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/</id>
+        <link href="https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/"/>
+        <updated>2022-06-15T22:23:18.000Z</updated>
+        <summary type="html"><![CDATA[If you want to improve your analytical skills, there's no better way to do that than solving problems. If you are a programmer, then this is something you should do for yourself. Programmers need to deal with all sorts of problems almost every day. Most importantly, solving problems in an]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Life?]]></title>
+        <id>https://www.quantamagazine.org/?p=115982</id>
+        <link href="https://www.quantamagazine.org/what-is-life-20220615/"/>
+        <updated>2022-06-15T19:55:50.000Z</updated>
+        <summary type="html"><![CDATA[Without a good definition of life, how do we look for it on alien planets? Steven Strogatz speaks with Robert Hazen, a mineralogist and astrobiologist, and Sheref Mansy, a chemist, to learn more.            
+The post What Is Life? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steven Strogatz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Help Translate freeCodeCamp into Your Native Language]]></title>
+        <id>https://www.freecodecamp.org/news/help-translate-freecodecamp-language/</id>
+        <link href="https://www.freecodecamp.org/news/help-translate-freecodecamp-language/"/>
+        <updated>2022-06-15T16:55:35.000Z</updated>
+        <summary type="html"><![CDATA[The freeCodeCamp community has been hard at work translating our 9,000+ tutorials into many world languages. Quality is everything. So instead of relying on machine translation, we are doing this entire process by hand. Dozens of native speakers are collaborating to make these free learning resources accessible to more people]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRUD Operations – What is CRUD?]]></title>
+        <id>https://www.freecodecamp.org/news/crud-operations-explained/</id>
+        <link href="https://www.freecodecamp.org/news/crud-operations-explained/"/>
+        <updated>2022-06-15T16:51:42.000Z</updated>
+        <summary type="html"><![CDATA[Despite being commonly pronounced /krʌd/, CRUD is not a word. It’s an abbreviation that stands for Create, Read, Update, and Delete or Destroy. In this article, I will show you what CRUD means, and what the individual terms mean and do. I will also show you how create, read, update,]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wheel Made of ‘Odd Matter’ Spontaneously Rolls Uphill]]></title>
+        <id>https://www.quantamagazine.org/?p=115932</id>
+        <link href="https://www.quantamagazine.org/wheel-made-of-odd-matter-spontaneously-rolls-uphill-20220615/"/>
+        <updated>2022-06-15T14:24:58.000Z</updated>
+        <summary type="html"><![CDATA[Physicists have solved a key problem of robotic locomotion by revising the usual rules of interaction between simple component parts.            
+The post Wheel Made of ‘Odd Matter’ Spontaneously Rolls Uphill first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Ben Brubaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Text Classification with TensorFlow]]></title>
+        <id>https://www.freecodecamp.org/news/text-classification-tensorflow/</id>
+        <link href="https://www.freecodecamp.org/news/text-classification-tensorflow/"/>
+        <updated>2022-06-15T14:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Text classification algorithms are used in a lot of different software systems to help process text data. For example, when you get an email, the email software uses a text classification algorithm to decide whether to put it in your inbox or in your spam folder. It's also how discussion]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Java Sort Array – How to Reverse an Array in Ascending or Descending Order with Arrays.sort()]]></title>
         <id>https://www.freecodecamp.org/news/java-sort-array-how-to-reverse-an-array-in-ascending-or-descending-order-with-arrays-sort-2/</id>
@@ -1488,86 +1550,6 @@ The post How Complex Is a Knot? New Proof Reveals Ranking System That Works firs
 The post How to Write Software With Mathematical Perfection first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Sheon Han</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Promises – The promise.then, promise.catch and promise.finally Methods Explained]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-promise-methods/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-promise-methods/"/>
-        <updated>2022-05-16T18:30:06.000Z</updated>
-        <summary type="html"><![CDATA[A promise is an object in JavaScript that will produce a value sometime in the future. This usually applies to asynchronous operations. In applications, asynchronous operations happen a lot. This can be API requests, delayed data processing, and much more. Instead of having to block code execution until the data]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Arrays - How to Create an Array in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-an-array-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-an-array-in-javascript/"/>
-        <updated>2022-05-16T18:17:35.000Z</updated>
-        <summary type="html"><![CDATA[An array is a type of data structure where you can store an ordered list of elements.  In this article, I will show you 3 ways you can create an array using JavaScript.  I will also show you how to create an array from a string using the]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entry-Level Tech Jobs – Beginner IT Jobs with No Experience Required]]></title>
-        <id>https://www.freecodecamp.org/news/entry-level-tech-job-guide/</id>
-        <link href="https://www.freecodecamp.org/news/entry-level-tech-job-guide/"/>
-        <updated>2022-05-16T17:51:58.000Z</updated>
-        <summary type="html"><![CDATA[Entry-level jobs hire people with little or no experience in that job. There are plenty of entry-level tech jobs on the market these days because of the ever-growing demand for technology-savvy workers.  There are many reasons to join the tech industry such as competitive salaries, promising career paths, and]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excel Absolute Reference – Cell Referencing Example]]></title>
-        <id>https://www.freecodecamp.org/news/excel-absolute-reference-cell-referencing-example/</id>
-        <link href="https://www.freecodecamp.org/news/excel-absolute-reference-cell-referencing-example/"/>
-        <updated>2022-05-16T17:29:50.000Z</updated>
-        <summary type="html"><![CDATA[In Excel, you can use both absolute and relative cell referencing to make calculations. Relative referencing is the default. So, for example, whenever you extend a formula down some cells, the cells change based on the relationships of the rows and columns. What if you want each cell to lock]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Structures in JavaScript – With Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/</id>
-        <link href="https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/"/>
-        <updated>2022-05-16T17:16:52.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! In this article we're going to take a look at a key topic when it comes to computer science and software development: data structures. It's definitely a must know topic for anyone working in the software development world, but it can be hard to understand and even a]]></summary>
-        <author>
-            <name>Germán Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Become a Quality Assurance Engineer – QA Engineer Career Guide]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-become-a-quality-assurance-engineer-qa-engineer-career-guide/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-become-a-quality-assurance-engineer-qa-engineer-career-guide/"/>
-        <updated>2022-05-16T15:33:12.000Z</updated>
-        <summary type="html"><![CDATA[A Quality Assurance (QA) Engineer is someone who tests software products throughout the whole development process. They ensure that the product meets high quality standards before releasing it to the public. But how do you become a QA Engineer? In this article, I will talk about the qualifications and process]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Backup Your Hashnode Articles to GitHub]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-backup-hashnode-articles-to-github/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-backup-hashnode-articles-to-github/"/>
-        <updated>2022-05-16T15:21:57.000Z</updated>
-        <summary type="html"><![CDATA[Many developers have a personal blog on Hashnode [https://hashnode.com/], one of the most popular blogging communities for people exploring tech.  I also write on Hashnode, but recently I was thinking about whether there is any way to backup my published articles to GitHub. Fortunately, I have found an easy]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should I Be A Developer? How to Pick a Career as a Programmer]]></title>
-        <id>https://www.freecodecamp.org/news/should-i-be-a-developer-programmer/</id>
-        <link href="https://www.freecodecamp.org/news/should-i-be-a-developer-programmer/"/>
-        <updated>2022-05-16T15:03:48.000Z</updated>
-        <summary type="html"><![CDATA[Few things are as important as picking your career path. And consequently, fewer decisions are harder to make.  It is, after all, hard to know whether or not you’ll like something that you’ve never done. If you choose a career path based on the wrong reasons, you might end]]></summary>
-        <author>
-            <name>Luke Ciciliano</name>
         </author>
     </entry>
 </feed>
