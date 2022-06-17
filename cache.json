@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/querying-like-an-sql-boss-in-google-sheets/",
+          "author": "Eamonn Cottrell",
+          "description": "I built a spreadsheet and wanted to display some of the data in a small table which would update based on the day of the week. After some digging, querying seemed the best option to pull this off. In this article, you'll learn several things about Google Sheets tables, functions,",
+          "link": "https://www.freecodecamp.org/news/querying-like-an-sql-boss-in-google-sheets/",
+          "publishedOn": "2022-06-16T16:32:35.000Z",
+          "wordCount": 1099,
+          "title": "How to Query Data in Google Spreadsheets",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/querying-2.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/parking-lot-challenge-solved-in-javascript/",
+          "author": "Mihail Gaberov",
+          "description": "Have you heard about the Parking Lot challenge? If not, let me explain briefly. The Parking Lot is challenge where you are asked to write a class that manages an imaginary parking lot.  In this tutorial we will do that in JavaScript. And to make it a bit more",
+          "link": "https://www.freecodecamp.org/news/parking-lot-challenge-solved-in-javascript/",
+          "publishedOn": "2022-06-16T14:55:53.000Z",
+          "wordCount": 1996,
+          "title": "How to Solve the Parking Lot Challenge in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/parking-loot.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-foreach-js-array-for-each-example/",
+          "author": "Joel Olawanle",
+          "description": "When working with arrays, there will be times when you need to loop or iterate through the array's values in order to either output or manipulate them.  These arrays can hold any datatype, including objects, numbers, strings, and many others. In this article, we'll look at how you can",
+          "link": "https://www.freecodecamp.org/news/javascript-foreach-js-array-for-each-example/",
+          "publishedOn": "2022-06-16T14:52:20.000Z",
+          "wordCount": 1782,
+          "title": "JavaScript forEach() – JS Array For Each Loop Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/",
           "author": "Md. Fahim Bin Amin",
           "description": "If you want to improve your analytical skills, there's no better way to do that than solving problems. If you are a programmer, then this is something you should do for yourself. Programmers need to deal with all sorts of problems almost every day. Most importantly, solving problems in an",
@@ -900,36 +930,6 @@
           "wordCount": 1014,
           "title": "CSS Functions – How to Use calc(), max(), min(), and clamp()",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-katerina-holmes-5905965.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-improve-sql-server-performance/",
-          "author": "Beau Carnes",
-          "description": "SQL server performance can be tricky. But there are a lot of things you can do to increase the speed of your queries. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to improve performance on SQL Server. Rajan Arora developed this course. Rajan",
-          "link": "https://www.freecodecamp.org/news/how-to-improve-sql-server-performance/",
-          "publishedOn": "2022-05-17T17:49:37.000Z",
-          "wordCount": 798,
-          "title": "How to Improve SQL Server Performance",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/sqlserver.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/axios-react-how-to-make-get-post-and-delete-api-requests/",
-          "author": "Joel Olawanle",
-          "description": "Axios [https://axios-http.com/] is an HTTP client library based on promises. It makes sending asynchronous HTTP requests to REST endpoints easier and helps you perform CRUD operations. This REST endpoint/API could be an external API like the Google API, GitHub API, and so on – or it could be your own",
-          "link": "https://www.freecodecamp.org/news/axios-react-how-to-make-get-post-and-delete-api-requests/",
-          "publishedOn": "2022-05-17T16:12:39.000Z",
-          "wordCount": 1705,
-          "title": "Axios React – How to Make Get, Post, and Delete API Requests",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/cover-template.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/break-in-python-nested-for-loop-break-if-condition-met-example/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Loops in programming let us execute a set of instructions/block of code continuously until a certain condition is met.  We can also use loops to iterate over a collection of data and perform a similar operation on each item in the data set. names = [\"John\", \"Jane\", \"Doe\"] for",
-          "link": "https://www.freecodecamp.org/news/break-in-python-nested-for-loop-break-if-condition-met-example/",
-          "publishedOn": "2022-05-17T15:05:36.000Z",
-          "wordCount": 1424,
-          "title": "Break in Python – Nested For Loop Break if Condition Met Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/henry-co-1qlMnKfql5c-unsplash.jpg"
         }
       ]
     },
@@ -938,6 +938,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=116009",
+          "author": "Kevin Hartnett",
+          "description": "For decades mathematicians have searched for a specific pair of surfaces that can’t be transformed into each other in four-dimensional space. Now they’ve found them.            \nThe post Surfaces So Different Even a Fourth Dimension Can’t Make Them the Same first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/special-surfaces-remain-distinct-in-four-dimensions-20220616/",
+          "publishedOn": "2022-06-16T14:03:36.000Z",
+          "wordCount": 1291,
+          "title": "Surfaces So Different Even a Fourth Dimension Can’t Make Them the Same",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/Seifert_Surfaces_1200_Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=115982",
           "author": "Steven Strogatz",
@@ -1147,16 +1157,6 @@
           "wordCount": 1423,
           "title": "How Complex Is a Knot? New Proof Reveals Ranking System That Works",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/03/Ribbon_Concordance_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=114927",
-          "author": "Sheon Han",
-          "description": "Leslie Lamport revolutionized how computers talk to each other. Now he’s working on how engineers talk to their machines.             \nThe post How to Write Software With Mathematical Perfection first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/computing-expert-says-programmers-need-more-math-20220517/",
-          "publishedOn": "2022-05-17T14:17:04.000Z",
-          "wordCount": 2272,
-          "title": "How to Write Software With Mathematical Perfection",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/05/Lamport_1200_Social.jpg"
         }
       ]
     },
