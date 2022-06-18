@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/javascript-get-current-date-todays-date-in-js/",
+          "author": "Joel Olawanle",
+          "description": "When you're developing web applications, you might need to include the current date on which a particular operation is performed.  For example, when submitting data via a form, you may want to include the date that data was created or when the form was submitted. In this article, we",
+          "link": "https://www.freecodecamp.org/news/javascript-get-current-date-todays-date-in-js/",
+          "publishedOn": "2022-06-17T15:45:01.000Z",
+          "wordCount": 958,
+          "title": "JavaScript Get Current Date – Today's Date in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template--2-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/html-arrow-symbol-unicode-for-single-and-double-arrows-left-and-right-arrows/",
+          "author": "Dillion Megida",
+          "description": "What are Unicodes? Unicodes are universal characters that represent different things. These could be symbols, characters, scripts, and many more forms of character combinations. Unicodes are adopted by many platforms (mobile and web) to make characters available everywhere. Why are Unicodes useful? Unicodes are useful because they provide a standard",
+          "link": "https://www.freecodecamp.org/news/html-arrow-symbol-unicode-for-single-and-double-arrows-left-and-right-arrows/",
+          "publishedOn": "2022-06-17T15:35:12.000Z",
+          "wordCount": 752,
+          "title": "HTML Arrow – Symbol Unicode for Single and Double Arrows, Left and Right Arrows",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/unicode-for-arrows.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-visual-basic-net-full-course/",
+          "author": "Beau Carnes",
+          "description": "Did you know that Visual Basic is currently a more popular programming language than JavaScript? That is according to the TIOBE index [https://www.tiobe.com/tiobe-index/], which is one of the most respected indicators of the popularity of programming languages. Visual Basic is an object-oriented programming language developed by Microsoft. It makes it",
+          "link": "https://www.freecodecamp.org/news/learn-visual-basic-net-full-course/",
+          "publishedOn": "2022-06-17T14:24:49.000Z",
+          "wordCount": 541,
+          "title": "Learn Visual Basic (.NET) – Full Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/maxresdefault.jpeg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/querying-like-an-sql-boss-in-google-sheets/",
           "author": "Eamonn Cottrell",
           "description": "I built a spreadsheet and wanted to display some of the data in a small table which would update based on the day of the week. After some digging, querying seemed the best option to pull this off. In this article, you'll learn several things about Google Sheets tables, functions,",
@@ -880,56 +910,6 @@
           "wordCount": 4468,
           "title": "HTML Symbols – HTML Icon and Entity Code List",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/HTMLEntites.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-drum-machine-with-python-and-pygame/",
-          "author": "Beau Carnes",
-          "description": "A drum machine is a fun project to create to practice your Python skills. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to create a drum machine project using Python and Pygame. Pete LeMaster created this course. Pete has created a bunch",
-          "link": "https://www.freecodecamp.org/news/create-a-drum-machine-with-python-and-pygame/",
-          "publishedOn": "2022-05-19T13:47:53.000Z",
-          "wordCount": 26115,
-          "title": "Create a Drum Machine with Python and Pygame",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/drum.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/remote-work-companies-for-developers/",
-          "author": "Davis David",
-          "description": "Finding a remote job as a developer can be tricky. You want to work for a company that recognizes the value of remote workers, and you want to be sure that the company will support and encourage your remote working style.  If you’re a developer looking for an opportunity",
-          "link": "https://www.freecodecamp.org/news/remote-work-companies-for-developers/",
-          "publishedOn": "2022-05-18T17:43:34.000Z",
-          "wordCount": 2034,
-          "title": "Top 10 Remote Work Companies for Developers in 2022",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/zVaxL0LohRUpfDQhznRQ9z3y5tj1-oam3ifo.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/cpp-operator-examples/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Most programming languages have built-in functionalities that let us carry out certain operations like arithmetic, comparison, logical operations, and so on.  In this article, we'll talk about three operators in C++ – the bitwise AND (&) operator, the logical OR (||) operator, and the arithmetic + operator.  How",
-          "link": "https://www.freecodecamp.org/news/cpp-operator-examples/",
-          "publishedOn": "2022-05-18T15:37:31.000Z",
-          "wordCount": 1105,
-          "title": "C++ Operator Example – &, or, + Operators in C++",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/towfiqu-barbhuiya-5u6bz2tYhX8-unsplash--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/minify-css-css-minifying-and-compression-explained/",
-          "author": "Dillion Megida",
-          "description": "Minification is the process of reducing code size to reduce the size of your files. So how does this apply to CSS? Take a look at this code: h1 {   color: yellow; } p {   color: pink; } And the compressed version of it: h1 {",
-          "link": "https://www.freecodecamp.org/news/minify-css-css-minifying-and-compression-explained/",
-          "publishedOn": "2022-05-18T15:20:23.000Z",
-          "wordCount": 1150,
-          "title": "Minify CSS – CSS Minifying and Compression Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-magda-ehlers-2590535.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/css-functions-for-beginners/",
-          "author": "Ilenia Magoni",
-          "description": "In CSS there are a lot of different units of measurement. You have px and percentages, vh, vw, em, rem, and others.  There will come a time when you want to get a value by combining two or more different units. CSS has a function that you can use",
-          "link": "https://www.freecodecamp.org/news/css-functions-for-beginners/",
-          "publishedOn": "2022-05-18T15:11:08.000Z",
-          "wordCount": 1014,
-          "title": "CSS Functions – How to Use calc(), max(), min(), and clamp()",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-katerina-holmes-5905965.jpg"
         }
       ]
     },
@@ -1137,26 +1117,6 @@
           "wordCount": 2255,
           "title": "Simple Gene Circuits Hint at How Stem Cells Find New Identities",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/05/ColoredCells_1200_social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=114991",
-          "author": "Steven Strogatz",
-          "description": "The space telescope is one of the most ambitious scientific projects ever undertaken. Marcia Rieke and Nikole Lewis, two of the scientists leading JWST investigations, talk to Steven Strogatz about how it may transform our understanding of the universe.            \nThe post Will the James Webb Space Telescope Reveal Another Earth? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/will-the-james-webb-space-telescope-reveal-another-earth-20220518/",
-          "publishedOn": "2022-05-18T19:10:15.000Z",
-          "wordCount": 9351,
-          "title": "Will the James Webb Space Telescope Reveal Another Earth?",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/05/TJY_JWST_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=114985",
-          "author": "Leila Sloman",
-          "description": "“Ribbon concordance” will let mathematicians compare knots by linking them across four-dimensional space.            \nThe post How Complex Is a Knot? New Proof Reveals Ranking System That Works first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-complex-is-a-knot-new-proof-reveals-ranking-system-that-works-20220518/",
-          "publishedOn": "2022-05-18T16:38:42.000Z",
-          "wordCount": 1423,
-          "title": "How Complex Is a Knot? New Proof Reveals Ranking System That Works",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/03/Ribbon_Concordance_1200_Social.jpg"
         }
       ]
     },
@@ -1299,6 +1259,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/416",
+          "author": null,
+          "description": "#​416 — June 17, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nGo 1.19 Beta 1 Released — This post on the golang-announce group just has the basics of how to download it, but these draft release notes go further into actual features (which are predominantly fixes and tweaks - don’t expect a big 1.18 style release, though the addition of an optional soft memory limit for the runtime is interesting).\nThe Go Team \n\n\n  \n  \nLanguage Proposal: Bring Direct SIMD Support into Go — Language proposals are always interesting to read, particularly when they provoke discussion; here, a simd library to take advantage of SIMD (Single Instruction, Multiple Data) CPU instructions is proposed and has been marked “active” by the core team for now.\nMoritz Poldrack \n\n\n  \n…",
+          "link": "https://golangweekly.com/issues/416",
+          "publishedOn": "2022-06-17T00:00:00.000Z",
+          "wordCount": 860,
+          "title": "Bringing SIMD into Go?",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/415",
           "author": null,
