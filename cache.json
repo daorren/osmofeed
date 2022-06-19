@@ -4,7 +4,18 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0",
+          "author": null,
+          "description": "Added: Resolve relative URLs in item link and media\nAdded: Item thumbnail fallback to channel thumbnail\nChore: Dependency updates\nThank you: @cpwnd",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0",
+          "publishedOn": "2022-06-18T19:01:33.000Z",
+          "wordCount": 280,
+          "title": "v1.15.0",
+          "imageUrl": "https://opengraph.githubassets.com/ce00272fbcf40921811c2125a0228c3b60c8a0b083dbaf2601960d034cc3be27/osmoscraft/osmosfeed/releases/tag/v1.15.0"
+        }
+      ]
     },
     {
       "title": "freeCodeCamp.org",
@@ -890,26 +901,6 @@
           "wordCount": 2676,
           "title": "What is Coding Used For?",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/ilya-pavlov-OqtafYT5kTw-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/double-vs-float-in-cpp-the-difference-between-floats-and-doubles/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In C++, there are various data types like string, int, char, bool, float, and  double. Each of these data types have specific values that can be stored in them. When working with integers, we usually store them in an int data type. But this is only useful for whole",
-          "link": "https://www.freecodecamp.org/news/double-vs-float-in-cpp-the-difference-between-floats-and-doubles/",
-          "publishedOn": "2022-05-19T22:29:11.000Z",
-          "wordCount": 943,
-          "title": "Double VS Float in C++ – The Difference Between Floats and Doubles",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/nick-hillier-yD5rv8_WzxA-unsplash-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/html-symbols-html-icon-and-entity-code-list/",
-          "author": "Kolade Chris",
-          "description": "There are some characters that are symbols which you don’t get access to on keyboards. In HTML, these characters are called entities and are reserved characters. For instance, there are cases when you might want to type the greater than (>) or lesser than (<) symbol while working on the",
-          "link": "https://www.freecodecamp.org/news/html-symbols-html-icon-and-entity-code-list/",
-          "publishedOn": "2022-05-19T15:32:07.000Z",
-          "wordCount": 4468,
-          "title": "HTML Symbols – HTML Icon and Entity Code List",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/HTMLEntites.png"
         }
       ]
     },
@@ -1107,16 +1098,6 @@
           "wordCount": 1471,
           "title": "How Computer Scientists Learned to Reinvent the Proof",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/05/PCP-Explainer_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=115020",
-          "author": "Veronique Greenwood",
-          "description": "Synthetic biology experiments suggest a “MultiFate” model for how genetically identical cells become the many different types found in complex organisms like us.            \nThe post Simple Gene Circuits Hint at How Stem Cells Find New Identities first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/simple-gene-circuits-hint-at-how-stem-cells-differentiate-20220519/",
-          "publishedOn": "2022-05-19T14:02:40.000Z",
-          "wordCount": 2255,
-          "title": "Simple Gene Circuits Hint at How Stem Cells Find New Identities",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/05/ColoredCells_1200_social.jpg"
         }
       ]
     },
@@ -1125,6 +1106,16 @@
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
+        {
+          "id": "62a52f6250eccb22d9896979",
+          "author": "Assaf Arkin",
+          "description": "This week we DNS the weather, upgrade our workstation, find out who's making up all these AI images, and play dead like Sugar.",
+          "link": "https://labnotes.org/weekend-reading-gaslighting-with-these-prices/",
+          "publishedOn": "2022-06-19T00:45:35.000Z",
+          "wordCount": 1706,
+          "title": "Weekend Reading — Gaslighting? With these prices?!",
+          "imageUrl": "https://labnotes.org/favicon.png"
+        },
         {
           "id": "62a0c65050eccb22d9895eb4",
           "author": "Assaf Arkin",
@@ -1231,26 +1222,6 @@
           "wordCount": 1233,
           "title": "Web Weekly #66 (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252366/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/should-browsers-offer-per-site-user-preferences/",
-          "author": null,
-          "description": "I rarely read posts and find myself nodding along the entire time. But today was one of these days when I discovered Jim's post Rationale for a Browser-Level Color Scheme Preference .\nJim explains why browsers should expose site-specific color scheme preference controls. Imagine you could run your operating system in dark mode (I really like the dark MacOS UI!), your browser in light mode, and still switch particular sites to dark mode.\nI'm super into this idea! Read Jim's post if you want to learn more about this color preference cascade. ☝️\nThe post includes a few things that stand out, though.\nSafari's hidden website preferences\n\nI didn't know that Safari offers website-specific controls. They're hidden and only show up after enabling them via the toolbar settings.\nThey're a perfect loc…",
-          "link": "https://www.stefanjudis.com/notes/should-browsers-offer-per-site-user-preferences/",
-          "publishedOn": "2022-05-19T22:00:00.000Z",
-          "wordCount": 678,
-          "title": "Should browsers offer site-specific user preference controls? (yes!) (#note)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Should%20browsers%20offer%20site-specific%20user%20preference%20controls%253F%20(yes!)/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/how-to-navigate-to-the-git-root-directory/",
-          "author": null,
-          "description": "Today Bez Hermoso's git tip passed my Twitter timeline, and it's worth bookmarking it here on my blog.\nWhenever you find yourself cd'ing around in a large project just to reach the root of a git repository, the following alias might come in handy.\nalias gr='cd $(git rev-parse --show-toplevel)'\n\nIt automatically navigates you to the git repo root! 💪\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/snippets/how-to-navigate-to-the-git-root-directory/",
-          "publishedOn": "2022-05-19T22:00:00.000Z",
-          "wordCount": 290,
-          "title": "How to navigate to the git root directory (#snippet)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20navigate%20to%20the%20git%20root%20directory/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
@@ -1298,19 +1269,9 @@
           "wordCount": 932,
           "title": "Someone ported NIBBLES.BAS to Go",
           "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/412",
-          "author": null,
-          "description": "🇺🇦 #​412 — May 20, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nTim Bray's Go Diaries: Generics — Tim (one of the original co-authors of the XML spec) finds a use case for generics in his Quamima pattern matching library, only to find that there are some ‘bumps in the road’ which he shares here for everyone’s benefit.\nTim concludes: “I don’t hate Go’s generics, which is actually pretty strong testimony given that I spent the best part of a couple of days fighting all the stuff described above. But, my guess is the Go generics story is isn’t finished yet.”\nTim Bray \n\n\n  \n  \nGophers - Opportunity is Knocking — We’re a premier software engineering firm looking for mid to senior level engineers to help us develop advanced software solutions and applica…",
-          "link": "https://golangweekly.com/issues/412",
-          "publishedOn": "2022-05-20T00:00:00.000Z",
-          "wordCount": 858,
-          "title": "An arrow style function experiment for Go",
-          "imageUrl": null
         }
       ]
     }
   ],
-  "cliVersion": "1.14.4"
+  "cliVersion": "1.15.0"
 }

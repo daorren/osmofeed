@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-18T01:56:10.038Z</updated>
-    <generator>osmosfeed 1.14.4</generator>
+    <updated>2022-06-19T02:04:40.309Z</updated>
+    <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Gaslighting? With these prices?!]]></title>
+        <id>62a52f6250eccb22d9896979</id>
+        <link href="https://labnotes.org/weekend-reading-gaslighting-with-these-prices/"/>
+        <updated>2022-06-19T00:45:35.000Z</updated>
+        <summary type="html"><![CDATA[This week we DNS the weather, upgrade our workstation, find out who's making up all these AI images, and play dead like Sugar.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.15.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0"/>
+        <updated>2022-06-18T19:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Added: Resolve relative URLs in item link and media
+Added: Item thumbnail fallback to channel thumbnail
+Chore: Dependency updates
+Thank you: @cpwnd]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Get Current Date – Today's Date in JS]]></title>
         <id>https://www.freecodecamp.org/news/javascript-get-current-date-todays-date-in-js/</id>
@@ -1445,110 +1468,6 @@ situati…]]></summary>
         <summary type="html"><![CDATA[Are you aware of the millions of lines of code behind the applications and devices you use every day? Coding is used for many different purposes - more than you may realize. In this article, I will first go over what the term 'coding' actually means. Then, I will briefly]]></summary>
         <author>
             <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An arrow style function experiment for Go]]></title>
-        <id>https://golangweekly.com/issues/412</id>
-        <link href="https://golangweekly.com/issues/412"/>
-        <updated>2022-05-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[🇺🇦 #​412 — May 20, 2022
-
-
-Unsubscribe  |  Read on the Web
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-Tim Bray's Go Diaries: Generics — Tim (one of the original co-authors of the XML spec) finds a use case for generics in his Quamima pattern matching library, only to find that there are some ‘bumps in the road’ which he shares here for everyone’s benefit.
-Tim concludes: “I don’t hate Go’s generics, which is actually pretty strong testimony given that I spent the best part of a couple of days fighting all the stuff described above. But, my guess is the Go generics story is isn’t finished yet.”
-Tim Bray 
-
-
-  
-  
-Gophers - Opportunity is Knocking — We’re a premier software engineering firm looking for mid to senior level engineers to help us develop advanced software solutions and applica…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Double VS Float in C++ – The Difference Between Floats and Doubles]]></title>
-        <id>https://www.freecodecamp.org/news/double-vs-float-in-cpp-the-difference-between-floats-and-doubles/</id>
-        <link href="https://www.freecodecamp.org/news/double-vs-float-in-cpp-the-difference-between-floats-and-doubles/"/>
-        <updated>2022-05-19T22:29:11.000Z</updated>
-        <summary type="html"><![CDATA[In C++, there are various data types like string, int, char, bool, float, and  double. Each of these data types have specific values that can be stored in them. When working with integers, we usually store them in an int data type. But this is only useful for whole]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should browsers offer site-specific user preference controls? (yes!) (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/should-browsers-offer-per-site-user-preferences/</id>
-        <link href="https://www.stefanjudis.com/notes/should-browsers-offer-per-site-user-preferences/"/>
-        <updated>2022-05-19T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I rarely read posts and find myself nodding along the entire time. But today was one of these days when I discovered Jim's post Rationale for a Browser-Level Color Scheme Preference .
-Jim explains why browsers should expose site-specific color scheme preference controls. Imagine you could run your operating system in dark mode (I really like the dark MacOS UI!), your browser in light mode, and still switch particular sites to dark mode.
-I'm super into this idea! Read Jim's post if you want to learn more about this color preference cascade. ☝️
-The post includes a few things that stand out, though.
-Safari's hidden website preferences
-
-I didn't know that Safari offers website-specific controls. They're hidden and only show up after enabling them via the toolbar settings.
-They're a perfect loc…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to navigate to the git root directory (#snippet)]]></title>
-        <id>https://www.stefanjudis.com/snippets/how-to-navigate-to-the-git-root-directory/</id>
-        <link href="https://www.stefanjudis.com/snippets/how-to-navigate-to-the-git-root-directory/"/>
-        <updated>2022-05-19T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today Bez Hermoso's git tip passed my Twitter timeline, and it's worth bookmarking it here on my blog.
-Whenever you find yourself cd'ing around in a large project just to reach the root of a git repository, the following alias might come in handy.
-alias gr='cd $(git rev-parse --show-toplevel)'
-
-It automatically navigates you to the git repo root! 💪
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Symbols – HTML Icon and Entity Code List]]></title>
-        <id>https://www.freecodecamp.org/news/html-symbols-html-icon-and-entity-code-list/</id>
-        <link href="https://www.freecodecamp.org/news/html-symbols-html-icon-and-entity-code-list/"/>
-        <updated>2022-05-19T15:32:07.000Z</updated>
-        <summary type="html"><![CDATA[There are some characters that are symbols which you don’t get access to on keyboards. In HTML, these characters are called entities and are reserved characters. For instance, there are cases when you might want to type the greater than (>) or lesser than (<) symbol while working on the]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simple Gene Circuits Hint at How Stem Cells Find New Identities]]></title>
-        <id>https://www.quantamagazine.org/?p=115020</id>
-        <link href="https://www.quantamagazine.org/simple-gene-circuits-hint-at-how-stem-cells-differentiate-20220519/"/>
-        <updated>2022-05-19T14:02:40.000Z</updated>
-        <summary type="html"><![CDATA[Synthetic biology experiments suggest a “MultiFate” model for how genetically identical cells become the many different types found in complex organisms like us.            
-The post Simple Gene Circuits Hint at How Stem Cells Find New Identities first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Veronique Greenwood</name>
         </author>
     </entry>
 </feed>
