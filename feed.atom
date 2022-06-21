@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-20T01:57:07.097Z</updated>
+    <updated>2022-06-21T01:57:59.110Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Which Programming Language Should You Learn First?]]></title>
+        <id>https://www.freecodecamp.org/news/first-programming-language/</id>
+        <link href="https://www.freecodecamp.org/news/first-programming-language/"/>
+        <updated>2022-06-20T22:35:17.000Z</updated>
+        <summary type="html"><![CDATA[As a code newbie, one of the most intimidating yet fundamental decisions to make is deciding which programming language to learn first.  There is a wide variety of languages, frameworks, and libraries that you'll easily find if you Google around. You'll agree though that wherever there are a lot]]></summary>
+        <author>
+            <name>Ophy Boamah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asynchronous JavaScript – Callbacks, Promises, and Async/Await Explained]]></title>
+        <id>https://www.freecodecamp.org/news/asynchronous-javascript-explained/</id>
+        <link href="https://www.freecodecamp.org/news/asynchronous-javascript-explained/"/>
+        <updated>2022-06-20T20:10:50.000Z</updated>
+        <summary type="html"><![CDATA[If you've been learning JavaScript for a while now, then you've probably heard the term "asynchronous" before.  This is because JavaScript is an asynchronous language...but what does that really mean? In this article, I hope to show you that the concept is not as difficult as it sounds. Synchronous]]></summary>
+        <author>
+            <name>Njong Emy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Call, Apply, and Bind Functions in JavaScript – with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/understand-call-apply-and-bind-in-javascript-with-examples/</id>
+        <link href="https://www.freecodecamp.org/news/understand-call-apply-and-bind-in-javascript-with-examples/"/>
+        <updated>2022-06-20T18:25:02.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I am going to explain how to use call, apply, and bind in JavaScript with simple examples.  We will also implement an example that showcases how you can create your own map function with the apply function. Without further ado, let's get started. Table of Contents]]></summary>
+        <author>
+            <name>Keyur Paralkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Absolute Value – Python abs Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/python-absolute-value-python-abs-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/python-absolute-value-python-abs-tutorial/"/>
+        <updated>2022-06-20T15:55:24.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn all about the abs() function in Python. You will learn what the abs() function does and why you may want to use it. You will also understand how to use abs() with the help of practical examples. Here is what we will cover:]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #69 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-69/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-69/"/>
+        <updated>2022-06-19T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello, hello party people!
+
+Last week has been the day many poor souls waited for. Internet Explorer 11 left Microsoft's support rotation. No patches and security fixes anymore!
+I haven't dealt with IE for ages, but I know folks that still had to tackle it occasionally. But does no support mean the outdated browser will just disappear? As Adrian puts it: "This doesn’t mean that the copy of IE11 on your client’s computer will suddenly uninstall itself." And this is true, but I think now's really the time to forget about it.
+If you want to go down memory lane for a moment and see some "great" IE hacks, Pawel collected some nice ones to say goodbye.
+And with this, today you'll learn about:
+AbortController use cases
+CSS terminology
+font-display: optional
+... and, as always, GitHub repositories…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Gaslighting? With these prices?!]]></title>
         <id>62a52f6250eccb22d9896979</id>
@@ -1410,34 +1469,6 @@ The post Life’s First Peptides May Have Grown on RNA Strands first appeared on
 The post How Computer Scientists Learned to Reinvent the Proof first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Mordechai Rorvig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Features are fractal]]></title>
-        <id>628124219148eb5b8b7e3fc7</id>
-        <link href="https://labnotes.org/weekend-reading-features-are-fractal/"/>
-        <updated>2022-05-21T23:17:37.000Z</updated>
-        <summary type="html"><![CDATA[This week the new startup growth strategy is just staying alive, and we have some tips for organizations Getting Things Done.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #66 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-66/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-66/"/>
-        <updated>2022-05-21T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Happy Sunday, party people!
-
-You might have noticed that I took a two-week break from Web Weekly. I just felt too exhausted with too many moving pieces in my life. But everything's on track again! 😊
-I started building a proper landing page for this newsletter mainly to play around with Remix. It felt great that I didn't hit any blockers and could get rolling right away. The structure of Remix files reminds me of writing PHP back in the day, though. Is this web development repeating itself with another file extension?
-I have a quick ask: do you see the testimonials section? I'd love to include more quotes in it. If you enjoy Web Weekly, it'd be great if you could share it online. Thank you!
-And with this, today you'll learn about:
-named CSS grid lines
-site-specific browser controls
-situati…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

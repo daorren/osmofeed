@@ -23,6 +23,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/first-programming-language/",
+          "author": "Ophy Boamah",
+          "description": "As a code newbie, one of the most intimidating yet fundamental decisions to make is deciding which programming language to learn first.  There is a wide variety of languages, frameworks, and libraries that you'll easily find if you Google around. You'll agree though that wherever there are a lot",
+          "link": "https://www.freecodecamp.org/news/first-programming-language/",
+          "publishedOn": "2022-06-20T22:35:17.000Z",
+          "wordCount": 2142,
+          "title": "Which Programming Language Should You Learn First?",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/asynchronous-javascript-explained/",
+          "author": "Njong Emy",
+          "description": "If you've been learning JavaScript for a while now, then you've probably heard the term \"asynchronous\" before.  This is because JavaScript is an asynchronous language...but what does that really mean? In this article, I hope to show you that the concept is not as difficult as it sounds. Synchronous",
+          "link": "https://www.freecodecamp.org/news/asynchronous-javascript-explained/",
+          "publishedOn": "2022-06-20T20:10:50.000Z",
+          "wordCount": 2083,
+          "title": "Asynchronous JavaScript – Callbacks, Promises, and Async/Await Explained",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/understand-call-apply-and-bind-in-javascript-with-examples/",
+          "author": "Keyur Paralkar",
+          "description": "In this article, I am going to explain how to use call, apply, and bind in JavaScript with simple examples.  We will also implement an example that showcases how you can create your own map function with the apply function. Without further ado, let's get started. Table of Contents",
+          "link": "https://www.freecodecamp.org/news/understand-call-apply-and-bind-in-javascript-with-examples/",
+          "publishedOn": "2022-06-20T18:25:02.000Z",
+          "wordCount": 2684,
+          "title": "How to Use the Call, Apply, and Bind Functions in JavaScript – with Code Examples",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-absolute-value-python-abs-tutorial/",
+          "author": "Dionysia Lemonaki",
+          "description": "In this article, you will learn all about the abs() function in Python. You will learn what the abs() function does and why you may want to use it. You will also understand how to use abs() with the help of practical examples. Here is what we will cover:",
+          "link": "https://www.freecodecamp.org/news/python-absolute-value-python-abs-tutorial/",
+          "publishedOn": "2022-06-20T15:55:24.000Z",
+          "wordCount": 1772,
+          "title": "Python Absolute Value – Python abs Tutorial",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/javascript-get-current-date-todays-date-in-js/",
           "author": "Joel Olawanle",
           "description": "When you're developing web applications, you might need to include the current date on which a particular operation is performed.  For example, when submitting data via a form, you may want to include the date that data was created or when the form was submitted. In this article, we",
@@ -1115,16 +1155,6 @@
           "wordCount": 828,
           "title": "Weekend Reading — Extra fancy jump",
           "imageUrl": "https://labnotes.org/content/images/2022/05/77b6a3b6dd70b182f888c2972ed74253c26880a157fba2c0e2988a424521f0ce-1.png"
-        },
-        {
-          "id": "628124219148eb5b8b7e3fc7",
-          "author": "Assaf Arkin",
-          "description": "This week the new startup growth strategy is just staying alive, and we have some tips for organizations Getting Things Done.",
-          "link": "https://labnotes.org/weekend-reading-features-are-fractal/",
-          "publishedOn": "2022-05-21T23:17:37.000Z",
-          "wordCount": 1099,
-          "title": "Weekend Reading — Features are fractal",
-          "imageUrl": "https://labnotes.org/content/images/2022/05/Unknown-2.jpeg"
         }
       ]
     },
@@ -1133,6 +1163,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-69/",
+          "author": null,
+          "description": "Hello, hello party people!\n\nLast week has been the day many poor souls waited for. Internet Explorer 11 left Microsoft's support rotation. No patches and security fixes anymore!\nI haven't dealt with IE for ages, but I know folks that still had to tackle it occasionally. But does no support mean the outdated browser will just disappear? As Adrian puts it: \"This doesn’t mean that the copy of IE11 on your client’s computer will suddenly uninstall itself.\" And this is true, but I think now's really the time to forget about it.\nIf you want to go down memory lane for a moment and see some \"great\" IE hacks, Pawel collected some nice ones to say goodbye.\nAnd with this, today you'll learn about:\nAbortController use cases\nCSS terminology\nfont-display: optional\n... and, as always, GitHub repositories…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-69/",
+          "publishedOn": "2022-06-19T22:00:00.000Z",
+          "wordCount": 1852,
+          "title": "Web Weekly #69 (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252369/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-68/",
           "author": null,
@@ -1182,16 +1222,6 @@
           "wordCount": 656,
           "title": "How specify the starting number of an ordered HTML list (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20specify%20the%20starting%20number%20of%20an%20ordered%20HTML%20list/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-66/",
-          "author": null,
-          "description": "Happy Sunday, party people!\n\nYou might have noticed that I took a two-week break from Web Weekly. I just felt too exhausted with too many moving pieces in my life. But everything's on track again! 😊\nI started building a proper landing page for this newsletter mainly to play around with Remix. It felt great that I didn't hit any blockers and could get rolling right away. The structure of Remix files reminds me of writing PHP back in the day, though. Is this web development repeating itself with another file extension?\nI have a quick ask: do you see the testimonials section? I'd love to include more quotes in it. If you enjoy Web Weekly, it'd be great if you could share it online. Thank you!\nAnd with this, today you'll learn about:\nnamed CSS grid lines\nsite-specific browser controls\nsituati…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-66/",
-          "publishedOn": "2022-05-21T22:00:00.000Z",
-          "wordCount": 1233,
-          "title": "Web Weekly #66 (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252366/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
         }
       ]
     },
