@@ -23,6 +23,86 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-recover-a-deleted-file-in-git/",
+          "author": "Zaira Hira",
+          "description": "Git is a version control system that helps you keep track of the changes in a project's life cycle. It preserves the history of the project and allows you and your team members to coordinate effectively throughout.  There could be situations where you deleted a file and you want",
+          "link": "https://www.freecodecamp.org/news/how-to-recover-a-deleted-file-in-git/",
+          "publishedOn": "2022-06-21T21:31:23.000Z",
+          "wordCount": 1309,
+          "title": "How to Recover a Deleted File in Git – Revert Changes After a Hard Reset",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-does-mvc-mean-in-computer-science/",
+          "author": "Kolade Chris",
+          "description": "MVC is an abbreviation that stands for Model, View, and Controller. This architectural pattern was created in the late 1970s for making desktop apps, but it is now widely used in web application development. In this article, I will dive deep into what MVC means alongside its 3 components, so",
+          "link": "https://www.freecodecamp.org/news/what-does-mvc-mean-in-computer-science/",
+          "publishedOn": "2022-06-21T21:09:46.000Z",
+          "wordCount": 1526,
+          "title": "MVC in Computer Science – The MVC Model",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-customize-bootstrap-with-sass/",
+          "author": "Vinod Mathew Sebastian",
+          "description": "Bootstrap is an awesome CSS framework that can help you create stylish and sleek websites.  Some developers and teams find that code written in Bootstrap is easier to maintain than regular CSS, so they prefer Bootstrap to vanilla CSS.  But if everyone used Bootstrap with its default styles,",
+          "link": "https://www.freecodecamp.org/news/how-to-customize-bootstrap-with-sass/",
+          "publishedOn": "2022-06-21T20:59:02.000Z",
+          "wordCount": 2309,
+          "title": "How to Customize Bootstrap with Sass",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/java-switch-statement-how-to-use-a-switch-case-in-java/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You use the switch statement in Java to execute a particular code block when a certain condition is met.  Here's what the syntax looks like: switch(expression) {   case 1:     // code block     break;   case 2:",
+          "link": "https://www.freecodecamp.org/news/java-switch-statement-how-to-use-a-switch-case-in-java/",
+          "publishedOn": "2022-06-21T17:39:06.000Z",
+          "wordCount": 1341,
+          "title": "Java Switch Statement – How to Use a Switch Case in Java",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/getting-started-with-rasa-with-studiolab-and-vscode/",
+          "author": "Sijil Salim",
+          "description": "Last week, I was excited to dive into chatbot development with the open-source framework Rasa [https://rasa.com/]. With Rasa, you get a ton of flexibility, from designing the conversation to developing the NLU logic to deployment.  But the \"Yay\" soon transformed into banging my head against a brick wall. The",
+          "link": "https://www.freecodecamp.org/news/getting-started-with-rasa-with-studiolab-and-vscode/",
+          "publishedOn": "2022-06-21T16:06:02.000Z",
+          "wordCount": 1599,
+          "title": "How to Set Up a Rasa Development Environment in Sagemaker Studiolab with VS Code",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-typescript-for-beginners/",
+          "author": "Emmanuel Ohans",
+          "description": "A few weeks ago, I published an Intermediate TypeScript and React Handbook [/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/]. It received many views and I got several emails. Most were “thank you” emails, but then there were others like: > “… I am new to programming, what is TypeScript?” And: > “Thanks for this free ebook,",
+          "link": "https://www.freecodecamp.org/news/what-is-typescript-for-beginners/",
+          "publishedOn": "2022-06-21T15:55:07.000Z",
+          "wordCount": 2263,
+          "title": "What is TypeScript? A Beginner's Guide",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-consume-rest-apis-in-react/",
+          "author": "Joel Olawanle",
+          "description": "React is a popular frontend library that developers use to create applications. And you will need to integrate APIs into your React application at some point if you want to build production-ready apps.  Every developer who wants to build modern, robust web applications with React must understand how to",
+          "link": "https://www.freecodecamp.org/news/how-to-consume-rest-apis-in-react/",
+          "publishedOn": "2022-06-21T15:35:38.000Z",
+          "wordCount": 3789,
+          "title": "How to Consume REST APIs in React – a Beginner's Guide",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/automate-your-life-with-python/",
+          "author": "Beau Carnes",
+          "description": "Think of the most boring task you’ve ever done. Chances are, you can automate it with Python! We just published a Python automation course on the freeCodeCamp.org YouTube channel. Frank Andrade created this course. Frank is a data scientist and experienced teacher. In this course you will learn how to",
+          "link": "https://www.freecodecamp.org/news/automate-your-life-with-python/",
+          "publishedOn": "2022-06-21T14:05:29.000Z",
+          "wordCount": 924,
+          "title": "Automate Your Life with Python",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/first-programming-language/",
           "author": "Ophy Boamah",
           "description": "As a code newbie, one of the most intimidating yet fundamental decisions to make is deciding which programming language to learn first.  There is a wide variety of languages, frameworks, and libraries that you'll easily find if you Google around. You'll agree though that wherever there are a lot",
@@ -901,16 +981,6 @@
           "wordCount": 960,
           "title": "Python Round to Int – How to Round Up or Round Down to the Nearest Whole Number",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/volkan-olmez-aG-pvyMsbis-unsplash-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-istio-manage-microservices/",
-          "author": "Rinor Maloku",
-          "description": "Three years ago, I wrote an article titled \"Back to Microservices with Istio\" [https://medium.com/google-cloud/back-to-microservices-with-istio-p1-827c872daa53]  for Google Cloud Community. I published it there to reach people interested in the latest technologies built on top of Kubernetes.  At that point, Istio was a niche technology. But fast-forward three years, and:",
-          "link": "https://www.freecodecamp.org/news/learn-istio-manage-microservices/",
-          "publishedOn": "2022-05-23T14:00:55.000Z",
-          "wordCount": 8358,
-          "title": "Learn Istio – How to Manage, Monitor, and Secure Microservices",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/how-traces-are-generated-1.png"
         }
       ]
     },
@@ -919,6 +989,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=116048",
+          "author": "Yasemin Saplakoglu",
+          "description": "Akiko Iwasaki, an immunologist who became a lifeline for the worried and the curious during the pandemic, thinks that nasal spray vaccines could be the next needed breakthrough in our fight against the coronavirus.            \nThe post An Immunologist Fights Covid with Tweets and a Nasal Spray first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/an-immunologist-fights-covid-with-tweets-and-a-nasal-spray-20220621/",
+          "publishedOn": "2022-06-21T15:07:27.000Z",
+          "wordCount": 8696,
+          "title": "An Immunologist Fights Covid with Tweets and a Nasal Spray",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/Iwasaki_1200_Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=116009",
           "author": "Kevin Hartnett",
@@ -1098,16 +1178,6 @@
           "wordCount": 1717,
           "title": "Life’s First Peptides May Have Grown on RNA Strands",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/05/RNA-PEPTIDE_520x292.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=115078",
-          "author": "Mordechai Rorvig",
-          "description": "Why verify every line of a proof, when just a few checks will do?            \nThe post How Computer Scientists Learned to Reinvent the Proof first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-computer-scientists-learned-to-reinvent-the-proof-20220523/",
-          "publishedOn": "2022-05-23T13:44:45.000Z",
-          "wordCount": 1471,
-          "title": "How Computer Scientists Learned to Reinvent the Proof",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/05/PCP-Explainer_1200_Social.jpg"
         }
       ]
     },
