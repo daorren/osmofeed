@@ -2,10 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-24T01:59:54.653Z</updated>
+    <updated>2022-06-25T02:07:27.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Static in Java? What does this keyword mean? [Solved]]]></title>
+        <id>https://www.freecodecamp.org/news/why-static-in-java-what-does-this-keyword-mean/</id>
+        <link href="https://www.freecodecamp.org/news/why-static-in-java-what-does-this-keyword-mean/"/>
+        <updated>2022-06-24T21:38:54.000Z</updated>
+        <summary type="html"><![CDATA[You can use the static keyword in different parts of a Java program like variables, methods, and static blocks.  The main purpose of using the static keyword in Java is to save memory. When we create a variable in a class that will be accessed by other classes, we]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Missing Data in a Dataset]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-handle-missing-data-in-a-dataset/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-handle-missing-data-in-a-dataset/"/>
+        <updated>2022-06-24T21:14:52.000Z</updated>
+        <summary type="html"><![CDATA[Missing values are common when working with real-world datasets – not the cleaned ones available on Kaggle, for example.  Missing data could result from a human factor (for example, a person deliberately failing to respond to a survey question), a problem in electrical sensors, or other factors. And when]]></summary>
+        <author>
+            <name>Ibrahim Abayomi Ogunbiyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Perform Data Augmentation in NLP Projects]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-perform-data-augmentation-in-nlp-projects/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-perform-data-augmentation-in-nlp-projects/"/>
+        <updated>2022-06-24T15:33:57.000Z</updated>
+        <summary type="html"><![CDATA[In machine learning, you need to have a large amount of data in order to achieve strong model performance.  Using a method known as data augmentation, you can create more data for your machine learning project. Data augmentation is a collection of techniques that manage the process of automatically]]></summary>
+        <author>
+            <name>Davis David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Check if a JavaScript String is a Valid URL]]></title>
+        <id>https://www.freecodecamp.org/news/check-if-a-javascript-string-is-a-url/</id>
+        <link href="https://www.freecodecamp.org/news/check-if-a-javascript-string-is-a-url/"/>
+        <updated>2022-06-24T15:09:54.000Z</updated>
+        <summary type="html"><![CDATA[A URL – or Uniform Resource Locator – is text used to identify resources like web pages, images, and videos on the internet. We commonly refer to URLs as website addresses, and they're used for file transfer, emails, and other applications. URLs consist of multiple parts – protocol, domain name, and]]></summary>
+        <author>
+            <name>Vikram Aruchamy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[By Exploring Virtual Worlds, AI Learns in New Ways]]></title>
+        <id>https://www.quantamagazine.org/?p=116176</id>
+        <link href="https://www.quantamagazine.org/ai-makes-strides-in-virtual-worlds-more-like-our-own-20220624/"/>
+        <updated>2022-06-24T14:26:14.000Z</updated>
+        <summary type="html"><![CDATA[Intelligent beings learn by interacting with the world. Artificial intelligence researchers have adopted a similar strategy to teach their virtual agents new tricks.             
+The post By Exploring Virtual Worlds, AI Learns in New Ways first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Allison Whitten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Low-Code Dashboard for Your Startup]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-low-code-dashboard-for-your-startup/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-low-code-dashboard-for-your-startup/"/>
+        <updated>2022-06-24T12:52:12.000Z</updated>
+        <summary type="html"><![CDATA[Creating a dashboard to keep track of customers and users is much easier than you may think. You can build an API-powered marketing dashboard using a low code approach.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a dashboard to]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuzzing: an introduction, plus updates coming to 1.19.]]></title>
+        <id>https://golangweekly.com/issues/417</id>
+        <link href="https://golangweekly.com/issues/417"/>
+        <updated>2022-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#​417 — June 24, 2022
+
+
+Unsubscribe  |  Read on the Web
+
+
+
+The Go Weekly Newsletter
+
+
+
+
+  
+
+
+
+
+
+  
+  
+▶  An Introduction to Fuzzing in Go — An official, three-minute, introductory video from Google on getting started with Go’s newest fuzz testing features (or, if you prefer, a written tutorial). Elsewhere, Khaled Yakdan writes about improvements being made to fuzzing for Go 1.19 – a lot of work has gone into this.
+Nooras Saba (Google) 
+
+
+  
+  
+Making Code Faster — When someone with Tim’s experience talks about improving code performance, it never makes for a bad read. Here he shares a story of profiling some Go code. His approach is simple: Test, Benchmark, Refactor, Iterate.
+Tim Bray 
+
+
+  
+  
+Gophers - Opportunity is Knocking — We’re a premier software engineering firm looking for mid to …]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Loop Through an Array in JavaScript – JS Iterate Tutorial]]></title>
         <id>https://www.freecodecamp.org/news/how-to-loop-through-an-array-in-javascript-js-iterate-tutorial/</id>
@@ -1539,78 +1642,6 @@ How Teleport Works — Teleport provides secure access to SSH or Windows servers
         <summary type="html"><![CDATA[Hey everyone! 😎 In this detailed guide, I’ll show you how to build strongly typed Polymorphic React components with Typescript. If you prefer to read the entire guide in a single PDF document, you can download the accompanying free PDF [https://www.ohansemmanuel.com/books/how-to-build-strongly-typed-polymorphic-react-components] . You can download the eBook for free [https://www.ohansemmanuel.com/books/how-to-build-strongly-typed-polymorphic-react-components]]]></summary>
         <author>
             <name>Emmanuel Ohans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physicists Rewrite the Fundamental Law That Leads to Disorder]]></title>
-        <id>https://www.quantamagazine.org/?p=115311</id>
-        <link href="https://www.quantamagazine.org/physicists-trace-the-rise-in-entropy-to-quantum-information-20220526/"/>
-        <updated>2022-05-26T13:52:59.000Z</updated>
-        <summary type="html"><![CDATA[The second law of thermodynamics is among the most sacred in all of science, but it has always rested on 19th century arguments about probability. New arguments trace its true source to the flows of quantum information.            
-The post Physicists Rewrite the Fundamental Law That Leads to Disorder first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Philip Ball</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Code a Framework – the  First Lines of Vue.js]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-code-a-framework-vuejs-example/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-code-a-framework-vuejs-example/"/>
-        <updated>2022-05-25T21:38:19.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered how frameworks are built? A couple of weeks ago I was writing an article and asked myself, what's the first line of code Evan You wrote to build Vue.js? Well, thanks to Git and Evan You pushing Vue's code to GitHub, I have been able to]]></summary>
-        <author>
-            <name>Fabio Pacific</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter Emoji – How to Use Twemoji on Your Website]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-twitter-emoji-on-your-website/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-twitter-emoji-on-your-website/"/>
-        <updated>2022-05-25T21:08:49.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll explain what Twitter Emoji – or Twemoji – are and why you might want to use them. Why should you use Twitter Emojis? A couple of months ago, I started working on a project of mine, and I needed to allow users to select different icons]]></summary>
-        <author>
-            <name>Shayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Test React Applications]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-test-react-applications/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-test-react-applications/"/>
-        <updated>2022-05-25T16:46:00.000Z</updated>
-        <summary type="html"><![CDATA[React is one of the most popular frontend JavaScript frameworks. If you want to make sure that your React apps work as intended, it is important to write comprehensive tests. We just published a React testing course on the freeCodeCamp.org YouTube channel that will teach you how to build, deploy,]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use CSS Grid Layout – Grid Properties Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-css-grid-layout/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-css-grid-layout/"/>
-        <updated>2022-05-25T15:32:31.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever had a problem positioning items on your web browser? Perhaps every time you try to think of a solution, you become tired and give up.  If so, stay tuned as I reveal a new method for resolving these kinds of problems with minimal or no stress.]]></summary>
-        <author>
-            <name>Okoro Emmanuel Nzube</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Promises for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-promises-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-promises-for-beginners/"/>
-        <updated>2022-05-25T14:56:17.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, a promise is a placeholder (proxy) for the value of an ongoing operation. You typically use a promise to manage situations where you must wait for the outcome of an operation. For example, uploading files to the server and awaiting the response of an API call, or just]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Claude Shannon Would Have Been Great at Wordle]]></title>
-        <id>https://www.quantamagazine.org/?p=115243</id>
-        <link href="https://www.quantamagazine.org/how-math-can-improve-your-wordle-score-20220525/"/>
-        <updated>2022-05-25T14:04:37.000Z</updated>
-        <summary type="html"><![CDATA[A bit of information theory can help you analyze — and improve — your Wordle game.            
-The post Why Claude Shannon Would Have Been Great at Wordle first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Patrick Honner</name>
         </author>
     </entry>
 </feed>
