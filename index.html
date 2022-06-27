@@ -70,6 +70,85 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-06-25 datetime="2022-06-25T22:00:00.000Z">2022-06-25</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-06-25 datetime="2022-06-25T22:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/snippets/how-to-create-an-api-wrapper-using-a-javascript-proxy/"
+                        open
+                      >
+                        <summary class="article-expander__title">How to create an API wrapper using a JavaScript proxy (#snippet)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/snippets/how-to-create-an-api-wrapper-using-a-javascript-proxy/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20create%20an%20API%20wrapper%20using%20a%20JavaScript%20proxy/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>I just found a super smart gist from David Wells that&#x27;s worth bookmarking.
+David uses a JavaScript Proxy to map object properties to fetch calls.
+This approach works quite nice for querying RESTful APIs. apiObject.cars() maps to /cars/ and apiObject.cars(&#x27;123&#x27;) maps to /cars/123/. 👏
+// Found at https://gist.github.com/DavidWells/53518b3c12344952641dc81cc7599939
+const createApi &#x3D; (url) &#x3D;&gt; {
+  return new Proxy({}, {
+    get(target, key) {
+      return async function(id &#x3D; &quot;&quot;) {
+        const response &#x3D; await fetch(&#x60;${url}/${key}/${id}&#x60;)
+        if (response.ok) {
+          return response.json();
+        }
+        return Promise.resolve({ error: &quot;Malformed Request&quot; })
+      }
+    }
+  })
+}
+
+let api &#x3D; createApi(&quot;https://swapi.co/api&quot;)
+
+// &#x27;get&#x27; request to https://swapi.co/api/people
+let people &#x3D; await api.people()
+
+// &#x27;get&#x27; request to https://swapi.co/api/people/1
+let person &#x3D; await api.people(1)
+
+What a great little trick! 💯
+
+
+          
+          
+            Reply to Stefan</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-06-24 datetime="2022-06-24T21:38:54.000Z">2022-06-24</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-06-24 datetime="2022-06-24T21:38:54.000Z"></time>
           </button>
@@ -3910,133 +3989,10 @@ It&#x27;s so fascinating that HTML still holds surprises for me after writing it
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-05-27 datetime="2022-05-27T20:08:33.000Z">2022-05-27</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-05-27 datetime="2022-05-27T20:08:33.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >freeCodeCamp.org</button>
-                  <a class="source-heading__link" href="https://www.freecodecamp.org/news/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/"
-                        open
-                      >
-                        <summary class="article-expander__title">C++ Vector – How to Initialize a Vector in a Constructor in C++</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2022/05/uday-awal-UjJWhMerJx0-unsplash--2-.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>When you&#x27;re working with a collection of variables or data in programming, you usually store them in specific data types.  In C++, you can store them in arrays, structures, vectors, strings and so on. While these data structures have their distinctive features, we&#x27;ll focus mainly on the various methods</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;5
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/javascript-for-loops/"
-                        open
-                      >
-                        <summary class="article-expander__title">JavaScript For Loop – Explained with Examples</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/javascript-for-loops/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2022/05/for-loops.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Loops are a programming concept that we constantly encounter and implement as JavaScript developers.  And many developers are familiar with loops, but not everyone understands how they work and why or when they should use a specific type of loop. In this article, we will learn what for loops</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/how-to-build-a-chrome-extension/"
-                        open
-                      >
-                        <summary class="article-expander__title">How to Build a Chrome Extension</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/how-to-build-a-chrome-extension/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2022/05/ext.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>A chrome extension is a software program that is designed to run within the Google Chrome web browser. Extensions can add a variety of functionality to the browser, including providing tools for web development, adding features to the browser interface, and changing the behavior of web pages. We just published</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;33
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Quanta Magazine</button>
-                  <a class="source-heading__link" href="https://www.quantamagazine.org">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.quantamagazine.org/?p&#x3D;115360"
-                        open
-                      >
-                        <summary class="article-expander__title">The Secret Math Behind Mind-Reading Magic Tricks</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.quantamagazine.org/the-secret-math-behind-mind-reading-magic-tricks-20220527/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/05/Puzzle_May_1200_Social-2-1.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Four puzzle solutions reveal different ways to divine someone’s hidden number with impossibly little information.            
-The post The Secret Math Behind Mind-Reading Magic Tricks first appeared on Quanta Magazine</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;12
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/2562645238">
-        <time id="build-timestamp" datetime="2022-06-26T02:08:31.035Z">2022-06-26T02:08:31.035Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/2566323559">
+        <time id="build-timestamp" datetime="2022-06-27T02:03:05.488Z">2022-06-27T02:03:05.488Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

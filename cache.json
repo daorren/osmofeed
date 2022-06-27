@@ -961,36 +961,6 @@
           "wordCount": 838,
           "title": "HTML Space – How to Add Spaces in HTML",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/jeremy-thomas-E0AHdsENmDg-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When you're working with a collection of variables or data in programming, you usually store them in specific data types.  In C++, you can store them in arrays, structures, vectors, strings and so on. While these data structures have their distinctive features, we'll focus mainly on the various methods",
-          "link": "https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/",
-          "publishedOn": "2022-05-27T20:08:33.000Z",
-          "wordCount": 1435,
-          "title": "C++ Vector – How to Initialize a Vector in a Constructor in C++",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/uday-awal-UjJWhMerJx0-unsplash--2-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-for-loops/",
-          "author": "Joel Olawanle",
-          "description": "Loops are a programming concept that we constantly encounter and implement as JavaScript developers.  And many developers are familiar with loops, but not everyone understands how they work and why or when they should use a specific type of loop. In this article, we will learn what for loops",
-          "link": "https://www.freecodecamp.org/news/javascript-for-loops/",
-          "publishedOn": "2022-05-27T16:32:36.000Z",
-          "wordCount": 1666,
-          "title": "JavaScript For Loop – Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/for-loops.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-chrome-extension/",
-          "author": "Beau Carnes",
-          "description": "A chrome extension is a software program that is designed to run within the Google Chrome web browser. Extensions can add a variety of functionality to the browser, including providing tools for web development, adding features to the browser interface, and changing the behavior of web pages. We just published",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-chrome-extension/",
-          "publishedOn": "2022-05-27T14:35:37.000Z",
-          "wordCount": 9832,
-          "title": "How to Build a Chrome Extension",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/ext.png"
         }
       ]
     },
@@ -1178,16 +1148,6 @@
           "wordCount": 2963,
           "title": "How to Make the Universe Think for Us",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/0601_Physical-Neural-Networks_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=115360",
-          "author": "Pradeep Mutalik",
-          "description": "Four puzzle solutions reveal different ways to divine someone’s hidden number with impossibly little information.            \nThe post The Secret Math Behind Mind-Reading Magic Tricks first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/the-secret-math-behind-mind-reading-magic-tricks-20220527/",
-          "publishedOn": "2022-05-27T14:10:01.000Z",
-          "wordCount": 3463,
-          "title": "The Secret Math Behind Mind-Reading Magic Tricks",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/05/Puzzle_May_1200_Social-2-1.jpg"
         }
       ]
     },
@@ -1253,6 +1213,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/snippets/how-to-create-an-api-wrapper-using-a-javascript-proxy/",
+          "author": null,
+          "description": "I just found a super smart gist from David Wells that's worth bookmarking.\nDavid uses a JavaScript Proxy to map object properties to fetch calls.\nThis approach works quite nice for querying RESTful APIs. apiObject.cars() maps to /cars/ and apiObject.cars('123') maps to /cars/123/. 👏\n// Found at https://gist.github.com/DavidWells/53518b3c12344952641dc81cc7599939\nconst createApi = (url) => {\n  return new Proxy({}, {\n    get(target, key) {\n      return async function(id = \"\") {\n        const response = await fetch(`${url}/${key}/${id}`)\n        if (response.ok) {\n          return response.json();\n        }\n        return Promise.resolve({ error: \"Malformed Request\" })\n      }\n    }\n  })\n}\n\nlet api = createApi(\"https://swapi.co/api\")\n\n// 'get' request to https://swapi.co/api/people\nlet people = await api.people()\n\n// 'get' request to https://swapi.co/api/people/1\nlet person = await api.people(1)\n\nWhat a great little trick! 💯\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/snippets/how-to-create-an-api-wrapper-using-a-javascript-proxy/",
+          "publishedOn": "2022-06-25T22:00:00.000Z",
+          "wordCount": 1205,
+          "title": "How to create an API wrapper using a JavaScript proxy (#snippet)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20create%20an%20API%20wrapper%20using%20a%20JavaScript%20proxy/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-69/",
           "author": null,
