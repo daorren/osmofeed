@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-27T02:03:05.514Z</updated>
+    <updated>2022-06-28T02:01:01.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Refresh the Page in JavaScript – JS Reload Window Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/refresh-the-page-in-javascript-js-reload-window-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/refresh-the-page-in-javascript-js-reload-window-tutorial/"/>
+        <updated>2022-06-27T17:41:15.000Z</updated>
+        <summary type="html"><![CDATA[When you're developing applications like a blog or a page where the data may change based on user actions, you'll want that page to refresh frequently. When the page refreshes or reloads, it will show any new data based off those user interactions. Good news – you can implement this]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn HTML – Responsive Web Design Study Guide]]></title>
+        <id>https://www.freecodecamp.org/news/freecodecamp-responsive-web-design-study-guide/</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-responsive-web-design-study-guide/"/>
+        <updated>2022-06-27T16:41:05.000Z</updated>
+        <summary type="html"><![CDATA[HTML (HyperText Markup Language) is an important markup language for building websites. HTML represents the content of the web page. But when you are learning this information for the first time, it can be hard to keep track of all of the different HTML elements.  In this article, I]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NameError: Name plot_cases_simple is Not Defined – How to Fix this Python Error]]></title>
+        <id>https://www.freecodecamp.org/news/nameerror-name-plot_cases_simple-is-not-defined-how-to-fix-this-python-error/</id>
+        <link href="https://www.freecodecamp.org/news/nameerror-name-plot_cases_simple-is-not-defined-how-to-fix-this-python-error/"/>
+        <updated>2022-06-27T15:58:39.000Z</updated>
+        <summary type="html"><![CDATA[This first step in fixing a coding error is to understand the error. Although some error messages may seem confusing, most of them will help you fix the error.  In this article, we'll be talking about an error that falls under the NameError  category in Python. You'll see]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Clear a JavaScript Array – JS Empty Array]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-clear-a-javascript-array-js-empty-array/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-clear-a-javascript-array-js-empty-array/"/>
+        <updated>2022-06-27T15:53:34.000Z</updated>
+        <summary type="html"><![CDATA[There are multiple ways to empty an existing array in JavaScript. Emptying an array means removing all values from it. In this article, I'll show and explain two ways to clear an array. 1. How to Clear an Array by Modifying the Length Property The length property of an array]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Weigh Truth With a Balance Scale]]></title>
+        <id>https://www.quantamagazine.org/?p=116163</id>
+        <link href="https://www.quantamagazine.org/puzzles-on-weighing-truth-with-a-balance-scale-20220627/"/>
+        <updated>2022-06-27T14:06:01.000Z</updated>
+        <summary type="html"><![CDATA[In recreational mathematics, the balance scale is an endless source of puzzles that require precise and elaborate logic and teach the fundamentals of generalization.            
+The post How to Weigh Truth With a Balance Scale first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Pradeep Mutalik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #70 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-70/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-70/"/>
+        <updated>2022-06-26T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Happy summer day!
+
+I learned that Edge has been shipping the feature of vertical tabs for over a year now. Did you see people talking about it? I didn't.
+This discovery made me look at my browsing habits, though. I use Firefox as my primary browser and have 88 open tabs while writing this newsletter.
+Additionally, Wavebox sits on another monitor to move Gmail, multiple Messengers and all the other always-open websites out of my browser. This approach works, but I wouldn't say that I'm happy with this setup.
+But it's not only me. I see a lot of folks fighting the unorganized mess of too many tabs and websites. Did the internet outgrow browsers built to show a handful of websites?
+I read somewhere that Chrome's user base is so big that Google doesn't want to make drastic changes to the UI no…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — … no worries if not]]></title>
         <id>62ae7220d9dbed2e26ec6366</id>
@@ -1461,105 +1528,6 @@ The post How to Make the Universe Think for Us first appeared on Quanta Magazine
         <summary type="html"><![CDATA[Do you want to turn a string into an array of strings using Python? One way to do this is with Python's built-in .split() method. Here's an example of how to do this in the Python command line: >>> string1 = "test your might" >>> string1.split(" "); # Output: ['test',]]></summary>
         <author>
             <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lorem Ipsum Placeholder Text – Long Latin Filler Text and its History]]></title>
-        <id>https://www.freecodecamp.org/news/lorem-ipsum-placeholder-text-latin-filler-history/</id>
-        <link href="https://www.freecodecamp.org/news/lorem-ipsum-placeholder-text-latin-filler-history/"/>
-        <updated>2022-05-29T13:24:56.000Z</updated>
-        <summary type="html"><![CDATA[Here is the full Lorem Ipsum text from 55 BC: Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo.  Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Space – How to Add Spaces in HTML]]></title>
-        <id>https://www.freecodecamp.org/news/html-space-how-to-add-spaces/</id>
-        <link href="https://www.freecodecamp.org/news/html-space-how-to-add-spaces/"/>
-        <updated>2022-05-29T00:47:27.000Z</updated>
-        <summary type="html"><![CDATA[Adding a space to your HTML can be deceptively difficult. And there are at least 5 of ways to go about doing this.  This tutorial will show you several examples. It will also show you how to use fancy versions of space, too. You can do all this in]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Extra fancy jump]]></title>
-        <id>6289735b9148eb5b8b7e4aea</id>
-        <link href="https://labnotes.org/weekend-reading-extra-fancy-jump/"/>
-        <updated>2022-05-29T00:10:05.000Z</updated>
-        <summary type="html"><![CDATA[This week we got a lot more ML than is healthy, so we balance with the Pong schematics and email horses.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #67 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-67/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-67/"/>
-        <updated>2022-05-28T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Heidi Ho, friends!
-
-As you may know, I started a new job recently and had to set up a new Gmail account. I discovered that there are some customizations I can't live without. Maybe they're valuable for you, too!
-My morning routine includes getting my inbox as close to zero as possible. To not get distracted, I turn on auto-advance. Find the feature under the "Advanced" settings and automatically move to the next email after replying, deleting or archiving an email. It's perfect for flying through your inbox while keeping the flow!
-Keyboard shortcuts are hidden behind the "Advanced" settings, too. Once you have enabled it, you can navigate your inbox using your keyboard! 💯
-And lastly, I wrote about Gmails multiple stars and inbox features in the past. You can group and structure your inbox…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How specify the starting number of an ordered HTML list (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/how-specify-the-starting-number-of-an-ordered-html-list/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/how-specify-the-starting-number-of-an-ordered-html-list/"/>
-        <updated>2022-05-28T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I discovered an HTML attribute that I hadn't seen before. Let me introduce you to the value attribute. 👇
-
-        
-
-        
-Stefan Judis
-              @stefanjudis
-            
-Quick HTML tip: I just discovered that `li` elements support a `value` attribute to configure the start of an ordered list. 
-369 retweets
-            2715 likes
-
-            Tweeted 
-              
-                Apr 04 2022
-              
-            
-            Open Tweet
-          
-
-Trending Tweets often come with priceless comments. And it turned out that there are multiple ways to control the numbers of an ordered list.
-Let's have a quick look!
-Specify the list start using start
-
-Manuel pointed out that the start attribute also allows you to specify the beginning of the unordered list. Ordered lists usually start at 1.
-[Interactive component: visit the article to see it...]
-This functionality is valuable if your listings are divided by paragraphs and additional information.
-Define the list item position using value
-
-As already mentioned; if you want to control the position of a single list item, you can also use the value attribute on a specific list item.
-[Interactive component: visit the article to see it...]
-This functionality is valuable if you're dealing with rankings and two entries are in the same position.
-Bonus: Control list styles via CSS
-
-And for completeness, there are also ways to control the list styles via list-style in CSS.
-[Interactive component: visit the article to see it...]
-Read more about list-style on MDN.
-If you're going for custom list styles, don't visually change the meaning of your listing to keep your HTML accessible in RSS feeds or assistive technology.
-
-It's so fascinating that HTML still holds surprises for me after writing it for over ten years!
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
