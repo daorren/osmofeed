@@ -33,6 +33,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/check-if-an-item-is-in-an-array-in-javascript-js-contains-with-array-includes/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use the includes() method in JavaScript to check if an item exists in an array. You can also use it to check if a substring exists within a string.  It returns true if the item is found in the array/string and false if the item doesn't exist.",
+          "link": "https://www.freecodecamp.org/news/check-if-an-item-is-in-an-array-in-javascript-js-contains-with-array-includes/",
+          "publishedOn": "2022-06-28T22:28:00.000Z",
+          "wordCount": 1598,
+          "title": "Check if an Item is in an Array in JavaScript – JS Contains with Array.includes()",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/pankaj-patel-1IW4HQuauSU-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique/",
+          "author": "CESS",
+          "description": "The Feynman approach is an excellent way to gain a deeper understanding of a complex topic. It's one of the quickest ways to turn a complex topic into one that you can explain in simple terms to others. This article will teach you how to break complex coding concepts into",
+          "link": "https://www.freecodecamp.org/news/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique/",
+          "publishedOn": "2022-06-28T19:26:19.000Z",
+          "wordCount": 2487,
+          "title": "How to Understand Complex Coding Concepts Using the Feynman Technique",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/HTML-Best-Practices---How-to-Build-a-Better-HTML-Based-Website.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-install-java-in-ubuntu-jdk-linux-tutorial/",
+          "author": "Sebastian Sigl",
+          "description": "Java is one of the most popular programming languages in use today. And a clean setup lets you seamlessly install Java and switch between different versions when you're building applications.  In this tutorial you will learn how to:  * Install any Java version,  * Switch between Java",
+          "link": "https://www.freecodecamp.org/news/how-to-install-java-in-ubuntu-jdk-linux-tutorial/",
+          "publishedOn": "2022-06-28T19:21:28.000Z",
+          "wordCount": 1931,
+          "title": "How to Install Java in Ubuntu – JDK Linux Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/how-to-install-java.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-the-429-too-many-requests-http-error/",
+          "author": "Kolade Chris",
+          "description": "Whether you are a web developer or you are a regular internet user, you might have encountered a 429 error. It means that the website can't handle the number of requests being sent to it. For a developer, this error can be hard to resolve because, on many occasions, it",
+          "link": "https://www.freecodecamp.org/news/what-is-the-429-too-many-requests-http-error/",
+          "publishedOn": "2022-06-28T15:45:26.000Z",
+          "wordCount": 1484,
+          "title": "429 Error – Too Many Requests HTTP Code Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/429.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-greedy-algorithms/",
+          "author": "Beau Carnes",
+          "description": "Many tech companies want people to solve coding challenges during interviews and many of the challenges can be solved using a greedy algorithm. A greedy algorithm is any algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage.  We just published a course on",
+          "link": "https://www.freecodecamp.org/news/learn-greedy-algorithms/",
+          "publishedOn": "2022-06-28T14:01:44.000Z",
+          "wordCount": 860,
+          "title": "Learn Greedy Algorithms and Solve Coding Challenges",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/greedy.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-write-a-java-program-to-find-the-fibonacci-series/",
+          "author": "Bikash Daga (Jain)",
+          "description": "The Fibonacci Series is a special kind of sequence that starts with 0 and 1, and every number after those two is the sum of the two preceding numbers.  The Fibonacci series goes like this: 0, 1, 1, 2, 3, 5, 8, 13, 21, … and so on. It",
+          "link": "https://www.freecodecamp.org/news/how-to-write-a-java-program-to-find-the-fibonacci-series/",
+          "publishedOn": "2022-06-28T12:06:00.000Z",
+          "wordCount": 2515,
+          "title": "How to Write a Java Program to Get the Fibonacci Series",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/How-to-write-Java-Program-to-find-Fibonacci-Series-2.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/refresh-the-page-in-javascript-js-reload-window-tutorial/",
           "author": "Joel Olawanle",
           "description": "When you're developing applications like a blog or a page where the data may change based on user actions, you'll want that page to refresh frequently. When the page refreshes or reloads, it will show any new data based off those user interactions. Good news – you can implement this",
@@ -971,16 +1031,6 @@
           "wordCount": 1912,
           "title": "Python Read File – How to Open, Read, and Write to Files in Python",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/read-write-files-python--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-split-string/",
-          "author": "Quincy Larson",
-          "description": "Do you want to turn a string into an array of strings using Python? One way to do this is with Python's built-in .split() method. Here's an example of how to do this in the Python command line: >>> string1 = \"test your might\" >>> string1.split(\" \"); # Output: ['test',",
-          "link": "https://www.freecodecamp.org/news/python-split-string/",
-          "publishedOn": "2022-05-29T20:27:27.000Z",
-          "wordCount": 783,
-          "title": "Python .split() – Splitting a String in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/mariana-jm-UvdzLNj1Vmk-unsplash_jpg.png"
         }
       ]
     },
@@ -989,6 +1039,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=116232",
+          "author": "Viviane Callier",
+          "description": "Protein buildups like those seen around neurons in Alzheimer’s, Parkinson’s and other brain diseases occur in all aging cells, a new study suggests. Learning their significance may reveal new strategies for treating age-related diseases.            \nThe post Protein Blobs Linked to Alzheimer’s Affect Aging in All Cells first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/protein-blobs-linked-to-alzheimers-affect-aging-in-all-cells-20220628/",
+          "publishedOn": "2022-06-28T13:52:56.000Z",
+          "wordCount": 8013,
+          "title": "Protein Blobs Linked to Alzheimer’s Affect Aging in All Cells",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/Aging_agregates_1200_Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=116163",
           "author": "Pradeep Mutalik",
