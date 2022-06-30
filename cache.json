@@ -33,6 +33,76 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/javascript-date-comparison-how-to-compare-dates-in-js/",
+          "author": "Joel Olawanle",
+          "description": "A date is one of the most common datatypes developers use when creating real-world applications.  But often, devs struggle with this datatype and end up using date libraries like Moment.js for simple tasks that aren't worth the large package size that comes with installing an entire package. In this",
+          "link": "https://www.freecodecamp.org/news/javascript-date-comparison-how-to-compare-dates-in-js/",
+          "publishedOn": "2022-06-29T19:06:00.000Z",
+          "wordCount": 1418,
+          "title": "JavaScript Date Comparison – How to Compare Dates in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template--6-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-js-ink-cli-tutorial/",
+          "author": "Amazing Enyichi Agu",
+          "description": "React is a popular front-end JavaScript development library. It ranks #1 in awareness and usage according to the State Of JS 2021 [https://2021.stateofjs.com/en-US/libraries/front-end-frameworks/] survey.  This means that a majority of JavaScript developers likely are aware of or use React.  Even though React is popular for building web app",
+          "link": "https://www.freecodecamp.org/news/react-js-ink-cli-tutorial/",
+          "publishedOn": "2022-06-29T18:41:08.000Z",
+          "wordCount": 2769,
+          "title": "React + Ink CLI Tutorial – How to Build a Browser Command Line Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/freehero.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/design-an-api-application-program-interface/",
+          "author": "Sophia Iroegbu",
+          "description": "API stands for Application Programming Interface. An API communicates with two applications using requests and responses. It is exposed to external users. How Does an API Work?  How an API worksImagine you are in a store and want to buy a soda. But you can't just walk in and",
+          "link": "https://www.freecodecamp.org/news/design-an-api-application-program-interface/",
+          "publishedOn": "2022-06-29T18:04:39.000Z",
+          "wordCount": 2548,
+          "title": "How to Design an API – Application Programming Interface Best Practices",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/Tech-Blog-Cover--2-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-localhost/",
+          "author": "Kolade Chris",
+          "description": "If you are an experienced web developer, then you’ve likely seen the term “localhost” on many occasions. And even if you’re a beginner and just getting started in web development, you might have seen the number “127.0.0.1:” while using a live server plugin. You might be using it to test",
+          "link": "https://www.freecodecamp.org/news/what-is-localhost/",
+          "publishedOn": "2022-06-29T16:11:00.000Z",
+          "wordCount": 1232,
+          "title": "What is Localhost? Local Host IP Address Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/localhost.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-string-to-date-date-parsing-in-js/",
+          "author": "Eamonn Cottrell",
+          "description": "Dates are a pretty fundamental concept. We use them all the time. And computers use them all the time. But parsing dates using JavaScript can be a little...well, interesting. In this article, we'll:  1. Discuss date formatting  2. Turn a wee ol' string into a proper date object",
+          "link": "https://www.freecodecamp.org/news/javascript-string-to-date-date-parsing-in-js/",
+          "publishedOn": "2022-06-29T15:46:32.000Z",
+          "wordCount": 1594,
+          "title": "JavaScript String to Date – Date Parsing in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/Javascript-String-to-Date-01-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-terraform-and-azure-by-building-a-dev-environment/",
+          "author": "Beau Carnes",
+          "description": "Terraform is an open source infrastructure as code software tool that makes it easy to programmatically to set up infrastructure on a variety of cloud service providers. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Terraform and Azure to setup a",
+          "link": "https://www.freecodecamp.org/news/learn-terraform-and-azure-by-building-a-dev-environment/",
+          "publishedOn": "2022-06-29T14:35:30.000Z",
+          "wordCount": 928,
+          "title": "Learn Terraform and Azure by Building a Dev Environment",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/terraformazure.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-convert-string-to-number-js-string-to-int-example/",
+          "author": "Joel Olawanle",
+          "description": "When you're working with data from various sources, some of these data may arrive in the incorrect format. And you'll need to correct those formats before performing certain actions on the data.  This is just one of the many reasons you might want to learn how to convert a",
+          "link": "https://www.freecodecamp.org/news/javascript-convert-string-to-number-js-string-to-int-example/",
+          "publishedOn": "2022-06-29T00:04:12.000Z",
+          "wordCount": 1842,
+          "title": "JavaScript Convert String to Number – JS String to Int Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template--5-.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/check-if-an-item-is-in-an-array-in-javascript-js-contains-with-array-includes/",
           "author": "Ihechikara Vincent Abba",
           "description": "You can use the includes() method in JavaScript to check if an item exists in an array. You can also use it to check if a substring exists within a string.  It returns true if the item is found in the array/string and false if the item doesn't exist.",
@@ -1039,6 +1109,26 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=116413",
+          "author": "Steven Strogatz",
+          "description": "Artificial intelligence has bested humans at problem-solving challenges like chess and Go. Is mathematics research next? Steven Strogatz speaks with mathematician Kevin Buzzard to learn about the effort to translate math into language that computers understand.            \nThe post Can Computers Be Mathematicians? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/can-computers-be-mathematicians-20220629/",
+          "publishedOn": "2022-06-29T21:05:04.000Z",
+          "wordCount": 14681,
+          "title": "Can Computers Be Mathematicians?",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/JoW_LEAN_1200_Social_LOGO.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=116307",
+          "author": "Adam Mann",
+          "description": "Decades after a Tanzanian teenager initiated study of the “Mpemba effect,” the effort to confirm or refute it is leading physicists toward new theories about how substances relax to equilibrium.            \nThe post Controversy Continues Over Whether Hot Water Freezes Faster Than Cold first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/does-hot-water-freeze-faster-than-cold-physicists-keep-asking-20220629/",
+          "publishedOn": "2022-06-29T14:50:23.000Z",
+          "wordCount": 7964,
+          "title": "Controversy Continues Over Whether Hot Water Freezes Faster Than Cold",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/MPEMBA_1200_Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=116232",
           "author": "Viviane Callier",
