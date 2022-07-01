@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-30T02:05:24.033Z</updated>
+    <updated>2022-07-01T02:20:50.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python Set – How to Create Sets in Python]]></title>
+        <id>https://www.freecodecamp.org/news/python-set-how-to-create-sets-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/python-set-how-to-create-sets-in-python/"/>
+        <updated>2022-06-30T22:43:42.000Z</updated>
+        <summary type="html"><![CDATA[You can use sets in Python to store a collection of data in a single variable.  Each of the built-in data structures in Python like lists, dictionaries, and tuples have their distinguishing features.  Here are some of the features of sets in Python:   * Duplicate items]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Functions in JavaScript? A Beginner's Guide]]></title>
+        <id>https://www.freecodecamp.org/news/what-are-functions-in-javascript-a-beginners-guide/</id>
+        <link href="https://www.freecodecamp.org/news/what-are-functions-in-javascript-a-beginners-guide/"/>
+        <updated>2022-06-30T20:32:18.000Z</updated>
+        <summary type="html"><![CDATA[Functions are one of the fundamental concepts in programming. They let us write concise, modular, reusable, and maintainable code. They also help us obey the DRY principle when writing code. In this article, you will learn what functions are in JavaScript, how to write your own custom functions, and how]]></summary>
+        <author>
+            <name>Chinwendu Enyinna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the React useState Hook in 10 minutes – Hooks for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/learn-react-usestate-hook-in-10-minutes/</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-usestate-hook-in-10-minutes/"/>
+        <updated>2022-06-30T19:40:11.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone 🌈 I haven't written about handling state in React for a long time. The last time was in this article [/news/get-pro-with-react-setstate-in-10-minutes-d38251d1c781/], four years ago, and it seems like it helped a lot of you. I received tons of views and amazing feedback, so thanks a lot – you]]></summary>
+        <author>
+            <name>Eduardo Vedes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Stay Motivated While Learning to Code]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-stay-motivated-while-learning-to-code/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-stay-motivated-while-learning-to-code/"/>
+        <updated>2022-06-30T17:54:56.000Z</updated>
+        <summary type="html"><![CDATA[Learning to code can be like preparing for a long battle. Ultimately, winning is not always determined by your initial strength, but by how well prepared you are and how long you can hold out.  With programming, the greatest challenge is often not the complexity of the language, but]]></summary>
+        <author>
+            <name>D.M. Oladele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sordid Past of the Cubic Formula]]></title>
+        <id>https://www.quantamagazine.org/?p=116369</id>
+        <link href="https://www.quantamagazine.org/the-scandalous-history-of-the-cubic-formula-20220630/"/>
+        <updated>2022-06-30T14:54:04.000Z</updated>
+        <summary type="html"><![CDATA[The quest to solve cubic equations led to duels, betrayals — and modern mathematics.            
+The post The Sordid Past of the Cubic Formula first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>David S. Richeson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can Computers Be Mathematicians?]]></title>
         <id>https://www.quantamagazine.org/?p=116413</id>
@@ -1620,67 +1671,6 @@ The post How Could Life Evolve From Cyanide? first appeared on Quanta Magazine]]
         <summary type="html"><![CDATA[There are thousands of JavaScript libraries and frameworks. But when you are trying to improve your JavaScript skills, it can sometimes be helpful to create a project using no libraries and no frameworks. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Apply to Google Summer of Code – GSoC Application Guide]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-apply-to-google-summer-of-code/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-apply-to-google-summer-of-code/"/>
-        <updated>2022-05-31T19:48:57.000Z</updated>
-        <summary type="html"><![CDATA[If you have heard of Google Summer of Code [https://summerofcode.withgoogle.com]  but aren't sure how to apply, then read on. Whether you are a college student or a working professional, GSoC now is open to both. What is GSoC and How Does it Work? GSoC is a program that encourages]]></summary>
-        <author>
-            <name>Jagruti Tiwari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make the Universe Think for Us]]></title>
-        <id>https://www.quantamagazine.org/?p=115472</id>
-        <link href="https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/"/>
-        <updated>2022-05-31T18:50:45.000Z</updated>
-        <summary type="html"><![CDATA[Physicists are building neural networks out of vibrations, voltages and lasers, arguing that the future of computing lies in exploiting the universe’s complex physical behaviors.            
-The post How to Make the Universe Think for Us first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Charlie Wood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Data Analysis?]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-data-analysis/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-data-analysis/"/>
-        <updated>2022-05-31T15:59:04.000Z</updated>
-        <summary type="html"><![CDATA[Data are everywhere nowadays. And with each passing year, the amount of data we are producing will only continue to increase. There is a large amount of data available, but what do we do with all that data? How is it all used? And what does all that data mean?]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Square a Number in Python – Squaring Function]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-square-a-number-in-python-squaring-function/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-square-a-number-in-python-squaring-function/"/>
-        <updated>2022-05-31T15:03:14.000Z</updated>
-        <summary type="html"><![CDATA[To square a number, you multiply that number by itself. And there are multiple ways to do this in Python. You can directly multiple a number by itself (number * number) but in this article, I'll show you three ways you can do this without hardcoding both numbers. The three]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Open a Link in a New Tab – HTML target blank Attribute Explained]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-open-a-link-in-a-new-tab/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-open-a-link-in-a-new-tab/"/>
-        <updated>2022-05-31T14:53:07.000Z</updated>
-        <summary type="html"><![CDATA[There will be times where you will want your user to click on a website link and have it open in a new browser tab. But how do you do that in HTML? In this article, I will show you how to use the target="_blank" attribute through code examples. I]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Read File – How to Open, Read, and Write to Files in Python]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-read-files-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-read-files-in-python/"/>
-        <updated>2022-05-31T14:29:06.000Z</updated>
-        <summary type="html"><![CDATA[Reading and writing files is a common operation when working with any programming language. You can program your code to read data or instructions from a file and then write the data as well. This increases efficiency and reduces manual effort. Python has a well-defined methodology for opening, reading, and]]></summary>
-        <author>
-            <name>Zaira Hira</name>
         </author>
     </entry>
 </feed>

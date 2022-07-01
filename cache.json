@@ -33,6 +33,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/python-set-how-to-create-sets-in-python/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use sets in Python to store a collection of data in a single variable.  Each of the built-in data structures in Python like lists, dictionaries, and tuples have their distinguishing features.  Here are some of the features of sets in Python:   * Duplicate items",
+          "link": "https://www.freecodecamp.org/news/python-set-how-to-create-sets-in-python/",
+          "publishedOn": "2022-06-30T22:43:42.000Z",
+          "wordCount": 2184,
+          "title": "Python Set – How to Create Sets in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/kelly-sikkema--1_RZL8BGBM-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-are-functions-in-javascript-a-beginners-guide/",
+          "author": "Chinwendu Enyinna",
+          "description": "Functions are one of the fundamental concepts in programming. They let us write concise, modular, reusable, and maintainable code. They also help us obey the DRY principle when writing code. In this article, you will learn what functions are in JavaScript, how to write your own custom functions, and how",
+          "link": "https://www.freecodecamp.org/news/what-are-functions-in-javascript-a-beginners-guide/",
+          "publishedOn": "2022-06-30T20:32:18.000Z",
+          "wordCount": 2403,
+          "title": "What are Functions in JavaScript? A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/banner-image-for-functions-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-react-usestate-hook-in-10-minutes/",
+          "author": "Eduardo Vedes",
+          "description": "Hey everyone 🌈 I haven't written about handling state in React for a long time. The last time was in this article [/news/get-pro-with-react-setstate-in-10-minutes-d38251d1c781/], four years ago, and it seems like it helped a lot of you. I received tons of views and amazing feedback, so thanks a lot – you",
+          "link": "https://www.freecodecamp.org/news/learn-react-usestate-hook-in-10-minutes/",
+          "publishedOn": "2022-06-30T19:40:11.000Z",
+          "wordCount": 2683,
+          "title": "Learn the React useState Hook in 10 minutes – Hooks for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2021/09/philipp-katzenberger-jVx8JaO2Ddc-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-stay-motivated-while-learning-to-code/",
+          "author": "D.M. Oladele",
+          "description": "Learning to code can be like preparing for a long battle. Ultimately, winning is not always determined by your initial strength, but by how well prepared you are and how long you can hold out.  With programming, the greatest challenge is often not the complexity of the language, but",
+          "link": "https://www.freecodecamp.org/news/how-to-stay-motivated-while-learning-to-code/",
+          "publishedOn": "2022-06-30T17:54:56.000Z",
+          "wordCount": 2924,
+          "title": "How to Stay Motivated While Learning to Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-i-age-1.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/javascript-date-comparison-how-to-compare-dates-in-js/",
           "author": "Joel Olawanle",
           "description": "A date is one of the most common datatypes developers use when creating real-world applications.  But often, devs struggle with this datatype and end up using date libraries like Moment.js for simple tasks that aren't worth the large package size that comes with installing an entire package. In this",
@@ -1051,56 +1091,6 @@
           "wordCount": 37918,
           "title": "Code a Shopping Cart with JavaScript (no libraries)",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/shopping.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-apply-to-google-summer-of-code/",
-          "author": "Jagruti Tiwari",
-          "description": "If you have heard of Google Summer of Code [https://summerofcode.withgoogle.com]  but aren't sure how to apply, then read on. Whether you are a college student or a working professional, GSoC now is open to both. What is GSoC and How Does it Work? GSoC is a program that encourages",
-          "link": "https://www.freecodecamp.org/news/how-to-apply-to-google-summer-of-code/",
-          "publishedOn": "2022-05-31T19:48:57.000Z",
-          "wordCount": 3213,
-          "title": "How to Apply to Google Summer of Code – GSoC Application Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/cristian-tarzi-6K8gY2g0Mfo-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-data-analysis/",
-          "author": "Dionysia Lemonaki",
-          "description": "Data are everywhere nowadays. And with each passing year, the amount of data we are producing will only continue to increase. There is a large amount of data available, but what do we do with all that data? How is it all used? And what does all that data mean?",
-          "link": "https://www.freecodecamp.org/news/what-is-data-analysis/",
-          "publishedOn": "2022-05-31T15:59:04.000Z",
-          "wordCount": 3049,
-          "title": "What is Data Analysis?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/luke-chesser-JKUTrJ4vK00-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-square-a-number-in-python-squaring-function/",
-          "author": "Dillion Megida",
-          "description": "To square a number, you multiply that number by itself. And there are multiple ways to do this in Python. You can directly multiple a number by itself (number * number) but in this article, I'll show you three ways you can do this without hardcoding both numbers. The three",
-          "link": "https://www.freecodecamp.org/news/how-to-square-a-number-in-python-squaring-function/",
-          "publishedOn": "2022-05-31T15:03:14.000Z",
-          "wordCount": 811,
-          "title": "How to Square a Number in Python – Squaring Function",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/square-number-python.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-open-a-link-in-a-new-tab/",
-          "author": "Jessica Wilkins",
-          "description": "There will be times where you will want your user to click on a website link and have it open in a new browser tab. But how do you do that in HTML? In this article, I will show you how to use the target=\"_blank\" attribute through code examples. I",
-          "link": "https://www.freecodecamp.org/news/how-to-open-a-link-in-a-new-tab/",
-          "publishedOn": "2022-05-31T14:53:07.000Z",
-          "wordCount": 893,
-          "title": "How to Open a Link in a New Tab – HTML target blank Attribute Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/markus-spiske-4qbS830djfs-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-read-files-in-python/",
-          "author": "Zaira Hira",
-          "description": "Reading and writing files is a common operation when working with any programming language. You can program your code to read data or instructions from a file and then write the data as well. This increases efficiency and reduces manual effort. Python has a well-defined methodology for opening, reading, and",
-          "link": "https://www.freecodecamp.org/news/how-to-read-files-in-python/",
-          "publishedOn": "2022-05-31T14:29:06.000Z",
-          "wordCount": 1912,
-          "title": "Python Read File – How to Open, Read, and Write to Files in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/read-write-files-python--1-.png"
         }
       ]
     },
@@ -1109,6 +1099,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=116369",
+          "author": "David S. Richeson",
+          "description": "The quest to solve cubic equations led to duels, betrayals — and modern mathematics.            \nThe post The Sordid Past of the Cubic Formula first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-scandalous-history-of-the-cubic-formula-20220630/",
+          "publishedOn": "2022-06-30T14:54:04.000Z",
+          "wordCount": 5695,
+          "title": "The Sordid Past of the Cubic Formula",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/Cubic-Equations_1200_Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=116413",
           "author": "Steven Strogatz",
@@ -1318,16 +1318,6 @@
           "wordCount": 7099,
           "title": "How Could Life Evolve From Cyanide?",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/TJY_Origins_Life_1200_Social_LOGO.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=115472",
-          "author": "Charlie Wood",
-          "description": "Physicists are building neural networks out of vibrations, voltages and lasers, arguing that the future of computing lies in exploiting the universe’s complex physical behaviors.            \nThe post How to Make the Universe Think for Us first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/",
-          "publishedOn": "2022-05-31T18:50:45.000Z",
-          "wordCount": 2963,
-          "title": "How to Make the Universe Think for Us",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/0601_Physical-Neural-Networks_1200_Social.jpg"
         }
       ]
     },
