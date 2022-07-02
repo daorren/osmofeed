@@ -33,6 +33,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/",
+          "author": "Israel Mitolu",
+          "description": "Are you having difficulties importing SVGs into your React app? This is a problem that many developers face, especially when setting up a new React app with a module bundler. In this article, I will share with you the different ways of importing SVGs in React, as well as how",
+          "link": "https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/",
+          "publishedOn": "2022-07-01T22:15:02.000Z",
+          "wordCount": 2025,
+          "title": "How to Import SVGs in a React and Vite app",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Blog-article-cover-images--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-string-comparison-how-to-compare-strings-in-js/",
+          "author": "Dillion Megida",
+          "description": "You may want to compare two strings to know which is higher or lower alphabetically or to see if they are equal. You can do this in many ways. I'll show you two of them in this article. 1. How to Compare Strings Using localeCompare You can use the localeCompare",
+          "link": "https://www.freecodecamp.org/news/javascript-string-comparison-how-to-compare-strings-in-js/",
+          "publishedOn": "2022-07-01T22:07:46.000Z",
+          "wordCount": 1299,
+          "title": "JavaScript String Comparison – How to Compare Strings in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/string-comparison.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-else-if-statement-example/",
+          "author": "Dionysia Lemonaki",
+          "description": "Conditional statements are helpful for decision-making and are a core concept in all programming languages. In this article, you will learn how to write conditional statements in Python. Specifically, you will learn how to write if, if else, and elif (also known as  else if) statements in Python. Here",
+          "link": "https://www.freecodecamp.org/news/python-else-if-statement-example/",
+          "publishedOn": "2022-07-01T22:02:40.000Z",
+          "wordCount": 2455,
+          "title": "Python Else-If Statement Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/pexels-pixabay-459653.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/track-machine-learning-experiments-with-harperdb/",
+          "author": "Davis David",
+          "description": "Properly tracking your machine learning experiments is easier than you think. When working on a machine learning project, you will conduct different machine learning experiments before you reach the final ML model with the best performance.  Here are some possible machine learning experiments you might conduct:  * Testing",
+          "link": "https://www.freecodecamp.org/news/track-machine-learning-experiments-with-harperdb/",
+          "publishedOn": "2022-07-01T17:12:06.000Z",
+          "wordCount": 3745,
+          "title": "How to Track Machine Learning Experiments with HarperDB",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/image7.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-vlookup-in-excel/",
+          "author": "Dionysia Lemonaki",
+          "description": "When you're working in Excel, the VLOOKUP function makes looking up information less time-consuming. This is particularly true when you're using more than one Excel sheet. In this article, you will learn what the VLOOKUP function does, as well as understand the syntax behind it. You will also learn how",
+          "link": "https://www.freecodecamp.org/news/how-to-use-vlookup-in-excel/",
+          "publishedOn": "2022-07-01T16:47:37.000Z",
+          "wordCount": 1555,
+          "title": "How to Use VLOOKUP in Excel",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/scott-graham-5fNmWej4tAA-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/battery-icon-not-showing-how-to-restore-missing-battery-icon-in-windows-pc/",
+          "author": "Kolade Chris",
+          "description": "So, you’re working with your Windows PC and you discover you can’t find the battery icon in the taskbar. You even expand hidden icons and you still can’t find the battery icon. This could result in a negative effect on your productivity – because if you don't plug your laptop",
+          "link": "https://www.freecodecamp.org/news/battery-icon-not-showing-how-to-restore-missing-battery-icon-in-windows-pc/",
+          "publishedOn": "2022-07-01T15:57:24.000Z",
+          "wordCount": 1009,
+          "title": "Battery Icon Not Showing – How to Restore Missing Battery Icon in Windows PC",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/batteryMissing.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/python-set-how-to-create-sets-in-python/",
           "author": "Ihechikara Vincent Abba",
           "description": "You can use sets in Python to store a collection of data in a single variable.  Each of the built-in data structures in Python like lists, dictionaries, and tuples have their distinguishing features.  Here are some of the features of sets in Python:   * Duplicate items",
@@ -1051,46 +1111,6 @@
           "wordCount": 4448,
           "title": "Build a Heroku Clone – Provision Infrastructure Programmatically",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/heroku-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-an-svg-file/",
-          "author": "Kolade Chris",
-          "description": "SVG stands for scalable vector graphics. It's a web-friendly vector-based file format used to render two-dimensional images on the internet. You can identify SVG files by their extension – .svg. Unlike other popular image formats like PNG, JPEG, and JPG – which store image information in form of pixels because",
-          "link": "https://www.freecodecamp.org/news/what-is-an-svg-file/",
-          "publishedOn": "2022-06-01T16:05:04.000Z",
-          "wordCount": 1055,
-          "title": "What is an SVG File?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/svg.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-indent-in-html-and-why-it-is-important/",
-          "author": "Jessica Wilkins",
-          "description": "When you are building out HTML files, it's really important to indent your code. But how do you do that in HTML and why is it important? In this article, I will show you how to properly indent your HTML files and explain why it is important to properly format",
-          "link": "https://www.freecodecamp.org/news/how-to-indent-in-html-and-why-it-is-important/",
-          "publishedOn": "2022-06-01T15:40:55.000Z",
-          "wordCount": 1228,
-          "title": "How to Indent HTML Code – And Why it's Important",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/irvan-smith-ymn_TY_MBn8-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-deploy-your-machine-learning-model-as-a-web-app-using-gradio/",
-          "author": "Ibrahim Abayomi Ogunbiyi",
-          "description": "You've built your Machine Learning model with 99% accuracy and now you are ecstatic. You are like yaaaaaaaaay! My model performed well.  Then you paused and you were like – now what?  Well first, you might have thought of uploading your code to GitHub and showing people your",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-your-machine-learning-model-as-a-web-app-using-gradio/",
-          "publishedOn": "2022-06-01T15:14:51.000Z",
-          "wordCount": 1754,
-          "title": "How to Deploy a Machine Learning Model as a Web App Using Gradio",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/deploy-ml-models-article.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/code-a-shopping-cart-with-javascript/",
-          "author": "Beau Carnes",
-          "description": "There are thousands of JavaScript libraries and frameworks. But when you are trying to improve your JavaScript skills, it can sometimes be helpful to create a project using no libraries and no frameworks. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code",
-          "link": "https://www.freecodecamp.org/news/code-a-shopping-cart-with-javascript/",
-          "publishedOn": "2022-06-01T14:21:00.000Z",
-          "wordCount": 37918,
-          "title": "Code a Shopping Cart with JavaScript (no libraries)",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/shopping.png"
         }
       ]
     },
@@ -1099,6 +1119,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=116554",
+          "author": "Joanna Thompson",
+          "description": "A new origins-based system for classifying minerals reveals the huge geochemical imprint that life has left on Earth. It could help us identify other worlds with life too.            \nThe post Life Helps Make Almost Half of All Minerals on Earth first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/life-helps-make-almost-half-of-all-minerals-20220701/",
+          "publishedOn": "2022-07-01T14:00:50.000Z",
+          "wordCount": 5416,
+          "title": "Life Helps Make Almost Half of All Minerals on Earth",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/07/Minerals_1200_Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=116369",
           "author": "David S. Richeson",
@@ -1298,26 +1328,6 @@
           "wordCount": 2398,
           "title": "Surfaces Beyond Imagination Are Discovered After Decades-Long Search",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/Reimann_Surfaces_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=115400",
-          "author": "Alex Kontorovich",
-          "description": "The Langlands program provides a beautifully intricate set of connections between various areas of mathematics, pointing the way toward novel solutions for old problems.            \nThe post What Is the Langlands Program? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/what-is-the-langlands-program-20220601/",
-          "publishedOn": "2022-06-01T20:35:09.000Z",
-          "wordCount": 1518,
-          "title": "What Is the Langlands Program?",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/05/Langlands_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=115538",
-          "author": "Steven Strogatz",
-          "description": "How did life arise on Earth? Steven Strogatz speaks with the Nobel Prize-winning biologist Jack Szostak and Betül Kaçar, a paleogeneticist and astrobiologist, to explore our best understanding of how we all got here.            \nThe post How Could Life Evolve From Cyanide? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-could-life-evolve-from-cyanide-20220601/",
-          "publishedOn": "2022-06-01T17:27:17.000Z",
-          "wordCount": 7099,
-          "title": "How Could Life Evolve From Cyanide?",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/TJY_Origins_Life_1200_Social_LOGO.jpg"
         }
       ]
     },
@@ -1440,6 +1450,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/418",
+          "author": null,
+          "description": "#​418 — July 1, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\n☺️ Somehow we've only just noticed that the go.dev site links to Golang Weekly in its footer — a big thank you to anyone involved in that decision. We're not an official Go newsletter by any means, but we try our best to live up to the ideals of the Go community and to reflect everything we see going on. Thanks to all of you for your ongoing support!\n__\nPeter Cooper and the Cooperpress team\n\n\n    \n    \n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nAwesome Go: Almost 2400 Categorized Go Resources — Every year we link to this fantastic resource because unlike many ‘awesome’ lists, it continues to get very frequent updates and you’re encouraged to submit contributions of your own too (but don't forget to send them to us too! 😉)\nAwesome …",
+          "link": "https://golangweekly.com/issues/418",
+          "publishedOn": "2022-07-01T00:00:00.000Z",
+          "wordCount": 960,
+          "title": "The place to share your Go projects.",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/417",
           "author": null,

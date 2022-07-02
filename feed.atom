@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-01T02:20:50.836Z</updated>
+    <updated>2022-07-02T02:00:56.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Import SVGs in a React and Vite app]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/"/>
+        <updated>2022-07-01T22:15:02.000Z</updated>
+        <summary type="html"><![CDATA[Are you having difficulties importing SVGs into your React app? This is a problem that many developers face, especially when setting up a new React app with a module bundler. In this article, I will share with you the different ways of importing SVGs in React, as well as how]]></summary>
+        <author>
+            <name>Israel Mitolu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript String Comparison – How to Compare Strings in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-string-comparison-how-to-compare-strings-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-string-comparison-how-to-compare-strings-in-js/"/>
+        <updated>2022-07-01T22:07:46.000Z</updated>
+        <summary type="html"><![CDATA[You may want to compare two strings to know which is higher or lower alphabetically or to see if they are equal. You can do this in many ways. I'll show you two of them in this article. 1. How to Compare Strings Using localeCompare You can use the localeCompare]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Else-If Statement Example]]></title>
+        <id>https://www.freecodecamp.org/news/python-else-if-statement-example/</id>
+        <link href="https://www.freecodecamp.org/news/python-else-if-statement-example/"/>
+        <updated>2022-07-01T22:02:40.000Z</updated>
+        <summary type="html"><![CDATA[Conditional statements are helpful for decision-making and are a core concept in all programming languages. In this article, you will learn how to write conditional statements in Python. Specifically, you will learn how to write if, if else, and elif (also known as  else if) statements in Python. Here]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Track Machine Learning Experiments with HarperDB]]></title>
+        <id>https://www.freecodecamp.org/news/track-machine-learning-experiments-with-harperdb/</id>
+        <link href="https://www.freecodecamp.org/news/track-machine-learning-experiments-with-harperdb/"/>
+        <updated>2022-07-01T17:12:06.000Z</updated>
+        <summary type="html"><![CDATA[Properly tracking your machine learning experiments is easier than you think. When working on a machine learning project, you will conduct different machine learning experiments before you reach the final ML model with the best performance.  Here are some possible machine learning experiments you might conduct:  * Testing]]></summary>
+        <author>
+            <name>Davis David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use VLOOKUP in Excel]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-vlookup-in-excel/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-vlookup-in-excel/"/>
+        <updated>2022-07-01T16:47:37.000Z</updated>
+        <summary type="html"><![CDATA[When you're working in Excel, the VLOOKUP function makes looking up information less time-consuming. This is particularly true when you're using more than one Excel sheet. In this article, you will learn what the VLOOKUP function does, as well as understand the syntax behind it. You will also learn how]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Battery Icon Not Showing – How to Restore Missing Battery Icon in Windows PC]]></title>
+        <id>https://www.freecodecamp.org/news/battery-icon-not-showing-how-to-restore-missing-battery-icon-in-windows-pc/</id>
+        <link href="https://www.freecodecamp.org/news/battery-icon-not-showing-how-to-restore-missing-battery-icon-in-windows-pc/"/>
+        <updated>2022-07-01T15:57:24.000Z</updated>
+        <summary type="html"><![CDATA[So, you’re working with your Windows PC and you discover you can’t find the battery icon in the taskbar. You even expand hidden icons and you still can’t find the battery icon. This could result in a negative effect on your productivity – because if you don't plug your laptop]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Life Helps Make Almost Half of All Minerals on Earth]]></title>
+        <id>https://www.quantamagazine.org/?p=116554</id>
+        <link href="https://www.quantamagazine.org/life-helps-make-almost-half-of-all-minerals-20220701/"/>
+        <updated>2022-07-01T14:00:50.000Z</updated>
+        <summary type="html"><![CDATA[A new origins-based system for classifying minerals reveals the huge geochemical imprint that life has left on Earth. It could help us identify other worlds with life too.            
+The post Life Helps Make Almost Half of All Minerals on Earth first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Joanna Thompson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The place to share your Go projects.]]></title>
+        <id>https://golangweekly.com/issues/418</id>
+        <link href="https://golangweekly.com/issues/418"/>
+        <updated>2022-07-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#​418 — July 1, 2022
+
+
+Unsubscribe  |  Read on the Web
+
+
+
+☺️ Somehow we've only just noticed that the go.dev site links to Golang Weekly in its footer — a big thank you to anyone involved in that decision. We're not an official Go newsletter by any means, but we try our best to live up to the ideals of the Go community and to reflect everything we see going on. Thanks to all of you for your ongoing support!
+__
+Peter Cooper and the Cooperpress team
+
+
+    
+    
+
+The Go Weekly Newsletter
+
+
+
+
+  
+
+
+
+
+
+  
+  
+Awesome Go: Almost 2400 Categorized Go Resources — Every year we link to this fantastic resource because unlike many ‘awesome’ lists, it continues to get very frequent updates and you’re encouraged to submit contributions of your own too (but don't forget to send them to us too! 😉)
+Awesome …]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python Set – How to Create Sets in Python]]></title>
         <id>https://www.freecodecamp.org/news/python-set-how-to-create-sets-in-python/</id>
@@ -1609,68 +1719,6 @@ The 'Hello World' of Creating WebAssembly with Go? — We like simple, straight 
 The post Surfaces Beyond Imagination Are Discovered After Decades-Long Search first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Leila Sloman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is the Langlands Program?]]></title>
-        <id>https://www.quantamagazine.org/?p=115400</id>
-        <link href="https://www.quantamagazine.org/what-is-the-langlands-program-20220601/"/>
-        <updated>2022-06-01T20:35:09.000Z</updated>
-        <summary type="html"><![CDATA[The Langlands program provides a beautifully intricate set of connections between various areas of mathematics, pointing the way toward novel solutions for old problems.            
-The post What Is the Langlands Program? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Alex Kontorovich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Could Life Evolve From Cyanide?]]></title>
-        <id>https://www.quantamagazine.org/?p=115538</id>
-        <link href="https://www.quantamagazine.org/how-could-life-evolve-from-cyanide-20220601/"/>
-        <updated>2022-06-01T17:27:17.000Z</updated>
-        <summary type="html"><![CDATA[How did life arise on Earth? Steven Strogatz speaks with the Nobel Prize-winning biologist Jack Szostak and Betül Kaçar, a paleogeneticist and astrobiologist, to explore our best understanding of how we all got here.            
-The post How Could Life Evolve From Cyanide? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Steven Strogatz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is an SVG File?]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-an-svg-file/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-an-svg-file/"/>
-        <updated>2022-06-01T16:05:04.000Z</updated>
-        <summary type="html"><![CDATA[SVG stands for scalable vector graphics. It's a web-friendly vector-based file format used to render two-dimensional images on the internet. You can identify SVG files by their extension – .svg. Unlike other popular image formats like PNG, JPEG, and JPG – which store image information in form of pixels because]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Indent HTML Code – And Why it's Important]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-indent-in-html-and-why-it-is-important/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-indent-in-html-and-why-it-is-important/"/>
-        <updated>2022-06-01T15:40:55.000Z</updated>
-        <summary type="html"><![CDATA[When you are building out HTML files, it's really important to indent your code. But how do you do that in HTML and why is it important? In this article, I will show you how to properly indent your HTML files and explain why it is important to properly format]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy a Machine Learning Model as a Web App Using Gradio]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-deploy-your-machine-learning-model-as-a-web-app-using-gradio/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-your-machine-learning-model-as-a-web-app-using-gradio/"/>
-        <updated>2022-06-01T15:14:51.000Z</updated>
-        <summary type="html"><![CDATA[You've built your Machine Learning model with 99% accuracy and now you are ecstatic. You are like yaaaaaaaaay! My model performed well.  Then you paused and you were like – now what?  Well first, you might have thought of uploading your code to GitHub and showing people your]]></summary>
-        <author>
-            <name>Ibrahim Abayomi Ogunbiyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code a Shopping Cart with JavaScript (no libraries)]]></title>
-        <id>https://www.freecodecamp.org/news/code-a-shopping-cart-with-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/code-a-shopping-cart-with-javascript/"/>
-        <updated>2022-06-01T14:21:00.000Z</updated>
-        <summary type="html"><![CDATA[There are thousands of JavaScript libraries and frameworks. But when you are trying to improve your JavaScript skills, it can sometimes be helpful to create a project using no libraries and no frameworks. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
