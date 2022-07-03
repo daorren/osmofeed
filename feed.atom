@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-02T02:00:56.820Z</updated>
+    <updated>2022-07-03T02:07:00.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Just hacks all the way down]]></title>
+        <id>62b7a52fd9dbed2e26ec7107</id>
+        <link href="https://labnotes.org/weekend-reading-just-hacks-all-the-way-down/"/>
+        <updated>2022-07-03T00:39:12.000Z</updated>
+        <summary type="html"><![CDATA[This week we ride on one and two half wheels, design a responsive snake, locate our headphones, and dance to the ring tone.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Import SVGs in a React and Vite app]]></title>
         <id>https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/</id>
@@ -1631,94 +1641,6 @@ This feature is top DX in action! 💯 Thanks Firefox.
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brain-Signal Proteins Evolved Before Animals Did]]></title>
-        <id>https://www.quantamagazine.org/?p=115606</id>
-        <link href="https://www.quantamagazine.org/brain-signal-proteins-evolved-before-animals-did-20220603/"/>
-        <updated>2022-06-03T13:24:57.000Z</updated>
-        <summary type="html"><![CDATA[Some animal neuropeptides have been around longer than nervous systems.            
-The post Brain-Signal Proteins Evolved Before Animals Did first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Viviane Callier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Go team needs your input]]></title>
-        <id>https://golangweekly.com/issues/414</id>
-        <link href="https://golangweekly.com/issues/414"/>
-        <updated>2022-06-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​414 — June 3, 2022
-
-
-Unsubscribe  |  Read on the Web
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-😇  It's Time to Share Your Feedback About Developing with Go — Go’s latest official developer survey is here (and with a new twice-annually cadence). It’s open for the next few weeks (until June 21) and should take around 5-10 minutes to complete. The aggregated results will be shared with the community and used by the Go team to make the language and its ecosystem better.
-The Go Team 
-
-
-  
-  
-The 'Hello World' of Creating WebAssembly with Go? — We like simple, straight forward examples, particularly when it comes to tinkering with unusual or new combinations of tools and tech. If you’re new to WebAssembly, this may be just what you need to figure out the basics of writing Go code and havi…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP Tutorial – How to Setup PHP and XAMPP for Your Project]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-get-started-with-php/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-php/"/>
-        <updated>2022-06-02T15:11:07.000Z</updated>
-        <summary type="html"><![CDATA[Hello and welcome to this tutorial, everyone. Today, we'll look at how you can set up and use PHP in a project.  But before we get started, we'll need to understand what PHP is all about. What is PHP? PHP is an abbreviation or acronym for "Hypertext Preprocessor." It's]]></summary>
-        <author>
-            <name>Okoro Emmanuel Nzube</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Comments – How to Comment out CSS]]></title>
-        <id>https://www.freecodecamp.org/news/css-comments-how-to-comment-out-css/</id>
-        <link href="https://www.freecodecamp.org/news/css-comments-how-to-comment-out-css/"/>
-        <updated>2022-06-02T14:49:40.000Z</updated>
-        <summary type="html"><![CDATA[Commenting is an integral part of any programming language, and CSS is no exception. If you have a very large project or you work in a team, then you'll need to help others understand your CSS stylesheet better by adding comments to it. Since stylesheets can get complicated and verbose]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Heroku Clone – Provision Infrastructure Programmatically]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-heroku-clone-provision-infrastructure-programmatically/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-heroku-clone-provision-infrastructure-programmatically/"/>
-        <updated>2022-06-02T14:08:55.000Z</updated>
-        <summary type="html"><![CDATA[Heroku is a platform as a service that enables developers to build, run, and operate applications entirely in the cloud. Heroku makes it simple to do things like create virtual machines to host applications and to deploy websites. Some of the features that Heroku offers can actually be created easily]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surfaces Beyond Imagination Are Discovered After Decades-Long Search]]></title>
-        <id>https://www.quantamagazine.org/?p=115522</id>
-        <link href="https://www.quantamagazine.org/impossible-seeming-surfaces-confirmed-decades-after-conjecture-20220602/"/>
-        <updated>2022-06-02T14:05:44.000Z</updated>
-        <summary type="html"><![CDATA[Using ideas borrowed from graph theory, two mathematicians have shown that extremely complex surfaces are easy to traverse.            
-The post Surfaces Beyond Imagination Are Discovered After Decades-Long Search first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Leila Sloman</name>
         </author>
     </entry>
 </feed>
