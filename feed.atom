@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-03T02:07:00.635Z</updated>
+    <updated>2022-07-04T02:12:29.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -1623,24 +1623,6 @@ The post Graduate Student’s Side Project Proves Prime Number Conjecture first 
         <summary type="html"><![CDATA[This week we learn the DALLE language, discover infinite disk space, and bring flexbox to 1986.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox DevTools provide a multiline JavaScript console (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/firefox-devtools-provide-a-multiline-javascript-console/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/firefox-devtools-provide-a-multiline-javascript-console/"/>
-        <updated>2022-06-03T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I'm a big fan of prototyping in the JavaScript console and find myself opening the developer tools just for this purpose.
-Unfortunately, console prototyping can sometimes be a little cumbersome for extensive snippets because the console isn't built for writing extended snippets spanning multiple lines. You can work around this by pressing Shift + Enter, but still, it's not great.
-Today, I was thrilled to learn that the Firefox developer tools provide a somewhat hidden multi-line console editor to write extended snippets more easily!
-This feature is top DX in action! 💯 Thanks Firefox.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
