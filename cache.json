@@ -33,6 +33,76 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-update-npm-dependencies/",
+          "author": "Natalie Pina",
+          "description": "The Node Package Manager (npm) provides various features to help you install and maintain your project's dependencies. Dependencies can become outdated over time due to bug fixes, new features, and other updates. The more project dependencies you have, the harder it is to keep up with these updates.  Outdated",
+          "link": "https://www.freecodecamp.org/news/how-to-update-npm-dependencies/",
+          "publishedOn": "2022-07-05T22:55:20.000Z",
+          "wordCount": 1488,
+          "title": "How to Update NPM Dependencies",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/deps.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-check-empty-string-checking-null-or-empty-in-js/",
+          "author": "Joel Olawanle",
+          "description": "There are a number of reasons why you might need to check if a string is empty or not. One of the most important reasons is when you're retrieving data from a database, API, or input field. In this article, you will learn how to check if a sting is",
+          "link": "https://www.freecodecamp.org/news/javascript-check-empty-string-checking-null-or-empty-in-js/",
+          "publishedOn": "2022-07-05T22:43:13.000Z",
+          "wordCount": 1568,
+          "title": "JavaScript Check Empty String – Checking Null or Empty in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template--7-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-top-detect-outliers-in-machine-learning/",
+          "author": "Bala Priya C",
+          "description": "Have you ever trained a machine learning model on a real-world dataset? If yes, you’ll have likely come across outliers.  Outliers are those data points that are significantly different from the rest of the dataset. They are often abnormal observations that skew the data distribution, and arise due to",
+          "link": "https://www.freecodecamp.org/news/how-top-detect-outliers-in-machine-learning/",
+          "publishedOn": "2022-07-05T22:02:13.000Z",
+          "wordCount": 2621,
+          "title": "How to Detect Outliers in Machine Learning – 4 Methods for Outlier Detection",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Outlier-Detection.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-github-copilot-with-visual-studio-code/",
+          "author": "Nishant Kumar",
+          "description": "Hey everyone, welcome! In this article, we will learn how to use the GitHub Copilot AI tool with Visual Studio Code. What is GitHub Copilot? GitHub Copilot is a tool that can help you write easier and faster code. It is powered by GPT-3. You just have to write the",
+          "link": "https://www.freecodecamp.org/news/how-to-use-github-copilot-with-visual-studio-code/",
+          "publishedOn": "2022-07-05T15:12:42.000Z",
+          "wordCount": 1794,
+          "title": "How to Use GitHub Copilot with Visual Studio Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/How-to-Build-a-Weather-Application-using-React--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-write-secure-source-code-for-proprietary-software/",
+          "author": "Andrej Kovacevic",
+          "description": "As software developers working on proprietary software, it's our job to create programs that provide the functionality our clients need. And it's also our job to create those programs in a way that makes them easy to use, maintain, and upgrade.  But proprietary software developers have another, much more",
+          "link": "https://www.freecodecamp.org/news/how-to-write-secure-source-code-for-proprietary-software/",
+          "publishedOn": "2022-07-05T14:53:02.000Z",
+          "wordCount": 2332,
+          "title": "How to Write Secure Source Code for Proprietary Software",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/software-development-code-security.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/kubernetes-vs-docker-swarm-what-is-the-difference/",
+          "author": "Zaira Hira",
+          "description": "Modern businesses are relying on containerization technologies to simplify the process of deploying and managing complex applications.  Containers assemble the necessary dependencies within one package. In this way, you don't need to worry about dependency-related conflicts that may arise in the production environment. Containers are portable and scalable, but",
+          "link": "https://www.freecodecamp.org/news/kubernetes-vs-docker-swarm-what-is-the-difference/",
+          "publishedOn": "2022-07-05T14:10:28.000Z",
+          "wordCount": 1670,
+          "title": "Kubernetes VS Docker Swarm – What is the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/Copy-of-Copy-of-read-write-files-python--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-fullstack-authentication-system-with-react-express-mongodb-heroku-and-netlify/",
+          "author": "Njoku Samson Ebere",
+          "description": "It's almost impossible to build an application without registration and login functionalities. But this can be a bit tricky for beginners. In this article, I will guide you through creating a full-stack authentication application. You will start with the backend which will be built with Express and hosted on Heroku",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-fullstack-authentication-system-with-react-express-mongodb-heroku-and-netlify/",
+          "publishedOn": "2022-07-05T13:50:44.000Z",
+          "wordCount": 9314,
+          "title": "How to Build a Full-Stack Authentication App With React, Express, MongoDB, Heroku, and Netlify",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-sora-shimazaki-5935794--1-.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/",
           "author": "Israel Mitolu",
           "description": "Are you having difficulties importing SVGs into your React app? This is a problem that many developers face, especially when setting up a new React app with a module bundler. In this article, I will share with you the different ways of importing SVGs in React, as well as how",
@@ -1071,16 +1141,6 @@
           "wordCount": 5726,
           "title": "Introduction to Algorithms – with JavaScript Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-guduru-ajay-bhargav-1044302.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-list-remote-branches/",
-          "author": "Quincy Larson",
-          "description": "There are 4 different Git commands you can enter into your command line to list all of the remote branches of a repo. I will show you command line code examples of each of these. For all of these examples, I will use freeCodeCamp's open source repository [https://github.com/freeCodeCamp/freeCodeCamp/]. Command #1:",
-          "link": "https://www.freecodecamp.org/news/git-list-remote-branches/",
-          "publishedOn": "2022-06-05T23:29:19.000Z",
-          "wordCount": 695,
-          "title": "Git List Remote Branches",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/niko-photos-tGTVxeOr_Rs-unsplash.jpg"
         }
       ]
     },
@@ -1089,6 +1149,56 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=116561",
+          "author": "Stephen Ornes",
+          "description": "Mark Braverman has spent his career translating thorny problems into the language of information complexity.            \nThe post The Scientist Who Developed a New Way to Understand Communication first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/mark-braverman-wins-the-imu-abacus-medal-20220705/",
+          "publishedOn": "2022-07-05T09:15:46.000Z",
+          "wordCount": 9300,
+          "title": "The Scientist Who Developed a New Way to Understand Communication",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/07/Braverman_1200_Social.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=116621",
+          "author": "Erica Klarreich",
+          "description": "On his way to winning a Fields Medal, James Maynard has cut a path through simple-sounding questions about prime numbers that have stumped mathematicians for centuries.            \nThe post A Solver of the Hardest Easy Problems About Prime Numbers first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/number-theorist-james-maynard-wins-the-fields-medal-20220705/",
+          "publishedOn": "2022-07-05T07:21:31.000Z",
+          "wordCount": 9609,
+          "title": "A Solver of the Hardest Easy Problems About Prime Numbers",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/07/James-Maynard_1200_Social.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=116640",
+          "author": "Jordana Cepelewicz",
+          "description": "With Hugo Duminil-Copin, thinking rarely happens without moving. His insights into the flow-related properties of complex networks have earned him the Fields Medal.             \nThe post For His Sporting Approach to Math, a Fields Medal first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/hugo-duminil-copin-wins-the-fields-medal-20220705/",
+          "publishedOn": "2022-07-05T07:20:13.000Z",
+          "wordCount": 10719,
+          "title": "For His Sporting Approach to Math, a Fields Medal",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/07/HDC_1200_Social.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=116439",
+          "author": "Jordana Cepelewicz",
+          "description": "June Huh wasn’t interested in mathematics until a chance encounter during his sixth year of college. Now his profound insights connecting combinatorics and geometry have led to math’s highest honor.            \nThe post He Dropped Out to Become a Poet. Now He’s Won a Fields Medal. first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/",
+          "publishedOn": "2022-07-05T07:19:44.000Z",
+          "wordCount": 12353,
+          "title": "He Dropped Out to Become a Poet. Now He’s Won a Fields Medal.",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/Huh_1200_Social.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=116526",
+          "author": "Thomas Lin and Erica Klarreich",
+          "description": "With her homeland mired in war, the sphere-packing number theorist Maryna Viazovska has become the second woman to win a Fields Medal in the award’s 86-year history.             \nThe post In Times of Scarcity, War and Peace, a Ukrainian Finds the Magic in Math first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/ukrainian-mathematician-maryna-viazovska-wins-fields-medal-20220705/",
+          "publishedOn": "2022-07-05T07:18:11.000Z",
+          "wordCount": 11662,
+          "title": "In Times of Scarcity, War and Peace, a Ukrainian Finds the Magic in Math",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/MV_1200_Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=116554",
           "author": "Joanna Thompson",
@@ -1268,16 +1378,6 @@
           "wordCount": 1489,
           "title": "Reshuffled Rivers Bolster the Amazon’s Hyper-Biodiversity",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/River-Networks_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=115637",
-          "author": "Jordana Cepelewicz",
-          "description": "Jared Duker Lichtman, 26, has proved a longstanding conjecture relating prime numbers to a broad class of “primitive” sets. To his adviser, it came as a “complete shock.”             \nThe post Graduate Student’s Side Project Proves Prime Number Conjecture first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/graduate-students-side-project-proves-prime-number-conjecture-20220606/",
-          "publishedOn": "2022-06-06T13:36:05.000Z",
-          "wordCount": 1825,
-          "title": "Graduate Student’s Side Project Proves Prime Number Conjecture",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/Primitive-Sets_1200_Social.jpg"
         }
       ]
     },
@@ -1325,16 +1425,6 @@
           "wordCount": 897,
           "title": "Weekend Reading — 🐝 If bees are fish …",
           "imageUrl": "https://labnotes.org/content/images/2022/06/FUhNEYyXEAYXdR_.jpeg"
-        },
-        {
-          "id": "6292ba8418f2762794c295b2",
-          "author": "Assaf Arkin",
-          "description": "This week we learn the DALLE language, discover infinite disk space, and bring flexbox to 1986.",
-          "link": "https://labnotes.org/weekend-reading-whats-latin-for-waffle-house/",
-          "publishedOn": "2022-06-05T16:48:04.000Z",
-          "wordCount": 715,
-          "title": "Weekend Reading — What's Latin for Waffle House?",
-          "imageUrl": "https://labnotes.org/content/images/2022/06/noostalgic-things-from-childhood-memories-16.jpg"
         }
       ]
     },
@@ -1343,6 +1433,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/suffix-aliases-in-zsh/",
+          "author": null,
+          "description": "I like geeking out on my local shell setup, and my dotfiles hold a few aliases I can't live without – ll, ni, nr and all these other two-character commands are deeply engrained in my muscle memory.\nTo define an alias, you set a new command name and map it to another command.\nalias ll='exa -la --git --icons'\n\nToday I learned that the alias command in Zsh also supports a -s flag which enables suffix aliases. As a result, this is a valid alias in Zsh:\n# \"Run\" the file to look at its content\n# $ index.html\n# -> cat index.html\nalias -s html=cat\n\nYou can \"just run files\" with a suffix alias without defining a command or making it an executable. After defining the alias above, executing index.html on your terminal will be expanded and shuffled to cat index.html. 😲\nIf you want to learn more about suffix aliases, access its manual via man zshbuiltins on the command line.\nBut there's more! You can define a suffix alias for multiple file types, too. I added cat (aliased to bat on my machine) as the standard handling of the following file formats.\n# \"Run\" the file to look at its content\n# $ ./readme.md\n# -> cat ./readme.md\nalias -s {js,json,env,md,html,css,toml}=cat\n\nI'm super into this shorter way of looking into text files quickly.\nThis functionality is pretty neat already, but there's more (even though it might be a bit of a hack). @_smhmd pointed out that they use suffix aliases to save typing git clone when cloning a git repository. They paste the repo SSH link into the terminal, and it's expanded to a proper clone command. Smart! 😲\n# \"Run\" ssh links to clone repos\n# $ git@github.com:stefanjudis/dotfiles.git\n# -> git clone git@github.com:stefanjudis/dotfiles.git\nalias -s git=\"git clone\"\n\nDo you know of more suffix alias use cases? If so, I'd love to hear them via email or on Twitter!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/suffix-aliases-in-zsh/",
+          "publishedOn": "2022-07-04T22:00:00.000Z",
+          "wordCount": 1391,
+          "title": "Suffix aliases (-s) in Zsh (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Suffix%20aliases%20(-s)%20in%20Zsh/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-70/",
           "author": null,
