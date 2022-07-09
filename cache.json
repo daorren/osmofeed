@@ -1071,66 +1071,6 @@
           "wordCount": 664,
           "title": "Create a Full Stack Amazon Clone with Flutter",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/amazonflutter.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/inline-style-in-html/",
-          "author": "Joel Olawanle",
-          "description": "Cascading Style Sheets (CSS) is a markup language that determines how your web pages will appear. It manages the colors, fonts, and layouts of your website elements, as well as allowing you to add effects or animations to your pages. We can style an HTML file/page in three ways: external",
-          "link": "https://www.freecodecamp.org/news/inline-style-in-html/",
-          "publishedOn": "2022-06-08T21:24:31.000Z",
-          "wordCount": 929,
-          "title": "Inline Style in HTML – CSS Inline Styles",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/error-502-bad-gateway-meaning/",
-          "author": "Kolade Chris",
-          "description": "When you visit a website and you get a “502 Bad Gateway” error, it means there’s an issue with the servers powering the website. On many occasions, this error is an issue with the website itself, so on your end, there’s nothing you can do to solve it. But the",
-          "link": "https://www.freecodecamp.org/news/error-502-bad-gateway-meaning/",
-          "publishedOn": "2022-06-08T20:21:52.000Z",
-          "wordCount": 734,
-          "title": "Error 502 Bad Gateway Meaning",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/502b.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-enumerate-what-is-the-enumerate-function-in-python/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "The enumerate() function in Python takes in a data collection as a parameter and returns an enumerate object.  The enumerate object is returned in a key-value pair format. The key is the corresponding index of each item and the value is the items.  In this article, we'll see",
-          "link": "https://www.freecodecamp.org/news/python-enumerate-what-is-the-enumerate-function-in-python/",
-          "publishedOn": "2022-06-08T19:56:15.000Z",
-          "wordCount": 915,
-          "title": "Python enumerate() – What is the Enumerate Function in Python?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/edge2edge-media-uKlneQRwaxY-unsplash--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-remove-a-directory-in-linux/",
-          "author": "Dillion Megida",
-          "description": "If you're using a user interface, you can right-click on a directory and select \"Delete\" or \"Move to Bin\". But how do you do this on the terminal? I'll explain that in this article. How to Remove a Directory in Linux There are two ways to remove directories in Linux:",
-          "link": "https://www.freecodecamp.org/news/how-to-remove-a-directory-in-linux/",
-          "publishedOn": "2022-06-08T17:11:56.000Z",
-          "wordCount": 1016,
-          "title": "How to Remove a Directory in Linux – Delete a Folder Command",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/delete-folders-command.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-implement-any-ui-in-flutter/",
-          "author": "Obumuneme Nwabude",
-          "description": "In this article, you will learn how to convert any user interface image, piece, or screen into Flutter [https://flutter.dev] code. This is not a tutorial on building an app. It is rather a guide that will help you implement any UI you come across into an app you already have.",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-any-ui-in-flutter/",
-          "publishedOn": "2022-06-08T15:22:36.000Z",
-          "wordCount": 2657,
-          "title": "How to Implement Any UI in Flutter",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/anyuicover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/speech-recognition-in-python/",
-          "author": "Beau Carnes",
-          "description": "Speech recognition allows software to recognize speech within audio and convert it into text. There are many interesting use-cases for speech recognition and it is easier than you may think to add it your own applications. We just published a course on the freeCodeCamp.org YouTube channel that will teach you",
-          "link": "https://www.freecodecamp.org/news/speech-recognition-in-python/",
-          "publishedOn": "2022-06-08T14:10:46.000Z",
-          "wordCount": 576,
-          "title": "Speech Recognition in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/speachai.png"
         }
       ]
     },
@@ -1338,16 +1278,6 @@
           "wordCount": 2168,
           "title": "The Computer Scientist Who Parlays Failures Into Breakthroughs",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/SPIELMAN_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=115783",
-          "author": "Rebecca Boyle",
-          "description": "Observations of faraway planets have forced a near-total rewrite of the story of how our solar system came to be.\r\n            \nThe post Astronomers Reimagine the Making of the Planets first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-are-planets-made-new-theories-are-taking-shape-20220609/",
-          "publishedOn": "2022-06-09T13:11:33.000Z",
-          "wordCount": 3358,
-          "title": "Astronomers Reimagine the Making of the Planets",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/Planet-Formation_1200_Social.jpg"
         }
       ]
     },
@@ -1470,6 +1400,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/419",
+          "author": null,
+          "description": "#​419 — July 8, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nPocketBase: A Go-Powered, Open Source Backend in One Binary — It’s early days but certainly an interesting idea that could replace Firebase in numerous scenarios. Uses SQLite, provides authentication and realtime features, plus you get an admin dashboard built-in with file and user management. Live demo and rather nice docs.\nGani Georgiev \n\n\n  \n  \nGo 1.19 Release Candidate 1 Released — Beta period over, now it’s on to the RCs! You can download everything from the usual place, enjoy the draft release notes, or sit patiently and wait for the final release expected in August.\nThe Go Team \n\n\n  \n  \nDon’t Let Your Issue Tracker Be a Four-Letter Word — Frustrated with your project management softw…",
+          "link": "https://golangweekly.com/issues/419",
+          "publishedOn": "2022-07-08T00:00:00.000Z",
+          "wordCount": 821,
+          "title": "A full backend in a single binary",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/418",
           "author": null,
