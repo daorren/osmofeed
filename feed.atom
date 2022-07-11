@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-10T02:13:53.643Z</updated>
+    <updated>2022-07-11T02:05:41.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #71 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-71/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-71/"/>
+        <updated>2022-07-09T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Happy Sunday, party people!
+
+Sometimes new web platform features ship in one browser (cough Chrome cough), and we all get excited about it only to find out that it has been abandoned because the other browser vendors won't ship it. These situations are always unfortunate.
+But how do you figure out if all browser makers consider a new web platform feature a good idea?
+First, the three major browsers offer feature status pages:
+chromestatus.com
+mozilla.github.io/standards-positions/
+webkit.org/status/
+The pages vary in detail and maintenance level but are a good start.
+But what about features listed nowhere? What should you do then? Could you go somewhere and ask?
+Jup! The WebKit folks continued to invest in the community and released a new standards-positions repo where you can go and do pr…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — What if it changes?]]></title>
         <id>62c0e53fd9dbed2e26ec7caa</id>
@@ -1513,56 +1533,6 @@ Don't confuse the keepalive fetch attribute with the Keep-Alive HTTP header.
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global Variable in Python – Non-Local Python Variables]]></title>
-        <id>https://www.freecodecamp.org/news/global-variable-in-python-non-local-python-variables/</id>
-        <link href="https://www.freecodecamp.org/news/global-variable-in-python-non-local-python-variables/"/>
-        <updated>2022-06-10T21:21:45.000Z</updated>
-        <summary type="html"><![CDATA[In Python and most programming languages, variables declared outside a function are known as global variables. You can access such variables inside and outside of a function, as they have global scope.  Here's an example of a global variable: x = 10  def showX():]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn PHP Syntax, Comments, Variables and Data Types – with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/php-syntax-comments-variables-data-types-with-examples/</id>
-        <link href="https://www.freecodecamp.org/news/php-syntax-comments-variables-data-types-with-examples/"/>
-        <updated>2022-06-10T20:18:35.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to today's tutorial, everyone. In my last article [/news/how-to-get-started-with-php/], I walked you through what PHP is and how to get it set up along with XAMPP.  And today, we'll review those introductory PHP concepts and then dive into the language a bit more in depth. We'll look at]]></summary>
-        <author>
-            <name>Okoro Emmanuel Nzube</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Become a Front End Developer – Front End Web Dev Skills]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/"/>
-        <updated>2022-06-10T20:16:06.000Z</updated>
-        <summary type="html"><![CDATA[Some of the highest-paid professionals in the world are front-end developers. They use their knowledge and talents to design appealing and user-friendly websites. Front-end developers do not need a degree or a school certificate to work. Rather, they must understand the fundamentals of front-end development, programming languages, and front-end development]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Statistics for Beginners – Top Stats Concepts to Know Before Getting into Data Science]]></title>
-        <id>https://www.freecodecamp.org/news/top-statistics-concepts-to-know-before-getting-into-data-science/</id>
-        <link href="https://www.freecodecamp.org/news/top-statistics-concepts-to-know-before-getting-into-data-science/"/>
-        <updated>2022-06-10T16:33:29.000Z</updated>
-        <summary type="html"><![CDATA[You've probably heard that statistics is the gateway to data science and that the data science map starts with stats. Perhaps you've also heard from others that you have to learn statistics before learning data science.  But then you ponder, "Since I'm not from a technical background like science, technology,]]></summary>
-        <author>
-            <name>Ibrahim Abayomi Ogunbiyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Screenshot on Windows – Take a Screen Shot on PC]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-screenshot-on-windows-take-a-screen-shot-on-pc/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-screenshot-on-windows-take-a-screen-shot-on-pc/"/>
-        <updated>2022-06-10T15:01:34.000Z</updated>
-        <summary type="html"><![CDATA[Just like you can take screenshots on your phone, you can also do the same on your Windows computer. Whether you want to take a screenshot of a particular part of your screen or you want to take a screenshot of the whole screen, there are tools and keyboard combinations]]></summary>
-        <author>
-            <name>Kolade Chris</name>
         </author>
     </entry>
 </feed>

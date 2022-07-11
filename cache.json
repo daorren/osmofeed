@@ -921,56 +921,6 @@
           "wordCount": 2144,
           "title": "If Statement in C – How to use If-Else Statements in the C Programming Language",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/christin-hume-mfB1B1s4sMc-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/global-variable-in-python-non-local-python-variables/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In Python and most programming languages, variables declared outside a function are known as global variables. You can access such variables inside and outside of a function, as they have global scope.  Here's an example of a global variable: x = 10  def showX():",
-          "link": "https://www.freecodecamp.org/news/global-variable-in-python-non-local-python-variables/",
-          "publishedOn": "2022-06-10T21:21:45.000Z",
-          "wordCount": 915,
-          "title": "Global Variable in Python – Non-Local Python Variables",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/php-syntax-comments-variables-data-types-with-examples/",
-          "author": "Okoro Emmanuel Nzube",
-          "description": "Welcome to today's tutorial, everyone. In my last article [/news/how-to-get-started-with-php/], I walked you through what PHP is and how to get it set up along with XAMPP.  And today, we'll review those introductory PHP concepts and then dive into the language a bit more in depth. We'll look at",
-          "link": "https://www.freecodecamp.org/news/php-syntax-comments-variables-data-types-with-examples/",
-          "publishedOn": "2022-06-10T20:18:35.000Z",
-          "wordCount": 1420,
-          "title": "Learn PHP Syntax, Comments, Variables and Data Types – with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/PHP--SYNTAX--COMMENTS-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/",
-          "author": "Joel Olawanle",
-          "description": "Some of the highest-paid professionals in the world are front-end developers. They use their knowledge and talents to design appealing and user-friendly websites. Front-end developers do not need a degree or a school certificate to work. Rather, they must understand the fundamentals of front-end development, programming languages, and front-end development",
-          "link": "https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/",
-          "publishedOn": "2022-06-10T20:16:06.000Z",
-          "wordCount": 2209,
-          "title": "How to Become a Front End Developer – Front End Web Dev Skills",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/top-statistics-concepts-to-know-before-getting-into-data-science/",
-          "author": "Ibrahim Abayomi Ogunbiyi",
-          "description": "You've probably heard that statistics is the gateway to data science and that the data science map starts with stats. Perhaps you've also heard from others that you have to learn statistics before learning data science.  But then you ponder, \"Since I'm not from a technical background like science, technology,",
-          "link": "https://www.freecodecamp.org/news/top-statistics-concepts-to-know-before-getting-into-data-science/",
-          "publishedOn": "2022-06-10T16:33:29.000Z",
-          "wordCount": 2904,
-          "title": "Statistics for Beginners – Top Stats Concepts to Know Before Getting into Data Science",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/pexels-lukas-590045-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-screenshot-on-windows-take-a-screen-shot-on-pc/",
-          "author": "Kolade Chris",
-          "description": "Just like you can take screenshots on your phone, you can also do the same on your Windows computer. Whether you want to take a screenshot of a particular part of your screen or you want to take a screenshot of the whole screen, there are tools and keyboard combinations",
-          "link": "https://www.freecodecamp.org/news/how-to-screenshot-on-windows-take-a-screen-shot-on-pc/",
-          "publishedOn": "2022-06-10T15:01:34.000Z",
-          "wordCount": 850,
-          "title": "How to Screenshot on Windows – Take a Screen Shot on PC",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/ss.png"
         }
       ]
     },
@@ -1243,6 +1193,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-71/",
+          "author": null,
+          "description": "Happy Sunday, party people!\n\nSometimes new web platform features ship in one browser (cough Chrome cough), and we all get excited about it only to find out that it has been abandoned because the other browser vendors won't ship it. These situations are always unfortunate.\nBut how do you figure out if all browser makers consider a new web platform feature a good idea?\nFirst, the three major browsers offer feature status pages:\nchromestatus.com\nmozilla.github.io/standards-positions/\nwebkit.org/status/\nThe pages vary in detail and maintenance level but are a good start.\nBut what about features listed nowhere? What should you do then? Could you go somewhere and ask?\nJup! The WebKit folks continued to invest in the community and released a new standards-positions repo where you can go and do pr…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-71/",
+          "publishedOn": "2022-07-09T22:00:00.000Z",
+          "wordCount": 2360,
+          "title": "Web Weekly #71 (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252371/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/today-i-learned/suffix-aliases-in-zsh/",
           "author": null,
