@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-11T02:05:41.451Z</updated>
+    <updated>2022-07-12T02:12:34.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create an Automated Pull Request Checklist in GitHub]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-pr-checklist-in-github/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-pr-checklist-in-github/"/>
+        <updated>2022-07-11T23:06:03.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever contributed to a project, whether it's your app at work or an open-source tool, you've likely created a pull request. This requests that your code changes to merged into the main codebase. We use pull requests to ensure only quality code is merged into our main branches.]]></summary>
+        <author>
+            <name>Brittany Joiner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started with Node.js – Beginner's Guide to Node]]></title>
+        <id>https://www.freecodecamp.org/news/intoduction-to-nodejs/</id>
+        <link href="https://www.freecodecamp.org/news/intoduction-to-nodejs/"/>
+        <updated>2022-07-11T21:31:18.000Z</updated>
+        <summary type="html"><![CDATA[Node.js is a JavaScript runtime that extends its capability to the server-side. It is built on Chrome’s V8 JavaScript Engine.  Node is an event-driven, non-blocking IO model. This means it's asynchronous, and doesn't block itself for one request (but rather immediately moves to the next request). This makes Node]]></summary>
+        <author>
+            <name>Arash Arora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript String Format – Formatting Strings in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-string-format-how-to-format-strings-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-string-format-how-to-format-strings-in-js/"/>
+        <updated>2022-07-11T18:38:41.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript has many string methods you can use to format strings. In this article, I'll show you some of the most commonly used methods. How to Use the toLowerCase() String Method As the name implies, you use the toLowerCase() string method to convert strings to their lowercase version. This method]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Check if Undefined – How to Test for Undefined in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-check-if-undefined-how-to-test-for-undefined-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-check-if-undefined-how-to-test-for-undefined-in-js/"/>
+        <updated>2022-07-11T17:13:42.000Z</updated>
+        <summary type="html"><![CDATA[An undefined variable or anything without a value will always return "undefined" in JavaScript. This is not the same as null, despite the fact that both imply an empty state.  You'll typically assign a value to a variable after you declare it, but this is not always the case.]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Most Asked TypeScript Questions on StackOverflow – Answered for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained/</id>
+        <link href="https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained/"/>
+        <updated>2022-07-11T15:52:33.000Z</updated>
+        <summary type="html"><![CDATA["I hate stack overflow" — said no developer ever. While it’s helpful to have your answers a Google search away, what’s even more powerful is truly understanding the solutions you stumble upon. In this article, I’ll explore the seven most stackoverflowed TypeScript questions. I spent hours researching these. I hope]]></summary>
+        <author>
+            <name>Emmanuel Ohans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum Algorithms Conquer a New Kind of Problem]]></title>
+        <id>https://www.quantamagazine.org/?p=116848</id>
+        <link href="https://www.quantamagazine.org/quantum-algorithms-conquer-a-new-kind-of-problem-20220711/"/>
+        <updated>2022-07-11T14:57:51.000Z</updated>
+        <summary type="html"><![CDATA[Computer scientists have found a new type of problem that quantum computers can solve dramatically faster than their classical counterparts.            
+The post Quantum Algorithms Conquer a New Kind of Problem first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Mordechai Rorvig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenStack Tutorial – Operate Your Own Private Cloud (Full Course)]]></title>
+        <id>https://www.freecodecamp.org/news/openstack-tutorial-operate-your-own-private-cloud/</id>
+        <link href="https://www.freecodecamp.org/news/openstack-tutorial-operate-your-own-private-cloud/"/>
+        <updated>2022-07-11T14:40:04.000Z</updated>
+        <summary type="html"><![CDATA[OpenStack is an open source software that provides cloud infrastructure for virtual machines, bare metal, and containers. In this article, you will learn how to use OpenStack to operate your own private cloud. By the end of the tutorial, you will have a core understanding of what OpenStack is and]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #71 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-71/</id>
@@ -1495,42 +1566,6 @@ popup will help to show and hide elements on click or keyboard navigation.
 focusgroup will make custom controls more accessible.
 I can't wait until I can build accessible components like the one below without JavaScript.
 The project's still in the early stages, but I'm 100% convinced we need more high-level HTML components. The web evolved, and if 95% of …]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — 🐝 If bees are fish …]]></title>
-        <id>62a0c65050eccb22d9895eb4</id>
-        <link href="https://labnotes.org/weekend-reading-if-bees-are-fish/"/>
-        <updated>2022-06-12T00:11:22.000Z</updated>
-        <summary type="html"><![CDATA[This week we get schooled by ML, find new uses for iDevices, go fishing for bees, and can you get these dishes unstuck?]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["fetch" supports a "keepAlive" option to make it outlive page navigations (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/fetch-supports-a-keepalive-option-to-make-it-outlive-page-navigations/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/fetch-supports-a-keepalive-option-to-make-it-outlive-page-navigations/"/>
-        <updated>2022-06-11T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This site uses Umami as a self-hosted and privacy-first analytics tool. An item in Umami's changelog caught my eye – "Update tracker/index.js: SendBeacon() to Fetch API".
-sendBeacon is a JavaScript method to send requests to an analytics server. These requests are supposed to be async, not be canceled and outlive the current navigation. But apparently, sendBeacon is sometimes blocked by ad blockers.
-That's not a big deal, though, because today I learned I can drop sendBeacon from my memory entirely and use the fetch method with a keepalive option. 👇
-fetch(`${root}/api/collect`, {
-  method: 'POST',
-  body: data,
-  // note the `keepalive` option
-  keepalive: true,
-});
-
-fetch with a keepalive option has the same characteristics as sendBeacon and acts as its replacement. This is good to know!
-Don't confuse the keepalive fetch attribute with the Keep-Alive HTTP header.
-
-
-          
-          
-            Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>

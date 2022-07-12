@@ -33,6 +33,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/create-a-pr-checklist-in-github/",
+          "author": "Brittany Joiner",
+          "description": "If you've ever contributed to a project, whether it's your app at work or an open-source tool, you've likely created a pull request. This requests that your code changes to merged into the main codebase. We use pull requests to ensure only quality code is merged into our main branches.",
+          "link": "https://www.freecodecamp.org/news/create-a-pr-checklist-in-github/",
+          "publishedOn": "2022-07-11T23:06:03.000Z",
+          "wordCount": 2829,
+          "title": "How to Create an Automated Pull Request Checklist in GitHub",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Pink-Money-Making-Apps-YouTube-Thumbnail.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/intoduction-to-nodejs/",
+          "author": "Arash Arora",
+          "description": "Node.js is a JavaScript runtime that extends its capability to the server-side. It is built on Chrome’s V8 JavaScript Engine.  Node is an event-driven, non-blocking IO model. This means it's asynchronous, and doesn't block itself for one request (but rather immediately moves to the next request). This makes Node",
+          "link": "https://www.freecodecamp.org/news/intoduction-to-nodejs/",
+          "publishedOn": "2022-07-11T21:31:18.000Z",
+          "wordCount": 2692,
+          "title": "How to Get Started with Node.js – Beginner's Guide to Node",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/1200px-Node.js_logo.svg.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-string-format-how-to-format-strings-in-js/",
+          "author": "Dillion Megida",
+          "description": "JavaScript has many string methods you can use to format strings. In this article, I'll show you some of the most commonly used methods. How to Use the toLowerCase() String Method As the name implies, you use the toLowerCase() string method to convert strings to their lowercase version. This method",
+          "link": "https://www.freecodecamp.org/news/javascript-string-format-how-to-format-strings-in-js/",
+          "publishedOn": "2022-07-11T18:38:41.000Z",
+          "wordCount": 1220,
+          "title": "JavaScript String Format – Formatting Strings in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/js-string-format.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-check-if-undefined-how-to-test-for-undefined-in-js/",
+          "author": "Joel Olawanle",
+          "description": "An undefined variable or anything without a value will always return \"undefined\" in JavaScript. This is not the same as null, despite the fact that both imply an empty state.  You'll typically assign a value to a variable after you declare it, but this is not always the case.",
+          "link": "https://www.freecodecamp.org/news/javascript-check-if-undefined-how-to-test-for-undefined-in-js/",
+          "publishedOn": "2022-07-11T17:13:42.000Z",
+          "wordCount": 1262,
+          "title": "JavaScript Check if Undefined – How to Test for Undefined in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template--9-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained/",
+          "author": "Emmanuel Ohans",
+          "description": "\"I hate stack overflow\" — said no developer ever. While it’s helpful to have your answers a Google search away, what’s even more powerful is truly understanding the solutions you stumble upon. In this article, I’ll explore the seven most stackoverflowed TypeScript questions. I spent hours researching these. I hope",
+          "link": "https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained/",
+          "publishedOn": "2022-07-11T15:52:33.000Z",
+          "wordCount": 6089,
+          "title": "The Most Asked TypeScript Questions on StackOverflow – Answered for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/combined-blog-cover-6.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/openstack-tutorial-operate-your-own-private-cloud/",
+          "author": "Beau Carnes",
+          "description": "OpenStack is an open source software that provides cloud infrastructure for virtual machines, bare metal, and containers. In this article, you will learn how to use OpenStack to operate your own private cloud. By the end of the tutorial, you will have a core understanding of what OpenStack is and",
+          "link": "https://www.freecodecamp.org/news/openstack-tutorial-operate-your-own-private-cloud/",
+          "publishedOn": "2022-07-11T14:40:04.000Z",
+          "wordCount": 8199,
+          "title": "OpenStack Tutorial – Operate Your Own Private Cloud (Full Course)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/openstack.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/keyerror-in-python-how-to-fix-dictionary-error/",
           "author": "Ihechikara Vincent Abba",
           "description": "When working with dictionaries in Python, a KeyError gets raised when you try to access an item that doesn't exist in a Python dictionary. Here's a Python dictionary called student: student = {   \"name\": \"John\",   \"course\": \"Python\", } In the dictionary above, you can access the",
@@ -930,6 +990,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=116848",
+          "author": "Mordechai Rorvig",
+          "description": "Computer scientists have found a new type of problem that quantum computers can solve dramatically faster than their classical counterparts.            \nThe post Quantum Algorithms Conquer a New Kind of Problem first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/quantum-algorithms-conquer-a-new-kind-of-problem-20220711/",
+          "publishedOn": "2022-07-11T14:57:51.000Z",
+          "wordCount": 5053,
+          "title": "Quantum Algorithms Conquer a New Kind of Problem",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/07/Quantum-Supremacy_1200_Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=116561",
           "author": "Stephen Ornes",
           "description": "Mark Braverman has spent his career translating thorny problems into the language of information complexity.            \nThe post The Scientist Who Developed a New Way to Understand Communication first appeared on Quanta Magazine",
@@ -1175,16 +1245,6 @@
           "wordCount": 1706,
           "title": "Weekend Reading — Gaslighting? With these prices?!",
           "imageUrl": "https://labnotes.org/favicon.png"
-        },
-        {
-          "id": "62a0c65050eccb22d9895eb4",
-          "author": "Assaf Arkin",
-          "description": "This week we get schooled by ML, find new uses for iDevices, go fishing for bees, and can you get these dishes unstuck?",
-          "link": "https://labnotes.org/weekend-reading-if-bees-are-fish/",
-          "publishedOn": "2022-06-12T00:11:22.000Z",
-          "wordCount": 897,
-          "title": "Weekend Reading — 🐝 If bees are fish …",
-          "imageUrl": "https://labnotes.org/content/images/2022/06/FUhNEYyXEAYXdR_.jpeg"
         }
       ]
     },
@@ -1252,16 +1312,6 @@
           "wordCount": 1027,
           "title": "Web Weekly #68 (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252368/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/fetch-supports-a-keepalive-option-to-make-it-outlive-page-navigations/",
-          "author": null,
-          "description": "This site uses Umami as a self-hosted and privacy-first analytics tool. An item in Umami's changelog caught my eye – \"Update tracker/index.js: SendBeacon() to Fetch API\".\nsendBeacon is a JavaScript method to send requests to an analytics server. These requests are supposed to be async, not be canceled and outlive the current navigation. But apparently, sendBeacon is sometimes blocked by ad blockers.\nThat's not a big deal, though, because today I learned I can drop sendBeacon from my memory entirely and use the fetch method with a keepalive option. 👇\nfetch(`${root}/api/collect`, {\n  method: 'POST',\n  body: data,\n  // note the `keepalive` option\n  keepalive: true,\n});\n\nfetch with a keepalive option has the same characteristics as sendBeacon and acts as its replacement. This is good to know!\nDon't confuse the keepalive fetch attribute with the Keep-Alive HTTP header.\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/fetch-supports-a-keepalive-option-to-make-it-outlive-page-navigations/",
-          "publishedOn": "2022-06-11T22:00:00.000Z",
-          "wordCount": 384,
-          "title": "\"fetch\" supports a \"keepAlive\" option to make it outlive page navigations (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:%22fetch%22%20supports%20a%20%22keepAlive%22%20option%20to%20make%20it%20outlive%20page%20navigations/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
