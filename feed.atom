@@ -2,10 +2,122 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-13T02:04:20.520Z</updated>
+    <updated>2022-07-14T02:15:12.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use RegEx to Match Emoji – Including Discord Emotes]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-regex-to-match-emoji-including-discord-emotes/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-regex-to-match-emoji-including-discord-emotes/"/>
+        <updated>2022-07-13T23:04:07.000Z</updated>
+        <summary type="html"><![CDATA[Emoji are special Unicode characters that render pictographs. But these characters can be very tricky to identify with RegEx.  I was recently working on a Discord bot that had to detect the number of emotes in a given message. Today I'll share my process with you, including the newer]]></summary>
+        <author>
+            <name>Naomi Carrigan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Abstraction in Programming – And Why is it Useful?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-abstraction-in-programming/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-abstraction-in-programming/"/>
+        <updated>2022-07-13T22:54:18.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that abstraction is one of the most important concepts for any software engineer to know? That's right! Without the use of abstraction when developing new technologies and concepts, we would never have been able to invent most software or even most things. So, understanding this concept is]]></summary>
+        <author>
+            <name>Tiago Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Get Current Time]]></title>
+        <id>https://www.freecodecamp.org/news/python-get-current-time/</id>
+        <link href="https://www.freecodecamp.org/news/python-get-current-time/"/>
+        <updated>2022-07-13T22:48:46.000Z</updated>
+        <summary type="html"><![CDATA[In your websites and applications, you might want to add functionalities like timestamps or checking the time of a user’s activity. Every programming language has modules or methods for working with time, and Python is not an exception. With the datetime and time modules of Python, you can get the]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Alarms in Flutter Using the Alarm Manager Plus Package]]></title>
+        <id>https://www.freecodecamp.org/news/flutter-alarmmanager-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/flutter-alarmmanager-tutorial/"/>
+        <updated>2022-07-13T20:21:04.000Z</updated>
+        <summary type="html"><![CDATA[If you are an Android developer, when you want to schedule your application to run at a specific time in the future, you use the AlarmManager.  But if you are an iOS developer, this type of component does not exist there. So if you are a Flutter developer, what]]></summary>
+        <author>
+            <name>Tomer Ben Rachel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Do Mathematicians Know Their Proofs Are Correct?]]></title>
+        <id>https://www.quantamagazine.org/?p=116971</id>
+        <link href="https://www.quantamagazine.org/how-do-mathematicians-know-their-proofs-are-correct-20220713/"/>
+        <updated>2022-07-13T20:13:19.000Z</updated>
+        <summary type="html"><![CDATA[What makes a proof stronger than a guess? What does evidence look like in the realm of mathematical abstraction? Hear the mathematician Melanie Matchett Wood explain how probability helps to guide number theorists toward certainty.            
+The post How Do Mathematicians Know Their Proofs Are Correct? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steven Strogatz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Software Framework?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-a-software-framework/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-software-framework/"/>
+        <updated>2022-07-13T19:28:02.000Z</updated>
+        <summary type="html"><![CDATA[These days, companies both big and small use some kind of software framework to build their websites. And if you want to get into coding, it's important to learn and understand some of the popular frameworks – regardless of the field you choose in the industry. ‌‌‌‌But why? ‌‌‌‌ Frameworks]]></summary>
+        <author>
+            <name>Tiago Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Local Branch in Git]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-a-local-git-branch/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-local-git-branch/"/>
+        <updated>2022-07-13T16:41:33.000Z</updated>
+        <summary type="html"><![CDATA[When you're making changes to a Git repository, it's a best practice to push to a different branch first. This lets you compare changes before submitting a pull request and finally merging it. This is especially crucial when working with other developers. Your repository's main branch, which is regarded as]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python List.append() – How to Append to a List in Python]]></title>
+        <id>https://www.freecodecamp.org/news/python-list-append-how-to-append-to-a-list-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/python-list-append-how-to-append-to-a-list-in-python/"/>
+        <updated>2022-07-13T15:10:46.000Z</updated>
+        <summary type="html"><![CDATA[How do you append (or add) new values to an already created list in Python? I will show you how in this article. But first things first... What is a List in Python? A List is a data type that allows you to store multiple values of either the same]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy Multiple Repositories to Subfolders Under One Website with Netlify]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-deploy-multiple-repos-to-subfolders-under-one-website-netlify/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-multiple-repos-to-subfolders-under-one-website-netlify/"/>
+        <updated>2022-07-13T14:57:25.000Z</updated>
+        <summary type="html"><![CDATA[Hi there! 👋 You're probably here because you are trying to deal with hosting two separate websites or repositories under one website using Netlify. And maybe you've checked out the answers on the Netlify community page, but you are still confused. The same confusion and headache led me to write]]></summary>
+        <author>
+            <name>Abdulmalik Salawu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mass and Angular Momentum, Left Ambiguous by Einstein, Get Defined]]></title>
+        <id>https://www.quantamagazine.org/?p=116926</id>
+        <link href="https://www.quantamagazine.org/mass-and-angular-momentum-left-ambiguous-by-einstein-get-defined-20220713/"/>
+        <updated>2022-07-13T14:46:58.000Z</updated>
+        <summary type="html"><![CDATA[Surprising as it may sound, 107 years after the introduction of general relativity, the meanings of basic concepts are still being worked out.            
+The post Mass and Angular Momentum, Left Ambiguous by Einstein, Get Defined first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steve Nadis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding Interview Prep for Big Tech (FAANG) – And How I Became A Google Engineer]]></title>
+        <id>https://www.freecodecamp.org/news/coding-interview-prep-for-big-tech/</id>
+        <link href="https://www.freecodecamp.org/news/coding-interview-prep-for-big-tech/"/>
+        <updated>2022-07-13T14:45:30.000Z</updated>
+        <summary type="html"><![CDATA[I optimized my preparation for Big Tech Interviews based on my circumstances and background.  It did not require advanced Computer Science Degrees or thousands of leetcode-style questions.]]></summary>
+        <author>
+            <name>Zubin Pratap</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why You Should Use Flutter for Your Projects]]></title>
         <id>https://www.freecodecamp.org/news/why-you-should-use-flutter/</id>
@@ -1609,17 +1721,6 @@ The post Wheel Made of ‘Odd Matter’ Spontaneously Rolls Uphill first appeare
 The post The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Allison Whitten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Computer Scientist Who Parlays Failures Into Breakthroughs]]></title>
-        <id>https://www.quantamagazine.org/?p=115826</id>
-        <link href="https://www.quantamagazine.org/the-computer-scientist-who-parlays-failures-into-breakthroughs-20220613/"/>
-        <updated>2022-06-13T14:31:55.000Z</updated>
-        <summary type="html"><![CDATA[Daniel Spielman solves important problems by thinking hard — about other questions.             
-The post The Computer Scientist Who Parlays Failures Into Breakthroughs first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Mordechai Rorvig</name>
         </author>
     </entry>
 </feed>
