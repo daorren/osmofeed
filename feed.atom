@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-14T02:15:12.951Z</updated>
+    <updated>2022-07-15T02:21:50.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp.org Press Kit]]></title>
+        <id>https://www.freecodecamp.org/news/freecodecamp-press-kit/</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-press-kit/"/>
+        <updated>2022-07-14T22:20:32.000Z</updated>
+        <summary type="html"><![CDATA[This is the press kit for freeCodeCamp.org. Contact information: 100% of freeCodeCamp's revenue goes toward programs.  For interview requests, speaking engagements, or social media questions, please contact our founder, Quincy Larson, at quincy@freecodecamp.org. About freeCodeCamp.org Quincy Larson founded freeCodeCamp.org in 2014 to help people transition into tech careers using]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run Python Script – How to Execute Python Shell Commands in the Terminal]]></title>
+        <id>https://www.freecodecamp.org/news/run-python-script-how-to-execute-python-shell-commands-in-terminal/</id>
+        <link href="https://www.freecodecamp.org/news/run-python-script-how-to-execute-python-shell-commands-in-terminal/"/>
+        <updated>2022-07-14T15:24:17.000Z</updated>
+        <summary type="html"><![CDATA[When you're starting out learning a new programming language, your very first program is likely to be one that prints "hello world!".  Let's say you want to do this in Python. There are two ways of doing it: using the Python shell or writing it as a script and]]></summary>
+        <author>
+            <name>Suchandra Datta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use React and APIs to Build a Weather App]]></title>
+        <id>https://www.freecodecamp.org/news/use-react-and-apis-to-build-a-weather-app/</id>
+        <link href="https://www.freecodecamp.org/news/use-react-and-apis-to-build-a-weather-app/"/>
+        <updated>2022-07-14T14:04:36.000Z</updated>
+        <summary type="html"><![CDATA[A weather application is a very common beginner's programming project. But you can take this basic project to the next level by incorporating multiple APIs and autocomplete of places. We just published a course on the freeCodeCamp.org YouTube channel that will help you improve your React skills by guiding you]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hypergraphs Reveal Solution to 50-Year-Old Problem]]></title>
+        <id>https://www.quantamagazine.org/?p=116989</id>
+        <link href="https://www.quantamagazine.org/hypergraphs-reveal-solution-to-50-year-old-problem-20220714/"/>
+        <updated>2022-07-14T13:30:22.000Z</updated>
+        <summary type="html"><![CDATA[In 1973, Paul Erdős asked if it was possible to assemble sets of “triples” — three points on a graph — so that they abide by two seemingly incompatible rules. A new proof shows it can always be done.            
+The post Hypergraphs Reveal Solution to 50-Year-Old Problem first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Leila Sloman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use RegEx to Match Emoji – Including Discord Emotes]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-regex-to-match-emoji-including-discord-emotes/</id>
@@ -1660,67 +1701,6 @@ The post What Is Life? first appeared on Quanta Magazine]]></summary>
 The post Wheel Made of ‘Odd Matter’ Spontaneously Rolls Uphill first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Ben Brubaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Text Classification with TensorFlow]]></title>
-        <id>https://www.freecodecamp.org/news/text-classification-tensorflow/</id>
-        <link href="https://www.freecodecamp.org/news/text-classification-tensorflow/"/>
-        <updated>2022-06-15T14:01:18.000Z</updated>
-        <summary type="html"><![CDATA[Text classification algorithms are used in a lot of different software systems to help process text data. For example, when you get an email, the email software uses a text classification algorithm to decide whether to put it in your inbox or in your spam folder. It's also how discussion]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java Sort Array – How to Reverse an Array in Ascending or Descending Order with Arrays.sort()]]></title>
-        <id>https://www.freecodecamp.org/news/java-sort-array-how-to-reverse-an-array-in-ascending-or-descending-order-with-arrays-sort-2/</id>
-        <link href="https://www.freecodecamp.org/news/java-sort-array-how-to-reverse-an-array-in-ascending-or-descending-order-with-arrays-sort-2/"/>
-        <updated>2022-06-14T21:14:36.000Z</updated>
-        <summary type="html"><![CDATA[In Java, you use arrays to store a collection of variables (with the same data type) in a single variable.  In many cases, the values stored in an array appear in a random order. Using the  Arrays class in Java, you have access to various methods you can]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve Cloud-Native System Performance]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-improve-cloud-native-system-performance/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-improve-cloud-native-system-performance/"/>
-        <updated>2022-06-14T20:14:40.000Z</updated>
-        <summary type="html"><![CDATA[Web applications are built to provide various online services to end-users. Developing and hosting these services involves hard work and talent. And it all begins with an idea. But imagine, after putting in all that hard work, users cringe about the performance of the system – “It's too slow...”, “I]]></summary>
-        <author>
-            <name>Sumeet Ninawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debouncing in React – How to Delay a JS Function]]></title>
-        <id>https://www.freecodecamp.org/news/debouncing-explained/</id>
-        <link href="https://www.freecodecamp.org/news/debouncing-explained/"/>
-        <updated>2022-06-14T16:42:51.000Z</updated>
-        <summary type="html"><![CDATA[There are some heavy tasks in software development. Take calling an API, for example. Suppose we have an API that searches a list of users, and we can't afford to fire it too often. We want to search only when we have typed the whole search query.  Well, debouncing]]></summary>
-        <author>
-            <name>Nishant Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Link CSS to HTML – Stylesheet File Linking]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-link-css-to-html/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-link-css-to-html/"/>
-        <updated>2022-06-14T16:22:59.000Z</updated>
-        <summary type="html"><![CDATA[HTML is the markup language that helps you define the structure of a web page. CSS is the stylesheet language you use to make the structure presentable and nicely laid out. To make the stylings you implement with CSS reflect in the CSS, you have to find a way to]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses]]></title>
-        <id>https://www.quantamagazine.org/?p=115884</id>
-        <link href="https://www.quantamagazine.org/the-brain-has-a-low-power-mode-that-blunts-our-senses-20220614/"/>
-        <updated>2022-06-14T14:15:27.000Z</updated>
-        <summary type="html"><![CDATA[Neuroscientists uncovered an energy-saving mode in vision-system neurons that works at the cost of being able to see fine-grained details.            
-The post The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Allison Whitten</name>
         </author>
     </entry>
 </feed>

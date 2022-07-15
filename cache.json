@@ -33,6 +33,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-press-kit/",
+          "author": "freeCodeCamp.org",
+          "description": "This is the press kit for freeCodeCamp.org. Contact information: 100% of freeCodeCamp's revenue goes toward programs.  For interview requests, speaking engagements, or social media questions, please contact our founder, Quincy Larson, at quincy@freecodecamp.org. About freeCodeCamp.org Quincy Larson founded freeCodeCamp.org in 2014 to help people transition into tech careers using",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-press-kit/",
+          "publishedOn": "2022-07-14T22:20:32.000Z",
+          "wordCount": 1287,
+          "title": "freeCodeCamp.org Press Kit",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/freecodecamp--1-.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/run-python-script-how-to-execute-python-shell-commands-in-terminal/",
+          "author": "Suchandra Datta",
+          "description": "When you're starting out learning a new programming language, your very first program is likely to be one that prints \"hello world!\".  Let's say you want to do this in Python. There are two ways of doing it: using the Python shell or writing it as a script and",
+          "link": "https://www.freecodecamp.org/news/run-python-script-how-to-execute-python-shell-commands-in-terminal/",
+          "publishedOn": "2022-07-14T15:24:17.000Z",
+          "wordCount": 1608,
+          "title": "Run Python Script – How to Execute Python Shell Commands in the Terminal",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-jan-kopr-iva-3280908.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-react-and-apis-to-build-a-weather-app/",
+          "author": "Beau Carnes",
+          "description": "A weather application is a very common beginner's programming project. But you can take this basic project to the next level by incorporating multiple APIs and autocomplete of places. We just published a course on the freeCodeCamp.org YouTube channel that will help you improve your React skills by guiding you",
+          "link": "https://www.freecodecamp.org/news/use-react-and-apis-to-build-a-weather-app/",
+          "publishedOn": "2022-07-14T14:04:36.000Z",
+          "wordCount": 871,
+          "title": "Use React and APIs to Build a Weather App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/reactapi.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-use-regex-to-match-emoji-including-discord-emotes/",
           "author": "Naomi Carrigan",
           "description": "Emoji are special Unicode characters that render pictographs. But these characters can be very tricky to identify with RegEx.  I was recently working on a Discord bot that had to detect the number of emotes in a given message. Today I'll share my process with you, including the newer",
@@ -1081,56 +1111,6 @@
           "wordCount": 1084,
           "title": "CRUD Operations – What is CRUD?",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/crud.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/text-classification-tensorflow/",
-          "author": "Beau Carnes",
-          "description": "Text classification algorithms are used in a lot of different software systems to help process text data. For example, when you get an email, the email software uses a text classification algorithm to decide whether to put it in your inbox or in your spam folder. It's also how discussion",
-          "link": "https://www.freecodecamp.org/news/text-classification-tensorflow/",
-          "publishedOn": "2022-06-15T14:01:18.000Z",
-          "wordCount": 542,
-          "title": "Text Classification with TensorFlow",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/classification.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/java-sort-array-how-to-reverse-an-array-in-ascending-or-descending-order-with-arrays-sort-2/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In Java, you use arrays to store a collection of variables (with the same data type) in a single variable.  In many cases, the values stored in an array appear in a random order. Using the  Arrays class in Java, you have access to various methods you can",
-          "link": "https://www.freecodecamp.org/news/java-sort-array-how-to-reverse-an-array-in-ascending-or-descending-order-with-arrays-sort-2/",
-          "publishedOn": "2022-06-14T21:14:36.000Z",
-          "wordCount": 923,
-          "title": "Java Sort Array – How to Reverse an Array in Ascending or Descending Order with Arrays.sort()",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/andre-taissin-hOwcob_3dpc-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-improve-cloud-native-system-performance/",
-          "author": "Sumeet Ninawe",
-          "description": "Web applications are built to provide various online services to end-users. Developing and hosting these services involves hard work and talent. And it all begins with an idea. But imagine, after putting in all that hard work, users cringe about the performance of the system – “It's too slow...”, “I",
-          "link": "https://www.freecodecamp.org/news/how-to-improve-cloud-native-system-performance/",
-          "publishedOn": "2022-06-14T20:14:40.000Z",
-          "wordCount": 3268,
-          "title": "How to Improve Cloud-Native System Performance",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/jeshoots-com-sMKUYIasyDM-unsplash.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/debouncing-explained/",
-          "author": "Nishant Kumar",
-          "description": "There are some heavy tasks in software development. Take calling an API, for example. Suppose we have an API that searches a list of users, and we can't afford to fire it too often. We want to search only when we have typed the whole search query.  Well, debouncing",
-          "link": "https://www.freecodecamp.org/news/debouncing-explained/",
-          "publishedOn": "2022-06-14T16:42:51.000Z",
-          "wordCount": 1025,
-          "title": "Debouncing in React – How to Delay a JS Function",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/How-to-Build-a-Weather-Application-using-React--14-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-link-css-to-html/",
-          "author": "Kolade Chris",
-          "description": "HTML is the markup language that helps you define the structure of a web page. CSS is the stylesheet language you use to make the structure presentable and nicely laid out. To make the stylings you implement with CSS reflect in the CSS, you have to find a way to",
-          "link": "https://www.freecodecamp.org/news/how-to-link-css-to-html/",
-          "publishedOn": "2022-06-14T16:22:59.000Z",
-          "wordCount": 674,
-          "title": "How to Link CSS to HTML – Stylesheet File Linking",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/linkHTMLCSS.png"
         }
       ]
     },
@@ -1139,6 +1119,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=116989",
+          "author": "Leila Sloman",
+          "description": "In 1973, Paul Erdős asked if it was possible to assemble sets of “triples” — three points on a graph — so that they abide by two seemingly incompatible rules. A new proof shows it can always be done.            \nThe post Hypergraphs Reveal Solution to 50-Year-Old Problem first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/hypergraphs-reveal-solution-to-50-year-old-problem-20220714/",
+          "publishedOn": "2022-07-14T13:30:22.000Z",
+          "wordCount": 4849,
+          "title": "Hypergraphs Reveal Solution to 50-Year-Old Problem",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/07/Hypergraphs_1200_Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=116971",
           "author": "Steven Strogatz",
@@ -1358,16 +1348,6 @@
           "wordCount": 2311,
           "title": "Wheel Made of ‘Odd Matter’ Spontaneously Rolls Uphill",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=115884",
-          "author": "Allison Whitten",
-          "description": "Neuroscientists uncovered an energy-saving mode in vision-system neurons that works at the cost of being able to see fine-grained details.            \nThe post The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/the-brain-has-a-low-power-mode-that-blunts-our-senses-20220614/",
-          "publishedOn": "2022-06-14T14:15:27.000Z",
-          "wordCount": 2531,
-          "title": "The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/Low_energy_brain_1200_Social.jpg"
         }
       ]
     },
