@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-15T02:21:50.055Z</updated>
+    <updated>2022-07-16T02:04:14.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Infrastructure as Code by Building a Custom Machine Image in AWS]]></title>
+        <id>https://www.freecodecamp.org/news/learn-instructure-as-a-code-by-building-custom-machine-image-in-aws/</id>
+        <link href="https://www.freecodecamp.org/news/learn-instructure-as-a-code-by-building-custom-machine-image-in-aws/"/>
+        <updated>2022-07-15T17:15:48.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! If you're wondering what infrastructure-as-code means, then you've come to the right place.  In this article I will explain the concepts behind Infrastructure-As-Code (IaC) at a high level and dive into a category of IaC known as server templating.  For the purpose of this article, we]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[strftime() Python – Datetime Format Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/strftime-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/strftime-in-python/"/>
+        <updated>2022-07-15T16:55:14.000Z</updated>
+        <summary type="html"><![CDATA[In Python, you can format date objects and present them in readable form using the strftime function. In this article, I'll show you how. What is strftime() in Python? strftime() is a Python date method you can use to convert dates to strings. It doesn't just convert to strings, but]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Enable and Disable Search Highlights on Windows 11]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-enable-disbale-search-highlights-on-windows-11/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-enable-disbale-search-highlights-on-windows-11/"/>
+        <updated>2022-07-15T16:17:45.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11 is the new operating system from Microsoft. If you've been using it from the beginning after it was just released, then you've already seen some changes. Search highlights are not new for the Windows operating systems as Windows 10 also has the same feature. And you might want]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An official guide to Go garbage collection]]></title>
+        <id>https://golangweekly.com/issues/420</id>
+        <link href="https://golangweekly.com/issues/420"/>
+        <updated>2022-07-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#​420 — July 15, 2022
+
+
+Unsubscribe  |  Read on the Web
+
+
+
+The Go Weekly Newsletter
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+  
+A Guide to the Go Garbage Collector — A comprehensive and up to date (including Go 1.19) guide that not only covers the how and what of the GC, but it also digs into tuning parameters using some cool interactive graphs. There’s a ton of information here that will help you tune your Go application when you need it.
+Official Go Site 
+
+
+  
+  
+What’s New in Go 1.19? — One of the best things about Go is we get a long period before releases where we can get up to speed with what’s coming. This post briefly covers a variety of aspects of Go 1.19, including the first use of generics in the standard library, which is exciting. For a more exhaustive list, of course, there’s also the draft 1.19 re…]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[freeCodeCamp.org Press Kit]]></title>
         <id>https://www.freecodecamp.org/news/freecodecamp-press-kit/</id>
@@ -1638,69 +1707,6 @@ Moritz Poldrack
         <summary type="html"><![CDATA[When working with arrays, there will be times when you need to loop or iterate through the array's values in order to either output or manipulate them.  These arrays can hold any datatype, including objects, numbers, strings, and many others. In this article, we'll look at how you can]]></summary>
         <author>
             <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surfaces So Different Even a Fourth Dimension Can’t Make Them the Same]]></title>
-        <id>https://www.quantamagazine.org/?p=116009</id>
-        <link href="https://www.quantamagazine.org/special-surfaces-remain-distinct-in-four-dimensions-20220616/"/>
-        <updated>2022-06-16T14:03:36.000Z</updated>
-        <summary type="html"><![CDATA[For decades mathematicians have searched for a specific pair of surfaces that can’t be transformed into each other in four-dimensional space. Now they’ve found them.            
-The post Surfaces So Different Even a Fourth Dimension Can’t Make Them the Same first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Kevin Hartnett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most Popular Coding Challenge Websites]]></title>
-        <id>https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/</id>
-        <link href="https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/"/>
-        <updated>2022-06-15T22:23:18.000Z</updated>
-        <summary type="html"><![CDATA[If you want to improve your analytical skills, there's no better way to do that than solving problems. If you are a programmer, then this is something you should do for yourself. Programmers need to deal with all sorts of problems almost every day. Most importantly, solving problems in an]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Life?]]></title>
-        <id>https://www.quantamagazine.org/?p=115982</id>
-        <link href="https://www.quantamagazine.org/what-is-life-20220615/"/>
-        <updated>2022-06-15T19:55:50.000Z</updated>
-        <summary type="html"><![CDATA[Without a good definition of life, how do we look for it on alien planets? Steven Strogatz speaks with Robert Hazen, a mineralogist and astrobiologist, and Sheref Mansy, a chemist, to learn more.            
-The post What Is Life? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Steven Strogatz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Help Translate freeCodeCamp into Your Native Language]]></title>
-        <id>https://www.freecodecamp.org/news/help-translate-freecodecamp-language/</id>
-        <link href="https://www.freecodecamp.org/news/help-translate-freecodecamp-language/"/>
-        <updated>2022-06-15T16:55:35.000Z</updated>
-        <summary type="html"><![CDATA[The freeCodeCamp community has been hard at work translating our 9,000+ tutorials into many world languages. Quality is everything. So instead of relying on machine translation, we are doing this entire process by hand. Dozens of native speakers are collaborating to make these free learning resources accessible to more people]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRUD Operations – What is CRUD?]]></title>
-        <id>https://www.freecodecamp.org/news/crud-operations-explained/</id>
-        <link href="https://www.freecodecamp.org/news/crud-operations-explained/"/>
-        <updated>2022-06-15T16:51:42.000Z</updated>
-        <summary type="html"><![CDATA[Despite being commonly pronounced /krʌd/, CRUD is not a word. It’s an abbreviation that stands for Create, Read, Update, and Delete or Destroy. In this article, I will show you what CRUD means, and what the individual terms mean and do. I will also show you how create, read, update,]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wheel Made of ‘Odd Matter’ Spontaneously Rolls Uphill]]></title>
-        <id>https://www.quantamagazine.org/?p=115932</id>
-        <link href="https://www.quantamagazine.org/wheel-made-of-odd-matter-spontaneously-rolls-uphill-20220615/"/>
-        <updated>2022-06-15T14:24:58.000Z</updated>
-        <summary type="html"><![CDATA[Physicists have solved a key problem of robotic locomotion by revising the usual rules of interaction between simple component parts.            
-The post Wheel Made of ‘Odd Matter’ Spontaneously Rolls Uphill first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Ben Brubaker</name>
         </author>
     </entry>
 </feed>

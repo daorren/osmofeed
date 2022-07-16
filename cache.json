@@ -33,6 +33,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/learn-instructure-as-a-code-by-building-custom-machine-image-in-aws/",
+          "author": "Destiny Erhabor",
+          "description": "Hey everyone! If you're wondering what infrastructure-as-code means, then you've come to the right place.  In this article I will explain the concepts behind Infrastructure-As-Code (IaC) at a high level and dive into a category of IaC known as server templating.  For the purpose of this article, we",
+          "link": "https://www.freecodecamp.org/news/learn-instructure-as-a-code-by-building-custom-machine-image-in-aws/",
+          "publishedOn": "2022-07-15T17:15:48.000Z",
+          "wordCount": 3540,
+          "title": "Learn Infrastructure as Code by Building a Custom Machine Image in AWS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Understand-Infrastructure-as-a-code--4-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/strftime-in-python/",
+          "author": "Dillion Megida",
+          "description": "In Python, you can format date objects and present them in readable form using the strftime function. In this article, I'll show you how. What is strftime() in Python? strftime() is a Python date method you can use to convert dates to strings. It doesn't just convert to strings, but",
+          "link": "https://www.freecodecamp.org/news/strftime-in-python/",
+          "publishedOn": "2022-07-15T16:55:14.000Z",
+          "wordCount": 1085,
+          "title": "strftime() Python – Datetime Format Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/python-datetime-format-tutorial.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-enable-disbale-search-highlights-on-windows-11/",
+          "author": "Md. Fahim Bin Amin",
+          "description": "Windows 11 is the new operating system from Microsoft. If you've been using it from the beginning after it was just released, then you've already seen some changes. Search highlights are not new for the Windows operating systems as Windows 10 also has the same feature. And you might want",
+          "link": "https://www.freecodecamp.org/news/how-to-enable-disbale-search-highlights-on-windows-11/",
+          "publishedOn": "2022-07-15T16:17:45.000Z",
+          "wordCount": 1119,
+          "title": "How to Enable and Disable Search Highlights on Windows 11",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Artboard.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/freecodecamp-press-kit/",
           "author": "freeCodeCamp.org",
           "description": "This is the press kit for freeCodeCamp.org. Contact information: 100% of freeCodeCamp's revenue goes toward programs.  For interview requests, speaking engagements, or social media questions, please contact our founder, Quincy Larson, at quincy@freecodecamp.org. About freeCodeCamp.org Quincy Larson founded freeCodeCamp.org in 2014 to help people transition into tech careers using",
@@ -1081,36 +1111,6 @@
           "wordCount": 1782,
           "title": "JavaScript forEach() – JS Array For Each Loop Example",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you want to improve your analytical skills, there's no better way to do that than solving problems. If you are a programmer, then this is something you should do for yourself. Programmers need to deal with all sorts of problems almost every day. Most importantly, solving problems in an",
-          "link": "https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/",
-          "publishedOn": "2022-06-15T22:23:18.000Z",
-          "wordCount": 3988,
-          "title": "The Most Popular Coding Challenge Websites",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/fCC-Banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/help-translate-freecodecamp-language/",
-          "author": "Quincy Larson",
-          "description": "The freeCodeCamp community has been hard at work translating our 9,000+ tutorials into many world languages. Quality is everything. So instead of relying on machine translation, we are doing this entire process by hand. Dozens of native speakers are collaborating to make these free learning resources accessible to more people",
-          "link": "https://www.freecodecamp.org/news/help-translate-freecodecamp-language/",
-          "publishedOn": "2022-06-15T16:55:35.000Z",
-          "wordCount": 696,
-          "title": "How to Help Translate freeCodeCamp into Your Native Language",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/farzad-mohsenvand-pKhfJme9mP0-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/crud-operations-explained/",
-          "author": "Kolade Chris",
-          "description": "Despite being commonly pronounced /krʌd/, CRUD is not a word. It’s an abbreviation that stands for Create, Read, Update, and Delete or Destroy. In this article, I will show you what CRUD means, and what the individual terms mean and do. I will also show you how create, read, update,",
-          "link": "https://www.freecodecamp.org/news/crud-operations-explained/",
-          "publishedOn": "2022-06-15T16:51:42.000Z",
-          "wordCount": 1084,
-          "title": "CRUD Operations – What is CRUD?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/crud.png"
         }
       ]
     },
@@ -1318,36 +1318,6 @@
           "wordCount": 8696,
           "title": "An Immunologist Fights Covid with Tweets and a Nasal Spray",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/Iwasaki_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=116009",
-          "author": "Kevin Hartnett",
-          "description": "For decades mathematicians have searched for a specific pair of surfaces that can’t be transformed into each other in four-dimensional space. Now they’ve found them.            \nThe post Surfaces So Different Even a Fourth Dimension Can’t Make Them the Same first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/special-surfaces-remain-distinct-in-four-dimensions-20220616/",
-          "publishedOn": "2022-06-16T14:03:36.000Z",
-          "wordCount": 1291,
-          "title": "Surfaces So Different Even a Fourth Dimension Can’t Make Them the Same",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/Seifert_Surfaces_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=115982",
-          "author": "Steven Strogatz",
-          "description": "Without a good definition of life, how do we look for it on alien planets? Steven Strogatz speaks with Robert Hazen, a mineralogist and astrobiologist, and Sheref Mansy, a chemist, to learn more.            \nThe post What Is Life? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/what-is-life-20220615/",
-          "publishedOn": "2022-06-15T19:55:50.000Z",
-          "wordCount": 8161,
-          "title": "What Is Life?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=115932",
-          "author": "Ben Brubaker",
-          "description": "Physicists have solved a key problem of robotic locomotion by revising the usual rules of interaction between simple component parts.            \nThe post Wheel Made of ‘Odd Matter’ Spontaneously Rolls Uphill first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/wheel-made-of-odd-matter-spontaneously-rolls-uphill-20220615/",
-          "publishedOn": "2022-06-15T14:24:58.000Z",
-          "wordCount": 2311,
-          "title": "Wheel Made of ‘Odd Matter’ Spontaneously Rolls Uphill",
-          "imageUrl": null
         }
       ]
     },
@@ -1460,6 +1430,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/420",
+          "author": null,
+          "description": "#​420 — July 15, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n\n\n\n  \n  \nA Guide to the Go Garbage Collector — A comprehensive and up to date (including Go 1.19) guide that not only covers the how and what of the GC, but it also digs into tuning parameters using some cool interactive graphs. There’s a ton of information here that will help you tune your Go application when you need it.\nOfficial Go Site \n\n\n  \n  \nWhat’s New in Go 1.19? — One of the best things about Go is we get a long period before releases where we can get up to speed with what’s coming. This post briefly covers a variety of aspects of Go 1.19, including the first use of generics in the standard library, which is exciting. For a more exhaustive list, of course, there’s also the draft 1.19 re…",
+          "link": "https://golangweekly.com/issues/420",
+          "publishedOn": "2022-07-15T00:00:00.000Z",
+          "wordCount": 880,
+          "title": "An official guide to Go garbage collection",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/419",
           "author": null,
