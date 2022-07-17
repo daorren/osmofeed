@@ -2,10 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-16T02:04:14.164Z</updated>
+    <updated>2022-07-17T02:10:02.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to select the previous sibling of an element (#snippet)]]></title>
+        <id>https://www.stefanjudis.com/snippets/how-to-select-the-previous-sibling/</id>
+        <link href="https://www.stefanjudis.com/snippets/how-to-select-the-previous-sibling/"/>
+        <updated>2022-07-15T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jim Nielsen blogged about a mind-boggling feature of the new :has() pseudo-class. It's not well supported yet, but this CSS addition unlocks countless use cases that Frontend engineers have been dreaming of for years.
+
+        
+MDN Compat Data (source)
+Browser support info for :has() 
+              
+                
+
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                
+
+                        
+                        Nein
+                        
+                      
+                        
+                        Nein
+                        
+                      
+                        
+                        Nö
+                        
+                      
+                        
+                        Nope
+                        
+                      
+                        
+                        15.4
+                        
+                      
+                        
+                        Nope
+                        
+                      
+                        
+                        Nope
+                        
+                      
+                        
+                        Nei
+                        
+                      
+                
+
+
+I always thought :has() is only the long-awaited "parent selector", but Jim shared that it's the "previous sibling selector", too! 🤯
+/* 
+  Select every <a> element that's a child of 
+  a <p> element that directly precedes an <hr> element.
+*/
+p:has(+ hr) a { /* ... */ }
+
+If you want to learn more, head over to Jim's blog. It's a great one!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Infrastructure as Code by Building a Custom Machine Image in AWS]]></title>
         <id>https://www.freecodecamp.org/news/learn-instructure-as-a-code-by-building-custom-machine-image-in-aws/</id>
@@ -1636,77 +1719,6 @@ Thank you: @cpwnd]]></summary>
         <summary type="html"><![CDATA[Did you know that Visual Basic is currently a more popular programming language than JavaScript? That is according to the TIOBE index [https://www.tiobe.com/tiobe-index/], which is one of the most respected indicators of the popularity of programming languages. Visual Basic is an object-oriented programming language developed by Microsoft. It makes it]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bringing SIMD into Go?]]></title>
-        <id>https://golangweekly.com/issues/416</id>
-        <link href="https://golangweekly.com/issues/416"/>
-        <updated>2022-06-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​416 — June 17, 2022
-
-
-Unsubscribe  |  Read on the Web
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-Go 1.19 Beta 1 Released — This post on the golang-announce group just has the basics of how to download it, but these draft release notes go further into actual features (which are predominantly fixes and tweaks - don’t expect a big 1.18 style release, though the addition of an optional soft memory limit for the runtime is interesting).
-The Go Team 
-
-
-  
-  
-Language Proposal: Bring Direct SIMD Support into Go — Language proposals are always interesting to read, particularly when they provoke discussion; here, a simd library to take advantage of SIMD (Single Instruction, Multiple Data) CPU instructions is proposed and has been marked “active” by the core team for now.
-Moritz Poldrack 
-
-
-  
-…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Query Data in Google Spreadsheets]]></title>
-        <id>https://www.freecodecamp.org/news/querying-like-an-sql-boss-in-google-sheets/</id>
-        <link href="https://www.freecodecamp.org/news/querying-like-an-sql-boss-in-google-sheets/"/>
-        <updated>2022-06-16T16:32:35.000Z</updated>
-        <summary type="html"><![CDATA[I built a spreadsheet and wanted to display some of the data in a small table which would update based on the day of the week. After some digging, querying seemed the best option to pull this off. In this article, you'll learn several things about Google Sheets tables, functions,]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Solve the Parking Lot Challenge in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/parking-lot-challenge-solved-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/parking-lot-challenge-solved-in-javascript/"/>
-        <updated>2022-06-16T14:55:53.000Z</updated>
-        <summary type="html"><![CDATA[Have you heard about the Parking Lot challenge? If not, let me explain briefly. The Parking Lot is challenge where you are asked to write a class that manages an imaginary parking lot.  In this tutorial we will do that in JavaScript. And to make it a bit more]]></summary>
-        <author>
-            <name>Mihail Gaberov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript forEach() – JS Array For Each Loop Example]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-foreach-js-array-for-each-example/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-foreach-js-array-for-each-example/"/>
-        <updated>2022-06-16T14:52:20.000Z</updated>
-        <summary type="html"><![CDATA[When working with arrays, there will be times when you need to loop or iterate through the array's values in order to either output or manipulate them.  These arrays can hold any datatype, including objects, numbers, strings, and many others. In this article, we'll look at how you can]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
         </author>
     </entry>
 </feed>

@@ -1081,36 +1081,6 @@
           "wordCount": 541,
           "title": "Learn Visual Basic (.NET) – Full Course",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/maxresdefault.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/querying-like-an-sql-boss-in-google-sheets/",
-          "author": "Eamonn Cottrell",
-          "description": "I built a spreadsheet and wanted to display some of the data in a small table which would update based on the day of the week. After some digging, querying seemed the best option to pull this off. In this article, you'll learn several things about Google Sheets tables, functions,",
-          "link": "https://www.freecodecamp.org/news/querying-like-an-sql-boss-in-google-sheets/",
-          "publishedOn": "2022-06-16T16:32:35.000Z",
-          "wordCount": 1099,
-          "title": "How to Query Data in Google Spreadsheets",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/querying-2.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/parking-lot-challenge-solved-in-javascript/",
-          "author": "Mihail Gaberov",
-          "description": "Have you heard about the Parking Lot challenge? If not, let me explain briefly. The Parking Lot is challenge where you are asked to write a class that manages an imaginary parking lot.  In this tutorial we will do that in JavaScript. And to make it a bit more",
-          "link": "https://www.freecodecamp.org/news/parking-lot-challenge-solved-in-javascript/",
-          "publishedOn": "2022-06-16T14:55:53.000Z",
-          "wordCount": 1996,
-          "title": "How to Solve the Parking Lot Challenge in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/parking-loot.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-foreach-js-array-for-each-example/",
-          "author": "Joel Olawanle",
-          "description": "When working with arrays, there will be times when you need to loop or iterate through the array's values in order to either output or manipulate them.  These arrays can hold any datatype, including objects, numbers, strings, and many others. In this article, we'll look at how you can",
-          "link": "https://www.freecodecamp.org/news/javascript-foreach-js-array-for-each-example/",
-          "publishedOn": "2022-06-16T14:52:20.000Z",
-          "wordCount": 1782,
-          "title": "JavaScript forEach() – JS Array For Each Loop Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template.png"
         }
       ]
     },
@@ -1374,6 +1344,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/snippets/how-to-select-the-previous-sibling/",
+          "author": null,
+          "description": "Jim Nielsen blogged about a mind-boggling feature of the new :has() pseudo-class. It's not well supported yet, but this CSS addition unlocks countless use cases that Frontend engineers have been dreaming of for years.\n\n        \nMDN Compat Data (source)\nBrowser support info for :has() \n              \n                \n\n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                \n\n                        \n                        Nein\n                        \n                      \n                        \n                        Nein\n                        \n                      \n                        \n                        Nö\n                        \n                      \n                        \n                        Nope\n                        \n                      \n                        \n                        15.4\n                        \n                      \n                        \n                        Nope\n                        \n                      \n                        \n                        Nope\n                        \n                      \n                        \n                        Nei\n                        \n                      \n                \n\n\nI always thought :has() is only the long-awaited \"parent selector\", but Jim shared that it's the \"previous sibling selector\", too! 🤯\n/* \n  Select every <a> element that's a child of \n  a <p> element that directly precedes an <hr> element.\n*/\np:has(+ hr) a { /* ... */ }\n\nIf you want to learn more, head over to Jim's blog. It's a great one!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/snippets/how-to-select-the-previous-sibling/",
+          "publishedOn": "2022-07-15T22:00:00.000Z",
+          "wordCount": 1188,
+          "title": "How to select the previous sibling of an element (#snippet)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20select%20the%20previous%20sibling%20of%20an%20element/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-71/",
           "author": null,
           "description": "Happy Sunday, party people!\n\nSometimes new web platform features ship in one browser (cough Chrome cough), and we all get excited about it only to find out that it has been abandoned because the other browser vendors won't ship it. These situations are always unfortunate.\nBut how do you figure out if all browser makers consider a new web platform feature a good idea?\nFirst, the three major browsers offer feature status pages:\nchromestatus.com\nmozilla.github.io/standards-positions/\nwebkit.org/status/\nThe pages vary in detail and maintenance level but are a good start.\nBut what about features listed nowhere? What should you do then? Could you go somewhere and ask?\nJup! The WebKit folks continued to invest in the community and released a new standards-positions repo where you can go and do pr…",
@@ -1468,16 +1448,6 @@
           "publishedOn": "2022-06-24T00:00:00.000Z",
           "wordCount": 853,
           "title": "Fuzzing: an introduction, plus updates coming to 1.19.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/416",
-          "author": null,
-          "description": "#​416 — June 17, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nGo 1.19 Beta 1 Released — This post on the golang-announce group just has the basics of how to download it, but these draft release notes go further into actual features (which are predominantly fixes and tweaks - don’t expect a big 1.18 style release, though the addition of an optional soft memory limit for the runtime is interesting).\nThe Go Team \n\n\n  \n  \nLanguage Proposal: Bring Direct SIMD Support into Go — Language proposals are always interesting to read, particularly when they provoke discussion; here, a simd library to take advantage of SIMD (Single Instruction, Multiple Data) CPU instructions is proposed and has been marked “active” by the core team for now.\nMoritz Poldrack \n\n\n  \n…",
-          "link": "https://golangweekly.com/issues/416",
-          "publishedOn": "2022-06-17T00:00:00.000Z",
-          "wordCount": 860,
-          "title": "Bringing SIMD into Go?",
           "imageUrl": null
         }
       ]
