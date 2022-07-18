@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-17T02:10:02.460Z</updated>
+    <updated>2022-07-18T02:09:05.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — A mass Dunning-Kruger event]]></title>
+        <id>62c9f67ba9d2353cca424d0d</id>
+        <link href="https://labnotes.org/weekend-reading-a-mass-dunning-kruger-event/"/>
+        <updated>2022-07-17T18:22:06.000Z</updated>
+        <summary type="html"><![CDATA[This week we JavaScript in space, sell more cyber, declare a mass Dunning-Kruger event, read Yoko Ono's Tweets, and meet the duck god of chaos.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Animate Your Git Commit History with git-story]]></title>
+        <id>https://www.freecodecamp.org/news/animate-your-git-repo-with-git-story/</id>
+        <link href="https://www.freecodecamp.org/news/animate-your-git-repo-with-git-story/"/>
+        <updated>2022-07-17T17:07:24.000Z</updated>
+        <summary type="html"><![CDATA[It is often useful for developers to visualize aspects of their code projects. This is especially true for version control systems like Git, where understanding the team's workflow is essential. One way to approach this in Git is to draw a graph like the one you see above. You've probably]]></summary>
+        <author>
+            <name>Jacob Stopak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #72 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-72/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-72/"/>
+        <updated>2022-07-16T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello, hello party people! 👋
+
+Have you ever wondered why it's currentColor and not current-color in CSS? Or why it's border-radius and not corner-radius? Or why we have to put * { box-sizing: border-box; } into every stylesheet?
+The answer is simple: designing a programming language is incredibly hard. And it's even harder considering that every addition will stay on the web platform forever.
+Once a feature is out there, people start using it, and that's it then. Removing or changing functionality would break the web, and we can't do this!
+Every few months, I come across the Incomplete List of Mistakes in the Design of CSS. The list includes confusing CSS features that are just that: confusing mistakes.
+But what should you do about these mistakes?
+This week I discovered Jen Simmons' "CSS …]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to select the previous sibling of an element (#snippet)]]></title>
         <id>https://www.stefanjudis.com/snippets/how-to-select-the-previous-sibling/</id>
@@ -1689,36 +1726,6 @@ Chore: Dependency updates
 Thank you: @cpwnd]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Get Current Date – Today's Date in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-get-current-date-todays-date-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-get-current-date-todays-date-in-js/"/>
-        <updated>2022-06-17T15:45:01.000Z</updated>
-        <summary type="html"><![CDATA[When you're developing web applications, you might need to include the current date on which a particular operation is performed.  For example, when submitting data via a form, you may want to include the date that data was created or when the form was submitted. In this article, we]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Arrow – Symbol Unicode for Single and Double Arrows, Left and Right Arrows]]></title>
-        <id>https://www.freecodecamp.org/news/html-arrow-symbol-unicode-for-single-and-double-arrows-left-and-right-arrows/</id>
-        <link href="https://www.freecodecamp.org/news/html-arrow-symbol-unicode-for-single-and-double-arrows-left-and-right-arrows/"/>
-        <updated>2022-06-17T15:35:12.000Z</updated>
-        <summary type="html"><![CDATA[What are Unicodes? Unicodes are universal characters that represent different things. These could be symbols, characters, scripts, and many more forms of character combinations. Unicodes are adopted by many platforms (mobile and web) to make characters available everywhere. Why are Unicodes useful? Unicodes are useful because they provide a standard]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Visual Basic (.NET) – Full Course]]></title>
-        <id>https://www.freecodecamp.org/news/learn-visual-basic-net-full-course/</id>
-        <link href="https://www.freecodecamp.org/news/learn-visual-basic-net-full-course/"/>
-        <updated>2022-06-17T14:24:49.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that Visual Basic is currently a more popular programming language than JavaScript? That is according to the TIOBE index [https://www.tiobe.com/tiobe-index/], which is one of the most respected indicators of the popularity of programming languages. Visual Basic is an object-oriented programming language developed by Microsoft. It makes it]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
