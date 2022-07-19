@@ -14,16 +14,6 @@
           "wordCount": 263,
           "title": "v1.15.1",
           "imageUrl": "https://opengraph.githubassets.com/773fe75a9ebd447ce664e0a73ba1ff89839c8a12b901abc4891691fbafe17c19/osmoscraft/osmosfeed/releases/tag/v1.15.1"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0",
-          "author": null,
-          "description": "Added: Resolve relative URLs in item link and media\nAdded: Item thumbnail fallback to channel thumbnail\nChore: Dependency updates\nThank you: @cpwnd",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0",
-          "publishedOn": "2022-06-18T19:01:33.000Z",
-          "wordCount": 280,
-          "title": "v1.15.0",
-          "imageUrl": "https://opengraph.githubassets.com/ce00272fbcf40921811c2125a0228c3b60c8a0b083dbaf2601960d034cc3be27/osmoscraft/osmosfeed/releases/tag/v1.15.0"
         }
       ]
     },
@@ -32,6 +22,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/flutter-stacked-architecture-todo-app/",
+          "author": "Obumuneme Nwabude",
+          "description": "Flutter is a UI toolkit for building cross-platform applications. You can build Flutter apps using various state management techniques like the Stacked [https://pub.dev/packages/stacked] architecture.  This article will explain what Stacked architecture is and will guide you through creating a simple Todo App in Flutter with Stacked. Table of Contents",
+          "link": "https://www.freecodecamp.org/news/flutter-stacked-architecture-todo-app/",
+          "publishedOn": "2022-07-18T22:03:02.000Z",
+          "wordCount": 5948,
+          "title": "How to Use Stacked Architecture to Build a Flutter Todo App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/typeerror-cannot-unpack-non-iterable-nonetype-object-how-to-fix-in-python/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When you're working with iterable objects like Lists, Sets, and Tuples in Python, you might want to assign the items in these objects to individual variables. This is a process known as unpacking.  During the process of unpacking items in iterable objects, you may get an error that says:",
+          "link": "https://www.freecodecamp.org/news/typeerror-cannot-unpack-non-iterable-nonetype-object-how-to-fix-in-python/",
+          "publishedOn": "2022-07-18T19:50:05.000Z",
+          "wordCount": 1562,
+          "title": "Typeerror: cannot unpack non-iterable nonetype object – How to Fix in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/markus-spiske-iar-afB0QQw-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/singleton-design-pattern-with-javascript/",
+          "author": "Keyur Paralkar",
+          "description": "At one point or another, you might need to use global state inside your React apps. This lets you have your data in one place and make sure the required components can access it.  To help you do this, you'll often use some sort of state management library like",
+          "link": "https://www.freecodecamp.org/news/singleton-design-pattern-with-javascript/",
+          "publishedOn": "2022-07-18T19:26:56.000Z",
+          "wordCount": 3077,
+          "title": "Singleton Design Pattern – How it Works in JavaScript with Example Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/sven-mieke-fteR0e2BzKo-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/binary-search-in-python-with-examples/",
+          "author": "Tantoluwa Heritage Alabi",
+          "description": "In our daily lives, we're constantly searching for information or trying to find solutions to problems we encounter. When going through search results on the web, we pick the most relevant articles or resources that we think will help us. Search is such a part of our lives because we",
+          "link": "https://www.freecodecamp.org/news/binary-search-in-python-with-examples/",
+          "publishedOn": "2022-07-18T16:53:41.000Z",
+          "wordCount": 3366,
+          "title": "Binary Search in Python – How to Code the Algorithm with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-pixabay-277593.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-puppeteer-with-nodejs/",
+          "author": "Valentine Gatwiri",
+          "description": "Puppeteer is a JavaScript library that allows you to script and interact with browser windows. In this guide, we'll explore the basics of using Puppeteer with Node.js so you can start automating your tests. Prerequisites  * Basic understanding of Node.js  * Basic understanding of Puppeteer  * A",
+          "link": "https://www.freecodecamp.org/news/how-to-use-puppeteer-with-nodejs/",
+          "publishedOn": "2022-07-18T16:41:54.000Z",
+          "wordCount": 1573,
+          "title": "How to Use Puppeteer With Node.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pup.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-devtestops/",
+          "author": "Ezinne Anne Emilia",
+          "description": "Technology is always improving, and developers are always trying to find easier and better ways to improve the software. This is how DevOps came to be, and over time DevTestOps emerged as a new strategy. Today, companies like Spotify apply DevTestOps in software production which makes it easier for them",
+          "link": "https://www.freecodecamp.org/news/what-is-devtestops/",
+          "publishedOn": "2022-07-18T14:22:13.000Z",
+          "wordCount": 1763,
+          "title": "What is DevTestOps? How to Combine DevOps and TestOps to Build Better Products",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/DEVTESTOPS_1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/typeerror-int-object-is-not-callable-how-to-fix-in-python/",
+          "author": "Kolade Chris",
+          "description": "In Python, a “Typeerror” occurs when you use different data types in an operation. For example, if you attempt to divide an integer (number) by a string, it leads to a typeerror because an integer data type is not the same as a string. One of those type errors is",
+          "link": "https://www.freecodecamp.org/news/typeerror-int-object-is-not-callable-how-to-fix-in-python/",
+          "publishedOn": "2022-07-18T14:10:48.000Z",
+          "wordCount": 1288,
+          "title": "Typeerror: int object is not callable – How to Fix in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/typeerror.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-insert-an-element-into-an-array-in-javascript/",
+          "author": "Joel Olawanle",
+          "description": "The array datatype is one of the most commonly used datatypes when you're working with an ordered list of values. Each value is referred to as an element with a unique id. It stores elements of various datatypes that you can access through a single variable. In practice, an array",
+          "link": "https://www.freecodecamp.org/news/how-to-insert-an-element-into-an-array-in-javascript/",
+          "publishedOn": "2022-07-18T14:09:34.000Z",
+          "wordCount": 1817,
+          "title": "Push into an Array in JavaScript – How to Insert an Element into an Array in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template--1-.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/animate-your-git-repo-with-git-story/",
           "author": "Jacob Stopak",
@@ -1070,6 +1140,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=117012",
+          "author": "Mordechai Rorvig",
+          "description": "Three computer scientists have solved the NLTS conjecture, proving that systems of entangled particles can remain difficult to analyze even away from extremes.            \nThe post Computer Science Proof Unveils Unexpected Form of Entanglement first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/computer-science-proof-lifts-limits-on-quantum-entanglement-20220718/",
+          "publishedOn": "2022-07-18T15:44:31.000Z",
+          "wordCount": 5257,
+          "title": "Computer Science Proof Unveils Unexpected Form of Entanglement",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/07/NLTS-Conjecture_1200_Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=116989",
           "author": "Leila Sloman",
           "description": "In 1973, Paul Erdős asked if it was possible to assemble sets of “triples” — three points on a graph — so that they abide by two seemingly incompatible rules. A new proof shows it can always be done.            \nThe post Hypergraphs Reveal Solution to 50-Year-Old Problem first appeared on Quanta Magazine",
@@ -1315,16 +1395,6 @@
           "wordCount": 1071,
           "title": "Weekend Reading — … no worries if not",
           "imageUrl": "https://labnotes.org/content/images/2022/06/p50-diy-kit-1.jpg"
-        },
-        {
-          "id": "62a52f6250eccb22d9896979",
-          "author": "Assaf Arkin",
-          "description": "This week we DNS the weather, upgrade our workstation, find out who's making up all these AI images, and play dead like Sugar.",
-          "link": "https://labnotes.org/weekend-reading-gaslighting-with-these-prices/",
-          "publishedOn": "2022-06-19T00:45:35.000Z",
-          "wordCount": 1706,
-          "title": "Weekend Reading — Gaslighting? With these prices?!",
-          "imageUrl": "https://labnotes.org/favicon.png"
         }
       ]
     },
