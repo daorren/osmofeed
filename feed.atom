@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-19T02:20:51.764Z</updated>
+    <updated>2022-07-20T02:05:12.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Convert a String to a DateTime Object in Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-datetime-object-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-datetime-object-in-python/"/>
+        <updated>2022-07-19T20:40:28.000Z</updated>
+        <summary type="html"><![CDATA[When you get dates from raw data, they're typically in the form of string objects. But in this form, you can't access the date's properties like the year, month, and so on.  The solution to this problem is to parse (or convert) the string object into a datetime object]]></summary>
+        <author>
+            <name>Ibrahim Abayomi Ogunbiyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[While Loops in Python – While True Loop Statement Example]]></title>
+        <id>https://www.freecodecamp.org/news/while-loops-in-python-while-true-loop-statement-example/</id>
+        <link href="https://www.freecodecamp.org/news/while-loops-in-python-while-true-loop-statement-example/"/>
+        <updated>2022-07-19T16:23:27.000Z</updated>
+        <summary type="html"><![CDATA[Python has many tools and features that can help you automate repetitive tasks. One of those features is loops. Loops are a helpful and frequently used feature in all modern programming languages. Loops are helpful when you want to automate a specific repetitive task or prevent yourself from copying and]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Batch Delete Emails in Gmail – Delete Multiple Email Messages]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-batch-delete-emails-in-gmail-delete-multiple-email-messages/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-batch-delete-emails-in-gmail-delete-multiple-email-messages/"/>
+        <updated>2022-07-19T16:03:45.000Z</updated>
+        <summary type="html"><![CDATA[I hear some of my co-workers talk about getting to inbox zero. So I started thinking of a way to clear out my over over 4000 unread messages. And after days of searching around, I found a way. I even went on to delete 20,000 email messages from the trash]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Checksum? How to Check if a File was Modified Using the cksum Command in Linux]]></title>
+        <id>https://www.freecodecamp.org/news/file-last-modified-in-inux-how-to-check-if-two-files-are-same/</id>
+        <link href="https://www.freecodecamp.org/news/file-last-modified-in-inux-how-to-check-if-two-files-are-same/"/>
+        <updated>2022-07-19T15:33:13.000Z</updated>
+        <summary type="html"><![CDATA[When you are working with files on the command line, you might need to check their modification time and content integrity.  Linux has a powerful command line which allows you to explore multiple aspects of files and filesystems. In case you need to check if file was modified, you]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java Random Number Generator – How to Generate Numbers with Math.random() and Convert to Integers]]></title>
+        <id>https://www.freecodecamp.org/news/java-random-number-generator-how-to-generate-with-math-random-and-convert-to-integer/</id>
+        <link href="https://www.freecodecamp.org/news/java-random-number-generator-how-to-generate-with-math-random-and-convert-to-integer/"/>
+        <updated>2022-07-19T15:09:37.000Z</updated>
+        <summary type="html"><![CDATA[In many applications, you need random numbers. You might need to throw dice in video games, create a private cryptography key, or create a user’s temporary password.  All these applications depend on random number creation. It’s sometimes challenging to differentiate what to use when, and security is a deep]]></summary>
+        <author>
+            <name>Sebastian Sigl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the ‘Diamond of the Plant World’ Helped Land Plants Evolve]]></title>
+        <id>https://www.quantamagazine.org/?p=117040</id>
+        <link href="https://www.quantamagazine.org/how-the-diamond-of-the-plant-world-helped-land-plants-evolve-20220719/"/>
+        <updated>2022-07-19T13:48:03.000Z</updated>
+        <summary type="html"><![CDATA[Structural studies of the robust material called sporopollenin reveal how it made plants hardy enough to reproduce on dry land.            
+The post How the ‘Diamond of the Plant World’ Helped Land Plants Evolve first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>James Dinneen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Stacked Architecture to Build a Flutter Todo App]]></title>
         <id>https://www.freecodecamp.org/news/flutter-stacked-architecture-todo-app/</id>
@@ -1775,25 +1836,6 @@ The post An Immunologist Fights Covid with Tweets and a Nasal Spray first appear
         <summary type="html"><![CDATA[In this article, you will learn all about the abs() function in Python. You will learn what the abs() function does and why you may want to use it. You will also understand how to use abs() with the help of practical examples. Here is what we will cover:]]></summary>
         <author>
             <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #69 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-69/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-69/"/>
-        <updated>2022-06-19T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hello, hello party people!
-
-Last week has been the day many poor souls waited for. Internet Explorer 11 left Microsoft's support rotation. No patches and security fixes anymore!
-I haven't dealt with IE for ages, but I know folks that still had to tackle it occasionally. But does no support mean the outdated browser will just disappear? As Adrian puts it: "This doesn’t mean that the copy of IE11 on your client’s computer will suddenly uninstall itself." And this is true, but I think now's really the time to forget about it.
-If you want to go down memory lane for a moment and see some "great" IE hacks, Pawel collected some nice ones to say goodbye.
-And with this, today you'll learn about:
-AbortController use cases
-CSS terminology
-font-display: optional
-... and, as always, GitHub repositories…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
