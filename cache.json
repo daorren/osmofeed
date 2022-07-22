@@ -4,24 +4,43 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": [
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1",
-          "author": null,
-          "description": "Fixed: Favicon used as article image",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1",
-          "publishedOn": "2022-06-22T06:05:35.000Z",
-          "wordCount": 263,
-          "title": "v1.15.1",
-          "imageUrl": "https://opengraph.githubassets.com/773fe75a9ebd447ce664e0a73ba1ff89839c8a12b901abc4891691fbafe17c19/osmoscraft/osmosfeed/releases/tag/v1.15.1"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "freeCodeCamp.org",
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-does-double-slash-mean-in-python/",
+          "author": "Kolade Chris",
+          "description": "In Python, you use the double slash // operator to perform floor division. This  // operator divides the first number by the second number and rounds the result down to the nearest integer (or whole number). In this article, I will show you how to use the // operator",
+          "link": "https://www.freecodecamp.org/news/what-does-double-slash-mean-in-python/",
+          "publishedOn": "2022-07-21T15:30:37.000Z",
+          "wordCount": 1482,
+          "title": "What Does // Mean in Python? Operators in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/doubleSlash.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/typeerror-string-indices-must-be-integers-how-to-fix-in-python/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In Python, there are certain iterable objects – lists, tuples, and strings – whose items or characters can be accessed using their index numbers.  For example, to access the first character in a string, you'd do something like this: greet = \"Hello World!\" print(greet[0]) # H To access the",
+          "link": "https://www.freecodecamp.org/news/typeerror-string-indices-must-be-integers-how-to-fix-in-python/",
+          "publishedOn": "2022-07-21T15:18:02.000Z",
+          "wordCount": 1296,
+          "title": "Typeerror: string indices must be integers – How to Fix in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/blake-connally-B3l0g6HLxr8-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-apache-a/",
+          "author": "Beau Carnes",
+          "description": "Apache Cassandra is a NoSQL database used by some of the largest companies in the world, including Facebook, Netflix, eBay, and Twitter. We just published a full course on Apache Cassandra on the freeCodeCamp.org YouTube channel. Apache Cassandra is a free and open-source distributed NoSQL database management system designed to",
+          "link": "https://www.freecodecamp.org/news/learn-apache-a/",
+          "publishedOn": "2022-07-21T13:55:54.000Z",
+          "wordCount": 918,
+          "title": "Learn Apache Cassandra, a NoSQL Database",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/maxresdefault-1.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-center-a-div-with-css-10-different-ways/",
           "author": "Soham De Roy",
@@ -1151,76 +1170,6 @@
           "wordCount": 4032,
           "title": "JavaScript Design Patterns –Explained with Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-pixabay-161043.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-recover-a-deleted-file-in-git/",
-          "author": "Zaira Hira",
-          "description": "Git is a version control system that helps you keep track of the changes in a project's life cycle. It preserves the history of the project and allows you and your team members to coordinate effectively throughout.  There could be situations where you deleted a file and you want",
-          "link": "https://www.freecodecamp.org/news/how-to-recover-a-deleted-file-in-git/",
-          "publishedOn": "2022-06-21T21:31:23.000Z",
-          "wordCount": 1309,
-          "title": "How to Recover a Deleted File in Git – Revert Changes After a Hard Reset",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-does-mvc-mean-in-computer-science/",
-          "author": "Kolade Chris",
-          "description": "MVC is an abbreviation that stands for Model, View, and Controller. This architectural pattern was created in the late 1970s for making desktop apps, but it is now widely used in web application development. In this article, I will dive deep into what MVC means alongside its 3 components, so",
-          "link": "https://www.freecodecamp.org/news/what-does-mvc-mean-in-computer-science/",
-          "publishedOn": "2022-06-21T21:09:46.000Z",
-          "wordCount": 1526,
-          "title": "MVC in Computer Science – The MVC Model",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-customize-bootstrap-with-sass/",
-          "author": "Vinod Mathew Sebastian",
-          "description": "Bootstrap is an awesome CSS framework that can help you create stylish and sleek websites.  Some developers and teams find that code written in Bootstrap is easier to maintain than regular CSS, so they prefer Bootstrap to vanilla CSS.  But if everyone used Bootstrap with its default styles,",
-          "link": "https://www.freecodecamp.org/news/how-to-customize-bootstrap-with-sass/",
-          "publishedOn": "2022-06-21T20:59:02.000Z",
-          "wordCount": 2309,
-          "title": "How to Customize Bootstrap with Sass",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/java-switch-statement-how-to-use-a-switch-case-in-java/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You use the switch statement in Java to execute a particular code block when a certain condition is met.  Here's what the syntax looks like: switch(expression) {   case 1:     // code block     break;   case 2:",
-          "link": "https://www.freecodecamp.org/news/java-switch-statement-how-to-use-a-switch-case-in-java/",
-          "publishedOn": "2022-06-21T17:39:06.000Z",
-          "wordCount": 1341,
-          "title": "Java Switch Statement – How to Use a Switch Case in Java",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/getting-started-with-rasa-with-studiolab-and-vscode/",
-          "author": "Sijil Salim",
-          "description": "Last week, I was excited to dive into chatbot development with the open-source framework Rasa [https://rasa.com/]. With Rasa, you get a ton of flexibility, from designing the conversation to developing the NLU logic to deployment.  But the \"Yay\" soon transformed into banging my head against a brick wall. The",
-          "link": "https://www.freecodecamp.org/news/getting-started-with-rasa-with-studiolab-and-vscode/",
-          "publishedOn": "2022-06-21T16:06:02.000Z",
-          "wordCount": 1599,
-          "title": "How to Set Up a Rasa Development Environment in Sagemaker Studiolab with VS Code",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-typescript-for-beginners/",
-          "author": "Emmanuel Ohans",
-          "description": "A few weeks ago, I published an Intermediate TypeScript and React Handbook [/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/]. It received many views and I got several emails. Most were “thank you” emails, but then there were others like: > “… I am new to programming, what is TypeScript?” And: > “Thanks for this free ebook,",
-          "link": "https://www.freecodecamp.org/news/what-is-typescript-for-beginners/",
-          "publishedOn": "2022-06-21T15:55:07.000Z",
-          "wordCount": 2263,
-          "title": "What is TypeScript? A Beginner's Guide",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-consume-rest-apis-in-react/",
-          "author": "Joel Olawanle",
-          "description": "React is a popular frontend library that developers use to create applications. And you will need to integrate APIs into your React application at some point if you want to build production-ready apps.  Every developer who wants to build modern, robust web applications with React must understand how to",
-          "link": "https://www.freecodecamp.org/news/how-to-consume-rest-apis-in-react/",
-          "publishedOn": "2022-06-21T15:35:38.000Z",
-          "wordCount": 3789,
-          "title": "How to Consume REST APIs in React – a Beginner's Guide",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
         }
       ]
     },
@@ -1229,6 +1178,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=117167",
+          "author": "Patrick Honner",
+          "description": "Mathematicians have been studying the distribution of prime numbers for thousands of years. Recent results about a curious kind of prime offer a new take on how spread out they can be.            \nThe post How Can Infinitely Many Primes Be Infinitely Far Apart? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-can-infinitely-many-primes-be-infinitely-far-apart-20220721/",
+          "publishedOn": "2022-07-21T15:31:23.000Z",
+          "wordCount": 8545,
+          "title": "How Can Infinitely Many Primes Be Infinitely Far Apart?",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/07/Academy_Primes_1200_Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=117100",
           "author": "Zack Savitsky",
@@ -1448,16 +1407,6 @@
           "wordCount": 5181,
           "title": "The Spooky Quantum Phenomenon You’ve Never Heard Of",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/Contextuality_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=116048",
-          "author": "Yasemin Saplakoglu",
-          "description": "Akiko Iwasaki, an immunologist who became a lifeline for the worried and the curious during the pandemic, thinks that nasal spray vaccines could be the next needed breakthrough in our fight against the coronavirus.            \nThe post An Immunologist Fights Covid with Tweets and a Nasal Spray first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/an-immunologist-fights-covid-with-tweets-and-a-nasal-spray-20220621/",
-          "publishedOn": "2022-06-21T15:07:27.000Z",
-          "wordCount": 8696,
-          "title": "An Immunologist Fights Covid with Tweets and a Nasal Spray",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/Iwasaki_1200_Social.jpg"
         }
       ]
     },
