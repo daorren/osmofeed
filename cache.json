@@ -1070,46 +1070,6 @@
           "wordCount": 2458,
           "title": "How to Check if a JavaScript String is a Valid URL",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/freecodecamp_new.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-low-code-dashboard-for-your-startup/",
-          "author": "Beau Carnes",
-          "description": "Creating a dashboard to keep track of customers and users is much easier than you may think. You can build an API-powered marketing dashboard using a low code approach.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a dashboard to",
-          "link": "https://www.freecodecamp.org/news/build-a-low-code-dashboard-for-your-startup/",
-          "publishedOn": "2022-06-24T12:52:12.000Z",
-          "wordCount": 945,
-          "title": "Build a Low-Code Dashboard for Your Startup",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/apidashboard.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-loop-through-an-array-in-javascript-js-iterate-tutorial/",
-          "author": "Joel Olawanle",
-          "description": "An array is a single variable used to store elements of different datatypes so that they can be accessed through a single variable.  It is an ordered list of values, and each value is referred to as an element, which is specified by an index. Knowing that these single",
-          "link": "https://www.freecodecamp.org/news/how-to-loop-through-an-array-in-javascript-js-iterate-tutorial/",
-          "publishedOn": "2022-06-23T19:55:17.000Z",
-          "wordCount": 1705,
-          "title": "How to Loop Through an Array in JavaScript – JS Iterate Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template--3-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-capitalize-first-letter-of-word/",
-          "author": "Dillion Megida",
-          "description": "When you're coding, there are many ways to capitalize the first letter of a word. You can use CSS as well as some JavaScript methods. In this article, I will show you one approach to achieve this. To capitalize the first letter of a word with JS, you need to",
-          "link": "https://www.freecodecamp.org/news/javascript-capitalize-first-letter-of-word/",
-          "publishedOn": "2022-06-23T15:46:56.000Z",
-          "wordCount": 1064,
-          "title": "JavaScript Capitalize First Letter – How to Uppercase the First Letter in a Word with JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/capitalize-first-letter.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/remove-underline-from-link-in-css/",
-          "author": "Kolade Chris",
-          "description": "If you're a web developer, you've probably wanted to get rid of the default underline that appears when you add a link to a page. Fortunately, just like other elements on a web page, you can style the anchor tags responsible for displaying a link. In this article, I will",
-          "link": "https://www.freecodecamp.org/news/remove-underline-from-link-in-css/",
-          "publishedOn": "2022-06-23T15:41:01.000Z",
-          "wordCount": 1072,
-          "title": "How to Remove Underline from a Link in CSS – HTML Style Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/writing-326357_1280.jpg"
         }
       ]
     },
@@ -1336,6 +1296,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "62d453a5851e4c353b0279c6",
+          "author": "Assaf Arkin",
+          "description": "This week we have RVs that fly, monitor 6 packs, more quick takes on AI, naming scheme for heatwaves, and everybody’s a CTO.",
+          "link": "https://labnotes.org/weekend-reading-10-actual-coding/",
+          "publishedOn": "2022-07-23T21:06:18.000Z",
+          "wordCount": 1940,
+          "title": "Weekend Reading — 10% actual coding",
+          "imageUrl": "https://labnotes.org/content/images/2022/07/7cfd813990752668b5f30ccc988a40db7e13b995d55122399259c5cab794b76d-1.png"
+        },
+        {
           "id": "62c9f67ba9d2353cca424d0d",
           "author": "Assaf Arkin",
           "description": "This week we JavaScript in space, sell more cyber, declare a mass Dunning-Kruger event, read Yoko Ono's Tweets, and meet the duck god of chaos.",
@@ -1487,16 +1457,6 @@
           "publishedOn": "2022-07-01T00:00:00.000Z",
           "wordCount": 960,
           "title": "The place to share your Go projects.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/417",
-          "author": null,
-          "description": "#​417 — June 24, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \n▶  An Introduction to Fuzzing in Go — An official, three-minute, introductory video from Google on getting started with Go’s newest fuzz testing features (or, if you prefer, a written tutorial). Elsewhere, Khaled Yakdan writes about improvements being made to fuzzing for Go 1.19 – a lot of work has gone into this.\nNooras Saba (Google) \n\n\n  \n  \nMaking Code Faster — When someone with Tim’s experience talks about improving code performance, it never makes for a bad read. Here he shares a story of profiling some Go code. His approach is simple: Test, Benchmark, Refactor, Iterate.\nTim Bray \n\n\n  \n  \nGophers - Opportunity is Knocking — We’re a premier software engineering firm looking for mid to …",
-          "link": "https://golangweekly.com/issues/417",
-          "publishedOn": "2022-06-24T00:00:00.000Z",
-          "wordCount": 853,
-          "title": "Fuzzing: an introduction, plus updates coming to 1.19.",
           "imageUrl": null
         }
       ]
