@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-24T02:12:33.848Z</updated>
+    <updated>2022-07-25T02:04:48.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -1670,57 +1670,6 @@ What a great little trick! 💯
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Static in Java? What does this keyword mean? [Solved]]]></title>
-        <id>https://www.freecodecamp.org/news/why-static-in-java-what-does-this-keyword-mean/</id>
-        <link href="https://www.freecodecamp.org/news/why-static-in-java-what-does-this-keyword-mean/"/>
-        <updated>2022-06-24T21:38:54.000Z</updated>
-        <summary type="html"><![CDATA[You can use the static keyword in different parts of a Java program like variables, methods, and static blocks.  The main purpose of using the static keyword in Java is to save memory. When we create a variable in a class that will be accessed by other classes, we]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle Missing Data in a Dataset]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-handle-missing-data-in-a-dataset/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-handle-missing-data-in-a-dataset/"/>
-        <updated>2022-06-24T21:14:52.000Z</updated>
-        <summary type="html"><![CDATA[Missing values are common when working with real-world datasets – not the cleaned ones available on Kaggle, for example.  Missing data could result from a human factor (for example, a person deliberately failing to respond to a survey question), a problem in electrical sensors, or other factors. And when]]></summary>
-        <author>
-            <name>Ibrahim Abayomi Ogunbiyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Perform Data Augmentation in NLP Projects]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-perform-data-augmentation-in-nlp-projects/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-perform-data-augmentation-in-nlp-projects/"/>
-        <updated>2022-06-24T15:33:57.000Z</updated>
-        <summary type="html"><![CDATA[In machine learning, you need to have a large amount of data in order to achieve strong model performance.  Using a method known as data augmentation, you can create more data for your machine learning project. Data augmentation is a collection of techniques that manage the process of automatically]]></summary>
-        <author>
-            <name>Davis David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Check if a JavaScript String is a Valid URL]]></title>
-        <id>https://www.freecodecamp.org/news/check-if-a-javascript-string-is-a-url/</id>
-        <link href="https://www.freecodecamp.org/news/check-if-a-javascript-string-is-a-url/"/>
-        <updated>2022-06-24T15:09:54.000Z</updated>
-        <summary type="html"><![CDATA[A URL – or Uniform Resource Locator – is text used to identify resources like web pages, images, and videos on the internet. We commonly refer to URLs as website addresses, and they're used for file transfer, emails, and other applications. URLs consist of multiple parts – protocol, domain name, and]]></summary>
-        <author>
-            <name>Vikram Aruchamy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[By Exploring Virtual Worlds, AI Learns in New Ways]]></title>
-        <id>https://www.quantamagazine.org/?p=116176</id>
-        <link href="https://www.quantamagazine.org/ai-makes-strides-in-virtual-worlds-more-like-our-own-20220624/"/>
-        <updated>2022-06-24T14:26:14.000Z</updated>
-        <summary type="html"><![CDATA[Intelligent beings learn by interacting with the world. Artificial intelligence researchers have adopted a similar strategy to teach their virtual agents new tricks.             
-The post By Exploring Virtual Worlds, AI Learns in New Ways first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Allison Whitten</name>
         </author>
     </entry>
 </feed>
