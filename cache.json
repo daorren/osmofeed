@@ -12,6 +12,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-start-using-mongodb/",
+          "author": "Valentine Gatwiri",
+          "description": "MongoDB is an increasingly popular open source NoSQL database. And it has many advantages over traditional SQL databases.  It offers high scalability, reliability, and performance even with a huge amount of data.  This article covers the basics that you need to know to get started with MongoDB and",
+          "link": "https://www.freecodecamp.org/news/how-to-start-using-mongodb/",
+          "publishedOn": "2022-07-25T21:42:56.000Z",
+          "wordCount": 1403,
+          "title": "How to Start Using MongoDB – Database Setup for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-tom-fisk-3285715.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/object-object-in-javascript-meaning-in-js/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When working with objects in JavaScript, you may have come across the [object, object] output. While this may seem irrelevant, it's not necessarily an error.  [object, object] is the string representation of a JavaScript object data type. You'll understand better as we go further in this article. There are",
+          "link": "https://www.freecodecamp.org/news/object-object-in-javascript-meaning-in-js/",
+          "publishedOn": "2022-07-25T14:30:52.000Z",
+          "wordCount": 1196,
+          "title": "[object, object] in JavaScript – Meaning in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/clement-helardot-95YRwf6CNw8-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-check-if-an-object-has-a-key-in-javascript/",
+          "author": "Joel Olawanle",
+          "description": "Objects in JavaScript are non-primitive data types that hold an unordered collection of key-value pairs. As you can see in the image above, the key is the property, and each object value must have a key. When interacting with objects, situations might arise that require you to check if a",
+          "link": "https://www.freecodecamp.org/news/how-to-check-if-an-object-has-a-key-in-javascript/",
+          "publishedOn": "2022-07-25T14:24:55.000Z",
+          "wordCount": 1501,
+          "title": "JavaScript Key in Object – How to Check if an Object has a Key in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template--3-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/loading-a-json-file-in-python-how-to-read-and-parse-json/",
+          "author": "Dillion Megida",
+          "description": "In this article, you'll learn how to read and parse JSON in Python. What is JSON? JSON is short for JavaScript Object Notation. It's a simple syntax for storing data in name-value pairs. Values can be different data types as long as they are valid. Non-acceptable types for JSON include",
+          "link": "https://www.freecodecamp.org/news/loading-a-json-file-in-python-how-to-read-and-parse-json/",
+          "publishedOn": "2022-07-25T14:06:45.000Z",
+          "wordCount": 1364,
+          "title": "Loading a JSON File in Python – How to Read and Parse JSON",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/read-parse-json-files.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-find-how-to-search-for-a-substring-in-a-string/",
+          "author": "Dionysia Lemonaki",
+          "description": "When you're working with a Python program, you might need to search for and locate a specific string inside another string. This is where Python's built-in string methods come in handy. In this article, you will learn how to use Python's built-in find() string method to help you search for",
+          "link": "https://www.freecodecamp.org/news/python-find-how-to-search-for-a-substring-in-a-string/",
+          "publishedOn": "2022-07-25T13:56:30.000Z",
+          "wordCount": 2030,
+          "title": "Python find() – How to Search for a Substring in a String",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/tarn-nguyen-XlEafYGDvV0-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/easily-create-a-website-using-elementor-and-wordpress/",
+          "author": "Beau Carnes",
+          "description": "Elementor makes it simple to create a WordPress website using a drag and drop interface. You don't even need any code! We just published an Elementor course on the freeCodeCamp.org YouTube channel that will teach you how to easily create your own website. I created this course. I've also made",
+          "link": "https://www.freecodecamp.org/news/easily-create-a-website-using-elementor-and-wordpress/",
+          "publishedOn": "2022-07-25T12:57:12.000Z",
+          "wordCount": 921,
+          "title": "Easily create a website using Elementor and WordPress",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/maxresdefault-2.jpeg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/what-does-double-slash-mean-in-python/",
           "author": "Kolade Chris",
           "description": "In Python, you use the double slash // operator to perform floor division. This  // operator divides the first number by the second number and rounds the result down to the nearest integer (or whole number). In this article, I will show you how to use the // operator",
@@ -1039,6 +1099,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=117260",
+          "author": "Jonathan O'Callaghan",
+          "description": "In the days after the mega-telescope started delivering data, astronomers reported new discoveries about galaxies, stars, exoplanets and even Jupiter.            \nThe post Two Weeks In, the Webb Space Telescope Is Reshaping Astronomy first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/two-weeks-in-the-webb-space-telescope-is-reshaping-astronomy-20220725/",
+          "publishedOn": "2022-07-25T13:49:34.000Z",
+          "wordCount": 6708,
+          "title": "Two Weeks In, the Webb Space Telescope Is Reshaping Astronomy",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/07/NGC7496_1200_Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=117167",
           "author": "Patrick Honner",
           "description": "Mathematicians have been studying the distribution of prime numbers for thousands of years. Recent results about a curious kind of prime offer a new take on how spread out they can be.            \nThe post How Can Infinitely Many Primes Be Infinitely Far Apart? first appeared on Quanta Magazine",
@@ -1284,16 +1354,6 @@
           "wordCount": 1505,
           "title": "Weekend Reading — Just hacks all the way down",
           "imageUrl": "https://labnotes.org/content/images/2022/07/SCR-20220702-nwa-2.png"
-        },
-        {
-          "id": "62ae7220d9dbed2e26ec6366",
-          "author": "Assaf Arkin",
-          "description": "This week we walk through the airport, delete all French files, mediate on that text, and fail to guess the prompt.",
-          "link": "https://labnotes.org/weekend-reading-no-worries-if-not/",
-          "publishedOn": "2022-06-26T00:15:29.000Z",
-          "wordCount": 1071,
-          "title": "Weekend Reading — … no worries if not",
-          "imageUrl": "https://labnotes.org/content/images/2022/06/p50-diy-kit-1.jpg"
         }
       ]
     },
@@ -1302,6 +1362,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/em-and-strong-are-not-be-announced-by-screen-readers/",
+          "author": null,
+          "description": "Semantic HTML is the foundation of accessible websites. Correct and meaningful elements enable assistive technology to provide a site's information in a different form or shape. A screen reader, for example, takes a site and reads it out for the visitor. These cases show why semantic HTML matters!\nAnd yet here I am after all these years of advocating for using strong (strong importance, seriousness, or urgency) and em (stress emphasis) instead of b (bold) and i (idiomatic text – italic), only to learn that screen readers don't announce strong or em.\nAnd while I'm not a daily screen reader user, and VoiceOver isn't the only one out there, a quick test on my Mac proves it.\nScreen reader example not announcing strong or em elements.\n      \n    \nMartin Underhill shares more resources on his blog if you want to learn more.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/em-and-strong-are-not-be-announced-by-screen-readers/",
+          "publishedOn": "2022-07-24T22:00:00.000Z",
+          "wordCount": 1240,
+          "title": "em and strong are not announced by screen readers (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:em%20and%20strong%20are%20not%20announced%20by%20screen%20readers/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-72/",
           "author": null,
@@ -1351,16 +1421,6 @@
           "wordCount": 1908,
           "title": "Web Weekly #70 (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252370/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/how-to-create-an-api-wrapper-using-a-javascript-proxy/",
-          "author": null,
-          "description": "I just found a super smart gist from David Wells that's worth bookmarking.\nDavid uses a JavaScript Proxy to map object properties to fetch calls.\nThis approach works quite nice for querying RESTful APIs. apiObject.cars() maps to /cars/ and apiObject.cars('123') maps to /cars/123/. 👏\n// Found at https://gist.github.com/DavidWells/53518b3c12344952641dc81cc7599939\nconst createApi = (url) => {\n  return new Proxy({}, {\n    get(target, key) {\n      return async function(id = \"\") {\n        const response = await fetch(`${url}/${key}/${id}`)\n        if (response.ok) {\n          return response.json();\n        }\n        return Promise.resolve({ error: \"Malformed Request\" })\n      }\n    }\n  })\n}\n\nlet api = createApi(\"https://swapi.co/api\")\n\n// 'get' request to https://swapi.co/api/people\nlet people = await api.people()\n\n// 'get' request to https://swapi.co/api/people/1\nlet person = await api.people(1)\n\nWhat a great little trick! 💯\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/snippets/how-to-create-an-api-wrapper-using-a-javascript-proxy/",
-          "publishedOn": "2022-06-25T22:00:00.000Z",
-          "wordCount": 1205,
-          "title": "How to create an API wrapper using a JavaScript proxy (#snippet)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20create%20an%20API%20wrapper%20using%20a%20JavaScript%20proxy/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },

@@ -2,10 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-25T02:04:48.177Z</updated>
+    <updated>2022-07-26T02:20:03.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Start Using MongoDB – Database Setup for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-start-using-mongodb/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-start-using-mongodb/"/>
+        <updated>2022-07-25T21:42:56.000Z</updated>
+        <summary type="html"><![CDATA[MongoDB is an increasingly popular open source NoSQL database. And it has many advantages over traditional SQL databases.  It offers high scalability, reliability, and performance even with a huge amount of data.  This article covers the basics that you need to know to get started with MongoDB and]]></summary>
+        <author>
+            <name>Valentine Gatwiri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[object, object] in JavaScript – Meaning in JS]]></title>
+        <id>https://www.freecodecamp.org/news/object-object-in-javascript-meaning-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/object-object-in-javascript-meaning-in-js/"/>
+        <updated>2022-07-25T14:30:52.000Z</updated>
+        <summary type="html"><![CDATA[When working with objects in JavaScript, you may have come across the [object, object] output. While this may seem irrelevant, it's not necessarily an error.  [object, object] is the string representation of a JavaScript object data type. You'll understand better as we go further in this article. There are]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Key in Object – How to Check if an Object has a Key in JS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-check-if-an-object-has-a-key-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-check-if-an-object-has-a-key-in-javascript/"/>
+        <updated>2022-07-25T14:24:55.000Z</updated>
+        <summary type="html"><![CDATA[Objects in JavaScript are non-primitive data types that hold an unordered collection of key-value pairs. As you can see in the image above, the key is the property, and each object value must have a key. When interacting with objects, situations might arise that require you to check if a]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loading a JSON File in Python – How to Read and Parse JSON]]></title>
+        <id>https://www.freecodecamp.org/news/loading-a-json-file-in-python-how-to-read-and-parse-json/</id>
+        <link href="https://www.freecodecamp.org/news/loading-a-json-file-in-python-how-to-read-and-parse-json/"/>
+        <updated>2022-07-25T14:06:45.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to read and parse JSON in Python. What is JSON? JSON is short for JavaScript Object Notation. It's a simple syntax for storing data in name-value pairs. Values can be different data types as long as they are valid. Non-acceptable types for JSON include]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python find() – How to Search for a Substring in a String]]></title>
+        <id>https://www.freecodecamp.org/news/python-find-how-to-search-for-a-substring-in-a-string/</id>
+        <link href="https://www.freecodecamp.org/news/python-find-how-to-search-for-a-substring-in-a-string/"/>
+        <updated>2022-07-25T13:56:30.000Z</updated>
+        <summary type="html"><![CDATA[When you're working with a Python program, you might need to search for and locate a specific string inside another string. This is where Python's built-in string methods come in handy. In this article, you will learn how to use Python's built-in find() string method to help you search for]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two Weeks In, the Webb Space Telescope Is Reshaping Astronomy]]></title>
+        <id>https://www.quantamagazine.org/?p=117260</id>
+        <link href="https://www.quantamagazine.org/two-weeks-in-the-webb-space-telescope-is-reshaping-astronomy-20220725/"/>
+        <updated>2022-07-25T13:49:34.000Z</updated>
+        <summary type="html"><![CDATA[In the days after the mega-telescope started delivering data, astronomers reported new discoveries about galaxies, stars, exoplanets and even Jupiter.            
+The post Two Weeks In, the Webb Space Telescope Is Reshaping Astronomy first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Jonathan O'Callaghan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easily create a website using Elementor and WordPress]]></title>
+        <id>https://www.freecodecamp.org/news/easily-create-a-website-using-elementor-and-wordpress/</id>
+        <link href="https://www.freecodecamp.org/news/easily-create-a-website-using-elementor-and-wordpress/"/>
+        <updated>2022-07-25T12:57:12.000Z</updated>
+        <summary type="html"><![CDATA[Elementor makes it simple to create a WordPress website using a drag and drop interface. You don't even need any code! We just published an Elementor course on the freeCodeCamp.org YouTube channel that will teach you how to easily create your own website. I created this course. I've also made]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[em and strong are not announced by screen readers (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/em-and-strong-are-not-be-announced-by-screen-readers/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/em-and-strong-are-not-be-announced-by-screen-readers/"/>
+        <updated>2022-07-24T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Semantic HTML is the foundation of accessible websites. Correct and meaningful elements enable assistive technology to provide a site's information in a different form or shape. A screen reader, for example, takes a site and reads it out for the visitor. These cases show why semantic HTML matters!
+And yet here I am after all these years of advocating for using strong (strong importance, seriousness, or urgency) and em (stress emphasis) instead of b (bold) and i (idiomatic text – italic), only to learn that screen readers don't announce strong or em.
+And while I'm not a daily screen reader user, and VoiceOver isn't the only one out there, a quick test on my Mac proves it.
+Screen reader example not announcing strong or em elements.
+      
+    
+Martin Underhill shares more resources on his blog if you want to learn more.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — 10% actual coding]]></title>
         <id>62d453a5851e4c353b0279c6</id>
@@ -1617,57 +1709,6 @@ This discovery made me look at my browsing habits, though. I use Firefox as my p
 Additionally, Wavebox sits on another monitor to move Gmail, multiple Messengers and all the other always-open websites out of my browser. This approach works, but I wouldn't say that I'm happy with this setup.
 But it's not only me. I see a lot of folks fighting the unorganized mess of too many tabs and websites. Did the internet outgrow browsers built to show a handful of websites?
 I read somewhere that Chrome's user base is so big that Google doesn't want to make drastic changes to the UI no…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — … no worries if not]]></title>
-        <id>62ae7220d9dbed2e26ec6366</id>
-        <link href="https://labnotes.org/weekend-reading-no-worries-if-not/"/>
-        <updated>2022-06-26T00:15:29.000Z</updated>
-        <summary type="html"><![CDATA[This week we walk through the airport, delete all French files, mediate on that text, and fail to guess the prompt.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to create an API wrapper using a JavaScript proxy (#snippet)]]></title>
-        <id>https://www.stefanjudis.com/snippets/how-to-create-an-api-wrapper-using-a-javascript-proxy/</id>
-        <link href="https://www.stefanjudis.com/snippets/how-to-create-an-api-wrapper-using-a-javascript-proxy/"/>
-        <updated>2022-06-25T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I just found a super smart gist from David Wells that's worth bookmarking.
-David uses a JavaScript Proxy to map object properties to fetch calls.
-This approach works quite nice for querying RESTful APIs. apiObject.cars() maps to /cars/ and apiObject.cars('123') maps to /cars/123/. 👏
-// Found at https://gist.github.com/DavidWells/53518b3c12344952641dc81cc7599939
-const createApi = (url) => {
-  return new Proxy({}, {
-    get(target, key) {
-      return async function(id = "") {
-        const response = await fetch(`${url}/${key}/${id}`)
-        if (response.ok) {
-          return response.json();
-        }
-        return Promise.resolve({ error: "Malformed Request" })
-      }
-    }
-  })
-}
-
-let api = createApi("https://swapi.co/api")
-
-// 'get' request to https://swapi.co/api/people
-let people = await api.people()
-
-// 'get' request to https://swapi.co/api/people/1
-let person = await api.people(1)
-
-What a great little trick! 💯
-
-
-          
-          
-            Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>
