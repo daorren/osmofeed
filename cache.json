@@ -12,6 +12,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article we're going to talk about a very interesting, vast, and complex topic: software architecture. This is something that used to confuse me quite a bit when I was starting to code. So in this article I'll try to give you a simple, surface-level, easy to",
+          "link": "https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/",
+          "publishedOn": "2022-07-26T21:25:08.000Z",
+          "wordCount": 6818,
+          "title": "The Software Architecture Handbook",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels----3172740.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-terraform-by-deploying-jenkins-server-on-aws/",
+          "author": "Destiny Erhabor",
+          "description": "Hello, everyone! Today we're going to learn about Terraform by building a project. Terraform is more than just a tool to boost the productivity of operations teams. You have the chance to transform your developers into operators by implementing Terraform. This can help increase the efficiency of your entire engineering",
+          "link": "https://www.freecodecamp.org/news/learn-terraform-by-deploying-jenkins-server-on-aws/",
+          "publishedOn": "2022-07-26T18:03:50.000Z",
+          "wordCount": 4628,
+          "title": "Learn Terraform by Deploying a Jenkins Server on AWS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-pok-rie-2003885.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/test-driven-development-tutorial-how-to-test-javascript-and-reactjs-app/",
+          "author": "Oluwatobi Sofela",
+          "description": "Understanding test-driven development is an essential part of being a prolific software developer. Testing provides a solid platform for building reliable programs. This tutorial will show you all you need to implement test-driven development in your JavaScript and React applications. Table of Contents  1.  What Is Test-Driven Development?",
+          "link": "https://www.freecodecamp.org/news/test-driven-development-tutorial-how-to-test-javascript-and-reactjs-app/",
+          "publishedOn": "2022-07-26T17:51:22.000Z",
+          "wordCount": 5181,
+          "title": "Test-Driven Development Tutorial – How to Test Your JavaScript and ReactJS Applications",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/test-driven-development-tutorial-how-to-test-javascript-and-reactjs-app-codesweetly-battlecreek-coffee-roasters-i22gbC3gFm4-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-save-and-exit-nano-in-terminal-nano-quit-command/",
+          "author": "Kolade Chris",
+          "description": "Nano is a command line-based code editor known for its simplicity compared to other editors like Vim and Emacs. But if you are new to Nano, performing basic operations like creating files, saving the file, and exiting the editor might be confusing. So, in this article, I want to show",
+          "link": "https://www.freecodecamp.org/news/how-to-save-and-exit-nano-in-terminal-nano-quit-command/",
+          "publishedOn": "2022-07-26T16:57:06.000Z",
+          "wordCount": 1080,
+          "title": "How to Save and Exit Nano in Terminal – Nano Quit Command",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/nano.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/flat-and-flatmap-javascript-array-methods/",
+          "author": "Kenechukwu Nwobodo",
+          "description": "In this article I'm going to explain how to use the new array methods introduced in ES2019 (EcmaScript 2019) – flat() and flatMap(). You use these methods to flatten arrays. The methods are very useful and easy to use. It will really be cool to use these methods in your",
+          "link": "https://www.freecodecamp.org/news/flat-and-flatmap-javascript-array-methods/",
+          "publishedOn": "2022-07-26T16:47:22.000Z",
+          "wordCount": 1934,
+          "title": "How to Use the flat() and flatMap() Methods to Flatten Arrays in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/js-map-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-list-sorting-how-to-order-lists-in-python/",
+          "author": "Dillion Megida",
+          "description": "There are many reasons you might want to sort lists in your Python applications. In this article, I'll show you how to order lists in ascending and descending order depending on what you need to do. What is a List in Python? A list is a data type in Python",
+          "link": "https://www.freecodecamp.org/news/python-list-sorting-how-to-order-lists-in-python/",
+          "publishedOn": "2022-07-26T16:31:59.000Z",
+          "wordCount": 1367,
+          "title": "Python List Sorting – How to Order Lists in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/sort-list-in-python.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-start-using-mongodb/",
           "author": "Valentine Gatwiri",
           "description": "MongoDB is an increasingly popular open source NoSQL database. And it has many advantages over traditional SQL databases.  It offers high scalability, reliability, and performance even with a huge amount of data.  This article covers the basics that you need to know to get started with MongoDB and",
@@ -1099,6 +1159,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=117249",
+          "author": "Kevin Hartnett",
+          "description": "The Kakeya conjecture predicts how much room you need to point a line in every direction. In one number system after another — with one important exception — mathematicians have been proving it true.             \nThe post A Question About a Rotating Line Helps Reveal What Makes Real Numbers Special first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/new-number-systems-point-geometry-problem-toward-a-real-solution-20220726/",
+          "publishedOn": "2022-07-26T14:05:04.000Z",
+          "wordCount": 7164,
+          "title": "A Question About a Rotating Line Helps Reveal What Makes Real Numbers Special",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/07/Kakeya_1200_Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=117260",
           "author": "Jonathan O'Callaghan",
           "description": "In the days after the mega-telescope started delivering data, astronomers reported new discoveries about galaxies, stars, exoplanets and even Jupiter.            \nThe post Two Weeks In, the Webb Space Telescope Is Reshaping Astronomy first appeared on Quanta Magazine",
@@ -1297,16 +1367,6 @@
           "wordCount": 8013,
           "title": "Protein Blobs Linked to Alzheimer’s Affect Aging in All Cells",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/Aging_agregates_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=116163",
-          "author": "Pradeep Mutalik",
-          "description": "In recreational mathematics, the balance scale is an endless source of puzzles that require precise and elaborate logic and teach the fundamentals of generalization.            \nThe post How to Weigh Truth With a Balance Scale first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/puzzles-on-weighing-truth-with-a-balance-scale-20220627/",
-          "publishedOn": "2022-06-27T14:06:01.000Z",
-          "wordCount": 4280,
-          "title": "How to Weigh Truth With a Balance Scale",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/Balance_puzzle_1200_Social.jpg"
         }
       ]
     },
@@ -1411,16 +1471,6 @@
           "wordCount": 1391,
           "title": "Suffix aliases (-s) in Zsh (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Suffix%20aliases%20(-s)%20in%20Zsh/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-70/",
-          "author": null,
-          "description": "Happy summer day!\n\nI learned that Edge has been shipping the feature of vertical tabs for over a year now. Did you see people talking about it? I didn't.\nThis discovery made me look at my browsing habits, though. I use Firefox as my primary browser and have 88 open tabs while writing this newsletter.\nAdditionally, Wavebox sits on another monitor to move Gmail, multiple Messengers and all the other always-open websites out of my browser. This approach works, but I wouldn't say that I'm happy with this setup.\nBut it's not only me. I see a lot of folks fighting the unorganized mess of too many tabs and websites. Did the internet outgrow browsers built to show a handful of websites?\nI read somewhere that Chrome's user base is so big that Google doesn't want to make drastic changes to the UI no…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-70/",
-          "publishedOn": "2022-06-26T22:00:00.000Z",
-          "wordCount": 1908,
-          "title": "Web Weekly #70 (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252370/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
         }
       ]
     },
