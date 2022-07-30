@@ -12,6 +12,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-setup-dynamic-routing-in-nextjs/",
+          "author": "Matthes Bär",
+          "description": "In this tutorial, you'll learn how to set up dynamic routing in Next.js. You'll also learn about pre-rendering and why it's important. 🔐 Here's what we'll cover:  * You'll get to know getStaticPaths(), one of the core principles of Next.js.  * You'll improve your general Next.js knowledge and",
+          "link": "https://www.freecodecamp.org/news/how-to-setup-dynamic-routing-in-nextjs/",
+          "publishedOn": "2022-07-29T21:21:21.000Z",
+          "wordCount": 4136,
+          "title": "Routing in Next.js – How to Set Up Dynamic Routing with Pre-Rendering in Next",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-pixabay-2150.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-sort-alphabetically-in-javascript/",
+          "author": "Joel Olawanle",
+          "description": "Sometimes you might have an array of words where you want to sort each word alphabetically (from a-z). Or you might have an array of objects containing user information including names, for example, where you want to sort the users by their names. We can do this in JavaScript by",
+          "link": "https://www.freecodecamp.org/news/how-to-sort-alphabetically-in-javascript/",
+          "publishedOn": "2022-07-29T19:59:50.000Z",
+          "wordCount": 1455,
+          "title": "Sort Alphabetically in JavaScript – How to Order by Name in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template--4-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-choose-a-tech-career/",
+          "author": "Sophia Iroegbu",
+          "description": "Choosing a tech career can be tricky because there are many possible paths to choose from. There's Web Development, Machine Learning, Data Science, DevOps, and many more. But the good news is you don't necessarily have to be a developer to be in the world of tech. This article is",
+          "link": "https://www.freecodecamp.org/news/how-to-choose-a-tech-career/",
+          "publishedOn": "2022-07-29T16:43:31.000Z",
+          "wordCount": 4424,
+          "title": "How to Choose a Tech Career in 2022 – A Career Changer's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Tech-Blog-Cover--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/authenticate-with-face-recognition-reactjs/",
+          "author": "Hrishikesh Pathak",
+          "description": "With the advent of Web 2.0, authenticating users became a crucial task for developers.  Before Web 2.0, website visitors could only view the content of a web page – there was no interaction. This era of the internet was called Web 1.0. But after Web 2.0, people gained the",
+          "link": "https://www.freecodecamp.org/news/authenticate-with-face-recognition-reactjs/",
+          "publishedOn": "2022-07-29T13:55:01.000Z",
+          "wordCount": 3410,
+          "title": "How to Authenticate a User with Face Recognition in React.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/FaceIO-react--1-.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/error-failed-to-push-some-refs-to-how-to-fix-in-git/",
           "author": "Ihechikara Vincent Abba",
           "description": "When collaborating with other developers using Git, you might encounter the  error: failed to push some refs to [remote repo] error. This error mainly occurs when you attempt to push your local changes to GitHub while the local repository (repo) has not yet been updated with any changes made",
@@ -1060,66 +1100,6 @@
           "wordCount": 2924,
           "title": "How to Stay Motivated While Learning to Code",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-i-age-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-date-comparison-how-to-compare-dates-in-js/",
-          "author": "Joel Olawanle",
-          "description": "A date is one of the most common datatypes developers use when creating real-world applications.  But often, devs struggle with this datatype and end up using date libraries like Moment.js for simple tasks that aren't worth the large package size that comes with installing an entire package. In this",
-          "link": "https://www.freecodecamp.org/news/javascript-date-comparison-how-to-compare-dates-in-js/",
-          "publishedOn": "2022-06-29T19:06:00.000Z",
-          "wordCount": 1418,
-          "title": "JavaScript Date Comparison – How to Compare Dates in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template--6-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-js-ink-cli-tutorial/",
-          "author": "Amazing Enyichi Agu",
-          "description": "React is a popular front-end JavaScript development library. It ranks #1 in awareness and usage according to the State Of JS 2021 [https://2021.stateofjs.com/en-US/libraries/front-end-frameworks/] survey.  This means that a majority of JavaScript developers likely are aware of or use React.  Even though React is popular for building web app",
-          "link": "https://www.freecodecamp.org/news/react-js-ink-cli-tutorial/",
-          "publishedOn": "2022-06-29T18:41:08.000Z",
-          "wordCount": 2769,
-          "title": "React + Ink CLI Tutorial – How to Build a Browser Command Line Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/freehero.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/design-an-api-application-program-interface/",
-          "author": "Sophia Iroegbu",
-          "description": "API stands for Application Programming Interface. An API communicates with two applications using requests and responses. It is exposed to external users. How Does an API Work?  How an API worksImagine you are in a store and want to buy a soda. But you can't just walk in and",
-          "link": "https://www.freecodecamp.org/news/design-an-api-application-program-interface/",
-          "publishedOn": "2022-06-29T18:04:39.000Z",
-          "wordCount": 2548,
-          "title": "How to Design an API – Application Programming Interface Best Practices",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/Tech-Blog-Cover--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-localhost/",
-          "author": "Kolade Chris",
-          "description": "If you are an experienced web developer, then you’ve likely seen the term “localhost” on many occasions. And even if you’re a beginner and just getting started in web development, you might have seen the number “127.0.0.1:” while using a live server plugin. You might be using it to test",
-          "link": "https://www.freecodecamp.org/news/what-is-localhost/",
-          "publishedOn": "2022-06-29T16:11:00.000Z",
-          "wordCount": 1232,
-          "title": "What is Localhost? Local Host IP Address Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/localhost.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-string-to-date-date-parsing-in-js/",
-          "author": "Eamonn Cottrell",
-          "description": "Dates are a pretty fundamental concept. We use them all the time. And computers use them all the time. But parsing dates using JavaScript can be a little...well, interesting. In this article, we'll:  1. Discuss date formatting  2. Turn a wee ol' string into a proper date object",
-          "link": "https://www.freecodecamp.org/news/javascript-string-to-date-date-parsing-in-js/",
-          "publishedOn": "2022-06-29T15:46:32.000Z",
-          "wordCount": 1594,
-          "title": "JavaScript String to Date – Date Parsing in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/Javascript-String-to-Date-01-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-terraform-and-azure-by-building-a-dev-environment/",
-          "author": "Beau Carnes",
-          "description": "Terraform is an open source infrastructure as code software tool that makes it easy to programmatically to set up infrastructure on a variety of cloud service providers. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Terraform and Azure to setup a",
-          "link": "https://www.freecodecamp.org/news/learn-terraform-and-azure-by-building-a-dev-environment/",
-          "publishedOn": "2022-06-29T14:35:30.000Z",
-          "wordCount": 928,
-          "title": "Learn Terraform and Azure by Building a Dev Environment",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/terraformazure.png"
         }
       ]
     },
@@ -1128,6 +1108,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=117433",
+          "author": "Pradeep Mutalik",
+          "description": "Readers balanced logical reasoning and mathematical insights to find phony coins with a double-pan balance scale.            \nThe post Seeking Mathematical Truth in Counterfeit Coin Puzzles first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/seeking-mathematical-truth-in-counterfeit-coin-puzzles-20220729/",
+          "publishedOn": "2022-07-29T13:48:32.000Z",
+          "wordCount": 8324,
+          "title": "Seeking Mathematical Truth in Counterfeit Coin Puzzles",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/07/Balance_puzzle_1200_Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=117367",
           "author": "R. Douglas Fields",
@@ -1337,26 +1327,6 @@
           "wordCount": 5695,
           "title": "The Sordid Past of the Cubic Formula",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/Cubic-Equations_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=116413",
-          "author": "Steven Strogatz",
-          "description": "Artificial intelligence has bested humans at problem-solving challenges like chess and Go. Is mathematics research next? Steven Strogatz speaks with mathematician Kevin Buzzard to learn about the effort to translate math into language that computers understand.            \nThe post Can Computers Be Mathematicians? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/can-computers-be-mathematicians-20220629/",
-          "publishedOn": "2022-06-29T21:05:04.000Z",
-          "wordCount": 14681,
-          "title": "Can Computers Be Mathematicians?",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/JoW_LEAN_1200_Social_LOGO.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=116307",
-          "author": "Adam Mann",
-          "description": "Decades after a Tanzanian teenager initiated study of the “Mpemba effect,” the effort to confirm or refute it is leading physicists toward new theories about how substances relax to equilibrium.            \nThe post Controversy Continues Over Whether Hot Water Freezes Faster Than Cold first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/does-hot-water-freeze-faster-than-cold-physicists-keep-asking-20220629/",
-          "publishedOn": "2022-06-29T14:50:23.000Z",
-          "wordCount": 7964,
-          "title": "Controversy Continues Over Whether Hot Water Freezes Faster Than Cold",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/MPEMBA_1200_Social.jpg"
         }
       ]
     },
@@ -1479,6 +1449,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/422",
+          "author": null,
+          "description": "#​422 — July 29, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nCharm Gum: A Tool for Glamorous Shell Scripts — Much like actual gum, this is something you’ll either love or hate! It lets you create a CLI-based wizard just by providing a few arguments. The README is fantastic and packed with examples and animations. And if you’d rather brew your own with your own Go code, Bubble Tea and Lip Gloss, upon which Gum depends, are waiting for you too.\nCharm \n\n\n  \n  \nBuilding a Terminal-Based Pong Game in Go — Certainly an interesting learning experience, and this is a fun and engaging walkthrough that’ll be of particular interest if you want to pick up tcell for creating elaborate terminal experiences, visualizations, and the like.\nJosh Alletto \n\n\n  \n  \nGV (…",
+          "link": "https://golangweekly.com/issues/422",
+          "publishedOn": "2022-07-29T00:00:00.000Z",
+          "wordCount": 890,
+          "title": "Let(')s Go play ping pong.",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/421",
           "author": null,

@@ -2,10 +2,103 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-29T02:18:07.010Z</updated>
+    <updated>2022-07-30T02:05:36.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Routing in Next.js – How to Set Up Dynamic Routing with Pre-Rendering in Next]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-setup-dynamic-routing-in-nextjs/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-setup-dynamic-routing-in-nextjs/"/>
+        <updated>2022-07-29T21:21:21.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll learn how to set up dynamic routing in Next.js. You'll also learn about pre-rendering and why it's important. 🔐 Here's what we'll cover:  * You'll get to know getStaticPaths(), one of the core principles of Next.js.  * You'll improve your general Next.js knowledge and]]></summary>
+        <author>
+            <name>Matthes Bär</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sort Alphabetically in JavaScript – How to Order by Name in JS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-sort-alphabetically-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-sort-alphabetically-in-javascript/"/>
+        <updated>2022-07-29T19:59:50.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you might have an array of words where you want to sort each word alphabetically (from a-z). Or you might have an array of objects containing user information including names, for example, where you want to sort the users by their names. We can do this in JavaScript by]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose a Tech Career in 2022 – A Career Changer's Guide]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-choose-a-tech-career/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-choose-a-tech-career/"/>
+        <updated>2022-07-29T16:43:31.000Z</updated>
+        <summary type="html"><![CDATA[Choosing a tech career can be tricky because there are many possible paths to choose from. There's Web Development, Machine Learning, Data Science, DevOps, and many more. But the good news is you don't necessarily have to be a developer to be in the world of tech. This article is]]></summary>
+        <author>
+            <name>Sophia Iroegbu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Authenticate a User with Face Recognition in React.js]]></title>
+        <id>https://www.freecodecamp.org/news/authenticate-with-face-recognition-reactjs/</id>
+        <link href="https://www.freecodecamp.org/news/authenticate-with-face-recognition-reactjs/"/>
+        <updated>2022-07-29T13:55:01.000Z</updated>
+        <summary type="html"><![CDATA[With the advent of Web 2.0, authenticating users became a crucial task for developers.  Before Web 2.0, website visitors could only view the content of a web page – there was no interaction. This era of the internet was called Web 1.0. But after Web 2.0, people gained the]]></summary>
+        <author>
+            <name>Hrishikesh Pathak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seeking Mathematical Truth in Counterfeit Coin Puzzles]]></title>
+        <id>https://www.quantamagazine.org/?p=117433</id>
+        <link href="https://www.quantamagazine.org/seeking-mathematical-truth-in-counterfeit-coin-puzzles-20220729/"/>
+        <updated>2022-07-29T13:48:32.000Z</updated>
+        <summary type="html"><![CDATA[Readers balanced logical reasoning and mathematical insights to find phony coins with a double-pan balance scale.            
+The post Seeking Mathematical Truth in Counterfeit Coin Puzzles first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Pradeep Mutalik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let(')s Go play ping pong.]]></title>
+        <id>https://golangweekly.com/issues/422</id>
+        <link href="https://golangweekly.com/issues/422"/>
+        <updated>2022-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#​422 — July 29, 2022
+
+
+Unsubscribe  |  Read on the Web
+
+
+
+The Go Weekly Newsletter
+
+
+
+
+  
+
+
+
+
+
+  
+  
+Charm Gum: A Tool for Glamorous Shell Scripts — Much like actual gum, this is something you’ll either love or hate! It lets you create a CLI-based wizard just by providing a few arguments. The README is fantastic and packed with examples and animations. And if you’d rather brew your own with your own Go code, Bubble Tea and Lip Gloss, upon which Gum depends, are waiting for you too.
+Charm 
+
+
+  
+  
+Building a Terminal-Based Pong Game in Go — Certainly an interesting learning experience, and this is a fun and engaging walkthrough that’ll be of particular interest if you want to pick up tcell for creating elaborate terminal experiences, visualizations, and the like.
+Josh Alletto 
+
+
+  
+  
+GV (…]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Error: failed to push some refs to – How to Fix in Git]]></title>
         <id>https://www.freecodecamp.org/news/error-failed-to-push-some-refs-to-how-to-fix-in-git/</id>
@@ -1689,88 +1782,6 @@ Awesome …]]></summary>
 The post The Sordid Past of the Cubic Formula first appeared on Quanta Magazine]]></summary>
         <author>
             <name>David S. Richeson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Computers Be Mathematicians?]]></title>
-        <id>https://www.quantamagazine.org/?p=116413</id>
-        <link href="https://www.quantamagazine.org/can-computers-be-mathematicians-20220629/"/>
-        <updated>2022-06-29T21:05:04.000Z</updated>
-        <summary type="html"><![CDATA[Artificial intelligence has bested humans at problem-solving challenges like chess and Go. Is mathematics research next? Steven Strogatz speaks with mathematician Kevin Buzzard to learn about the effort to translate math into language that computers understand.            
-The post Can Computers Be Mathematicians? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Steven Strogatz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Date Comparison – How to Compare Dates in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-date-comparison-how-to-compare-dates-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-date-comparison-how-to-compare-dates-in-js/"/>
-        <updated>2022-06-29T19:06:00.000Z</updated>
-        <summary type="html"><![CDATA[A date is one of the most common datatypes developers use when creating real-world applications.  But often, devs struggle with this datatype and end up using date libraries like Moment.js for simple tasks that aren't worth the large package size that comes with installing an entire package. In this]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React + Ink CLI Tutorial – How to Build a Browser Command Line Application]]></title>
-        <id>https://www.freecodecamp.org/news/react-js-ink-cli-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/react-js-ink-cli-tutorial/"/>
-        <updated>2022-06-29T18:41:08.000Z</updated>
-        <summary type="html"><![CDATA[React is a popular front-end JavaScript development library. It ranks #1 in awareness and usage according to the State Of JS 2021 [https://2021.stateofjs.com/en-US/libraries/front-end-frameworks/] survey.  This means that a majority of JavaScript developers likely are aware of or use React.  Even though React is popular for building web app]]></summary>
-        <author>
-            <name>Amazing Enyichi Agu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Design an API – Application Programming Interface Best Practices]]></title>
-        <id>https://www.freecodecamp.org/news/design-an-api-application-program-interface/</id>
-        <link href="https://www.freecodecamp.org/news/design-an-api-application-program-interface/"/>
-        <updated>2022-06-29T18:04:39.000Z</updated>
-        <summary type="html"><![CDATA[API stands for Application Programming Interface. An API communicates with two applications using requests and responses. It is exposed to external users. How Does an API Work?  How an API worksImagine you are in a store and want to buy a soda. But you can't just walk in and]]></summary>
-        <author>
-            <name>Sophia Iroegbu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Localhost? Local Host IP Address Explained]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-localhost/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-localhost/"/>
-        <updated>2022-06-29T16:11:00.000Z</updated>
-        <summary type="html"><![CDATA[If you are an experienced web developer, then you’ve likely seen the term “localhost” on many occasions. And even if you’re a beginner and just getting started in web development, you might have seen the number “127.0.0.1:” while using a live server plugin. You might be using it to test]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript String to Date – Date Parsing in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-string-to-date-date-parsing-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-string-to-date-date-parsing-in-js/"/>
-        <updated>2022-06-29T15:46:32.000Z</updated>
-        <summary type="html"><![CDATA[Dates are a pretty fundamental concept. We use them all the time. And computers use them all the time. But parsing dates using JavaScript can be a little...well, interesting. In this article, we'll:  1. Discuss date formatting  2. Turn a wee ol' string into a proper date object]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Controversy Continues Over Whether Hot Water Freezes Faster Than Cold]]></title>
-        <id>https://www.quantamagazine.org/?p=116307</id>
-        <link href="https://www.quantamagazine.org/does-hot-water-freeze-faster-than-cold-physicists-keep-asking-20220629/"/>
-        <updated>2022-06-29T14:50:23.000Z</updated>
-        <summary type="html"><![CDATA[Decades after a Tanzanian teenager initiated study of the “Mpemba effect,” the effort to confirm or refute it is leading physicists toward new theories about how substances relax to equilibrium.            
-The post Controversy Continues Over Whether Hot Water Freezes Faster Than Cold first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Adam Mann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Terraform and Azure by Building a Dev Environment]]></title>
-        <id>https://www.freecodecamp.org/news/learn-terraform-and-azure-by-building-a-dev-environment/</id>
-        <link href="https://www.freecodecamp.org/news/learn-terraform-and-azure-by-building-a-dev-environment/"/>
-        <updated>2022-06-29T14:35:30.000Z</updated>
-        <summary type="html"><![CDATA[Terraform is an open source infrastructure as code software tool that makes it easy to programmatically to set up infrastructure on a variety of cloud service providers. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Terraform and Azure to setup a]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
