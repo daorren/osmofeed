@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-31T02:21:55.892Z</updated>
+    <updated>2022-08-01T02:19:14.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Suburban Sensationalism]]></title>
+        <id>62dc6316021b5c79cb50719c</id>
+        <link href="https://labnotes.org/weekend-reading-suburban-sensationalism/"/>
+        <updated>2022-07-31T19:33:27.000Z</updated>
+        <summary type="html"><![CDATA[This week we have not one but two new search engines for developers, four keys for devops performance, and 40% drop in avocado prices.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Routing in Next.js – How to Set Up Dynamic Routing with Pre-Rendering in Next]]></title>
         <id>https://www.freecodecamp.org/news/how-to-setup-dynamic-routing-in-nextjs/</id>
@@ -1621,66 +1631,6 @@ Do you know of more suffix alias use cases? If so, I'd love to hear them via ema
         <summary type="html"><![CDATA[This week we ride on one and two half wheels, design a responsive snake, locate our headphones, and dance to the ring tone.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Import SVGs in a React and Vite app]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/"/>
-        <updated>2022-07-01T22:15:02.000Z</updated>
-        <summary type="html"><![CDATA[Are you having difficulties importing SVGs into your React app? This is a problem that many developers face, especially when setting up a new React app with a module bundler. In this article, I will share with you the different ways of importing SVGs in React, as well as how]]></summary>
-        <author>
-            <name>Israel Mitolu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript String Comparison – How to Compare Strings in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-string-comparison-how-to-compare-strings-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-string-comparison-how-to-compare-strings-in-js/"/>
-        <updated>2022-07-01T22:07:46.000Z</updated>
-        <summary type="html"><![CDATA[You may want to compare two strings to know which is higher or lower alphabetically or to see if they are equal. You can do this in many ways. I'll show you two of them in this article. 1. How to Compare Strings Using localeCompare You can use the localeCompare]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Else-If Statement Example]]></title>
-        <id>https://www.freecodecamp.org/news/python-else-if-statement-example/</id>
-        <link href="https://www.freecodecamp.org/news/python-else-if-statement-example/"/>
-        <updated>2022-07-01T22:02:40.000Z</updated>
-        <summary type="html"><![CDATA[Conditional statements are helpful for decision-making and are a core concept in all programming languages. In this article, you will learn how to write conditional statements in Python. Specifically, you will learn how to write if, if else, and elif (also known as  else if) statements in Python. Here]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Track Machine Learning Experiments with HarperDB]]></title>
-        <id>https://www.freecodecamp.org/news/track-machine-learning-experiments-with-harperdb/</id>
-        <link href="https://www.freecodecamp.org/news/track-machine-learning-experiments-with-harperdb/"/>
-        <updated>2022-07-01T17:12:06.000Z</updated>
-        <summary type="html"><![CDATA[Properly tracking your machine learning experiments is easier than you think. When working on a machine learning project, you will conduct different machine learning experiments before you reach the final ML model with the best performance.  Here are some possible machine learning experiments you might conduct:  * Testing]]></summary>
-        <author>
-            <name>Davis David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use VLOOKUP in Excel]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-vlookup-in-excel/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-vlookup-in-excel/"/>
-        <updated>2022-07-01T16:47:37.000Z</updated>
-        <summary type="html"><![CDATA[When you're working in Excel, the VLOOKUP function makes looking up information less time-consuming. This is particularly true when you're using more than one Excel sheet. In this article, you will learn what the VLOOKUP function does, as well as understand the syntax behind it. You will also learn how]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Battery Icon Not Showing – How to Restore Missing Battery Icon in Windows PC]]></title>
-        <id>https://www.freecodecamp.org/news/battery-icon-not-showing-how-to-restore-missing-battery-icon-in-windows-pc/</id>
-        <link href="https://www.freecodecamp.org/news/battery-icon-not-showing-how-to-restore-missing-battery-icon-in-windows-pc/"/>
-        <updated>2022-07-01T15:57:24.000Z</updated>
-        <summary type="html"><![CDATA[So, you’re working with your Windows PC and you discover you can’t find the battery icon in the taskbar. You even expand hidden icons and you still can’t find the battery icon. This could result in a negative effect on your productivity – because if you don't plug your laptop]]></summary>
-        <author>
-            <name>Kolade Chris</name>
         </author>
     </entry>
 </feed>
