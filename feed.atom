@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-02T02:24:12.428Z</updated>
+    <updated>2022-08-03T02:06:00.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Read a JSON File in JavaScript – Reading JSON in JS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-read-json-file-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-read-json-file-in-javascript/"/>
+        <updated>2022-08-02T21:35:23.000Z</updated>
+        <summary type="html"><![CDATA[When fetching data from external sources or servers, you need to make sure that the data returned is in JSON format. Then you can consume the data within your application. In some situations, when you're working locally or when you upload the data file to a server, we might want]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Rough Notation Library to Animate Your Website]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-add-animation-to-your-site-with-rough-notation/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-animation-to-your-site-with-rough-notation/"/>
+        <updated>2022-08-02T16:52:13.000Z</updated>
+        <summary type="html"><![CDATA[I love animating websites. It's so fun when you just look at a site, and there are cool animations that make everything look pretty.  Getting started with an animation library does not have to be hard. Anyone can add a bit of animation to their site regardless of whether]]></summary>
+        <author>
+            <name>Njong Emy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Computer Scientist Challenging AI to Learn Better]]></title>
+        <id>https://www.quantamagazine.org/?p=117480</id>
+        <link href="https://www.quantamagazine.org/the-computer-scientist-trying-to-teach-ai-to-learn-like-we-do-20220802/"/>
+        <updated>2022-08-02T13:58:19.000Z</updated>
+        <summary type="html"><![CDATA[Christopher Kanan is building algorithms that can continuously learn over time — the way we do.            
+The post The Computer Scientist Challenging AI to Learn Better first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Allison Whitten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to create a module-based Node.js executable (#snippet)]]></title>
+        <id>https://www.stefanjudis.com/snippets/how-to-create-a-module-based-node-js-executable/</id>
+        <link href="https://www.stefanjudis.com/snippets/how-to-create-a-module-based-node-js-executable/"/>
+        <updated>2022-08-01T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many of my projects include Node.js scripts to perform setup or teardown steps. And while I could run all of them with the node binary (node create-thumbnails.js), I prefer to remove the file extension and make the scripts executables (./create-thumbnails). This approach saves characters, and makes me feel like a hacker!
+My steps to create an executable are:
+Remove the .js file extension (mv create-thumbnails.js create-thumbnails).
+Make the file executable  (chmod 744 create-thumbnails).
+Add a shebang (#!/usr/bin/env node) to signal that the executing shell should use the node binary.
+Et voilà, you just created a Node.js executable!
+This approach has served me well for CommonJS-based scripts using the require function. But it's 2022, and I planned to adopt ECMAScript modules in Node.js exe…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #73 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-73/</id>
