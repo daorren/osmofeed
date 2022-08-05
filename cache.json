@@ -12,6 +12,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/beginners-guide-to-props-in-react/",
+          "author": "Oyedele Temitope",
+          "description": "Props are used to store data that can be accessed by the children of a React component.  They are part of the concept of reusability. Props take the place of class attributes and allow you to create consistent interfaces across the component hierarchy. In this article, we'll learn about",
+          "link": "https://www.freecodecamp.org/news/beginners-guide-to-props-in-react/",
+          "publishedOn": "2022-08-04T17:31:54.000Z",
+          "wordCount": 2157,
+          "title": "How Props Work in React – A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/A-Beginner-s-Guide-to-Props-in-Reacte--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-blazor-app-with-syncfusion-ui-components/",
+          "author": "Beau Carnes",
+          "description": "Syncfusion provides a UI component suite for building powerful web, desktop, and mobile apps. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to harness the power of the Syncfusion UI components from within a Blazor server application. You'll also learn to integrate",
+          "link": "https://www.freecodecamp.org/news/create-a-blazor-app-with-syncfusion-ui-components/",
+          "publishedOn": "2022-08-04T17:04:56.000Z",
+          "wordCount": 1004,
+          "title": "Create a Blazor App with Syncfusion UI Components",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/syncfusion.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-realtime-chat-app-with-react-express-socketio-and-harperdb/",
+          "author": "Danny Adams",
+          "description": "In this article, we will be using Socket.io and HarperDB to build a fullstack, real-time chat application with chat rooms.  This will be a great project to learn how to put together fullstack apps, and how to create an app where the backend can communicate with the frontend in",
+          "link": "https://www.freecodecamp.org/news/build-a-realtime-chat-app-with-react-express-socketio-and-harperdb/",
+          "publishedOn": "2022-08-04T15:53:22.000Z",
+          "wordCount": 7088,
+          "title": "How to Build a Real-time Chat App with React, Node, Socket.io, and HarperDB",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-keira-burton-6146929.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-change-text-size-in-html/",
+          "author": "Joel Olawanle",
+          "description": "When you add text to your HTML file with an HTML tag, you won't always want the text to remain the default size. You'll want to be able to adjust how the text displays in the browser. In this article, you will learn how to change the text size with",
+          "link": "https://www.freecodecamp.org/news/how-to-change-text-size-in-html/",
+          "publishedOn": "2022-08-04T14:52:43.000Z",
+          "wordCount": 1331,
+          "title": "HTML Font Size – How to Change Text Size with an HTML Tag",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template--6-.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/list-index-out-of-range-python-error-solved/",
           "author": "Ihechikara Vincent Abba",
           "description": "In this article, we'll talk about the IndexError: list index out of range error in Python.  In each section of the article, I'll highlight a possible cause for the error and how to fix it. You may get the IndexError: list index out of range error for the following",
@@ -1070,76 +1110,6 @@
           "wordCount": 15058,
           "title": "JavaScript Tutorial –  Code Two Word Games",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/maxresdefault.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-update-npm-dependencies/",
-          "author": "Natalie Pina",
-          "description": "The Node Package Manager (npm) provides various features to help you install and maintain your project's dependencies. Dependencies can become outdated over time due to bug fixes, new features, and other updates. The more project dependencies you have, the harder it is to keep up with these updates.  Outdated",
-          "link": "https://www.freecodecamp.org/news/how-to-update-npm-dependencies/",
-          "publishedOn": "2022-07-05T22:55:20.000Z",
-          "wordCount": 1488,
-          "title": "How to Update NPM Dependencies",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/deps.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-check-empty-string-checking-null-or-empty-in-js/",
-          "author": "Joel Olawanle",
-          "description": "There are a number of reasons why you might need to check if a string is empty or not. One of the most important reasons is when you're retrieving data from a database, API, or input field. In this article, you will learn how to check if a sting is",
-          "link": "https://www.freecodecamp.org/news/javascript-check-empty-string-checking-null-or-empty-in-js/",
-          "publishedOn": "2022-07-05T22:43:13.000Z",
-          "wordCount": 1568,
-          "title": "JavaScript Check Empty String – Checking Null or Empty in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template--7-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-detect-outliers-in-machine-learning/",
-          "author": "Bala Priya C",
-          "description": "Have you ever trained a machine learning model on a real-world dataset? If yes, you’ll have likely come across outliers.  Outliers are those data points that are significantly different from the rest of the dataset. They are often abnormal observations that skew the data distribution, and arise due to",
-          "link": "https://www.freecodecamp.org/news/how-to-detect-outliers-in-machine-learning/",
-          "publishedOn": "2022-07-05T22:02:13.000Z",
-          "wordCount": 2623,
-          "title": "How to Detect Outliers in Machine Learning – 4 Methods for Outlier Detection",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Outlier-Detection.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-top-detect-outliers-in-machine-learning/",
-          "author": "Bala Priya C",
-          "description": "Have you ever trained a machine learning model on a real-world dataset? If yes, you’ll have likely come across outliers.  Outliers are those data points that are significantly different from the rest of the dataset. They are often abnormal observations that skew the data distribution, and arise due to",
-          "link": "https://www.freecodecamp.org/news/how-top-detect-outliers-in-machine-learning/",
-          "publishedOn": "2022-07-05T22:02:13.000Z",
-          "wordCount": 2621,
-          "title": "How to Detect Outliers in Machine Learning – 4 Methods for Outlier Detection",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Outlier-Detection.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-github-copilot-with-visual-studio-code/",
-          "author": "Nishant Kumar",
-          "description": "Hey everyone, welcome! In this article, we will learn how to use the GitHub Copilot AI tool with Visual Studio Code. What is GitHub Copilot? GitHub Copilot is a tool that can help you write easier and faster code. It is powered by GPT-3. You just have to write the",
-          "link": "https://www.freecodecamp.org/news/how-to-use-github-copilot-with-visual-studio-code/",
-          "publishedOn": "2022-07-05T15:12:42.000Z",
-          "wordCount": 1794,
-          "title": "How to Use GitHub Copilot with Visual Studio Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/How-to-Build-a-Weather-Application-using-React--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-write-secure-source-code-for-proprietary-software/",
-          "author": "Andrej Kovacevic",
-          "description": "As software developers working on proprietary software, it's our job to create programs that provide the functionality our clients need. And it's also our job to create those programs in a way that makes them easy to use, maintain, and upgrade.  But proprietary software developers have another, much more",
-          "link": "https://www.freecodecamp.org/news/how-to-write-secure-source-code-for-proprietary-software/",
-          "publishedOn": "2022-07-05T14:53:02.000Z",
-          "wordCount": 2332,
-          "title": "How to Write Secure Source Code for Proprietary Software",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/software-development-code-security.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/kubernetes-vs-docker-swarm-what-is-the-difference/",
-          "author": "Zaira Hira",
-          "description": "Modern businesses are relying on containerization technologies to simplify the process of deploying and managing complex applications.  Containers assemble the necessary dependencies within one package. In this way, you don't need to worry about dependency-related conflicts that may arise in the production environment. Containers are portable and scalable, but",
-          "link": "https://www.freecodecamp.org/news/kubernetes-vs-docker-swarm-what-is-the-difference/",
-          "publishedOn": "2022-07-05T14:10:28.000Z",
-          "wordCount": 1670,
-          "title": "Kubernetes VS Docker Swarm – What is the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/Copy-of-Copy-of-read-write-files-python--1-.png"
         }
       ]
     },
@@ -1148,6 +1118,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=117576",
+          "author": "Steve Nadis",
+          "description": "The solutions to Einstein’s equations that describe a spinning black hole won’t blow up, even when poked or prodded.             \nThe post At Long Last, Mathematical Proof That Black Holes Are Stable first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/black-holes-finally-proven-mathematically-stable-20220804/",
+          "publishedOn": "2022-08-04T13:38:35.000Z",
+          "wordCount": 4900,
+          "title": "At Long Last, Mathematical Proof That Black Holes Are Stable",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/08/Kerr_Stability_1200_Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=117520",
           "author": "Yasemin Saplakoglu",
