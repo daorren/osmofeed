@@ -1000,46 +1000,6 @@
           "wordCount": 8199,
           "title": "OpenStack Tutorial – Operate Your Own Private Cloud (Full Course)",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/openstack.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/keyerror-in-python-how-to-fix-dictionary-error/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When working with dictionaries in Python, a KeyError gets raised when you try to access an item that doesn't exist in a Python dictionary. Here's a Python dictionary called student: student = {   \"name\": \"John\",   \"course\": \"Python\", } In the dictionary above, you can access the",
-          "link": "https://www.freecodecamp.org/news/keyerror-in-python-how-to-fix-dictionary-error/",
-          "publishedOn": "2022-07-07T19:33:31.000Z",
-          "wordCount": 1523,
-          "title": "keyerror in Python – How to Fix Dictionary Error",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/brett-jordan-XWar9MbNGUY-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/reversing-a-string-in-javascript-invert-a-string-with-the-js-reverse-method/",
-          "author": "Joel Olawanle",
-          "description": "Reversing strings in JavaScript is something you'll need to do often on your web development journey. You might need to reverse a string during interviews, when solving algorithms, or when doing data manipulation. We will learn how to reverse a string in JavaScript using built-in JavaScript methods as well as",
-          "link": "https://www.freecodecamp.org/news/reversing-a-string-in-javascript-invert-a-string-with-the-js-reverse-method/",
-          "publishedOn": "2022-07-07T17:01:57.000Z",
-          "wordCount": 1450,
-          "title": "Reversing a String in JavaScript – Invert a string with the JS .reverse() Method",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template--8-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-php-handbook/",
-          "author": "Flavio Copes",
-          "description": "PHP is an incredibly popular programming language. Statistics say it’s used by 80% of all websites. It’s the language that powers WordPress, the widely used content management system for websites. And it also powers a lot of different frameworks that make Web Development easier, like Laravel. Speaking of Laravel, it",
-          "link": "https://www.freecodecamp.org/news/the-php-handbook/",
-          "publishedOn": "2022-07-07T16:35:35.000Z",
-          "wordCount": 12255,
-          "title": "The PHP Handbook – Learn PHP for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Group-13--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/your-connection-is-not-private-error-how-to-fix-in-chrome/",
-          "author": "Kolade Chris",
-          "description": "If you log on to a website and your browser shows the “Your connection is not private” error, the browser is trying to warn you to stay off the website. In that case, the browser has run a check on the SSL (secure socket layer) certificate and found a problem",
-          "link": "https://www.freecodecamp.org/news/your-connection-is-not-private-error-how-to-fix-in-chrome/",
-          "publishedOn": "2022-07-07T16:03:17.000Z",
-          "wordCount": 1360,
-          "title": "Your Connection is Not Private Error – How to Fix in Chrome",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/castle-1290860_1280.jpg"
         }
       ]
     },
@@ -1246,6 +1206,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "62e6d951b5d2c05f172af580",
+          "author": "Assaf Arkin",
+          "description": "This week is 17th anniversary of my blog! We also play with Word, investigate regional dialects, jump on a quick seance, and eat the devil’s eggs.",
+          "link": "https://labnotes.org/weekend-reading-iterate-but-not-invest-heavily/",
+          "publishedOn": "2022-08-06T20:17:28.000Z",
+          "wordCount": 1245,
+          "title": "Weekend Reading — “iterate but not invest heavily”",
+          "imageUrl": "https://labnotes.org/content/images/2022/08/SCR-20220806-huh.png"
+        },
+        {
           "id": "62dc6316021b5c79cb50719c",
           "author": "Assaf Arkin",
           "description": "This week we have not one but two new search engines for developers, four keys for devops performance, and 40% drop in avocado prices.",
@@ -1427,16 +1397,6 @@
           "publishedOn": "2022-07-15T00:00:00.000Z",
           "wordCount": 880,
           "title": "An official guide to Go garbage collection",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/419",
-          "author": null,
-          "description": "#​419 — July 8, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nPocketBase: A Go-Powered, Open Source Backend in One Binary — It’s early days but certainly an interesting idea that could replace Firebase in numerous scenarios. Uses SQLite, provides authentication and realtime features, plus you get an admin dashboard built-in with file and user management. Live demo and rather nice docs.\nGani Georgiev \n\n\n  \n  \nGo 1.19 Release Candidate 1 Released — Beta period over, now it’s on to the RCs! You can download everything from the usual place, enjoy the draft release notes, or sit patiently and wait for the final release expected in August.\nThe Go Team \n\n\n  \n  \nDon’t Let Your Issue Tracker Be a Four-Letter Word — Frustrated with your project management softw…",
-          "link": "https://golangweekly.com/issues/419",
-          "publishedOn": "2022-07-08T00:00:00.000Z",
-          "wordCount": 821,
-          "title": "A full backend in a single binary",
           "imageUrl": null
         }
       ]
