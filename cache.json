@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/compare-two-files-in-linux-using-vim/",
+          "author": "Zaira Hira",
+          "description": "Software development and maintenance can get complicated sometimes. And you might find yourself comparing code or configuration changes.  When you compare them manually, you might make a mistake, and it's easy to miss minute changes. Apart from that, finding changes in large files can be exhausting.  There are",
+          "link": "https://www.freecodecamp.org/news/compare-two-files-in-linux-using-vim/",
+          "publishedOn": "2022-08-08T20:08:39.000Z",
+          "wordCount": 1681,
+          "title": "Linux `Vimdiff` Command – How to Compare Two Files in the Command Line",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Copy-of-Cast-a-Function-in-SQL---Convert-Char-to-Int-SQL-Server-Example--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/setup-git-on-mac/",
+          "author": "Joel Olawanle",
+          "description": "If you're setting up Git for the first time on a MacBook, you don't have to struggle to get it done. Maybe you just got a new laptop, or you're getting into tech for the first time with a MacBook. Either way, I've got you covered. This short article will",
+          "link": "https://www.freecodecamp.org/news/setup-git-on-mac/",
+          "publishedOn": "2022-08-08T20:07:30.000Z",
+          "wordCount": 1420,
+          "title": "How to Set Up Git for the First Time on macOS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-style-guide-in-figma/",
+          "author": "Ijelekhai Faith Olohijere",
+          "description": "Style guides are important to help you deliver a consistent brand experience.  As a UI/UX designer, creating style guides is indispensable if you hope to create great user experiences and interfaces.  In this article, you will learn what a style guide is, the importance of a style guide,",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-style-guide-in-figma/",
+          "publishedOn": "2022-08-08T14:35:53.000Z",
+          "wordCount": 2499,
+          "title": "How to Create a Style Guide in Figma",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/style-guide.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/typeerror-str-object-is-not-callable-how-to-fix-in-python/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Every programming language has certain keywords with specific, prebuilt functionalities and meanings.  Naming your variables or functions after these keywords is most likely going to raise an error. We'll discuss one of these cases in this article — the  TypeError: 'str' object is not callable error in Python.",
+          "link": "https://www.freecodecamp.org/news/typeerror-str-object-is-not-callable-how-to-fix-in-python/",
+          "publishedOn": "2022-08-08T14:21:57.000Z",
+          "wordCount": 1205,
+          "title": "Typeerror: str object is not callable – How to Fix in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/brett-jordan-XWar9MbNGUY-unsplash--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-node-js-and-express-in-spanish-course-for-beginners/",
+          "author": "Estefania Cassingena Navone",
+          "description": "Hi! If you speak Spanish and you want to learn Node.js, and Express, you are in the right place.  In this article, you will find a brief introduction to back-end web development, Node.js, and Express. You will learn why they are very powerful tools for developing web servers and",
+          "link": "https://www.freecodecamp.org/news/learn-node-js-and-express-in-spanish-course-for-beginners/",
+          "publishedOn": "2022-08-08T04:35:40.000Z",
+          "wordCount": 2472,
+          "title": "Learn Node.js and Express in Spanish – Course for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/thumbnail.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/git-best-practices-commits-and-code-reviews/",
           "author": "Grant Weatherston",
           "description": "As developers we push regular code commits – and after a while, it's almost second nature to us.  But does this mean we're doing things right? Familiarity often leads to sloppiness and overlooking the basics. In this article, we will explore  * How to write meaningful Git commit",
@@ -1009,6 +1059,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=117611",
+          "author": "Viviane Callier",
+          "description": "The biochemist Nick Lane thinks life first evolved in hydrothermal vents where precursors of metabolism appeared before genetic information. His ideas could lead us to think differently about aging and cancer.            \nThe post A Biochemist’s View of Life’s Origin Reframes Cancer and Aging first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/a-biochemists-view-of-lifes-origin-reframes-cancer-and-aging-20220808/",
+          "publishedOn": "2022-08-08T15:30:48.000Z",
+          "wordCount": 9450,
+          "title": "A Biochemist’s View of Life’s Origin Reframes Cancer and Aging",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/08/Nick_Lane_1200_Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=117576",
           "author": "Steve Nadis",
           "description": "The solutions to Einstein’s equations that describe a spinning black hole won’t blow up, even when poked or prodded.             \nThe post At Long Last, Mathematical Proof That Black Holes Are Stable first appeared on Quanta Magazine",
@@ -1244,16 +1304,6 @@
           "wordCount": 1590,
           "title": "Weekend Reading — A mass Dunning-Kruger event",
           "imageUrl": "https://labnotes.org/content/images/2022/07/216364bd.jpg"
-        },
-        {
-          "id": "62c0e53fd9dbed2e26ec7caa",
-          "author": "Assaf Arkin",
-          "description": "This week we install a dopamine drip, uncover a 3 letter psyop, charge our car, and solve philosophy.",
-          "link": "https://labnotes.org/weekend-reading-what-if-it-changes/",
-          "publishedOn": "2022-07-09T21:43:01.000Z",
-          "wordCount": 1457,
-          "title": "Weekend Reading — What if it changes?",
-          "imageUrl": "https://labnotes.org/content/images/2022/07/FW7ghcqUYAE7cWZ.png"
         }
       ]
     },
@@ -1262,6 +1312,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-74/",
+          "author": null,
+          "description": "Happy new week, friends! 👋\n\nPersonal blogs seem to be on the rise lately. I see more and more new blogs, and I'm there for it!\nMany people think that blogging is primarily about writing things down for others. It's not. My blog has turned into my own little knowledge base over the years. I don't mind publishing quick thoughts or notes with five sentences. 🤷‍♂️ If people find value in it, great! If not, also great because I posted it for my future self.\nI often don't remember solutions or facts, but I remember when I made a note on my blog and read my own posts multiple times a week. I write things down to remember.\nAs Marco Heine puts it in \"Just hit publish\":\nIt doesn’t have to be perfect. It has to be on here. That’s the main goal.\nStrongly agree!\nBut it's not only about creating a sec…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-74/",
+          "publishedOn": "2022-08-07T22:00:00.000Z",
+          "wordCount": 2018,
+          "title": "Web Weekly #74 (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252374/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/new-in-vs-code-sticky-function-signatures/",
           "author": null,
@@ -1341,16 +1401,6 @@
           "wordCount": 1188,
           "title": "How to select the previous sibling of an element (#snippet)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20select%20the%20previous%20sibling%20of%20an%20element/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-71/",
-          "author": null,
-          "description": "Happy Sunday, party people!\n\nSometimes new web platform features ship in one browser (cough Chrome cough), and we all get excited about it only to find out that it has been abandoned because the other browser vendors won't ship it. These situations are always unfortunate.\nBut how do you figure out if all browser makers consider a new web platform feature a good idea?\nFirst, the three major browsers offer feature status pages:\nchromestatus.com\nmozilla.github.io/standards-positions/\nwebkit.org/status/\nThe pages vary in detail and maintenance level but are a good start.\nBut what about features listed nowhere? What should you do then? Could you go somewhere and ask?\nJup! The WebKit folks continued to invest in the community and released a new standards-positions repo where you can go and do pr…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-71/",
-          "publishedOn": "2022-07-09T22:00:00.000Z",
-          "wordCount": 2360,
-          "title": "Web Weekly #71 (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252371/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
         }
       ]
     },

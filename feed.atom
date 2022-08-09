@@ -2,10 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-08T01:59:15.342Z</updated>
+    <updated>2022-08-09T02:10:52.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux `Vimdiff` Command – How to Compare Two Files in the Command Line]]></title>
+        <id>https://www.freecodecamp.org/news/compare-two-files-in-linux-using-vim/</id>
+        <link href="https://www.freecodecamp.org/news/compare-two-files-in-linux-using-vim/"/>
+        <updated>2022-08-08T20:08:39.000Z</updated>
+        <summary type="html"><![CDATA[Software development and maintenance can get complicated sometimes. And you might find yourself comparing code or configuration changes.  When you compare them manually, you might make a mistake, and it's easy to miss minute changes. Apart from that, finding changes in large files can be exhausting.  There are]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Git for the First Time on macOS]]></title>
+        <id>https://www.freecodecamp.org/news/setup-git-on-mac/</id>
+        <link href="https://www.freecodecamp.org/news/setup-git-on-mac/"/>
+        <updated>2022-08-08T20:07:30.000Z</updated>
+        <summary type="html"><![CDATA[If you're setting up Git for the first time on a MacBook, you don't have to struggle to get it done. Maybe you just got a new laptop, or you're getting into tech for the first time with a MacBook. Either way, I've got you covered. This short article will]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Biochemist’s View of Life’s Origin Reframes Cancer and Aging]]></title>
+        <id>https://www.quantamagazine.org/?p=117611</id>
+        <link href="https://www.quantamagazine.org/a-biochemists-view-of-lifes-origin-reframes-cancer-and-aging-20220808/"/>
+        <updated>2022-08-08T15:30:48.000Z</updated>
+        <summary type="html"><![CDATA[The biochemist Nick Lane thinks life first evolved in hydrothermal vents where precursors of metabolism appeared before genetic information. His ideas could lead us to think differently about aging and cancer.            
+The post A Biochemist’s View of Life’s Origin Reframes Cancer and Aging first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Viviane Callier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Style Guide in Figma]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-a-style-guide-in-figma/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-style-guide-in-figma/"/>
+        <updated>2022-08-08T14:35:53.000Z</updated>
+        <summary type="html"><![CDATA[Style guides are important to help you deliver a consistent brand experience.  As a UI/UX designer, creating style guides is indispensable if you hope to create great user experiences and interfaces.  In this article, you will learn what a style guide is, the importance of a style guide,]]></summary>
+        <author>
+            <name>Ijelekhai Faith Olohijere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typeerror: str object is not callable – How to Fix in Python]]></title>
+        <id>https://www.freecodecamp.org/news/typeerror-str-object-is-not-callable-how-to-fix-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/typeerror-str-object-is-not-callable-how-to-fix-in-python/"/>
+        <updated>2022-08-08T14:21:57.000Z</updated>
+        <summary type="html"><![CDATA[Every programming language has certain keywords with specific, prebuilt functionalities and meanings.  Naming your variables or functions after these keywords is most likely going to raise an error. We'll discuss one of these cases in this article — the  TypeError: 'str' object is not callable error in Python.]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Node.js and Express in Spanish – Course for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/learn-node-js-and-express-in-spanish-course-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/learn-node-js-and-express-in-spanish-course-for-beginners/"/>
+        <updated>2022-08-08T04:35:40.000Z</updated>
+        <summary type="html"><![CDATA[Hi! If you speak Spanish and you want to learn Node.js, and Express, you are in the right place.  In this article, you will find a brief introduction to back-end web development, Node.js, and Express. You will learn why they are very powerful tools for developing web servers and]]></summary>
+        <author>
+            <name>Estefania Cassingena Navone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #74 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-74/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-74/"/>
+        <updated>2022-08-07T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Happy new week, friends! 👋
+
+Personal blogs seem to be on the rise lately. I see more and more new blogs, and I'm there for it!
+Many people think that blogging is primarily about writing things down for others. It's not. My blog has turned into my own little knowledge base over the years. I don't mind publishing quick thoughts or notes with five sentences. 🤷‍♂️ If people find value in it, great! If not, also great because I posted it for my future self.
+I often don't remember solutions or facts, but I remember when I made a note on my blog and read my own posts multiple times a week. I write things down to remember.
+As Marco Heine puts it in "Just hit publish":
+It doesn’t have to be perfect. It has to be on here. That’s the main goal.
+Strongly agree!
+But it's not only about creating a sec…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — “iterate but not invest heavily”]]></title>
         <id>62e6d951b5d2c05f172af580</id>
@@ -1649,36 +1728,6 @@ The post Quantum Algorithms Conquer a New Kind of Problem first appeared on Quan
         <summary type="html"><![CDATA[OpenStack is an open source software that provides cloud infrastructure for virtual machines, bare metal, and containers. In this article, you will learn how to use OpenStack to operate your own private cloud. By the end of the tutorial, you will have a core understanding of what OpenStack is and]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #71 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-71/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-71/"/>
-        <updated>2022-07-09T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Happy Sunday, party people!
-
-Sometimes new web platform features ship in one browser (cough Chrome cough), and we all get excited about it only to find out that it has been abandoned because the other browser vendors won't ship it. These situations are always unfortunate.
-But how do you figure out if all browser makers consider a new web platform feature a good idea?
-First, the three major browsers offer feature status pages:
-chromestatus.com
-mozilla.github.io/standards-positions/
-webkit.org/status/
-The pages vary in detail and maintenance level but are a good start.
-But what about features listed nowhere? What should you do then? Could you go somewhere and ask?
-Jup! The WebKit folks continued to invest in the community and released a new standards-positions repo where you can go and do pr…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — What if it changes?]]></title>
-        <id>62c0e53fd9dbed2e26ec7caa</id>
-        <link href="https://labnotes.org/weekend-reading-what-if-it-changes/"/>
-        <updated>2022-07-09T21:43:01.000Z</updated>
-        <summary type="html"><![CDATA[This week we install a dopamine drip, uncover a 3 letter psyop, charge our car, and solve philosophy.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
