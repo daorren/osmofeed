@@ -12,6 +12,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-you-can-share-links-that-anchor-to-any-text-on-a-webpage/",
+          "author": "Seth Falco",
+          "description": "Did you know that there's an unofficial draft [https://wicg.github.io/scroll-to-text-fragment/] specification for a feature that would allow arbitrary text to be passed to the fragment (#) of a URL?  This would allow users to share links that point to any particular text on a webpage! What's a URI fragment? The",
+          "link": "https://www.freecodecamp.org/news/how-you-can-share-links-that-anchor-to-any-text-on-a-webpage/",
+          "publishedOn": "2022-08-09T19:54:25.000Z",
+          "wordCount": 2095,
+          "title": "How to Share Links that Anchor to Any Text on a Webpage",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/untitled.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/web-scraping-sci-fi-movies-from-imdb-with-python/",
+          "author": "Riley Predum",
+          "description": "Have you ever struggled to find a dataset for your data science project? If you're like I am, the answer is yes.  Luckily, there are many free datasets available – but sometimes you want something more specific or bespoke. For that, web scraping is a good skill to have",
+          "link": "https://www.freecodecamp.org/news/web-scraping-sci-fi-movies-from-imdb-with-python/",
+          "publishedOn": "2022-08-09T19:50:10.000Z",
+          "wordCount": 3082,
+          "title": "Web Scraping in Python – How to Scrape Sci-Fi Movies from IMDB",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-pixabay-270348--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-recursion-in-react/",
+          "author": "Nishant Kumar",
+          "description": "Sometimes you'll need to print records from an array, but the array is too big and nested.  Let's say we have a family tree, or a folder structure. We have multiple arrays nested inside arrays, and it goes on and on. It's so big and deep that it's not",
+          "link": "https://www.freecodecamp.org/news/how-to-use-recursion-in-react/",
+          "publishedOn": "2022-08-09T18:55:18.000Z",
+          "wordCount": 2407,
+          "title": "How to Use Recursion in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/How-to-Build-a-Weather-Application-using-React--39-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/",
+          "author": "Kolade Chris",
+          "description": "The Windows command line is one of the most powerful utilities on a Windows PC. With it, you can interact with the OS directly and do a lot of things not available in the graphical user interface (GUI). In this article, I’ll show you 40 commands you can use on",
+          "link": "https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/",
+          "publishedOn": "2022-08-09T15:28:14.000Z",
+          "wordCount": 1931,
+          "title": "Command Line Commands – CLI Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cli.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-programming-course/",
+          "author": "Beau Carnes",
+          "description": "Python is considered one of the most popular programming languages in the world and it is only growing in popularity. It's a great first language to learn. We just released an all-new Python programming course on the freeCodeCamp.org YouTube channel. My name is Beau Carnes and I created this course.",
+          "link": "https://www.freecodecamp.org/news/python-programming-course/",
+          "publishedOn": "2022-08-09T12:54:37.000Z",
+          "wordCount": 1079,
+          "title": "Free Python Programming Course [2022]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/maxresdefault-1.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-a-callback-function-in-javascript-js-callbacks-example-tutorial/",
+          "author": "Ilenia Magoni",
+          "description": "In JavaScript there are higher order methods and functions that accept a function as an argument. These functions used as arguments for other functions are called callback functions. What is a callback in JavaScript? A callback is a function passed as an argument of another function. This means that the",
+          "link": "https://www.freecodecamp.org/news/what-is-a-callback-function-in-javascript-js-callbacks-example-tutorial/",
+          "publishedOn": "2022-08-09T00:32:48.000Z",
+          "wordCount": 2684,
+          "title": "What is a Callback Function in JavaScript? JS Callbacks Example Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-pixabay-39656.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/compare-two-files-in-linux-using-vim/",
           "author": "Zaira Hira",
           "description": "Software development and maintenance can get complicated sometimes. And you might find yourself comparing code or configuration changes.  When you compare them manually, you might make a mistake, and it's easy to miss minute changes. Apart from that, finding changes in large files can be exhausting.  There are",
@@ -1058,6 +1118,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=117672",
+          "author": "Charlie Wood",
+          "description": "The key to understanding the origin and fate of the universe may be a more complete understanding of the vacuum.             \nThe post How the Physics of Nothing Underlies Everything first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-the-physics-of-nothing-underlies-everything-20220809/",
+          "publishedOn": "2022-08-09T13:32:15.000Z",
+          "wordCount": 6933,
+          "title": "How the Physics of Nothing Underlies Everything",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/nothing_1200_Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=117611",
           "author": "Viviane Callier",
