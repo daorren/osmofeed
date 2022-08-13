@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/what-is-a-java-hashmap/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In Java, you use a HashMap to store items in key/value pairs. You can access items stored in a HashMap using the item's key, which is unique for each item.  In this article, we'll talk about the features of a HashMap, how to create a  HashMap, and the",
+          "link": "https://www.freecodecamp.org/news/what-is-a-java-hashmap/",
+          "publishedOn": "2022-08-12T20:53:24.000Z",
+          "wordCount": 1675,
+          "title": "What is a Java Hashmap?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/tyler-nix-7ukf-r-Oh-k-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sieve-of-eratosthenes-algorithm/",
+          "author": "Divine Orji",
+          "description": "One day, while learning algorithms in JavaScript, I found this challenge: > Using a for loop, iterate from 0 to 100, and return an array of all prime numbers within that range. It seemed easy initially, but I couldn't quite figure it out. So I did a google search and",
+          "link": "https://www.freecodecamp.org/news/sieve-of-eratosthenes-algorithm/",
+          "publishedOn": "2022-08-12T18:25:20.000Z",
+          "wordCount": 1532,
+          "title": "How to Use the Sieve Of Eratosthenes Algorithm",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Sieve-of-Eratosthenes-min.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/",
+          "author": "Soham De Roy",
+          "description": "Pretty much everything is available on the internet, and Google is one of the main ways people search for information. And while you might think it's obvious, many internet users don't know how to use Google search efficiently and effectively. In truth, Googling is an art. To get the right",
+          "link": "https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/",
+          "publishedOn": "2022-08-12T18:19:11.000Z",
+          "wordCount": 1904,
+          "title": "How to Google like a Pro – 10 Tips for More Effective Googling",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Group-61.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/html-new-line-how-to-add-a-line-break-with-the-br-tag/",
+          "author": "Dillion Megida",
+          "description": "In this article, I'll explain what line breaks are and show you how to create them in HTML. What is a Line Break? A line break, as the name implies, is a break in line 😅. A line break in HTML is a point where a line ends horizontally, and",
+          "link": "https://www.freecodecamp.org/news/html-new-line-how-to-add-a-line-break-with-the-br-tag/",
+          "publishedOn": "2022-08-12T18:00:31.000Z",
+          "wordCount": 1257,
+          "title": "HTML New Line – How to Add a Line Break with the BR Tag",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/line-break.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sense-walkthrough-hackthebox/",
+          "author": "Shuaib Oseni",
+          "description": "HackTheBox is an online hacking platform that allows you to test and practice your penetration testing skills.  It contains several vulnerable labs that are constantly updated. Some of them simulate real-world scenarios and some of them lean more towards a Capture The Flag (CTF) style of challenge. Note: Only",
+          "link": "https://www.freecodecamp.org/news/sense-walkthrough-hackthebox/",
+          "publishedOn": "2022-08-12T16:09:26.000Z",
+          "wordCount": 1515,
+          "title": "Sense Walkthrough – HackTheBox",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/sense--1-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/",
           "author": "Kolade Chris",
           "description": "Different software development tools might require specific versions of Node.js and NPM (Node Package Manager). NPM is a tool for managing packages installed from the NPM registry. In addition, if you are making an NPM package, you might need to test it with different versions of Node.js. This is why",
@@ -990,96 +1040,6 @@
           "wordCount": 871,
           "title": "Use React and APIs to Build a Weather App",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/reactapi.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-regex-to-match-emoji-including-discord-emotes/",
-          "author": "Naomi Carrigan",
-          "description": "Emoji are special Unicode characters that render pictographs. But these characters can be very tricky to identify with RegEx.  I was recently working on a Discord bot that had to detect the number of emotes in a given message. Today I'll share my process with you, including the newer",
-          "link": "https://www.freecodecamp.org/news/how-to-use-regex-to-match-emoji-including-discord-emotes/",
-          "publishedOn": "2022-07-13T23:04:07.000Z",
-          "wordCount": 1246,
-          "title": "How to Use RegEx to Match Emoji – Including Discord Emotes",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-roman-odintsov-6898861.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-abstraction-in-programming/",
-          "author": "Tiago Monteiro",
-          "description": "Did you know that abstraction is one of the most important concepts for any software engineer to know? That's right! Without the use of abstraction when developing new technologies and concepts, we would never have been able to invent most software or even most things. So, understanding this concept is",
-          "link": "https://www.freecodecamp.org/news/what-is-abstraction-in-programming/",
-          "publishedOn": "2022-07-13T22:54:18.000Z",
-          "wordCount": 1990,
-          "title": "What is Abstraction in Programming – And Why is it Useful?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Screenshot--518-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-get-current-time/",
-          "author": "Kolade Chris",
-          "description": "In your websites and applications, you might want to add functionalities like timestamps or checking the time of a user’s activity. Every programming language has modules or methods for working with time, and Python is not an exception. With the datetime and time modules of Python, you can get the",
-          "link": "https://www.freecodecamp.org/news/python-get-current-time/",
-          "publishedOn": "2022-07-13T22:48:46.000Z",
-          "wordCount": 1156,
-          "title": "Python Get Current Time",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/getCurrentTime.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/flutter-alarmmanager-tutorial/",
-          "author": "Tomer Ben Rachel",
-          "description": "If you are an Android developer, when you want to schedule your application to run at a specific time in the future, you use the AlarmManager.  But if you are an iOS developer, this type of component does not exist there. So if you are a Flutter developer, what",
-          "link": "https://www.freecodecamp.org/news/flutter-alarmmanager-tutorial/",
-          "publishedOn": "2022-07-13T20:21:04.000Z",
-          "wordCount": 1472,
-          "title": "How to Set Alarms in Flutter Using the Alarm Manager Plus Package",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/sonja-langford-eIkbSc3SDtI-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-a-software-framework/",
-          "author": "Tiago Monteiro",
-          "description": "These days, companies both big and small use some kind of software framework to build their websites. And if you want to get into coding, it's important to learn and understand some of the popular frameworks – regardless of the field you choose in the industry. ‌‌‌‌But why? ‌‌‌‌ Frameworks",
-          "link": "https://www.freecodecamp.org/news/what-is-a-software-framework/",
-          "publishedOn": "2022-07-13T19:28:02.000Z",
-          "wordCount": 2531,
-          "title": "What is a Software Framework?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/logo-freecodecamp.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-local-git-branch/",
-          "author": "Joel Olawanle",
-          "description": "When you're making changes to a Git repository, it's a best practice to push to a different branch first. This lets you compare changes before submitting a pull request and finally merging it. This is especially crucial when working with other developers. Your repository's main branch, which is regarded as",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-local-git-branch/",
-          "publishedOn": "2022-07-13T16:41:33.000Z",
-          "wordCount": 1185,
-          "title": "How to Create a Local Branch in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-list-append-how-to-append-to-a-list-in-python/",
-          "author": "Dillion Megida",
-          "description": "How do you append (or add) new values to an already created list in Python? I will show you how in this article. But first things first... What is a List in Python? A List is a data type that allows you to store multiple values of either the same",
-          "link": "https://www.freecodecamp.org/news/python-list-append-how-to-append-to-a-list-in-python/",
-          "publishedOn": "2022-07-13T15:10:46.000Z",
-          "wordCount": 1170,
-          "title": "Python List.append() – How to Append to a List in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/append-to-a-list.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-deploy-multiple-repos-to-subfolders-under-one-website-netlify/",
-          "author": "Abdulmalik Salawu",
-          "description": "Hi there! 👋 You're probably here because you are trying to deal with hosting two separate websites or repositories under one website using Netlify. And maybe you've checked out the answers on the Netlify community page, but you are still confused. The same confusion and headache led me to write",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-multiple-repos-to-subfolders-under-one-website-netlify/",
-          "publishedOn": "2022-07-13T14:57:25.000Z",
-          "wordCount": 1675,
-          "title": "How to Deploy Multiple Repositories to Subfolders Under One Website with Netlify",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-xxss-is-back-777001.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/coding-interview-prep-for-big-tech/",
-          "author": "Zubin Pratap",
-          "description": "I optimized my preparation for Big Tech Interviews based on my circumstances and background.  It did not require advanced Computer Science Degrees or thousands of leetcode-style questions.",
-          "link": "https://www.freecodecamp.org/news/coding-interview-prep-for-big-tech/",
-          "publishedOn": "2022-07-13T14:45:30.000Z",
-          "wordCount": 8702,
-          "title": "Coding Interview Prep for Big Tech (FAANG) – And How I Became A Google Engineer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Google-Mel.jpeg"
         }
       ]
     },
@@ -1277,36 +1237,6 @@
           "wordCount": 5257,
           "title": "Computer Science Proof Unveils Unexpected Form of Entanglement",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/07/NLTS-Conjecture_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=116989",
-          "author": "Leila Sloman",
-          "description": "In 1973, Paul Erdős asked if it was possible to assemble sets of “triples” — three points on a graph — so that they abide by two seemingly incompatible rules. A new proof shows it can always be done.            \nThe post Hypergraphs Reveal Solution to 50-Year-Old Problem first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/hypergraphs-reveal-solution-to-50-year-old-problem-20220714/",
-          "publishedOn": "2022-07-14T13:30:22.000Z",
-          "wordCount": 4849,
-          "title": "Hypergraphs Reveal Solution to 50-Year-Old Problem",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/07/Hypergraphs_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=116971",
-          "author": "Steven Strogatz",
-          "description": "What makes a proof stronger than a guess? What does evidence look like in the realm of mathematical abstraction? Hear the mathematician Melanie Matchett Wood explain how probability helps to guide number theorists toward certainty.            \nThe post How Do Mathematicians Know Their Proofs Are Correct? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-do-mathematicians-know-their-proofs-are-correct-20220713/",
-          "publishedOn": "2022-07-13T20:13:19.000Z",
-          "wordCount": 12837,
-          "title": "How Do Mathematicians Know Their Proofs Are Correct?",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/07/JoW_Evidence-in-Math_1200_Social_LOGO.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=116926",
-          "author": "Steve Nadis",
-          "description": "Surprising as it may sound, 107 years after the introduction of general relativity, the meanings of basic concepts are still being worked out.            \nThe post Mass and Angular Momentum, Left Ambiguous by Einstein, Get Defined first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/mass-and-angular-momentum-left-ambiguous-by-einstein-get-defined-20220713/",
-          "publishedOn": "2022-07-13T14:46:58.000Z",
-          "wordCount": 8264,
-          "title": "Mass and Angular Momentum, Left Ambiguous by Einstein, Get Defined",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/07/Mass_520x292l.jpg"
         }
       ]
     },
@@ -1459,6 +1389,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/424",
+          "author": null,
+          "description": "#​424 — August 12, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\n☀️ A heads up that you won't get this newsletter on August 19 as we're taking a week off for summer vacation – we're back as usual on August 26 :-)\n__\nPeter Cooper, your editor.\n\n\n    \n    \n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \n'How I Found a Go Issue on ARM that Crashed the Database Server' — A distributed SQL database like TiDB is a complex piece of software that leans heavily on its environment and a ‘peculiar’ Go bug caused it to crash on ARM platforms. If you like problem solving and post mortems, this is a good one.\nArther Mao (PingCAP) \n\n\n  \n  \nRob Pike's Simple C Regex Matcher in Go — In 1998, Rob Pike wrote a regular expression parser in C to use as an example in a book. Ben considers how it would look (and perform…",
+          "link": "https://golangweekly.com/issues/424",
+          "publishedOn": "2022-08-12T00:00:00.000Z",
+          "wordCount": 856,
+          "title": "Crochet your own Go gopher.",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/423",
           "author": null,
