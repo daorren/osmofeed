@@ -980,36 +980,6 @@
           "wordCount": 1978,
           "title": "How to Animate Your Git Commit History with git-story",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/git-story-image.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-instructure-as-a-code-by-building-custom-machine-image-in-aws/",
-          "author": "Destiny Erhabor",
-          "description": "Hey everyone! If you're wondering what infrastructure-as-code means, then you've come to the right place.  In this article I will explain the concepts behind Infrastructure-As-Code (IaC) at a high level and dive into a category of IaC known as server templating.  For the purpose of this article, we",
-          "link": "https://www.freecodecamp.org/news/learn-instructure-as-a-code-by-building-custom-machine-image-in-aws/",
-          "publishedOn": "2022-07-15T17:15:48.000Z",
-          "wordCount": 3540,
-          "title": "Learn Infrastructure as Code by Building a Custom Machine Image in AWS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Understand-Infrastructure-as-a-code--4-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/strftime-in-python/",
-          "author": "Dillion Megida",
-          "description": "In Python, you can format date objects and present them in readable form using the strftime function. In this article, I'll show you how. What is strftime() in Python? strftime() is a Python date method you can use to convert dates to strings. It doesn't just convert to strings, but",
-          "link": "https://www.freecodecamp.org/news/strftime-in-python/",
-          "publishedOn": "2022-07-15T16:55:14.000Z",
-          "wordCount": 1085,
-          "title": "strftime() Python – Datetime Format Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/python-datetime-format-tutorial.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-enable-disbale-search-highlights-on-windows-11/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "Windows 11 is the new operating system from Microsoft. If you've been using it from the beginning after it was just released, then you've already seen some changes. Search highlights are not new for the Windows operating systems as Windows 10 also has the same feature. And you might want",
-          "link": "https://www.freecodecamp.org/news/how-to-enable-disbale-search-highlights-on-windows-11/",
-          "publishedOn": "2022-07-15T16:17:45.000Z",
-          "wordCount": 1119,
-          "title": "How to Enable and Disable Search Highlights on Windows 11",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Artboard.png"
         }
       ]
     },
@@ -1216,6 +1186,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "62eecde711e2e71b266d85fb",
+          "author": "Assaf Arkin",
+          "description": "This week we leak some memory, set up a recurring meeting, discover a new workout, and watch the great escape.",
+          "link": "https://labnotes.org/weekend-reading-lesser-known-workouts/",
+          "publishedOn": "2022-08-14T19:57:03.000Z",
+          "wordCount": 1457,
+          "title": "Weekend Reading — Lesser known workouts",
+          "imageUrl": "https://labnotes.org/content/images/2022/08/FZvlf4KWAAEEMtM.jpeg"
+        },
+        {
           "id": "62e6d951b5d2c05f172af580",
           "author": "Assaf Arkin",
           "description": "This week is 17th anniversary of my blog! We also play with Word, investigate regional dialects, jump on a quick seance, and eat the devil’s eggs.",
@@ -1262,6 +1242,36 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-75/",
+          "author": null,
+          "description": "Howdy ho, friends!\n\nLet's talk about a never-ending programming argument: TABS vs. SPACES. I know, I know... but hear me out! 😉\nI don't care too much about it because wrangling code into whatever coding convention is an editor's job. Prettier for the win!\nBut I've always been in \"the space camp\" for my projects. It's my code, and I make the rules, right?\nThis week I took a big step, moved camps and changed my first repo to be tabs-first!\nSo, what changed my opinion?\nThe Prettier maintainers consider moving to tabs with their next major release because it saves bytes and is more flexible. Let's dive into these points.\nI converted all JS files (including all node_modules) of my blog's code base to tabs and saved a whooping 11MB on my hard drive. So, this is a weak argument at best.\nBut off …",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-75/",
+          "publishedOn": "2022-08-14T18:00:00.000Z",
+          "wordCount": 1933,
+          "title": "Web Weekly #75 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/how-to-exclude-commits-from-git-blame/",
+          "author": null,
+          "description": "After ten years of being a vivid space user, I decided to move all my projects to tabs. 😲\nI applied this change to this blog's repository, and a problem came to light. If you change the formatting of hundreds of files, you're messing with your Git history. git blame becomes pretty useless. Thousands of lines will be marked with an unimportant formatting change.\nI started googling around to find out how to ignore commits in Git and VS code...\nIgnore commits via --ignore-rev\n\nIf you use git blame on the command line, the --ignore-rev option lets you blame a file without considering this nasty formatting commit.\ngit blame --ignore-rev a926bba49c index.js\n\nThis is great but didn't help me because I rarely use git blame on the command line, and even if I would, I wouldn't want to always think …",
+          "link": "https://www.stefanjudis.com/today-i-learned/how-to-exclude-commits-from-git-blame/",
+          "publishedOn": "2022-08-13T22:00:00.000Z",
+          "wordCount": 1556,
+          "title": "How to exclude commits from git blame (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20exclude%20commits%20from%20git%20blame/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/how-to-force-push-git-branches-without-the-force-flag/",
+          "author": null,
+          "description": "Today I learned about an alternative syntax to force push git branches.\ngit push --force origin main\ngit push -f origin main\ngit push origin +main\n\nOne hand the + saves some characters and somehow feels less scary to me, but on the other hand is force pushing only a single character typo away. That's scary!\nForce pushing is dangerous. If you collaborate with others on a project, consider using the --force-with-lease flag instead.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/how-to-force-push-git-branches-without-the-force-flag/",
+          "publishedOn": "2022-08-13T22:00:00.000Z",
+          "wordCount": 1206,
+          "title": "How to force push git branches without the --force flag (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20force%20push%20git%20branches%20without%20the%20--force%20flag/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-74/",
           "author": null,
@@ -1341,16 +1351,6 @@
           "wordCount": 2051,
           "title": "Web Weekly #72 (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252372/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/how-to-select-the-previous-sibling/",
-          "author": null,
-          "description": "Jim Nielsen blogged about a mind-boggling feature of the new :has() pseudo-class. It's not well supported yet, but this CSS addition unlocks countless use cases that Frontend engineers have been dreaming of for years.\n\n        \nMDN Compat Data (source)\nBrowser support info for :has() \n              \n                \n\n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                \n\n                        \n                        Nein\n                        \n                      \n                        \n                        Nein\n                        \n                      \n                        \n                        Nö\n                        \n                      \n                        \n                        Nope\n                        \n                      \n                        \n                        15.4\n                        \n                      \n                        \n                        Nope\n                        \n                      \n                        \n                        Nope\n                        \n                      \n                        \n                        Nei\n                        \n                      \n                \n\n\nI always thought :has() is only the long-awaited \"parent selector\", but Jim shared that it's the \"previous sibling selector\", too! 🤯\n/* \n  Select every <a> element that's a child of \n  a <p> element that directly precedes an <hr> element.\n*/\np:has(+ hr) a { /* ... */ }\n\nIf you want to learn more, head over to Jim's blog. It's a great one!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/snippets/how-to-select-the-previous-sibling/",
-          "publishedOn": "2022-07-15T22:00:00.000Z",
-          "wordCount": 1188,
-          "title": "How to select the previous sibling of an element (#snippet)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20select%20the%20previous%20sibling%20of%20an%20element/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },

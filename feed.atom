@@ -2,10 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-14T02:11:18.751Z</updated>
+    <updated>2022-08-15T02:13:11.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Lesser known workouts]]></title>
+        <id>62eecde711e2e71b266d85fb</id>
+        <link href="https://labnotes.org/weekend-reading-lesser-known-workouts/"/>
+        <updated>2022-08-14T19:57:03.000Z</updated>
+        <summary type="html"><![CDATA[This week we leak some memory, set up a recurring meeting, discover a new workout, and watch the great escape.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #75 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-75/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-75/"/>
+        <updated>2022-08-14T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Howdy ho, friends!
+
+Let's talk about a never-ending programming argument: TABS vs. SPACES. I know, I know... but hear me out! 😉
+I don't care too much about it because wrangling code into whatever coding convention is an editor's job. Prettier for the win!
+But I've always been in "the space camp" for my projects. It's my code, and I make the rules, right?
+This week I took a big step, moved camps and changed my first repo to be tabs-first!
+So, what changed my opinion?
+The Prettier maintainers consider moving to tabs with their next major release because it saves bytes and is more flexible. Let's dive into these points.
+I converted all JS files (including all node_modules) of my blog's code base to tabs and saved a whooping 11MB on my hard drive. So, this is a weak argument at best.
+But off …]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to exclude commits from git blame (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/how-to-exclude-commits-from-git-blame/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/how-to-exclude-commits-from-git-blame/"/>
+        <updated>2022-08-13T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After ten years of being a vivid space user, I decided to move all my projects to tabs. 😲
+I applied this change to this blog's repository, and a problem came to light. If you change the formatting of hundreds of files, you're messing with your Git history. git blame becomes pretty useless. Thousands of lines will be marked with an unimportant formatting change.
+I started googling around to find out how to ignore commits in Git and VS code...
+Ignore commits via --ignore-rev
+
+If you use git blame on the command line, the --ignore-rev option lets you blame a file without considering this nasty formatting commit.
+git blame --ignore-rev a926bba49c index.js
+
+This is great but didn't help me because I rarely use git blame on the command line, and even if I would, I wouldn't want to always think …]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to force push git branches without the --force flag (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/how-to-force-push-git-branches-without-the-force-flag/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/how-to-force-push-git-branches-without-the-force-flag/"/>
+        <updated>2022-08-13T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today I learned about an alternative syntax to force push git branches.
+git push --force origin main
+git push -f origin main
+git push origin +main
+
+One hand the + saves some characters and somehow feels less scary to me, but on the other hand is force pushing only a single character typo away. That's scary!
+Force pushing is dangerous. If you collaborate with others on a project, consider using the --force-with-lease flag instead.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a Java Hashmap?]]></title>
         <id>https://www.freecodecamp.org/news/what-is-a-java-hashmap/</id>
@@ -1569,119 +1637,6 @@ But what should you do about these mistakes?
 This week I discovered Jen Simmons' "CSS …]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to select the previous sibling of an element (#snippet)]]></title>
-        <id>https://www.stefanjudis.com/snippets/how-to-select-the-previous-sibling/</id>
-        <link href="https://www.stefanjudis.com/snippets/how-to-select-the-previous-sibling/"/>
-        <updated>2022-07-15T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Jim Nielsen blogged about a mind-boggling feature of the new :has() pseudo-class. It's not well supported yet, but this CSS addition unlocks countless use cases that Frontend engineers have been dreaming of for years.
-
-        
-MDN Compat Data (source)
-Browser support info for :has() 
-              
-                
-
-                        
-                      
-                        
-                      
-                        
-                      
-                        
-                      
-                        
-                      
-                        
-                      
-                        
-                      
-                        
-                      
-                
-
-                        
-                        Nein
-                        
-                      
-                        
-                        Nein
-                        
-                      
-                        
-                        Nö
-                        
-                      
-                        
-                        Nope
-                        
-                      
-                        
-                        15.4
-                        
-                      
-                        
-                        Nope
-                        
-                      
-                        
-                        Nope
-                        
-                      
-                        
-                        Nei
-                        
-                      
-                
-
-
-I always thought :has() is only the long-awaited "parent selector", but Jim shared that it's the "previous sibling selector", too! 🤯
-/* 
-  Select every <a> element that's a child of 
-  a <p> element that directly precedes an <hr> element.
-*/
-p:has(+ hr) a { /* ... */ }
-
-If you want to learn more, head over to Jim's blog. It's a great one!
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Infrastructure as Code by Building a Custom Machine Image in AWS]]></title>
-        <id>https://www.freecodecamp.org/news/learn-instructure-as-a-code-by-building-custom-machine-image-in-aws/</id>
-        <link href="https://www.freecodecamp.org/news/learn-instructure-as-a-code-by-building-custom-machine-image-in-aws/"/>
-        <updated>2022-07-15T17:15:48.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone! If you're wondering what infrastructure-as-code means, then you've come to the right place.  In this article I will explain the concepts behind Infrastructure-As-Code (IaC) at a high level and dive into a category of IaC known as server templating.  For the purpose of this article, we]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[strftime() Python – Datetime Format Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/strftime-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/strftime-in-python/"/>
-        <updated>2022-07-15T16:55:14.000Z</updated>
-        <summary type="html"><![CDATA[In Python, you can format date objects and present them in readable form using the strftime function. In this article, I'll show you how. What is strftime() in Python? strftime() is a Python date method you can use to convert dates to strings. It doesn't just convert to strings, but]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Enable and Disable Search Highlights on Windows 11]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-enable-disbale-search-highlights-on-windows-11/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-enable-disbale-search-highlights-on-windows-11/"/>
-        <updated>2022-07-15T16:17:45.000Z</updated>
-        <summary type="html"><![CDATA[Windows 11 is the new operating system from Microsoft. If you've been using it from the beginning after it was just released, then you've already seen some changes. Search highlights are not new for the Windows operating systems as Windows 10 also has the same feature. And you might want]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
         </author>
     </entry>
 </feed>
