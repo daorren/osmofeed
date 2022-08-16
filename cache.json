@@ -12,6 +12,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/improve-aws-performance-without-spending-more-money/",
+          "author": "Zaid Humayun",
+          "description": "Identifying performance issues has always been the holy grail of engineering. You want to be known as the software engineer who's able to diagnose and rectify the performance issue that came up in production. It really adds credibility to your engineering chops. We had an issue at work recently that",
+          "link": "https://www.freecodecamp.org/news/improve-aws-performance-without-spending-more-money/",
+          "publishedOn": "2022-08-15T21:50:26.000Z",
+          "wordCount": 3245,
+          "title": "How to Improve AWS Performance Without Spending More Money",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-howard-adams-575835.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-upgrade-postgres-major-versions-with-near-zero-downtime/",
+          "author": "Wenbin Fang",
+          "description": "It's impossible to create zero-downtime Postgres upgrades across major versions – right? Please, correct me if I’m wrong :)  But at least we’ve found a way to get close to zero downtime.  * PostgreSQL Upgrades are hard!    [https://andreas.scherbaum.la/blog/archives/1116-PostgreSQL-Upgrades-are-hard!.html]  * How Retool upgraded our 4",
+          "link": "https://www.freecodecamp.org/news/how-to-upgrade-postgres-major-versions-with-near-zero-downtime/",
+          "publishedOn": "2022-08-15T21:42:14.000Z",
+          "wordCount": 2422,
+          "title": "How to Upgrade Postgres Major Versions with Near-Zero Downtime – a Practical Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Listen-Score-loves-postgres.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-javascript-by-building-a-project/",
+          "author": "Spruce Emmanuel",
+          "description": "JavaScript allows you to make dynamic web sites. It's the final part of the web development trinity with HTML and CSS, and you use it to make your static pages dynamic. You'll likely start learning JavaScript as soon as you've covered the basics of HTML and CSS. Then, after some",
+          "link": "https://www.freecodecamp.org/news/learn-javascript-by-building-a-project/",
+          "publishedOn": "2022-08-15T20:31:44.000Z",
+          "wordCount": 3150,
+          "title": "Learn JavaScript Basics by Building a Counter Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-antonio-batinic--4164418--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/my-first-year-as-a-professional-developer-tips-for-getting-into-tech/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article I'll share my thoughts on my first year of professional experience as a software developer. It's almost been two years since I got into coding and a year since I became a full-time dev.  I started writing this article merely as a self-reflection exercise.",
+          "link": "https://www.freecodecamp.org/news/my-first-year-as-a-professional-developer-tips-for-getting-into-tech/",
+          "publishedOn": "2022-08-15T20:24:37.000Z",
+          "wordCount": 7529,
+          "title": "My First Year as a Professional Developer – Tips for Getting into Tech",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/jiangxulei1990-feX-KFWRR5o-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-stardew-valley-using-python-and-pygame/",
+          "author": "Beau Carnes",
+          "description": "Stardew Valley is a popular open-ended country-life RPG video game. But instead of just playing the game, why not code your own version of the game? We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to create a Stardew Valley game clone using",
+          "link": "https://www.freecodecamp.org/news/create-stardew-valley-using-python-and-pygame/",
+          "publishedOn": "2022-08-15T18:09:11.000Z",
+          "wordCount": 891,
+          "title": "Create Stardew Valley Using Python and Pygame",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pydew.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-does-a-software-developer-do-software-engineer-career-overview/",
+          "author": "Jessica Wilkins",
+          "description": "If you're studying to become a professional software developer, you might be wondering what a software developer does everyday on the job. In this article, I will talk about the typical day of a software developer and what to expect on the job.  Main Responsibilities of a Software Developer",
+          "link": "https://www.freecodecamp.org/news/what-does-a-software-developer-do-software-engineer-career-overview/",
+          "publishedOn": "2022-08-15T14:11:52.000Z",
+          "wordCount": 1970,
+          "title": "What Does a Software Developer Do? Software Engineer Career Overview",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/desola-lanre-ologun-IgUR1iX0mqM-unsplash.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/what-is-a-java-hashmap/",
           "author": "Ihechikara Vincent Abba",
           "description": "In Java, you use a HashMap to store items in key/value pairs. You can access items stored in a HashMap using the item's key, which is unique for each item.  In this article, we'll talk about the features of a HashMap, how to create a  HashMap, and the",
@@ -989,6 +1049,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=117836",
+          "author": "Leila Sloman",
+          "description": "Two mathematicians have proven Patterson’s conjecture, which was designed to explain a strange pattern in sums involving prime numbers.             \nThe post A Numerical Mystery From the 19th Century Finally Gets Solved first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/a-numerical-mystery-from-the-19th-century-finally-gets-solved-20220815/",
+          "publishedOn": "2022-08-15T14:10:24.000Z",
+          "wordCount": 5632,
+          "title": "A Numerical Mystery From the 19th Century Finally Gets Solved",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Pattersons-Conjecture_1200_Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=117799",
           "author": "Anil Ananthaswamy",
           "description": "Self-supervised learning allows a neural network to figure out for itself what matters. The process might be what makes our own brains so successful.             \nThe post Self-Taught AI Shows Similarities to How the Brain Works first appeared on Quanta Magazine",
@@ -1341,16 +1411,6 @@
           "wordCount": 1240,
           "title": "em and strong are not announced by screen readers (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:em%20and%20strong%20are%20not%20announced%20by%20screen%20readers/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-72/",
-          "author": null,
-          "description": "Hello, hello party people! 👋\n\nHave you ever wondered why it's currentColor and not current-color in CSS? Or why it's border-radius and not corner-radius? Or why we have to put * { box-sizing: border-box; } into every stylesheet?\nThe answer is simple: designing a programming language is incredibly hard. And it's even harder considering that every addition will stay on the web platform forever.\nOnce a feature is out there, people start using it, and that's it then. Removing or changing functionality would break the web, and we can't do this!\nEvery few months, I come across the Incomplete List of Mistakes in the Design of CSS. The list includes confusing CSS features that are just that: confusing mistakes.\nBut what should you do about these mistakes?\nThis week I discovered Jen Simmons' \"CSS …",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-72/",
-          "publishedOn": "2022-07-16T22:00:00.000Z",
-          "wordCount": 2051,
-          "title": "Web Weekly #72 (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252372/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
         }
       ]
     },
