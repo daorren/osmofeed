@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-16T02:10:12.505Z</updated>
+    <updated>2022-08-17T02:23:30.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Open Source? How to Contribute to OSS Projects]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-open-source-software/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-open-source-software/"/>
+        <updated>2022-08-16T20:23:53.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll talk about open source software. Open source software is often considered free software.  In this article, I'll give a high-level explanation of what open source software (OSS) really is, its advantages in the modern technological world, how to use it, and some best practices to]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Image Centering – How to Center an Image in a Div]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-center-an-image-in-a-div-css/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-center-an-image-in-a-div-css/"/>
+        <updated>2022-08-16T19:32:10.000Z</updated>
+        <summary type="html"><![CDATA[When you're working on the front-end of a web page, you sometimes need to center an image within a div (container). This can become tricky at times. And based on certain conditions, a particular method may not work at some point, leaving you searching for alternatives. In this article, you]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Regular Expressions in JavaScript – Tutorial for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/regular-expressions-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/regular-expressions-for-beginners/"/>
+        <updated>2022-08-16T17:51:48.000Z</updated>
+        <summary type="html"><![CDATA[Regular expressions (regex) are a useful programming tool. They are key to efficient text processing. Knowing how to solve problems using regex is helpful to you as a developer and improves your productivity.  In this article, you will learn about the fundamentals of regular expressions, regular expression pattern notation,]]></summary>
+        <author>
+            <name>Chinwendu Enyinna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP vs HTTPS – What's the Difference?]]></title>
+        <id>https://www.freecodecamp.org/news/http-vs-https/</id>
+        <link href="https://www.freecodecamp.org/news/http-vs-https/"/>
+        <updated>2022-08-16T17:47:14.000Z</updated>
+        <summary type="html"><![CDATA[We interact with HTTP and HTTPS a lot in our day-to-day lives, but many people don't know the difference. Most computer users just see that the browser is telling them their application is not safe and that a hacker might want to steal their important information. This leads to users]]></summary>
+        <author>
+            <name>Annoh Karlgusta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Delete Remote Branch – How to Remove a Remote Branch in Git]]></title>
+        <id>https://www.freecodecamp.org/news/git-delete-remote-branch/</id>
+        <link href="https://www.freecodecamp.org/news/git-delete-remote-branch/"/>
+        <updated>2022-08-16T17:20:10.000Z</updated>
+        <summary type="html"><![CDATA[When you're working with Git, you might want to delete remote branches pushed to a platform like GitHub for various reasons. In this article, I will show you how to delete a remote branch in Git. But firstly, let’s look at how to delete a local branch. I’ll use Git]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physics Duo Finds Magic in Two Dimensions]]></title>
+        <id>https://www.quantamagazine.org/?p=117870</id>
+        <link href="https://www.quantamagazine.org/physics-duo-finds-magic-in-two-dimensions-20220816/"/>
+        <updated>2022-08-16T15:45:49.000Z</updated>
+        <summary type="html"><![CDATA[In exploring a family of two-dimensional crystals, a husband-and-wife team is uncovering a potent variety of new electron behaviors.            
+The post Physics Duo Finds Magic in Two Dimensions first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Charlie Wood</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Improve AWS Performance Without Spending More Money]]></title>
         <id>https://www.freecodecamp.org/news/improve-aws-performance-without-spending-more-money/</id>
@@ -595,6 +656,44 @@ The Go Team
 Debug Go Apps Without Stopping The…]]></summary>
         <author>
             <name>Golang Weekly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New in VS Code – Sticky Scroll (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/new-in-vs-code-sticky-scroll/</id>
+        <link href="https://www.stefanjudis.com/blog/new-in-vs-code-sticky-scroll/"/>
+        <updated>2022-08-04T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The VS Code 1.70 release notes share a new nifty experimental editor feature – sticky scroll!
+Find and enable "Sticky Scroll" in your VS Code settings.
+Or add the following line to your settings.json:
+{
+  "editor.experimental.stickyScroll.enabled": true
+}
+
+And now, see your JavaScript function signatures stick on the top.
+Scrolling in VS Code showing that function signatures stick at the top.
+      
+    
+You might argue now that for JavaScript it's an unnecessary editor feature because if you write clean code with short functions, you won't need it. But a) I'm always happy about pretty editor UI features and b) it works for other file formats such as json, css or yaml, too.
+After sharing this feature on Twitter, Elio Struyf pointed out that you can also configure the sticky element's background color. 🎉
+{
+  "workbench.colorCustomizations": {
+    "editorStickyScroll.background": "#D44",
+    "editorStickyScrollHover.background": "#A00"
+  }
+}
+
+It might need a little tweaking to make it work with your color theme, though. 🙈
+VS Code with colored sticky function signatures.
+      
+    
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
@@ -1641,56 +1740,6 @@ The post How the ‘Diamond of the Plant World’ Helped Land Plants Evolve firs
 The post Computer Science Proof Unveils Unexpected Form of Entanglement first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Mordechai Rorvig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is DevTestOps? How to Combine DevOps and TestOps to Build Better Products]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-devtestops/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-devtestops/"/>
-        <updated>2022-07-18T14:22:13.000Z</updated>
-        <summary type="html"><![CDATA[Technology is always improving, and developers are always trying to find easier and better ways to improve the software. This is how DevOps came to be, and over time DevTestOps emerged as a new strategy. Today, companies like Spotify apply DevTestOps in software production which makes it easier for them]]></summary>
-        <author>
-            <name>Ezinne Anne Emilia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typeerror: int object is not callable – How to Fix in Python]]></title>
-        <id>https://www.freecodecamp.org/news/typeerror-int-object-is-not-callable-how-to-fix-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/typeerror-int-object-is-not-callable-how-to-fix-in-python/"/>
-        <updated>2022-07-18T14:10:48.000Z</updated>
-        <summary type="html"><![CDATA[In Python, a “Typeerror” occurs when you use different data types in an operation. For example, if you attempt to divide an integer (number) by a string, it leads to a typeerror because an integer data type is not the same as a string. One of those type errors is]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Push into an Array in JavaScript – How to Insert an Element into an Array in JS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-insert-an-element-into-an-array-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-insert-an-element-into-an-array-in-javascript/"/>
-        <updated>2022-07-18T14:09:34.000Z</updated>
-        <summary type="html"><![CDATA[The array datatype is one of the most commonly used datatypes when you're working with an ordered list of values. Each value is referred to as an element with a unique id. It stores elements of various datatypes that you can access through a single variable. In practice, an array]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — A mass Dunning-Kruger event]]></title>
-        <id>62c9f67ba9d2353cca424d0d</id>
-        <link href="https://labnotes.org/weekend-reading-a-mass-dunning-kruger-event/"/>
-        <updated>2022-07-17T18:22:06.000Z</updated>
-        <summary type="html"><![CDATA[This week we JavaScript in space, sell more cyber, declare a mass Dunning-Kruger event, read Yoko Ono's Tweets, and meet the duck god of chaos.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Animate Your Git Commit History with git-story]]></title>
-        <id>https://www.freecodecamp.org/news/animate-your-git-repo-with-git-story/</id>
-        <link href="https://www.freecodecamp.org/news/animate-your-git-repo-with-git-story/"/>
-        <updated>2022-07-17T17:07:24.000Z</updated>
-        <summary type="html"><![CDATA[It is often useful for developers to visualize aspects of their code projects. This is especially true for version control systems like Git, where understanding the team's workflow is essential. One way to approach this in Git is to draw a graph like the one you see above. You've probably]]></summary>
-        <author>
-            <name>Jacob Stopak</name>
         </author>
     </entry>
 </feed>

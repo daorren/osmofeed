@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/what-is-open-source-software/",
+          "author": "Destiny Erhabor",
+          "description": "In this article, we'll talk about open source software. Open source software is often considered free software.  In this article, I'll give a high-level explanation of what open source software (OSS) really is, its advantages in the modern technological world, how to use it, and some best practices to",
+          "link": "https://www.freecodecamp.org/news/what-is-open-source-software/",
+          "publishedOn": "2022-08-16T20:23:53.000Z",
+          "wordCount": 3929,
+          "title": "What is Open Source? How to Contribute to OSS Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-ben-taylor-109998.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-center-an-image-in-a-div-css/",
+          "author": "Joel Olawanle",
+          "description": "When you're working on the front-end of a web page, you sometimes need to center an image within a div (container). This can become tricky at times. And based on certain conditions, a particular method may not work at some point, leaving you searching for alternatives. In this article, you",
+          "link": "https://www.freecodecamp.org/news/how-to-center-an-image-in-a-div-css/",
+          "publishedOn": "2022-08-16T19:32:10.000Z",
+          "wordCount": 2099,
+          "title": "CSS Image Centering – How to Center an Image in a Div",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/regular-expressions-for-beginners/",
+          "author": "Chinwendu Enyinna",
+          "description": "Regular expressions (regex) are a useful programming tool. They are key to efficient text processing. Knowing how to solve problems using regex is helpful to you as a developer and improves your productivity.  In this article, you will learn about the fundamentals of regular expressions, regular expression pattern notation,",
+          "link": "https://www.freecodecamp.org/news/regular-expressions-for-beginners/",
+          "publishedOn": "2022-08-16T17:51:48.000Z",
+          "wordCount": 3459,
+          "title": "How to Use Regular Expressions in JavaScript – Tutorial for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/regex-image-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/http-vs-https/",
+          "author": "Annoh Karlgusta",
+          "description": "We interact with HTTP and HTTPS a lot in our day-to-day lives, but many people don't know the difference. Most computer users just see that the browser is telling them their application is not safe and that a hacker might want to steal their important information. This leads to users",
+          "link": "https://www.freecodecamp.org/news/http-vs-https/",
+          "publishedOn": "2022-08-16T17:47:14.000Z",
+          "wordCount": 2955,
+          "title": "HTTP vs HTTPS – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/HTTP-VS-HTTPS.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/git-delete-remote-branch/",
+          "author": "Kolade Chris",
+          "description": "When you're working with Git, you might want to delete remote branches pushed to a platform like GitHub for various reasons. In this article, I will show you how to delete a remote branch in Git. But firstly, let’s look at how to delete a local branch. I’ll use Git",
+          "link": "https://www.freecodecamp.org/news/git-delete-remote-branch/",
+          "publishedOn": "2022-08-16T17:20:10.000Z",
+          "wordCount": 1162,
+          "title": "Git Delete Remote Branch – How to Remove a Remote Branch in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/direction-2320124_1920.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/improve-aws-performance-without-spending-more-money/",
           "author": "Zaid Humayun",
           "description": "Identifying performance issues has always been the holy grail of engineering. You want to be known as the software engineer who's able to diagnose and rectify the performance issue that came up in production. It really adds credibility to your engineering chops. We had an issue at work recently that",
@@ -1000,46 +1050,6 @@
           "wordCount": 1573,
           "title": "How to Use Puppeteer With Node.js",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pup.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-devtestops/",
-          "author": "Ezinne Anne Emilia",
-          "description": "Technology is always improving, and developers are always trying to find easier and better ways to improve the software. This is how DevOps came to be, and over time DevTestOps emerged as a new strategy. Today, companies like Spotify apply DevTestOps in software production which makes it easier for them",
-          "link": "https://www.freecodecamp.org/news/what-is-devtestops/",
-          "publishedOn": "2022-07-18T14:22:13.000Z",
-          "wordCount": 1763,
-          "title": "What is DevTestOps? How to Combine DevOps and TestOps to Build Better Products",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/DEVTESTOPS_1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/typeerror-int-object-is-not-callable-how-to-fix-in-python/",
-          "author": "Kolade Chris",
-          "description": "In Python, a “Typeerror” occurs when you use different data types in an operation. For example, if you attempt to divide an integer (number) by a string, it leads to a typeerror because an integer data type is not the same as a string. One of those type errors is",
-          "link": "https://www.freecodecamp.org/news/typeerror-int-object-is-not-callable-how-to-fix-in-python/",
-          "publishedOn": "2022-07-18T14:10:48.000Z",
-          "wordCount": 1288,
-          "title": "Typeerror: int object is not callable – How to Fix in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/typeerror.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-insert-an-element-into-an-array-in-javascript/",
-          "author": "Joel Olawanle",
-          "description": "The array datatype is one of the most commonly used datatypes when you're working with an ordered list of values. Each value is referred to as an element with a unique id. It stores elements of various datatypes that you can access through a single variable. In practice, an array",
-          "link": "https://www.freecodecamp.org/news/how-to-insert-an-element-into-an-array-in-javascript/",
-          "publishedOn": "2022-07-18T14:09:34.000Z",
-          "wordCount": 1817,
-          "title": "Push into an Array in JavaScript – How to Insert an Element into an Array in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/animate-your-git-repo-with-git-story/",
-          "author": "Jacob Stopak",
-          "description": "It is often useful for developers to visualize aspects of their code projects. This is especially true for version control systems like Git, where understanding the team's workflow is essential. One way to approach this in Git is to draw a graph like the one you see above. You've probably",
-          "link": "https://www.freecodecamp.org/news/animate-your-git-repo-with-git-story/",
-          "publishedOn": "2022-07-17T17:07:24.000Z",
-          "wordCount": 1978,
-          "title": "How to Animate Your Git Commit History with git-story",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/git-story-image.png"
         }
       ]
     },
@@ -1048,6 +1058,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=117870",
+          "author": "Charlie Wood",
+          "description": "In exploring a family of two-dimensional crystals, a husband-and-wife team is uncovering a potent variety of new electron behaviors.            \nThe post Physics Duo Finds Magic in Two Dimensions first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/physics-duo-finds-magic-in-two-dimensions-20220816/",
+          "publishedOn": "2022-08-16T15:45:49.000Z",
+          "wordCount": 18319,
+          "title": "Physics Duo Finds Magic in Two Dimensions",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/MakShan_1200_social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=117836",
           "author": "Leila Sloman",
@@ -1294,16 +1314,6 @@
           "wordCount": 1940,
           "title": "Weekend Reading — 10% actual coding",
           "imageUrl": "https://labnotes.org/content/images/2022/07/7cfd813990752668b5f30ccc988a40db7e13b995d55122399259c5cab794b76d-1.png"
-        },
-        {
-          "id": "62c9f67ba9d2353cca424d0d",
-          "author": "Assaf Arkin",
-          "description": "This week we JavaScript in space, sell more cyber, declare a mass Dunning-Kruger event, read Yoko Ono's Tweets, and meet the duck god of chaos.",
-          "link": "https://labnotes.org/weekend-reading-a-mass-dunning-kruger-event/",
-          "publishedOn": "2022-07-17T18:22:06.000Z",
-          "wordCount": 1590,
-          "title": "Weekend Reading — A mass Dunning-Kruger event",
-          "imageUrl": "https://labnotes.org/content/images/2022/07/216364bd.jpg"
         }
       ]
     },
@@ -1351,6 +1361,16 @@
           "wordCount": 2018,
           "title": "Web Weekly #74 (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252374/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
+        },
+        {
+          "id": "https://www.stefanjudis.com/blog/new-in-vs-code-sticky-scroll/",
+          "author": null,
+          "description": "The VS Code 1.70 release notes share a new nifty experimental editor feature – sticky scroll!\nFind and enable \"Sticky Scroll\" in your VS Code settings.\nOr add the following line to your settings.json:\n{\n  \"editor.experimental.stickyScroll.enabled\": true\n}\n\nAnd now, see your JavaScript function signatures stick on the top.\nScrolling in VS Code showing that function signatures stick at the top.\n      \n    \nYou might argue now that for JavaScript it's an unnecessary editor feature because if you write clean code with short functions, you won't need it. But a) I'm always happy about pretty editor UI features and b) it works for other file formats such as json, css or yaml, too.\nAfter sharing this feature on Twitter, Elio Struyf pointed out that you can also configure the sticky element's background color. 🎉\n{\n  \"workbench.colorCustomizations\": {\n    \"editorStickyScroll.background\": \"#D44\",\n    \"editorStickyScrollHover.background\": \"#A00\"\n  }\n}\n\nIt might need a little tweaking to make it work with your color theme, though. 🙈\nVS Code with colored sticky function signatures.\n      \n    \n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/blog/new-in-vs-code-sticky-scroll/",
+          "publishedOn": "2022-08-04T22:00:00.000Z",
+          "wordCount": 1262,
+          "title": "New in VS Code – Sticky Scroll (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:New%20in%20VS%20Code%20%E2%80%93%20Sticky%20Scroll/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         },
         {
           "id": "https://www.stefanjudis.com/blog/new-in-vs-code-sticky-function-signatures/",
