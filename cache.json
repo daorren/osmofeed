@@ -980,26 +980,6 @@
           "wordCount": 921,
           "title": "Easily create a website using Elementor and WordPress",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/maxresdefault-2.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-does-double-slash-mean-in-python/",
-          "author": "Kolade Chris",
-          "description": "In Python, you use the double slash // operator to perform floor division. This  // operator divides the first number by the second number and rounds the result down to the nearest integer (or whole number). In this article, I will show you how to use the // operator",
-          "link": "https://www.freecodecamp.org/news/what-does-double-slash-mean-in-python/",
-          "publishedOn": "2022-07-21T15:30:37.000Z",
-          "wordCount": 1482,
-          "title": "What Does // Mean in Python? Operators in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/doubleSlash.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/typeerror-string-indices-must-be-integers-how-to-fix-in-python/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In Python, there are certain iterable objects – lists, tuples, and strings – whose items or characters can be accessed using their index numbers.  For example, to access the first character in a string, you'd do something like this: greet = \"Hello World!\" print(greet[0]) # H To access the",
-          "link": "https://www.freecodecamp.org/news/typeerror-string-indices-must-be-integers-how-to-fix-in-python/",
-          "publishedOn": "2022-07-21T15:18:02.000Z",
-          "wordCount": 1296,
-          "title": "Typeerror: string indices must be integers – How to Fix in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/blake-connally-B3l0g6HLxr8-unsplash.jpg"
         }
       ]
     },
@@ -1197,16 +1177,6 @@
           "wordCount": 6708,
           "title": "Two Weeks In, the Webb Space Telescope Is Reshaping Astronomy",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/07/NGC7496_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=117167",
-          "author": "Patrick Honner",
-          "description": "Mathematicians have been studying the distribution of prime numbers for thousands of years. Recent results about a curious kind of prime offer a new take on how spread out they can be.            \nThe post How Can Infinitely Many Primes Be Infinitely Far Apart? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-can-infinitely-many-primes-be-infinitely-far-apart-20220721/",
-          "publishedOn": "2022-07-21T15:31:23.000Z",
-          "wordCount": 8545,
-          "title": "How Can Infinitely Many Primes Be Infinitely Far Apart?",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/07/Academy_Primes_1200_Social.jpg"
         }
       ]
     },
@@ -1215,6 +1185,16 @@
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
+        {
+          "id": "62f953e32fc3151bca4bebe9",
+          "author": "Assaf Arkin",
+          "description": "This week we keep our code and docs in sync, play Rhythm Nation at the co-working space, ask “who’s Mark?”, and buy more journals.",
+          "link": "https://labnotes.org/weekend-reading-level-5-goose/",
+          "publishedOn": "2022-08-20T23:13:08.000Z",
+          "wordCount": 1948,
+          "title": "Weekend Reading — Level 5 Goose",
+          "imageUrl": "https://labnotes.org/content/images/2022/08/FaiQtLkXkAEJuAL.jpeg"
+        },
         {
           "id": "62eecde711e2e71b266d85fb",
           "author": "Assaf Arkin",
@@ -1407,16 +1387,6 @@
           "publishedOn": "2022-07-29T00:00:00.000Z",
           "wordCount": 890,
           "title": "Let(')s Go play ping pong.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/421",
-          "author": null,
-          "description": "#​421 — July 22, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\n✍️ I've been playing with the OpenAI DALL-E 2 text-to-image generator a lot in the past week and it came up with today's header graphic! I've been amused at some of its creations and have featured some of the oddest blue gophers I could conjure up at the end of this issue ;-)\n__\nYour editor, Peter Cooper\n\n\n    \n    \n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nSteve 'spf13' Francia is Leaving the Go Team — Steve is a highly prolific developer and has contributed a lot to Go so far, whether in work on the core team or in creating Hugo and Cobra. There’s no tasty drama here (sorry) but Steve’s reflections on his time with the Go team and the Go community more broadly are certainly worth a read. Best of luck to him in the future!\nSteve…",
-          "link": "https://golangweekly.com/issues/421",
-          "publishedOn": "2022-07-22T00:00:00.000Z",
-          "wordCount": 875,
-          "title": "An invasion of ML-generated blue gophers.",
           "imageUrl": null
         }
       ]

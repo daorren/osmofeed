@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-20T02:10:19.233Z</updated>
+    <updated>2022-08-21T02:07:32.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Level 5 Goose]]></title>
+        <id>62f953e32fc3151bca4bebe9</id>
+        <link href="https://labnotes.org/weekend-reading-level-5-goose/"/>
+        <updated>2022-08-20T23:13:08.000Z</updated>
+        <summary type="html"><![CDATA[This week we keep our code and docs in sync, play Rhythm Nation at the co-working space, ask “who’s Mark?”, and buy more journals.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Implement a GameKit Leaderboard in SwiftUI]]></title>
         <id>https://www.freecodecamp.org/news/how-to-implement-a-leaderboard-in-swiftui/</id>
@@ -1609,76 +1619,6 @@ Martin Underhill shares more resources on his blog if you want to learn more.
         <summary type="html"><![CDATA[This week we have RVs that fly, monitor 6 packs, more quick takes on AI, naming scheme for heatwaves, and everybody’s a CTO.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An invasion of ML-generated blue gophers.]]></title>
-        <id>https://golangweekly.com/issues/421</id>
-        <link href="https://golangweekly.com/issues/421"/>
-        <updated>2022-07-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​421 — July 22, 2022
-
-
-Unsubscribe  |  Read on the Web
-
-
-
-✍️ I've been playing with the OpenAI DALL-E 2 text-to-image generator a lot in the past week and it came up with today's header graphic! I've been amused at some of its creations and have featured some of the oddest blue gophers I could conjure up at the end of this issue ;-)
-__
-Your editor, Peter Cooper
-
-
-    
-    
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-Steve 'spf13' Francia is Leaving the Go Team — Steve is a highly prolific developer and has contributed a lot to Go so far, whether in work on the core team or in creating Hugo and Cobra. There’s no tasty drama here (sorry) but Steve’s reflections on his time with the Go team and the Go community more broadly are certainly worth a read. Best of luck to him in the future!
-Steve…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Can Infinitely Many Primes Be Infinitely Far Apart?]]></title>
-        <id>https://www.quantamagazine.org/?p=117167</id>
-        <link href="https://www.quantamagazine.org/how-can-infinitely-many-primes-be-infinitely-far-apart-20220721/"/>
-        <updated>2022-07-21T15:31:23.000Z</updated>
-        <summary type="html"><![CDATA[Mathematicians have been studying the distribution of prime numbers for thousands of years. Recent results about a curious kind of prime offer a new take on how spread out they can be.            
-The post How Can Infinitely Many Primes Be Infinitely Far Apart? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Patrick Honner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does // Mean in Python? Operators in Python]]></title>
-        <id>https://www.freecodecamp.org/news/what-does-double-slash-mean-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/what-does-double-slash-mean-in-python/"/>
-        <updated>2022-07-21T15:30:37.000Z</updated>
-        <summary type="html"><![CDATA[In Python, you use the double slash // operator to perform floor division. This  // operator divides the first number by the second number and rounds the result down to the nearest integer (or whole number). In this article, I will show you how to use the // operator]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typeerror: string indices must be integers – How to Fix in Python]]></title>
-        <id>https://www.freecodecamp.org/news/typeerror-string-indices-must-be-integers-how-to-fix-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/typeerror-string-indices-must-be-integers-how-to-fix-in-python/"/>
-        <updated>2022-07-21T15:18:02.000Z</updated>
-        <summary type="html"><![CDATA[In Python, there are certain iterable objects – lists, tuples, and strings – whose items or characters can be accessed using their index numbers.  For example, to access the first character in a string, you'd do something like this: greet = "Hello World!" print(greet[0]) # H To access the]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
         </author>
     </entry>
 </feed>
