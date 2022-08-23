@@ -12,6 +12,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/markdown-cheatsheet/",
+          "author": "Kealan Parr",
+          "description": "As a developer, you have likely heard of HTML [https://en.wikipedia.org/wiki/HTML], which stands for HyperText Markup L anguage. And you may know that HTML is a language used to create websites – but what does  markup mean? Markup languages [https://techterms.com/definition/markup_language] are languages that use tags to define different elements within",
+          "link": "https://www.freecodecamp.org/news/markdown-cheatsheet/",
+          "publishedOn": "2022-08-22T22:16:38.000Z",
+          "wordCount": 1822,
+          "title": "Markdown Cheat Sheet – How to Write Articles in Markdown Language",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Markdown-cheatsheet.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-generate-wordpress-posts-automatically/",
+          "author": "Marco Venturi",
+          "description": "If you run a website, you are aware of the importance of content. It's important for your web presence, to help you be recognized as a leader in your field, to improve your SEO ranking, to increase your audience, and more. WordPress is one of the most popular and widely-used",
+          "link": "https://www.freecodecamp.org/news/how-to-generate-wordpress-posts-automatically/",
+          "publishedOn": "2022-08-22T20:55:16.000Z",
+          "wordCount": 1908,
+          "title": "How to Generate WordPress Posts Automatically with Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-round-to-2-decimal-places-in-python/",
+          "author": "Dillion Megida",
+          "description": "Python provides many math methods for mathematical operations such as square roots, exponents, and so on. In this article, I will show you how to round up a number to a specified decimal place. What is a Decimal Place? Look at this number: 324.89. Each number here has a position",
+          "link": "https://www.freecodecamp.org/news/how-to-round-to-2-decimal-places-in-python/",
+          "publishedOn": "2022-08-22T17:17:58.000Z",
+          "wordCount": 1368,
+          "title": "How to Round to 2 Decimal Places in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/round-up-numbers-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-optimize-nodejs-apis/",
+          "author": "Kayode Adeniyi",
+          "description": "In this article, I will walk you through some of the best methods to optimize APIs written in Node.js. Prerequisites To get the most out of this article, you will need an understanding of the following concepts:  * Node.js setup and installation  * How to build APIs with",
+          "link": "https://www.freecodecamp.org/news/how-to-optimize-nodejs-apis/",
+          "publishedOn": "2022-08-22T17:16:36.000Z",
+          "wordCount": 2473,
+          "title": "How to Optimize Your Node.js API",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-ann-marie-kennon-1296000.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/programming-naming-conventions-explained/",
+          "author": "Farhan Hasin Chowdhury",
+          "description": "If you've been programming for a while, you may have heard the words \"camel case\" or \"pascal case\". And maybe you're wondering what those terms mean. Well, let me explain. What are Naming Conventions in Programming? Apart from the hard and fast rules that we get with every programming language,",
+          "link": "https://www.freecodecamp.org/news/programming-naming-conventions-explained/",
+          "publishedOn": "2022-08-22T15:16:55.000Z",
+          "wordCount": 1353,
+          "title": "Programming Naming Conventions – Camel, Snake, Kebab, and Pascal Case Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Programming-Naming-Conventions-Explained.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/azure-developer-certification-az-204-pass-the-exam-with-this-free-13-5-hour-course/",
+          "author": "Andrew Brown",
+          "description": "You can learn everything you need to know to earn the Azure Developer Certification by completing this free 13-hour course. What is Microsoft Azure Developer Associate? The Microsoft Azure Developer Associate (commonly known as the AZ-204) is a Microsoft Azure certification focused on building web-applications on-top of Azure cloud services.",
+          "link": "https://www.freecodecamp.org/news/azure-developer-certification-az-204-pass-the-exam-with-this-free-13-5-hour-course/",
+          "publishedOn": "2022-08-22T14:51:47.000Z",
+          "wordCount": 1143,
+          "title": "Azure Developer Certification (AZ-204) – Pass the Exam With This Free 13.5-Hour Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/azure.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-implement-a-leaderboard-in-swiftui/",
           "author": "Saamer Mansoor",
           "description": "In this article we will talk about why and how to implement the GameCenter's Leaderboard [https://developer.apple.com/design/human-interface-guidelines/technologies/game-center/leaderboards/]  within your app.  Why GameCenter is Making a Huge Revival You can make iPhone games without a scoreboard, but leaderboards can help make the game feel more competitive, like people are competing",
@@ -989,6 +1049,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=118063",
+          "author": "Joanna Thompson",
+          "description": "By studying how electric organs arose in different lineages of fish, scientists gain new insights into a long-standing question of evolutionary biology.            \nThe post Electric Fish Genomes Reveal How Evolution Repeats Itself first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/electric-fish-genomes-reveal-how-evolution-repeats-itself-20220822/",
+          "publishedOn": "2022-08-22T14:21:37.000Z",
+          "wordCount": 5313,
+          "title": "Electric Fish Genomes Reveal How Evolution Repeats Itself",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Electric-Eel-Evolution_1200_Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=118017",
           "author": "Pradeep Mutalik",
           "description": "In honor of the actor and activist Nichelle Nichols, this month’s puzzle imagines a Star Trek adventure in which her character, Lieutenant Uhura, faces a life-and-death conundrum.            \nThe post Help Star Trek’s Lieutenant Uhura Overcome Astronomical Odds first appeared on Quanta Magazine",
@@ -1224,16 +1294,6 @@
           "wordCount": 1146,
           "title": "Weekend Reading — Suburban Sensationalism",
           "imageUrl": "https://labnotes.org/content/images/2022/07/fef7341686e012d65da071e60323feab60fb2a728a1e428ec93c2bb712a154a8-1.jpeg"
-        },
-        {
-          "id": "62d453a5851e4c353b0279c6",
-          "author": "Assaf Arkin",
-          "description": "This week we have RVs that fly, monitor 6 packs, more quick takes on AI, naming scheme for heatwaves, and everybody’s a CTO.",
-          "link": "https://labnotes.org/weekend-reading-10-actual-coding/",
-          "publishedOn": "2022-07-23T21:06:18.000Z",
-          "wordCount": 1940,
-          "title": "Weekend Reading — 10% actual coding",
-          "imageUrl": "https://labnotes.org/content/images/2022/07/7cfd813990752668b5f30ccc988a40db7e13b995d55122399259c5cab794b76d-1.png"
         }
       ]
     },
@@ -1242,6 +1302,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-76/",
+          "author": null,
+          "description": "Guten Tag! 👋\n\nHow often do you use browser extensions to customize the websites you visit?\nI use Refined GitHub to add tiny little features to the GitHub UI. You install it and forget about it. But then you'll be surprised that GitHub doesn't provide certain features when the extension isn't there — highly recommended!\nTweak new Twitter hides all the ads and removes all these Twitter innovations I don't use. It makes the platform so much more pleasant.\nBut it seems that more and more people are reaching for custom stylesheets these days. Šime Vidas shared how he implemented scroll snapping on Twitter, some folks use custom CSS to prevent themselves from getting lost in HackerNews comments and Eric Meyer blurs Twitter images without ALT text.\nWhat are your little tweaks?\nAnd with this, tod…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-76/",
+          "publishedOn": "2022-08-21T22:00:00.000Z",
+          "wordCount": 2070,
+          "title": "Web Weekly #76 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-75/",
           "author": null,
