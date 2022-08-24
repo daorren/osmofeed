@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-23T02:20:33.995Z</updated>
+    <updated>2022-08-24T02:12:50.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[.gitignore File – How to Ignore Files and Folders in Git]]></title>
+        <id>https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/</id>
+        <link href="https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/"/>
+        <updated>2022-08-23T16:58:02.000Z</updated>
+        <summary type="html"><![CDATA[Git is a popular version control system. It is how developers can collaborate and work together on projects. Git allows you to track the changes you make to your project over time. On top of that, it lets you revert to a previous version if you want to undo a]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Python in Power BI]]></title>
+        <id>https://www.freecodecamp.org/news/python-in-powerbi/</id>
+        <link href="https://www.freecodecamp.org/news/python-in-powerbi/"/>
+        <updated>2022-08-23T16:27:48.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Power BI is a business analytics tool which allows users to gain insight from their data.  You can easily create an interactive dashboard by just dragging and dropping data columns into the visualization plane. In this article, I'll show you how to use Python to help you leverage]]></summary>
+        <author>
+            <name>Yannawut Kimnaruk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chart.js Tutorial – How to Make Bar and Line Charts in Angular]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-make-bar-and-line-charts-using-chartjs-in-angular/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-bar-and-line-charts-using-chartjs-in-angular/"/>
+        <updated>2022-08-23T15:35:01.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial we will learn how to create simple bar and line charts using the Chart.js library in an Angular application. But first of all, what is Chart.js and what does it do? What is Chart.js? Chart.js is a JavaScript library for building charts. It's designed to be intuitive]]></summary>
+        <author>
+            <name>Swatej Patil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Arrays.binarySearch() in Java]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-arrays-binarysearch-in-java/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-arrays-binarysearch-in-java/"/>
+        <updated>2022-08-23T15:31:18.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'm going to show you how to use the Arrays.binarySearch()  method in Java. What is Arrays.binarySearch() in Java?  According to the official docs [https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html#binarySearch(byte[],%20byte)]  on the Arrays.binarySearch() method: > (It) Searches the specified array of bytes for the specified value using the binary search]]></summary>
+        <author>
+            <name>Farhan Hasin Chowdhury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Override Root Font Size to Create a Better User Experience]]></title>
+        <id>https://www.freecodecamp.org/news/override-root-font-size-for-a-better-user-experience/</id>
+        <link href="https://www.freecodecamp.org/news/override-root-font-size-for-a-better-user-experience/"/>
+        <updated>2022-08-23T15:14:55.000Z</updated>
+        <summary type="html"><![CDATA[Back in the day, web developers, front-end engineers, and UI designers had a bit of an easier job. This is because they weren't expected to rearrange their code and designs to fit so many different screen sizes.  But in today's world, if you make a decision that doesn't take]]></summary>
+        <author>
+            <name>Damla Erkiner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Drives Galaxies? The Milky Way’s Black Hole May Be the Key.]]></title>
+        <id>https://www.quantamagazine.org/?p=118110</id>
+        <link href="https://www.quantamagazine.org/what-drives-galaxies-the-milky-ways-black-hole-may-be-the-key-20220823/"/>
+        <updated>2022-08-23T14:26:28.000Z</updated>
+        <summary type="html"><![CDATA[Supermassive black holes have come to the fore as engines of galactic evolution, but new observations of the Milky Way and its central hole don’t yet hang together.            
+The post What Drives Galaxies? The Milky Way’s Black Hole May Be the Key. first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Thomas Lewton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Markdown Cheat Sheet – How to Write Articles in Markdown Language]]></title>
         <id>https://www.freecodecamp.org/news/markdown-cheatsheet/</id>
@@ -1635,68 +1696,6 @@ The post A Question About a Rotating Line Helps Reveal What Makes Real Numbers S
         <summary type="html"><![CDATA[Objects in JavaScript are non-primitive data types that hold an unordered collection of key-value pairs. As you can see in the image above, the key is the property, and each object value must have a key. When interacting with objects, situations might arise that require you to check if a]]></summary>
         <author>
             <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loading a JSON File in Python – How to Read and Parse JSON]]></title>
-        <id>https://www.freecodecamp.org/news/loading-a-json-file-in-python-how-to-read-and-parse-json/</id>
-        <link href="https://www.freecodecamp.org/news/loading-a-json-file-in-python-how-to-read-and-parse-json/"/>
-        <updated>2022-07-25T14:06:45.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how to read and parse JSON in Python. What is JSON? JSON is short for JavaScript Object Notation. It's a simple syntax for storing data in name-value pairs. Values can be different data types as long as they are valid. Non-acceptable types for JSON include]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python find() – How to Search for a Substring in a String]]></title>
-        <id>https://www.freecodecamp.org/news/python-find-how-to-search-for-a-substring-in-a-string/</id>
-        <link href="https://www.freecodecamp.org/news/python-find-how-to-search-for-a-substring-in-a-string/"/>
-        <updated>2022-07-25T13:56:30.000Z</updated>
-        <summary type="html"><![CDATA[When you're working with a Python program, you might need to search for and locate a specific string inside another string. This is where Python's built-in string methods come in handy. In this article, you will learn how to use Python's built-in find() string method to help you search for]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two Weeks In, the Webb Space Telescope Is Reshaping Astronomy]]></title>
-        <id>https://www.quantamagazine.org/?p=117260</id>
-        <link href="https://www.quantamagazine.org/two-weeks-in-the-webb-space-telescope-is-reshaping-astronomy-20220725/"/>
-        <updated>2022-07-25T13:49:34.000Z</updated>
-        <summary type="html"><![CDATA[In the days after the mega-telescope started delivering data, astronomers reported new discoveries about galaxies, stars, exoplanets and even Jupiter.            
-The post Two Weeks In, the Webb Space Telescope Is Reshaping Astronomy first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Jonathan O'Callaghan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easily create a website using Elementor and WordPress]]></title>
-        <id>https://www.freecodecamp.org/news/easily-create-a-website-using-elementor-and-wordpress/</id>
-        <link href="https://www.freecodecamp.org/news/easily-create-a-website-using-elementor-and-wordpress/"/>
-        <updated>2022-07-25T12:57:12.000Z</updated>
-        <summary type="html"><![CDATA[Elementor makes it simple to create a WordPress website using a drag and drop interface. You don't even need any code! We just published an Elementor course on the freeCodeCamp.org YouTube channel that will teach you how to easily create your own website. I created this course. I've also made]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[em and strong are not announced by screen readers (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/em-and-strong-are-not-be-announced-by-screen-readers/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/em-and-strong-are-not-be-announced-by-screen-readers/"/>
-        <updated>2022-07-24T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Semantic HTML is the foundation of accessible websites. Correct and meaningful elements enable assistive technology to provide a site's information in a different form or shape. A screen reader, for example, takes a site and reads it out for the visitor. These cases show why semantic HTML matters!
-And yet here I am after all these years of advocating for using strong (strong importance, seriousness, or urgency) and em (stress emphasis) instead of b (bold) and i (idiomatic text – italic), only to learn that screen readers don't announce strong or em.
-And while I'm not a daily screen reader user, and VoiceOver isn't the only one out there, a quick test on my Mac proves it.
-Screen reader example not announcing strong or em elements.
-      
-    
-Martin Underhill shares more resources on his blog if you want to learn more.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
