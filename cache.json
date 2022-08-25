@@ -12,6 +12,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-dual-boot-windows-10-and-ubuntu-linux-dual-booting-tutorial/",
+          "author": "Kolade Chris",
+          "description": "You don’t have to have two different computers to use Linux and Windows 10. It's possible to have a Linux distro installed on a computer with Windows 10 preinstalled. In this article, I will show you how to dual boot Windows 10 and the popular Ubuntu Linux distro. But before",
+          "link": "https://www.freecodecamp.org/news/how-to-dual-boot-windows-10-and-ubuntu-linux-dual-booting-tutorial/",
+          "publishedOn": "2022-08-24T20:09:09.000Z",
+          "wordCount": 2200,
+          "title": "How to Dual Boot Windows 10 and Ubuntu – Linux Dual Booting Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/dualBoot--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/top-python-concepts-for-data-science/",
+          "author": "Ibrahim Abayomi Ogunbiyi",
+          "description": "If you're interested in learning data science, you've likely heard the buzzword  \"Python,\". It's a popular programming language often used in data science.  But Python is a general-purpose programming language. This means that it's not limited to data science alone. You can use it to develop web and",
+          "link": "https://www.freecodecamp.org/news/top-python-concepts-for-data-science/",
+          "publishedOn": "2022-08-24T17:53:30.000Z",
+          "wordCount": 4778,
+          "title": "Top Python Concepts to Know Before Learning Data Science",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/python-data-science-concepts.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/frontend-web-developer-bootcamp/",
+          "author": "Beau Carnes",
+          "description": "There are a lot of jobs available for frontend web developers. And you can learn all the skills you need to know without paying anything. You probably already know about freeCodeCamp's free interactive curriculum [https://freecodecamp.org] that will teach you the skills you need to become a fullstack web developer. But",
+          "link": "https://www.freecodecamp.org/news/frontend-web-developer-bootcamp/",
+          "publishedOn": "2022-08-24T17:32:45.000Z",
+          "wordCount": 969,
+          "title": "Frontend Web Developer 21-Hour Bootcamp",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/frontend.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-date-format-how-to-format-a-date-in-js/",
+          "author": "Joel Olawanle",
+          "description": "JavaScript is one of the three fundamental web technologies you'll use when developing websites or web applications. When creating these web pages, you will, at some point, likely need to use dates for some reason – such as displaying when something was uploaded, stored, and so on. In this article,",
+          "link": "https://www.freecodecamp.org/news/javascript-date-format-how-to-format-a-date-in-js/",
+          "publishedOn": "2022-08-24T15:25:15.000Z",
+          "wordCount": 1710,
+          "title": "JavaScript Date Format – How to Format a Date in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template--2-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-otp-input-vue-3/",
+          "author": "Paul Akinyemi",
+          "description": "OTP inputs are one of the most fun components you can use in your app. They make the dry process of filling in yet another form a little more engaging. In this article, you’ll learn how to build an OTP input from scratch in Vue 3. By the end of",
+          "link": "https://www.freecodecamp.org/news/create-otp-input-vue-3/",
+          "publishedOn": "2022-08-24T15:00:18.000Z",
+          "wordCount": 2366,
+          "title": "How to Build an OTP Input in Vue 3",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/otp-article-header.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/5-linux-utilities-for-better-programming-workflow/",
+          "author": "Rishabh Rawat",
+          "description": "Working as a Software Developer, there are always new tools and frameworks coming out that can completely change your workflows – for the better (or worse?).  Either way, there is always the possibility to optimize how you do things day-to-day. This article contains some Linux utilities that have recently",
+          "link": "https://www.freecodecamp.org/news/5-linux-utilities-for-better-programming-workflow/",
+          "publishedOn": "2022-08-24T11:55:00.000Z",
+          "wordCount": 1624,
+          "title": "5 Linux Utilities to Improve Your Programming Workflow in 2022",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/linux-shell-utilities-cover.jpeg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/",
           "author": "Dionysia Lemonaki",
           "description": "Git is a popular version control system. It is how developers can collaborate and work together on projects. Git allows you to track the changes you make to your project over time. On top of that, it lets you revert to a previous version if you want to undo a",
@@ -1030,36 +1090,6 @@
           "wordCount": 1367,
           "title": "Python List Sorting – How to Order Lists in Python",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/sort-list-in-python.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-start-using-mongodb/",
-          "author": "Valentine Gatwiri",
-          "description": "MongoDB is an increasingly popular open source NoSQL database. And it has many advantages over traditional SQL databases.  It offers high scalability, reliability, and performance even with a huge amount of data.  This article covers the basics that you need to know to get started with MongoDB and",
-          "link": "https://www.freecodecamp.org/news/how-to-start-using-mongodb/",
-          "publishedOn": "2022-07-25T21:42:56.000Z",
-          "wordCount": 1403,
-          "title": "How to Start Using MongoDB – Database Setup for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-tom-fisk-3285715.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/object-object-in-javascript-meaning-in-js/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When working with objects in JavaScript, you may have come across the [object, object] output. While this may seem irrelevant, it's not necessarily an error.  [object, object] is the string representation of a JavaScript object data type. You'll understand better as we go further in this article. There are",
-          "link": "https://www.freecodecamp.org/news/object-object-in-javascript-meaning-in-js/",
-          "publishedOn": "2022-07-25T14:30:52.000Z",
-          "wordCount": 1196,
-          "title": "[object, object] in JavaScript – Meaning in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/clement-helardot-95YRwf6CNw8-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-check-if-an-object-has-a-key-in-javascript/",
-          "author": "Joel Olawanle",
-          "description": "Objects in JavaScript are non-primitive data types that hold an unordered collection of key-value pairs. As you can see in the image above, the key is the property, and each object value must have a key. When interacting with objects, situations might arise that require you to check if a",
-          "link": "https://www.freecodecamp.org/news/how-to-check-if-an-object-has-a-key-in-javascript/",
-          "publishedOn": "2022-07-25T14:24:55.000Z",
-          "wordCount": 1501,
-          "title": "JavaScript Key in Object – How to Check if an Object has a Key in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template--3-.jpg"
         }
       ]
     },
@@ -1068,6 +1098,26 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=118235",
+          "author": "Steven Strogatz",
+          "description": "Dreams are subjective, but there are ways to peer into the minds of people while they are dreaming. Steven Strogatz speaks with sleep researcher Antonio Zadra about how new experimental methods have changed our understanding of dreams.            \nThe post Why and How Do We Dream? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/why-and-how-do-we-dream-20220824/",
+          "publishedOn": "2022-08-24T19:56:35.000Z",
+          "wordCount": 17788,
+          "title": "Why and How Do We Dream?",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/JoY_Dreams_1200_social_LOGO.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=118203",
+          "author": "Jordana Cepelewicz",
+          "description": "Two researchers have broken an encryption protocol that many saw as a promising defense against the power of quantum computing.            \nThe post ‘Post-Quantum’ Cryptography Scheme Is Cracked on a Laptop first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/post-quantum-cryptography-scheme-is-cracked-on-a-laptop-20220824/",
+          "publishedOn": "2022-08-24T13:51:57.000Z",
+          "wordCount": 5408,
+          "title": "‘Post-Quantum’ Cryptography Scheme Is Cracked on a Laptop",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Broken-Encryption_1200_Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=118110",
           "author": "Thomas Lewton",
@@ -1257,16 +1307,6 @@
           "wordCount": 5288,
           "title": "Hidden Chaos Found to Lurk in Ecosystems",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/07/Chaos-Ecosystems_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=117249",
-          "author": "Kevin Hartnett",
-          "description": "The Kakeya conjecture predicts how much room you need to point a line in every direction. In one number system after another — with one important exception — mathematicians have been proving it true.             \nThe post A Question About a Rotating Line Helps Reveal What Makes Real Numbers Special first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/new-number-systems-point-geometry-problem-toward-a-real-solution-20220726/",
-          "publishedOn": "2022-07-26T14:05:04.000Z",
-          "wordCount": 7164,
-          "title": "A Question About a Rotating Line Helps Reveal What Makes Real Numbers Special",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/07/Kakeya_1200_Social.jpg"
         }
       ]
     },
