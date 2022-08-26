@@ -12,6 +12,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/what-is-a-relational-database-rdbms-definition/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "A relational database is a type of database that stores data in tables made up of rows and columns. Each table represents a specific object in the database like users, products, orders, and so on.  The term \"relational\" is the main characteristic feature that makes relational databases unique. This",
+          "link": "https://www.freecodecamp.org/news/what-is-a-relational-database-rdbms-definition/",
+          "publishedOn": "2022-08-25T22:51:46.000Z",
+          "wordCount": 1951,
+          "title": "What is a Relational Database? RDBMS Definition",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/guerrillabuzz-crypto-pr-IlUq1ruyv0Q-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-games-with-love-2d-and-lua/",
+          "author": "Beau Carnes",
+          "description": "The Lua programming language is becoming increasingly popular for game development. And the LÖVE 2D game engine makes it simpler to create games using Lua.  We just published a full 11-hour game development course on the freeCodeCamp.org YouTube channel that will teach you how to create games using LÖVE",
+          "link": "https://www.freecodecamp.org/news/create-games-with-love-2d-and-lua/",
+          "publishedOn": "2022-08-25T13:28:45.000Z",
+          "wordCount": 946,
+          "title": "Create Games with LÖVE 2D and Lua",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/lua.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-dual-boot-windows-10-and-ubuntu-linux-dual-booting-tutorial/",
           "author": "Kolade Chris",
           "description": "You don’t have to have two different computers to use Linux and Windows 10. It's possible to have a Linux distro installed on a computer with Windows 10 preinstalled. In this article, I will show you how to dual boot Windows 10 and the popular Ubuntu Linux distro. But before",
@@ -1030,66 +1050,6 @@
           "wordCount": 2994,
           "title": "What is Redux? Store, Actions, and Reducers Explained for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Group-60.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we're going to talk about a very interesting, vast, and complex topic: software architecture. This is something that used to confuse me quite a bit when I was starting to code. So in this article I'll try to give you a simple, surface-level, easy to",
-          "link": "https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/",
-          "publishedOn": "2022-07-26T21:25:08.000Z",
-          "wordCount": 6818,
-          "title": "The Software Architecture Handbook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels----3172740.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-terraform-by-deploying-jenkins-server-on-aws/",
-          "author": "Destiny Erhabor",
-          "description": "Hello, everyone! Today we're going to learn about Terraform by building a project. Terraform is more than just a tool to boost the productivity of operations teams. You have the chance to transform your developers into operators by implementing Terraform. This can help increase the efficiency of your entire engineering",
-          "link": "https://www.freecodecamp.org/news/learn-terraform-by-deploying-jenkins-server-on-aws/",
-          "publishedOn": "2022-07-26T18:03:50.000Z",
-          "wordCount": 4628,
-          "title": "Learn Terraform by Deploying a Jenkins Server on AWS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-pok-rie-2003885.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/test-driven-development-tutorial-how-to-test-javascript-and-reactjs-app/",
-          "author": "Oluwatobi Sofela",
-          "description": "Understanding test-driven development is an essential part of being a prolific software developer. Testing provides a solid platform for building reliable programs. This tutorial will show you all you need to implement test-driven development in your JavaScript and React applications. Table of Contents  1.  What Is Test-Driven Development?",
-          "link": "https://www.freecodecamp.org/news/test-driven-development-tutorial-how-to-test-javascript-and-reactjs-app/",
-          "publishedOn": "2022-07-26T17:51:22.000Z",
-          "wordCount": 5181,
-          "title": "Test-Driven Development Tutorial – How to Test Your JavaScript and ReactJS Applications",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/test-driven-development-tutorial-how-to-test-javascript-and-reactjs-app-codesweetly-battlecreek-coffee-roasters-i22gbC3gFm4-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-save-and-exit-nano-in-terminal-nano-quit-command/",
-          "author": "Kolade Chris",
-          "description": "Nano is a command line-based code editor known for its simplicity compared to other editors like Vim and Emacs. But if you are new to Nano, performing basic operations like creating files, saving the file, and exiting the editor might be confusing. So, in this article, I want to show",
-          "link": "https://www.freecodecamp.org/news/how-to-save-and-exit-nano-in-terminal-nano-quit-command/",
-          "publishedOn": "2022-07-26T16:57:06.000Z",
-          "wordCount": 1080,
-          "title": "How to Save and Exit Nano in Terminal – Nano Quit Command",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/nano.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/flat-and-flatmap-javascript-array-methods/",
-          "author": "Kenechukwu Nwobodo",
-          "description": "In this article I'm going to explain how to use the new array methods introduced in ES2019 (EcmaScript 2019) – flat() and flatMap(). You use these methods to flatten arrays. The methods are very useful and easy to use. It will really be cool to use these methods in your",
-          "link": "https://www.freecodecamp.org/news/flat-and-flatmap-javascript-array-methods/",
-          "publishedOn": "2022-07-26T16:47:22.000Z",
-          "wordCount": 1934,
-          "title": "How to Use the flat() and flatMap() Methods to Flatten Arrays in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/js-map-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-list-sorting-how-to-order-lists-in-python/",
-          "author": "Dillion Megida",
-          "description": "There are many reasons you might want to sort lists in your Python applications. In this article, I'll show you how to order lists in ascending and descending order depending on what you need to do. What is a List in Python? A list is a data type in Python",
-          "link": "https://www.freecodecamp.org/news/python-list-sorting-how-to-order-lists-in-python/",
-          "publishedOn": "2022-07-26T16:31:59.000Z",
-          "wordCount": 1367,
-          "title": "Python List Sorting – How to Order Lists in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/sort-list-in-python.png"
         }
       ]
     },
@@ -1098,6 +1058,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=118254",
+          "author": "Jordana Cepelewicz",
+          "description": "Eric Larson and Isabel Vogt have solved the interpolation problem — a centuries-old question about some of the most basic objects in geometry. Some credit goes to the chalkboard in their living room.            \nThe post Old Problem About Mathematical Curves Falls to Young Couple first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/old-problem-about-algebraic-curves-falls-to-young-mathematicians-20220825/",
+          "publishedOn": "2022-08-25T14:38:10.000Z",
+          "wordCount": 8384,
+          "title": "Old Problem About Mathematical Curves Falls to Young Couple",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Curves_1200_social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=118235",
           "author": "Steven Strogatz",
@@ -1297,16 +1267,6 @@
           "wordCount": 14536,
           "title": "Why Do We Get Old, and Can Aging Be Reversed?",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/07/JoW_Aging_1200_Social_LOGO.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=117326",
-          "author": "Joanna Thompson",
-          "description": "New research finds that chaos plays a bigger role in population dynamics than decades of ecological data seemed to suggest.            \nThe post Hidden Chaos Found to Lurk in Ecosystems first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/hidden-chaos-found-to-lurk-in-ecosystems-20220727/",
-          "publishedOn": "2022-07-27T13:29:09.000Z",
-          "wordCount": 5288,
-          "title": "Hidden Chaos Found to Lurk in Ecosystems",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/07/Chaos-Ecosystems_1200_Social.jpg"
         }
       ]
     },
@@ -1461,16 +1421,6 @@
           "wordCount": 1458,
           "title": "Import maps will improve cache busting (#note)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Import%20maps%20will%20improve%20cache%20busting/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/the-css-quantity-query-with-nth-last-child/",
-          "author": null,
-          "description": "Just parking this CSS snippet on my blog for my future self. 🙈\nIf you want to select elements only when there's a given number of them, you can use a :nth-last-child() selector combination.\nThe following selector combination is called a \"quantity query\".\nli:nth-last-child(n+3),\nli:nth-last-child(3) ~ li {\n  color: red;\n}\n\nSee it in action below. 👇\n[Interactive component: visit the article to see it...]\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/snippets/the-css-quantity-query-with-nth-last-child/",
-          "publishedOn": "2022-07-26T22:00:00.000Z",
-          "wordCount": 1618,
-          "title": "The CSS quantity query with :nth-last-child() (#snippet)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:The%20CSS%20quantity%20query%20with%20%3Anth-last-child()/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
