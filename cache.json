@@ -12,6 +12,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/java-scanner-nextline-call-gets-skipped-solved/",
+          "author": "Farhan Hasin Chowdhury",
+          "description": "There's a common error that tends to stump new Java programmers. It happens when you group together a bunch of input prompts and one of the scanner.nextLine()  method calls gets skipped – without any signs of failure or error. Take a look at the following code snippet, for example:",
+          "link": "https://www.freecodecamp.org/news/java-scanner-nextline-call-gets-skipped-solved/",
+          "publishedOn": "2022-08-26T21:01:37.000Z",
+          "wordCount": 1496,
+          "title": "Java scanner.nextLine() Method Call Gets Skipped Error [SOLVED]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/java-scanner-nextline-call-gets-skipped-solved.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-to-lowercase-a-string-str-lower-example/",
+          "author": "Dillion Megida",
+          "description": "Strings can be in different formats such as lowercase, capitalized, and uppercase. In this article, I'll show you how to convert a string to lowercase in Python. A lowercase string has all its characters in small letters. An example is python . A capitalized string has the first letter of",
+          "link": "https://www.freecodecamp.org/news/python-to-lowercase-a-string-str-lower-example/",
+          "publishedOn": "2022-08-26T20:12:09.000Z",
+          "wordCount": 1147,
+          "title": "Python to Lowercase a String – str.lower() Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/string-lowercase.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/html-textarea-how-to-add-text-box-to-your-website/",
+          "author": "Joel Olawanle",
+          "description": "A text box is a section of your website where users can enter text. A blinking cursor appears when you click or tap on or inside the text box, indicating that you are ready to begin typing. And an on-screen keyboard will appear if you're using a tablet or smartphone.",
+          "link": "https://www.freecodecamp.org/news/html-textarea-how-to-add-text-box-to-your-website/",
+          "publishedOn": "2022-08-26T16:21:53.000Z",
+          "wordCount": 1294,
+          "title": "HTML TextArea – How to Add a Text Box Input Type Tag to Your Website",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/integration-testing-using-junit-5-testcontainers-with-springboot-example/",
+          "author": "Sameer Shukla",
+          "description": "TestContainers is a library that helps you run module-specific Docker containers to simplify Integration Testing.  These Docker containers are lightweight, and once the tests are finished the containers get destroyed. In the article we are going to understand what the TestContainers is and how it helps you write more",
+          "link": "https://www.freecodecamp.org/news/integration-testing-using-junit-5-testcontainers-with-springboot-example/",
+          "publishedOn": "2022-08-26T15:46:39.000Z",
+          "wordCount": 2202,
+          "title": "How to Perform Integration Testing using JUnit 5 and TestContainers with SpringBoot",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/testcontainers-logo.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/file-handling-in-python/",
+          "author": "David Fagbuyiro",
+          "description": "In this tutorial, you will learn how to open a file, write to the file, and close it. You will also learn how to read from the file using Python.  By the end of this tutorial, you should know the basics of how to use files in Python. File",
+          "link": "https://www.freecodecamp.org/news/file-handling-in-python/",
+          "publishedOn": "2022-08-26T15:42:16.000Z",
+          "wordCount": 2241,
+          "title": "File Handling in Python – How to Create, Read, and Write to a File",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Author-Share-ImageFREE--4-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-serverless-aws-by-building-7-projects/",
+          "author": "Sam Williams",
+          "description": "Following tutorials when you start learning serverless is a good first step. But to really get better, you need to build your own projects.  The problem is that coming up with ideas that are realistic but help you grow is hard. To help you out, I’ve come up with",
+          "link": "https://www.freecodecamp.org/news/learn-serverless-aws-by-building-7-projects/",
+          "publishedOn": "2022-08-26T15:34:58.000Z",
+          "wordCount": 4024,
+          "title": "How to Learn Serverless AWS by Building 7 Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-christina-morillo-1181316.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/what-is-a-relational-database-rdbms-definition/",
           "author": "Ihechikara Vincent Abba",
           "description": "A relational database is a type of database that stores data in tables made up of rows and columns. Each table represents a specific object in the database like users, products, orders, and so on.  The term \"relational\" is the main characteristic feature that makes relational databases unique. This",
@@ -1000,56 +1060,6 @@
           "wordCount": 1628,
           "title": "Python Dictionary Methods – Dictionaries in Python",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/python_dict.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-javascript-game-development-full-course/",
-          "author": "Beau Carnes",
-          "description": "JavaScript can be used to develop a bunch of different types of games. And games created with JavaScript can run on almost any device with a web browser. We just published a 10-hour JavaScript game development course on the freeCodeCamp.org YouTube channel. You will learn to make 2D games with",
-          "link": "https://www.freecodecamp.org/news/learn-javascript-game-development-full-course/",
-          "publishedOn": "2022-07-28T13:52:54.000Z",
-          "wordCount": 942,
-          "title": "Learn Game Development with JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/jsgame.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-document-ready-jquery-example/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When working with JavaScript and the Document Object Model (DOM), you might want your script to run only when the DOM has loaded.  You can do this using the $(document).ready() method in jQuery, or the  DOMContentLoaded event in vanilla JavaScript. In this article, you'll learn how to make",
-          "link": "https://www.freecodecamp.org/news/javascript-document-ready-jquery-example/",
-          "publishedOn": "2022-07-27T21:03:19.000Z",
-          "wordCount": 1095,
-          "title": "JavaScript document.ready() – Document Ready JS and jQuery Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/joan-gamell-ZS67i1HLllo-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-redis-python-and-gpt/",
-          "author": "Stephen Sanwo",
-          "description": "In order to build a working full-stack application, there are so many moving parts to think about. And you'll need to make many decisions that will be critical to the success of your app. For example, what language will you use and what platform will you deploy on? Are you",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-redis-python-and-gpt/",
-          "publishedOn": "2022-07-27T20:16:44.000Z",
-          "wordCount": 9836,
-          "title": "How to Build an AI Chatbot with Redis, Python, and GPT",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/a127b667458911.5b3b0b831c028-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/unit-testing-in-rust/",
-          "author": "Menard Maranan",
-          "description": "Testing is an essential part of Software Development. Testing your code ensures that the software you develop works as expected and makes it less vulnerable to attackers. Software testing is a very broad topic. That's why in the software industry, there are separate professionals who specialize in just QA and",
-          "link": "https://www.freecodecamp.org/news/unit-testing-in-rust/",
-          "publishedOn": "2022-07-27T16:26:05.000Z",
-          "wordCount": 3542,
-          "title": "What is Unit Testing? How to Perform Unit Tests in Rust",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/UNIT-TESTING-IN-RUST.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-redux-store-actions-reducers-explained/",
-          "author": "Soham De Roy",
-          "description": "Redux is a predictable state container for JavaScript apps. So what does that really mean? If we dig deeper into this statement, we see that Redux is a state management library that you can use with any JS library or framework like React, Angular, or Vue. In this article, we'll",
-          "link": "https://www.freecodecamp.org/news/what-is-redux-store-actions-reducers-explained/",
-          "publishedOn": "2022-07-27T15:48:39.000Z",
-          "wordCount": 2994,
-          "title": "What is Redux? Store, Actions, and Reducers Explained for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Group-60.png"
         }
       ]
     },
@@ -1247,26 +1257,6 @@
           "wordCount": 8324,
           "title": "Seeking Mathematical Truth in Counterfeit Coin Puzzles",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/07/Balance_puzzle_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=117367",
-          "author": "R. Douglas Fields",
-          "description": "Perineuronal nets, rigid structures that hold certain neurons in place, affect a surprising amount of brain activity, including some associated with chronic pain.            \nThe post Neuronal Scaffolding Plays Unexpected Role in Pain first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/neuronal-scaffolding-plays-unexpected-role-in-chronic-pain-20220728/",
-          "publishedOn": "2022-07-28T13:40:51.000Z",
-          "wordCount": 5944,
-          "title": "Neuronal Scaffolding Plays Unexpected Role in Pain",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/07/Brain-Cartilage_520x292.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=117364",
-          "author": "Steven Strogatz",
-          "description": "Everybody gets older, but not everyone ages in the same way. In this episode, Steven Strogatz speaks with Judith Campisi and Dena Dubal, two biomedical researchers who study the aging process.            \nThe post Why Do We Get Old, and Can Aging Be Reversed? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/why-do-we-get-old-and-can-aging-be-reversed-20220727/",
-          "publishedOn": "2022-07-27T20:46:37.000Z",
-          "wordCount": 14536,
-          "title": "Why Do We Get Old, and Can Aging Be Reversed?",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/07/JoW_Aging_1200_Social_LOGO.jpg"
         }
       ]
     },
@@ -1429,6 +1419,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/425",
+          "author": null,
+          "description": "#​425 — August 26, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n\n\n\n  \n  \nBuffalo 1.0: Rapid Web Development in Go — Buffalo has been around for many years, and while 1.0 isn’t a big, feature packed release (indeed, no new code since 0.18.9), it’s a key milestone so congratulations to the team! If you’re new to Buffalo, there are plenty of tutorials to get you going.\nBuffalo Team \n\n\n  \n  \nGopherJS: A Go to JavaScript Transpiler — It’s been a few years since we featured GopherJS but the latest beta brings it up to Go 1.18 (though without generics for now, alas) and ES6/ES2015 standards. There’s an online playground if you want to have a quick play.\nGopherJS \n\n\n  \n  \nMeet GoLand 2022.2 — This version offers new features for generics and go․work. We’ve added s…",
+          "link": "https://golangweekly.com/issues/425",
+          "publishedOn": "2022-08-26T00:00:00.000Z",
+          "wordCount": 1004,
+          "title": "Avoiding 100 different Go mistakes",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/424",
           "author": null,
