@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-27T02:23:18.853Z</updated>
+    <updated>2022-08-28T02:30:17.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 👋 Always have an exit condition]]></title>
+        <id>63016abe7dd384692b4075c8</id>
+        <link href="https://labnotes.org/weekend-reading-always-have-an-exit-condition/"/>
+        <updated>2022-08-27T21:46:11.000Z</updated>
+        <summary type="html"><![CDATA[This week we have fun with AI art, unravel a scam drive, ask for an estimate do-over, and go viral on LinkedIn. Also Twitter drama.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Java scanner.nextLine() Method Call Gets Skipped Error [SOLVED]]]></title>
         <id>https://www.freecodecamp.org/news/java-scanner-nextline-call-gets-skipped-solved/</id>
@@ -1613,99 +1623,6 @@ Ayooluwa Isaiah published a handy guide explaining import…]]></summary>
         <summary type="html"><![CDATA[Choosing a tech career can be tricky because there are many possible paths to choose from. There's Web Development, Machine Learning, Data Science, DevOps, and many more. But the good news is you don't necessarily have to be a developer to be in the world of tech. This article is]]></summary>
         <author>
             <name>Sophia Iroegbu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Authenticate a User with Face Recognition in React.js]]></title>
-        <id>https://www.freecodecamp.org/news/authenticate-with-face-recognition-reactjs/</id>
-        <link href="https://www.freecodecamp.org/news/authenticate-with-face-recognition-reactjs/"/>
-        <updated>2022-07-29T13:55:01.000Z</updated>
-        <summary type="html"><![CDATA[With the advent of Web 2.0, authenticating users became a crucial task for developers.  Before Web 2.0, website visitors could only view the content of a web page – there was no interaction. This era of the internet was called Web 1.0. But after Web 2.0, people gained the]]></summary>
-        <author>
-            <name>Hrishikesh Pathak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seeking Mathematical Truth in Counterfeit Coin Puzzles]]></title>
-        <id>https://www.quantamagazine.org/?p=117433</id>
-        <link href="https://www.quantamagazine.org/seeking-mathematical-truth-in-counterfeit-coin-puzzles-20220729/"/>
-        <updated>2022-07-29T13:48:32.000Z</updated>
-        <summary type="html"><![CDATA[Readers balanced logical reasoning and mathematical insights to find phony coins with a double-pan balance scale.            
-The post Seeking Mathematical Truth in Counterfeit Coin Puzzles first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Pradeep Mutalik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let(')s Go play ping pong.]]></title>
-        <id>https://golangweekly.com/issues/422</id>
-        <link href="https://golangweekly.com/issues/422"/>
-        <updated>2022-07-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​422 — July 29, 2022
-
-
-Unsubscribe  |  Read on the Web
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-Charm Gum: A Tool for Glamorous Shell Scripts — Much like actual gum, this is something you’ll either love or hate! It lets you create a CLI-based wizard just by providing a few arguments. The README is fantastic and packed with examples and animations. And if you’d rather brew your own with your own Go code, Bubble Tea and Lip Gloss, upon which Gum depends, are waiting for you too.
-Charm 
-
-
-  
-  
-Building a Terminal-Based Pong Game in Go — Certainly an interesting learning experience, and this is a fun and engaging walkthrough that’ll be of particular interest if you want to pick up tcell for creating elaborate terminal experiences, visualizations, and the like.
-Josh Alletto 
-
-
-  
-  
-GV (…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Error: failed to push some refs to – How to Fix in Git]]></title>
-        <id>https://www.freecodecamp.org/news/error-failed-to-push-some-refs-to-how-to-fix-in-git/</id>
-        <link href="https://www.freecodecamp.org/news/error-failed-to-push-some-refs-to-how-to-fix-in-git/"/>
-        <updated>2022-07-28T20:04:11.000Z</updated>
-        <summary type="html"><![CDATA[When collaborating with other developers using Git, you might encounter the  error: failed to push some refs to [remote repo] error. This error mainly occurs when you attempt to push your local changes to GitHub while the local repository (repo) has not yet been updated with any changes made]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript replaceAll() – Replace All Instances of a String in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-replaceall-replace-all-instances-of-a-string-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-replaceall-replace-all-instances-of-a-string-in-js/"/>
-        <updated>2022-07-28T16:15:26.000Z</updated>
-        <summary type="html"><![CDATA[When working with a JavaScript program, you might need to replace a character or word with another one. Specifically, you may need to replace not just one but all occurrences of that character or word with something else. There are a few ways you can achieve this with JavaScript. One]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Dictionary Methods – Dictionaries in Python]]></title>
-        <id>https://www.freecodecamp.org/news/python-dictionary-methods-dictionaries-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/python-dictionary-methods-dictionaries-in-python/"/>
-        <updated>2022-07-28T15:32:21.000Z</updated>
-        <summary type="html"><![CDATA[In Python, a dictionary is one of the core data structures. It is a sequence of key-value pairs separated by commas and surrounded by curly braces. If you’re familiar with JavaScript, Python dictionaries are like JavaScript objects. Python provides more than 10 methods for working with dictionaries. In this article,]]></summary>
-        <author>
-            <name>Kolade Chris</name>
         </author>
     </entry>
 </feed>
