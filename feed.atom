@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-28T02:30:17.703Z</updated>
+    <updated>2022-08-29T02:28:08.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -1593,36 +1593,6 @@ Import maps enable longer cache duration
 Ayooluwa Isaiah published a handy guide explaining import…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Routing in Next.js – How to Set Up Dynamic Routing with Pre-Rendering in Next]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-setup-dynamic-routing-in-nextjs/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-setup-dynamic-routing-in-nextjs/"/>
-        <updated>2022-07-29T21:21:21.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you'll learn how to set up dynamic routing in Next.js. You'll also learn about pre-rendering and why it's important. 🔐 Here's what we'll cover:  * You'll get to know getStaticPaths(), one of the core principles of Next.js.  * You'll improve your general Next.js knowledge and]]></summary>
-        <author>
-            <name>Matthes Bär</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sort Alphabetically in JavaScript – How to Order by Name in JS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-sort-alphabetically-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-sort-alphabetically-in-javascript/"/>
-        <updated>2022-07-29T19:59:50.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes you might have an array of words where you want to sort each word alphabetically (from a-z). Or you might have an array of objects containing user information including names, for example, where you want to sort the users by their names. We can do this in JavaScript by]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Choose a Tech Career in 2022 – A Career Changer's Guide]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-choose-a-tech-career/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-choose-a-tech-career/"/>
-        <updated>2022-07-29T16:43:31.000Z</updated>
-        <summary type="html"><![CDATA[Choosing a tech career can be tricky because there are many possible paths to choose from. There's Web Development, Machine Learning, Data Science, DevOps, and many more. But the good news is you don't necessarily have to be a developer to be in the world of tech. This article is]]></summary>
-        <author>
-            <name>Sophia Iroegbu</name>
         </author>
     </entry>
 </feed>
