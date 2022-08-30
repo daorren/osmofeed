@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-29T02:28:08.524Z</updated>
+    <updated>2022-08-30T02:32:35.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Common Attacks on SSL/TLS – and How to Protect Your System]]></title>
+        <id>https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/</id>
+        <link href="https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/"/>
+        <updated>2022-08-29T21:17:07.000Z</updated>
+        <summary type="html"><![CDATA[The SSL and TLS protocols are frequently attacked. And understanding past attacks can inform your knowledge as a defender and help you secure current systems. It can also help you predict the direction of future attacks. So here's a summary of some of the most famous attacks targeting these protocols:]]></summary>
+        <author>
+            <name>Megan Kaczanowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bacteria’s Immune Sensors Reveal a Novel Way to Detect Viruses]]></title>
+        <id>https://www.quantamagazine.org/?p=118303</id>
+        <link href="https://www.quantamagazine.org/bacterias-immune-sensors-reveal-a-novel-way-to-detect-viruses-20220829/"/>
+        <updated>2022-08-29T14:35:05.000Z</updated>
+        <summary type="html"><![CDATA[A new study reveals that bacteria can fight viruses in a surprisingly elegant way that has no known counterpart in more complex life.            
+The post Bacteria’s Immune Sensors Reveal a Novel Way to Detect Viruses first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Annie Melchor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Linear Models and Decision Trees in Julia]]></title>
+        <id>https://www.freecodecamp.org/news/linear-models-vs-decision-trees-in-julia/</id>
+        <link href="https://www.freecodecamp.org/news/linear-models-vs-decision-trees-in-julia/"/>
+        <updated>2022-08-29T13:46:21.000Z</updated>
+        <summary type="html"><![CDATA[As a machine learning engineer or data scientist, one of the most critical decisions you can make is what type of model to use to solve a specific problem. Do you really need to use Deep Learning to model this specific problem? Will something like a Random Forest model or]]></summary>
+        <author>
+            <name>Logan Kilpatrick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Code 20 Beginner Python Projects]]></title>
+        <id>https://www.freecodecamp.org/news/20-beginner-python-projects/</id>
+        <link href="https://www.freecodecamp.org/news/20-beginner-python-projects/"/>
+        <updated>2022-08-29T12:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Are you looking to improve your Python skills? Try coding these 20 Python projects! We just posted a video course on the freeCodeCamp.org YouTube channel that will teach you how to create 20 fun Python projects. Tomi Tokko created this course. Tomi has created a bunch of really popular tutorials]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #77 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-77/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-77/"/>
+        <updated>2022-08-28T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! 👋
+
+Shell scripting is one of these things that I just don't get better at. And I'm really trying, but I don't recall any syntax and must google every tiny script portion. It's so frustrating. And even when things work eventually, I'm still unsure if I did things "the right way".
+Let me tell you about two tools giving me more confidence in mighty shell scripting land.
+Explain Shell helps to understand CLI commands by showing detailed explanations of every argument.
+But what about writing scripts?
+A while ago, I discovered ShellCheck, and I couldn't write scripts without it now. It's like ESLint for shell scripting, teaching how to write scripts correctly. Use it online or install an extension for your favorite editor. I highly recommend it!
+Today you'll learn about:
+Style querie…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — 👋 Always have an exit condition]]></title>
         <id>63016abe7dd384692b4075c8</id>
@@ -1555,44 +1614,6 @@ The post Particle Physicists Puzzle Over a New Duality first appeared on Quanta 
         <summary type="html"><![CDATA[This week we have not one but two new search engines for developers, four keys for devops performance, and 40% drop in avocado prices.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Sign and Validate JSON Web Tokens – JWT Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-sign-and-validate-json-web-tokens/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-sign-and-validate-json-web-tokens/"/>
-        <updated>2022-07-31T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ever since I started learning about JSON Web Tokens, I have been wondering how we validate them.  I understood that we sign the token and that we use that signed token to validate its authenticity. But I was still curious to know more and wondered why I never learned]]></summary>
-        <author>
-            <name>Rohit Jacob Mathew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Import maps will improve cache busting (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/import-maps-will-improve-cache-busting/</id>
-        <link href="https://www.stefanjudis.com/notes/import-maps-will-improve-cache-busting/"/>
-        <updated>2022-07-30T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you heard of the new script type "importmap"? Import maps aren't listed in the MDN script element compatibility data yet, but according to caniuse.com, Chromium ships them, and Firefox implements them behind a feature flag.
-Import maps will simplify frontend tooling. 🎉 If you ship ES modules (ESM), the new script type enables you to rewrite ugly, complicated, and absolute file paths to file path identifiers.
-<script type="importmap">
-{
-  "imports": {
-    "dayjs": "https://cdn.skypack.dev/dayjs@1.10.7",
-  }
-}
-</script>
-<script type="module">
-  import dayjs from 'dayjs';
-
-  // do stuff with 'dayjs'
-</script>
-
-But making imports easier to write isn't the only benefit of using import maps!
-Import maps enable longer cache duration
-
-Ayooluwa Isaiah published a handy guide explaining import…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
