@@ -12,6 +12,86 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/wordpress-to-hugo-scripts/",
+          "author": "Lane Wagner",
+          "description": "I recently decided to switch Boot.dev's [https://boot.dev] blog from WordPress to a static site generator. I decided on Hugo [https://gohugo.io/], partly because I’m a huge fan of the Go programming language, but also because it just seemed like the best option from a dev-experience perspective.  Here’s why I decided",
+          "link": "https://www.freecodecamp.org/news/wordpress-to-hugo-scripts/",
+          "publishedOn": "2022-08-30T23:25:47.000Z",
+          "wordCount": 1682,
+          "title": "From WordPress to Hugo – How I Migrated a 250+ Page Site and the Scripts I Used",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/1__D5sbQUd4XwTy9yt67BCCA-1.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-javascript-map-method-to-make-a-breath-first-and-depth-first-search/",
+          "author": "Njoku Samson Ebere",
+          "description": "The JavaScript map() method [/news/array-map-tutorial/] is an object [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object]  with a key and value pair. An object's key and value are connected using a colon (:) while the key and value of a map are connected using an arrow (=>). Here's an example of an object in JavaScript: {",
+          "link": "https://www.freecodecamp.org/news/how-to-use-javascript-map-method-to-make-a-breath-first-and-depth-first-search/",
+          "publishedOn": "2022-08-30T17:17:31.000Z",
+          "wordCount": 3274,
+          "title": "How to Use JavaScript's Map() Method to Solve Breadth-First and Depth-First Search Problems",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-porapak-apichodilok-346696.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/personal-digital-security-an-intro/",
+          "author": "Megan Kaczanowski",
+          "description": "How do you protect yourself online without having to remember a million impossible passwords?  This is an (actually) easy to implement guide, which is the digital equivalent of locking your house when you leave.  Taking these steps won’t make you hack-proof (just as locking your house won’t make",
+          "link": "https://www.freecodecamp.org/news/personal-digital-security-an-intro/",
+          "publishedOn": "2022-08-30T16:57:34.000Z",
+          "wordCount": 2162,
+          "title": "Personal Digital Security – How to Protect Yourself Online for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-pixabay-207580--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/string-to-number-in-javascript-convert-a-string-to-an-int-in-js/",
+          "author": "Dionysia Lemonaki",
+          "description": "When you're programming, you'll often need to switch between data types. For example, you may need to convert a string into a number. The ability to convert one data type to another gives you great flexibility when working with information. JavaScript has different built-in methods to convert or cast a",
+          "link": "https://www.freecodecamp.org/news/string-to-number-in-javascript-convert-a-string-to-an-int-in-js/",
+          "publishedOn": "2022-08-30T16:38:26.000Z",
+          "wordCount": 3114,
+          "title": "String to Number in JavaScript – Convert a String to an Int in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-pixabay-459653.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sql-having-how-to-group-and-count-with-a-having-statement/",
+          "author": "Kolade Chris",
+          "description": "In SQL, you use the HAVING keyword right after GROUP BY to query the database based on a specified condition. Like other keywords, it returns the data that meet the condition and filters out the rest. The HAVING keyword was introduced because the WHERE clause fails when used with aggregate",
+          "link": "https://www.freecodecamp.org/news/sql-having-how-to-group-and-count-with-a-having-statement/",
+          "publishedOn": "2022-08-30T15:59:48.000Z",
+          "wordCount": 1260,
+          "title": "SQL HAVING – How to Group and Count with a Having Statement",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/sqlHaving.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ssh-keygen-how-to-generate-an-ssh-public-key-for-rsa-login/",
+          "author": "Bolaji Ayodeji",
+          "description": "Cryptography uses encryption and decryption to conceal messages. This introduces secrecy in information security.  The purpose of cryptography is to ensure secure communication between two people or devices who are connecting through insecure channels. The sender often employs an encryption key to lock the message, while the recipient uses",
+          "link": "https://www.freecodecamp.org/news/ssh-keygen-how-to-generate-an-ssh-public-key-for-rsa-login/",
+          "publishedOn": "2022-08-30T15:51:22.000Z",
+          "wordCount": 1524,
+          "title": "SSH Keygen Tutorial – How to Generate an SSH Public Key for RSA Login",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/article-banner.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/github-super-linter/",
+          "author": "Rishit Dagli",
+          "description": "When you're starting a new project, you might have to add multiple linting tools to beautify your code and prevent simple errors.  You will often use multiple linters – one of them might support an npm installation and other one might have a PyPI installation and so on. You",
+          "link": "https://www.freecodecamp.org/news/github-super-linter/",
+          "publishedOn": "2022-08-30T15:25:35.000Z",
+          "wordCount": 2648,
+          "title": "How to Use GitHub Super Linter in Your Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/FCC-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-css-in-11-hours/",
+          "author": "Beau Carnes",
+          "description": "It is essential for frontend web developers to understand how to use CSS. This is what is used to style a website. We just published a comprehensive CSS course on the freeCodeCamp.org YouTube channel. In this in-depth course, you will learn about all the key features of CSS. This is",
+          "link": "https://www.freecodecamp.org/news/learn-css-in-11-hours/",
+          "publishedOn": "2022-08-30T13:55:08.000Z",
+          "wordCount": 830,
+          "title": "Learn CSS in 11 Hours",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cssdave.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/",
           "author": "Megan Kaczanowski",
           "description": "The SSL and TLS protocols are frequently attacked. And understanding past attacks can inform your knowledge as a defender and help you secure current systems. It can also help you predict the direction of future attacks. So here's a summary of some of the most famous attacks targeting these protocols:",
@@ -980,36 +1060,6 @@
           "wordCount": 2030,
           "title": "How to Use the Rough Notation Library to Animate Your Website",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Purple-Minimal-We-Are-Hiring-Twitter-Post--7-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/evaluation-metrics-for-regression-problems-machine-learning/",
-          "author": "Ibrahim Abayomi Ogunbiyi",
-          "description": "A regression problem is a common type of supervised learning problem in Machine Learning. The end goal is to predict quantitative values – for example, continuous values such as the price of a car, the weight of a dog, and so on.  But to be sure that your model",
-          "link": "https://www.freecodecamp.org/news/evaluation-metrics-for-regression-problems-machine-learning/",
-          "publishedOn": "2022-08-01T14:37:27.000Z",
-          "wordCount": 1979,
-          "title": "Top Evaluation Metrics for Regression Problems in Machine Learning",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/regression-metrics-image.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-an-industry-level-rest-api-using-net-6/",
-          "author": "Beau Carnes",
-          "description": "There are a lot of REST API tutorials out there but many of them do not teach you how to create production-ready code using industry best practices. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a REST API using industry-level .NET",
-          "link": "https://www.freecodecamp.org/news/create-an-industry-level-rest-api-using-net-6/",
-          "publishedOn": "2022-08-01T14:21:13.000Z",
-          "wordCount": 881,
-          "title": "Create an Industry Level REST API Using .NET 6",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/maxresdefault.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/error-src-refspec-master-does-not-match-any-how-to-fix-in-git/",
-          "author": "Dillion Megida",
-          "description": "When working with Git, you may come across an error that says \"src refspace master does not match any\". Here's what the error means and how you can solve it. What Does src refspec master does not match any Mean in Git? You may get this error when you try",
-          "link": "https://www.freecodecamp.org/news/error-src-refspec-master-does-not-match-any-how-to-fix-in-git/",
-          "publishedOn": "2022-08-01T13:58:44.000Z",
-          "wordCount": 1178,
-          "title": "Error: src refspec master does not match any – How to Fix in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/refspec-master-error.png"
         }
       ]
     },
@@ -1018,6 +1068,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=118340",
+          "author": "Max G. Levy",
+          "description": "Anima Anandkumar wants computer scientists to move beyond the matrix, among other challenges.            \nThe post The AI Researcher Giving Her Field Its Bitter Medicine first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-ai-researcher-giving-her-field-its-bitter-medicine-20220830/",
+          "publishedOn": "2022-08-30T14:39:14.000Z",
+          "wordCount": 6853,
+          "title": "The AI Researcher Giving Her Field Its Bitter Medicine",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/AnimaAnandkumar_1200_social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=118303",
           "author": "Annie Melchor",
@@ -1197,16 +1257,6 @@
           "wordCount": 6749,
           "title": "The Computer Scientist Challenging AI to Learn Better",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/08/Christopher_Kanan_520x292.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=117159",
-          "author": "Katie McCormick",
-          "description": "A hidden link has been found between two seemingly unrelated particle collision outcomes. It’s the latest example of a mysterious web of mathematical connections between disparate theories of physics.            \nThe post Particle Physicists Puzzle Over a New Duality first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/particle-physicists-puzzle-over-a-new-duality-20220801/",
-          "publishedOn": "2022-08-01T13:50:29.000Z",
-          "wordCount": 5366,
-          "title": "Particle Physicists Puzzle Over a New Duality",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Antipodal-Duality_1200_Social.jpg"
         }
       ]
     },
@@ -1254,16 +1304,6 @@
           "wordCount": 1245,
           "title": "Weekend Reading — “iterate but not invest heavily”",
           "imageUrl": "https://labnotes.org/content/images/2022/08/SCR-20220806-huh.png"
-        },
-        {
-          "id": "62dc6316021b5c79cb50719c",
-          "author": "Assaf Arkin",
-          "description": "This week we have not one but two new search engines for developers, four keys for devops performance, and 40% drop in avocado prices.",
-          "link": "https://labnotes.org/weekend-reading-suburban-sensationalism/",
-          "publishedOn": "2022-07-31T19:33:27.000Z",
-          "wordCount": 1146,
-          "title": "Weekend Reading — Suburban Sensationalism",
-          "imageUrl": "https://labnotes.org/content/images/2022/07/fef7341686e012d65da071e60323feab60fb2a728a1e428ec93c2bb712a154a8-1.jpeg"
         }
       ]
     },

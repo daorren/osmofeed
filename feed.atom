@@ -2,10 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-30T02:32:35.650Z</updated>
+    <updated>2022-08-31T02:38:11.004Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From WordPress to Hugo – How I Migrated a 250+ Page Site and the Scripts I Used]]></title>
+        <id>https://www.freecodecamp.org/news/wordpress-to-hugo-scripts/</id>
+        <link href="https://www.freecodecamp.org/news/wordpress-to-hugo-scripts/"/>
+        <updated>2022-08-30T23:25:47.000Z</updated>
+        <summary type="html"><![CDATA[I recently decided to switch Boot.dev's [https://boot.dev] blog from WordPress to a static site generator. I decided on Hugo [https://gohugo.io/], partly because I’m a huge fan of the Go programming language, but also because it just seemed like the best option from a dev-experience perspective.  Here’s why I decided]]></summary>
+        <author>
+            <name>Lane Wagner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use JavaScript's Map() Method to Solve Breadth-First and Depth-First Search Problems]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-javascript-map-method-to-make-a-breath-first-and-depth-first-search/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-javascript-map-method-to-make-a-breath-first-and-depth-first-search/"/>
+        <updated>2022-08-30T17:17:31.000Z</updated>
+        <summary type="html"><![CDATA[The JavaScript map() method [/news/array-map-tutorial/] is an object [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object]  with a key and value pair. An object's key and value are connected using a colon (:) while the key and value of a map are connected using an arrow (=>). Here's an example of an object in JavaScript: {]]></summary>
+        <author>
+            <name>Njoku Samson Ebere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Personal Digital Security – How to Protect Yourself Online for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/personal-digital-security-an-intro/</id>
+        <link href="https://www.freecodecamp.org/news/personal-digital-security-an-intro/"/>
+        <updated>2022-08-30T16:57:34.000Z</updated>
+        <summary type="html"><![CDATA[How do you protect yourself online without having to remember a million impossible passwords?  This is an (actually) easy to implement guide, which is the digital equivalent of locking your house when you leave.  Taking these steps won’t make you hack-proof (just as locking your house won’t make]]></summary>
+        <author>
+            <name>Megan Kaczanowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[String to Number in JavaScript – Convert a String to an Int in JS]]></title>
+        <id>https://www.freecodecamp.org/news/string-to-number-in-javascript-convert-a-string-to-an-int-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/string-to-number-in-javascript-convert-a-string-to-an-int-in-js/"/>
+        <updated>2022-08-30T16:38:26.000Z</updated>
+        <summary type="html"><![CDATA[When you're programming, you'll often need to switch between data types. For example, you may need to convert a string into a number. The ability to convert one data type to another gives you great flexibility when working with information. JavaScript has different built-in methods to convert or cast a]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL HAVING – How to Group and Count with a Having Statement]]></title>
+        <id>https://www.freecodecamp.org/news/sql-having-how-to-group-and-count-with-a-having-statement/</id>
+        <link href="https://www.freecodecamp.org/news/sql-having-how-to-group-and-count-with-a-having-statement/"/>
+        <updated>2022-08-30T15:59:48.000Z</updated>
+        <summary type="html"><![CDATA[In SQL, you use the HAVING keyword right after GROUP BY to query the database based on a specified condition. Like other keywords, it returns the data that meet the condition and filters out the rest. The HAVING keyword was introduced because the WHERE clause fails when used with aggregate]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSH Keygen Tutorial – How to Generate an SSH Public Key for RSA Login]]></title>
+        <id>https://www.freecodecamp.org/news/ssh-keygen-how-to-generate-an-ssh-public-key-for-rsa-login/</id>
+        <link href="https://www.freecodecamp.org/news/ssh-keygen-how-to-generate-an-ssh-public-key-for-rsa-login/"/>
+        <updated>2022-08-30T15:51:22.000Z</updated>
+        <summary type="html"><![CDATA[Cryptography uses encryption and decryption to conceal messages. This introduces secrecy in information security.  The purpose of cryptography is to ensure secure communication between two people or devices who are connecting through insecure channels. The sender often employs an encryption key to lock the message, while the recipient uses]]></summary>
+        <author>
+            <name>Bolaji Ayodeji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use GitHub Super Linter in Your Projects]]></title>
+        <id>https://www.freecodecamp.org/news/github-super-linter/</id>
+        <link href="https://www.freecodecamp.org/news/github-super-linter/"/>
+        <updated>2022-08-30T15:25:35.000Z</updated>
+        <summary type="html"><![CDATA[When you're starting a new project, you might have to add multiple linting tools to beautify your code and prevent simple errors.  You will often use multiple linters – one of them might support an npm installation and other one might have a PyPI installation and so on. You]]></summary>
+        <author>
+            <name>Rishit Dagli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Researcher Giving Her Field Its Bitter Medicine]]></title>
+        <id>https://www.quantamagazine.org/?p=118340</id>
+        <link href="https://www.quantamagazine.org/the-ai-researcher-giving-her-field-its-bitter-medicine-20220830/"/>
+        <updated>2022-08-30T14:39:14.000Z</updated>
+        <summary type="html"><![CDATA[Anima Anandkumar wants computer scientists to move beyond the matrix, among other challenges.            
+The post The AI Researcher Giving Her Field Its Bitter Medicine first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Max G. Levy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS in 11 Hours]]></title>
+        <id>https://www.freecodecamp.org/news/learn-css-in-11-hours/</id>
+        <link href="https://www.freecodecamp.org/news/learn-css-in-11-hours/"/>
+        <updated>2022-08-30T13:55:08.000Z</updated>
+        <summary type="html"><![CDATA[It is essential for frontend web developers to understand how to use CSS. This is what is used to style a website. We just published a comprehensive CSS course on the freeCodeCamp.org YouTube channel. In this in-depth course, you will learn about all the key features of CSS. This is]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Common Attacks on SSL/TLS – and How to Protect Your System]]></title>
         <id>https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/</id>
@@ -1563,57 +1654,6 @@ And while we're at it, do you remember this snippet? It's a CSS quantity query t
 I'm blown away by all this CSS magic, but I wonder how wild and complicated future CSS will become. We're in the :has() discovery phase right now, and we'll have to find o…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Evaluation Metrics for Regression Problems in Machine Learning]]></title>
-        <id>https://www.freecodecamp.org/news/evaluation-metrics-for-regression-problems-machine-learning/</id>
-        <link href="https://www.freecodecamp.org/news/evaluation-metrics-for-regression-problems-machine-learning/"/>
-        <updated>2022-08-01T14:37:27.000Z</updated>
-        <summary type="html"><![CDATA[A regression problem is a common type of supervised learning problem in Machine Learning. The end goal is to predict quantitative values – for example, continuous values such as the price of a car, the weight of a dog, and so on.  But to be sure that your model]]></summary>
-        <author>
-            <name>Ibrahim Abayomi Ogunbiyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create an Industry Level REST API Using .NET 6]]></title>
-        <id>https://www.freecodecamp.org/news/create-an-industry-level-rest-api-using-net-6/</id>
-        <link href="https://www.freecodecamp.org/news/create-an-industry-level-rest-api-using-net-6/"/>
-        <updated>2022-08-01T14:21:13.000Z</updated>
-        <summary type="html"><![CDATA[There are a lot of REST API tutorials out there but many of them do not teach you how to create production-ready code using industry best practices. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a REST API using industry-level .NET]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Error: src refspec master does not match any – How to Fix in Git]]></title>
-        <id>https://www.freecodecamp.org/news/error-src-refspec-master-does-not-match-any-how-to-fix-in-git/</id>
-        <link href="https://www.freecodecamp.org/news/error-src-refspec-master-does-not-match-any-how-to-fix-in-git/"/>
-        <updated>2022-08-01T13:58:44.000Z</updated>
-        <summary type="html"><![CDATA[When working with Git, you may come across an error that says "src refspace master does not match any". Here's what the error means and how you can solve it. What Does src refspec master does not match any Mean in Git? You may get this error when you try]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Particle Physicists Puzzle Over a New Duality]]></title>
-        <id>https://www.quantamagazine.org/?p=117159</id>
-        <link href="https://www.quantamagazine.org/particle-physicists-puzzle-over-a-new-duality-20220801/"/>
-        <updated>2022-08-01T13:50:29.000Z</updated>
-        <summary type="html"><![CDATA[A hidden link has been found between two seemingly unrelated particle collision outcomes. It’s the latest example of a mysterious web of mathematical connections between disparate theories of physics.            
-The post Particle Physicists Puzzle Over a New Duality first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Katie McCormick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Suburban Sensationalism]]></title>
-        <id>62dc6316021b5c79cb50719c</id>
-        <link href="https://labnotes.org/weekend-reading-suburban-sensationalism/"/>
-        <updated>2022-07-31T19:33:27.000Z</updated>
-        <summary type="html"><![CDATA[This week we have not one but two new search engines for developers, four keys for devops performance, and 40% drop in avocado prices.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
