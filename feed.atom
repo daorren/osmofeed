@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-31T02:38:11.004Z</updated>
+    <updated>2022-09-01T02:14:59.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Lazy Load Images in React]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-lazy-load-images-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-lazy-load-images-in-react/"/>
+        <updated>2022-08-31T22:24:19.000Z</updated>
+        <summary type="html"><![CDATA[Optimizing the assets you use on your websites – like lazy loading images – is one of the most effective ways to improve web performance. Doing this helps you make sure that your websites are fast, they have great SEO [https://en.wikipedia.org/wiki/Search_engine_optimization], and it helps enhance the user experience. In this]]></summary>
+        <author>
+            <name>Victor Eke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful HTML5 Tags You Might Not Know]]></title>
+        <id>https://www.freecodecamp.org/news/html5-tags-you-might-not-know/</id>
+        <link href="https://www.freecodecamp.org/news/html5-tags-you-might-not-know/"/>
+        <updated>2022-08-31T21:47:30.000Z</updated>
+        <summary type="html"><![CDATA[One of the key factors that differentiates HTML 5 from its predecessors is the introduction of semantic tags.  Semantic tags add real meaning to the webpage and make it easy for humans, and search engines, to differentiate between different parts of the website.  To a certain extent, it]]></summary>
+        <author>
+            <name>Bhavesh Rawat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Coding Interview Practice – Sample Interview Questions and Solutions]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-coding-interview-practice/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-coding-interview-practice/"/>
+        <updated>2022-08-31T17:39:28.000Z</updated>
+        <summary type="html"><![CDATA[David Goggins is an ultramarathon runner, a public speaker, a retired navy SEAL, and the author of the book 'Can't Hurt Me: Master Your Mind and Defy the Odds [https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287]'. He's one of my role models because of his physical strength and mental resilience.  You might say: "Wait a]]></summary>
+        <author>
+            <name>Damla Erkiner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Remove an Element from a JavaScript Array – Removing a Specific Item in JS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-remove-an-element-from-a-javascript-array-removing-a-specific-item-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-remove-an-element-from-a-javascript-array-removing-a-specific-item-in-js/"/>
+        <updated>2022-08-31T17:00:43.000Z</updated>
+        <summary type="html"><![CDATA[You will often need to remove an element from an array in JavaScript, whether it's for a queue data structure, or maybe from your React State. In the first half of this article you will learn all the methods that allow you to remove an element from an array without]]></summary>
+        <author>
+            <name>Ilenia Magoni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn React from Three All-Star Instructors]]></title>
+        <id>https://www.freecodecamp.org/news/learn-react-from-three-all-star-instructors/</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-from-three-all-star-instructors/"/>
+        <updated>2022-08-31T14:46:20.000Z</updated>
+        <summary type="html"><![CDATA[React is one of the most popular frontend JavaScript frameworks. If you want to be a frontend developer, you will likely need to know something about React. We just published a full React course for beginners on the freeCodeCamp.org YouTube channel. This course is unlike most of the other React]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Isaac Newton Discovered the Binomial Power Series]]></title>
+        <id>https://www.quantamagazine.org/?p=118388</id>
+        <link href="https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/"/>
+        <updated>2022-08-31T05:16:19.000Z</updated>
+        <summary type="html"><![CDATA[Rethinking questions and chasing patterns led Newton to find the connection between curves and infinite sums.             
+The post How Isaac Newton Discovered the Binomial Power Series first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steven Strogatz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From WordPress to Hugo – How I Migrated a 250+ Page Site and the Scripts I Used]]></title>
         <id>https://www.freecodecamp.org/news/wordpress-to-hugo-scripts/</id>
@@ -1611,49 +1672,6 @@ The post Geometric Analysis Reveals How Birds Mastered Flight first appeared on 
         <summary type="html"><![CDATA[I love animating websites. It's so fun when you just look at a site, and there are cool animations that make everything look pretty.  Getting started with an animation library does not have to be hard. Anyone can add a bit of animation to their site regardless of whether]]></summary>
         <author>
             <name>Njong Emy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Computer Scientist Challenging AI to Learn Better]]></title>
-        <id>https://www.quantamagazine.org/?p=117480</id>
-        <link href="https://www.quantamagazine.org/the-computer-scientist-trying-to-teach-ai-to-learn-like-we-do-20220802/"/>
-        <updated>2022-08-02T13:58:19.000Z</updated>
-        <summary type="html"><![CDATA[Christopher Kanan is building algorithms that can continuously learn over time — the way we do.            
-The post The Computer Scientist Challenging AI to Learn Better first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Allison Whitten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to create a module-based Node.js executable (#snippet)]]></title>
-        <id>https://www.stefanjudis.com/snippets/how-to-create-a-module-based-node-js-executable/</id>
-        <link href="https://www.stefanjudis.com/snippets/how-to-create-a-module-based-node-js-executable/"/>
-        <updated>2022-08-01T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many of my projects include Node.js scripts to perform setup or teardown steps. And while I could run all of them with the node binary (node create-thumbnails.js), I prefer to remove the file extension and make the scripts executables (./create-thumbnails). This approach saves characters, and makes me feel like a hacker!
-My steps to create an executable are:
-Remove the .js file extension (mv create-thumbnails.js create-thumbnails).
-Make the file executable  (chmod 744 create-thumbnails).
-Add a shebang (#!/usr/bin/env node) to signal that the executing shell should use the node binary.
-Et voilà, you just created a Node.js executable!
-This approach has served me well for CommonJS-based scripts using the require function. But it's 2022, and I planned to adopt ECMAScript modules in Node.js exe…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #73 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-73/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-73/"/>
-        <updated>2022-08-01T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Howdy, party people!
-
-What new CSS features are you most excited about? It's hands-down the :has() pseudo-class for me, because :has() flips CSS around, and content will finally be able to influence styling!
-Dave Rupert published a post including this :has() selector to style the first element but only if it's included in an odd-numbered list.
-But there's a surprise: you don't even need :has() for this. Temani Afif shared that you can do it with nth-last-of-type, too.
-And while we're at it, do you remember this snippet? It's a CSS quantity query to select li elements, but only if there are three or more list elements. 🤯
-I'm blown away by all this CSS magic, but I wonder how wild and complicated future CSS will become. We're in the :has() discovery phase right now, and we'll have to find o…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

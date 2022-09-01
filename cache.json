@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-lazy-load-images-in-react/",
+          "author": "Victor Eke",
+          "description": "Optimizing the assets you use on your websites – like lazy loading images – is one of the most effective ways to improve web performance. Doing this helps you make sure that your websites are fast, they have great SEO [https://en.wikipedia.org/wiki/Search_engine_optimization], and it helps enhance the user experience. In this",
+          "link": "https://www.freecodecamp.org/news/how-to-lazy-load-images-in-react/",
+          "publishedOn": "2022-08-31T22:24:19.000Z",
+          "wordCount": 1859,
+          "title": "How to Lazy Load Images in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/How-to-lazy-load-images-in-React-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/html5-tags-you-might-not-know/",
+          "author": "Bhavesh Rawat",
+          "description": "One of the key factors that differentiates HTML 5 from its predecessors is the introduction of semantic tags.  Semantic tags add real meaning to the webpage and make it easy for humans, and search engines, to differentiate between different parts of the website.  To a certain extent, it",
+          "link": "https://www.freecodecamp.org/news/html5-tags-you-might-not-know/",
+          "publishedOn": "2022-08-31T21:47:30.000Z",
+          "wordCount": 2224,
+          "title": "Useful HTML5 Tags You Might Not Know",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/five-html-tags-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-coding-interview-practice/",
+          "author": "Damla Erkiner",
+          "description": "David Goggins is an ultramarathon runner, a public speaker, a retired navy SEAL, and the author of the book 'Can't Hurt Me: Master Your Mind and Defy the Odds [https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287]'. He's one of my role models because of his physical strength and mental resilience.  You might say: \"Wait a",
+          "link": "https://www.freecodecamp.org/news/javascript-coding-interview-practice/",
+          "publishedOn": "2022-08-31T17:39:28.000Z",
+          "wordCount": 3596,
+          "title": "JavaScript Coding Interview Practice – Sample Interview Questions and Solutions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/david-goggins-quotes-about-hard-work.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-remove-an-element-from-a-javascript-array-removing-a-specific-item-in-js/",
+          "author": "Ilenia Magoni",
+          "description": "You will often need to remove an element from an array in JavaScript, whether it's for a queue data structure, or maybe from your React State. In the first half of this article you will learn all the methods that allow you to remove an element from an array without",
+          "link": "https://www.freecodecamp.org/news/how-to-remove-an-element-from-a-javascript-array-removing-a-specific-item-in-js/",
+          "publishedOn": "2022-08-31T17:00:43.000Z",
+          "wordCount": 2514,
+          "title": "How to Remove an Element from a JavaScript Array – Removing a Specific Item in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/vinicius-amnx-amano-dbOV1qSiL-c-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-react-from-three-all-star-instructors/",
+          "author": "Beau Carnes",
+          "description": "React is one of the most popular frontend JavaScript frameworks. If you want to be a frontend developer, you will likely need to know something about React. We just published a full React course for beginners on the freeCodeCamp.org YouTube channel. This course is unlike most of the other React",
+          "link": "https://www.freecodecamp.org/news/learn-react-from-three-all-star-instructors/",
+          "publishedOn": "2022-08-31T14:46:20.000Z",
+          "wordCount": 1191,
+          "title": "Learn React from Three All-Star Instructors",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/react-project.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/wordpress-to-hugo-scripts/",
           "author": "Lane Wagner",
           "description": "I recently decided to switch Boot.dev's [https://boot.dev] blog from WordPress to a static site generator. I decided on Hugo [https://gohugo.io/], partly because I’m a huge fan of the Go programming language, but also because it just seemed like the best option from a dev-experience perspective.  Here’s why I decided",
@@ -1069,6 +1119,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=118388",
+          "author": "Steven Strogatz",
+          "description": "Rethinking questions and chasing patterns led Newton to find the connection between curves and infinite sums.             \nThe post How Isaac Newton Discovered the Binomial Power Series first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/",
+          "publishedOn": "2022-08-31T05:16:19.000Z",
+          "wordCount": 6296,
+          "title": "How Isaac Newton Discovered the Binomial Power Series",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Newton_1200_social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=118340",
           "author": "Max G. Levy",
           "description": "Anima Anandkumar wants computer scientists to move beyond the matrix, among other challenges.            \nThe post The AI Researcher Giving Her Field Its Bitter Medicine first appeared on Quanta Magazine",
@@ -1247,16 +1307,6 @@
           "wordCount": 7249,
           "title": "Geometric Analysis Reveals How Birds Mastered Flight",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/08/Bird-Biomechanics_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=117480",
-          "author": "Allison Whitten",
-          "description": "Christopher Kanan is building algorithms that can continuously learn over time — the way we do.            \nThe post The Computer Scientist Challenging AI to Learn Better first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/the-computer-scientist-trying-to-teach-ai-to-learn-like-we-do-20220802/",
-          "publishedOn": "2022-08-02T13:58:19.000Z",
-          "wordCount": 6749,
-          "title": "The Computer Scientist Challenging AI to Learn Better",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/08/Christopher_Kanan_520x292.jpg"
         }
       ]
     },
@@ -1391,26 +1441,6 @@
           "wordCount": 1200,
           "title": "New in VS Code – sticky function signatures (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:New%20in%20VS%20Code%20%E2%80%93%20sticky%20function%20signatures/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/how-to-create-a-module-based-node-js-executable/",
-          "author": null,
-          "description": "Many of my projects include Node.js scripts to perform setup or teardown steps. And while I could run all of them with the node binary (node create-thumbnails.js), I prefer to remove the file extension and make the scripts executables (./create-thumbnails). This approach saves characters, and makes me feel like a hacker!\nMy steps to create an executable are:\nRemove the .js file extension (mv create-thumbnails.js create-thumbnails).\nMake the file executable  (chmod 744 create-thumbnails).\nAdd a shebang (#!/usr/bin/env node) to signal that the executing shell should use the node binary.\nEt voilà, you just created a Node.js executable!\nThis approach has served me well for CommonJS-based scripts using the require function. But it's 2022, and I planned to adopt ECMAScript modules in Node.js exe…",
-          "link": "https://www.stefanjudis.com/snippets/how-to-create-a-module-based-node-js-executable/",
-          "publishedOn": "2022-08-01T22:00:00.000Z",
-          "wordCount": 1589,
-          "title": "How to create a module-based Node.js executable (#snippet)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20create%20a%20module-based%20Node.js%20executable/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-73/",
-          "author": null,
-          "description": "Howdy, party people!\n\nWhat new CSS features are you most excited about? It's hands-down the :has() pseudo-class for me, because :has() flips CSS around, and content will finally be able to influence styling!\nDave Rupert published a post including this :has() selector to style the first element but only if it's included in an odd-numbered list.\nBut there's a surprise: you don't even need :has() for this. Temani Afif shared that you can do it with nth-last-of-type, too.\nAnd while we're at it, do you remember this snippet? It's a CSS quantity query to select li elements, but only if there are three or more list elements. 🤯\nI'm blown away by all this CSS magic, but I wonder how wild and complicated future CSS will become. We're in the :has() discovery phase right now, and we'll have to find o…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-73/",
-          "publishedOn": "2022-08-01T22:00:00.000Z",
-          "wordCount": 1944,
-          "title": "Web Weekly #73 (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252373/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
         }
       ]
     },
