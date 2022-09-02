@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/python-string-replace-how-to-replace-a-character-in-a-string/",
+          "author": "Dillion Megida",
+          "description": "Python has numerous string modifying methods, and one of them is the replace  method. In this article, I'll show you how this method can be used to replace a character in a string. How the replace Method Works in Python The replace string method returns a new string with",
+          "link": "https://www.freecodecamp.org/news/python-string-replace-how-to-replace-a-character-in-a-string/",
+          "publishedOn": "2022-09-01T21:59:34.000Z",
+          "wordCount": 1182,
+          "title": "Python String.replace() – How to Replace a Character in a String",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/string-replace.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-an-ide-for-beginners/",
+          "author": "Joel Olawanle",
+          "description": "When you're first learning to code, there are a few tools you'll typically want to decide on before getting started. You'll pick a tech stack and a programming language to learn and use, and you'll also choose an IDE, or integrated development environment, where you'll write your code. Many different",
+          "link": "https://www.freecodecamp.org/news/what-is-an-ide-for-beginners/",
+          "publishedOn": "2022-09-01T18:48:32.000Z",
+          "wordCount": 1701,
+          "title": "What is an IDE? IDE Meaning in Coding",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/cover-template--4-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-deploy-nodejs-application-with-render/",
+          "author": "Yogesh Chavan",
+          "description": "For years, Heroku has been an excellent platform to host your Full Stack applications. freeCodeCamp made heavy use of Heroku early on – as have countless open source projects.  But that may change, as Heroku is bringing its generous free tier to an end. You may have received email",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-nodejs-application-with-render/",
+          "publishedOn": "2022-09-01T16:08:27.000Z",
+          "wordCount": 1894,
+          "title": "How to Deploy Your Node.js Application for Free with Render",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-pixabay-163235--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sql-aggregate-functions-how-to-group-by-in-mysql-and-postgresql/",
+          "author": "Kolade Chris",
+          "description": "In SQL, aggregate functions let you perform a calculation on multiple data and return a single value. That’s why they are called “aggregate” functions. Those aggregate functions are AVG(), COUNT(), SUM(), MIN(), and MAX(). While making queries with the aggregate functions, you can also use them in combination with the",
+          "link": "https://www.freecodecamp.org/news/sql-aggregate-functions-how-to-group-by-in-mysql-and-postgresql/",
+          "publishedOn": "2022-09-01T15:57:13.000Z",
+          "wordCount": 1834,
+          "title": "SQL Aggregate Functions – How to Group By in MySQL and PostgreSQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/agg.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-blueprints-to-organize-flask-apps/",
+          "author": "Ashutosh Krishna",
+          "description": "Flask is a simple, easy-to-use microframework for Python that can help you build scalable and secure web applications.  Sometimes you'll find developers dumping all of their logic into a single file called app.py. You will find a lot of tutorials that follow the same pattern. But it's not a",
+          "link": "https://www.freecodecamp.org/news/how-to-use-blueprints-to-organize-flask-apps/",
+          "publishedOn": "2022-09-01T15:25:10.000Z",
+          "wordCount": 1657,
+          "title": "How to Use Blueprints to Organize Your Flask Apps",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/blueprints.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-lazy-load-images-in-react/",
           "author": "Victor Eke",
           "description": "Optimizing the assets you use on your websites – like lazy loading images – is one of the most effective ways to improve web performance. Doing this helps you make sure that your websites are fast, they have great SEO [https://en.wikipedia.org/wiki/Search_engine_optimization], and it helps enhance the user experience. In this",
@@ -1080,36 +1130,6 @@
           "wordCount": 1738,
           "title": "How to Keep your Angular Data-Flow Tidy and Efficient",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-isaque-pereira-394377.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-php-write-your-first-php-program/",
-          "author": "Michael lee",
-          "description": "In this article, you will learn what the PHP programming language is and how to write your first program with it.  History of PHP PHP is the most used and popular scripting language generated for web development. You can embed it in HTML documents. PHP is written in the",
-          "link": "https://www.freecodecamp.org/news/what-is-php-write-your-first-php-program/",
-          "publishedOn": "2022-08-03T11:00:00.000Z",
-          "wordCount": 2157,
-          "title": "What is PHP? How to Write Your First PHP Program",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Untitled-2-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-read-json-file-in-javascript/",
-          "author": "Joel Olawanle",
-          "description": "When fetching data from external sources or servers, you need to make sure that the data returned is in JSON format. Then you can consume the data within your application. In some situations, when you're working locally or when you upload the data file to a server, we might want",
-          "link": "https://www.freecodecamp.org/news/how-to-read-json-file-in-javascript/",
-          "publishedOn": "2022-08-02T21:35:23.000Z",
-          "wordCount": 1516,
-          "title": "How to Read a JSON File in JavaScript – Reading JSON in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template--5-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-add-animation-to-your-site-with-rough-notation/",
-          "author": "Njong Emy",
-          "description": "I love animating websites. It's so fun when you just look at a site, and there are cool animations that make everything look pretty.  Getting started with an animation library does not have to be hard. Anyone can add a bit of animation to their site regardless of whether",
-          "link": "https://www.freecodecamp.org/news/how-to-add-animation-to-your-site-with-rough-notation/",
-          "publishedOn": "2022-08-02T16:52:13.000Z",
-          "wordCount": 2030,
-          "title": "How to Use the Rough Notation Library to Animate Your Website",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Purple-Minimal-We-Are-Hiring-Twitter-Post--7-.png"
         }
       ]
     },
@@ -1118,6 +1138,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=118504",
+          "author": "Jonathan O'Callaghan",
+          "description": "The grainy image of a “super-Jupiter” is a sign of what’s to come as the telescope’s exoplanet observations ramp up.            \nThe post Webb Space Telescope Snaps Its First Photo of an Exoplanet first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/webb-space-telescope-snaps-its-first-photo-of-an-exoplanet-20220901/",
+          "publishedOn": "2022-09-01T14:00:23.000Z",
+          "wordCount": 5415,
+          "title": "Webb Space Telescope Snaps Its First Photo of an Exoplanet",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/Ancient-Antiviral-System_1200_Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=118388",
           "author": "Steven Strogatz",
@@ -1297,16 +1327,6 @@
           "wordCount": 4900,
           "title": "At Long Last, Mathematical Proof That Black Holes Are Stable",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/08/Kerr_Stability_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=117520",
-          "author": "Yasemin Saplakoglu",
-          "description": "Partnerships between engineers and biologists have begun to reveal how birds evolved their superb maneuverability.            \nThe post Geometric Analysis Reveals How Birds Mastered Flight first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/geometric-analysis-reveals-how-birds-mastered-flight-20220803/",
-          "publishedOn": "2022-08-03T13:26:27.000Z",
-          "wordCount": 7249,
-          "title": "Geometric Analysis Reveals How Birds Mastered Flight",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/08/Bird-Biomechanics_1200_Social.jpg"
         }
       ]
     },
