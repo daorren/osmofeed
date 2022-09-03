@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/",
+          "author": "TAPAS ADHIKARY",
+          "description": "What comes to mind when you hear the term Open Source? In the programming world, open source is a generic term for Open Source Software (OSS). Open-source software is built on source code that's open to everyone to view, change, extend, and distribute. In this article, we will get into",
+          "link": "https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/",
+          "publishedOn": "2022-09-02T16:34:40.000Z",
+          "wordCount": 3623,
+          "title": "Open Source for Developers – A Beginner's Handbook to Help You Start Contributing",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Book-PNG.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-dom-build-a-calculator-app/",
+          "author": "Spruce Emmanuel",
+          "description": "You're going to spend a lot of time working on webpages when using JavaScript. In fact, while you're using JavaScript, the webpage is where all the exciting and important stuff takes place.  A webpage is one big document for a JavaScript developer since every element on the page is",
+          "link": "https://www.freecodecamp.org/news/javascript-dom-build-a-calculator-app/",
+          "publishedOn": "2022-09-02T15:40:00.000Z",
+          "wordCount": 5529,
+          "title": "JavaScript DOM Tutorial – How to Build a Calculator App in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Web-capture_31-8-2022_83456_localhost.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-monitor-python-apis-using-pyctuator-and-springbootadmin/",
+          "author": "Sameer Shukla",
+          "description": "Actuator endpoints help us monitor our services. By using actuators, we can gain a lot of information about what’s going on.  SpringBoot has a number of in-built actuators, and it also allows us to create our own Actuator Endpoint.  For frameworks written in Python like Flask or FastAPI,",
+          "link": "https://www.freecodecamp.org/news/how-to-monitor-python-apis-using-pyctuator-and-springbootadmin/",
+          "publishedOn": "2022-09-02T15:02:51.000Z",
+          "wordCount": 1517,
+          "title": "How to Monitor Python APIs using Pyctuator and SpringBootAdmin",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Screen-Shot-2022-09-01-at-12.18.52-AM.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/python-string-replace-how-to-replace-a-character-in-a-string/",
           "author": "Dillion Megida",
           "description": "Python has numerous string modifying methods, and one of them is the replace  method. In this article, I'll show you how this method can be used to replace a character in a string. How the replace Method Works in Python The replace string method returns a new string with",
@@ -1050,86 +1080,6 @@
           "wordCount": 1331,
           "title": "HTML Font Size – How to Change Text Size with an HTML Tag",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template--6-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/list-index-out-of-range-python-error-solved/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In this article, we'll talk about the IndexError: list index out of range error in Python.  In each section of the article, I'll highlight a possible cause for the error and how to fix it. You may get the IndexError: list index out of range error for the following",
-          "link": "https://www.freecodecamp.org/news/list-index-out-of-range-python-error-solved/",
-          "publishedOn": "2022-08-03T22:13:38.000Z",
-          "wordCount": 1840,
-          "title": "List Index Out of Range – Python Error [Solved]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/kelly-sikkema--1_RZL8BGBM-unsplash--3-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-redux-powered-react-app/",
-          "author": "Soham De Roy",
-          "description": "The Problem We're Solving In many cases when we want to create a small application, we might have some components that declare and use their own state. And in a few cases, a component might want to share the state with its immediate children. We can handle these situations just",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-redux-powered-react-app/",
-          "publishedOn": "2022-08-03T21:51:56.000Z",
-          "wordCount": 3715,
-          "title": "How to Build a Redux-Powered React App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Group-58.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-random-number-how-to-generate-a-random-number-in-js/",
-          "author": "Dionysia Lemonaki",
-          "description": "When working with a JavaScript program, there may be times when you will need to generate a random number. For example, you may want to generate a random number when developing a JavaScript game, such as a number guessing game. JavaScript has many built-in methods for working with numbers and",
-          "link": "https://www.freecodecamp.org/news/javascript-random-number-how-to-generate-a-random-number-in-js/",
-          "publishedOn": "2022-08-03T19:29:55.000Z",
-          "wordCount": 2230,
-          "title": "JavaScript Random Number – How to Generate a Random Number in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-josh-sorenson-1714208.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/google-sheets-use-regex-and-vlookup-to-display-images-from-google-drive/",
-          "author": "Eamonn Cottrell",
-          "description": "Images make many things better. And Google Sheets is one of those things.  The easiest way to add an image to Google Sheets is to simply insert one into your sheet.  But if you have added many images this way, you'll quickly tire of the multiple clicks it",
-          "link": "https://www.freecodecamp.org/news/google-sheets-use-regex-and-vlookup-to-display-images-from-google-drive/",
-          "publishedOn": "2022-08-03T17:03:25.000Z",
-          "wordCount": 1891,
-          "title": "Google Sheets Tutorial – How to Use Regex and VLOOKUP to Display Images from Google Drive",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/google-sheets-regex.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/free-coding-bootcamp-learn-to-code-with-class-central-and-freecodecamp/",
-          "author": "Jessica Rose",
-          "description": "In 2021, the Class Central team helped my friend and me teach three cohorts of free programming bootcamps based on freeCodeCamp curricula.  We’ve been joined by over 20,000 learners from around the globe and it’s just been an honor and a delight to get to learn along with so",
-          "link": "https://www.freecodecamp.org/news/free-coding-bootcamp-learn-to-code-with-class-central-and-freecodecamp/",
-          "publishedOn": "2022-08-03T16:48:08.000Z",
-          "wordCount": 1381,
-          "title": "Free Coding Bootcamp – Learn to Code with Class Central + freeCodeCamp",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-sora-shimazaki-5935794--2-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-a-factorial/",
-          "author": "Ilenia Magoni",
-          "description": "A factorial is a mathematical operation that you write like this: n!. It represents the multiplication of all numbers between 1 and n. So if you were to have 3!, for example, you'd compute 3 x 2 x 1 (which = 6). Let's see how it works with some more",
-          "link": "https://www.freecodecamp.org/news/what-is-a-factorial/",
-          "publishedOn": "2022-08-03T16:32:53.000Z",
-          "wordCount": 1577,
-          "title": "What is a Factorial? How to Calculate Factorials with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/antoine-dautry-_zsL306fDck-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/page-fault-in-nonpaged-area-how-to-fix-the-error-on-a-windows-10-pc/",
-          "author": "Kolade Chris",
-          "description": "In Windows, the nonpaged area is the part of the memory that contains critical files your computer needs to function properly. Those critical files are stored in the nonpaged area so the RAM won’t switch them back and forth between itself and the paged area. Once there’s an issue with",
-          "link": "https://www.freecodecamp.org/news/page-fault-in-nonpaged-area-how-to-fix-the-error-on-a-windows-10-pc/",
-          "publishedOn": "2022-08-03T16:20:21.000Z",
-          "wordCount": 1406,
-          "title": "Page fault in nonpaged area – How to Fix the Error on a Windows 10 PC",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/bsod.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-keep-your-angular-data-flow-tidy-and-efficient/",
-          "author": "Valentine Gatwiri",
-          "description": "Developing large-scale Angular applications can feel like trying to ride a bicycle with your eyes closed and both hands tied behind your back.  The data flow in an Angular application can be extremely complex, especially when dealing with bidirectional data binding, asynchronous updates, forms, and routing.  The key",
-          "link": "https://www.freecodecamp.org/news/how-to-keep-your-angular-data-flow-tidy-and-efficient/",
-          "publishedOn": "2022-08-03T15:18:02.000Z",
-          "wordCount": 1738,
-          "title": "How to Keep your Angular Data-Flow Tidy and Efficient",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-isaque-pereira-394377.jpg"
         }
       ]
     },
@@ -1317,16 +1267,6 @@
           "wordCount": 9450,
           "title": "A Biochemist’s View of Life’s Origin Reframes Cancer and Aging",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/08/Nick_Lane_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=117576",
-          "author": "Steve Nadis",
-          "description": "The solutions to Einstein’s equations that describe a spinning black hole won’t blow up, even when poked or prodded.             \nThe post At Long Last, Mathematical Proof That Black Holes Are Stable first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/black-holes-finally-proven-mathematically-stable-20220804/",
-          "publishedOn": "2022-08-04T13:38:35.000Z",
-          "wordCount": 4900,
-          "title": "At Long Last, Mathematical Proof That Black Holes Are Stable",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/08/Kerr_Stability_1200_Social.jpg"
         }
       ]
     },
@@ -1469,6 +1409,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/426",
+          "author": null,
+          "description": "#​426 — September 2, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \n▶  How Go Became Its Best Self — If you’re not familiar with Cameron yet, you soon will be – he’s recently become the product lead for Go at Google. At GopherCon Europe 2022 he spoke about how Google’s background led to the creation of Go, the phases of Go’s growth, how Google thinks about Go’s trajectory going forward, and why enterprise adoption is important.\nCameron Balahan \n\n\n  \n  \nHow to Write Accurate Benchmarks in Go — An excerpt from the author’s book 100 Go Mistakes and How to Avoid Them, this post describes four common issues with benchmarking. I’d bet we’ve all tripped over at least one of these..\nTeiva Harsanyi \n\n\n  \n  \nGo Notification Infrastructure: Stop Wasting Engineeri…",
+          "link": "https://golangweekly.com/issues/426",
+          "publishedOn": "2022-09-02T00:00:00.000Z",
+          "wordCount": 812,
+          "title": "How Go wants to 'embrace the enterprise'",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/425",
           "author": null,
