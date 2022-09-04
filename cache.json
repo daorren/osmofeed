@@ -1040,46 +1040,6 @@
           "wordCount": 1331,
           "title": "Python Switch Statement – Switch Case Example",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/switchCase.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/beginners-guide-to-props-in-react/",
-          "author": "Oyedele Temitope",
-          "description": "Props are used to store data that can be accessed by the children of a React component.  They are part of the concept of reusability. Props take the place of class attributes and allow you to create consistent interfaces across the component hierarchy. In this article, we'll learn about",
-          "link": "https://www.freecodecamp.org/news/beginners-guide-to-props-in-react/",
-          "publishedOn": "2022-08-04T17:31:54.000Z",
-          "wordCount": 2157,
-          "title": "How Props Work in React – A Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/A-Beginner-s-Guide-to-Props-in-Reacte--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-blazor-app-with-syncfusion-ui-components/",
-          "author": "Beau Carnes",
-          "description": "Syncfusion provides a UI component suite for building powerful web, desktop, and mobile apps. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to harness the power of the Syncfusion UI components from within a Blazor server application. You'll also learn to integrate",
-          "link": "https://www.freecodecamp.org/news/create-a-blazor-app-with-syncfusion-ui-components/",
-          "publishedOn": "2022-08-04T17:04:56.000Z",
-          "wordCount": 1004,
-          "title": "Create a Blazor App with Syncfusion UI Components",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/syncfusion.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-realtime-chat-app-with-react-express-socketio-and-harperdb/",
-          "author": "Danny Adams",
-          "description": "In this article, we will be using Socket.io and HarperDB to build a fullstack, real-time chat application with chat rooms.  This will be a great project to learn how to put together fullstack apps, and how to create an app where the backend can communicate with the frontend in",
-          "link": "https://www.freecodecamp.org/news/build-a-realtime-chat-app-with-react-express-socketio-and-harperdb/",
-          "publishedOn": "2022-08-04T15:53:22.000Z",
-          "wordCount": 7088,
-          "title": "How to Build a Real-time Chat App with React, Node, Socket.io, and HarperDB",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-keira-burton-6146929.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-change-text-size-in-html/",
-          "author": "Joel Olawanle",
-          "description": "When you add text to your HTML file with an HTML tag, you won't always want the text to remain the default size. You'll want to be able to adjust how the text displays in the browser. In this article, you will learn how to change the text size with",
-          "link": "https://www.freecodecamp.org/news/how-to-change-text-size-in-html/",
-          "publishedOn": "2022-08-04T14:52:43.000Z",
-          "wordCount": 1331,
-          "title": "HTML Font Size – How to Change Text Size with an HTML Tag",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template--6-.jpg"
         }
       ]
     },
@@ -1276,6 +1236,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "630a90d8e29f1863e60c089d",
+          "author": "Assaf Arkin",
+          "description": "This week we wield the sword of legacy code maintenance, discuss quiet firing, draw with 4.2 GB, and play disco fever.",
+          "link": "https://labnotes.org/weekend-reading-git-m-disagree-and-commit/",
+          "publishedOn": "2022-09-03T23:06:18.000Z",
+          "wordCount": 1553,
+          "title": "Weekend Reading — 👋 git -m “Disagree and commit”",
+          "imageUrl": "https://labnotes.org/content/images/2022/09/twitter_EQhFwf5XUAIrKfX.jpg"
+        },
+        {
           "id": "63016abe7dd384692b4075c8",
           "author": "Assaf Arkin",
           "description": "This week we have fun with AI art, unravel a scam drive, ask for an estimate do-over, and go viral on LinkedIn. Also Twitter drama.",
@@ -1322,6 +1292,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/disabled-javascript-turns-of-native-lazy-loading/",
+          "author": null,
+          "description": "It's speedy TIL time! Did you know the loading=\"lazy\" attribute doesn't work when you turn off JavaScript?\nNow, you do. 😉\nWhy doesn't lazy load work without JS? There's only one reason why we can't have nice things: of course, it's for tracking prevention.\nHere's the loading MDN documentation explaining the behavior:\nLoading is only deferred when JavaScript is enabled. This is an anti-tracking measure, because if a user agent supported lazy loading when scripting is disabled, it would still be possible for a site to track a user's approximate scroll position throughout a session, by strategically placing images in a page's markup such that a server can track how many images are requested and when.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/disabled-javascript-turns-of-native-lazy-loading/",
+          "publishedOn": "2022-09-02T22:00:00.000Z",
+          "wordCount": 1297,
+          "title": "Disabled JavaScript turns of native lazy loading (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Disabled%20JavaScript%20turns%20of%20native%20lazy%20loading/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-77/",
           "author": null,
@@ -1381,26 +1361,6 @@
           "wordCount": 2018,
           "title": "Web Weekly #74 (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252374/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/new-in-vs-code-sticky-scroll/",
-          "author": null,
-          "description": "The VS Code 1.70 release notes share a new nifty experimental editor feature – sticky scroll!\nFind and enable \"Sticky Scroll\" in your VS Code settings.\nOr add the following line to your settings.json:\n{\n  \"editor.experimental.stickyScroll.enabled\": true\n}\n\nAnd now, see your JavaScript function signatures stick on the top.\nScrolling in VS Code showing that function signatures stick at the top.\n      \n    \nYou might argue now that for JavaScript it's an unnecessary editor feature because if you write clean code with short functions, you won't need it. But a) I'm always happy about pretty editor UI features and b) it works for other file formats such as json, css or yaml, too.\nAfter sharing this feature on Twitter, Elio Struyf pointed out that you can also configure the sticky element's background color. 🎉\n{\n  \"workbench.colorCustomizations\": {\n    \"editorStickyScroll.background\": \"#D44\",\n    \"editorStickyScrollHover.background\": \"#A00\"\n  }\n}\n\nIt might need a little tweaking to make it work with your color theme, though. 🙈\nVS Code with colored sticky function signatures.\n      \n    \n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/blog/new-in-vs-code-sticky-scroll/",
-          "publishedOn": "2022-08-04T22:00:00.000Z",
-          "wordCount": 1262,
-          "title": "New in VS Code – Sticky Scroll (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:New%20in%20VS%20Code%20%E2%80%93%20Sticky%20Scroll/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/new-in-vs-code-sticky-function-signatures/",
-          "author": null,
-          "description": "The VS Code 1.70 release notes include a nifty new experimental editor feature – sticky function signatures!\nAdd the following to your settings.json:\n{\n  \"editor.experimental.stickyScroll.enabled\": true\n}\n\nOne might argue that it's an unnecessary feature because if you're writing clean code, you won't need it, but still... I'm there for pretty editor UI features!\nScrolling in VS Code showing that function signatures stick at the top.\n      \n    \nAfter sharing this feature on Twitter, Elio Struyf pointed out that you can also configure the sticky element's background color. 🎉\n{\n  \"workbench.colorCustomizations\": {\n    \"editorStickyScroll.background\": \"#D44\",\n    \"editorStickyScrollHover.background\": \"#A00\"\n  }\n}\n\nIt might need a little tweaking to make it work with your color theme, though. 🙈\nVS Code with colored sticky function signatures.\n      \n    \n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/blog/new-in-vs-code-sticky-function-signatures/",
-          "publishedOn": "2022-08-04T22:00:00.000Z",
-          "wordCount": 1200,
-          "title": "New in VS Code – sticky function signatures (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:New%20in%20VS%20Code%20%E2%80%93%20sticky%20function%20signatures/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
@@ -1437,16 +1397,6 @@
           "publishedOn": "2022-08-12T00:00:00.000Z",
           "wordCount": 856,
           "title": "Crochet your own Go gopher.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/423",
-          "author": null,
-          "description": "#​423 — August 5, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nGo 1.19 Released — First and foremost: “We expect almost all Go programs to continue to compile and run as before.” Phew! Go 1.19 isn't as significant a release as 1.18 and is focused more on refining what we already have, but what's new?\n\n\nThe garbage collector can now be given a soft memory limit. More here.\nGo’s memory model now explicitly defines the behavior of the sync/atomic package, as we covered last week.\nThe os/exec package no longer respects relative paths in PATH lookups.\nDoc comments now support links, lists and headings prefixed with #\n\nFixes for 'subtle issues' relating to generics.\nAll the typical performance tweaks.\nThe Go Team \n\n\n  \n  \nDebug Go Apps Without Stopping The…",
-          "link": "https://golangweekly.com/issues/423",
-          "publishedOn": "2022-08-05T00:00:00.000Z",
-          "wordCount": 775,
-          "title": "Go 1.19 released",
           "imageUrl": null
         }
       ]
