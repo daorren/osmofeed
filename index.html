@@ -61,6 +61,47 @@
                 </section>
               </section>
             </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/blog/web-weekly-78/"
+                        open
+                      >
+                        <summary class="article-expander__title">Web Weekly #78 (#blogPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/blog/web-weekly-78/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.stefanjudis.com/newsletter-social.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Guten Tag, lovely humans!
+
+I usually try to ignore all this AI/ML stuff, but we&#x27;re entering spooky times, and I decided it&#x27;s better to be informed about what&#x27;s happening.
+DALL·E is a fun example, right? Give the algorithm a random sentence and receive generated images. It&#x27;s not perfect yet, but good enough to tweet some funny pictures.
+And it&#x27;s also cool that you can feed computers an image like the &quot;Girl with a Pearl Earring&quot;, and they just extend it.
+Or pair rough sketches with a description to generate art. (This one&#x27;s wild. 👇)
+There&#x27;s rapid development in all this, and it&#x27;s scary. Because where will we draw the line?
+Computers are becoming so good at painting, writing and creating that we&#x27;ll always have to investigate if a human or an algorithm made something. Do we have to become exp…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -86,6 +127,37 @@
                   <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/today-i-learned/disabled-javascript-turns-off-native-lazy-loading/"
+                        open
+                      >
+                        <summary class="article-expander__title">Disabled JavaScript turns off native lazy loading (#tilPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/disabled-javascript-turns-off-native-lazy-loading/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Disabled%20JavaScript%20turns%20off%20native%20lazy%20loading/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>It&#x27;s speedy TIL time! Did you know the loading&#x3D;&quot;lazy&quot; attribute doesn&#x27;t work when you turn off JavaScript?
+Now, you do. 😉
+Why doesn&#x27;t lazy load work without JS? There&#x27;s only one reason why we can&#x27;t have nice things: of course, it&#x27;s for tracking prevention.
+Here&#x27;s the loading MDN documentation explaining the behavior:
+Loading is only deferred when JavaScript is enabled. This is an anti-tracking measure, because if a user agent supported lazy loading when scripting is disabled, it would still be possible for a site to track a user&#x27;s approximate scroll position throughout a session, by strategically placing images in a page&#x27;s markup such that a server can track how many images are requested and when.
+And if you really want to get into this topic, here&#x27;s the related spec describing when loading&#x3D;&quot;lazy&quot; should work.
+And just to be clear, because some folks were confused: images will still load when JS is disabled. It&#x27;s only the deferred loading that won&#x27;t work.
+
+
+          
+          
+            Reply to Stefan</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -3977,78 +4049,10 @@ But it&#x27;s not only about creating a sec…</span>
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-05 datetime="2022-08-05T15:45:03.000Z">2022-08-05</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-05 datetime="2022-08-05T15:45:03.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >freeCodeCamp.org</button>
-                  <a class="source-heading__link" href="https://www.freecodecamp.org/news/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/git-best-practices-commits-and-code-reviews/"
-                        open
-                      >
-                        <summary class="article-expander__title">Git Best Practices – How to Write Meaningful Commits, Effective Pull Requests, and Code Reviews</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/git-best-practices-commits-and-code-reviews/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2022/08/How-to-master-git-commits-and-code-reviews--1-.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>As developers we push regular code commits – and after a while, it&#x27;s almost second nature to us.  But does this mean we&#x27;re doing things right? Familiarity often leads to sloppiness and overlooking the basics. In this article, we will explore  * How to write meaningful Git commit</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;13
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/python-switch-statement-switch-case-example/"
-                        open
-                      >
-                        <summary class="article-expander__title">Python Switch Statement – Switch Case Example</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/python-switch-statement-switch-case-example/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2022/08/switchCase.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Until version 3.10, Python never had a feature that implemented what the switch statement does in other programming languages. So, if you wanted to execute multiple conditional statements, you would&#x27;ve had to use the elif keyword like this: age &#x3D; 120 if age &gt; 90:     print(&quot;You</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/2986538858">
-        <time id="build-timestamp" datetime="2022-09-04T02:22:15.448Z">2022-09-04T02:22:15.448Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/2990432437">
+        <time id="build-timestamp" datetime="2022-09-05T02:27:14.592Z">2022-09-05T02:27:14.592Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

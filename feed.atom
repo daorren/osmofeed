@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-04T02:22:15.473Z</updated>
+    <updated>2022-09-05T02:27:14.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -14,6 +14,44 @@
         <summary type="html"><![CDATA[This week we wield the sword of legacy code maintenance, discuss quiet firing, draw with 4.2 GB, and play disco fever.]]></summary>
         <author>
             <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #78 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-78/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-78/"/>
+        <updated>2022-09-03T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag, lovely humans!
+
+I usually try to ignore all this AI/ML stuff, but we're entering spooky times, and I decided it's better to be informed about what's happening.
+DALL·E is a fun example, right? Give the algorithm a random sentence and receive generated images. It's not perfect yet, but good enough to tweet some funny pictures.
+And it's also cool that you can feed computers an image like the "Girl with a Pearl Earring", and they just extend it.
+Or pair rough sketches with a description to generate art. (This one's wild. 👇)
+There's rapid development in all this, and it's scary. Because where will we draw the line?
+Computers are becoming so good at painting, writing and creating that we'll always have to investigate if a human or an algorithm made something. Do we have to become exp…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disabled JavaScript turns off native lazy loading (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/disabled-javascript-turns-off-native-lazy-loading/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/disabled-javascript-turns-off-native-lazy-loading/"/>
+        <updated>2022-09-02T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's speedy TIL time! Did you know the loading="lazy" attribute doesn't work when you turn off JavaScript?
+Now, you do. 😉
+Why doesn't lazy load work without JS? There's only one reason why we can't have nice things: of course, it's for tracking prevention.
+Here's the loading MDN documentation explaining the behavior:
+Loading is only deferred when JavaScript is enabled. This is an anti-tracking measure, because if a user agent supported lazy loading when scripting is disabled, it would still be possible for a site to track a user's approximate scroll position throughout a session, by strategically placing images in a page's markup such that a server can track how many images are requested and when.
+And if you really want to get into this topic, here's the related spec describing when loading="lazy" should work.
+And just to be clear, because some folks were confused: images will still load when JS is disabled. It's only the deferred loading that won't work.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
@@ -1523,26 +1561,6 @@ But it's not only about creating a sec…]]></summary>
         <summary type="html"><![CDATA[This week is 17th anniversary of my blog! We also play with Word, investigate regional dialects, jump on a quick seance, and eat the devil’s eggs.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Best Practices – How to Write Meaningful Commits, Effective Pull Requests, and Code Reviews]]></title>
-        <id>https://www.freecodecamp.org/news/git-best-practices-commits-and-code-reviews/</id>
-        <link href="https://www.freecodecamp.org/news/git-best-practices-commits-and-code-reviews/"/>
-        <updated>2022-08-05T15:45:03.000Z</updated>
-        <summary type="html"><![CDATA[As developers we push regular code commits – and after a while, it's almost second nature to us.  But does this mean we're doing things right? Familiarity often leads to sloppiness and overlooking the basics. In this article, we will explore  * How to write meaningful Git commit]]></summary>
-        <author>
-            <name>Grant Weatherston</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Switch Statement – Switch Case Example]]></title>
-        <id>https://www.freecodecamp.org/news/python-switch-statement-switch-case-example/</id>
-        <link href="https://www.freecodecamp.org/news/python-switch-statement-switch-case-example/"/>
-        <updated>2022-08-05T15:27:56.000Z</updated>
-        <summary type="html"><![CDATA[Until version 3.10, Python never had a feature that implemented what the switch statement does in other programming languages. So, if you wanted to execute multiple conditional statements, you would've had to use the elif keyword like this: age = 120 if age > 90:     print("You]]></summary>
-        <author>
-            <name>Kolade Chris</name>
         </author>
     </entry>
 </feed>
