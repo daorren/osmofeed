@@ -12,6 +12,76 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-responsive-web-design-helps-businesses/",
+          "author": "Valentine Gatwiri",
+          "description": "As the world of technology continues to advance, so does the way people interact with businesses and organizations.  With the growing popularity of mobile devices, responsive website design has become a must-have. It helps you provide the best user experience to customers regardless of which device they are using",
+          "link": "https://www.freecodecamp.org/news/how-responsive-web-design-helps-businesses/",
+          "publishedOn": "2022-09-06T20:18:06.000Z",
+          "wordCount": 1860,
+          "title": "How Responsive Web Design Can Help Your Business – A Beginner's Guide to RWD",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Screenshot-from-2022-09-02-20-26-21.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-reverse-list-reversing-an-array-in-python/",
+          "author": "Dionysia Lemonaki",
+          "description": "In this article, you will learn how to reverse a list in Python. Firstly, I'll introduce you to lists in Python and you'll learn how to write them. After that, you will see three different ways you can reverse the list items inside any list you create. Here is what",
+          "link": "https://www.freecodecamp.org/news/python-reverse-list-reversing-an-array-in-python/",
+          "publishedOn": "2022-09-06T19:36:06.000Z",
+          "wordCount": 2322,
+          "title": "Python Reverse List – Reversing an Array in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-breakingpic-3243.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-a-framework-software-frameworks-definition/",
+          "author": "Joel Olawanle",
+          "description": "When you're learning to code, you'll frequently hear the term \"framework\". And it can be difficult for new developers to grasp. You'll commonly come across frameworks in roadmap resources, when speaking with other developers, when learning about a new coding tool, and many other places. In this article, you will",
+          "link": "https://www.freecodecamp.org/news/what-is-a-framework-software-frameworks-definition/",
+          "publishedOn": "2022-09-06T17:52:18.000Z",
+          "wordCount": 2396,
+          "title": "What is a Framework? Software Frameworks Definition",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/cover-template--5-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-machine-learning-for-beginners/",
+          "author": "Oluwafunmilola Obisesan",
+          "description": "The term “Machine Learning” was coined by a computer gamer named Arthur Samuel in 1959. He defined it like this: > \"[Machine learning is a] Field of study that gives computers the ability to learn and make predictions without being explicitly programmed.\" ML is a sub-field of Artificial Intelligence. It's",
+          "link": "https://www.freecodecamp.org/news/what-is-machine-learning-for-beginners/",
+          "publishedOn": "2022-09-06T17:25:08.000Z",
+          "wordCount": 2028,
+          "title": "What is Machine Learning? ML Tutorial for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/A6125B75-DB79-4448-94C9-E6ABD3E0E3E9.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-object-oriented-programming/",
+          "author": "Hillary Nyakundi",
+          "description": "In today's technology driven society, computer programming knowledge is in high demand. And as a developer, you'll need to know various programming languages. Over the past few decades, many programming languages have risen in popularity. You can see how popular languages are ranked in this real time ranking chart",
+          "link": "https://www.freecodecamp.org/news/what-is-object-oriented-programming/",
+          "publishedOn": "2022-09-06T17:15:18.000Z",
+          "wordCount": 2587,
+          "title": "OOP Meaning – What is Object-Oriented Programming?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Creative-Business-Template-Presentation--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-eleventy/",
+          "author": "Gerard Hynes",
+          "description": "What is Eleventy? Eleventy (also called 11ty) is a simple yet powerful static site generator. It uses JavaScript to transform data and templates into HTML pages. It’s beginner-friendly, has fast build times, and generates fast sites by default. It also has a very active and friendly community. Eleventy excels at",
+          "link": "https://www.freecodecamp.org/news/learn-eleventy/",
+          "publishedOn": "2022-09-06T16:26:13.000Z",
+          "wordCount": 6675,
+          "title": "Learn the Eleventy Static Site Generator by Building and Deploying a Portfolio Website",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/learn-eleventy.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/world-translation-month-is-back-how-can-you-contribute-to-translate-freecodecamp-into-your-language/",
+          "author": "Daniel Rosa",
+          "description": "One year has passed since freeCodeCamp held our first World Translation Month in September 2021.  Well, it’s September again – and here we are for the second installment of this month-long event. freeCodeCamp is holding our World Translation Month for the second year in a row, taking place September",
+          "link": "https://www.freecodecamp.org/news/world-translation-month-is-back-how-can-you-contribute-to-translate-freecodecamp-into-your-language/",
+          "publishedOn": "2022-09-06T14:00:47.000Z",
+          "wordCount": 1644,
+          "title": "World Translation Month is Back – How to Help Translate freeCodeCamp into Your Native Language",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/World-Translation-Month-Article-Image-1.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/",
           "author": "TAPAS ADHIKARY",
           "description": "What comes to mind when you hear the term Open Source? In the programming world, open source is a generic term for Open Source Software (OSS). Open-source software is built on source code that's open to everyone to view, change, extend, and distribute. In this article, we will get into",
@@ -1000,26 +1070,6 @@
           "wordCount": 2499,
           "title": "How to Create a Style Guide in Figma",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/style-guide.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/typeerror-str-object-is-not-callable-how-to-fix-in-python/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Every programming language has certain keywords with specific, prebuilt functionalities and meanings.  Naming your variables or functions after these keywords is most likely going to raise an error. We'll discuss one of these cases in this article — the  TypeError: 'str' object is not callable error in Python.",
-          "link": "https://www.freecodecamp.org/news/typeerror-str-object-is-not-callable-how-to-fix-in-python/",
-          "publishedOn": "2022-08-08T14:21:57.000Z",
-          "wordCount": 1205,
-          "title": "Typeerror: str object is not callable – How to Fix in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/brett-jordan-XWar9MbNGUY-unsplash--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-node-js-and-express-in-spanish-course-for-beginners/",
-          "author": "Estefania Cassingena Navone",
-          "description": "Hi! If you speak Spanish and you want to learn Node.js, and Express, you are in the right place.  In this article, you will find a brief introduction to back-end web development, Node.js, and Express. You will learn why they are very powerful tools for developing web servers and",
-          "link": "https://www.freecodecamp.org/news/learn-node-js-and-express-in-spanish-course-for-beginners/",
-          "publishedOn": "2022-08-08T04:35:40.000Z",
-          "wordCount": 2472,
-          "title": "Learn Node.js and Express in Spanish – Course for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/thumbnail.png"
         }
       ]
     },
@@ -1028,6 +1078,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=118556",
+          "author": "Kevin Hartnett",
+          "description": "What’s a message, really? Claude Shannon recognized that the elemental ingredient is surprise.            \nThe post How Shannon Entropy Imposes Fundamental Limits on Communication first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-claude-shannons-concept-of-entropy-quantifies-information-20220906/",
+          "publishedOn": "2022-09-06T14:09:46.000Z",
+          "wordCount": 4929,
+          "title": "How Shannon Entropy Imposes Fundamental Limits on Communication",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/Shannon-Entropy_1200_Social.png"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=118504",
           "author": "Jonathan O'Callaghan",
@@ -1341,16 +1401,6 @@
           "wordCount": 1206,
           "title": "How to force push git branches without the --force flag (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20force%20push%20git%20branches%20without%20the%20--force%20flag/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-74/",
-          "author": null,
-          "description": "Happy new week, friends! 👋\n\nPersonal blogs seem to be on the rise lately. I see more and more new blogs, and I'm there for it!\nMany people think that blogging is primarily about writing things down for others. It's not. My blog has turned into my own little knowledge base over the years. I don't mind publishing quick thoughts or notes with five sentences. 🤷‍♂️ If people find value in it, great! If not, also great because I posted it for my future self.\nI often don't remember solutions or facts, but I remember when I made a note on my blog and read my own posts multiple times a week. I write things down to remember.\nAs Marco Heine puts it in \"Just hit publish\":\nIt doesn’t have to be perfect. It has to be on here. That’s the main goal.\nStrongly agree!\nBut it's not only about creating a sec…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-74/",
-          "publishedOn": "2022-08-07T22:00:00.000Z",
-          "wordCount": 2018,
-          "title": "Web Weekly #74 (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Weekly%20%252374/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-newsletter-dude"
         }
       ]
     },
