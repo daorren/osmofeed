@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/intro-to-deno/",
+          "author": "Brian Barrow",
+          "description": "What is Deno? Deno is a new JavaScript runtime. It was built by Ryan Dahl, the creator of Node.js.  Dahl had a few things that he regretted doing with Node and wanted to build a runtime that could solve those issues. Deno, like Node, is built on the V8",
+          "link": "https://www.freecodecamp.org/news/intro-to-deno/",
+          "publishedOn": "2022-09-09T22:50:17.000Z",
+          "wordCount": 1603,
+          "title": "Intro to Deno – Guide for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Screen-Shot-2022-09-07-at-4.09.00-PM.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/git-push-local-branch-to-remote-how-to-publish-a-new-branch-in-git/",
+          "author": "Kolade Chris",
+          "description": "Git branches let you add new features without tampering with the live version of your projects. And if you work in a team, different developers might have unique branches they work on. In the long run, you'll have to push those independent branches to a remote server. For example, GitHub,",
+          "link": "https://www.freecodecamp.org/news/git-push-local-branch-to-remote-how-to-publish-a-new-branch-in-git/",
+          "publishedOn": "2022-09-09T20:36:25.000Z",
+          "wordCount": 1210,
+          "title": "Git Push Local Branch to Remote – How to Publish a New Branch in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/code-5290465_1920.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/",
+          "author": "Dillion Megida",
+          "description": "In this article, I'll explain how you can install NVM, or Node Version Manager, on Windows, Linux, and Mac. What is NVM? Node Version Manager (NVM), as the name implies, is a tool for managing Node versions on your device. Different projects on your device may be using different versions",
+          "link": "https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/",
+          "publishedOn": "2022-09-09T18:23:56.000Z",
+          "wordCount": 1473,
+          "title": "Node Version Manager – nvm Install Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/install-nvm.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-make-line-charts-in-javascript/",
           "author": "Shachee Swadia",
           "description": "Data visualization is a vast field with so many different types of charts [https://datavizcatalogue.com/] to learn and create.  But there are several basic, evergreen graphs that every data designer and web developer dealing with analytics should know how to build.  One of them is a Line Chart (or",
@@ -1030,86 +1060,6 @@
           "wordCount": 852,
           "title": "Implement Event-Driven Architecture with React and FastAPI",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/eventdriven.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/three-dots-operator-in-javascript/",
-          "author": "Joel Olawanle",
-          "description": "The three dots operator in JavaScript is one of the significant updates that was shipped with ES6. This operator (...) helps you achieve many things that previously required many lines of code, unfamiliar syntax, and more. In this short article, you will learn what the three dots operator means and",
-          "link": "https://www.freecodecamp.org/news/three-dots-operator-in-javascript/",
-          "publishedOn": "2022-08-10T23:38:25.000Z",
-          "wordCount": 2051,
-          "title": "... in JavaScript – the Three Dots Operator in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/2d-array-in-java-two-dimensional-and-nested-arrays/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "A multidimensional array is simply an array [/news/java-array-how-to-declare-and-initialize-an-array-in-java-example/] of arrays. You can look it as a single container that stores multiple containers.  In this article, we'll talk two dimensional arrays in Java. You'll see the syntax for creating one, and how to add and access items in a two",
-          "link": "https://www.freecodecamp.org/news/2d-array-in-java-two-dimensional-and-nested-arrays/",
-          "publishedOn": "2022-08-10T20:49:04.000Z",
-          "wordCount": 1507,
-          "title": "2D Array in Java – Two-Dimensional and Nested Arrays",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pawel-czerwinski-dYjFmiQb_aE-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-real-time-chat-application-with-nuxt/",
-          "author": "Idorenyin Udoh",
-          "description": "In a real-time chat application, the recipient can view the sender’s message almost immediately. This can either be in a one-on-one conversation between two parties or a group conversation.  And that's what we're going to build in this tutorial. For this application, we will be using Nuxt [https://nuxtjs.org/], the",
-          "link": "https://www.freecodecamp.org/news/create-a-real-time-chat-application-with-nuxt/",
-          "publishedOn": "2022-08-10T19:39:17.000Z",
-          "wordCount": 2168,
-          "title": "How to Create a Real-time Chat Application with Nuxt",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-andrea-piacquadio-3869370.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-html-and-css-order-summary-component/",
-          "author": "Beau Carnes",
-          "description": "HTML and CSS are the most important technologies when it comes to creating websites. And building projects is one of the best ways to learn them. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn HTML and CSS through building an order summary component.",
-          "link": "https://www.freecodecamp.org/news/learn-html-and-css-order-summary-component/",
-          "publishedOn": "2022-08-10T17:26:26.000Z",
-          "wordCount": 937,
-          "title": "Learn HTML and CSS by Building an Order Summary Component",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/html.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-your-on-custom-container-without-docker/",
-          "author": "Gursimar Singh",
-          "description": "This article will discuss every aspect of containers, including how they operate in the background and their various component elements. We will also discover why Docker is so lightning-fast. By the end, you'll be able to create your own custom container. We'll also examine why Kubernetes deprecated Docker and embraced",
-          "link": "https://www.freecodecamp.org/news/build-your-on-custom-container-without-docker/",
-          "publishedOn": "2022-08-10T16:45:36.000Z",
-          "wordCount": 5633,
-          "title": "How to Build a Docker Engine-like Custom Container without Any Software",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/image-12-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-multiline-string-how-to-create-multi-line-strings-in-js/",
-          "author": "Dionysia Lemonaki",
-          "description": "In this article, you will learn three different ways to create multi-line strings in JavaScript. I will first explain the basics of strings in JavaScript and go over how to use template literals. Then, you will learn how to create a string that spans multiple lines with the help of",
-          "link": "https://www.freecodecamp.org/news/javascript-multiline-string-how-to-create-multi-line-strings-in-js/",
-          "publishedOn": "2022-08-10T15:54:42.000Z",
-          "wordCount": 2334,
-          "title": "JavaScript Multiline String – How to Create Multi Line Strings in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-mateusz-dach-2811648.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-and-validate-modern-web-forms-html5/",
-          "author": "Ophy Boamah",
-          "description": "HTML forms consist of a body of text boxes, buttons, dropdowns and other selection widgets. Web developers use these elements to receive users' information on a website.  If you've ever searched on Google, signed up or logged into a website, made a payment, or responded to a questionnaire, you",
-          "link": "https://www.freecodecamp.org/news/create-and-validate-modern-web-forms-html5/",
-          "publishedOn": "2022-08-10T15:45:20.000Z",
-          "wordCount": 2988,
-          "title": "How to Create and Validate Modern Web Forms with HTML5",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Web-Forms-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-the-every-and-some-array-methods-in-javascript/",
-          "author": "Ashutosh Biswas",
-          "description": "In JavaScript, every and some help you test if something is true for every element or some elements of an array. In this article, I'll show you how to use these helpful array methods. Table of Contents  * 1How every() and some() Work – an Overview  * 2Parameters",
-          "link": "https://www.freecodecamp.org/news/learn-the-every-and-some-array-methods-in-javascript/",
-          "publishedOn": "2022-08-10T15:23:43.000Z",
-          "wordCount": 2069,
-          "title": "JavaScript Array Methods – How to Use every() and some() in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-1.jpg"
         }
       ]
     },
@@ -1287,26 +1237,6 @@
           "wordCount": 7398,
           "title": "Self-Taught AI Shows Similarities to How the Brain Works",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Self_learning_AI_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=117754",
-          "author": "Steven Strogatz",
-          "description": "Quantum field theory may be the most successful scientific theory of all time, but there’s reason to think it’s missing something. Steven Strogatz speaks with theoretical physicist David Tong about this enigmatic theory.             \nThe post What Is Quantum Field Theory and Why Is It Incomplete? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/what-is-quantum-field-theory-and-why-is-it-incomplete-20220810/",
-          "publishedOn": "2022-08-10T20:35:53.000Z",
-          "wordCount": 19404,
-          "title": "What Is Quantum Field Theory and Why Is It Incomplete?",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/JoW_QFT_V2_1200_Social_LOGO.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=117716",
-          "author": "Jordana Cepelewicz",
-          "description": "Ever since Archimedes, mathematicians have been fascinated by equations that involve a difference between squares. Now two mathematicians have proven how often these equations have solutions, concluding a decades-old quest.            \nThe post Mathematicians Crack a Simple but Stubborn Class of Equations first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/ancient-equations-offer-new-look-at-number-groups-20220810/",
-          "publishedOn": "2022-08-10T16:14:46.000Z",
-          "wordCount": 7996,
-          "title": "Mathematicians Crack a Simple but Stubborn Class of Equations",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Stevenhangens_1200_Social.jpg"
         }
       ]
     },
@@ -1449,6 +1379,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/427",
+          "author": null,
+          "description": "#​427 — September 9, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nGo's New Vulnerability Management Tool: govulncheck — The core team has unveiled a very helpful command-line tool that can scan your code for vulnerabilities, only surfacing the ones that actually affect your code base. We can see this being a standard part of any build pipeline, so try it out and give your feedback.\nJulie Qiu (Go Team) \n\n\n  \n  \nA Complete Guide to Logging with Zerolog — This is a very extensive tutorial, and if you want a high-performance, zero-allocation logging library, Zerolog comes well recommended.\nBetter Stack Team \n\n\n  \n  \nGophers - Opportunity is Knocking — We’re a premier software engineering firm looking for mid to senior level engineers to help us develop a…",
+          "link": "https://golangweekly.com/issues/427",
+          "publishedOn": "2022-09-09T00:00:00.000Z",
+          "wordCount": 765,
+          "title": "Go's new vulnerability analysis tool",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/426",
           "author": null,

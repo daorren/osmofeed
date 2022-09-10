@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-09T02:30:10.076Z</updated>
+    <updated>2022-09-10T02:30:39.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intro to Deno – Guide for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/intro-to-deno/</id>
+        <link href="https://www.freecodecamp.org/news/intro-to-deno/"/>
+        <updated>2022-09-09T22:50:17.000Z</updated>
+        <summary type="html"><![CDATA[What is Deno? Deno is a new JavaScript runtime. It was built by Ryan Dahl, the creator of Node.js.  Dahl had a few things that he regretted doing with Node and wanted to build a runtime that could solve those issues. Deno, like Node, is built on the V8]]></summary>
+        <author>
+            <name>Brian Barrow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Push Local Branch to Remote – How to Publish a New Branch in Git]]></title>
+        <id>https://www.freecodecamp.org/news/git-push-local-branch-to-remote-how-to-publish-a-new-branch-in-git/</id>
+        <link href="https://www.freecodecamp.org/news/git-push-local-branch-to-remote-how-to-publish-a-new-branch-in-git/"/>
+        <updated>2022-09-09T20:36:25.000Z</updated>
+        <summary type="html"><![CDATA[Git branches let you add new features without tampering with the live version of your projects. And if you work in a team, different developers might have unique branches they work on. In the long run, you'll have to push those independent branches to a remote server. For example, GitHub,]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node Version Manager – nvm Install Guide]]></title>
+        <id>https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/</id>
+        <link href="https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/"/>
+        <updated>2022-09-09T18:23:56.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll explain how you can install NVM, or Node Version Manager, on Windows, Linux, and Mac. What is NVM? Node Version Manager (NVM), as the name implies, is a tool for managing Node versions on your device. Different projects on your device may be using different versions]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go's new vulnerability analysis tool]]></title>
+        <id>https://golangweekly.com/issues/427</id>
+        <link href="https://golangweekly.com/issues/427"/>
+        <updated>2022-09-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#​427 — September 9, 2022
+
+
+Unsubscribe  |  Read on the Web
+
+
+
+The Go Weekly Newsletter
+
+
+
+
+  
+
+
+
+
+
+  
+  
+Go's New Vulnerability Management Tool: govulncheck — The core team has unveiled a very helpful command-line tool that can scan your code for vulnerabilities, only surfacing the ones that actually affect your code base. We can see this being a standard part of any build pipeline, so try it out and give your feedback.
+Julie Qiu (Go Team) 
+
+
+  
+  
+A Complete Guide to Logging with Zerolog — This is a very extensive tutorial, and if you want a high-performance, zero-allocation logging library, Zerolog comes well recommended.
+Better Stack Team 
+
+
+  
+  
+Gophers - Opportunity is Knocking — We’re a premier software engineering firm looking for mid to senior level engineers to help us develop a…]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Line Charts Tutorial – How to Create a Line Graph in JavaScript]]></title>
         <id>https://www.freecodecamp.org/news/how-to-make-line-charts-in-javascript/</id>
@@ -1532,108 +1604,6 @@ The post Self-Taught AI Shows Similarities to How the Brain Works first appeared
         <summary type="html"><![CDATA[An event driven system is a common way to setup software. In event-driven architecture, event-handlers are registered for specific events. When an event occurs, the handlers are invoked. A great way to understand this concept is to build a project. We just published a course on the freeCodeCamp.org YouTube channel]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[... in JavaScript – the Three Dots Operator in JS]]></title>
-        <id>https://www.freecodecamp.org/news/three-dots-operator-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/three-dots-operator-in-javascript/"/>
-        <updated>2022-08-10T23:38:25.000Z</updated>
-        <summary type="html"><![CDATA[The three dots operator in JavaScript is one of the significant updates that was shipped with ES6. This operator (...) helps you achieve many things that previously required many lines of code, unfamiliar syntax, and more. In this short article, you will learn what the three dots operator means and]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2D Array in Java – Two-Dimensional and Nested Arrays]]></title>
-        <id>https://www.freecodecamp.org/news/2d-array-in-java-two-dimensional-and-nested-arrays/</id>
-        <link href="https://www.freecodecamp.org/news/2d-array-in-java-two-dimensional-and-nested-arrays/"/>
-        <updated>2022-08-10T20:49:04.000Z</updated>
-        <summary type="html"><![CDATA[A multidimensional array is simply an array [/news/java-array-how-to-declare-and-initialize-an-array-in-java-example/] of arrays. You can look it as a single container that stores multiple containers.  In this article, we'll talk two dimensional arrays in Java. You'll see the syntax for creating one, and how to add and access items in a two]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Quantum Field Theory and Why Is It Incomplete?]]></title>
-        <id>https://www.quantamagazine.org/?p=117754</id>
-        <link href="https://www.quantamagazine.org/what-is-quantum-field-theory-and-why-is-it-incomplete-20220810/"/>
-        <updated>2022-08-10T20:35:53.000Z</updated>
-        <summary type="html"><![CDATA[Quantum field theory may be the most successful scientific theory of all time, but there’s reason to think it’s missing something. Steven Strogatz speaks with theoretical physicist David Tong about this enigmatic theory.             
-The post What Is Quantum Field Theory and Why Is It Incomplete? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Steven Strogatz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Real-time Chat Application with Nuxt]]></title>
-        <id>https://www.freecodecamp.org/news/create-a-real-time-chat-application-with-nuxt/</id>
-        <link href="https://www.freecodecamp.org/news/create-a-real-time-chat-application-with-nuxt/"/>
-        <updated>2022-08-10T19:39:17.000Z</updated>
-        <summary type="html"><![CDATA[In a real-time chat application, the recipient can view the sender’s message almost immediately. This can either be in a one-on-one conversation between two parties or a group conversation.  And that's what we're going to build in this tutorial. For this application, we will be using Nuxt [https://nuxtjs.org/], the]]></summary>
-        <author>
-            <name>Idorenyin Udoh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn HTML and CSS by Building an Order Summary Component]]></title>
-        <id>https://www.freecodecamp.org/news/learn-html-and-css-order-summary-component/</id>
-        <link href="https://www.freecodecamp.org/news/learn-html-and-css-order-summary-component/"/>
-        <updated>2022-08-10T17:26:26.000Z</updated>
-        <summary type="html"><![CDATA[HTML and CSS are the most important technologies when it comes to creating websites. And building projects is one of the best ways to learn them. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn HTML and CSS through building an order summary component.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Docker Engine-like Custom Container without Any Software]]></title>
-        <id>https://www.freecodecamp.org/news/build-your-on-custom-container-without-docker/</id>
-        <link href="https://www.freecodecamp.org/news/build-your-on-custom-container-without-docker/"/>
-        <updated>2022-08-10T16:45:36.000Z</updated>
-        <summary type="html"><![CDATA[This article will discuss every aspect of containers, including how they operate in the background and their various component elements. We will also discover why Docker is so lightning-fast. By the end, you'll be able to create your own custom container. We'll also examine why Kubernetes deprecated Docker and embraced]]></summary>
-        <author>
-            <name>Gursimar Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematicians Crack a Simple but Stubborn Class of Equations]]></title>
-        <id>https://www.quantamagazine.org/?p=117716</id>
-        <link href="https://www.quantamagazine.org/ancient-equations-offer-new-look-at-number-groups-20220810/"/>
-        <updated>2022-08-10T16:14:46.000Z</updated>
-        <summary type="html"><![CDATA[Ever since Archimedes, mathematicians have been fascinated by equations that involve a difference between squares. Now two mathematicians have proven how often these equations have solutions, concluding a decades-old quest.            
-The post Mathematicians Crack a Simple but Stubborn Class of Equations first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Jordana Cepelewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Multiline String – How to Create Multi Line Strings in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-multiline-string-how-to-create-multi-line-strings-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-multiline-string-how-to-create-multi-line-strings-in-js/"/>
-        <updated>2022-08-10T15:54:42.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn three different ways to create multi-line strings in JavaScript. I will first explain the basics of strings in JavaScript and go over how to use template literals. Then, you will learn how to create a string that spans multiple lines with the help of]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create and Validate Modern Web Forms with HTML5]]></title>
-        <id>https://www.freecodecamp.org/news/create-and-validate-modern-web-forms-html5/</id>
-        <link href="https://www.freecodecamp.org/news/create-and-validate-modern-web-forms-html5/"/>
-        <updated>2022-08-10T15:45:20.000Z</updated>
-        <summary type="html"><![CDATA[HTML forms consist of a body of text boxes, buttons, dropdowns and other selection widgets. Web developers use these elements to receive users' information on a website.  If you've ever searched on Google, signed up or logged into a website, made a payment, or responded to a questionnaire, you]]></summary>
-        <author>
-            <name>Ophy Boamah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Array Methods – How to Use every() and some() in JS]]></title>
-        <id>https://www.freecodecamp.org/news/learn-the-every-and-some-array-methods-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-every-and-some-array-methods-in-javascript/"/>
-        <updated>2022-08-10T15:23:43.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, every and some help you test if something is true for every element or some elements of an array. In this article, I'll show you how to use these helpful array methods. Table of Contents  * 1How every() and some() Work – an Overview  * 2Parameters]]></summary>
-        <author>
-            <name>Ashutosh Biswas</name>
         </author>
     </entry>
 </feed>
