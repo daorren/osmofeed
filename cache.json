@@ -12,6 +12,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/new-online-courses/",
+          "author": "Dhawal Shah",
+          "description": "If you haven’t heard, universities around the world are offering their courses online for free (or at least, partially free). These courses are collectively called MOOCs or Massive Open Online Courses. [https://www.classcentral.com/help/moocs] In the past ten years, ~1000 universities have created around tens of thousands of MOOCs. I’ve been keeping",
+          "link": "https://www.freecodecamp.org/news/new-online-courses/",
+          "publishedOn": "2022-09-10T10:33:00.000Z",
+          "wordCount": 9117,
+          "title": "200 Universities Just Launched 850+ Free Online Courses. Here’s the Full List.",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2021/08/banner-new-courses.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/intro-to-deno/",
           "author": "Brian Barrow",
           "description": "What is Deno? Deno is a new JavaScript runtime. It was built by Ryan Dahl, the creator of Node.js.  Dahl had a few things that he regretted doing with Node and wanted to build a runtime that could solve those issues. Deno, like Node, is built on the V8",
@@ -1040,26 +1050,6 @@
           "wordCount": 1515,
           "title": "Sense Walkthrough – HackTheBox",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/sense--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/",
-          "author": "Kolade Chris",
-          "description": "Different software development tools might require specific versions of Node.js and NPM (Node Package Manager). NPM is a tool for managing packages installed from the NPM registry. In addition, if you are making an NPM package, you might need to test it with different versions of Node.js. This is why",
-          "link": "https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/",
-          "publishedOn": "2022-08-11T16:00:37.000Z",
-          "wordCount": 1501,
-          "title": "NVM for Windows – How to Download and Install Node Version Manager in Windows 10",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/nvmWindows.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/implement-event-driven-architecture-with-react-and-fastapi/",
-          "author": "Beau Carnes",
-          "description": "An event driven system is a common way to setup software. In event-driven architecture, event-handlers are registered for specific events. When an event occurs, the handlers are invoked. A great way to understand this concept is to build a project. We just published a course on the freeCodeCamp.org YouTube channel",
-          "link": "https://www.freecodecamp.org/news/implement-event-driven-architecture-with-react-and-fastapi/",
-          "publishedOn": "2022-08-11T14:38:33.000Z",
-          "wordCount": 852,
-          "title": "Implement Event-Driven Architecture with React and FastAPI",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/eventdriven.png"
         }
       ]
     },
@@ -1227,16 +1217,6 @@
           "wordCount": 5632,
           "title": "A Numerical Mystery From the 19th Century Finally Gets Solved",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Pattersons-Conjecture_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=117799",
-          "author": "Anil Ananthaswamy",
-          "description": "Self-supervised learning allows a neural network to figure out for itself what matters. The process might be what makes our own brains so successful.             \nThe post Self-Taught AI Shows Similarities to How the Brain Works first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/self-taught-ai-shows-similarities-to-how-the-brain-works-20220811/",
-          "publishedOn": "2022-08-11T15:57:20.000Z",
-          "wordCount": 7398,
-          "title": "Self-Taught AI Shows Similarities to How the Brain Works",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Self_learning_AI_1200_Social.jpg"
         }
       ]
     },
@@ -1407,16 +1387,6 @@
           "publishedOn": "2022-08-26T00:00:00.000Z",
           "wordCount": 1004,
           "title": "Avoiding 100 different Go mistakes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/424",
-          "author": null,
-          "description": "#​424 — August 12, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\n☀️ A heads up that you won't get this newsletter on August 19 as we're taking a week off for summer vacation – we're back as usual on August 26 :-)\n__\nPeter Cooper, your editor.\n\n\n    \n    \n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \n'How I Found a Go Issue on ARM that Crashed the Database Server' — A distributed SQL database like TiDB is a complex piece of software that leans heavily on its environment and a ‘peculiar’ Go bug caused it to crash on ARM platforms. If you like problem solving and post mortems, this is a good one.\nArther Mao (PingCAP) \n\n\n  \n  \nRob Pike's Simple C Regex Matcher in Go — In 1998, Rob Pike wrote a regular expression parser in C to use as an example in a book. Ben considers how it would look (and perform…",
-          "link": "https://golangweekly.com/issues/424",
-          "publishedOn": "2022-08-12T00:00:00.000Z",
-          "wordCount": 856,
-          "title": "Crochet your own Go gopher.",
           "imageUrl": null
         }
       ]
