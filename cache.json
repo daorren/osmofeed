@@ -12,6 +12,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-blog-with-deno/",
+          "author": "Rajdeep Singh",
+          "description": "Deno is a runtime for JavaScript and TypeScript. The creator of Node.js built it, and while Node is built with C and C++, Deno is built with the Rust language. You might be wondering what some of the main differences between Node and Deno are. Well, Rust is a low-level",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-blog-with-deno/",
+          "publishedOn": "2022-09-13T16:46:28.000Z",
+          "wordCount": 2550,
+          "title": "How to Create a Static Markdown Blog with Deno and Deploy It",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Create-a-Static-Markdown-Blog-with-Deno.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sort-dictionary-by-value-in-python/",
+          "author": "Kolade Chris",
+          "description": "In Python, a dictionary is a fat structure that is unordered by default. So, sometimes, you'll want to sort dictionaries by key or value to make queries easier. The problem is that sorting a dictionary by value is never a straightforward thing to do. That’s because Python doesn’t have an",
+          "link": "https://www.freecodecamp.org/news/sort-dictionary-by-value-in-python/",
+          "publishedOn": "2022-09-13T15:16:42.000Z",
+          "wordCount": 2001,
+          "title": "Sort Dictionary by Value in Python – How to Sort a Dict",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/sortDictByValue.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-change-text-color-in-html/",
           "author": "Joel Olawanle",
           "description": "Text plays a significant role on our web pages. This is because it helps users learn what the web page is all about and what they can do there. When you add text to your web pages, this text defaults to a black color. But sometimes you will want to",
@@ -1080,16 +1100,6 @@
           "wordCount": 891,
           "title": "Create Stardew Valley Using Python and Pygame",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pydew.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-does-a-software-developer-do-software-engineer-career-overview/",
-          "author": "Jessica Wilkins",
-          "description": "If you're studying to become a professional software developer, you might be wondering what a software developer does everyday on the job. In this article, I will talk about the typical day of a software developer and what to expect on the job.  Main Responsibilities of a Software Developer",
-          "link": "https://www.freecodecamp.org/news/what-does-a-software-developer-do-software-engineer-career-overview/",
-          "publishedOn": "2022-08-15T14:11:52.000Z",
-          "wordCount": 1970,
-          "title": "What Does a Software Developer Do? Software Engineer Career Overview",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/desola-lanre-ologun-IgUR1iX0mqM-unsplash.jpg"
         }
       ]
     },
@@ -1098,6 +1108,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=118704",
+          "author": "Erica Klarreich",
+          "description": "Richard Rusczyk, founder of Art of Problem Solving, has a vision for bringing “joyous, beautiful math” — and problem-solving — to classrooms everywhere.            \nThe post The Math Evangelist Who Preaches Problem-Solving first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/richard-rusczyk-is-a-math-evangelist-who-preaches-problem-solving-20220913/",
+          "publishedOn": "2022-09-13T14:55:13.000Z",
+          "wordCount": 7090,
+          "title": "The Math Evangelist Who Preaches Problem-Solving",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/Richard_Rusczyk_1200_Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=118669",
           "author": "Stephen Ornes",
@@ -1257,16 +1277,6 @@
           "wordCount": 18319,
           "title": "Physics Duo Finds Magic in Two Dimensions",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/MakShan_1200_social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=117836",
-          "author": "Leila Sloman",
-          "description": "Two mathematicians have proven Patterson’s conjecture, which was designed to explain a strange pattern in sums involving prime numbers.             \nThe post A Numerical Mystery From the 19th Century Finally Gets Solved first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/a-numerical-mystery-from-the-19th-century-finally-gets-solved-20220815/",
-          "publishedOn": "2022-08-15T14:10:24.000Z",
-          "wordCount": 5632,
-          "title": "A Numerical Mystery From the 19th Century Finally Gets Solved",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Pattersons-Conjecture_1200_Social.jpg"
         }
       ]
     },
@@ -1314,16 +1324,6 @@
           "wordCount": 1948,
           "title": "Weekend Reading — Level 5 Goose",
           "imageUrl": "https://labnotes.org/content/images/2022/08/FaiQtLkXkAEJuAL.jpeg"
-        },
-        {
-          "id": "62eecde711e2e71b266d85fb",
-          "author": "Assaf Arkin",
-          "description": "This week we leak some memory, set up a recurring meeting, discover a new workout, and watch the great escape.",
-          "link": "https://labnotes.org/weekend-reading-lesser-known-workouts/",
-          "publishedOn": "2022-08-14T19:57:03.000Z",
-          "wordCount": 1457,
-          "title": "Weekend Reading — Lesser known workouts",
-          "imageUrl": "https://labnotes.org/content/images/2022/08/FZvlf4KWAAEEMtM.jpeg"
         }
       ]
     },
@@ -1390,16 +1390,6 @@
           "publishedOn": "2022-08-21T22:00:00.000Z",
           "wordCount": 2070,
           "title": "Web Weekly #76 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-75/",
-          "author": null,
-          "description": "Howdy ho, friends!\n\nLet's talk about a never-ending programming argument: TABS vs. SPACES. I know, I know... but hear me out! 😉\nI don't care too much about it because wrangling code into whatever coding convention is an editor's job. Prettier for the win!\nBut I've always been in \"the space camp\" for my projects. It's my code, and I make the rules, right?\nThis week I took a big step, moved camps and changed my first repo to be tabs-first!\nSo, what changed my opinion?\nThe Prettier maintainers consider moving to tabs with their next major release because it saves bytes and is more flexible. Let's dive into these points.\nI converted all JS files (including all node_modules) of my blog's code base to tabs and saved a whooping 11MB on my hard drive. So, this is a weak argument at best.\nBut off …",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-75/",
-          "publishedOn": "2022-08-14T18:00:00.000Z",
-          "wordCount": 1933,
-          "title": "Web Weekly #75 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]

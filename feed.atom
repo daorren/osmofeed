@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-13T02:30:43.275Z</updated>
+    <updated>2022-09-14T02:28:54.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Static Markdown Blog with Deno and Deploy It]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-a-blog-with-deno/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-blog-with-deno/"/>
+        <updated>2022-09-13T16:46:28.000Z</updated>
+        <summary type="html"><![CDATA[Deno is a runtime for JavaScript and TypeScript. The creator of Node.js built it, and while Node is built with C and C++, Deno is built with the Rust language. You might be wondering what some of the main differences between Node and Deno are. Well, Rust is a low-level]]></summary>
+        <author>
+            <name>Rajdeep Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sort Dictionary by Value in Python – How to Sort a Dict]]></title>
+        <id>https://www.freecodecamp.org/news/sort-dictionary-by-value-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/sort-dictionary-by-value-in-python/"/>
+        <updated>2022-09-13T15:16:42.000Z</updated>
+        <summary type="html"><![CDATA[In Python, a dictionary is a fat structure that is unordered by default. So, sometimes, you'll want to sort dictionaries by key or value to make queries easier. The problem is that sorting a dictionary by value is never a straightforward thing to do. That’s because Python doesn’t have an]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Math Evangelist Who Preaches Problem-Solving]]></title>
+        <id>https://www.quantamagazine.org/?p=118704</id>
+        <link href="https://www.quantamagazine.org/richard-rusczyk-is-a-math-evangelist-who-preaches-problem-solving-20220913/"/>
+        <updated>2022-09-13T14:55:13.000Z</updated>
+        <summary type="html"><![CDATA[Richard Rusczyk, founder of Art of Problem Solving, has a vision for bringing “joyous, beautiful math” — and problem-solving — to classrooms everywhere.            
+The post The Math Evangelist Who Preaches Problem-Solving first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Erica Klarreich</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Change Text Color in HTML – Font Style Tutorial]]></title>
         <id>https://www.freecodecamp.org/news/how-to-change-text-color-in-html/</id>
@@ -1529,56 +1560,6 @@ The post Physics Duo Finds Magic in Two Dimensions first appeared on Quanta Maga
         <summary type="html"><![CDATA[Stardew Valley is a popular open-ended country-life RPG video game. But instead of just playing the game, why not code your own version of the game? We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to create a Stardew Valley game clone using]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does a Software Developer Do? Software Engineer Career Overview]]></title>
-        <id>https://www.freecodecamp.org/news/what-does-a-software-developer-do-software-engineer-career-overview/</id>
-        <link href="https://www.freecodecamp.org/news/what-does-a-software-developer-do-software-engineer-career-overview/"/>
-        <updated>2022-08-15T14:11:52.000Z</updated>
-        <summary type="html"><![CDATA[If you're studying to become a professional software developer, you might be wondering what a software developer does everyday on the job. In this article, I will talk about the typical day of a software developer and what to expect on the job.  Main Responsibilities of a Software Developer]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Numerical Mystery From the 19th Century Finally Gets Solved]]></title>
-        <id>https://www.quantamagazine.org/?p=117836</id>
-        <link href="https://www.quantamagazine.org/a-numerical-mystery-from-the-19th-century-finally-gets-solved-20220815/"/>
-        <updated>2022-08-15T14:10:24.000Z</updated>
-        <summary type="html"><![CDATA[Two mathematicians have proven Patterson’s conjecture, which was designed to explain a strange pattern in sums involving prime numbers.             
-The post A Numerical Mystery From the 19th Century Finally Gets Solved first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Leila Sloman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Lesser known workouts]]></title>
-        <id>62eecde711e2e71b266d85fb</id>
-        <link href="https://labnotes.org/weekend-reading-lesser-known-workouts/"/>
-        <updated>2022-08-14T19:57:03.000Z</updated>
-        <summary type="html"><![CDATA[This week we leak some memory, set up a recurring meeting, discover a new workout, and watch the great escape.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #75 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-75/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-75/"/>
-        <updated>2022-08-14T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Howdy ho, friends!
-
-Let's talk about a never-ending programming argument: TABS vs. SPACES. I know, I know... but hear me out! 😉
-I don't care too much about it because wrangling code into whatever coding convention is an editor's job. Prettier for the win!
-But I've always been in "the space camp" for my projects. It's my code, and I make the rules, right?
-This week I took a big step, moved camps and changed my first repo to be tabs-first!
-So, what changed my opinion?
-The Prettier maintainers consider moving to tabs with their next major release because it saves bytes and is more flexible. Let's dive into these points.
-I converted all JS files (including all node_modules) of my blog's code base to tabs and saved a whooping 11MB on my hard drive. So, this is a weak argument at best.
-But off …]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
