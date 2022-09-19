@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-18T02:42:12.474Z</updated>
+    <updated>2022-09-19T02:35:31.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -14,6 +14,25 @@
         <summary type="html"><![CDATA[This week we’re all about forms, JSON, and CSS. We have some thoughts about Figma, Uber, and Dynamic Island. Gifs are cringe, and QR surprise.]]></summary>
         <author>
             <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to detect if a font is supported (#snippet)]]></title>
+        <id>https://www.stefanjudis.com/snippets/how-to-detect-if-a-font-is-supported/</id>
+        <link href="https://www.stefanjudis.com/snippets/how-to-detect-if-a-font-is-supported/"/>
+        <updated>2022-09-17T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jim Nielsen shared how to detect Apple’s “New York” font face, and while reading the post, I realized that I'd forgotten about document.fonts. 🙈
+The CSS Font Loading API enables you to access or load fonts via JavaScript. It's good stuff!
+And if you want to test if a browser supports a font, the check method's your friend!
+document.fonts.check('12px ui-serif');
+
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
@@ -1558,46 +1577,6 @@ And with this, tod…]]></summary>
         <summary type="html"><![CDATA[This week we keep our code and docs in sync, play Rhythm Nation at the co-working space, ask “who’s Mark?”, and buy more journals.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement a GameKit Leaderboard in SwiftUI]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-implement-a-leaderboard-in-swiftui/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-a-leaderboard-in-swiftui/"/>
-        <updated>2022-08-19T21:00:48.000Z</updated>
-        <summary type="html"><![CDATA[In this article we will talk about why and how to implement the GameCenter's Leaderboard [https://developer.apple.com/design/human-interface-guidelines/technologies/game-center/leaderboards/]  within your app.  Why GameCenter is Making a Huge Revival You can make iPhone games without a scoreboard, but leaderboards can help make the game feel more competitive, like people are competing]]></summary>
-        <author>
-            <name>Saamer Mansoor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Graph Theory to Build a More Sustainable World]]></title>
-        <id>https://www.freecodecamp.org/news/the-value-of-graph-theory-within-sustainability/</id>
-        <link href="https://www.freecodecamp.org/news/the-value-of-graph-theory-within-sustainability/"/>
-        <updated>2022-08-19T20:50:13.000Z</updated>
-        <summary type="html"><![CDATA[Discrete mathematics is an area of mathematical knowledge based on the study of formal structures whose nature is fundamentally separate and distinct.  This means it focuses on integers and natural sets of numbers, shapes, and other objects that can be counted finitely or distinguished from one another. It models]]></summary>
-        <author>
-            <name>Daniel García Solla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Refactor to Configurable Dependency in 5 Steps]]></title>
-        <id>https://www.freecodecamp.org/news/refactoring-to-configurable-dependency-in-5-steps/</id>
-        <link href="https://www.freecodecamp.org/news/refactoring-to-configurable-dependency-in-5-steps/"/>
-        <updated>2022-08-19T20:42:23.000Z</updated>
-        <summary type="html"><![CDATA[Configurable Dependency, also known as Dependency Injection, is a pattern that enables you to switch dependencies of your application. The term [https://web.archive.org/web/20170624023207/http://alistair.cockburn.us/Configurable+Dependency]  was coined by Alistair Cockburn. Say your application has a GUI. But your administrator wants to use certain functions via the console. Or your production code calls]]></summary>
-        <author>
-            <name>Bertil Muth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Timestamp – How to Use getTime() to Generate Timestamps in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-timestamp-how-to-use-gettime-to-generate-timestamps-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-timestamp-how-to-use-gettime-to-generate-timestamps-in-js/"/>
-        <updated>2022-08-19T17:58:01.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, timestamps are usually associated with Unix time [https://en.wikipedia.org/wiki/Unix_time]. And there are different methods for generating such timestamps. When we make use of the different JavaScript methods for generating timestamps, they return the number of milliseconds that has passed since 1 January 1970 UTC (the Unix time).  In]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
         </author>
     </entry>
 </feed>

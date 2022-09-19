@@ -1040,46 +1040,6 @@
           "wordCount": 1143,
           "title": "Azure Developer Certification (AZ-204) – Pass the Exam With This Free 13.5-Hour Course",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/azure.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-implement-a-leaderboard-in-swiftui/",
-          "author": "Saamer Mansoor",
-          "description": "In this article we will talk about why and how to implement the GameCenter's Leaderboard [https://developer.apple.com/design/human-interface-guidelines/technologies/game-center/leaderboards/]  within your app.  Why GameCenter is Making a Huge Revival You can make iPhone games without a scoreboard, but leaderboards can help make the game feel more competitive, like people are competing",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-a-leaderboard-in-swiftui/",
-          "publishedOn": "2022-08-19T21:00:48.000Z",
-          "wordCount": 1898,
-          "title": "How to Implement a GameKit Leaderboard in SwiftUI",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/IMG_45B142A26F90-1-copy.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-value-of-graph-theory-within-sustainability/",
-          "author": "Daniel García Solla",
-          "description": "Discrete mathematics is an area of mathematical knowledge based on the study of formal structures whose nature is fundamentally separate and distinct.  This means it focuses on integers and natural sets of numbers, shapes, and other objects that can be counted finitely or distinguished from one another. It models",
-          "link": "https://www.freecodecamp.org/news/the-value-of-graph-theory-within-sustainability/",
-          "publishedOn": "2022-08-19T20:50:13.000Z",
-          "wordCount": 5429,
-          "title": "How to Use Graph Theory to Build a More Sustainable World",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/graph-theory-image.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/refactoring-to-configurable-dependency-in-5-steps/",
-          "author": "Bertil Muth",
-          "description": "Configurable Dependency, also known as Dependency Injection, is a pattern that enables you to switch dependencies of your application. The term [https://web.archive.org/web/20170624023207/http://alistair.cockburn.us/Configurable+Dependency]  was coined by Alistair Cockburn. Say your application has a GUI. But your administrator wants to use certain functions via the console. Or your production code calls",
-          "link": "https://www.freecodecamp.org/news/refactoring-to-configurable-dependency-in-5-steps/",
-          "publishedOn": "2022-08-19T20:42:23.000Z",
-          "wordCount": 2460,
-          "title": "How to Refactor to Configurable Dependency in 5 Steps",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/diana-polekhina-ONuLIzB0UtA-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-timestamp-how-to-use-gettime-to-generate-timestamps-in-js/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In JavaScript, timestamps are usually associated with Unix time [https://en.wikipedia.org/wiki/Unix_time]. And there are different methods for generating such timestamps. When we make use of the different JavaScript methods for generating timestamps, they return the number of milliseconds that has passed since 1 January 1970 UTC (the Unix time).  In",
-          "link": "https://www.freecodecamp.org/news/javascript-timestamp-how-to-use-gettime-to-generate-timestamps-in-js/",
-          "publishedOn": "2022-08-19T17:58:01.000Z",
-          "wordCount": 1029,
-          "title": "JavaScript Timestamp – How to Use getTime() to Generate Timestamps in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/aron-visuals-BXOXnQ26B7o-unsplash.jpg"
         }
       ]
     },
@@ -1312,6 +1272,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/snippets/how-to-detect-if-a-font-is-supported/",
+          "author": null,
+          "description": "Jim Nielsen shared how to detect Apple’s “New York” font face, and while reading the post, I realized that I'd forgotten about document.fonts. 🙈\nThe CSS Font Loading API enables you to access or load fonts via JavaScript. It's good stuff!\nAnd if you want to test if a browser supports a font, the check method's your friend!\ndocument.fonts.check('12px ui-serif');\n\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/snippets/how-to-detect-if-a-font-is-supported/",
+          "publishedOn": "2022-09-17T22:00:00.000Z",
+          "wordCount": 1235,
+          "title": "How to detect if a font is supported (#snippet)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20detect%20if%20a%20font%20is%20supported/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/today-i-learned/all-browsers-adopted-focus-visible-in-their-ua-stylesheets/",
           "author": null,
