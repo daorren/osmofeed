@@ -12,6 +12,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/react-passport-authentication/",
+          "author": "Reed Barger",
+          "description": "Authentication is a major part of any serious React application. You need to have a good and reliable way to authenticate your users in your developer tool belt. There are dozens of authentication solutions to choose from today, many of which come with a price tag. Which one should you",
+          "link": "https://www.freecodecamp.org/news/react-passport-authentication/",
+          "publishedOn": "2022-09-19T22:29:44.000Z",
+          "wordCount": 2453,
+          "title": "How to Authenticate Your React App with Passport.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/passport-react.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-select-elements-to-style-in-css/",
+          "author": "Dillion Megida",
+          "description": "When you want to style an element with CSS, you first have to \"select\" it. In this article, I'll show you seven (7) ways in which you can do that. Here's the syntax for styling elements in CSS: selector {   /* styles here */ } You have the",
+          "link": "https://www.freecodecamp.org/news/how-to-select-elements-to-style-in-css/",
+          "publishedOn": "2022-09-19T22:01:13.000Z",
+          "wordCount": 2121,
+          "title": "CSS Selector Types – How to Select Elements to Style in CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/css-selector-types.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/install-openjdk-free-java-multi-os-guide/",
+          "author": "Otavio Ehrenberger",
+          "description": "In a nutshell, there are two coexisting branches of Java: the proprietary, closed-source Oracle Java and the community-maintained open-source OpenJDK [https://github.com/openjdk/jdk]. OpenJDK is licensed under GPL-2.0 [https://github.com/openjdk/jdk/blob/master/LICENSE], and it consists of a Java Virtual Machine and a java-bytecode compiler. Since this is the easier and cheaper way, it's the one",
+          "link": "https://www.freecodecamp.org/news/install-openjdk-free-java-multi-os-guide/",
+          "publishedOn": "2022-09-19T20:52:44.000Z",
+          "wordCount": 1565,
+          "title": "How to Install OpenJDK (Free Java) – Multi OS Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-simon-berger-1323550.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-do-test-driven-development-with-svelte-and-vitest/",
+          "author": "Sriram Thiagarajan",
+          "description": "Test Driven Development (TDD) is one of the best ways to make sure your code is high quality and works like it's supposed to work. It can also help you create reliable builds during continuous deployments.  In this post, we will learn how to create a Svelte application using",
+          "link": "https://www.freecodecamp.org/news/how-to-do-test-driven-development-with-svelte-and-vitest/",
+          "publishedOn": "2022-09-19T17:20:38.000Z",
+          "wordCount": 3497,
+          "title": "How to Do Test-Driven Development with Svelte and Vitest – A Project-Based Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/SvelteVitestTDDPoster.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/what-is-alt-text-image-alt-text-html-example/",
           "author": "Joel Olawanle",
           "description": "Images play a significant role on our web pages. They help explain concepts better, make our web pages visually attractive, and lots more. In HTML, you use the  tag to embed an image into your web page. This  tag has two required attributes: src to specify the path",
@@ -1049,6 +1089,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=118880",
+          "author": "Jordana Cepelewicz",
+          "description": "A simple geometric idea has been used to power advances in information theory, cryptography and even blockchain technology.            \nThe post How Mathematical Curves Enable Advanced Communication first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-mathematical-curves-power-cryptography-20220919/",
+          "publishedOn": "2022-09-19T14:44:33.000Z",
+          "wordCount": 5280,
+          "title": "How Mathematical Curves Enable Advanced Communication",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/09/Interpolation-Applications_1200_Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=118815",
           "author": "Ben Brubaker",
           "description": "A custom-built machine learning algorithm can predict when a complex system is about to switch to a wildly different mode of behavior.            \nThe post Chaos Researchers Can Now Predict Perilous Points of No Return first appeared on Quanta Magazine",
@@ -1254,16 +1304,6 @@
           "wordCount": 1688,
           "title": "Weekend Reading — 👋 Always have an exit condition",
           "imageUrl": "https://labnotes.org/content/images/2022/08/IMG_0614.PNG"
-        },
-        {
-          "id": "62f953e32fc3151bca4bebe9",
-          "author": "Assaf Arkin",
-          "description": "This week we keep our code and docs in sync, play Rhythm Nation at the co-working space, ask “who’s Mark?”, and buy more journals.",
-          "link": "https://labnotes.org/weekend-reading-level-5-goose/",
-          "publishedOn": "2022-08-20T23:13:08.000Z",
-          "wordCount": 1948,
-          "title": "Weekend Reading — Level 5 Goose",
-          "imageUrl": "https://labnotes.org/content/images/2022/08/FaiQtLkXkAEJuAL.jpeg"
         }
       ]
     },
