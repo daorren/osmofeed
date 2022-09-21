@@ -12,6 +12,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-use-props-in-reactjs/",
+          "author": "Joy O. Oluwafemi",
+          "description": "Props are an important concept to understand in React. You use props to pass data and values from one component to another to get dynamic and unique outputs.  Websites built with React like Facebook, Twitter, and Netflix use the same design patterns across many sections that just have different",
+          "link": "https://www.freecodecamp.org/news/how-to-use-props-in-reactjs/",
+          "publishedOn": "2022-09-20T20:16:27.000Z",
+          "wordCount": 2096,
+          "title": "How to Use Props in React.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Blue-and-Black-Graphic-Dynamic-Sports-Football-Team-Flyer-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-datetime-now-how-to-get-todays-date-and-time/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use the datetime module in Python to retrieve data about date and time.  In this article, you'll learn how to use the datetime object from the datetime  module to get the current date and time properties. You'll also learn how to get the date and time",
+          "link": "https://www.freecodecamp.org/news/python-datetime-now-how-to-get-todays-date-and-time/",
+          "publishedOn": "2022-09-20T20:12:09.000Z",
+          "wordCount": 1232,
+          "title": "Python Datetime.now() – How to Get Today's Date and Time",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/kevin-ku-aiyBwbrWWlo-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/code-a-minecraft-clone-using-react-and-three-js/",
+          "author": "Beau Carnes",
+          "description": "It may not be possible to code a Minecraft clone in 30 seconds [https://www.youtube.com/watch?v=MAlSjtxy5ak], but you can definitely create one in under two hours. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a fully-functional Minecraft clone using React, JavaScript, and Three.js.",
+          "link": "https://www.freecodecamp.org/news/code-a-minecraft-clone-using-react-and-three-js/",
+          "publishedOn": "2022-09-20T19:36:37.000Z",
+          "wordCount": 834,
+          "title": "Code a Minecraft Clone Using React and Three.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/minecraftclone2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/configure-metadata-in-single-page-applications/",
+          "author": "Scott Gary",
+          "description": "Why Metadata Matters Metadata is an integral part of any modern web app, because it's inherently tethered to search engine optimization (SEO).  Search engines and their respective results page (SERPS) rely on metadata to properly index and display relative information for each site. Also, meta tags are relied upon",
+          "link": "https://www.freecodecamp.org/news/configure-metadata-in-single-page-applications/",
+          "publishedOn": "2022-09-20T17:20:15.000Z",
+          "wordCount": 2238,
+          "title": "How to Configure Metadata for a Single-Page Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/meta-data-for-spa-seo.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-write-a-good-technical-tutorial/",
+          "author": "Avdhoot Fulsundar",
+          "description": "If you are a software developer, then you know how often you search Google to help you solve specific problems when you're coding. Every developer looks at online tutorials to solve the problems they have. To help you solve your problem, these tutorials should have a few things that make",
+          "link": "https://www.freecodecamp.org/news/how-to-write-a-good-technical-tutorial/",
+          "publishedOn": "2022-09-20T16:59:19.000Z",
+          "wordCount": 1456,
+          "title": "How to write a Good Technical Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Gradient-Modern-Digital-Marketing-Facebook-Cover--14-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/why-developers-should-have-a-youtube-channel/",
+          "author": "Nishant Kumar",
+          "description": "If you're a software developer, chances are you'll be learning constantly. There is a famous quote that says, > “Forget about the kids, fathers are still learning”. This couldn't be more true in the case of coding. You constantly need to learn, develop, and upgrade your skills. And what is",
+          "link": "https://www.freecodecamp.org/news/why-developers-should-have-a-youtube-channel/",
+          "publishedOn": "2022-09-20T16:14:20.000Z",
+          "wordCount": 2012,
+          "title": "Why Developers Should Have a YouTube Channel",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Why-developers-should-have-a--1-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/react-passport-authentication/",
           "author": "Reed Barger",
           "description": "Authentication is a major part of any serious React application. You need to have a good and reliable way to authenticate your users in your developer tool belt. There are dozens of authentication solutions to choose from today, many of which come with a price tag. Which one should you",
@@ -1089,6 +1149,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=118926",
+          "author": "Joshua Sokol",
+          "description": "Field research suggests a new explanation for the synchronized flashing in fireflies and confirms that a novel form of “chimeric” synchrony occurs naturally.            \nThe post How Do Fireflies Flash in Sync? Studies Suggest a New Answer. first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-do-fireflies-flash-in-sync-studies-suggest-a-new-answer-20220920/",
+          "publishedOn": "2022-09-20T14:36:23.000Z",
+          "wordCount": 8492,
+          "title": "How Do Fireflies Flash in Sync? Studies Suggest a New Answer.",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/Firefly-Synchrony_1200_Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=118880",
           "author": "Jordana Cepelewicz",
           "description": "A simple geometric idea has been used to power advances in information theory, cryptography and even blockchain technology.            \nThe post How Mathematical Curves Enable Advanced Communication first appeared on Quanta Magazine",
@@ -1247,16 +1317,6 @@
           "wordCount": 8805,
           "title": "What Drives Galaxies? The Milky Way’s Black Hole May Be the Key.",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Black-Hole-Gyroscope_1200_social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=118063",
-          "author": "Joanna Thompson",
-          "description": "By studying how electric organs arose in different lineages of fish, scientists gain new insights into a long-standing question of evolutionary biology.            \nThe post Electric Fish Genomes Reveal How Evolution Repeats Itself first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/electric-fish-genomes-reveal-how-evolution-repeats-itself-20220822/",
-          "publishedOn": "2022-08-22T14:21:37.000Z",
-          "wordCount": 5313,
-          "title": "Electric Fish Genomes Reveal How Evolution Repeats Itself",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Electric-Eel-Evolution_1200_Social.jpg"
         }
       ]
     },
@@ -1380,16 +1440,6 @@
           "publishedOn": "2022-08-28T22:00:00.000Z",
           "wordCount": 2101,
           "title": "Web Weekly #77 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-76/",
-          "author": null,
-          "description": "Guten Tag! 👋\n\nHow often do you use browser extensions to customize the websites you visit?\nI use Refined GitHub to add tiny little features to the GitHub UI. You install it and forget about it. But then you'll be surprised that GitHub doesn't provide certain features when the extension isn't there — highly recommended!\nTweak new Twitter hides all the ads and removes all these Twitter innovations I don't use. It makes the platform so much more pleasant.\nBut it seems that more and more people are reaching for custom stylesheets these days. Šime Vidas shared how he implemented scroll snapping on Twitter, some folks use custom CSS to prevent themselves from getting lost in HackerNews comments and Eric Meyer blurs Twitter images without ALT text.\nWhat are your little tweaks?\nAnd with this, tod…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-76/",
-          "publishedOn": "2022-08-21T22:00:00.000Z",
-          "wordCount": 2070,
-          "title": "Web Weekly #76 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
