@@ -12,6 +12,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/introduction-to-linked-lists-in-python/",
+          "author": "Fakorede Damilola",
+          "description": "Different programming languages offer different ways to store and access data. Some of the data structures you can use are collections such as arrays, lists, maps, sets, and so on.  These all do an awesome job storing and accessing data, but sometimes you might need something different. Another data",
+          "link": "https://www.freecodecamp.org/news/introduction-to-linked-lists-in-python/",
+          "publishedOn": "2022-09-22T16:08:05.000Z",
+          "wordCount": 2377,
+          "title": "Linked Lists in Python – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/chain-3481377_1280.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-align-text-in-html/",
+          "author": "Joel Olawanle",
+          "description": "Text is essential on web pages, as it tells your users what your web page is all about. When you add text to your web page, it dictates the direction and feel of your web page based on your language. For example, by default, English moves from left to right",
+          "link": "https://www.freecodecamp.org/news/how-to-align-text-in-html/",
+          "publishedOn": "2022-09-22T16:02:44.000Z",
+          "wordCount": 1969,
+          "title": "How to Align Text in HTML – Text-align, Center, and Justified Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/cover-template--8-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-hacking/",
+          "author": "Daniel Iwugo",
+          "description": "Time to learn the basics of the splendid art of hacking 👨‍💻👩‍💻.  In this article, you will learn what the hacking process really looks like. And hopefully one day, you'll get to say those famous words: “I’m in”. Disclaimer: This is for educational purposes only. Please (with a cherry",
+          "link": "https://www.freecodecamp.org/news/what-is-hacking/",
+          "publishedOn": "2022-09-22T15:21:49.000Z",
+          "wordCount": 2094,
+          "title": "What is Hacking? The Hacker Methodology Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/hacker-methodology-image.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/intro-to-algorithms-with-python/",
+          "author": "Beau Carnes",
+          "description": "Understanding algorithms in an important skill for many computer science jobs. Algorithms help us solve problems efficiently. We just published an introduction to algorithms with Python course on the freeCodeCamp.org YouTube channel. In this course, you'll work with algorithm basics like recursion then go all the way to working with",
+          "link": "https://www.freecodecamp.org/news/intro-to-algorithms-with-python/",
+          "publishedOn": "2022-09-22T14:36:57.000Z",
+          "wordCount": 969,
+          "title": "Intro to Algorithms with Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/algos_python.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/css-combinators-to-select-elements/",
           "author": "Dillion Megida",
           "description": "Combinators allow you to combine multiple selectors to target specific elements in the DOM. In this article, I'll explain how four of these combinators with examples. In my previous post on CSS Selector Types [/news/how-to-select-elements-to-style-in-css/], I shared seven types of selectors for targetting elements that you want to style. If",
@@ -1090,66 +1130,6 @@
           "wordCount": 2366,
           "title": "How to Build an OTP Input in Vue 3",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/otp-article-header.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/5-linux-utilities-for-better-programming-workflow/",
-          "author": "Rishabh Rawat",
-          "description": "Working as a Software Developer, there are always new tools and frameworks coming out that can completely change your workflows – for the better (or worse?).  Either way, there is always the possibility to optimize how you do things day-to-day. This article contains some Linux utilities that have recently",
-          "link": "https://www.freecodecamp.org/news/5-linux-utilities-for-better-programming-workflow/",
-          "publishedOn": "2022-08-24T11:55:00.000Z",
-          "wordCount": 1624,
-          "title": "5 Linux Utilities to Improve Your Programming Workflow in 2022",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/linux-shell-utilities-cover.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/",
-          "author": "Dionysia Lemonaki",
-          "description": "Git is a popular version control system. It is how developers can collaborate and work together on projects. Git allows you to track the changes you make to your project over time. On top of that, it lets you revert to a previous version if you want to undo a",
-          "link": "https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/",
-          "publishedOn": "2022-08-23T16:58:02.000Z",
-          "wordCount": 2714,
-          "title": ".gitignore File – How to Ignore Files and Folders in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-ken-tomita-389819.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-in-powerbi/",
-          "author": "Yannawut Kimnaruk",
-          "description": "Microsoft Power BI is a business analytics tool which allows users to gain insight from their data.  You can easily create an interactive dashboard by just dragging and dropping data columns into the visualization plane. In this article, I'll show you how to use Python to help you leverage",
-          "link": "https://www.freecodecamp.org/news/python-in-powerbi/",
-          "publishedOn": "2022-08-23T16:27:48.000Z",
-          "wordCount": 2171,
-          "title": "How to Use Python in Power BI",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Python-Power-BI-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-make-bar-and-line-charts-using-chartjs-in-angular/",
-          "author": "Swatej Patil",
-          "description": "In this tutorial we will learn how to create simple bar and line charts using the Chart.js library in an Angular application. But first of all, what is Chart.js and what does it do? What is Chart.js? Chart.js is a JavaScript library for building charts. It's designed to be intuitive",
-          "link": "https://www.freecodecamp.org/news/how-to-make-bar-and-line-charts-using-chartjs-in-angular/",
-          "publishedOn": "2022-08-23T15:35:01.000Z",
-          "wordCount": 1955,
-          "title": "Chart.js Tutorial – How to Make Bar and Line Charts in Angular",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Line-Bar-4.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-arrays-binarysearch-in-java/",
-          "author": "Farhan Hasin Chowdhury",
-          "description": "In this article, I'm going to show you how to use the Arrays.binarySearch()  method in Java. What is Arrays.binarySearch() in Java?  According to the official docs [https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html#binarySearch(byte[],%20byte)]  on the Arrays.binarySearch() method: > (It) Searches the specified array of bytes for the specified value using the binary search",
-          "link": "https://www.freecodecamp.org/news/how-to-use-arrays-binarysearch-in-java/",
-          "publishedOn": "2022-08-23T15:31:18.000Z",
-          "wordCount": 1762,
-          "title": "How to Use Arrays.binarySearch() in Java",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Arrays.binarySearch---in-Java.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/override-root-font-size-for-a-better-user-experience/",
-          "author": "Damla Erkiner",
-          "description": "Back in the day, web developers, front-end engineers, and UI designers had a bit of an easier job. This is because they weren't expected to rearrange their code and designs to fit so many different screen sizes.  But in today's world, if you make a decision that doesn't take",
-          "link": "https://www.freecodecamp.org/news/override-root-font-size-for-a-better-user-experience/",
-          "publishedOn": "2022-08-23T15:14:55.000Z",
-          "wordCount": 2499,
-          "title": "How to Override Root Font Size to Create a Better User Experience",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/root-font-size-article-image.jpeg"
         }
       ]
     },
@@ -1158,6 +1138,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=119021",
+          "author": "Stephen Ornes",
+          "description": "A comprehensive mathematical framework treats wrinkling patterns as elegant solutions to geometric problems.            \nThe post The New Math of Wrinkling first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-new-math-of-wrinkling-patterns-20220922/",
+          "publishedOn": "2022-09-22T15:05:09.000Z",
+          "wordCount": 6342,
+          "title": "The New Math of Wrinkling",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/How-to-Wrinkle_1200_Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=118980",
           "author": "Charlie Wood",
@@ -1317,26 +1307,6 @@
           "wordCount": 17788,
           "title": "Why and How Do We Dream?",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/JoY_Dreams_1200_social_LOGO.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=118203",
-          "author": "Jordana Cepelewicz",
-          "description": "Two researchers have broken an encryption protocol that many saw as a promising defense against the power of quantum computing.            \nThe post ‘Post-Quantum’ Cryptography Scheme Is Cracked on a Laptop first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/post-quantum-cryptography-scheme-is-cracked-on-a-laptop-20220824/",
-          "publishedOn": "2022-08-24T13:51:57.000Z",
-          "wordCount": 5408,
-          "title": "‘Post-Quantum’ Cryptography Scheme Is Cracked on a Laptop",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Broken-Encryption_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=118110",
-          "author": "Thomas Lewton",
-          "description": "Supermassive black holes have come to the fore as engines of galactic evolution, but new observations of the Milky Way and its central hole don’t yet hang together.            \nThe post What Drives Galaxies? The Milky Way’s Black Hole May Be the Key. first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/what-drives-galaxies-the-milky-ways-black-hole-may-be-the-key-20220823/",
-          "publishedOn": "2022-08-23T14:26:28.000Z",
-          "wordCount": 8805,
-          "title": "What Drives Galaxies? The Milky Way’s Black Hole May Be the Key.",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Black-Hole-Gyroscope_1200_social.jpg"
         }
       ]
     },
@@ -1392,6 +1362,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/overwriting-an-elements-accessible-name-can-break-speech-recognition/",
+          "author": null,
+          "description": "You might have been in situations where you received a classical three-column blog layout design. Unfortunately, all three columns close off with a \"Read more\" link. These links aren't good for accessibility because \"Read more\" isn't very descriptive.\nEspecially when a page includes multiple links with the same name, navigating them is a challenge. How should one know where all these \"Read more\" links lead to?\nEasy-peasy, aria-label then helps to provide a more accessible name. Right?\n<a href=\"/wonders\" aria-label=\"Wonders of the world\">Read more</a>\n\nThanks to aria-label, screen readers provide more valuable information, even when elements look visually the same.\nBut today I learned that aria-label can also lead to issues with speech recognition tools when it doesn't match what's visible.\nVisitors navigating the web with their voice can tell the software to click an element based on what they see — \"Click Read more\". An aria-label that overwrites an element's accessible name breaks this functionality.\nAshlee M. Boyer recommends in her article Don’t Overwrite Visual Labels With aria-label to include the visual label if you're improving it via aria-label.\n<a href=\"/something\" aria-label=\"Read more: Wonders of the world\">Read more</a>\n\nThat's good to know, but the general rule of ARIA remains: Use native and semantically correct elements whenever possible and only use ARIA when you really have to.\nSo it might be better to get rid of all these \"Read more\" links in the first place.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/overwriting-an-elements-accessible-name-can-break-speech-recognition/",
+          "publishedOn": "2022-09-21T22:00:00.000Z",
+          "wordCount": 1415,
+          "title": "Overwriting an element's accessible name can break speech recognition (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Overwriting%20an%20element's%20accessible%20name%20can%20break%20speech%20recognition/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/snippets/how-to-detect-if-a-font-is-supported/",
           "author": null,
