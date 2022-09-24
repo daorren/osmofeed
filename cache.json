@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/html-background-image-how-to-add-wallpaper-images-to-your-website/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Background images can help beautify websites and make them more attractive to users.  In this article, you'll learn:   * How to add a background image to your website using the CSS background-image     property.   * Other CSS background properties for images. How",
+          "link": "https://www.freecodecamp.org/news/html-background-image-how-to-add-wallpaper-images-to-your-website/",
+          "publishedOn": "2022-09-23T19:18:19.000Z",
+          "wordCount": 1202,
+          "title": "HTML Background Image – How to Add Wallpaper Images to Your Website",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/jonatan-pie-3l3RwQdHRHg-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-surrealdb-with-fresh-framework/",
+          "author": "Rajdeep Singh",
+          "description": "SurrealDB is a newly launched database that has recently started gaining popularity in the programming world. SurrealDB was built with the Rust language and was created by Tobie Morgan Hitchcock [https://www.linkedin.com/in/tobiemorganhitchcock/] and Jaime Morgan Hitchcock [https://www.linkedin.com/in/jaimemorganhitchcock/]. SurrealDB's new database comes with many features, but I'm most interested in the Deno",
+          "link": "https://www.freecodecamp.org/news/how-to-use-surrealdb-with-fresh-framework/",
+          "publishedOn": "2022-09-23T17:51:53.000Z",
+          "wordCount": 3329,
+          "title": "How to Use SurrealDb with the Fresh Framework and Deno",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Surreal-DB--and-deno-fresh-CMS--4-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-sort-recursively-in-python/",
+          "author": "P S Mohammed Ali",
+          "description": "When you want to sort a list or array in Python, there are many sorting algorithms you can use.  Some use looping concepts like Insertion Sort, Bubble Sort, and Selection Sort. On the other hand, you can also sort the same list or array using Merge Sort with the",
+          "link": "https://www.freecodecamp.org/news/how-to-sort-recursively-in-python/",
+          "publishedOn": "2022-09-23T14:35:00.000Z",
+          "wordCount": 2092,
+          "title": "How to Sort a List Recursively in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/max-harlynking-_QcLpud-gD0-unsplash-1.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/introduction-to-linked-lists-in-python/",
           "author": "Fakorede Damilola",
           "description": "Different programming languages offer different ways to store and access data. Some of the data structures you can use are collections such as arrays, lists, maps, sets, and so on.  These all do an awesome job storing and accessing data, but sometimes you might need something different. Another data",
@@ -1070,66 +1100,6 @@
           "wordCount": 1951,
           "title": "What is a Relational Database? RDBMS Definition",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/guerrillabuzz-crypto-pr-IlUq1ruyv0Q-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-games-with-love-2d-and-lua/",
-          "author": "Beau Carnes",
-          "description": "The Lua programming language is becoming increasingly popular for game development. And the LÖVE 2D game engine makes it simpler to create games using Lua.  We just published a full 11-hour game development course on the freeCodeCamp.org YouTube channel that will teach you how to create games using LÖVE",
-          "link": "https://www.freecodecamp.org/news/create-games-with-love-2d-and-lua/",
-          "publishedOn": "2022-08-25T13:28:45.000Z",
-          "wordCount": 946,
-          "title": "Create Games with LÖVE 2D and Lua",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/lua.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-dual-boot-windows-10-and-ubuntu-linux-dual-booting-tutorial/",
-          "author": "Kolade Chris",
-          "description": "You don’t have to have two different computers to use Linux and Windows 10. It's possible to have a Linux distro installed on a computer with Windows 10 preinstalled. In this article, I will show you how to dual boot Windows 10 and the popular Ubuntu Linux distro. But before",
-          "link": "https://www.freecodecamp.org/news/how-to-dual-boot-windows-10-and-ubuntu-linux-dual-booting-tutorial/",
-          "publishedOn": "2022-08-24T20:09:09.000Z",
-          "wordCount": 2200,
-          "title": "How to Dual Boot Windows 10 and Ubuntu – Linux Dual Booting Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/dualBoot--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/top-python-concepts-for-data-science/",
-          "author": "Ibrahim Abayomi Ogunbiyi",
-          "description": "If you're interested in learning data science, you've likely heard the buzzword  \"Python,\". It's a popular programming language often used in data science.  But Python is a general-purpose programming language. This means that it's not limited to data science alone. You can use it to develop web and",
-          "link": "https://www.freecodecamp.org/news/top-python-concepts-for-data-science/",
-          "publishedOn": "2022-08-24T17:53:30.000Z",
-          "wordCount": 4778,
-          "title": "Top Python Concepts to Know Before Learning Data Science",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/python-data-science-concepts.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/frontend-web-developer-bootcamp/",
-          "author": "Beau Carnes",
-          "description": "There are a lot of jobs available for frontend web developers. And you can learn all the skills you need to know without paying anything. You probably already know about freeCodeCamp's free interactive curriculum [https://freecodecamp.org] that will teach you the skills you need to become a fullstack web developer. But",
-          "link": "https://www.freecodecamp.org/news/frontend-web-developer-bootcamp/",
-          "publishedOn": "2022-08-24T17:32:45.000Z",
-          "wordCount": 969,
-          "title": "Frontend Web Developer 21-Hour Bootcamp",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/frontend.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-date-format-how-to-format-a-date-in-js/",
-          "author": "Joel Olawanle",
-          "description": "JavaScript is one of the three fundamental web technologies you'll use when developing websites or web applications. When creating these web pages, you will, at some point, likely need to use dates for some reason – such as displaying when something was uploaded, stored, and so on. In this article,",
-          "link": "https://www.freecodecamp.org/news/javascript-date-format-how-to-format-a-date-in-js/",
-          "publishedOn": "2022-08-24T15:25:15.000Z",
-          "wordCount": 1710,
-          "title": "JavaScript Date Format – How to Format a Date in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-otp-input-vue-3/",
-          "author": "Paul Akinyemi",
-          "description": "OTP inputs are one of the most fun components you can use in your app. They make the dry process of filling in yet another form a little more engaging. In this article, you’ll learn how to build an OTP input from scratch in Vue 3. By the end of",
-          "link": "https://www.freecodecamp.org/news/create-otp-input-vue-3/",
-          "publishedOn": "2022-08-24T15:00:18.000Z",
-          "wordCount": 2366,
-          "title": "How to Build an OTP Input in Vue 3",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/otp-article-header.jpg"
         }
       ]
     },
@@ -1297,16 +1267,6 @@
           "wordCount": 8384,
           "title": "Old Problem About Mathematical Curves Falls to Young Couple",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Curves_1200_social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=118235",
-          "author": "Steven Strogatz",
-          "description": "Dreams are subjective, but there are ways to peer into the minds of people while they are dreaming. Steven Strogatz speaks with sleep researcher Antonio Zadra about how new experimental methods have changed our understanding of dreams.            \nThe post Why and How Do We Dream? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/why-and-how-do-we-dream-20220824/",
-          "publishedOn": "2022-08-24T19:56:35.000Z",
-          "wordCount": 17788,
-          "title": "Why and How Do We Dream?",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/JoY_Dreams_1200_social_LOGO.jpg"
         }
       ]
     },
@@ -1362,6 +1322,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/custom-properties-dont-work-with-the-url-css-function/",
+          "author": null,
+          "description": "Custom properties and CSS parsing are always good for surprises like !important behaving slightly differently or properties being \"invalid at computed value time\".\nToday I discovered yet another surprise — custom properties don't work in combination with the url() function. 😲\n.something {\n  /* this doesn't work */\n  --image: \"https://jo.com/image.jpg\";\n  background: url(var(--image));\n}\n\nRoman Dvornov describes the details quite well in a GitHub issue, but let me give you a condensed explanation.\nThe two modes of url()\n\nYour url()-containing CSS will be parsed differently, depending on how you use url(). There's an old and a newer way:\nOld: url(https://jo.com/image.jpg)\nNewer: url('https://jo.com/image.jpg') or url(\"https://jo.com/image.jpg\")\nThe problem of the legacy url() token\nAnd thes…",
+          "link": "https://www.stefanjudis.com/today-i-learned/custom-properties-dont-work-with-the-url-css-function/",
+          "publishedOn": "2022-09-22T22:00:00.000Z",
+          "wordCount": 1656,
+          "title": "Why custom properties don't work with the url() CSS function (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Why%20custom%20properties%20don't%20work%20with%20the%20url()%20CSS%20function/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/today-i-learned/overwriting-an-elements-accessible-name-can-break-speech-recognition/",
           "author": null,
@@ -1449,6 +1419,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/429",
+          "author": null,
+          "description": "#​429 — September 23, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nWails v2: Build Cross-Platform Desktop Apps with Go — A big step forward for a project that has shown a lot of promise in recent years. Wails is an Electron-a-like for Go for building cross-platform desktop apps using Go as the base language and JavaScript on the front (and, yes, JS can call your Go functions). v2 introduces a lot of improvements:\n    \n\n\nSvelte, Vue, (P)React, Lit and vanilla JS templates.\nNative window translucency effects.\nNSIS installer generation for Windows.\nCode obfuscation and binary compression support.\nNo extra libraries or DLLs to ship.\nLea Anthony \n\n\n  \n  \n🧈 ButterCMS Melts into Your Go + Hugo App. #1 Rated Headless CMS — ButterCMS is your content backend.…",
+          "link": "https://golangweekly.com/issues/429",
+          "publishedOn": "2022-09-23T00:00:00.000Z",
+          "wordCount": 822,
+          "title": "It's like Electron, but for Go developers.",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/428",
           "author": null,
