@@ -1090,16 +1090,6 @@
           "wordCount": 4024,
           "title": "How to Learn Serverless AWS by Building 7 Projects",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-christina-morillo-1181316.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-a-relational-database-rdbms-definition/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "A relational database is a type of database that stores data in tables made up of rows and columns. Each table represents a specific object in the database like users, products, orders, and so on.  The term \"relational\" is the main characteristic feature that makes relational databases unique. This",
-          "link": "https://www.freecodecamp.org/news/what-is-a-relational-database-rdbms-definition/",
-          "publishedOn": "2022-08-25T22:51:46.000Z",
-          "wordCount": 1951,
-          "title": "What is a Relational Database? RDBMS Definition",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/guerrillabuzz-crypto-pr-IlUq1ruyv0Q-unsplash.jpg"
         }
       ]
     },
@@ -1257,16 +1247,6 @@
           "wordCount": 4956,
           "title": "Bacteria’s Immune Sensors Reveal a Novel Way to Detect Viruses",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Ancient-Antiviral-System_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=118254",
-          "author": "Jordana Cepelewicz",
-          "description": "Eric Larson and Isabel Vogt have solved the interpolation problem — a centuries-old question about some of the most basic objects in geometry. Some credit goes to the chalkboard in their living room.            \nThe post Old Problem About Mathematical Curves Falls to Young Couple first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/old-problem-about-algebraic-curves-falls-to-young-mathematicians-20220825/",
-          "publishedOn": "2022-08-25T14:38:10.000Z",
-          "wordCount": 8384,
-          "title": "Old Problem About Mathematical Curves Falls to Young Couple",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Curves_1200_social.jpg"
         }
       ]
     },
@@ -1275,6 +1255,16 @@
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
+        {
+          "id": "63265fbf2667443708169345",
+          "author": "Assaf Arkin",
+          "description": "This week we play Dungeon & Types, visualize our designs IRL, FOMO into the Metaverse, and wrestle a bear for a Belgium waffle.",
+          "link": "https://labnotes.org/weekend-reading-0-1-0-2/",
+          "publishedOn": "2022-09-24T20:20:21.000Z",
+          "wordCount": 1942,
+          "title": "Weekend Reading — 👋 0.1 + 0.2",
+          "imageUrl": "https://labnotes.org/content/images/2022/09/FdIf1VsXgAEvN74.jpeg"
+        },
         {
           "id": "631e548754305f1b43633c97",
           "author": "Assaf Arkin",
@@ -1457,16 +1447,6 @@
           "publishedOn": "2022-09-02T00:00:00.000Z",
           "wordCount": 812,
           "title": "How Go wants to 'embrace the enterprise'",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/425",
-          "author": null,
-          "description": "#​425 — August 26, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n\n\n\n  \n  \nBuffalo 1.0: Rapid Web Development in Go — Buffalo has been around for many years, and while 1.0 isn’t a big, feature packed release (indeed, no new code since 0.18.9), it’s a key milestone so congratulations to the team! If you’re new to Buffalo, there are plenty of tutorials to get you going.\nBuffalo Team \n\n\n  \n  \nGopherJS: A Go to JavaScript Transpiler — It’s been a few years since we featured GopherJS but the latest beta brings it up to Go 1.18 (though without generics for now, alas) and ES6/ES2015 standards. There’s an online playground if you want to have a quick play.\nGopherJS \n\n\n  \n  \nMeet GoLand 2022.2 — This version offers new features for generics and go․work. We’ve added s…",
-          "link": "https://golangweekly.com/issues/425",
-          "publishedOn": "2022-08-26T00:00:00.000Z",
-          "wordCount": 1004,
-          "title": "Avoiding 100 different Go mistakes",
           "imageUrl": null
         }
       ]

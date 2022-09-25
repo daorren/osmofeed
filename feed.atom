@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-24T02:32:28.727Z</updated>
+    <updated>2022-09-25T02:31:27.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 👋 0.1 + 0.2]]></title>
+        <id>63265fbf2667443708169345</id>
+        <link href="https://labnotes.org/weekend-reading-0-1-0-2/"/>
+        <updated>2022-09-24T20:20:21.000Z</updated>
+        <summary type="html"><![CDATA[This week we play Dungeon & Types, visualize our designs IRL, FOMO into the Metaverse, and wrestle a bear for a Belgium waffle.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML Background Image – How to Add Wallpaper Images to Your Website]]></title>
         <id>https://www.freecodecamp.org/news/html-background-image-how-to-add-wallpaper-images-to-your-website/</id>
@@ -1640,72 +1650,6 @@ Style querie…]]></summary>
         <summary type="html"><![CDATA[Following tutorials when you start learning serverless is a good first step. But to really get better, you need to build your own projects.  The problem is that coming up with ideas that are realistic but help you grow is hard. To help you out, I’ve come up with]]></summary>
         <author>
             <name>Sam Williams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avoiding 100 different Go mistakes]]></title>
-        <id>https://golangweekly.com/issues/425</id>
-        <link href="https://golangweekly.com/issues/425"/>
-        <updated>2022-08-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​425 — August 26, 2022
-
-
-Unsubscribe  |  Read on the Web
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-
-
-
-  
-  
-Buffalo 1.0: Rapid Web Development in Go — Buffalo has been around for many years, and while 1.0 isn’t a big, feature packed release (indeed, no new code since 0.18.9), it’s a key milestone so congratulations to the team! If you’re new to Buffalo, there are plenty of tutorials to get you going.
-Buffalo Team 
-
-
-  
-  
-GopherJS: A Go to JavaScript Transpiler — It’s been a few years since we featured GopherJS but the latest beta brings it up to Go 1.18 (though without generics for now, alas) and ES6/ES2015 standards. There’s an online playground if you want to have a quick play.
-GopherJS 
-
-
-  
-  
-Meet GoLand 2022.2 — This version offers new features for generics and go․work. We’ve added s…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Relational Database? RDBMS Definition]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-a-relational-database-rdbms-definition/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-relational-database-rdbms-definition/"/>
-        <updated>2022-08-25T22:51:46.000Z</updated>
-        <summary type="html"><![CDATA[A relational database is a type of database that stores data in tables made up of rows and columns. Each table represents a specific object in the database like users, products, orders, and so on.  The term "relational" is the main characteristic feature that makes relational databases unique. This]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Old Problem About Mathematical Curves Falls to Young Couple]]></title>
-        <id>https://www.quantamagazine.org/?p=118254</id>
-        <link href="https://www.quantamagazine.org/old-problem-about-algebraic-curves-falls-to-young-mathematicians-20220825/"/>
-        <updated>2022-08-25T14:38:10.000Z</updated>
-        <summary type="html"><![CDATA[Eric Larson and Isabel Vogt have solved the interpolation problem — a centuries-old question about some of the most basic objects in geometry. Some credit goes to the chalkboard in their living room.            
-The post Old Problem About Mathematical Curves Falls to Young Couple first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Jordana Cepelewicz</name>
         </author>
     </entry>
 </feed>
