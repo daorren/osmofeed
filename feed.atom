@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-28T02:26:54.430Z</updated>
+    <updated>2022-09-29T02:32:42.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Parameters vs Arguments in JavaScript – What's the Difference?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/"/>
+        <updated>2022-09-28T21:18:15.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is one of the most popular programming languages out there for web development. The dynamic values passed in a JavaScript function can change when the function gets called in another location in the code. The keywords we use to name these data are parameters and arguments, but some developers]]></summary>
+        <author>
+            <name>Segun Ajibola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Code a 2D Game Using JavaScript, HTML, and CSS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-code-a-2d-game-using-javascript-html-and-css/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-code-a-2d-game-using-javascript-html-and-css/"/>
+        <updated>2022-09-28T19:29:45.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript can be a surprisingly good programming language to use for creating 2D games. Especially games you want to be playable on almost any device.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code a 2D game using JavaScript, HTML, CSS,]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biologists Use Genetic Circuits to Program Plant Roots]]></title>
+        <id>https://www.quantamagazine.org/?p=119210</id>
+        <link href="https://www.quantamagazine.org/biologists-use-genetic-circuits-to-program-plant-roots-20220928/"/>
+        <updated>2022-09-28T13:56:44.000Z</updated>
+        <summary type="html"><![CDATA[Using inserted genetic circuitry, synthetic biologists controlled the growth of plant roots for the first time.            
+The post Biologists Use Genetic Circuits to Program Plant Roots first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Joanna Thompson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Test Your Express.js and Mongoose Apps with Jest and SuperTest]]></title>
         <id>https://www.freecodecamp.org/news/how-to-test-in-express-and-mongoose-apps/</id>
@@ -1723,37 +1754,6 @@ The post How Isaac Newton Discovered the Binomial Power Series first appeared on
 The post The AI Researcher Giving Her Field Its Bitter Medicine first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Max G. Levy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn CSS in 11 Hours]]></title>
-        <id>https://www.freecodecamp.org/news/learn-css-in-11-hours/</id>
-        <link href="https://www.freecodecamp.org/news/learn-css-in-11-hours/"/>
-        <updated>2022-08-30T13:55:08.000Z</updated>
-        <summary type="html"><![CDATA[It is essential for frontend web developers to understand how to use CSS. This is what is used to style a website. We just published a comprehensive CSS course on the freeCodeCamp.org YouTube channel. In this in-depth course, you will learn about all the key features of CSS. This is]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common Attacks on SSL/TLS – and How to Protect Your System]]></title>
-        <id>https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/</id>
-        <link href="https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/"/>
-        <updated>2022-08-29T21:17:07.000Z</updated>
-        <summary type="html"><![CDATA[The SSL and TLS protocols are frequently attacked. And understanding past attacks can inform your knowledge as a defender and help you secure current systems. It can also help you predict the direction of future attacks. So here's a summary of some of the most famous attacks targeting these protocols:]]></summary>
-        <author>
-            <name>Megan Kaczanowski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bacteria’s Immune Sensors Reveal a Novel Way to Detect Viruses]]></title>
-        <id>https://www.quantamagazine.org/?p=118303</id>
-        <link href="https://www.quantamagazine.org/bacterias-immune-sensors-reveal-a-novel-way-to-detect-viruses-20220829/"/>
-        <updated>2022-08-29T14:35:05.000Z</updated>
-        <summary type="html"><![CDATA[A new study reveals that bacteria can fight viruses in a surprisingly elegant way that has no known counterpart in more complex life.            
-The post Bacteria’s Immune Sensors Reveal a Novel Way to Detect Viruses first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Annie Melchor</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/",
+          "author": "Segun Ajibola",
+          "description": "JavaScript is one of the most popular programming languages out there for web development. The dynamic values passed in a JavaScript function can change when the function gets called in another location in the code. The keywords we use to name these data are parameters and arguments, but some developers",
+          "link": "https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/",
+          "publishedOn": "2022-09-28T21:18:15.000Z",
+          "wordCount": 1315,
+          "title": "Parameters vs Arguments in JavaScript – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Parameters-vs-Arguments.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-code-a-2d-game-using-javascript-html-and-css/",
+          "author": "Beau Carnes",
+          "description": "JavaScript can be a surprisingly good programming language to use for creating 2D games. Especially games you want to be playable on almost any device.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code a 2D game using JavaScript, HTML, CSS,",
+          "link": "https://www.freecodecamp.org/news/how-to-code-a-2d-game-using-javascript-html-and-css/",
+          "publishedOn": "2022-09-28T19:29:45.000Z",
+          "wordCount": 871,
+          "title": "How to Code a 2D Game Using JavaScript, HTML, and CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/2dgamejs.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-test-in-express-and-mongoose-apps/",
           "author": "Rakesh Potnuru",
           "description": "Testing is a vital part of software development. The sooner you start testing, the better.  In this article, I'll show you how to write tests for your NodeJs/ExpressJS and MongoDB/Mongoose applications with Jest and Supertest. Let's get started First let's set up a demo Express.js app. Let's say we",
@@ -1140,26 +1160,6 @@
           "wordCount": 2648,
           "title": "How to Use GitHub Super Linter in Your Projects",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/FCC-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-css-in-11-hours/",
-          "author": "Beau Carnes",
-          "description": "It is essential for frontend web developers to understand how to use CSS. This is what is used to style a website. We just published a comprehensive CSS course on the freeCodeCamp.org YouTube channel. In this in-depth course, you will learn about all the key features of CSS. This is",
-          "link": "https://www.freecodecamp.org/news/learn-css-in-11-hours/",
-          "publishedOn": "2022-08-30T13:55:08.000Z",
-          "wordCount": 830,
-          "title": "Learn CSS in 11 Hours",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cssdave.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/",
-          "author": "Megan Kaczanowski",
-          "description": "The SSL and TLS protocols are frequently attacked. And understanding past attacks can inform your knowledge as a defender and help you secure current systems. It can also help you predict the direction of future attacks. So here's a summary of some of the most famous attacks targeting these protocols:",
-          "link": "https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/",
-          "publishedOn": "2022-08-29T21:17:07.000Z",
-          "wordCount": 2608,
-          "title": "Common Attacks on SSL/TLS – and How to Protect Your System",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cybersecurity-by-Christiaan-Colen-creative-commons-free-to-use.jpeg"
         }
       ]
     },
@@ -1168,6 +1168,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=119210",
+          "author": "Joanna Thompson",
+          "description": "Using inserted genetic circuitry, synthetic biologists controlled the growth of plant roots for the first time.            \nThe post Biologists Use Genetic Circuits to Program Plant Roots first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/biologists-use-genetic-circuits-to-program-plant-roots-20220928/",
+          "publishedOn": "2022-09-28T13:56:44.000Z",
+          "wordCount": 4722,
+          "title": "Biologists Use Genetic Circuits to Program Plant Roots",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/Programming-Plant-Roots_1200_Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=119076",
           "author": "Patrick Honner",
@@ -1327,16 +1337,6 @@
           "wordCount": 6853,
           "title": "The AI Researcher Giving Her Field Its Bitter Medicine",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/AnimaAnandkumar_1200_social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=118303",
-          "author": "Annie Melchor",
-          "description": "A new study reveals that bacteria can fight viruses in a surprisingly elegant way that has no known counterpart in more complex life.            \nThe post Bacteria’s Immune Sensors Reveal a Novel Way to Detect Viruses first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/bacterias-immune-sensors-reveal-a-novel-way-to-detect-viruses-20220829/",
-          "publishedOn": "2022-08-29T14:35:05.000Z",
-          "wordCount": 4956,
-          "title": "Bacteria’s Immune Sensors Reveal a Novel Way to Detect Viruses",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Ancient-Antiviral-System_1200_Social.jpg"
         }
       ]
     },
