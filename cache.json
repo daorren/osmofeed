@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-fix-typeerror-only-size-1-arrays-can-be-converted-to-python-scalars/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In Python, you can use the numpy library when working with arrays and certain math concepts like matrices and linear algebra.  But like every other aspect of learning and working with a programming language, errors are unavoidable.  In this article, you'll learn how to fix the \"TypeError: only",
+          "link": "https://www.freecodecamp.org/news/how-to-fix-typeerror-only-size-1-arrays-can-be-converted-to-python-scalars/",
+          "publishedOn": "2022-09-30T21:39:43.000Z",
+          "wordCount": 1205,
+          "title": "TypeError: only size-1 arrays can be converted to Python scalars",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/brett-jordan-XWar9MbNGUY-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/absolute-and-relative-css-units/",
+          "author": "Dillion Megida",
+          "description": "In CSS, we categorize measurement units as either absolute or relative units. In this article, I'll explain what these categories are with examples of units that fall under each of them. CSS Measurement Units You can use different measurement units in CSS. You use these units with length or size",
+          "link": "https://www.freecodecamp.org/news/absolute-and-relative-css-units/",
+          "publishedOn": "2022-09-30T21:19:17.000Z",
+          "wordCount": 1746,
+          "title": "What are Absolute and Relative Units in CSS? Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/absolute-relative-units-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/rename-file-linux-bash-command/",
+          "author": "Zaira Hira",
+          "description": "Renaming files is a very common operation whether you are using the command line or the GUI.  Compared to the GUI (or Graphical User Interface), the CLI is especially powerful. This is in part because you can rename files in bulk or even schedule the scripts to rename files",
+          "link": "https://www.freecodecamp.org/news/rename-file-linux-bash-command/",
+          "publishedOn": "2022-09-30T15:06:08.000Z",
+          "wordCount": 1122,
+          "title": "Rename a File in Linux – Bash Terminal Command",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Copy-of-read-write-files-python--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-fix-dns-server-not-responding-error-windows-10/",
+          "author": "Gavin Lon",
+          "description": "I think it's safe to say that the vast majority of professionals depend on the internet these days.  So being denied access to the internet when you are trying to mine nuggets of valuable information from your go-to web sites can be quite an ordeal. Especially when you are",
+          "link": "https://www.freecodecamp.org/news/how-to-fix-dns-server-not-responding-error-windows-10/",
+          "publishedOn": "2022-09-30T15:00:47.000Z",
+          "wordCount": 3367,
+          "title": "DNS Server Not Responding – How to Fix the Error in Windows 10",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/DNS-Issue-Main-Pic---pexels-yan-krukov-4458420.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-dom-in-javascript/",
+          "author": "Kedar Makode",
+          "description": "Understanding how the DOM and events work in JavaScript is key if you want to be an effective front end developer. In this article, you'll learn what the DOM is and how it works. What is the DOM? DOM stands for Document Object Model. It's the interface between JavaScript and",
+          "link": "https://www.freecodecamp.org/news/what-is-dom-in-javascript/",
+          "publishedOn": "2022-09-30T14:50:00.000Z",
+          "wordCount": 2869,
+          "title": "What is the DOM? A Behind-the-Scenes Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/What-is-DOM-and-Events--in-JavaScipt--2-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/swap-two-array-elements-in-javascript/",
           "author": "Joel Olawanle",
           "description": "When you're working with arrays, there are times when you need to swap two elements in an array in JavaScript. Maybe you're working on an algorithm question such as the bubble sort algorithm where you need to compare two values and then swap them if your condition is true. Aside",
@@ -1090,46 +1140,6 @@
           "wordCount": 1657,
           "title": "How to Use Blueprints to Organize Your Flask Apps",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/blueprints.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-lazy-load-images-in-react/",
-          "author": "Victor Eke",
-          "description": "Optimizing the assets you use on your websites – like lazy loading images – is one of the most effective ways to improve web performance. Doing this helps you make sure that your websites are fast, they have great SEO [https://en.wikipedia.org/wiki/Search_engine_optimization], and it helps enhance the user experience. In this",
-          "link": "https://www.freecodecamp.org/news/how-to-lazy-load-images-in-react/",
-          "publishedOn": "2022-08-31T22:24:19.000Z",
-          "wordCount": 1859,
-          "title": "How to Lazy Load Images in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/How-to-lazy-load-images-in-React-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/html5-tags-you-might-not-know/",
-          "author": "Bhavesh Rawat",
-          "description": "One of the key factors that differentiates HTML 5 from its predecessors is the introduction of semantic tags.  Semantic tags add real meaning to the webpage and make it easy for humans, and search engines, to differentiate between different parts of the website.  To a certain extent, it",
-          "link": "https://www.freecodecamp.org/news/html5-tags-you-might-not-know/",
-          "publishedOn": "2022-08-31T21:47:30.000Z",
-          "wordCount": 2224,
-          "title": "Useful HTML5 Tags You Might Not Know",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/five-html-tags-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-coding-interview-practice/",
-          "author": "Damla Erkiner",
-          "description": "David Goggins is an ultramarathon runner, a public speaker, a retired navy SEAL, and the author of the book 'Can't Hurt Me: Master Your Mind and Defy the Odds [https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287]'. He's one of my role models because of his physical strength and mental resilience.  You might say: \"Wait a",
-          "link": "https://www.freecodecamp.org/news/javascript-coding-interview-practice/",
-          "publishedOn": "2022-08-31T17:39:28.000Z",
-          "wordCount": 3596,
-          "title": "JavaScript Coding Interview Practice – Sample Interview Questions and Solutions",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/david-goggins-quotes-about-hard-work.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-remove-an-element-from-a-javascript-array-removing-a-specific-item-in-js/",
-          "author": "Ilenia Magoni",
-          "description": "You will often need to remove an element from an array in JavaScript, whether it's for a queue data structure, or maybe from your React State. In the first half of this article you will learn all the methods that allow you to remove an element from an array without",
-          "link": "https://www.freecodecamp.org/news/how-to-remove-an-element-from-a-javascript-array-removing-a-specific-item-in-js/",
-          "publishedOn": "2022-08-31T17:00:43.000Z",
-          "wordCount": 2514,
-          "title": "How to Remove an Element from a JavaScript Array – Removing a Specific Item in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/vinicius-amnx-amano-dbOV1qSiL-c-unsplash.jpg"
         }
       ]
     },
@@ -1138,6 +1148,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=119316",
+          "author": "Pradeep Mutalik",
+          "description": "Readers rescued a Star Trek crew from a probabilistic predicament armed only with the power of mathematical reasoning.            \nThe post How Star Trek’s Lieutenant Uhura Overcame Astronomical Odds first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-star-treks-lieutenant-uhura-overcame-astronomical-odds-20220930/",
+          "publishedOn": "2022-09-30T13:26:28.000Z",
+          "wordCount": 6695,
+          "title": "How Star Trek’s Lieutenant Uhura Overcame Astronomical Odds",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Uhura_1200_social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=119250",
           "author": "Tara C. Smith",
@@ -1287,16 +1307,6 @@
           "wordCount": 4929,
           "title": "How Shannon Entropy Imposes Fundamental Limits on Communication",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/Shannon-Entropy_1200_Social.png"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=118504",
-          "author": "Jonathan O'Callaghan",
-          "description": "The grainy image of a “super-Jupiter” is a sign of what’s to come as the telescope’s exoplanet observations ramp up.            \nThe post Webb Space Telescope Snaps Its First Photo of an Exoplanet first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/webb-space-telescope-snaps-its-first-photo-of-an-exoplanet-20220901/",
-          "publishedOn": "2022-09-01T14:00:23.000Z",
-          "wordCount": 5415,
-          "title": "Webb Space Telescope Snaps Its First Photo of an Exoplanet",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/Ancient-Antiviral-System_1200_Social.jpg"
         }
       ]
     },
@@ -1459,6 +1469,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/430",
+          "author": null,
+          "description": "#​430 — September 30, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nWhat's New in Go's Runtime: Four Years Later — It’s always fantastic to get a roundup from the core Go team on their progress, and while Go 1.13 through 1.18 have certainly seen their fair share of enhancements, we also get to learn a bit more about Go 1.19’s memory limit feature and improved garbage collection. Some highlights from the past few years:\n\n\nBig efficiency gains on multicore systems.\nGo's scheduler spends up to 30% less CPU time spinning.\nGo's GC limits its CPU use when the app is idle, reducing CPU spikes.\ndefer-red function calls now cost as little as regular function calls (mostly).\nMore efficient timer management.\nMichael Knyszek \n\n\n  \n  \nAutomatically Detect and Trac…",
+          "link": "https://golangweekly.com/issues/430",
+          "publishedOn": "2022-09-30T00:00:00.000Z",
+          "wordCount": 887,
+          "title": "Four years of quiet Go improvements",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/429",
           "author": null,
