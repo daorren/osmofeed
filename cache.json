@@ -1090,56 +1090,6 @@
           "wordCount": 1517,
           "title": "How to Monitor Python APIs using Pyctuator and SpringBootAdmin",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Screen-Shot-2022-09-01-at-12.18.52-AM.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-string-replace-how-to-replace-a-character-in-a-string/",
-          "author": "Dillion Megida",
-          "description": "Python has numerous string modifying methods, and one of them is the replace  method. In this article, I'll show you how this method can be used to replace a character in a string. How the replace Method Works in Python The replace string method returns a new string with",
-          "link": "https://www.freecodecamp.org/news/python-string-replace-how-to-replace-a-character-in-a-string/",
-          "publishedOn": "2022-09-01T21:59:34.000Z",
-          "wordCount": 1182,
-          "title": "Python String.replace() – How to Replace a Character in a String",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/string-replace.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-an-ide-for-beginners/",
-          "author": "Joel Olawanle",
-          "description": "When you're first learning to code, there are a few tools you'll typically want to decide on before getting started. You'll pick a tech stack and a programming language to learn and use, and you'll also choose an IDE, or integrated development environment, where you'll write your code. Many different",
-          "link": "https://www.freecodecamp.org/news/what-is-an-ide-for-beginners/",
-          "publishedOn": "2022-09-01T18:48:32.000Z",
-          "wordCount": 1701,
-          "title": "What is an IDE? IDE Meaning in Coding",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/cover-template--4-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-deploy-nodejs-application-with-render/",
-          "author": "Yogesh Chavan",
-          "description": "For years, Heroku has been an excellent platform to host your Full Stack applications. freeCodeCamp made heavy use of Heroku early on – as have countless open source projects.  But that may change, as Heroku is bringing its generous free tier to an end. You may have received email",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-nodejs-application-with-render/",
-          "publishedOn": "2022-09-01T16:08:27.000Z",
-          "wordCount": 1894,
-          "title": "How to Deploy Your Node.js Application for Free with Render",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-pixabay-163235--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/sql-aggregate-functions-how-to-group-by-in-mysql-and-postgresql/",
-          "author": "Kolade Chris",
-          "description": "In SQL, aggregate functions let you perform a calculation on multiple data and return a single value. That’s why they are called “aggregate” functions. Those aggregate functions are AVG(), COUNT(), SUM(), MIN(), and MAX(). While making queries with the aggregate functions, you can also use them in combination with the",
-          "link": "https://www.freecodecamp.org/news/sql-aggregate-functions-how-to-group-by-in-mysql-and-postgresql/",
-          "publishedOn": "2022-09-01T15:57:13.000Z",
-          "wordCount": 1834,
-          "title": "SQL Aggregate Functions – How to Group By in MySQL and PostgreSQL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/agg.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-blueprints-to-organize-flask-apps/",
-          "author": "Ashutosh Krishna",
-          "description": "Flask is a simple, easy-to-use microframework for Python that can help you build scalable and secure web applications.  Sometimes you'll find developers dumping all of their logic into a single file called app.py. You will find a lot of tutorials that follow the same pattern. But it's not a",
-          "link": "https://www.freecodecamp.org/news/how-to-use-blueprints-to-organize-flask-apps/",
-          "publishedOn": "2022-09-01T15:25:10.000Z",
-          "wordCount": 1657,
-          "title": "How to Use Blueprints to Organize Your Flask Apps",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/blueprints.png"
         }
       ]
     },
@@ -1363,6 +1313,26 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/how-to-find-all-render-blocking-resources-with-javascript/",
+          "author": null,
+          "description": "Fast websites are good, right? Nobody likes to wait, and with Core Web Vitals being a ranking factor, optimizing performance is more critical than ever.\nRightfully, one of the main Core Web Vitals is Largest Contentful Paint which measures when elements are rendered and become visible on screen. But how hard could it be to render things quickly?\nWhen it's coming to render time, it's critical to consider what resources you load and how you load them. Render-blocking resources are a primary reason for slow and delayed rendering. Stylesheets and synchronous scripts are the most common offenders.\nUnfortunately, there hasn't been a straightforward way to discover render-blocking resources. And even though you could always rely on tools such as ct.css to find problematic resources, these tools r…",
+          "link": "https://www.stefanjudis.com/blog/how-to-find-all-render-blocking-resources-with-javascript/",
+          "publishedOn": "2022-09-30T22:00:00.000Z",
+          "wordCount": 1678,
+          "title": "How to find all render-blocking resources with JavaScript (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20find%20all%20render-blocking%20resources%20with%20JavaScript/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
+          "id": "https://www.stefanjudis.com/blog/web-almanac-highlights-2022/",
+          "author": null,
+          "description": "Following my three-year-old tradition, I spent the last few days reading and summarizing HTTP Archive's yearly Web Almanac on Twitter. As usual, the folks behind it put together a comprehensive report on the state of the web, backed by real data analyzed by trusted web experts.\nIt's a fantastic resource to understand the current web technology landscape and discover new web platform features.\nIf you're curious, here are the previous summaries:\nHighlights 2019\nHighlights 2020\nHighlights 2021\n2022 Web Almanac highlights\n\nI won't summarize the entire mega-thread here, so head over to Twitter to read it entirely if you're curious.\n\n        \n\n        \nStefan Judis\n              @stefanjudis\n            \n.@HTTPArchive's annual state of the web report — the Web Almanac — is out! \nAs every year, I…",
+          "link": "https://www.stefanjudis.com/blog/web-almanac-highlights-2022/",
+          "publishedOn": "2022-09-30T22:00:00.000Z",
+          "wordCount": 1876,
+          "title": "Web Almanac Highlights 2022 (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Almanac%20Highlights%202022/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/notes/an-app-to-open-your-current-finder-directory-in-vs-code/",
           "author": null,
           "description": "I just discovered the OpenInCode app. I'm not sure yet if I'll really use it, but I like the idea of a having a quick way to open a directory in VS Code with a single click.\nThe app is a little outdated and wonky but it works.\nFirst, the documenation is outdated: to install the app, use the following brew command.\nbrew install --cask open-in-code\n\nFollow the README instructions and you're good to go. There's a little issue with macOS dark mode but I can live with this.\nLet's see if I'll use it. 😉\n\n\n          \n          \n            Reply to Stefan",
@@ -1507,16 +1477,6 @@
           "publishedOn": "2022-09-09T00:00:00.000Z",
           "wordCount": 765,
           "title": "Go's new vulnerability analysis tool",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/426",
-          "author": null,
-          "description": "#​426 — September 2, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \n▶  How Go Became Its Best Self — If you’re not familiar with Cameron yet, you soon will be – he’s recently become the product lead for Go at Google. At GopherCon Europe 2022 he spoke about how Google’s background led to the creation of Go, the phases of Go’s growth, how Google thinks about Go’s trajectory going forward, and why enterprise adoption is important.\nCameron Balahan \n\n\n  \n  \nHow to Write Accurate Benchmarks in Go — An excerpt from the author’s book 100 Go Mistakes and How to Avoid Them, this post describes four common issues with benchmarking. I’d bet we’ve all tripped over at least one of these..\nTeiva Harsanyi \n\n\n  \n  \nGo Notification Infrastructure: Stop Wasting Engineeri…",
-          "link": "https://golangweekly.com/issues/426",
-          "publishedOn": "2022-09-02T00:00:00.000Z",
-          "wordCount": 812,
-          "title": "How Go wants to 'embrace the enterprise'",
           "imageUrl": null
         }
       ]

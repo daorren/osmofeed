@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-01T02:43:52.428Z</updated>
+    <updated>2022-10-02T02:36:19.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to find all render-blocking resources with JavaScript (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/how-to-find-all-render-blocking-resources-with-javascript/</id>
+        <link href="https://www.stefanjudis.com/blog/how-to-find-all-render-blocking-resources-with-javascript/"/>
+        <updated>2022-09-30T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fast websites are good, right? Nobody likes to wait, and with Core Web Vitals being a ranking factor, optimizing performance is more critical than ever.
+Rightfully, one of the main Core Web Vitals is Largest Contentful Paint which measures when elements are rendered and become visible on screen. But how hard could it be to render things quickly?
+When it's coming to render time, it's critical to consider what resources you load and how you load them. Render-blocking resources are a primary reason for slow and delayed rendering. Stylesheets and synchronous scripts are the most common offenders.
+Unfortunately, there hasn't been a straightforward way to discover render-blocking resources. And even though you could always rely on tools such as ct.css to find problematic resources, these tools r…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Almanac Highlights 2022 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-almanac-highlights-2022/</id>
+        <link href="https://www.stefanjudis.com/blog/web-almanac-highlights-2022/"/>
+        <updated>2022-09-30T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Following my three-year-old tradition, I spent the last few days reading and summarizing HTTP Archive's yearly Web Almanac on Twitter. As usual, the folks behind it put together a comprehensive report on the state of the web, backed by real data analyzed by trusted web experts.
+It's a fantastic resource to understand the current web technology landscape and discover new web platform features.
+If you're curious, here are the previous summaries:
+Highlights 2019
+Highlights 2020
+Highlights 2021
+2022 Web Almanac highlights
+
+I won't summarize the entire mega-thread here, so head over to Twitter to read it entirely if you're curious.
+
+        
+
+        
+Stefan Judis
+              @stefanjudis
+            
+.@HTTPArchive's annual state of the web report — the Web Almanac — is out! 
+As every year, I…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeError: only size-1 arrays can be converted to Python scalars]]></title>
         <id>https://www.freecodecamp.org/news/how-to-fix-typeerror-only-size-1-arrays-can-be-converted-to-python-scalars/</id>
@@ -1674,98 +1714,6 @@ Loading is only deferred when JavaScript is enabled. This is an anti-tracking me
         <summary type="html"><![CDATA[Actuator endpoints help us monitor our services. By using actuators, we can gain a lot of information about what’s going on.  SpringBoot has a number of in-built actuators, and it also allows us to create our own Actuator Endpoint.  For frameworks written in Python like Flask or FastAPI,]]></summary>
         <author>
             <name>Sameer Shukla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Go wants to 'embrace the enterprise']]></title>
-        <id>https://golangweekly.com/issues/426</id>
-        <link href="https://golangweekly.com/issues/426"/>
-        <updated>2022-09-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​426 — September 2, 2022
-
-
-Unsubscribe  |  Read on the Web
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-▶  How Go Became Its Best Self — If you’re not familiar with Cameron yet, you soon will be – he’s recently become the product lead for Go at Google. At GopherCon Europe 2022 he spoke about how Google’s background led to the creation of Go, the phases of Go’s growth, how Google thinks about Go’s trajectory going forward, and why enterprise adoption is important.
-Cameron Balahan 
-
-
-  
-  
-How to Write Accurate Benchmarks in Go — An excerpt from the author’s book 100 Go Mistakes and How to Avoid Them, this post describes four common issues with benchmarking. I’d bet we’ve all tripped over at least one of these..
-Teiva Harsanyi 
-
-
-  
-  
-Go Notification Infrastructure: Stop Wasting Engineeri…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python String.replace() – How to Replace a Character in a String]]></title>
-        <id>https://www.freecodecamp.org/news/python-string-replace-how-to-replace-a-character-in-a-string/</id>
-        <link href="https://www.freecodecamp.org/news/python-string-replace-how-to-replace-a-character-in-a-string/"/>
-        <updated>2022-09-01T21:59:34.000Z</updated>
-        <summary type="html"><![CDATA[Python has numerous string modifying methods, and one of them is the replace  method. In this article, I'll show you how this method can be used to replace a character in a string. How the replace Method Works in Python The replace string method returns a new string with]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is an IDE? IDE Meaning in Coding]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-an-ide-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-an-ide-for-beginners/"/>
-        <updated>2022-09-01T18:48:32.000Z</updated>
-        <summary type="html"><![CDATA[When you're first learning to code, there are a few tools you'll typically want to decide on before getting started. You'll pick a tech stack and a programming language to learn and use, and you'll also choose an IDE, or integrated development environment, where you'll write your code. Many different]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy Your Node.js Application for Free with Render]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-deploy-nodejs-application-with-render/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-nodejs-application-with-render/"/>
-        <updated>2022-09-01T16:08:27.000Z</updated>
-        <summary type="html"><![CDATA[For years, Heroku has been an excellent platform to host your Full Stack applications. freeCodeCamp made heavy use of Heroku early on – as have countless open source projects.  But that may change, as Heroku is bringing its generous free tier to an end. You may have received email]]></summary>
-        <author>
-            <name>Yogesh Chavan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Aggregate Functions – How to Group By in MySQL and PostgreSQL]]></title>
-        <id>https://www.freecodecamp.org/news/sql-aggregate-functions-how-to-group-by-in-mysql-and-postgresql/</id>
-        <link href="https://www.freecodecamp.org/news/sql-aggregate-functions-how-to-group-by-in-mysql-and-postgresql/"/>
-        <updated>2022-09-01T15:57:13.000Z</updated>
-        <summary type="html"><![CDATA[In SQL, aggregate functions let you perform a calculation on multiple data and return a single value. That’s why they are called “aggregate” functions. Those aggregate functions are AVG(), COUNT(), SUM(), MIN(), and MAX(). While making queries with the aggregate functions, you can also use them in combination with the]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Blueprints to Organize Your Flask Apps]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-blueprints-to-organize-flask-apps/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-blueprints-to-organize-flask-apps/"/>
-        <updated>2022-09-01T15:25:10.000Z</updated>
-        <summary type="html"><![CDATA[Flask is a simple, easy-to-use microframework for Python that can help you build scalable and secure web applications.  Sometimes you'll find developers dumping all of their logic into a single file called app.py. You will find a lot of tutorials that follow the same pattern. But it's not a]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
         </author>
     </entry>
 </feed>
