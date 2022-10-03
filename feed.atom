@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-02T02:36:19.709Z</updated>
+    <updated>2022-10-03T02:03:46.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #81 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-81/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-81/"/>
+        <updated>2022-10-01T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag, my friend!
+
+Do you know that VS Code has a built-in version control system outside of Git? Or that SVG filters can be inlined in CSS? Or that you can soon find all render-blocking resources via JavaScript?
+All the answers and much more are included in this week's Web Weekly. 🙈 Enjoy!
+Welcome to the 44 new subscribers! I'm super excited to have you around! 👋
+Thought of the week
+
+As you may know, I like making lists. 🙈
+My blog includes multiple link lists, and even my most successful open source project, Tiny Helpers, is just a public list.
+Whenever I feel something could be valuable in the future, I just have the urge to put it somewhere. I might need it, right? One could also say this newsletter is just that — a list.
+And even though I tried Obsidian and Notion, none of these…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to find all render-blocking resources with JavaScript (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/how-to-find-all-render-blocking-resources-with-javascript/</id>
@@ -1644,76 +1664,6 @@ There's rapid development in all this, and it's scary. Because where will we dra
 Computers are becoming so good at painting, writing and creating that we'll always have to investigate if a human or an algorithm made something. Do we have to become exp…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disabled JavaScript turns off native lazy loading (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/disabled-javascript-turns-off-native-lazy-loading/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/disabled-javascript-turns-off-native-lazy-loading/"/>
-        <updated>2022-09-02T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It's speedy TIL time! Did you know the loading="lazy" attribute doesn't work when you turn off JavaScript?
-Now, you do. 😉
-Why doesn't lazy load work without JS? There's only one reason why we can't have nice things: of course, it's for tracking prevention.
-Here's the loading MDN documentation explaining the behavior:
-Loading is only deferred when JavaScript is enabled. This is an anti-tracking measure, because if a user agent supported lazy loading when scripting is disabled, it would still be possible for a site to track a user's approximate scroll position throughout a session, by strategically placing images in a page's markup such that a server can track how many images are requested and when.
-And if you really want to get into this topic, here's the related spec describing when loading="lazy" should work.
-And just to be clear, because some folks were confused: images will still load when JS is disabled. It's only the deferred loading that won't work.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disabled JavaScript turns of native lazy loading (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/disabled-javascript-turns-of-native-lazy-loading/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/disabled-javascript-turns-of-native-lazy-loading/"/>
-        <updated>2022-09-02T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It's speedy TIL time! Did you know the loading="lazy" attribute doesn't work when you turn off JavaScript?
-Now, you do. 😉
-Why doesn't lazy load work without JS? There's only one reason why we can't have nice things: of course, it's for tracking prevention.
-Here's the loading MDN documentation explaining the behavior:
-Loading is only deferred when JavaScript is enabled. This is an anti-tracking measure, because if a user agent supported lazy loading when scripting is disabled, it would still be possible for a site to track a user's approximate scroll position throughout a session, by strategically placing images in a page's markup such that a server can track how many images are requested and when.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Source for Developers – A Beginner's Handbook to Help You Start Contributing]]></title>
-        <id>https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/</id>
-        <link href="https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/"/>
-        <updated>2022-09-02T16:34:40.000Z</updated>
-        <summary type="html"><![CDATA[What comes to mind when you hear the term Open Source? In the programming world, open source is a generic term for Open Source Software (OSS). Open-source software is built on source code that's open to everyone to view, change, extend, and distribute. In this article, we will get into]]></summary>
-        <author>
-            <name>TAPAS ADHIKARY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript DOM Tutorial – How to Build a Calculator App in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-dom-build-a-calculator-app/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-dom-build-a-calculator-app/"/>
-        <updated>2022-09-02T15:40:00.000Z</updated>
-        <summary type="html"><![CDATA[You're going to spend a lot of time working on webpages when using JavaScript. In fact, while you're using JavaScript, the webpage is where all the exciting and important stuff takes place.  A webpage is one big document for a JavaScript developer since every element on the page is]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Monitor Python APIs using Pyctuator and SpringBootAdmin]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-monitor-python-apis-using-pyctuator-and-springbootadmin/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-monitor-python-apis-using-pyctuator-and-springbootadmin/"/>
-        <updated>2022-09-02T15:02:51.000Z</updated>
-        <summary type="html"><![CDATA[Actuator endpoints help us monitor our services. By using actuators, we can gain a lot of information about what’s going on.  SpringBoot has a number of in-built actuators, and it also allows us to create our own Actuator Endpoint.  For frameworks written in Python like Flask or FastAPI,]]></summary>
-        <author>
-            <name>Sameer Shukla</name>
         </author>
     </entry>
 </feed>

@@ -22,6 +22,64 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-01 datetime="2022-10-01T22:00:00.000Z">2022-10-01</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-01 datetime="2022-10-01T22:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/blog/web-weekly-81/"
+                        open
+                      >
+                        <summary class="article-expander__title">Web Weekly #81 (#blogPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/blog/web-weekly-81/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.stefanjudis.com/newsletter-social.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Guten Tag, my friend!
+
+Do you know that VS Code has a built-in version control system outside of Git? Or that SVG filters can be inlined in CSS? Or that you can soon find all render-blocking resources via JavaScript?
+All the answers and much more are included in this week&#x27;s Web Weekly. 🙈 Enjoy!
+Welcome to the 44 new subscribers! I&#x27;m super excited to have you around! 👋
+Thought of the week
+
+As you may know, I like making lists. 🙈
+My blog includes multiple link lists, and even my most successful open source project, Tiny Helpers, is just a public list.
+Whenever I feel something could be valuable in the future, I just have the urge to put it somewhere. I might need it, right? One could also say this newsletter is just that — a list.
+And even though I tried Obsidian and Notion, none of these…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-09-30 datetime="2022-09-30T22:00:00.000Z">2022-09-30</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-09-30 datetime="2022-09-30T22:00:00.000Z"></time>
           </button>
@@ -4119,172 +4177,10 @@ Computers are becoming so good at painting, writing and creating that we&#x27;ll
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-09-02 datetime="2022-09-02T22:00:00.000Z">2022-09-02</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-09-02 datetime="2022-09-02T22:00:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Stefan Judis Web Development</button>
-                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.stefanjudis.com/today-i-learned/disabled-javascript-turns-off-native-lazy-loading/"
-                        open
-                      >
-                        <summary class="article-expander__title">Disabled JavaScript turns off native lazy loading (#tilPost)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/disabled-javascript-turns-off-native-lazy-loading/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Disabled%20JavaScript%20turns%20off%20native%20lazy%20loading/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>It&#x27;s speedy TIL time! Did you know the loading&#x3D;&quot;lazy&quot; attribute doesn&#x27;t work when you turn off JavaScript?
-Now, you do. 😉
-Why doesn&#x27;t lazy load work without JS? There&#x27;s only one reason why we can&#x27;t have nice things: of course, it&#x27;s for tracking prevention.
-Here&#x27;s the loading MDN documentation explaining the behavior:
-Loading is only deferred when JavaScript is enabled. This is an anti-tracking measure, because if a user agent supported lazy loading when scripting is disabled, it would still be possible for a site to track a user&#x27;s approximate scroll position throughout a session, by strategically placing images in a page&#x27;s markup such that a server can track how many images are requested and when.
-And if you really want to get into this topic, here&#x27;s the related spec describing when loading&#x3D;&quot;lazy&quot; should work.
-And just to be clear, because some folks were confused: images will still load when JS is disabled. It&#x27;s only the deferred loading that won&#x27;t work.
-
-
-          
-          
-            Reply to Stefan</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.stefanjudis.com/today-i-learned/disabled-javascript-turns-of-native-lazy-loading/"
-                        open
-                      >
-                        <summary class="article-expander__title">Disabled JavaScript turns of native lazy loading (#tilPost)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/disabled-javascript-turns-of-native-lazy-loading/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Disabled%20JavaScript%20turns%20of%20native%20lazy%20loading/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>It&#x27;s speedy TIL time! Did you know the loading&#x3D;&quot;lazy&quot; attribute doesn&#x27;t work when you turn off JavaScript?
-Now, you do. 😉
-Why doesn&#x27;t lazy load work without JS? There&#x27;s only one reason why we can&#x27;t have nice things: of course, it&#x27;s for tracking prevention.
-Here&#x27;s the loading MDN documentation explaining the behavior:
-Loading is only deferred when JavaScript is enabled. This is an anti-tracking measure, because if a user agent supported lazy loading when scripting is disabled, it would still be possible for a site to track a user&#x27;s approximate scroll position throughout a session, by strategically placing images in a page&#x27;s markup such that a server can track how many images are requested and when.
-
-
-          
-          
-            Reply to Stefan</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >freeCodeCamp.org</button>
-                  <a class="source-heading__link" href="https://www.freecodecamp.org/news/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/"
-                        open
-                      >
-                        <summary class="article-expander__title">Open Source for Developers – A Beginner&#x27;s Handbook to Help You Start Contributing</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2022/08/Book-PNG.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>What comes to mind when you hear the term Open Source? In the programming world, open source is a generic term for Open Source Software (OSS). Open-source software is built on source code that&#x27;s open to everyone to view, change, extend, and distribute. In this article, we will get into</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;12
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/javascript-dom-build-a-calculator-app/"
-                        open
-                      >
-                        <summary class="article-expander__title">JavaScript DOM Tutorial – How to Build a Calculator App in JS</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/javascript-dom-build-a-calculator-app/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2022/08/Web-capture_31-8-2022_83456_localhost.jpeg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>You&#x27;re going to spend a lot of time working on webpages when using JavaScript. In fact, while you&#x27;re using JavaScript, the webpage is where all the exciting and important stuff takes place.  A webpage is one big document for a JavaScript developer since every element on the page is</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;18
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/how-to-monitor-python-apis-using-pyctuator-and-springbootadmin/"
-                        open
-                      >
-                        <summary class="article-expander__title">How to Monitor Python APIs using Pyctuator and SpringBootAdmin</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/how-to-monitor-python-apis-using-pyctuator-and-springbootadmin/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2022/09/Screen-Shot-2022-09-01-at-12.18.52-AM.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Actuator endpoints help us monitor our services. By using actuators, we can gain a lot of information about what’s going on.  SpringBoot has a number of in-built actuators, and it also allows us to create our own Actuator Endpoint.  For frameworks written in Python like Flask or FastAPI,</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;5
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/3167039340">
-        <time id="build-timestamp" datetime="2022-10-02T02:36:19.683Z">2022-10-02T02:36:19.683Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/3171025369">
+        <time id="build-timestamp" datetime="2022-10-03T02:03:46.324Z">2022-10-03T02:03:46.324Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
