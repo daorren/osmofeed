@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-modal-with-javascript/",
+          "author": "Victor Eke",
+          "description": "It's probably happened to you before: you unintentionally attempted to perform an action on a webpage, but luckily got a pop-up window asking you to confirm your decision. This pop-up window is called a modal. It's a web page element that pops up and displays in front of other page",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-modal-with-javascript/",
+          "publishedOn": "2022-10-03T23:49:06.000Z",
+          "wordCount": 2342,
+          "title": "How to Build a Modal with JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/How-to-build-a-modal-with-JavaScript.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-rem-in-css-rem-unit-font-size-padding-height-and-more/",
+          "author": "Dillion Megida",
+          "description": "The rem measurement unit is a relative unit that you can use for length values in CSS. I will explain what this unit is, and how it is different from other units in this article. In my previous article, I explained the two categories of units in CSS: Absolute and",
+          "link": "https://www.freecodecamp.org/news/what-is-rem-in-css-rem-unit-font-size-padding-height-and-more/",
+          "publishedOn": "2022-10-03T22:57:54.000Z",
+          "wordCount": 1388,
+          "title": "What is rem in CSS? rem Unit Font Size, Padding, Height, and More",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/rem-units.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/machine-learning-web-app-with-flask/",
+          "author": "Tooba Jamal",
+          "description": "Being able to build predictive models is a superpower – but you can't make much of these models if users can't use them.  In this article, we will go through the process of building and deploying a machine learning web app using Flask and PythonAnywhere.  Flask is a",
+          "link": "https://www.freecodecamp.org/news/machine-learning-web-app-with-flask/",
+          "publishedOn": "2022-10-03T22:52:51.000Z",
+          "wordCount": 2376,
+          "title": "How to Turn Your Jupyter Notebook into a User-Friendly Web App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Purple-Illustrated-Technology-Blog-Banner-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/map-filter-reduce-in-javascript/",
+          "author": "Bhavesh Rawat",
+          "description": "If you want to learn React, it's important to get a fair understanding of some core JavaScript concepts first.  So if that's what you're doing, first of all – great job! You have made a wise decision by not starting directly with React.  Second, React builds on key",
+          "link": "https://www.freecodecamp.org/news/map-filter-reduce-in-javascript/",
+          "publishedOn": "2022-10-03T22:06:51.000Z",
+          "wordCount": 1763,
+          "title": "How to Use map(), filter(), and reduce() in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/fCC-blog-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-deploy-a-routed-react-app-to-netlify/",
+          "author": "Edeh Israel Chidera",
+          "description": "Have you ever experienced a “PAGE NOT FOUND” error when trying to access or refresh an application that uses React Router? Don't worry, you're not alone. In this article, you will learn how to deploy a React application that uses react-router without any problems. The Problem with Deploying react-router Apps",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-routed-react-app-to-netlify/",
+          "publishedOn": "2022-10-03T17:16:24.000Z",
+          "wordCount": 1431,
+          "title": "How to Deploy a React Router App to Netlify and Fix the \"Page Not Found\" Error",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/netlify1-1-1.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-fix-typeerror-only-size-1-arrays-can-be-converted-to-python-scalars/",
           "author": "Ihechikara Vincent Abba",
           "description": "In Python, you can use the numpy library when working with arrays and certain math concepts like matrices and linear algebra.  But like every other aspect of learning and working with a programming language, errors are unavoidable.  In this article, you'll learn how to fix the \"TypeError: only",
@@ -1069,6 +1119,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=119283",
+          "author": "Yasemin Saplakoglu",
+          "description": "Svante Pääbo has been awarded the 2022 Nobel Prize in Physiology or Medicine for studying our extinct ancestors’ DNA.            \nThe post Geneticist Awarded Nobel Prize for Studies of Extinct Human Ancestors first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/extinct-human-genomes-studies-win-nobel-prize-for-medicine-2022-20221003/",
+          "publishedOn": "2022-10-03T09:45:32.000Z",
+          "wordCount": 5818,
+          "title": "Geneticist Awarded Nobel Prize for Studies of Extinct Human Ancestors",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/Nobel_Medicine_Paabo_1200_Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=119316",
           "author": "Pradeep Mutalik",
           "description": "Readers rescued a Star Trek crew from a probabilistic predicament armed only with the power of mathematical reasoning.            \nThe post How Star Trek’s Lieutenant Uhura Overcame Astronomical Odds first appeared on Quanta Magazine",
@@ -1264,16 +1324,6 @@
           "wordCount": 1818,
           "title": "Weekend Reading — 👋 A quiet promotion",
           "imageUrl": "https://labnotes.org/content/images/2022/09/IMG_0599.JPG"
-        },
-        {
-          "id": "630a90d8e29f1863e60c089d",
-          "author": "Assaf Arkin",
-          "description": "This week we wield the sword of legacy code maintenance, discuss quiet firing, draw with 4.2 GB, and play disco fever.",
-          "link": "https://labnotes.org/weekend-reading-git-m-disagree-and-commit/",
-          "publishedOn": "2022-09-03T23:06:18.000Z",
-          "wordCount": 1553,
-          "title": "Weekend Reading — 👋 git -m “Disagree and commit”",
-          "imageUrl": "https://labnotes.org/content/images/2022/09/twitter_EQhFwf5XUAIrKfX.jpg"
         }
       ]
     },
@@ -1380,16 +1430,6 @@
           "publishedOn": "2022-09-11T22:00:00.000Z",
           "wordCount": 2142,
           "title": "Web Weekly #79 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-78/",
-          "author": null,
-          "description": "Guten Tag, lovely humans!\n\nI usually try to ignore all this AI/ML stuff, but we're entering spooky times, and I decided it's better to be informed about what's happening.\nDALL·E is a fun example, right? Give the algorithm a random sentence and receive generated images. It's not perfect yet, but good enough to tweet some funny pictures.\nAnd it's also cool that you can feed computers an image like the \"Girl with a Pearl Earring\", and they just extend it.\nOr pair rough sketches with a description to generate art. (This one's wild. 👇)\nThere's rapid development in all this, and it's scary. Because where will we draw the line?\nComputers are becoming so good at painting, writing and creating that we'll always have to investigate if a human or an algorithm made something. Do we have to become exp…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-78/",
-          "publishedOn": "2022-09-03T22:00:00.000Z",
-          "wordCount": 2151,
-          "title": "Web Weekly #78 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
