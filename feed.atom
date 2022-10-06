@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-05T02:15:29.930Z</updated>
+    <updated>2022-10-06T02:07:17.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use React Helmet – With Example Use Case]]></title>
+        <id>https://www.freecodecamp.org/news/react-helmet-examples/</id>
+        <link href="https://www.freecodecamp.org/news/react-helmet-examples/"/>
+        <updated>2022-10-05T16:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Because of the nature of single page applications (SPAs), modifying metadata in React apps can be tricky without using a helper library. Lucky for us, that library already exists – and it's called React Helmet. Leveraging Helmet for metadata inclusion can significantly simplify the process of making a React app SEO]]></summary>
+        <author>
+            <name>Scott Gary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VLOOKUP in Excel – Formula and Example Function]]></title>
+        <id>https://www.freecodecamp.org/news/vlookup-in-excel-formula-and-example-function/</id>
+        <link href="https://www.freecodecamp.org/news/vlookup-in-excel-formula-and-example-function/"/>
+        <updated>2022-10-05T16:26:42.000Z</updated>
+        <summary type="html"><![CDATA[In Excel, VLOOKUP() means vertical lookup. It is a powerful built-in function you can use to quickly search for a value in a spreadsheet. VLOOKUP() searches for a value in a vertical manner across the sheet – unlike the HLOOKUP() function which does it horizontally. Before using VLOOKUP(), make sure]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Functions Tutorial – IIFE, Function Parameters, and Code Blocks Explained]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/"/>
+        <updated>2022-10-05T16:06:29.000Z</updated>
+        <summary type="html"><![CDATA[Functions are one of the most widely-used features in programming. So, it helps to have a solid understanding of how they work. This tutorial discusses everything you need to know to use JavaScript functions like a pro. Table of Contents  1.  What Is a Function?  2.]]></summary>
+        <author>
+            <name>Oluwatobi Sofela</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big O Cheat Sheet – Time Complexity Chart]]></title>
+        <id>https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/</id>
+        <link href="https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/"/>
+        <updated>2022-10-05T15:00:53.000Z</updated>
+        <summary type="html"><![CDATA[An algorithm is a set of well-defined instructions for solving a specific problem. You can solve these problems in various ways. This means that the method you use to arrive at the same solution may differ from mine, but we should both get the same result. Because there are various]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Validate your Machine Learning Models Using TensorFlow Model Analysis]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-validate-machine-learning-models-with-tensorflow-model-analysis/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-validate-machine-learning-models-with-tensorflow-model-analysis/"/>
+        <updated>2022-10-05T14:37:09.000Z</updated>
+        <summary type="html"><![CDATA[My first deployed Machine Learning model was a failure. It was a simple Diabetes Diagnosis Model for potential diabetes mellitus patients – and quite frankly, I was beyond excited on deployment.  But the excitement soon disappeared when I received feedback from users. Simply put, the users felt the model]]></summary>
+        <author>
+            <name>Salim Oyinlola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Molecule-Building Innovators Win Nobel Prize in Chemistry]]></title>
+        <id>https://www.quantamagazine.org/?p=119285</id>
+        <link href="https://www.quantamagazine.org/molecule-building-innovators-win-2022-chemistry-nobel-prize-20221005/"/>
+        <updated>2022-10-05T10:00:42.000Z</updated>
+        <summary type="html"><![CDATA[The chemists Carolyn Bertozzi, Morten Meldal and K. Barry Sharpless were recognized for their development of click chemistry and bioorthogonal chemistry.            
+The post Molecule-Building Innovators Win Nobel Prize in Chemistry first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Yasemin Saplakoglu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Cross-Site Request Forgery (CSRF)? Laravel Web Security Tutorial]]></title>
         <id>https://www.freecodecamp.org/news/laravel-web-security-csrf/</id>
@@ -1769,16 +1830,6 @@ The post A Good Memory or a Bad One? One Brain Molecule Decides. first appeared 
 The post How Shannon Entropy Imposes Fundamental Limits on Communication first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Kevin Hartnett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Translation Month is Back – How to Help Translate freeCodeCamp into Your Native Language]]></title>
-        <id>https://www.freecodecamp.org/news/world-translation-month-is-back-how-can-you-contribute-to-translate-freecodecamp-into-your-language/</id>
-        <link href="https://www.freecodecamp.org/news/world-translation-month-is-back-how-can-you-contribute-to-translate-freecodecamp-into-your-language/"/>
-        <updated>2022-09-06T14:00:47.000Z</updated>
-        <summary type="html"><![CDATA[One year has passed since freeCodeCamp held our first World Translation Month in September 2021.  Well, it’s September again – and here we are for the second installment of this month-long event. freeCodeCamp is holding our World Translation Month for the second year in a row, taking place September]]></summary>
-        <author>
-            <name>Daniel Rosa</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/react-helmet-examples/",
+          "author": "Scott Gary",
+          "description": "Because of the nature of single page applications (SPAs), modifying metadata in React apps can be tricky without using a helper library. Lucky for us, that library already exists – and it's called React Helmet. Leveraging Helmet for metadata inclusion can significantly simplify the process of making a React app SEO",
+          "link": "https://www.freecodecamp.org/news/react-helmet-examples/",
+          "publishedOn": "2022-10-05T16:36:10.000Z",
+          "wordCount": 1799,
+          "title": "How to Use React Helmet – With Example Use Case",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/react-head-examples.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/vlookup-in-excel-formula-and-example-function/",
+          "author": "Kolade Chris",
+          "description": "In Excel, VLOOKUP() means vertical lookup. It is a powerful built-in function you can use to quickly search for a value in a spreadsheet. VLOOKUP() searches for a value in a vertical manner across the sheet – unlike the HLOOKUP() function which does it horizontally. Before using VLOOKUP(), make sure",
+          "link": "https://www.freecodecamp.org/news/vlookup-in-excel-formula-and-example-function/",
+          "publishedOn": "2022-10-05T16:26:42.000Z",
+          "wordCount": 1424,
+          "title": "VLOOKUP in Excel – Formula and Example Function",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/vlookup.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/",
+          "author": "Oluwatobi Sofela",
+          "description": "Functions are one of the most widely-used features in programming. So, it helps to have a solid understanding of how they work. This tutorial discusses everything you need to know to use JavaScript functions like a pro. Table of Contents  1.  What Is a Function?  2.",
+          "link": "https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/",
+          "publishedOn": "2022-10-05T16:06:29.000Z",
+          "wordCount": 3208,
+          "title": "JavaScript Functions Tutorial – IIFE, Function Parameters, and Code Blocks Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/programming-image-by-mohamed-hassan-from-pixabay-javascript-function-iffe-parameters-blocks-explained-codesweetly.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/",
+          "author": "Joel Olawanle",
+          "description": "An algorithm is a set of well-defined instructions for solving a specific problem. You can solve these problems in various ways. This means that the method you use to arrive at the same solution may differ from mine, but we should both get the same result. Because there are various",
+          "link": "https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/",
+          "publishedOn": "2022-10-05T15:00:53.000Z",
+          "wordCount": 2737,
+          "title": "Big O Cheat Sheet – Time Complexity Chart",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/cover-template--12-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-validate-machine-learning-models-with-tensorflow-model-analysis/",
+          "author": "Salim Oyinlola",
+          "description": "My first deployed Machine Learning model was a failure. It was a simple Diabetes Diagnosis Model for potential diabetes mellitus patients – and quite frankly, I was beyond excited on deployment.  But the excitement soon disappeared when I received feedback from users. Simply put, the users felt the model",
+          "link": "https://www.freecodecamp.org/news/how-to-validate-machine-learning-models-with-tensorflow-model-analysis/",
+          "publishedOn": "2022-10-05T14:37:09.000Z",
+          "wordCount": 2604,
+          "title": "How to Validate your Machine Learning Models Using TensorFlow Model Analysis",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-pixabay-159275.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/laravel-web-security-csrf/",
           "author": "Sule-Balogun Olanrewaju Ganiu",
           "description": "In this tutorial, you'll learn about Laravel web security and how to secure your web applications and protect them from Cross-Site Request Forgery, or CSRF attacks. CSRF is a malicious activity that involves an attacker performing actions on behalf of an authenticated user. Fortunately, Laravel provides out-of-the-box measures to prevent",
@@ -1170,16 +1220,6 @@
           "wordCount": 6675,
           "title": "Learn the Eleventy Static Site Generator by Building and Deploying a Portfolio Website",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/learn-eleventy.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/world-translation-month-is-back-how-can-you-contribute-to-translate-freecodecamp-into-your-language/",
-          "author": "Daniel Rosa",
-          "description": "One year has passed since freeCodeCamp held our first World Translation Month in September 2021.  Well, it’s September again – and here we are for the second installment of this month-long event. freeCodeCamp is holding our World Translation Month for the second year in a row, taking place September",
-          "link": "https://www.freecodecamp.org/news/world-translation-month-is-back-how-can-you-contribute-to-translate-freecodecamp-into-your-language/",
-          "publishedOn": "2022-09-06T14:00:47.000Z",
-          "wordCount": 1644,
-          "title": "World Translation Month is Back – How to Help Translate freeCodeCamp into Your Native Language",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/World-Translation-Month-Article-Image-1.png"
         }
       ]
     },
@@ -1188,6 +1228,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=119285",
+          "author": "Yasemin Saplakoglu",
+          "description": "The chemists Carolyn Bertozzi, Morten Meldal and K. Barry Sharpless were recognized for their development of click chemistry and bioorthogonal chemistry.            \nThe post Molecule-Building Innovators Win Nobel Prize in Chemistry first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/molecule-building-innovators-win-2022-chemistry-nobel-prize-20221005/",
+          "publishedOn": "2022-10-05T10:00:42.000Z",
+          "wordCount": 5530,
+          "title": "Molecule-Building Innovators Win Nobel Prize in Chemistry",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/Chemistry_Nobel_1200_Social2.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=119287",
           "author": "Charlie Wood",
