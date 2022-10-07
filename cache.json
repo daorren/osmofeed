@@ -12,6 +12,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-python-courses-ranked-from-best-to-worst/",
+          "author": "Beau Carnes",
+          "description": "Does freeCodeCamp really need yet another Python course?   Click for answer.  Between the curriculum and the YouTube channel, freeCodeCamp has quite a few Python programming courses. But which Python course should you take? In this article, I'll rank every singe freeCodeCamp beginner's Python course from best to",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-python-courses-ranked-from-best-to-worst/",
+          "publishedOn": "2022-10-06T19:54:42.000Z",
+          "wordCount": 1425,
+          "title": "Python For Beginners Courses Ranked from Best to Worst – freeCodeCamp Edition",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pythoninstructors-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/stack-data-structure-solve-coding-challenges/",
+          "author": "Beau Carnes",
+          "description": "The stack data structure is used frequently in programming, sometimes behind-the-scenes. And questions involving the stack data structure are very common in coding interviews. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use the stack data structure to solve the type of",
+          "link": "https://www.freecodecamp.org/news/stack-data-structure-solve-coding-challenges/",
+          "publishedOn": "2022-10-06T18:48:30.000Z",
+          "wordCount": 948,
+          "title": "How to Use the Stack Data Structure to Solve Coding Challenges",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/stack.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/php-implode-convert-array-to-string-with-join/",
+          "author": "Kolade Chris",
+          "description": "In PHP, the implode() function is a built-in function that takes an array and converts it to a string. implode() doesn’t modify the original array. It doesn’t matter whether the array is an indexed or associative array. Once you pass in the array to implode(), it joins all the values",
+          "link": "https://www.freecodecamp.org/news/php-implode-convert-array-to-string-with-join/",
+          "publishedOn": "2022-10-06T16:14:10.000Z",
+          "wordCount": 1366,
+          "title": "PHP Implode – Convert Array to String with Join",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/implode.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-pytorch-for-deep-learning-in-day/",
+          "author": "Daniel Bourke",
+          "description": "My comprehensive PyTorch course is now live on the freeCodeCamp.org YouTube channel.   * You can view the full 26 hour course here [https://youtu.be/V_xro1bcAuA].  * Read the course materials online for free at learnpytorch.io    [https://learnpytorch.io/].  * See all of the course materials on GitHub",
+          "link": "https://www.freecodecamp.org/news/learn-pytorch-for-deep-learning-in-day/",
+          "publishedOn": "2022-10-06T14:48:39.000Z",
+          "wordCount": 1730,
+          "title": "Learn PyTorch for Deep Learning – Free 26-Hour Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pytorch24.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/react-helmet-examples/",
           "author": "Scott Gary",
           "description": "Because of the nature of single page applications (SPAs), modifying metadata in React apps can be tricky without using a helper library. Lucky for us, that library already exists – and it's called React Helmet. Leveraging Helmet for metadata inclusion can significantly simplify the process of making a React app SEO",
@@ -1160,66 +1200,6 @@
           "wordCount": 1011,
           "title": "Angular for Beginners Course + TypeScript [Full Front-End Tutorial]",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/angular.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-responsive-web-design-helps-businesses/",
-          "author": "Valentine Gatwiri",
-          "description": "As the world of technology continues to advance, so does the way people interact with businesses and organizations.  With the growing popularity of mobile devices, responsive website design has become a must-have. It helps you provide the best user experience to customers regardless of which device they are using",
-          "link": "https://www.freecodecamp.org/news/how-responsive-web-design-helps-businesses/",
-          "publishedOn": "2022-09-06T20:18:06.000Z",
-          "wordCount": 1860,
-          "title": "How Responsive Web Design Can Help Your Business – A Beginner's Guide to RWD",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Screenshot-from-2022-09-02-20-26-21.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-reverse-list-reversing-an-array-in-python/",
-          "author": "Dionysia Lemonaki",
-          "description": "In this article, you will learn how to reverse a list in Python. Firstly, I'll introduce you to lists in Python and you'll learn how to write them. After that, you will see three different ways you can reverse the list items inside any list you create. Here is what",
-          "link": "https://www.freecodecamp.org/news/python-reverse-list-reversing-an-array-in-python/",
-          "publishedOn": "2022-09-06T19:36:06.000Z",
-          "wordCount": 2322,
-          "title": "Python Reverse List – Reversing an Array in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-breakingpic-3243.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-a-framework-software-frameworks-definition/",
-          "author": "Joel Olawanle",
-          "description": "When you're learning to code, you'll frequently hear the term \"framework\". And it can be difficult for new developers to grasp. You'll commonly come across frameworks in roadmap resources, when speaking with other developers, when learning about a new coding tool, and many other places. In this article, you will",
-          "link": "https://www.freecodecamp.org/news/what-is-a-framework-software-frameworks-definition/",
-          "publishedOn": "2022-09-06T17:52:18.000Z",
-          "wordCount": 2396,
-          "title": "What is a Framework? Software Frameworks Definition",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/cover-template--5-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-machine-learning-for-beginners/",
-          "author": "Oluwafunmilola Obisesan",
-          "description": "The term “Machine Learning” was coined by a computer gamer named Arthur Samuel in 1959. He defined it like this: > \"[Machine learning is a] Field of study that gives computers the ability to learn and make predictions without being explicitly programmed.\" ML is a sub-field of Artificial Intelligence. It's",
-          "link": "https://www.freecodecamp.org/news/what-is-machine-learning-for-beginners/",
-          "publishedOn": "2022-09-06T17:25:08.000Z",
-          "wordCount": 2028,
-          "title": "What is Machine Learning? ML Tutorial for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/A6125B75-DB79-4448-94C9-E6ABD3E0E3E9.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-object-oriented-programming/",
-          "author": "Hillary Nyakundi",
-          "description": "In today's technology driven society, computer programming knowledge is in high demand. And as a developer, you'll need to know various programming languages. Over the past few decades, many programming languages have risen in popularity. You can see how popular languages are ranked in this real time ranking chart",
-          "link": "https://www.freecodecamp.org/news/what-is-object-oriented-programming/",
-          "publishedOn": "2022-09-06T17:15:18.000Z",
-          "wordCount": 2587,
-          "title": "OOP Meaning – What is Object-Oriented Programming?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Creative-Business-Template-Presentation--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-eleventy/",
-          "author": "Gerard Hynes",
-          "description": "What is Eleventy? Eleventy (also called 11ty) is a simple yet powerful static site generator. It uses JavaScript to transform data and templates into HTML pages. It’s beginner-friendly, has fast build times, and generates fast sites by default. It also has a very active and friendly community. Eleventy excels at",
-          "link": "https://www.freecodecamp.org/news/learn-eleventy/",
-          "publishedOn": "2022-09-06T16:26:13.000Z",
-          "wordCount": 6675,
-          "title": "Learn the Eleventy Static Site Generator by Building and Deploying a Portfolio Website",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/learn-eleventy.png"
         }
       ]
     },
@@ -1228,6 +1208,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=119509",
+          "author": "Erica Klarreich",
+          "description": "The decades-old Sullivan’s conjecture, about the best way to minimize the surface area of a bubble cluster, was thought to be out of reach for three bubbles and up — until a new breakthrough result.            \nThe post ‘Monumental’ Math Proof Solves Triple Bubble Problem and More first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/monumental-math-proof-solves-triple-bubble-problem-and-more-20221006/",
+          "publishedOn": "2022-10-06T16:54:27.000Z",
+          "wordCount": 7753,
+          "title": "‘Monumental’ Math Proof Solves Triple Bubble Problem and More",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/Multi-Bubble-Conjecture_520x292.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=119285",
           "author": "Yasemin Saplakoglu",
@@ -1397,26 +1387,6 @@
           "wordCount": 7939,
           "title": "A Black Hole’s Orbiting Ring of Light Could Encrypt Its Inner Secrets",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/Photon-Ring_1200_social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=118573",
-          "author": "Yasemin Saplakoglu",
-          "description": "When the brain encodes memories as positive or negative, one molecule determines which way they will go.            \nThe post A Good Memory or a Bad One? One Brain Molecule Decides. first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/a-good-memory-or-a-bad-one-one-brain-molecule-decides-20220907/",
-          "publishedOn": "2022-09-07T14:02:22.000Z",
-          "wordCount": 7762,
-          "title": "A Good Memory or a Bad One? One Brain Molecule Decides.",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/Memory_Valence_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=118556",
-          "author": "Kevin Hartnett",
-          "description": "What’s a message, really? Claude Shannon recognized that the elemental ingredient is surprise.            \nThe post How Shannon Entropy Imposes Fundamental Limits on Communication first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-claude-shannons-concept-of-entropy-quantifies-information-20220906/",
-          "publishedOn": "2022-09-06T14:09:46.000Z",
-          "wordCount": 4929,
-          "title": "How Shannon Entropy Imposes Fundamental Limits on Communication",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/Shannon-Entropy_1200_Social.png"
         }
       ]
     },
