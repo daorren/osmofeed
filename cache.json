@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/typescript-generics-use-case-example/",
+          "author": "Aman Kalra",
+          "description": "In this tutorial, you'll learn the basics of generics in TypeScript. We'll discuss how to use them and when they're useful in your code. Use Case for Generics Let's start with a simple example, where you want to print the value of an argument passed: function printData(data: number) {",
+          "link": "https://www.freecodecamp.org/news/typescript-generics-use-case-example/",
+          "publishedOn": "2022-10-07T20:49:10.000Z",
+          "wordCount": 1189,
+          "title": "TypeScript Generics – Use Case and Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-hitarth-jadhav-220357.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-check-if-a-string-contains-a-substring-javascript/",
+          "author": "Dionysia Lemonaki",
+          "description": "When you're working with a JavaScript program, you might need to check whether a string contains a substring. A substring is a string inside another string. Specifically, you might need to check whether a word contains a specific character or a specific set of characters. Thankfully, there are a few",
+          "link": "https://www.freecodecamp.org/news/how-to-check-if-a-string-contains-a-substring-javascript/",
+          "publishedOn": "2022-10-07T18:00:38.000Z",
+          "wordCount": 2230,
+          "title": "How to Check if a String Contains a Substring in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-tranmautritam-251225.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/recursion-in-javascript-simplified/",
+          "author": "Dillion Megida",
+          "description": "Recursion works similarly to how loops do in JavaScript. Loops allow you to execute a set of code multiple times as long as a condition is true. In this article, I will explain what Recursion is and how it works in JavaScript. In loops, when the condition becomes false, the",
+          "link": "https://www.freecodecamp.org/news/recursion-in-javascript-simplified/",
+          "publishedOn": "2022-10-07T17:51:43.000Z",
+          "wordCount": 2285,
+          "title": "How Does Recursion Work? Simplified in JavaScript with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/recursion-js.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/freecodecamp-python-courses-ranked-from-best-to-worst/",
           "author": "Beau Carnes",
           "description": "Does freeCodeCamp really need yet another Python course?   Click for answer.  Between the curriculum and the YouTube channel, freeCodeCamp has quite a few Python programming courses. But which Python course should you take? In this article, I'll rank every singe freeCodeCamp beginner's Python course from best to",
@@ -1130,76 +1160,6 @@
           "wordCount": 3283,
           "title": "Microsoft Excel Tutorial – How to Create Formulas and Functions",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Green-Orange-and-Brown-Collage-Math-Quiz-Presentation.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/prepare-for-react-technical-interviews/",
-          "author": "Manu Arora",
-          "description": "A front-end technical interview is an opportunity for a potential employer to assess your skills and knowledge in web development. The interviewer will ask you questions about your experience and skills in HTML, CSS, and JavaScript. They'll also likely ask you some framework specific questions about React, Angular, Vue, or",
-          "link": "https://www.freecodecamp.org/news/prepare-for-react-technical-interviews/",
-          "publishedOn": "2022-09-08T00:29:16.000Z",
-          "wordCount": 4087,
-          "title": "How to Prepare for React Interviews – Front-End Technical Interview Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Build-a-React-Code-Editor-That-Compiles-and-Executes-in-10--Languages--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-get-user-location-with-javascript-geolocation-api/",
-          "author": "Israel Mitolu",
-          "description": "Some applications require you to know your user's location, like food delivery or eCommerce apps. So you'll need an efficient way to get this info. The Geolocation API, which we will look at today, is a simple solution. You can use it to determine your users' location, local currency, language,",
-          "link": "https://www.freecodecamp.org/news/how-to-get-user-location-with-javascript-geolocation-api/",
-          "publishedOn": "2022-09-07T18:29:36.000Z",
-          "wordCount": 1465,
-          "title": "JavaScript Geolocation API Tutorial – How to Get a User's Location in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Blog-article-cover-images--4---1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-deb-get-debian-package-manager/",
-          "author": "Rajdeep Singh",
-          "description": "deb-get is a new command line utility built by Martin Wimpress [https://twitter.com/m_wimpress], an active contributor to the Linux community.  You can use this utility to install third-party packages on your Debian machine. It only works with Debian or Debian-based distros like Ubuntu, Linux mint, Kali Linux, and so on.",
-          "link": "https://www.freecodecamp.org/news/what-is-deb-get-debian-package-manager/",
-          "publishedOn": "2022-09-07T18:27:17.000Z",
-          "wordCount": 1423,
-          "title": "What is deb-get? How to Install the Debian Package with the deb-get Command",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Debian-deb-get.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/renaming-a-git-branch-how-to-rename-the-current-branch-in-git/",
-          "author": "Kolade Chris",
-          "description": "If you are using Git for version control, it’s likely you’ve created branches for various reasons. Since you have those branches in place, you might want to rename any of them if you find a typo, for example, or change the code's purpose. In this article, I will show you",
-          "link": "https://www.freecodecamp.org/news/renaming-a-git-branch-how-to-rename-the-current-branch-in-git/",
-          "publishedOn": "2022-09-07T18:22:39.000Z",
-          "wordCount": 1091,
-          "title": "Renaming a Git Branch – How to Rename the Current Branch in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/git-branches.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/remove-directory-in-linux-from-the-command-line/",
-          "author": "Zaira Hira",
-          "description": "Linux is a powerful OS with various command line utilities to help you achieve your day-to-day tasks. Removing folders is a very common operation that allows you to either remove a single folder or remove them recursively (folders within folders).  In this tutorial, we will see how we can",
-          "link": "https://www.freecodecamp.org/news/remove-directory-in-linux-from-the-command-line/",
-          "publishedOn": "2022-09-07T18:18:33.000Z",
-          "wordCount": 1282,
-          "title": "Remove a Directory in Linux – How to Remove folders from the Command Line",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Copy-of-read-write-files-python--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-java-handbook/",
-          "author": "Farhan Hasin Chowdhury",
-          "description": "Java has been around since the 90s. And despite its massive success in many areas, this cross-platform, object-oriented programming language is often maligned. Regardless of how people feel about Java, I can tell you from experience is that it is an excellent programming language. After its first appearance back in",
-          "link": "https://www.freecodecamp.org/news/the-java-handbook/",
-          "publishedOn": "2022-09-07T18:05:02.000Z",
-          "wordCount": 20513,
-          "title": "The Java Handbook – Learn Java Programming for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/The-Java-Handbook.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/angular-for-beginners-course/",
-          "author": "Beau Carnes",
-          "description": "Angular is a popular TypeScript-based open-source web application framework created by Google. We just published a comprehensive 18-hour Angular course for beginners on the freeCodeCamp.org YouTube channel. In this course you will first you will learn the basics of TypeScript. Then you will learn about important Angular concepts such as",
-          "link": "https://www.freecodecamp.org/news/angular-for-beginners-course/",
-          "publishedOn": "2022-09-07T16:45:24.000Z",
-          "wordCount": 1011,
-          "title": "Angular for Beginners Course + TypeScript [Full Front-End Tutorial]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/angular.png"
         }
       ]
     },
@@ -1539,6 +1499,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/431",
+          "author": null,
+          "description": "#​431 — October 7, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\n    \nTogether with \n        \n          \n          \n          \n        \n      \n\n    \n    \n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nHow Do You Solve a Problem Like for Loop Variables? — Russ Cox began a discussion about what changes could be made to Go to resolve a tripping point around per-iteration vs per-loop binding of variables in loops – an issue first raised five years ago and common enough to be in Go’s FAQ. \nIt's more complicated than you might think and this discussion provides a lot of insight, including from a C# core developer who shares how C# handled the same issue.\nRuss Cox \n\n\n  \n  \nHow a Bank Migrated Its Monorepo Seamlessly from Dep to Modules — While modules aren’t exactly new anymore, there are still quite a …",
+          "link": "https://golangweekly.com/issues/431",
+          "publishedOn": "2022-10-07T00:00:00.000Z",
+          "wordCount": 896,
+          "title": "The hills are alive with the sound of gophers",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/430",
           "author": null,
