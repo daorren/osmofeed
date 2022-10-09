@@ -1100,66 +1100,6 @@
           "wordCount": 1473,
           "title": "Node Version Manager – nvm Install Guide",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/install-nvm.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-make-line-charts-in-javascript/",
-          "author": "Shachee Swadia",
-          "description": "Data visualization is a vast field with so many different types of charts [https://datavizcatalogue.com/] to learn and create.  But there are several basic, evergreen graphs that every data designer and web developer dealing with analytics should know how to build.  One of them is a Line Chart (or",
-          "link": "https://www.freecodecamp.org/news/how-to-make-line-charts-in-javascript/",
-          "publishedOn": "2022-09-08T19:58:03.000Z",
-          "wordCount": 3011,
-          "title": "Line Charts Tutorial – How to Create a Line Graph in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/line-chart.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-split-a-string-in-python/",
-          "author": "Dionysia Lemonaki",
-          "description": "In this article, you will learn how to split a string in Python. Firstly, I'll introduce you to the syntax of the .split() method. After that, you will see how to use the .split() method with and without arguments, using code examples along the way. Here is what we will",
-          "link": "https://www.freecodecamp.org/news/how-to-split-a-string-in-python/",
-          "publishedOn": "2022-09-08T17:22:47.000Z",
-          "wordCount": 1680,
-          "title": "Python .split() – Splitting a String in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-lukas-952354.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/machine-learning-pipeline/",
-          "author": "Yannawut Kimnaruk",
-          "description": "When you're working on a machine learning project, the most tedious steps are often data cleaning and preprocessing. Especially when you're working in a Jupyter Notebook, running code in many cells can be confusing. The Scikit-learn library has tools called Pipeline and ColumnTransformer that can really make your life easier.",
-          "link": "https://www.freecodecamp.org/news/machine-learning-pipeline/",
-          "publishedOn": "2022-09-08T16:31:20.000Z",
-          "wordCount": 3777,
-          "title": "How to Improve Machine Learning Code Quality with Scikit-learn Pipeline and ColumnTransformer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Python-Power-BI-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-indexeddb-works-for-beginners/",
-          "author": "Victor Yakubu",
-          "description": "The modern browser has given us a number of options when it comes to storing data on the client-side. Aside from storing data, browser databases allow us to retrieve that data.  Based on your application's needs, you can choose from the different browser storage options out there to enhance",
-          "link": "https://www.freecodecamp.org/news/how-indexeddb-works-for-beginners/",
-          "publishedOn": "2022-09-08T16:23:00.000Z",
-          "wordCount": 2820,
-          "title": "How to Use IndexedDB – Database Guide for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Colorful-Minimalist-Shapes-Internal-Pitch-Deck-Talking-Presentation-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-debug-dockerized-net-core-apps-in-vs-code/",
-          "author": "Haseeb Ahmed",
-          "description": "I recently switched to VS Code for development of a dockerized .NET core app. But I then realized that there weren't many up-to-date articles about debugging dockerized .NET core applications in VS Code. Source: GIPHYSo, here I am, writing this article. I hope that it'll help others like myself in",
-          "link": "https://www.freecodecamp.org/news/how-to-debug-dockerized-net-core-apps-in-vs-code/",
-          "publishedOn": "2022-09-08T15:34:10.000Z",
-          "wordCount": 1862,
-          "title": "How to Debug Dockerized .NET Core Apps in VS Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/debug_dockerized_dotnet_core_apps-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-microsoft-excel-formulas-and-functions/",
-          "author": "Benny Ifeanyi Iheagwara",
-          "description": "Spreadsheets aren't merely for arranging data into rows and columns. Most of the time, you use them for data analysis as well.  Microsoft Excel is one of the most widely used spreadsheet applications, especially in finance and accounting. This is partly because of its easy UI and unmatched depth",
-          "link": "https://www.freecodecamp.org/news/how-to-create-microsoft-excel-formulas-and-functions/",
-          "publishedOn": "2022-09-08T15:17:10.000Z",
-          "wordCount": 3283,
-          "title": "Microsoft Excel Tutorial – How to Create Formulas and Functions",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Green-Orange-and-Brown-Collage-Math-Quiz-Presentation.png"
         }
       ]
     },
@@ -1337,16 +1277,6 @@
           "wordCount": 4990,
           "title": "How Transformers Seem to Mimic Parts of the Brain",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/Transformers-and-Brains_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=118623",
-          "author": "Thomas Lewton",
-          "description": "Physicists have discovered that the ring of photons orbiting a black hole exhibits a special kind of symmetry, hinting at a deeper meaning.            \nThe post A Black Hole’s Orbiting Ring of Light Could Encrypt Its Inner Secrets first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/black-holes-ring-of-light-could-encrypt-its-inner-secrets-20220908/",
-          "publishedOn": "2022-09-08T14:14:38.000Z",
-          "wordCount": 7939,
-          "title": "A Black Hole’s Orbiting Ring of Light Could Encrypt Its Inner Secrets",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/Photon-Ring_1200_social.jpg"
         }
       ]
     },
@@ -1392,6 +1322,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-82/",
+          "author": null,
+          "description": "Guten Tag, my friend!\n\nHave you ever wondered if the Largest Contentful Paint metric measures unimportant things? Or do you know that some ARIA attributes aren't considered by translation tools? Or that there's a CSS property to avoid reflows when your content grows so that you need a scrollbar?\nAll the answers and much more are included in this week's Web Weekly. 🙈 Enjoy!\nWelcome to the 19 new subscribers! I'm super excited to have you around! 👋\n💡 Thought of the week\n\nMDN is probably the most important webdev resource out there. It's THE documentation of the web. And while most of us only read it, you can contribute, too.\nFor example, if you find some outdated browser support information, head over to the \"mdn/browser-compat-data\" repo and propose an update! It's all structured JSON fi…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-82/",
+          "publishedOn": "2022-10-07T22:00:00.000Z",
+          "wordCount": 2238,
+          "title": "Web Weekly #82 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-81/",
           "author": null,
@@ -1537,16 +1477,6 @@
           "publishedOn": "2022-09-16T00:00:00.000Z",
           "wordCount": 884,
           "title": "Go's backwards compatibility discussion",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/427",
-          "author": null,
-          "description": "#​427 — September 9, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nGo's New Vulnerability Management Tool: govulncheck — The core team has unveiled a very helpful command-line tool that can scan your code for vulnerabilities, only surfacing the ones that actually affect your code base. We can see this being a standard part of any build pipeline, so try it out and give your feedback.\nJulie Qiu (Go Team) \n\n\n  \n  \nA Complete Guide to Logging with Zerolog — This is a very extensive tutorial, and if you want a high-performance, zero-allocation logging library, Zerolog comes well recommended.\nBetter Stack Team \n\n\n  \n  \nGophers - Opportunity is Knocking — We’re a premier software engineering firm looking for mid to senior level engineers to help us develop a…",
-          "link": "https://golangweekly.com/issues/427",
-          "publishedOn": "2022-09-09T00:00:00.000Z",
-          "wordCount": 765,
-          "title": "Go's new vulnerability analysis tool",
           "imageUrl": null
         }
       ]

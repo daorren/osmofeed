@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-08T02:02:35.544Z</updated>
+    <updated>2022-10-09T02:25:34.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #82 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-82/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-82/"/>
+        <updated>2022-10-07T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag, my friend!
+
+Have you ever wondered if the Largest Contentful Paint metric measures unimportant things? Or do you know that some ARIA attributes aren't considered by translation tools? Or that there's a CSS property to avoid reflows when your content grows so that you need a scrollbar?
+All the answers and much more are included in this week's Web Weekly. 🙈 Enjoy!
+Welcome to the 19 new subscribers! I'm super excited to have you around! 👋
+💡 Thought of the week
+
+MDN is probably the most important webdev resource out there. It's THE documentation of the web. And while most of us only read it, you can contribute, too.
+For example, if you find some outdated browser support information, head over to the "mdn/browser-compat-data" repo and propose an update! It's all structured JSON fi…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript Generics – Use Case and Examples]]></title>
         <id>https://www.freecodecamp.org/news/typescript-generics-use-case-example/</id>
@@ -1695,119 +1713,6 @@ After inventing specialized tools …]]></summary>
         <summary type="html"><![CDATA[In this article, I'll explain how you can install NVM, or Node Version Manager, on Windows, Linux, and Mac. What is NVM? Node Version Manager (NVM), as the name implies, is a tool for managing Node versions on your device. Different projects on your device may be using different versions]]></summary>
         <author>
             <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go's new vulnerability analysis tool]]></title>
-        <id>https://golangweekly.com/issues/427</id>
-        <link href="https://golangweekly.com/issues/427"/>
-        <updated>2022-09-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​427 — September 9, 2022
-
-
-Unsubscribe  |  Read on the Web
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-Go's New Vulnerability Management Tool: govulncheck — The core team has unveiled a very helpful command-line tool that can scan your code for vulnerabilities, only surfacing the ones that actually affect your code base. We can see this being a standard part of any build pipeline, so try it out and give your feedback.
-Julie Qiu (Go Team) 
-
-
-  
-  
-A Complete Guide to Logging with Zerolog — This is a very extensive tutorial, and if you want a high-performance, zero-allocation logging library, Zerolog comes well recommended.
-Better Stack Team 
-
-
-  
-  
-Gophers - Opportunity is Knocking — We’re a premier software engineering firm looking for mid to senior level engineers to help us develop a…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Line Charts Tutorial – How to Create a Line Graph in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-make-line-charts-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-line-charts-in-javascript/"/>
-        <updated>2022-09-08T19:58:03.000Z</updated>
-        <summary type="html"><![CDATA[Data visualization is a vast field with so many different types of charts [https://datavizcatalogue.com/] to learn and create.  But there are several basic, evergreen graphs that every data designer and web developer dealing with analytics should know how to build.  One of them is a Line Chart (or]]></summary>
-        <author>
-            <name>Shachee Swadia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python .split() – Splitting a String in Python]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-split-a-string-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-split-a-string-in-python/"/>
-        <updated>2022-09-08T17:22:47.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to split a string in Python. Firstly, I'll introduce you to the syntax of the .split() method. After that, you will see how to use the .split() method with and without arguments, using code examples along the way. Here is what we will]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve Machine Learning Code Quality with Scikit-learn Pipeline and ColumnTransformer]]></title>
-        <id>https://www.freecodecamp.org/news/machine-learning-pipeline/</id>
-        <link href="https://www.freecodecamp.org/news/machine-learning-pipeline/"/>
-        <updated>2022-09-08T16:31:20.000Z</updated>
-        <summary type="html"><![CDATA[When you're working on a machine learning project, the most tedious steps are often data cleaning and preprocessing. Especially when you're working in a Jupyter Notebook, running code in many cells can be confusing. The Scikit-learn library has tools called Pipeline and ColumnTransformer that can really make your life easier.]]></summary>
-        <author>
-            <name>Yannawut Kimnaruk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use IndexedDB – Database Guide for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/how-indexeddb-works-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/how-indexeddb-works-for-beginners/"/>
-        <updated>2022-09-08T16:23:00.000Z</updated>
-        <summary type="html"><![CDATA[The modern browser has given us a number of options when it comes to storing data on the client-side. Aside from storing data, browser databases allow us to retrieve that data.  Based on your application's needs, you can choose from the different browser storage options out there to enhance]]></summary>
-        <author>
-            <name>Victor Yakubu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Debug Dockerized .NET Core Apps in VS Code]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-debug-dockerized-net-core-apps-in-vs-code/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-debug-dockerized-net-core-apps-in-vs-code/"/>
-        <updated>2022-09-08T15:34:10.000Z</updated>
-        <summary type="html"><![CDATA[I recently switched to VS Code for development of a dockerized .NET core app. But I then realized that there weren't many up-to-date articles about debugging dockerized .NET core applications in VS Code. Source: GIPHYSo, here I am, writing this article. I hope that it'll help others like myself in]]></summary>
-        <author>
-            <name>Haseeb Ahmed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Excel Tutorial – How to Create Formulas and Functions]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-microsoft-excel-formulas-and-functions/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-microsoft-excel-formulas-and-functions/"/>
-        <updated>2022-09-08T15:17:10.000Z</updated>
-        <summary type="html"><![CDATA[Spreadsheets aren't merely for arranging data into rows and columns. Most of the time, you use them for data analysis as well.  Microsoft Excel is one of the most widely used spreadsheet applications, especially in finance and accounting. This is partly because of its easy UI and unmatched depth]]></summary>
-        <author>
-            <name>Benny Ifeanyi Iheagwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Black Hole’s Orbiting Ring of Light Could Encrypt Its Inner Secrets]]></title>
-        <id>https://www.quantamagazine.org/?p=118623</id>
-        <link href="https://www.quantamagazine.org/black-holes-ring-of-light-could-encrypt-its-inner-secrets-20220908/"/>
-        <updated>2022-09-08T14:14:38.000Z</updated>
-        <summary type="html"><![CDATA[Physicists have discovered that the ring of photons orbiting a black hole exhibits a special kind of symmetry, hinting at a deeper meaning.            
-The post A Black Hole’s Orbiting Ring of Light Could Encrypt Its Inner Secrets first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Thomas Lewton</name>
         </author>
     </entry>
 </feed>
