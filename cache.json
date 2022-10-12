@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/fix-typeerror-cannot-read-property-push-of-undefined-in-javascript/",
+          "author": "Joel Olawanle",
+          "description": "When working with JavaScript arrays, you have to be careful that you are not calling the push(), pop(), shift(), unShift(), or splice() methods on a variable that is meant to be an array but has a value of undefined. If you mistakenly do this, you'll get this error: If you",
+          "link": "https://www.freecodecamp.org/news/fix-typeerror-cannot-read-property-push-of-undefined-in-javascript/",
+          "publishedOn": "2022-10-11T23:18:26.000Z",
+          "wordCount": 1487,
+          "title": "How to Fix TypeError: Cannot read Property 'push' of Undefined in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/cover-template--13-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/best-resources-to-learn-golang-for-free/",
+          "author": "Avdhoot Fulsundar",
+          "description": "Golang has been around for a while now, and it's become quite popular among developers. It is a simple yet compelling programming language that's well-loved because of its powerful features like concurrency and the fact that it is developed by Google. Golang is a server-side language that's used in many",
+          "link": "https://www.freecodecamp.org/news/best-resources-to-learn-golang-for-free/",
+          "publishedOn": "2022-10-11T23:11:17.000Z",
+          "wordCount": 1317,
+          "title": "Best Free Resources to Learn Golang – Go Coding Courses",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Gradient-Modern-Digital-Marketing-Facebook-Cover--36-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-programming-tips/",
+          "author": "David Fagbuyiro",
+          "description": "Python is one of the most popular programming languages out there today. Its simplicity and readability make it a favorite among many programmers. So in this tutorial, I'm sharing a few pointers and strategies to help you improve your Python programming skills. How to Reverse a String in Python In",
+          "link": "https://www.freecodecamp.org/news/python-programming-tips/",
+          "publishedOn": "2022-10-11T19:47:25.000Z",
+          "wordCount": 1539,
+          "title": "Python Programming Tips to Help You Level Up Your Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-ankush-rathi-925067.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/typescript-generics-use-case-example/",
           "author": "Aman Kalra",
           "description": "In this tutorial, you'll learn the basics of generics in TypeScript. We'll discuss how to use them and when they're useful in your code. Use Case for Generics Let's start with a simple example, where you want to print the value of an argument passed: function printData(data: number) {",
@@ -1050,16 +1080,6 @@
           "wordCount": 2469,
           "title": "What is Container Orchestration? How to Manage your Containers with MicroK8s",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-pixabay-163726.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/module-not-found-error-in-python-solved/",
-          "author": "Dillion Megida",
-          "description": "When you try to import a module in a Python file, Python tries to resolve this module in several ways. Sometimes, Python throws the ModuleNotFoundError  afterward. What does this error mean in Python? As the name implies, this error occurs when you're trying to access or use a module",
-          "link": "https://www.freecodecamp.org/news/module-not-found-error-in-python-solved/",
-          "publishedOn": "2022-09-12T14:17:11.000Z",
-          "wordCount": 1560,
-          "title": "ModuleNotFoundError: no module named Python Error [Fixed]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/module-not-found-error.png"
         }
       ]
     },
@@ -1068,6 +1088,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=119593",
+          "author": "Sheon Han",
+          "description": "Zero-knowledge proofs allow researchers to prove their knowledge without divulging the knowledge itself.\r\n            \nThe post How Do You Prove a Secret? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-to-prove-you-know-a-secret-without-giving-it-away-20221011/",
+          "publishedOn": "2022-10-11T15:10:53.000Z",
+          "wordCount": 5236,
+          "title": "How Do You Prove a Secret?",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/Zero-Knowledge-Proof_1200_Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=119564",
           "author": "Allison Parshall",
@@ -1237,16 +1267,6 @@
           "wordCount": 7090,
           "title": "The Math Evangelist Who Preaches Problem-Solving",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/Richard_Rusczyk_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=118669",
-          "author": "Stephen Ornes",
-          "description": "Neural networks originally designed for language processing turn out to be great models of how our brains understand places.             \nThe post How Transformers Seem to Mimic Parts of the Brain first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-ai-transformers-mimic-parts-of-the-brain-20220912/",
-          "publishedOn": "2022-09-12T14:25:43.000Z",
-          "wordCount": 4990,
-          "title": "How Transformers Seem to Mimic Parts of the Brain",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/Transformers-and-Brains_1200_Social.jpg"
         }
       ]
     },
@@ -1274,16 +1294,6 @@
           "wordCount": 1703,
           "title": "Weekend Reading — 👋 Gifs are cringe",
           "imageUrl": "https://labnotes.org/content/images/2022/09/FcaZo8hacAA6VCJ.jpeg"
-        },
-        {
-          "id": "6313de2df7b0d50bcf49b490",
-          "author": "Assaf Arkin",
-          "description": "This week we email like a boss, find a true rockstar developer, converse with whales, and unredact Wikipedia.",
-          "link": "https://labnotes.org/weekend-reading-a-quiet-promotion/",
-          "publishedOn": "2022-09-11T21:33:21.000Z",
-          "wordCount": 1818,
-          "title": "Weekend Reading — 👋 A quiet promotion",
-          "imageUrl": "https://labnotes.org/content/images/2022/09/IMG_0599.JPG"
         }
       ]
     },
@@ -1391,16 +1401,6 @@
           "wordCount": 1550,
           "title": "All browsers adopted :focus-visible in their UA stylesheets (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:All%20browsers%20adopted%20%3Afocus-visible%20in%20their%20UA%20stylesheets/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-79/",
-          "author": null,
-          "description": "Guten Tag, my friend!\n\nThere's so much noise in the JavaScript ecosystem lately. Deno, Bun, Rome and probably others are coming for Node's throne. Node.js won't go anywhere soon, but there's one thing the new and fancy have in common — they are more complete toolchains.\nLet be testing, linting, or TypeScript support; the newer tools come with opinionated solutions to everyday problems.\nAnd because competition is always healthy, Node.js catches up! Yay!\nThere's a new experimental test runner to run unit tests (node --test).\nThe new loader argument allows you to hook into module resolution to require CSS or TypeScript files or load modules from the internet.\nAnd even though it's not shipped yet, a file watcher was merged into main and will be released soon.\nAfter inventing specialized tools …",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-79/",
-          "publishedOn": "2022-09-11T22:00:00.000Z",
-          "wordCount": 2142,
-          "title": "Web Weekly #79 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
     },

@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-11T02:22:48.471Z</updated>
+    <updated>2022-10-12T02:34:48.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Fix TypeError: Cannot read Property 'push' of Undefined in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/fix-typeerror-cannot-read-property-push-of-undefined-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/fix-typeerror-cannot-read-property-push-of-undefined-in-javascript/"/>
+        <updated>2022-10-11T23:18:26.000Z</updated>
+        <summary type="html"><![CDATA[When working with JavaScript arrays, you have to be careful that you are not calling the push(), pop(), shift(), unShift(), or splice() methods on a variable that is meant to be an array but has a value of undefined. If you mistakenly do this, you'll get this error: If you]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Free Resources to Learn Golang – Go Coding Courses]]></title>
+        <id>https://www.freecodecamp.org/news/best-resources-to-learn-golang-for-free/</id>
+        <link href="https://www.freecodecamp.org/news/best-resources-to-learn-golang-for-free/"/>
+        <updated>2022-10-11T23:11:17.000Z</updated>
+        <summary type="html"><![CDATA[Golang has been around for a while now, and it's become quite popular among developers. It is a simple yet compelling programming language that's well-loved because of its powerful features like concurrency and the fact that it is developed by Google. Golang is a server-side language that's used in many]]></summary>
+        <author>
+            <name>Avdhoot Fulsundar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Programming Tips to Help You Level Up Your Code]]></title>
+        <id>https://www.freecodecamp.org/news/python-programming-tips/</id>
+        <link href="https://www.freecodecamp.org/news/python-programming-tips/"/>
+        <updated>2022-10-11T19:47:25.000Z</updated>
+        <summary type="html"><![CDATA[Python is one of the most popular programming languages out there today. Its simplicity and readability make it a favorite among many programmers. So in this tutorial, I'm sharing a few pointers and strategies to help you improve your Python programming skills. How to Reverse a String in Python In]]></summary>
+        <author>
+            <name>David Fagbuyiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Do You Prove a Secret?]]></title>
+        <id>https://www.quantamagazine.org/?p=119593</id>
+        <link href="https://www.quantamagazine.org/how-to-prove-you-know-a-secret-without-giving-it-away-20221011/"/>
+        <updated>2022-10-11T15:10:53.000Z</updated>
+        <summary type="html"><![CDATA[Zero-knowledge proofs allow researchers to prove their knowledge without divulging the knowledge itself.
+            
+The post How Do You Prove a Secret? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Sheon Han</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Machine Learning Highlights a Hidden Order in Scents]]></title>
         <id>https://www.quantamagazine.org/?p=119564</id>
@@ -1635,55 +1677,6 @@ The post The Math Evangelist Who Preaches Problem-Solving first appeared on Quan
         <summary type="html"><![CDATA[Container orchestration has been called the next big thing in the world of technology. And it’s easy to see why. Container orchestration helps IT professionals and programmers maximize their applications’ performance. It helps them ensure that multiple containers can work together to handle more tasks at the same time than]]></summary>
         <author>
             <name>Valentine Gatwiri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Transformers Seem to Mimic Parts of the Brain]]></title>
-        <id>https://www.quantamagazine.org/?p=118669</id>
-        <link href="https://www.quantamagazine.org/how-ai-transformers-mimic-parts-of-the-brain-20220912/"/>
-        <updated>2022-09-12T14:25:43.000Z</updated>
-        <summary type="html"><![CDATA[Neural networks originally designed for language processing turn out to be great models of how our brains understand places.             
-The post How Transformers Seem to Mimic Parts of the Brain first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Stephen Ornes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ModuleNotFoundError: no module named Python Error [Fixed]]]></title>
-        <id>https://www.freecodecamp.org/news/module-not-found-error-in-python-solved/</id>
-        <link href="https://www.freecodecamp.org/news/module-not-found-error-in-python-solved/"/>
-        <updated>2022-09-12T14:17:11.000Z</updated>
-        <summary type="html"><![CDATA[When you try to import a module in a Python file, Python tries to resolve this module in several ways. Sometimes, Python throws the ModuleNotFoundError  afterward. What does this error mean in Python? As the name implies, this error occurs when you're trying to access or use a module]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #79 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-79/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-79/"/>
-        <updated>2022-09-11T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag, my friend!
-
-There's so much noise in the JavaScript ecosystem lately. Deno, Bun, Rome and probably others are coming for Node's throne. Node.js won't go anywhere soon, but there's one thing the new and fancy have in common — they are more complete toolchains.
-Let be testing, linting, or TypeScript support; the newer tools come with opinionated solutions to everyday problems.
-And because competition is always healthy, Node.js catches up! Yay!
-There's a new experimental test runner to run unit tests (node --test).
-The new loader argument allows you to hook into module resolution to require CSS or TypeScript files or load modules from the internet.
-And even though it's not shipped yet, a file watcher was merged into main and will be released soon.
-After inventing specialized tools …]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — 👋 A quiet promotion]]></title>
-        <id>6313de2df7b0d50bcf49b490</id>
-        <link href="https://labnotes.org/weekend-reading-a-quiet-promotion/"/>
-        <updated>2022-09-11T21:33:21.000Z</updated>
-        <summary type="html"><![CDATA[This week we email like a boss, find a true rockstar developer, converse with whales, and unredact Wikipedia.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
