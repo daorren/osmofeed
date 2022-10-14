@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-13T02:28:00.162Z</updated>
+    <updated>2022-10-14T02:39:41.338Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Avoid Prop Drilling with the React Context API]]></title>
+        <id>https://www.freecodecamp.org/news/avoid-prop-drilling-with-react-context-api/</id>
+        <link href="https://www.freecodecamp.org/news/avoid-prop-drilling-with-react-context-api/"/>
+        <updated>2022-10-13T16:52:03.000Z</updated>
+        <summary type="html"><![CDATA[The React Context API provides a way to pass data through multiple nested levels of components without having to manually pass that data to each level.  React context is one sure way of globally managing your data in your app, and it's a good way to avoid prop drilling.]]></summary>
+        <author>
+            <name>Edeh Israel Chidera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teenager Solves Stubborn Riddle About Prime Number Look-Alikes]]></title>
+        <id>https://www.quantamagazine.org/?p=119742</id>
+        <link href="https://www.quantamagazine.org/teenager-solves-stubborn-riddle-about-prime-number-look-alikes-20221013/"/>
+        <updated>2022-10-13T15:05:40.000Z</updated>
+        <summary type="html"><![CDATA[In his senior year of high school, Daniel Larsen proved a key theorem about Carmichael numbers — strange entities that mimic the primes.            
+The post Teenager Solves Stubborn Riddle About Prime Number Look-Alikes first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Jordana Cepelewicz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code a project three different ways (JavaScript + REST API + Database)]]></title>
+        <id>https://www.freecodecamp.org/news/code-a-project-three-different-ways-javascript-rest-api-database/</id>
+        <link href="https://www.freecodecamp.org/news/code-a-project-three-different-ways-javascript-rest-api-database/"/>
+        <updated>2022-10-13T14:06:09.000Z</updated>
+        <summary type="html"><![CDATA[When you code a similar project using different methods it helps you understand each method more. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code a flight widget in JavaScript using multiple methods. First you will learn to create the project using]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Machine Learning Model in Rust]]></title>
         <id>https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/</id>
@@ -1649,76 +1680,6 @@ The post Chaos Researchers Can Now Predict Perilous Points of No Return first ap
         <summary type="html"><![CDATA[On day 1, they barely knew what a float was. On day 14, they had programmed a game of minesweeper, a cipher decoder, or a zombie apocalypse simulation. And I helped teach them how to do it. Each summer, MIT hosts a program called WTP, or Women's Technology Program.]]></summary>
         <author>
             <name>Kylie Ying</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Record-Breaking Robot Highlights How Animals Excel at Jumping]]></title>
-        <id>https://www.quantamagazine.org/?p=118755</id>
-        <link href="https://www.quantamagazine.org/record-breaking-robot-highlights-how-animals-excel-at-jumping-20220914/"/>
-        <updated>2022-09-14T14:33:10.000Z</updated>
-        <summary type="html"><![CDATA[Robots can surpass the limitations on how high and far animals can jump, but their success only underscores nature’s ingenuity in making the most of what’s available.            
-The post Record-Breaking Robot Highlights How Animals Excel at Jumping first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Yasemin Saplakoglu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL vs NoSQL: When to Use Which]]></title>
-        <id>https://www.freecodecamp.org/news/sql-vs-nosql-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/sql-vs-nosql-tutorial/"/>
-        <updated>2022-09-14T03:38:22.000Z</updated>
-        <summary type="html"><![CDATA[When should you use a SQL database and when should you use a NoSQL database? We just published a course on the freeCodeCamp.org YouTube channel that will teach you the differences between NoSQL and SQL databases as well as when and why to use each kind of database. Ania Kubow]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All browsers adopted :focus-visible in their UA stylesheets (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/all-browsers-adopted-focus-visible-in-their-ua-stylesheets/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/all-browsers-adopted-focus-visible-in-their-ua-stylesheets/"/>
-        <updated>2022-09-13T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I've had many discussions with folks bothered by focus outlines on link and button clicks. "Can we remove these click lines?" was a sentence I often heard. But, at the time, the :focus pseudo-class was the only thing we had, and removing focus outlines entirely would break keyboard accessibility. So we had to push back and fight for proper focus outlines!
-Luckily, the :focus-visible pseudo-class helped out. Using :focus-visible, you could only show outlines when a person navigated links and buttons via the keyboard. Win-win! 💪
-But then, a tricky transition period started. How should we work around browsers that don't support the pseudo-class yet? There are two ways.
-/* 
-  Enable focus styles if 
-  :focus-visible is not supported
-  
-  Note: Before using `@supports selector()` 
-        chec…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Static Markdown Blog with Deno and Deploy It]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-a-blog-with-deno/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-blog-with-deno/"/>
-        <updated>2022-09-13T16:46:28.000Z</updated>
-        <summary type="html"><![CDATA[Deno is a runtime for JavaScript and TypeScript. The creator of Node.js built it, and while Node is built with C and C++, Deno is built with the Rust language. You might be wondering what some of the main differences between Node and Deno are. Well, Rust is a low-level]]></summary>
-        <author>
-            <name>Rajdeep Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sort Dictionary by Value in Python – How to Sort a Dict]]></title>
-        <id>https://www.freecodecamp.org/news/sort-dictionary-by-value-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/sort-dictionary-by-value-in-python/"/>
-        <updated>2022-09-13T15:16:42.000Z</updated>
-        <summary type="html"><![CDATA[In Python, a dictionary is a fat structure that is unordered by default. So, sometimes, you'll want to sort dictionaries by key or value to make queries easier. The problem is that sorting a dictionary by value is never a straightforward thing to do. That’s because Python doesn’t have an]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Math Evangelist Who Preaches Problem-Solving]]></title>
-        <id>https://www.quantamagazine.org/?p=118704</id>
-        <link href="https://www.quantamagazine.org/richard-rusczyk-is-a-math-evangelist-who-preaches-problem-solving-20220913/"/>
-        <updated>2022-09-13T14:55:13.000Z</updated>
-        <summary type="html"><![CDATA[Richard Rusczyk, founder of Art of Problem Solving, has a vision for bringing “joyous, beautiful math” — and problem-solving — to classrooms everywhere.            
-The post The Math Evangelist Who Preaches Problem-Solving first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Erica Klarreich</name>
         </author>
     </entry>
 </feed>
