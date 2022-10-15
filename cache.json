@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/find-vs-filter-javascript/",
+          "author": "Aman Kalra",
+          "description": "A common interview question that JavaScript developers often get asked is to explain the difference between the find() and filter() methods.  In this tutorial today, I'll walk you through what these methods are and when you should use them. What is the filter() method? This method returns all the",
+          "link": "https://www.freecodecamp.org/news/find-vs-filter-javascript/",
+          "publishedOn": "2022-10-14T22:22:22.000Z",
+          "wordCount": 1174,
+          "title": "find() vs filter() in JavaScript – Differences Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Logo.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/copy-text-to-clipboard-javascript/",
+          "author": "Joel Olawanle",
+          "description": "When you're building advanced web pages and applications, you'll sometimes want to add the copy feature. This lets your users simply click a button or icon to copy text rather than highlighting the text and clicking a couple of buttons on the keyboard. This feature is mostly used when someone",
+          "link": "https://www.freecodecamp.org/news/copy-text-to-clipboard-javascript/",
+          "publishedOn": "2022-10-14T21:18:48.000Z",
+          "wordCount": 1263,
+          "title": "How to Copy Text to the Clipboard with JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/cover-template--14-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-add-to-an-array-js-append/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use arrays in JavaScript to store a group of variables, often referred to as elements or items of the array. Each of these elements will have an index number assigned to them starting from zero.  By default, you can use the index of an element in an",
+          "link": "https://www.freecodecamp.org/news/javascript-add-to-an-array-js-append/",
+          "publishedOn": "2022-10-14T18:29:54.000Z",
+          "wordCount": 1555,
+          "title": "JavaScript Add to an Array – JS Append",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/kelly-sikkema--1_RZL8BGBM-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-meaning/",
+          "author": "Dionysia Lemonaki",
+          "description": "When designing a website or an app, the finished product needs to be functional, intuitive, and aesthetically pleasing. This is where UX and UI design come in. UX and UI design are two technical terms that can often be confusing. Many people may use these two terms interchangeably, incorrectly, or",
+          "link": "https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-meaning/",
+          "publishedOn": "2022-10-14T16:15:57.000Z",
+          "wordCount": 3296,
+          "title": "UX vs UI – What's the Difference? Definition and Meaning",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-picjumbocom-196644.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/developer-journey/",
+          "author": "Jalmari Ikävalko",
+          "description": "Hi everyone, I'm Jalmari Ikävalko, a software developer in my early 30s. In this article, I’ll share my whole journey from my first contact with code to becoming the professional developer I am today.  I'll start from my childhood when I first got interested in programming. My Introduction to",
+          "link": "https://www.freecodecamp.org/news/developer-journey/",
+          "publishedOn": "2022-10-14T16:01:31.000Z",
+          "wordCount": 3915,
+          "title": "My Developer Journey – How I Learned to Code with Dyslexia and ADHD",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/1.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/avoid-prop-drilling-with-react-context-api/",
           "author": "Edeh Israel Chidera",
           "description": "The React Context API provides a way to pass data through multiple nested levels of components without having to manually pass that data to each level.  React context is one sure way of globally managing your data in your app, and it's a good way to avoid prop drilling.",
@@ -1030,66 +1080,6 @@
           "wordCount": 2418,
           "title": "How to Install Kali Linux on Your Computer",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/install-kali-linux-article-image.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-pivot-table-in-excel/",
-          "author": "Kolade Chris",
-          "description": "In Excel, pivot tables let you analyze and visualize your data in an easy way. With pivot tables, you can make comparisons and create calculations more quickly. You can even create charts to visualize your data. Creating pivot tables might be intimidating if you're doing it for the first time.",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-pivot-table-in-excel/",
-          "publishedOn": "2022-09-14T22:35:36.000Z",
-          "wordCount": 1633,
-          "title": "How to Create a Pivot Table in Excel",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pivotTable.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-evaluate-machine-learning-models-using-tensorboard/",
-          "author": "Salim Oyinlola",
-          "description": "Improving a Machine Learning model is an iterative process. No machine learning model is ever perfect on the first attempt at training it. It usually takes a few iterations.  But a common mistake you might make as a Machine Learning practitioner is failing to realize that you need to",
-          "link": "https://www.freecodecamp.org/news/how-to-evaluate-machine-learning-models-using-tensorboard/",
-          "publishedOn": "2022-09-14T18:31:32.000Z",
-          "wordCount": 1897,
-          "title": "How to Evaluate Machine Learning Models using TensorBoard with TensorFlow",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/TensorFlow_Logo_with_text.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-html-and-css-from-the-ceo-of-scrimba/",
-          "author": "Beau Carnes",
-          "description": "Almost every website in the world uses HTML and CSS. So you should definitely learn them if you want to create websites. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build websites with HTML and CSS. Per Borgan created this course. Per",
-          "link": "https://www.freecodecamp.org/news/learn-html-and-css-from-the-ceo-of-scrimba/",
-          "publishedOn": "2022-09-14T18:15:01.000Z",
-          "wordCount": 915,
-          "title": "Learn HTML and CSS from the CEO of Scrimba",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/htmlcss.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/nodejs-api-best-practices-for-scaling/",
-          "author": "Rishabh Rawat",
-          "description": "There is more to scalability than using cluster mode. In this tutorial, we'll explore 10 ways you can make your Node.js API ready to scale. When working on a project, we often get a few real nuggets here and there on how to do something in a better way. We",
-          "link": "https://www.freecodecamp.org/news/nodejs-api-best-practices-for-scaling/",
-          "publishedOn": "2022-09-14T16:59:00.000Z",
-          "wordCount": 5604,
-          "title": "Best Practices for Scaling Your Node.js REST APIs",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Node.js-Best-Practices-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/kernel-security-check-failure-how-to-restart-the-kernel-in-windows-10/",
-          "author": "Gavin Lon",
-          "description": "I’ve been a professional software engineer for many years, and I can testify that there are few things worse than getting the dreaded BSOD (Blue Screen of Death). Especially when you are about to write a piece of mind bending code at 2am to meet a looming deadline.  That’s",
-          "link": "https://www.freecodecamp.org/news/kernel-security-check-failure-how-to-restart-the-kernel-in-windows-10/",
-          "publishedOn": "2022-09-14T15:41:50.000Z",
-          "wordCount": 2480,
-          "title": "Kernel Security Check Failure – How to Restart the Kernel in Windows 10",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/ScreenShot1_BSOD_Anger.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-i-learned-teaching-20-hs-girls-to-code/",
-          "author": "Kylie Ying",
-          "description": "On day 1, they barely knew what a float was. On day 14, they had programmed a game of minesweeper, a cipher decoder, or a zombie apocalypse simulation. And I helped teach them how to do it. Each summer, MIT hosts a program called WTP, or Women's Technology Program.",
-          "link": "https://www.freecodecamp.org/news/what-i-learned-teaching-20-hs-girls-to-code/",
-          "publishedOn": "2022-09-14T14:46:14.000Z",
-          "wordCount": 1815,
-          "title": "What I Learned Teaching 20 High School Girls How to Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-pixabay-207691.jpg"
         }
       ]
     },
@@ -1277,16 +1267,6 @@
           "wordCount": 5280,
           "title": "How Mathematical Curves Enable Advanced Communication",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/09/Interpolation-Applications_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=118815",
-          "author": "Ben Brubaker",
-          "description": "A custom-built machine learning algorithm can predict when a complex system is about to switch to a wildly different mode of behavior.            \nThe post Chaos Researchers Can Now Predict Perilous Points of No Return first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/ai-algorithm-foresees-chaotic-tipping-points-20220915/",
-          "publishedOn": "2022-09-15T14:17:38.000Z",
-          "wordCount": 5164,
-          "title": "Chaos Researchers Can Now Predict Perilous Points of No Return",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/Predicting-Tipping-Points_1200_Social.jpg"
         }
       ]
     },
@@ -1419,6 +1399,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/432",
+          "author": null,
+          "description": "#​432 — October 14, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\n    \nTogether with \n        \n          \n          \n          \n        \n      \n\n    \n    \n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nProposal: A try Statement for Error Handling? — Inspired by the results of the recent Go community survey, a self-proclaimed if err != nil expert(!) puts forward an interesting, well-written proposal for adding some tasty syntactic sugar to error handling. It’s only early days for this idea which may well not even pan out, but there’s plenty of room to jump in with your take on it and help push things forward.\nGreg Weber \n\n\n  \n  \nAutostrada: A Codebase Generator for Go Projects — A site that lets you pick from a variety of options (webapp vs JSON API, SQLite vs Postgres – add auth, secure cookies, …",
+          "link": "https://golangweekly.com/issues/432",
+          "publishedOn": "2022-10-14T00:00:00.000Z",
+          "wordCount": 1015,
+          "title": "If at first your code doesn't succeed, `try`, `try` again?",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/431",
           "author": null,
