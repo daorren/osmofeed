@@ -1030,56 +1030,6 @@
           "wordCount": 1952,
           "title": "How to Work with Numbers and Dates in JavaScript",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Frame-388--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-jenkins-by-building-a-ci-cd-pipeline/",
-          "author": "Beau Carnes",
-          "description": "Jenkins is an open source automation server which makes it easier to build, test, and deploy software. We just published a video course on the freeCodeCamp.org YouTube channel that will teach you about Jenkins by showing you how to build a CI/CD pipeline for a web application.  Gwendolyn Faraday",
-          "link": "https://www.freecodecamp.org/news/learn-jenkins-by-building-a-ci-cd-pipeline/",
-          "publishedOn": "2022-09-16T14:10:10.000Z",
-          "wordCount": 896,
-          "title": "Learn Jenkins by Building a CI/CD Pipeline",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/jenkins.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-compare-arrays-in-javascript/",
-          "author": "Joel Olawanle",
-          "description": "When handling logic with JavaScript, you might need to compare two arrays to see if they are equal or not. Really, this shouldn't be difficult, as you'd think we could easily use either the loose equality (double equals - ==) or the strict equality (triple equals -  ===). But",
-          "link": "https://www.freecodecamp.org/news/how-to-compare-arrays-in-javascript/",
-          "publishedOn": "2022-09-16T00:15:56.000Z",
-          "wordCount": 1785,
-          "title": "Comparing Arrays in JavaScript – How to Compare 2 Arrays in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/cover-template.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-data-science-what-a-data-scientist-actually-does/",
-          "author": "Dionysia Lemonaki",
-          "description": "Data Science is one of the most in-demand and desirable careers of the 21st century. Even though the term was introduced in the early 1960s, its meaning has changed considerably over time. And despite its rise in popularity in recent years, many people outside the field still find the term",
-          "link": "https://www.freecodecamp.org/news/what-is-data-science-what-a-data-scientist-actually-does/",
-          "publishedOn": "2022-09-15T20:11:02.000Z",
-          "wordCount": 3184,
-          "title": "What is Data Science? What a Data Scientist Actually Does",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-alex-knight-2599244.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/animate-react-apps/",
-          "author": "Reed Barger",
-          "description": "Animations have the powerful ability to turn a boring, static application into a more dynamic, memorable experience for your users.  In general, animations can be quite difficult to set up, especially if you intend to animate multiple components in your app.  In this tutorial, we will see how",
-          "link": "https://www.freecodecamp.org/news/animate-react-apps/",
-          "publishedOn": "2022-09-15T19:56:57.000Z",
-          "wordCount": 1702,
-          "title": "How to Animate Your React Apps with 1 Line of Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/mugshotbot.com_customize_color-red-image-9129875b-mode-dark-pattern-topography-theme-two_up-url-https___freecodecamp.org.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-install-kali-linux/",
-          "author": "Daniel Iwugo",
-          "description": "Kali Linux (formerly known as BackTrack) is an open-source Linux distro developed and funded by Offensive Security.  It’s basically an ethical hacker's dream operating system, because it has most of the tools you'll ever need built-in. From Metasploit to JohntheRipper to the one and only Aircrack-ng, this OS has",
-          "link": "https://www.freecodecamp.org/news/how-to-install-kali-linux/",
-          "publishedOn": "2022-09-15T19:37:37.000Z",
-          "wordCount": 2418,
-          "title": "How to Install Kali Linux on Your Computer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/install-kali-linux-article-image.png"
         }
       ]
     },
@@ -1276,6 +1226,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "632f66c92dafe30b3489b528",
+          "author": "Assaf Arkin",
+          "description": "This week we get over our jet lag, have a git together, reverse engineer prompts at the Louvre, and even more Apple Watch workouts.",
+          "link": "https://labnotes.org/weekend-reading-fan-theory/",
+          "publishedOn": "2022-10-16T00:01:37.000Z",
+          "wordCount": 1575,
+          "title": "Weekend Reading — 👋 Fan theory",
+          "imageUrl": "https://labnotes.org/content/images/2022/10/IMG_1419.jpeg"
+        },
+        {
           "id": "63265fbf2667443708169345",
           "author": "Assaf Arkin",
           "description": "This week we play Dungeon & Types, visualize our designs IRL, FOMO into the Metaverse, and wrestle a bear for a Belgium waffle.",
@@ -1437,16 +1397,6 @@
           "publishedOn": "2022-09-23T00:00:00.000Z",
           "wordCount": 822,
           "title": "It's like Electron, but for Go developers.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/428",
-          "author": null,
-          "description": "#​428 — September 16, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nLet's Discuss Backward Compatibility in Go — When Russ Cox starts a discussion, we listen. Rather than focus on a new feature, he reflects on Go 1’s compatibility promise (that you’ll be able to compile older Go programs on future versions) and areas where it fails or falls short. It's dry, but important stuff to understand, particularly if you need to maintain Go projects over time.\nRuss Cox et al. \n\n\n  \n  \nConcurrency Isn’t Always Faster in Go — The author of 100 Go Mistakes and How to Avoid Them digs into mistake 56 (of the 100!) with a look at the assumption that doing something concurrently must be faster than sequentially. Unsurprisingly, it’s complicated..\nTeiva Harsanyi \n\n\n  \n…",
-          "link": "https://golangweekly.com/issues/428",
-          "publishedOn": "2022-09-16T00:00:00.000Z",
-          "wordCount": 884,
-          "title": "Go's backwards compatibility discussion",
           "imageUrl": null
         }
       ]

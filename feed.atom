@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-15T02:35:22.119Z</updated>
+    <updated>2022-10-16T02:39:39.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 👋 Fan theory]]></title>
+        <id>632f66c92dafe30b3489b528</id>
+        <link href="https://labnotes.org/weekend-reading-fan-theory/"/>
+        <updated>2022-10-16T00:01:37.000Z</updated>
+        <summary type="html"><![CDATA[This week we get over our jet lag, have a git together, reverse engineer prompts at the Louvre, and even more Apple Watch workouts.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[find() vs filter() in JavaScript – Differences Explained with Examples]]></title>
         <id>https://www.freecodecamp.org/news/find-vs-filter-javascript/</id>
@@ -1616,97 +1626,6 @@ document.fonts.check('12px ui-serif');
         <summary type="html"><![CDATA[Numbers, dates, and timers are important parts of JavaScript. And you'll need to know how to work with them when writing your code. We often ignore these topics as many articles don't discuss them. So here, we'll dive deep into the techniques you can use and learn some interesting things]]></summary>
         <author>
             <name>Kedar Makode</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Jenkins by Building a CI/CD Pipeline]]></title>
-        <id>https://www.freecodecamp.org/news/learn-jenkins-by-building-a-ci-cd-pipeline/</id>
-        <link href="https://www.freecodecamp.org/news/learn-jenkins-by-building-a-ci-cd-pipeline/"/>
-        <updated>2022-09-16T14:10:10.000Z</updated>
-        <summary type="html"><![CDATA[Jenkins is an open source automation server which makes it easier to build, test, and deploy software. We just published a video course on the freeCodeCamp.org YouTube channel that will teach you about Jenkins by showing you how to build a CI/CD pipeline for a web application.  Gwendolyn Faraday]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparing Arrays in JavaScript – How to Compare 2 Arrays in JS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-compare-arrays-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-compare-arrays-in-javascript/"/>
-        <updated>2022-09-16T00:15:56.000Z</updated>
-        <summary type="html"><![CDATA[When handling logic with JavaScript, you might need to compare two arrays to see if they are equal or not. Really, this shouldn't be difficult, as you'd think we could easily use either the loose equality (double equals - ==) or the strict equality (triple equals -  ===). But]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go's backwards compatibility discussion]]></title>
-        <id>https://golangweekly.com/issues/428</id>
-        <link href="https://golangweekly.com/issues/428"/>
-        <updated>2022-09-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​428 — September 16, 2022
-
-
-Unsubscribe  |  Read on the Web
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-Let's Discuss Backward Compatibility in Go — When Russ Cox starts a discussion, we listen. Rather than focus on a new feature, he reflects on Go 1’s compatibility promise (that you’ll be able to compile older Go programs on future versions) and areas where it fails or falls short. It's dry, but important stuff to understand, particularly if you need to maintain Go projects over time.
-Russ Cox et al. 
-
-
-  
-  
-Concurrency Isn’t Always Faster in Go — The author of 100 Go Mistakes and How to Avoid Them digs into mistake 56 (of the 100!) with a look at the assumption that doing something concurrently must be faster than sequentially. Unsurprisingly, it’s complicated..
-Teiva Harsanyi 
-
-
-  
-…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Data Science? What a Data Scientist Actually Does]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-data-science-what-a-data-scientist-actually-does/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-data-science-what-a-data-scientist-actually-does/"/>
-        <updated>2022-09-15T20:11:02.000Z</updated>
-        <summary type="html"><![CDATA[Data Science is one of the most in-demand and desirable careers of the 21st century. Even though the term was introduced in the early 1960s, its meaning has changed considerably over time. And despite its rise in popularity in recent years, many people outside the field still find the term]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Animate Your React Apps with 1 Line of Code]]></title>
-        <id>https://www.freecodecamp.org/news/animate-react-apps/</id>
-        <link href="https://www.freecodecamp.org/news/animate-react-apps/"/>
-        <updated>2022-09-15T19:56:57.000Z</updated>
-        <summary type="html"><![CDATA[Animations have the powerful ability to turn a boring, static application into a more dynamic, memorable experience for your users.  In general, animations can be quite difficult to set up, especially if you intend to animate multiple components in your app.  In this tutorial, we will see how]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install Kali Linux on Your Computer]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-install-kali-linux/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-kali-linux/"/>
-        <updated>2022-09-15T19:37:37.000Z</updated>
-        <summary type="html"><![CDATA[Kali Linux (formerly known as BackTrack) is an open-source Linux distro developed and funded by Offensive Security.  It’s basically an ethical hacker's dream operating system, because it has most of the tools you'll ever need built-in. From Metasploit to JohntheRipper to the one and only Aircrack-ng, this OS has]]></summary>
-        <author>
-            <name>Daniel Iwugo</name>
         </author>
     </entry>
 </feed>
