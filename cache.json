@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/linux-command-line-tutorial/",
+          "author": "Destiny Erhabor",
+          "description": "An operating system is a set of software layers between you and your computer's hardware.  The operating system (or OS) is a piece of software that controls all other application programs and helps you manage the hardware and software of your computer. Examples of popular operating systems are Windows,",
+          "link": "https://www.freecodecamp.org/news/linux-command-line-tutorial/",
+          "publishedOn": "2022-10-18T23:33:44.000Z",
+          "wordCount": 3584,
+          "title": "Linux Command Line Tutorial – How to Use Common Terminal Commands",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-sora-shimazaki-5935794--3-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/wi-fi-hacking-101/",
+          "author": "Daniel Iwugo",
+          "description": "Welcome to the world of Wi-Fi hacking, everybody. 💻. In my previous article [/news/linux-basics/], we talked about some basic Linux skills and tricks. In this article you are going to learn a basic Wi-Fi hacking procedure using those skills. You'll learn things such as how to:  1. Monitor Wi-Fi",
+          "link": "https://www.freecodecamp.org/news/wi-fi-hacking-101/",
+          "publishedOn": "2022-10-18T20:37:37.000Z",
+          "wordCount": 3012,
+          "title": "Wi-Fi Hacking 101 – How to Hack WPA2 and Defend Against These Attacks",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/image-74-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/append-a-string-in-python-str-appending/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this article, you'll learn the different methods of appending strings in Python.  Another term commonly used when talking about appending strings is concatenation. So you'll often see these terms — append and concatenate — used interchangeably.  Either way, to append or concatenate strings means to add or",
+          "link": "https://www.freecodecamp.org/news/append-a-string-in-python-str-appending/",
+          "publishedOn": "2022-10-18T19:33:59.000Z",
+          "wordCount": 1417,
+          "title": "Append a String in Python – STR Appending",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/alex-chumak-zGuBURGGmdY-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/go-beginners-handbook/",
+          "author": "Flavio Copes",
+          "description": "Golang is an awesome, simple, modern, and fast programming language. It’s compiled, open source, and strongly typed. Golang – also called Go – was created by Google engineers with these main goals:  * make their projects compile (and run) faster  * be simple so people can pick it",
+          "link": "https://www.freecodecamp.org/news/go-beginners-handbook/",
+          "publishedOn": "2022-10-18T18:35:37.000Z",
+          "wordCount": 5845,
+          "title": "The Go Handbook – Learn Golang for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-christina-morillo-1181290.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-cross-platform-app-with-next-and-tauri/",
+          "author": "Rajdeep Singh",
+          "description": "Tauri is a new Rust-based framework that builds an x86_64 cross-platform application for Windows, macOS, and Linux.  In this tutorial, we'll use Tauri and Next.js to build a desktop-based cross-platform application and publish it to the Snap store and AppImage. So why is building a cross-platform app, that works",
+          "link": "https://www.freecodecamp.org/news/build-a-cross-platform-app-with-next-and-tauri/",
+          "publishedOn": "2022-10-18T16:38:44.000Z",
+          "wordCount": 5058,
+          "title": "How to Build a Cross-Platform Application with Next.js and Tauri",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Tauri-and-nextjs--1-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/github-search-tips/",
           "author": "Hillary Nyakundi",
           "description": "When I was a beginner to open-source contributions, one of my greatest challenge was finding the correct projects/issues to work on. For the longest time I relied on resources curated by different writers on the internet (which were good, by the way). But I always wanted to find a way",
@@ -1058,6 +1108,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=119841",
+          "author": "Steve Nadis",
+          "description": "Harry Halpin wants our internet conversations to be more private. He’s helped create a new kind of network that might make it possible.             \nThe post The Computer Scientist Who’s Boosting Privacy on the Internet first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-computer-scientist-who-boosts-privacy-with-entropy-20221018/",
+          "publishedOn": "2022-10-18T15:16:16.000Z",
+          "wordCount": 7151,
+          "title": "The Computer Scientist Who’s Boosting Privacy on the Internet",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/Harry-Halpin_1200_Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=119791",
           "author": "Leila Sloman",
