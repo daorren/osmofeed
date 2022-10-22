@@ -12,6 +12,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/upload-files-to-azure-using-nestjs-and-typeorm-with-mysql/",
+          "author": "Destiny Erhabor",
+          "description": "Images and videos are examples of huge files that might be stored in your database. And this might impact the performance of your applications because of the amount of space that those files can take up.  Also, it expands the database, which makes backups larger and slower. Because of",
+          "link": "https://www.freecodecamp.org/news/upload-files-to-azure-using-nestjs-and-typeorm-with-mysql/",
+          "publishedOn": "2022-10-21T23:13:08.000Z",
+          "wordCount": 3173,
+          "title": "How to Upload Files to Azure using NestJS and typeORM with MySQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-panumas-nikhomkhai-1148820.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/",
+          "author": "Ophy Boamah",
+          "description": "Your web layout is to your website what a floor plan is to a building. Without them, you’re just building castles in the air.  The first thing to do when you have a website or application to build or design is to decide on the layout. This is important",
+          "link": "https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/",
+          "publishedOn": "2022-10-21T23:12:52.000Z",
+          "wordCount": 3971,
+          "title": "Web Layouts – How to Use CSS Grid and Flex to Create a Responsive Web Page",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/WebLayouts-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Object Relational Mapping (ORM) is a technique used in creating a \"bridge\" between object-oriented programs and, in most cases, relational databases [/news/what-is-a-relational-database-rdbms-definition/]. Put another way, you can see the ORM as the layer that connects object oriented programming [/news/four-pillars-of-object-oriented-programming/] (OOP) to relational databases.  When interacting with a database using",
+          "link": "https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/",
+          "publishedOn": "2022-10-21T18:18:25.000Z",
+          "wordCount": 1465,
+          "title": "What is an ORM – The Meaning of Object Relational Mapping Database Tools",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/markus-winkler-gLdJnQFcIXE-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-complete-guide-to-the-ethernet-protocol/",
+          "author": "Omer Rosenbaum",
+          "description": "Whether you’ve been aware of it or not, you’ve probably used the Ethernet in the past. Does this cable look familiar? (Source: Wikipedia [https://en.wikipedia.org/wiki/Ethernet_physical_layer#/media/File:EthernetCableYellow3.jpg] )Ethernet is extremely popular, and is the most widely used Data Link Layer protocol, at least where the devices are linked by physical cables (rather than",
+          "link": "https://www.freecodecamp.org/news/the-complete-guide-to-the-ethernet-protocol/",
+          "publishedOn": "2022-10-21T17:12:40.000Z",
+          "wordCount": 4888,
+          "title": "How the Ethernet Protocol Works – A Complete Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Computer-Networks-Ethernet--1-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/crash-course-object-oriented-programming-in-python/",
           "author": "Lane Wagner",
           "description": "Object Oriented programming, or \"OOP\" for short, is a way of writing code that relies on the concepts of classes and objects.  The main benefit of writing your code in an object-oriented way is to structure your program into simple, reusable pieces of code. Stick with me through this",
@@ -1000,76 +1040,6 @@
           "wordCount": 969,
           "title": "Intro to Algorithms with Python",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/algos_python.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/css-combinators-to-select-elements/",
-          "author": "Dillion Megida",
-          "description": "Combinators allow you to combine multiple selectors to target specific elements in the DOM. In this article, I'll explain how four of these combinators with examples. In my previous post on CSS Selector Types [/news/how-to-select-elements-to-style-in-css/], I shared seven types of selectors for targetting elements that you want to style. If",
-          "link": "https://www.freecodecamp.org/news/css-combinators-to-select-elements/",
-          "publishedOn": "2022-09-21T23:17:05.000Z",
-          "wordCount": 1742,
-          "title": "How to Use CSS Combinators to Select and Style Elements",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/css-combinations.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-remove-last-commit-how-to-undo-a-commit-in-git/",
-          "author": "Dionysia Lemonaki",
-          "description": "Git is a powerful tool and the most popular version control system. It is how developers and technical teams collaborate and work together on projects. But what happens when you accidentally commit a file and realize that you shouldn't have done that because that file contains an error? There is",
-          "link": "https://www.freecodecamp.org/news/git-remove-last-commit-how-to-undo-a-commit-in-git/",
-          "publishedOn": "2022-09-21T17:42:10.000Z",
-          "wordCount": 2004,
-          "title": "Git Remove Last Commit – How to Undo a Commit in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-andrew-neel-2312369.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/generic-pnp-monitor-how-to-fix-windows-10-pc-device-driver/",
-          "author": "Kolade Chris",
-          "description": "Have you acquired a new monitor only to find out it's not displaying anything from your computer? Or maybe the monitor suddenly stops working? On many occasions, this problem is caused by a faulty generic PNP monitor driver. Apart from driver issues, the monitor might not be working due to",
-          "link": "https://www.freecodecamp.org/news/generic-pnp-monitor-how-to-fix-windows-10-pc-device-driver/",
-          "publishedOn": "2022-09-21T16:18:08.000Z",
-          "wordCount": 1295,
-          "title": "Generic PNP Monitor – How to Fix Windows 10 PC Device Driver",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/monitor-1307227_1280.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/software-testing-beginners-guide/",
-          "author": "Sophia Iroegbu",
-          "description": "Software testing is essential to development. It saves you time and money in production mode.  But software testing is a complex topic and can be a bit difficult to understand. In this article, I'll explain the major topics in software testing and how this practice can help you.",
-          "link": "https://www.freecodecamp.org/news/software-testing-beginners-guide/",
-          "publishedOn": "2022-09-21T16:03:49.000Z",
-          "wordCount": 2614,
-          "title": "What is Software Testing? A Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Tech-Blog-Cover--4-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/near-curriculum/",
-          "author": "Tom Mondloch",
-          "description": "Over the past 9 months, several of our instructors have been hard at work on a comprehensive NEAR curriculum. This will focus on NEAR's blockchain protocol and the NEAR tool ecosystem. This curriculum is made possible by NEAR Foundation, who gave our charity a grant to 100% fund development of",
-          "link": "https://www.freecodecamp.org/news/near-curriculum/",
-          "publishedOn": "2022-09-21T15:10:19.000Z",
-          "wordCount": 1186,
-          "title": "freeCodeCamp is Building a NEAR Curriculum",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/joshua-newton-IRXYNAMlUtw-unsplash-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/solana-curriculum/",
-          "author": "Tom Mondloch",
-          "description": "Over the past 9 months, we've made considerable progress on our Solana curriculum. This will focus on Solana's blockchain protocol and the Solana tool ecosystem. This curriculum is made possible by The Solana Foundation, who gave our charity a grant to 100% fund development of this curriculum. What will this",
-          "link": "https://www.freecodecamp.org/news/solana-curriculum/",
-          "publishedOn": "2022-09-21T15:00:18.000Z",
-          "wordCount": 1184,
-          "title": "freeCodeCamp is Building a Solana Curriculum",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/arturo-castaneyra-7laIG_Xv5FI-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/web3-curriculum-open-beta/",
-          "author": "Tom Mondloch",
-          "description": "Over the past 11 months, we've made considerable progress on our Web3 curriculum. Today I'm thrilled to say that parts of this curriculum are now in open beta. You can try them today. Before we get into the details, I want to thank the KaijuKingz community, who made a donation",
-          "link": "https://www.freecodecamp.org/news/web3-curriculum-open-beta/",
-          "publishedOn": "2022-09-21T14:45:56.000Z",
-          "wordCount": 1454,
-          "title": "freeCodeCamp's Web3 Curriculum Open Beta – And How to Run it",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/thomas-habr-wprOCzLIEYI-unsplash.jpg"
         }
       ]
     },
@@ -1267,16 +1237,6 @@
           "wordCount": 6342,
           "title": "The New Math of Wrinkling",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/How-to-Wrinkle_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=118980",
-          "author": "Charlie Wood",
-          "description": "A new atomic-scale experiment all but settles the origin of the strong form of superconductivity seen in cuprate crystals, confirming a 35-year-old theory.            \nThe post High-Temperature Superconductivity Understood at Last first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/high-temperature-superconductivity-understood-at-last-20220921/",
-          "publishedOn": "2022-09-21T14:06:52.000Z",
-          "wordCount": 6440,
-          "title": "High-Temperature Superconductivity Understood at Last",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/Superconductivity-Mystery-Reolved_1200_Social.jpg"
         }
       ]
     },
@@ -1381,16 +1341,6 @@
           "wordCount": 1656,
           "title": "Why custom properties don't work with the url() CSS function (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Why%20custom%20properties%20don't%20work%20with%20the%20url()%20CSS%20function/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/overwriting-an-elements-accessible-name-can-break-speech-recognition/",
-          "author": null,
-          "description": "You might have been in situations where you received a classical three-column blog layout design. Unfortunately, all three columns close off with a \"Read more\" link. These links aren't good for accessibility because \"Read more\" isn't very descriptive.\nEspecially when a page includes multiple links with the same name, navigating them is a challenge. How should one know where all these \"Read more\" links lead to?\nEasy-peasy, aria-label then helps to provide a more accessible name. Right?\n<a href=\"/wonders\" aria-label=\"Wonders of the world\">Read more</a>\n\nThanks to aria-label, screen readers provide more valuable information, even when elements look visually the same.\nBut today I learned that aria-label can also lead to issues with speech recognition tools when it doesn't match what's visible.\nVisitors navigating the web with their voice can tell the software to click an element based on what they see — \"Click Read more\". An aria-label that overwrites an element's accessible name breaks this functionality.\nAshlee M. Boyer recommends in her article Don’t Overwrite Visual Labels With aria-label to include the visual label if you're improving it via aria-label.\n<a href=\"/something\" aria-label=\"Read more: Wonders of the world\">Read more</a>\n\nThat's good to know, but the general rule of ARIA remains: Use native and semantically correct elements whenever possible and only use ARIA when you really have to.\nSo it might be better to get rid of all these \"Read more\" links in the first place.\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/overwriting-an-elements-accessible-name-can-break-speech-recognition/",
-          "publishedOn": "2022-09-21T22:00:00.000Z",
-          "wordCount": 1415,
-          "title": "Overwriting an element's accessible name can break speech recognition (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Overwriting%20an%20element's%20accessible%20name%20can%20break%20speech%20recognition/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
@@ -1399,6 +1349,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/433",
+          "author": null,
+          "description": "#​433 — October 21, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\n    \nTogether with \n        \n          \n          \n          \n        \n      \n\n    \n    \n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nThe Go WebAssembly ABI at a Low Level — Go 1.11 added initial support for compiling Go to WebAssembly (something TinyGo also supports) but how does the interaction between WASM-compiled Go and the broader (often JavaScript-based) environment work? A very extensive (and entertaining) writeup of a conference talk given at GoLab 2022 earlier this month.\nXe Iaso \n\n\n  \n  \nProposal: A Simple Way to Clear a Map — We’re getting a good run of proposals recently, and Russ Cox is back with a way to more simply clear a map – simply delete(m) – simple enough, you might think, but potential problems have already…",
+          "link": "https://golangweekly.com/issues/433",
+          "publishedOn": "2022-10-21T00:00:00.000Z",
+          "wordCount": 923,
+          "title": "Wiping the map clean",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/432",
           "author": null,
