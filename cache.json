@@ -1000,46 +1000,6 @@
           "wordCount": 2092,
           "title": "How to Sort a List Recursively in Python",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/max-harlynking-_QcLpud-gD0-unsplash-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/introduction-to-linked-lists-in-python/",
-          "author": "Fakorede Damilola",
-          "description": "Different programming languages offer different ways to store and access data. Some of the data structures you can use are collections such as arrays, lists, maps, sets, and so on.  These all do an awesome job storing and accessing data, but sometimes you might need something different. Another data",
-          "link": "https://www.freecodecamp.org/news/introduction-to-linked-lists-in-python/",
-          "publishedOn": "2022-09-22T16:08:05.000Z",
-          "wordCount": 2377,
-          "title": "Linked Lists in Python – Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/chain-3481377_1280.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-align-text-in-html/",
-          "author": "Joel Olawanle",
-          "description": "Text is essential on web pages, as it tells your users what your web page is all about. When you add text to your web page, it dictates the direction and feel of your web page based on your language. For example, by default, English moves from left to right",
-          "link": "https://www.freecodecamp.org/news/how-to-align-text-in-html/",
-          "publishedOn": "2022-09-22T16:02:44.000Z",
-          "wordCount": 1969,
-          "title": "How to Align Text in HTML – Text-align, Center, and Justified Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/cover-template--8-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-hacking/",
-          "author": "Daniel Iwugo",
-          "description": "Time to learn the basics of the splendid art of hacking 👨‍💻👩‍💻.  In this article, you will learn what the hacking process really looks like. And hopefully one day, you'll get to say those famous words: “I’m in”. Disclaimer: This is for educational purposes only. Please (with a cherry",
-          "link": "https://www.freecodecamp.org/news/what-is-hacking/",
-          "publishedOn": "2022-09-22T15:21:49.000Z",
-          "wordCount": 2094,
-          "title": "What is Hacking? The Hacker Methodology Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/hacker-methodology-image.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/intro-to-algorithms-with-python/",
-          "author": "Beau Carnes",
-          "description": "Understanding algorithms in an important skill for many computer science jobs. Algorithms help us solve problems efficiently. We just published an introduction to algorithms with Python course on the freeCodeCamp.org YouTube channel. In this course, you'll work with algorithm basics like recursion then go all the way to working with",
-          "link": "https://www.freecodecamp.org/news/intro-to-algorithms-with-python/",
-          "publishedOn": "2022-09-22T14:36:57.000Z",
-          "wordCount": 969,
-          "title": "Intro to Algorithms with Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/algos_python.png"
         }
       ]
     },
@@ -1227,16 +1187,6 @@
           "wordCount": 8706,
           "title": "Physicists Rewrite a Quantum Rule That Clashes With Our Universe",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/Unitarity_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=119021",
-          "author": "Stephen Ornes",
-          "description": "A comprehensive mathematical framework treats wrinkling patterns as elegant solutions to geometric problems.            \nThe post The New Math of Wrinkling first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/the-new-math-of-wrinkling-patterns-20220922/",
-          "publishedOn": "2022-09-22T15:05:09.000Z",
-          "wordCount": 6342,
-          "title": "The New Math of Wrinkling",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/How-to-Wrinkle_1200_Social.jpg"
         }
       ]
     },
@@ -1245,6 +1195,16 @@
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
+        {
+          "id": "634b4a70725d383ca43f088e",
+          "author": "Assaf Arkin",
+          "description": "This week we help a machine generate art, so we can out-source our thought leadership, wash in WFG, and set up our OpenTable profile.",
+          "link": "https://labnotes.org/weekend-reading-any-desk-is-a-standing-desk-if-youre-short-enough/",
+          "publishedOn": "2022-10-22T23:02:04.000Z",
+          "wordCount": 1757,
+          "title": "Weekend Reading — 👋 Any desk is a standing desk if you’re short enough",
+          "imageUrl": "https://labnotes.org/content/images/2022/10/SCR-20221021-e5y.png"
+        },
         {
           "id": "632f66c92dafe30b3489b528",
           "author": "Assaf Arkin",
@@ -1272,6 +1232,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/snippets/a-centered-css-grid-with-full-width-components/",
+          "author": null,
+          "description": "Not too long ago, I was looking into refactoring my site to go all in with CSS grid!\nI've been aiming for a classical centered blog layout with flexible side margins. The content should be 65 characters wide at max. But (!) I wanted to be able to break free, and some components should go full-width by setting a class. And it should all work with CSS grid.\nAfter fiddling with it for a while, I didn't reach a satisfying result and decided to do it another day. In the meantime, Ryan Mulligan's post \"Layout Breakouts with CSS Grid\" provided the CSS solution I was looking for (see it in action on CodePen).\nThe solution: named grid-template-columns and some math\n\nPut all your content in a content wrapper element that defines named grid areas:\n.content {\n  --gap: clamp(1rem, 6vw, 3rem);\n  --full: minmax(var(--gap), 1fr);\n  --content: min(50ch, 100% - var(--gap) * 2);\n  --popout: minmax(0, 2rem);\n  --feature: minmax(0, 5rem);\n\n  display: grid;\n  grid-template-columns:\n    [full-start] var(--full)\n    [feature-start] var(--feature)\n    [popout-start] var(--popout)\n    [content-start] var(--content) [content-end]\n    var(--popout) [popout-end]\n    var(--feature) [feature-end]\n    var(--full) [full-end];\n}\n\nAnd then control all the component widths using grid template areas. 💯\n.content > * {\n  grid-column: content;\n}\n.popout {\n  grid-column: popout;\n}\n.feature {\n  grid-column: feature;\n}\n.full {\n  grid-column: full;\n}\n\nThe post even includes a beautiful visualization that explains what's going on. 👏\nI love it. 💙 Thank you, Ryan!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/snippets/a-centered-css-grid-with-full-width-components/",
+          "publishedOn": "2022-10-21T21:00:00.000Z",
+          "wordCount": 1388,
+          "title": "A centered CSS grid with full-width components (#snippet)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20centered%20CSS%20grid%20with%20full-width%20components/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-82/",
           "author": null,
@@ -1331,16 +1301,6 @@
           "wordCount": 2340,
           "title": "Web Weekly #80 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/custom-properties-dont-work-with-the-url-css-function/",
-          "author": null,
-          "description": "Custom properties and CSS parsing are always good for surprises like !important behaving slightly differently or properties being \"invalid at computed value time\".\nToday I discovered yet another surprise — custom properties don't work in combination with the url() function. 😲\n.something {\n  /* this doesn't work */\n  --image: \"https://jo.com/image.jpg\";\n  background: url(var(--image));\n}\n\nRoman Dvornov describes the details quite well in a GitHub issue, but let me give you a condensed explanation.\nThe two modes of url()\n\nYour url()-containing CSS will be parsed differently, depending on how you use url(). There's an old and a newer way:\nOld: url(https://jo.com/image.jpg)\nNewer: url('https://jo.com/image.jpg') or url(\"https://jo.com/image.jpg\")\nThe problem of the legacy url() token\nAnd thes…",
-          "link": "https://www.stefanjudis.com/today-i-learned/custom-properties-dont-work-with-the-url-css-function/",
-          "publishedOn": "2022-09-22T22:00:00.000Z",
-          "wordCount": 1656,
-          "title": "Why custom properties don't work with the url() CSS function (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Why%20custom%20properties%20don't%20work%20with%20the%20url()%20CSS%20function/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
@@ -1387,16 +1347,6 @@
           "publishedOn": "2022-09-30T00:00:00.000Z",
           "wordCount": 887,
           "title": "Four years of quiet Go improvements",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/429",
-          "author": null,
-          "description": "#​429 — September 23, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nWails v2: Build Cross-Platform Desktop Apps with Go — A big step forward for a project that has shown a lot of promise in recent years. Wails is an Electron-a-like for Go for building cross-platform desktop apps using Go as the base language and JavaScript on the front (and, yes, JS can call your Go functions). v2 introduces a lot of improvements:\n    \n\n\nSvelte, Vue, (P)React, Lit and vanilla JS templates.\nNative window translucency effects.\nNSIS installer generation for Windows.\nCode obfuscation and binary compression support.\nNo extra libraries or DLLs to ship.\nLea Anthony \n\n\n  \n  \n🧈 ButterCMS Melts into Your Go + Hugo App. #1 Rated Headless CMS — ButterCMS is your content backend.…",
-          "link": "https://golangweekly.com/issues/429",
-          "publishedOn": "2022-09-23T00:00:00.000Z",
-          "wordCount": 822,
-          "title": "It's like Electron, but for Go developers.",
           "imageUrl": null
         }
       ]

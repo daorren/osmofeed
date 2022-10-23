@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-22T02:19:27.102Z</updated>
+    <updated>2022-10-23T02:29:40.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 👋 Any desk is a standing desk if you’re short enough]]></title>
+        <id>634b4a70725d383ca43f088e</id>
+        <link href="https://labnotes.org/weekend-reading-any-desk-is-a-standing-desk-if-youre-short-enough/"/>
+        <updated>2022-10-22T23:02:04.000Z</updated>
+        <summary type="html"><![CDATA[This week we help a machine generate art, so we can out-source our thought leadership, wash in WFG, and set up our OpenTable profile.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Upload Files to Azure using NestJS and typeORM with MySQL]]></title>
         <id>https://www.freecodecamp.org/news/upload-files-to-azure-using-nestjs-and-typeorm-with-mysql/</id>
@@ -24,6 +34,60 @@
         <summary type="html"><![CDATA[Your web layout is to your website what a floor plan is to a building. Without them, you’re just building castles in the air.  The first thing to do when you have a website or application to build or design is to decide on the layout. This is important]]></summary>
         <author>
             <name>Ophy Boamah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A centered CSS grid with full-width components (#snippet)]]></title>
+        <id>https://www.stefanjudis.com/snippets/a-centered-css-grid-with-full-width-components/</id>
+        <link href="https://www.stefanjudis.com/snippets/a-centered-css-grid-with-full-width-components/"/>
+        <updated>2022-10-21T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Not too long ago, I was looking into refactoring my site to go all in with CSS grid!
+I've been aiming for a classical centered blog layout with flexible side margins. The content should be 65 characters wide at max. But (!) I wanted to be able to break free, and some components should go full-width by setting a class. And it should all work with CSS grid.
+After fiddling with it for a while, I didn't reach a satisfying result and decided to do it another day. In the meantime, Ryan Mulligan's post "Layout Breakouts with CSS Grid" provided the CSS solution I was looking for (see it in action on CodePen).
+The solution: named grid-template-columns and some math
+
+Put all your content in a content wrapper element that defines named grid areas:
+.content {
+  --gap: clamp(1rem, 6vw, 3rem);
+  --full: minmax(var(--gap), 1fr);
+  --content: min(50ch, 100% - var(--gap) * 2);
+  --popout: minmax(0, 2rem);
+  --feature: minmax(0, 5rem);
+
+  display: grid;
+  grid-template-columns:
+    [full-start] var(--full)
+    [feature-start] var(--feature)
+    [popout-start] var(--popout)
+    [content-start] var(--content) [content-end]
+    var(--popout) [popout-end]
+    var(--feature) [feature-end]
+    var(--full) [full-end];
+}
+
+And then control all the component widths using grid template areas. 💯
+.content > * {
+  grid-column: content;
+}
+.popout {
+  grid-column: popout;
+}
+.feature {
+  grid-column: feature;
+}
+.full {
+  grid-column: full;
+}
+
+The post even includes a beautiful visualization that explains what's going on. 👏
+I love it. 💙 Thank you, Ryan!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
@@ -1519,126 +1583,6 @@ Second, motivated by all this, I finally took the time …]]></summary>
         <summary type="html"><![CDATA[When you want to sort a list or array in Python, there are many sorting algorithms you can use.  Some use looping concepts like Insertion Sort, Bubble Sort, and Selection Sort. On the other hand, you can also sort the same list or array using Merge Sort with the]]></summary>
         <author>
             <name>P S Mohammed Ali</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's like Electron, but for Go developers.]]></title>
-        <id>https://golangweekly.com/issues/429</id>
-        <link href="https://golangweekly.com/issues/429"/>
-        <updated>2022-09-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​429 — September 23, 2022
-
-
-Unsubscribe  |  Read on the Web
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-Wails v2: Build Cross-Platform Desktop Apps with Go — A big step forward for a project that has shown a lot of promise in recent years. Wails is an Electron-a-like for Go for building cross-platform desktop apps using Go as the base language and JavaScript on the front (and, yes, JS can call your Go functions). v2 introduces a lot of improvements:
-    
-
-
-Svelte, Vue, (P)React, Lit and vanilla JS templates.
-Native window translucency effects.
-NSIS installer generation for Windows.
-Code obfuscation and binary compression support.
-No extra libraries or DLLs to ship.
-Lea Anthony 
-
-
-  
-  
-🧈 ButterCMS Melts into Your Go + Hugo App. #1 Rated Headless CMS — ButterCMS is your content backend.…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why custom properties don't work with the url() CSS function (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/custom-properties-dont-work-with-the-url-css-function/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/custom-properties-dont-work-with-the-url-css-function/"/>
-        <updated>2022-09-22T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Custom properties and CSS parsing are always good for surprises like !important behaving slightly differently or properties being "invalid at computed value time".
-Today I discovered yet another surprise — custom properties don't work in combination with the url() function. 😲
-.something {
-  /* this doesn't work */
-  --image: "https://jo.com/image.jpg";
-  background: url(var(--image));
-}
-
-Roman Dvornov describes the details quite well in a GitHub issue, but let me give you a condensed explanation.
-The two modes of url()
-
-Your url()-containing CSS will be parsed differently, depending on how you use url(). There's an old and a newer way:
-Old: url(https://jo.com/image.jpg)
-Newer: url('https://jo.com/image.jpg') or url("https://jo.com/image.jpg")
-The problem of the legacy url() token
-And thes…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linked Lists in Python – Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/introduction-to-linked-lists-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/introduction-to-linked-lists-in-python/"/>
-        <updated>2022-09-22T16:08:05.000Z</updated>
-        <summary type="html"><![CDATA[Different programming languages offer different ways to store and access data. Some of the data structures you can use are collections such as arrays, lists, maps, sets, and so on.  These all do an awesome job storing and accessing data, but sometimes you might need something different. Another data]]></summary>
-        <author>
-            <name>Fakorede Damilola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Align Text in HTML – Text-align, Center, and Justified Example]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-align-text-in-html/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-align-text-in-html/"/>
-        <updated>2022-09-22T16:02:44.000Z</updated>
-        <summary type="html"><![CDATA[Text is essential on web pages, as it tells your users what your web page is all about. When you add text to your web page, it dictates the direction and feel of your web page based on your language. For example, by default, English moves from left to right]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Hacking? The Hacker Methodology Explained]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-hacking/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-hacking/"/>
-        <updated>2022-09-22T15:21:49.000Z</updated>
-        <summary type="html"><![CDATA[Time to learn the basics of the splendid art of hacking 👨‍💻👩‍💻.  In this article, you will learn what the hacking process really looks like. And hopefully one day, you'll get to say those famous words: “I’m in”. Disclaimer: This is for educational purposes only. Please (with a cherry]]></summary>
-        <author>
-            <name>Daniel Iwugo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The New Math of Wrinkling]]></title>
-        <id>https://www.quantamagazine.org/?p=119021</id>
-        <link href="https://www.quantamagazine.org/the-new-math-of-wrinkling-patterns-20220922/"/>
-        <updated>2022-09-22T15:05:09.000Z</updated>
-        <summary type="html"><![CDATA[A comprehensive mathematical framework treats wrinkling patterns as elegant solutions to geometric problems.            
-The post The New Math of Wrinkling first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Stephen Ornes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intro to Algorithms with Python]]></title>
-        <id>https://www.freecodecamp.org/news/intro-to-algorithms-with-python/</id>
-        <link href="https://www.freecodecamp.org/news/intro-to-algorithms-with-python/"/>
-        <updated>2022-09-22T14:36:57.000Z</updated>
-        <summary type="html"><![CDATA[Understanding algorithms in an important skill for many computer science jobs. Algorithms help us solve problems efficiently. We just published an introduction to algorithms with Python course on the freeCodeCamp.org YouTube channel. In this course, you'll work with algorithm basics like recursion then go all the way to working with]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
