@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-23T02:29:40.499Z</updated>
+    <updated>2022-10-24T02:42:03.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -14,6 +14,25 @@
         <summary type="html"><![CDATA[This week we help a machine generate art, so we can out-source our thought leadership, wash in WFG, and set up our OpenTable profile.]]></summary>
         <author>
             <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #83 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-83/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-83/"/>
+        <updated>2022-10-22T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Γειά σου!
+
+This week's Web Weekly comes to you from a lovely terrace in Greece. I spent the last few days mountain biking, driving on tiny streets, and hiking, and right now, I'm looking down at the Mediterranean Sea.
+Life's good because I'm taking the much-needed break from being a tad too busy for a little too long. Nevertheless, I love writing this newsletter, so let's get to it!
+You might have heard of MPAs and SPAs — but have you heard of PEMPAs and PESPAs? Or did you consider that Copilot might be toxic for open source communities? And do you know that there's an HTTP header to clear localstorage?
+All the answers and much more are included in this week's Web Weekly. 🙈 Enjoy!
+Welcome to the 34 new subscribers! I'm super excited to have you around! 👋
+Thought of the week
+
+Attention, a…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
@@ -1553,36 +1572,6 @@ Second, motivated by all this, I finally took the time …]]></summary>
         <summary type="html"><![CDATA[This week we play Dungeon & Types, visualize our designs IRL, FOMO into the Metaverse, and wrestle a bear for a Belgium waffle.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Background Image – How to Add Wallpaper Images to Your Website]]></title>
-        <id>https://www.freecodecamp.org/news/html-background-image-how-to-add-wallpaper-images-to-your-website/</id>
-        <link href="https://www.freecodecamp.org/news/html-background-image-how-to-add-wallpaper-images-to-your-website/"/>
-        <updated>2022-09-23T19:18:19.000Z</updated>
-        <summary type="html"><![CDATA[Background images can help beautify websites and make them more attractive to users.  In this article, you'll learn:   * How to add a background image to your website using the CSS background-image     property.   * Other CSS background properties for images. How]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use SurrealDb with the Fresh Framework and Deno]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-surrealdb-with-fresh-framework/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-surrealdb-with-fresh-framework/"/>
-        <updated>2022-09-23T17:51:53.000Z</updated>
-        <summary type="html"><![CDATA[SurrealDB is a newly launched database that has recently started gaining popularity in the programming world. SurrealDB was built with the Rust language and was created by Tobie Morgan Hitchcock [https://www.linkedin.com/in/tobiemorganhitchcock/] and Jaime Morgan Hitchcock [https://www.linkedin.com/in/jaimemorganhitchcock/]. SurrealDB's new database comes with many features, but I'm most interested in the Deno]]></summary>
-        <author>
-            <name>Rajdeep Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Sort a List Recursively in Python]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-sort-recursively-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-sort-recursively-in-python/"/>
-        <updated>2022-09-23T14:35:00.000Z</updated>
-        <summary type="html"><![CDATA[When you want to sort a list or array in Python, there are many sorting algorithms you can use.  Some use looping concepts like Insertion Sort, Bubble Sort, and Selection Sort. On the other hand, you can also sort the same list or array using Merge Sort with the]]></summary>
-        <author>
-            <name>P S Mohammed Ali</name>
         </author>
     </entry>
 </feed>
