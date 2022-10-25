@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-24T02:42:03.865Z</updated>
+    <updated>2022-10-25T02:35:36.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Payment Request API in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/payment-request-api-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/payment-request-api-javascript/"/>
+        <updated>2022-10-24T22:40:51.000Z</updated>
+        <summary type="html"><![CDATA[The Payment Request API provides a cross-browser standard that lets you collect payments, addresses, and contact information from your customers. You can then use this info to process their order. It also facilitates the exchange of this information between the browser and the website. The fundamental idea behind this is]]></summary>
+        <author>
+            <name>Atta ✨</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Contribute to Open Source – a Guide for Technical Writers]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-contribute-to-open-source-for-technical-writers/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-contribute-to-open-source-for-technical-writers/"/>
+        <updated>2022-10-24T21:20:33.000Z</updated>
+        <summary type="html"><![CDATA[Contributing to open source can be a daunting prospect, especially if you haven't done so before, or if you're used to working on documentation rather than code. This guide will help technical writers get started contributing to open-source projects, and outline some of the common pitfalls you might encounter when]]></summary>
+        <author>
+            <name>Valentine Gatwiri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Swift Handbook – Learn Swift for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/the-swift-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/the-swift-handbook/"/>
+        <updated>2022-10-24T21:04:27.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to Swift The Swift programming language was created by Apple in 2014. It's the official language that works with the whole Apple Operating Systems lineup: iOS, iPadOS, watchOS, macOS, and tvOS. Swift is an open source, general purpose, compiled programming language that's statically typed. Every value has a type]]></summary>
+        <author>
+            <name>Flavio Copes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Select – Statement and Query Examples]]></title>
+        <id>https://www.freecodecamp.org/news/sql-select-statement-and-query-examples/</id>
+        <link href="https://www.freecodecamp.org/news/sql-select-statement-and-query-examples/"/>
+        <updated>2022-10-24T18:07:46.000Z</updated>
+        <summary type="html"><![CDATA[Structured Query Language (SQL) is a programming language that you use to manage data in relational databases. You can use SQL to create, read, update, and delete (CRUD) data in a relational database. You can write SQL queries to insert data with INSERT, read data with SELECT, update with UPDATE,]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Monetize Your Website with Microtransactions]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-monetize-your-website/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-monetize-your-website/"/>
+        <updated>2022-10-24T15:37:44.000Z</updated>
+        <summary type="html"><![CDATA[Web Monetization means that you can get money for every person that visits your website. Sounds good right? But how does it work?  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to monetize your website using microtransactions and the Interledger Protocol.]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Cloud Firestore in a React App]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-the-firebase-database-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-firebase-database-in-react/"/>
+        <updated>2022-10-24T15:08:06.000Z</updated>
+        <summary type="html"><![CDATA[Firebase provides some great services like NoSQL databases, authentication, cloud storage, and much more. In this tutorial, we will learn how to use your React application to read and add data to your Firebase database.  To demonstrate this, we will learn how to build a Todo app using React]]></summary>
+        <author>
+            <name>Edeh Israel Chidera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Entanglement Results Hint at Better Quantum Codes]]></title>
+        <id>https://www.quantamagazine.org/?p=120011</id>
+        <link href="https://www.quantamagazine.org/new-entanglement-results-hint-at-better-quantum-codes-20221024/"/>
+        <updated>2022-10-24T14:08:23.000Z</updated>
+        <summary type="html"><![CDATA[A team of physicists has entangled three photons over a considerable distance, which could lead to more powerful quantum cryptography.            
+The post New Entanglement Results Hint at Better Quantum Codes first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Allison Parshall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gradient Descent – Machine Learning Algorithm Example]]></title>
+        <id>https://www.freecodecamp.org/news/gradient-descent-machine-learning-algorithm-example/</id>
+        <link href="https://www.freecodecamp.org/news/gradient-descent-machine-learning-algorithm-example/"/>
+        <updated>2022-10-24T13:53:51.000Z</updated>
+        <summary type="html"><![CDATA[What is the Gradient Descent Algorithm? Gradient descent is probably the most popular machine learning algorithm. At its core, the algorithm exists to minimize errors as much as possible.  The aim of gradient descent as an algorithm is to minimize the cost function of a model. We can tell]]></summary>
+        <author>
+            <name>Salim Oyinlola</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — 👋 Any desk is a standing desk if you’re short enough]]></title>
         <id>634b4a70725d383ca43f088e</id>
@@ -1543,35 +1624,6 @@ The post Physicists Rewrite a Quantum Rule That Clashes With Our Universe first 
         <summary type="html"><![CDATA[Git and GitHub are common tools used in programming. They help you manage different versions of your code and collaborate with other developers. Building projects is one of the core parts of being a developer. And Git and GitHub are essential tools you'll use when building projects with others. But]]></summary>
         <author>
             <name>Segun Ajibola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #80 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-80/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-80/"/>
-        <updated>2022-09-24T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag, my friend!
-
-Do you know that with Safari 16 (released September 12), three long-awaited browser features are now cross-browser supported? Or that CSS provides a way to style language-specific quotation characters? Oooooor, why the CSS url() function doesn't work with custom properties?
-All the answers and much more are included in this week's Web Weekly. 🙈 Enjoy!
-And before we get started, welcome to the 91 new subscribers! I'm super excited to have you around! 👋
-3k subscribers, webweekly.email and the noonies
-
-On a personal note: so many exciting things happened last week!
-First, this tiny newsletter passed 3000 subscribers! 🎉 It's absurd that 3000 people receive an email from me weekly. Thank you all for reading along!
-Second, motivated by all this, I finally took the time …]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — 👋 0.1 + 0.2]]></title>
-        <id>63265fbf2667443708169345</id>
-        <link href="https://labnotes.org/weekend-reading-0-1-0-2/"/>
-        <updated>2022-09-24T20:20:21.000Z</updated>
-        <summary type="html"><![CDATA[This week we play Dungeon & Types, visualize our designs IRL, FOMO into the Metaverse, and wrestle a bear for a Belgium waffle.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
