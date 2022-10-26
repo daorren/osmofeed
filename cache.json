@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/python-lambda-function-explained/",
+          "author": "Ibrahim Abayomi Ogunbiyi",
+          "description": "One of the beautiful things about Python is that it is generally one of the most intuitive programming languages out there. Still, certain concepts can be difficult to grasp and comprehend. The lambda function is one of them.  I've been there. When I first started learning Python, I skipped",
+          "link": "https://www.freecodecamp.org/news/python-lambda-function-explained/",
+          "publishedOn": "2022-10-25T20:37:45.000Z",
+          "wordCount": 1725,
+          "title": "How the Python Lambda Function Works – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-pixabay-45246--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-ecommerce-website-using-next-js-and-planetscale/",
+          "author": "Sharvin Shah",
+          "description": "Hello, welcome to this tutorial. Today we're going to build a production-ready eCommerce website using ReactJS, TailwindCSS, PlanetScale, and Stripe. Before we begin, you should be familiar with the basics of React.js and Next.js to get the most out of this guide. If you're not and need to brush up,",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-ecommerce-website-using-next-js-and-planetscale/",
+          "publishedOn": "2022-10-25T16:30:14.000Z",
+          "wordCount": 6999,
+          "title": "How to Build a Production Ready eCommerce Website with ReactJS, TailwindCSS, PlanetScale and Stripe",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Add-a-heading.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-math-computer-science-degree-update/",
+          "author": "Quincy Larson",
+          "description": "Happy birthday to the global freeCodeCamp community. 8 years ago, we started this grass-roots community of learners. Back then, freeCodeCamp sounded like an improbable dream. But we all rolled up our sleeves and got to work making it a reality. Today, more than a million people use freeCodeCamp each day.",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-math-computer-science-degree-update/",
+          "publishedOn": "2022-10-25T13:52:49.000Z",
+          "wordCount": 2035,
+          "title": "freeCodeCamp Turns 8 Years Old: Data Science Courses + University Degrees Update",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/freeCodeCamp-Data-Science-Courses-and-Degrees.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/payment-request-api-javascript/",
           "author": "Atta ✨",
           "description": "The Payment Request API provides a cross-browser standard that lets you collect payments, addresses, and contact information from your customers. You can then use this info to process their order. It also facilitates the exchange of this information between the browser and the website. The fundamental idea behind this is",
@@ -1030,16 +1060,6 @@
           "wordCount": 1500,
           "title": "HTML Drop-down Menu – How to Add a Drop-Down List with the Select Element",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/cover-template--9-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/introduction-to-git-and-github/",
-          "author": "Segun Ajibola",
-          "description": "Git and GitHub are common tools used in programming. They help you manage different versions of your code and collaborate with other developers. Building projects is one of the core parts of being a developer. And Git and GitHub are essential tools you'll use when building projects with others. But",
-          "link": "https://www.freecodecamp.org/news/introduction-to-git-and-github/",
-          "publishedOn": "2022-09-26T05:23:00.000Z",
-          "wordCount": 2199,
-          "title": "How to Use Git and GitHub – Introduction for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Untitled-design--6-.png"
         }
       ]
     },
@@ -1048,6 +1068,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=120040",
+          "author": "Pradeep Mutalik",
+          "description": "Solve these puzzle questions to level up your Wordle game.            \nThe post How to Win at Wordle (Without Cheating) first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-to-win-at-wordle-without-cheating-20221025/",
+          "publishedOn": "2022-10-25T14:00:18.000Z",
+          "wordCount": 6314,
+          "title": "How to Win at Wordle (Without Cheating)",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/October_Puzzle_1200_Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=120011",
           "author": "Allison Parshall",

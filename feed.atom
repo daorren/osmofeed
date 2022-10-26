@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-25T02:35:36.492Z</updated>
+    <updated>2022-10-26T02:09:50.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How the Python Lambda Function Works – Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/python-lambda-function-explained/</id>
+        <link href="https://www.freecodecamp.org/news/python-lambda-function-explained/"/>
+        <updated>2022-10-25T20:37:45.000Z</updated>
+        <summary type="html"><![CDATA[One of the beautiful things about Python is that it is generally one of the most intuitive programming languages out there. Still, certain concepts can be difficult to grasp and comprehend. The lambda function is one of them.  I've been there. When I first started learning Python, I skipped]]></summary>
+        <author>
+            <name>Ibrahim Abayomi Ogunbiyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Production Ready eCommerce Website with ReactJS, TailwindCSS, PlanetScale and Stripe]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-ecommerce-website-using-next-js-and-planetscale/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-ecommerce-website-using-next-js-and-planetscale/"/>
+        <updated>2022-10-25T16:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Hello, welcome to this tutorial. Today we're going to build a production-ready eCommerce website using ReactJS, TailwindCSS, PlanetScale, and Stripe. Before we begin, you should be familiar with the basics of React.js and Next.js to get the most out of this guide. If you're not and need to brush up,]]></summary>
+        <author>
+            <name>Sharvin Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Win at Wordle (Without Cheating)]]></title>
+        <id>https://www.quantamagazine.org/?p=120040</id>
+        <link href="https://www.quantamagazine.org/how-to-win-at-wordle-without-cheating-20221025/"/>
+        <updated>2022-10-25T14:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Solve these puzzle questions to level up your Wordle game.            
+The post How to Win at Wordle (Without Cheating) first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Pradeep Mutalik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp Turns 8 Years Old: Data Science Courses + University Degrees Update]]></title>
+        <id>https://www.freecodecamp.org/news/freecodecamp-math-computer-science-degree-update/</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-math-computer-science-degree-update/"/>
+        <updated>2022-10-25T13:52:49.000Z</updated>
+        <summary type="html"><![CDATA[Happy birthday to the global freeCodeCamp community. 8 years ago, we started this grass-roots community of learners. Back then, freeCodeCamp sounded like an improbable dream. But we all rolled up our sleeves and got to work making it a reality. Today, more than a million people use freeCodeCamp each day.]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use the Payment Request API in JavaScript]]></title>
         <id>https://www.freecodecamp.org/news/payment-request-api-javascript/</id>
@@ -1614,16 +1655,6 @@ The post Physicists Rewrite a Quantum Rule That Clashes With Our Universe first 
         <summary type="html"><![CDATA[Many websites, applications, and web pages use drop-down menus to help display a list of information. You can use them to create navigation menus, options for forms, and more. If you're looking at some of these menus or lists, you might imagine how complex creating them could be. And yes]]></summary>
         <author>
             <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Git and GitHub – Introduction for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/introduction-to-git-and-github/</id>
-        <link href="https://www.freecodecamp.org/news/introduction-to-git-and-github/"/>
-        <updated>2022-09-26T05:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Git and GitHub are common tools used in programming. They help you manage different versions of your code and collaborate with other developers. Building projects is one of the core parts of being a developer. And Git and GitHub are essential tools you'll use when building projects with others. But]]></summary>
-        <author>
-            <name>Segun Ajibola</name>
         </author>
     </entry>
 </feed>
