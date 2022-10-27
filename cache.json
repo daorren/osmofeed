@@ -12,6 +12,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/find-meeting-time-schedule-meeting-microsoft-365/",
+          "author": "Waldek Mastykarz",
+          "description": "A common functionality that many work apps have is letting users schedule a meeting with others in their organization. Here's how to do it on Microsoft 365. Work Apps Need Work Data If your organization uses Microsoft 365, it should consider integrating it with apps that it uses for work.",
+          "link": "https://www.freecodecamp.org/news/find-meeting-time-schedule-meeting-microsoft-365/",
+          "publishedOn": "2022-10-26T21:34:19.000Z",
+          "wordCount": 1600,
+          "title": "How to Find a Meeting Time and Schedule a Meeting on Microsoft 365",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Screenshot-2022-10-25-at-13.03.43.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-devsecops-can-improve-cloud-security/",
+          "author": "Andrej Kovacevic",
+          "description": "There’s no doubt that DevSecOps is on the rise, as the need for fast but highly secure application delivery increases. A report by Emergen Research [https://www.prnewswire.com/news-releases/devsecops-market-size-to-reach-usd-23-42-billion-in-2028--rising-need-for-repeatable-and-adaptive-processes-and-increasing-need-for-custom-code-security-are-key-factors-driving-industry-demand-says-emergen-research-301481508.html]  shows that the DevSecOps market is set to reach a $23.42 billion value in 202",
+          "link": "https://www.freecodecamp.org/news/how-devsecops-can-improve-cloud-security/",
+          "publishedOn": "2022-10-26T21:28:20.000Z",
+          "wordCount": 1712,
+          "title": "How Can DevSecOps Improve Cloud Security?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/devsecops-role-guide.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/",
+          "author": "Zaira Hira",
+          "description": "In programming, you use variables to store information like strings and numbers temporarily.  Variables can be used repeatedly throughout the code or by your operating system to provide values. You can edit them, overwrite them, and delete them. In this tutorial, I'll teach you what environment variables are and",
+          "link": "https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/",
+          "publishedOn": "2022-10-26T18:38:21.000Z",
+          "wordCount": 1449,
+          "title": "How to Set an Environment Variable in Linux",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Copy-of-Copy-of-read-write-files-python--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/improve-website-accessibility-with-these-tips/",
+          "author": "Tooba Jamal",
+          "description": "An accessible website is designed in such a way that anyone can use it without difficulty.  During the website development process, you want to make sure that the end user has the best user experience. And that includes people with disabilities or those who faces challenges when using a",
+          "link": "https://www.freecodecamp.org/news/improve-website-accessibility-with-these-tips/",
+          "publishedOn": "2022-10-26T18:09:18.000Z",
+          "wordCount": 2193,
+          "title": "How to Improve Website Accessibility – 7 Helpful Tips",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/website_accessibility-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/computer-science-vs-information-technology-whats-the-difference/",
+          "author": "Kolade Chris",
+          "description": "To the average person, computer science and information technology might just seem like different names for the same thing. Well, computer science and information technology are related, but in the actual sense, they are two distinct fields when it comes to studying and choosing a career path. In this article,",
+          "link": "https://www.freecodecamp.org/news/computer-science-vs-information-technology-whats-the-difference/",
+          "publishedOn": "2022-10-26T16:24:40.000Z",
+          "wordCount": 1735,
+          "title": "Computer Science VS Information Technology – What's the Difference Between CS and IT?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/science-ge752bcd42_1280.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-how-graph-algorithms-work/",
+          "author": "Beau Carnes",
+          "description": "Graph algorithms and data structures are used to solve many real-word problems and are commonly needed to solve coding challenges. A graph data structures is a non-linear data structure consisting of vertices and edges. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn how",
+          "link": "https://www.freecodecamp.org/news/learn-how-graph-algorithms-work/",
+          "publishedOn": "2022-10-26T13:42:09.000Z",
+          "wordCount": 808,
+          "title": "Learn How Graph Algorithms Work",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/graphalgs2.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/python-lambda-function-explained/",
           "author": "Ibrahim Abayomi Ogunbiyi",
           "description": "One of the beautiful things about Python is that it is generally one of the most intuitive programming languages out there. Still, certain concepts can be difficult to grasp and comprehend. The lambda function is one of them.  I've been there. When I first started learning Python, I skipped",
@@ -980,86 +1040,6 @@
           "wordCount": 1619,
           "title": "What is Information Systems? Definition for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/christopher-gower-m_HRfLhgABo-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-java-programming/",
-          "author": "Beau Carnes",
-          "description": "Java has been one of the most popular programming languages for a long time. It is considered a general-purpose, concurrent, strongly typed, class-based object-oriented language. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you the Java programming language. This course is perfect for beginners.",
-          "link": "https://www.freecodecamp.org/news/learn-java-programming/",
-          "publishedOn": "2022-09-27T13:37:06.000Z",
-          "wordCount": 815,
-          "title": "Learn Java Programming (version 17)",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/java.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/linux-basics/",
-          "author": "Daniel Iwugo",
-          "description": "Time to learn how to use the operating system of the average hacker 🐧. In this article, we will take a little tour of:  * The Linux operating system  * Package management  * The Linux file structure  * The Command Line Interface And you get to",
-          "link": "https://www.freecodecamp.org/news/linux-basics/",
-          "publishedOn": "2022-09-26T23:20:22.000Z",
-          "wordCount": 4025,
-          "title": "Linux for Hackers – Basics for Cybersecurity Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/linux-basics-for-hackers.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-loop-through-an-array-with-for-loop-in-javascript/",
-          "author": "Dennis Temoye Charity",
-          "description": "A loop is an instruction in computer programming that allows an application to repeat a process until a specific condition is met. For example, say you want to run through a list of names and output each name on your screen. If you didn't use a loop, you'd end up",
-          "link": "https://www.freecodecamp.org/news/how-to-loop-through-an-array-with-for-loop-in-javascript/",
-          "publishedOn": "2022-09-26T23:14:42.000Z",
-          "wordCount": 1364,
-          "title": "JavaScript For loop – How to Loop Through an Array in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/1_9H5rmyp3MgrcA8i1emsJPg.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/iteration-in-golang/",
-          "author": "Ubaydah Abdulwasiu",
-          "description": "In programming, iteration (commonly known as looping) is a process where a step is repeated n number of times until a specific condition is met. Just like every other programming language, Golang has a way of iterating through different data structures and data types like structs, maps, arrays, strings, and",
-          "link": "https://www.freecodecamp.org/news/iteration-in-golang/",
-          "publishedOn": "2022-09-26T22:44:22.000Z",
-          "wordCount": 2082,
-          "title": "Iteration in Golang – How to Loop Through Data Structures in Go",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/How-to-perform-iteration-in-Golang-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-serverless-logic-with-azure-functions/",
-          "author": "Salim Oyinlola",
-          "description": "What is Serverless Computing? You can think of serverless computing as a function as a service, or a microservice that is hosted on a cloud platform.  In this setup, your business logic runs as functions, and you do not have to manually create or scale infrastructure. The cloud platform",
-          "link": "https://www.freecodecamp.org/news/how-to-create-serverless-logic-with-azure-functions/",
-          "publishedOn": "2022-09-26T22:35:00.000Z",
-          "wordCount": 2248,
-          "title": "How to Create Serverless Logic with Azure Functions",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/QWERTYUIOP.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-concepts-you-should-know-before-learning-react/",
-          "author": "Ashutosh Mishra",
-          "description": "React is one of the most popular JavaScript frameworks for building single page applications. Needless to say, as a JavaScript framework, it requires you to have a good knowledge of JavaScript concepts. In this article, we are going to take a look at some of those JavaScript concepts that you",
-          "link": "https://www.freecodecamp.org/news/javascript-concepts-you-should-know-before-learning-react/",
-          "publishedOn": "2022-09-26T19:22:52.000Z",
-          "wordCount": 2533,
-          "title": "The JavaScript Concepts You Should Know Before Learning React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-pixabay-417173--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/machine-learning-for-everybody/",
-          "author": "Beau Carnes",
-          "description": "Machine learning technology is now so common that you probably use it dozens of times a day without even realizing it. And since it has so many applications, the job prospects are great for anyone with a lot of machine learning experience. We just released a machine learning course on",
-          "link": "https://www.freecodecamp.org/news/machine-learning-for-everybody/",
-          "publishedOn": "2022-09-26T17:28:23.000Z",
-          "wordCount": 848,
-          "title": "Machine Learning for Everybody",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/machinelearning.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/html-drop-down-menu-how-to-add-a-drop-down-list-with-the-select-element/",
-          "author": "Joel Olawanle",
-          "description": "Many websites, applications, and web pages use drop-down menus to help display a list of information. You can use them to create navigation menus, options for forms, and more. If you're looking at some of these menus or lists, you might imagine how complex creating them could be. And yes",
-          "link": "https://www.freecodecamp.org/news/html-drop-down-menu-how-to-add-a-drop-down-list-with-the-select-element/",
-          "publishedOn": "2022-09-26T14:25:06.000Z",
-          "wordCount": 1500,
-          "title": "HTML Drop-down Menu – How to Add a Drop-Down List with the Select Element",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/cover-template--9-.png"
         }
       ]
     },
@@ -1068,6 +1048,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=120093",
+          "author": "Jonathan O'Callaghan",
+          "description": "A recent gamma-ray burst known as the BOAT — “brightest of all time” — appears to have produced a high-energy particle that shouldn’t exist. For some, dark matter provides the explanation.            \nThe post Brightest-Ever Space Explosion Reveals Possible Hints of Dark Matter first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/brightest-ever-space-explosion-could-help-explain-dark-matter-20221026/",
+          "publishedOn": "2022-10-26T13:50:03.000Z",
+          "wordCount": 5001,
+          "title": "Brightest-Ever Space Explosion Reveals Possible Hints of Dark Matter",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/BOAT-Gamma-Ray-Burst_1200_Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=120040",
           "author": "Pradeep Mutalik",
@@ -1257,16 +1247,6 @@
           "wordCount": 8295,
           "title": "How Big Is Infinity?",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/Infinity_academy_1200_Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=119061",
-          "author": "Charlie Wood",
-          "description": "The past and the future are tightly linked in conventional quantum mechanics. Perhaps too tightly. A tweak to the theory could let quantum possibilities increase as space expands.            \nThe post Physicists Rewrite a Quantum Rule That Clashes With Our Universe first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/physicists-rewrite-a-quantum-rule-that-clashes-with-our-universe-20220926/",
-          "publishedOn": "2022-09-26T14:41:16.000Z",
-          "wordCount": 8706,
-          "title": "Physicists Rewrite a Quantum Rule That Clashes With Our Universe",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/Unitarity_1200_Social.jpg"
         }
       ]
     },
@@ -1361,16 +1341,6 @@
           "wordCount": 1876,
           "title": "Web Almanac Highlights 2022 (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20Almanac%20Highlights%202022/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/an-app-to-open-your-current-finder-directory-in-vs-code/",
-          "author": null,
-          "description": "I just discovered the OpenInCode app. I'm not sure yet if I'll really use it, but I like the idea of a having a quick way to open a directory in VS Code with a single click.\nThe app is a little outdated and wonky but it works.\nFirst, the documenation is outdated: to install the app, use the following brew command.\nbrew install --cask open-in-code\n\nFollow the README instructions and you're good to go. There's a little issue with macOS dark mode but I can live with this.\nLet's see if I'll use it. 😉\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/notes/an-app-to-open-your-current-finder-directory-in-vs-code/",
-          "publishedOn": "2022-09-26T22:00:00.000Z",
-          "wordCount": 1283,
-          "title": "An app to open your current finder directory in VS Code (#note)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:An%20app%20to%20open%20your%20current%20finder%20directory%20in%20VS%20Code/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
