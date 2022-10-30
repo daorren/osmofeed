@@ -12,6 +12,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/tips-to-boost-your-seo/",
+          "author": "Edan Ben-Atar",
+          "description": "SEO (Search Engine Optimization) is essential for your online marketing strategy. It's the process of optimizing your site and content to help you get as much traffic as you can from search engines. Reaching top positions in the search engine results pages (SERPs) with your website is one of the",
+          "link": "https://www.freecodecamp.org/news/tips-to-boost-your-seo/",
+          "publishedOn": "2022-10-29T00:09:34.000Z",
+          "wordCount": 2809,
+          "title": "SEO Tips for Developers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/10-Tips-to-Boost-Your-SEO.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/learn-julia-by-coding-7-projects/",
           "author": "Logan Kilpatrick",
           "description": "The Julia programming language is used for a lot of really impactful and interesting challenges like Machine Learning and Data Science.  But before you can get to the complex stuff, it is worth exploring the basics to develop a solid foundation.  In this tutorial, we will go over",
@@ -1020,46 +1030,6 @@
           "wordCount": 2869,
           "title": "What is the DOM? A Behind-the-Scenes Guide",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/What-is-DOM-and-Events--in-JavaScipt--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/swap-two-array-elements-in-javascript/",
-          "author": "Joel Olawanle",
-          "description": "When you're working with arrays, there are times when you need to swap two elements in an array in JavaScript. Maybe you're working on an algorithm question such as the bubble sort algorithm where you need to compare two values and then swap them if your condition is true. Aside",
-          "link": "https://www.freecodecamp.org/news/swap-two-array-elements-in-javascript/",
-          "publishedOn": "2022-09-29T20:15:18.000Z",
-          "wordCount": 1395,
-          "title": "How to Swap Two Array Elements in JavaScript – Switch Elements in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/cover-template--11-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/whats-the-difference-between-authentication-and-authorisation/",
-          "author": "Grant Weatherston",
-          "description": "When you're starting out in web development, you'll likely hear the terms authentication and authorization all the time. And it doesn't help that they're both usually abbreviated 'auth', so it's very easy to get the two confused. In this article, you will learn:  * The differences between authentication and",
-          "link": "https://www.freecodecamp.org/news/whats-the-difference-between-authentication-and-authorisation/",
-          "publishedOn": "2022-09-29T17:45:49.000Z",
-          "wordCount": 2191,
-          "title": "Authentication vs Authorization – What's the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Background1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/bubble-sort-algorithm-in-java-cpp-python-with-example-code/",
-          "author": "Kolade Chris",
-          "description": "Bubble sort is a type of sorting algorithm you can use to arrange a set of values in ascending order. If you want, you can also implement bubble sort to sort the values in descending order. A real-world example of a bubble sort algorithm is how the contact list on",
-          "link": "https://www.freecodecamp.org/news/bubble-sort-algorithm-in-java-cpp-python-with-example-code/",
-          "publishedOn": "2022-09-29T17:34:36.000Z",
-          "wordCount": 2291,
-          "title": "Bubble Sort – Algorithm in Java, C++, Python with Example Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/bubbleSortCover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/css-selectors-cheat-sheet-for-beginners/",
-          "author": "Dionysia Lemonaki",
-          "description": "CSS selectors target and select the HTML elements you want to style. Specifically, CSS selectors allow you to select multiple elements at once. They are helpful when you want to apply the same styles to more than one HTML element, because you will not repeat yourself by writing the same",
-          "link": "https://www.freecodecamp.org/news/css-selectors-cheat-sheet-for-beginners/",
-          "publishedOn": "2022-09-29T15:22:20.000Z",
-          "wordCount": 4118,
-          "title": "CSS Selectors – Cheat Sheet for Class, Name, Child Selector List",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/laura-adai-s6U7Gq93UU8-unsplash.jpg"
         }
       ]
     },
@@ -1237,26 +1207,6 @@
           "wordCount": 5818,
           "title": "Geneticist Awarded Nobel Prize for Studies of Extinct Human Ancestors",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/Nobel_Medicine_Paabo_1200_Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=119316",
-          "author": "Pradeep Mutalik",
-          "description": "Readers rescued a Star Trek crew from a probabilistic predicament armed only with the power of mathematical reasoning.            \nThe post How Star Trek’s Lieutenant Uhura Overcame Astronomical Odds first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-star-treks-lieutenant-uhura-overcame-astronomical-odds-20220930/",
-          "publishedOn": "2022-09-30T13:26:28.000Z",
-          "wordCount": 6695,
-          "title": "How Star Trek’s Lieutenant Uhura Overcame Astronomical Odds",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Uhura_1200_social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=119250",
-          "author": "Tara C. Smith",
-          "description": "Even though we’ve learned a lot about this relative of smallpox, some mysteries remain due to a lack of political will.            \nThe post What We Know About Monkeypox first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/epidemiologist-what-we-know-about-monkeypox-20220929/",
-          "publishedOn": "2022-09-29T14:15:50.000Z",
-          "wordCount": 5502,
-          "title": "What We Know About Monkeypox",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/MonkeyPox_1200_Social.webp"
         }
       ]
     },
@@ -1265,6 +1215,16 @@
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
+        {
+          "id": "635476e3d138594ba4d75736",
+          "author": "Assaf Arkin",
+          "description": "This week React goes async, semantic HTML is not a vibe, we hire a Chief Deadline Officer, dust off the old printer, and play in the mud.",
+          "link": "https://labnotes.org/weekend-reading-inspiring-deadline/",
+          "publishedOn": "2022-10-29T22:35:11.000Z",
+          "wordCount": 1172,
+          "title": "Weekend Reading — 👻 Inspiring deadline",
+          "imageUrl": "https://labnotes.org/content/images/2022/10/m8gdp15avuv91.jpg.webp"
+        },
         {
           "id": "634b4a70725d383ca43f088e",
           "author": "Assaf Arkin",
@@ -1292,6 +1252,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/notes/a-javascript-free-custom-element-implementation/",
+          "author": null,
+          "description": "Some people love custom elements, and it seems that even more people are entirely against them. And while I'm leaning towards using them, today I learned a fascinating custom elements take.\nI've been reading one of Adam Argyle's excellent component walk-throughs, and Adam shared a tool-tip custom element that works without the usual customElements.define JavaScript instruction.\nTo quote Adam:\nYou could think of a custom element like a classname with less specificity.\nThat's an interesting take because it changes the mental model around custom elements! Custom elements are usually used to encapsulate functionality as web components with JavaScript, but one could also use them as another style hook with lower specificity than class selectors. Neat!\nUse Polypane's specificity calculator if you want to learn more about CSS specificity.\nAnd to make the custom element accessible, Adam's example tool-tip component receives its semantic meaning via ARIA...\n<tool-tip role=\"tooltip\">A tooltip</tool-tip>\n\n... and the show/hide functionality is then added via CSS has(). 😲\n/* Only show the custom element when its parent is hovered, focused, or activated */\n:has(> tool-tip):is(:hover, :focus-visible, :active) > tool-tip {\n opacity: 1;\n transition-delay: 200ms;\n}\n\nVery smart!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/notes/a-javascript-free-custom-element-implementation/",
+          "publishedOn": "2022-10-28T22:00:00.000Z",
+          "wordCount": 1355,
+          "title": "A JavaScript-free custom element implementation (#note)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20JavaScript-free%20custom%20element%20implementation/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-83/",
           "author": null,
@@ -1397,16 +1367,6 @@
           "publishedOn": "2022-10-07T00:00:00.000Z",
           "wordCount": 896,
           "title": "The hills are alive with the sound of gophers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/430",
-          "author": null,
-          "description": "#​430 — September 30, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nWhat's New in Go's Runtime: Four Years Later — It’s always fantastic to get a roundup from the core Go team on their progress, and while Go 1.13 through 1.18 have certainly seen their fair share of enhancements, we also get to learn a bit more about Go 1.19’s memory limit feature and improved garbage collection. Some highlights from the past few years:\n\n\nBig efficiency gains on multicore systems.\nGo's scheduler spends up to 30% less CPU time spinning.\nGo's GC limits its CPU use when the app is idle, reducing CPU spikes.\ndefer-red function calls now cost as little as regular function calls (mostly).\nMore efficient timer management.\nMichael Knyszek \n\n\n  \n  \nAutomatically Detect and Trac…",
-          "link": "https://golangweekly.com/issues/430",
-          "publishedOn": "2022-09-30T00:00:00.000Z",
-          "wordCount": 887,
-          "title": "Four years of quiet Go improvements",
           "imageUrl": null
         }
       ]

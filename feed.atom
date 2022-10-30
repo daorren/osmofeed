@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-29T02:00:09.800Z</updated>
+    <updated>2022-10-30T02:24:30.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 👻 Inspiring deadline]]></title>
+        <id>635476e3d138594ba4d75736</id>
+        <link href="https://labnotes.org/weekend-reading-inspiring-deadline/"/>
+        <updated>2022-10-29T22:35:11.000Z</updated>
+        <summary type="html"><![CDATA[This week React goes async, semantic HTML is not a vibe, we hire a Chief Deadline Officer, dust off the old printer, and play in the mud.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEO Tips for Developers]]></title>
+        <id>https://www.freecodecamp.org/news/tips-to-boost-your-seo/</id>
+        <link href="https://www.freecodecamp.org/news/tips-to-boost-your-seo/"/>
+        <updated>2022-10-29T00:09:34.000Z</updated>
+        <summary type="html"><![CDATA[SEO (Search Engine Optimization) is essential for your online marketing strategy. It's the process of optimizing your site and content to help you get as much traffic as you can from search engines. Reaching top positions in the search engine results pages (SERPs) with your website is one of the]]></summary>
+        <author>
+            <name>Edan Ben-Atar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Julia by Coding 7 Projects – Hands-On Programming Tutorial]]></title>
         <id>https://www.freecodecamp.org/news/learn-julia-by-coding-7-projects/</id>
@@ -24,6 +44,37 @@
         <summary type="html"><![CDATA[Recently my uncle, who lives in Australia, sent my parents, who live in South Africa, a flash drive that was full of pictures of our Australian family getting up to various Australian activities.  But it was very frustrating for my poor Mom when her laptop would not recognise the]]></summary>
         <author>
             <name>Gavin Lon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A JavaScript-free custom element implementation (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/a-javascript-free-custom-element-implementation/</id>
+        <link href="https://www.stefanjudis.com/notes/a-javascript-free-custom-element-implementation/"/>
+        <updated>2022-10-28T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Some people love custom elements, and it seems that even more people are entirely against them. And while I'm leaning towards using them, today I learned a fascinating custom elements take.
+I've been reading one of Adam Argyle's excellent component walk-throughs, and Adam shared a tool-tip custom element that works without the usual customElements.define JavaScript instruction.
+To quote Adam:
+You could think of a custom element like a classname with less specificity.
+That's an interesting take because it changes the mental model around custom elements! Custom elements are usually used to encapsulate functionality as web components with JavaScript, but one could also use them as another style hook with lower specificity than class selectors. Neat!
+Use Polypane's specificity calculator if you want to learn more about CSS specificity.
+And to make the custom element accessible, Adam's example tool-tip component receives its semantic meaning via ARIA...
+<tool-tip role="tooltip">A tooltip</tool-tip>
+
+... and the show/hide functionality is then added via CSS has(). 😲
+/* Only show the custom element when its parent is hovered, focused, or activated */
+:has(> tool-tip):is(:hover, :focus-visible, :active) > tool-tip {
+ opacity: 1;
+ transition-delay: 200ms;
+}
+
+Very smart!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
@@ -1575,111 +1626,6 @@ As every year, I…]]></summary>
         <summary type="html"><![CDATA[Understanding how the DOM and events work in JavaScript is key if you want to be an effective front end developer. In this article, you'll learn what the DOM is and how it works. What is the DOM? DOM stands for Document Object Model. It's the interface between JavaScript and]]></summary>
         <author>
             <name>Kedar Makode</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Star Trek’s Lieutenant Uhura Overcame Astronomical Odds]]></title>
-        <id>https://www.quantamagazine.org/?p=119316</id>
-        <link href="https://www.quantamagazine.org/how-star-treks-lieutenant-uhura-overcame-astronomical-odds-20220930/"/>
-        <updated>2022-09-30T13:26:28.000Z</updated>
-        <summary type="html"><![CDATA[Readers rescued a Star Trek crew from a probabilistic predicament armed only with the power of mathematical reasoning.            
-The post How Star Trek’s Lieutenant Uhura Overcame Astronomical Odds first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Pradeep Mutalik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four years of quiet Go improvements]]></title>
-        <id>https://golangweekly.com/issues/430</id>
-        <link href="https://golangweekly.com/issues/430"/>
-        <updated>2022-09-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​430 — September 30, 2022
-
-
-Unsubscribe  |  Read on the Web
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-What's New in Go's Runtime: Four Years Later — It’s always fantastic to get a roundup from the core Go team on their progress, and while Go 1.13 through 1.18 have certainly seen their fair share of enhancements, we also get to learn a bit more about Go 1.19’s memory limit feature and improved garbage collection. Some highlights from the past few years:
-
-
-Big efficiency gains on multicore systems.
-Go's scheduler spends up to 30% less CPU time spinning.
-Go's GC limits its CPU use when the app is idle, reducing CPU spikes.
-defer-red function calls now cost as little as regular function calls (mostly).
-More efficient timer management.
-Michael Knyszek 
-
-
-  
-  
-Automatically Detect and Trac…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Swap Two Array Elements in JavaScript – Switch Elements in JS]]></title>
-        <id>https://www.freecodecamp.org/news/swap-two-array-elements-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/swap-two-array-elements-in-javascript/"/>
-        <updated>2022-09-29T20:15:18.000Z</updated>
-        <summary type="html"><![CDATA[When you're working with arrays, there are times when you need to swap two elements in an array in JavaScript. Maybe you're working on an algorithm question such as the bubble sort algorithm where you need to compare two values and then swap them if your condition is true. Aside]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Authentication vs Authorization – What's the Difference?]]></title>
-        <id>https://www.freecodecamp.org/news/whats-the-difference-between-authentication-and-authorisation/</id>
-        <link href="https://www.freecodecamp.org/news/whats-the-difference-between-authentication-and-authorisation/"/>
-        <updated>2022-09-29T17:45:49.000Z</updated>
-        <summary type="html"><![CDATA[When you're starting out in web development, you'll likely hear the terms authentication and authorization all the time. And it doesn't help that they're both usually abbreviated 'auth', so it's very easy to get the two confused. In this article, you will learn:  * The differences between authentication and]]></summary>
-        <author>
-            <name>Grant Weatherston</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bubble Sort – Algorithm in Java, C++, Python with Example Code]]></title>
-        <id>https://www.freecodecamp.org/news/bubble-sort-algorithm-in-java-cpp-python-with-example-code/</id>
-        <link href="https://www.freecodecamp.org/news/bubble-sort-algorithm-in-java-cpp-python-with-example-code/"/>
-        <updated>2022-09-29T17:34:36.000Z</updated>
-        <summary type="html"><![CDATA[Bubble sort is a type of sorting algorithm you can use to arrange a set of values in ascending order. If you want, you can also implement bubble sort to sort the values in descending order. A real-world example of a bubble sort algorithm is how the contact list on]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Selectors – Cheat Sheet for Class, Name, Child Selector List]]></title>
-        <id>https://www.freecodecamp.org/news/css-selectors-cheat-sheet-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/css-selectors-cheat-sheet-for-beginners/"/>
-        <updated>2022-09-29T15:22:20.000Z</updated>
-        <summary type="html"><![CDATA[CSS selectors target and select the HTML elements you want to style. Specifically, CSS selectors allow you to select multiple elements at once. They are helpful when you want to apply the same styles to more than one HTML element, because you will not repeat yourself by writing the same]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What We Know About Monkeypox]]></title>
-        <id>https://www.quantamagazine.org/?p=119250</id>
-        <link href="https://www.quantamagazine.org/epidemiologist-what-we-know-about-monkeypox-20220929/"/>
-        <updated>2022-09-29T14:15:50.000Z</updated>
-        <summary type="html"><![CDATA[Even though we’ve learned a lot about this relative of smallpox, some mysteries remain due to a lack of political will.            
-The post What We Know About Monkeypox first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Tara C. Smith</name>
         </author>
     </entry>
 </feed>
