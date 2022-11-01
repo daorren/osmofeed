@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-31T02:23:23.440Z</updated>
+    <updated>2022-11-01T02:29:12.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Event Bubbling in JavaScript – How Event Propagation Works with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/event-bubbling-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/event-bubbling-in-javascript/"/>
+        <updated>2022-10-31T21:04:17.000Z</updated>
+        <summary type="html"><![CDATA[HTML elements receive different types of events, from click, to blur, to scroll, and so on. One behavior these events have in common is Event Bubbling. I'll explain what this behavior means in this article. I also made a video version of this article which you can watch here [https://www.youtube.com/watch?v=KaHZdW02Tg0].]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeError: 'int' object is not subscriptable [Solved Python Error]]]></title>
+        <id>https://www.freecodecamp.org/news/python-typeerror-int-object-not-subscriptable-solved/</id>
+        <link href="https://www.freecodecamp.org/news/python-typeerror-int-object-not-subscriptable-solved/"/>
+        <updated>2022-10-31T17:37:23.000Z</updated>
+        <summary type="html"><![CDATA[The Python error "TypeError: 'int' object is not subscriptable" occurs when you try to treat an integer like a subscriptable object. In Python, a subscriptable object is one you can “subscript” or iterate over. Why the "TypeError: 'int' object is not subscriptable Error" Occurs You can iterate over a string,]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Infrastructure as Code with AWS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-implement-infrastructure-as-code-with-aws/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-infrastructure-as-code-with-aws/"/>
+        <updated>2022-10-31T17:07:04.000Z</updated>
+        <summary type="html"><![CDATA[Infrastructure as code is the process of provisioning and managing your cloud resources by writing a template file that is both human-readable and machine consumable.  For AWS cloud development, the built-in choice for infrastructure as code is AWS CloudFormation. Using IaC, developers can manage a project’s infrastructure efficiently, allowing]]></summary>
+        <author>
+            <name>Kayode Adeniyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Mathematicians Study Knots]]></title>
+        <id>https://www.quantamagazine.org/?p=120197</id>
+        <link href="https://www.quantamagazine.org/why-mathematicians-study-knots-20221031/"/>
+        <updated>2022-10-31T16:36:49.000Z</updated>
+        <summary type="html"><![CDATA[Far from being an abstract mathematical curiosity, knot theory has driven many findings in math and beyond.            
+The post Why Mathematicians Study Knots first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>David S. Richeson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How JavaScript's Proxy Object Works – Explained with Example Use Cases]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-proxy-object/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-proxy-object/"/>
+        <updated>2022-10-31T14:56:30.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you are going to learn what a proxy object is, along with its limitations. We will also look into some of the use cases that demonstrate how you can use proxy objects to solve various problems. Without further ado, let’s get started. Table of Contents  *]]></summary>
+        <author>
+            <name>Keyur Paralkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Firebase Authentication in a React App]]></title>
+        <id>https://www.freecodecamp.org/news/use-firebase-authentication-in-a-react-app/</id>
+        <link href="https://www.freecodecamp.org/news/use-firebase-authentication-in-a-react-app/"/>
+        <updated>2022-10-31T14:54:20.000Z</updated>
+        <summary type="html"><![CDATA[Almost every web application requires some form of authentication. This prevents unauthorized users from having access to the app's inner workings.  In this tutorial, you will learn how to authenticate your React app with the Firebase SDK. How to Authenticate with Firebase Authenticating with Firebase makes things easy for]]></summary>
+        <author>
+            <name>Edeh Israel Chidera</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — 👻 Inspiring deadline]]></title>
         <id>635476e3d138594ba4d75736</id>
@@ -1535,26 +1596,6 @@ The post Pioneering Quantum Physicists Win Nobel Prize in Physics first appeared
 The post Geneticist Awarded Nobel Prize for Studies of Extinct Human Ancestors first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Yasemin Saplakoglu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #81 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-81/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-81/"/>
-        <updated>2022-10-01T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag, my friend!
-
-Do you know that VS Code has a built-in version control system outside of Git? Or that SVG filters can be inlined in CSS? Or that you can soon find all render-blocking resources via JavaScript?
-All the answers and much more are included in this week's Web Weekly. 🙈 Enjoy!
-Welcome to the 44 new subscribers! I'm super excited to have you around! 👋
-Thought of the week
-
-As you may know, I like making lists. 🙈
-My blog includes multiple link lists, and even my most successful open source project, Tiny Helpers, is just a public list.
-Whenever I feel something could be valuable in the future, I just have the urge to put it somewhere. I might need it, right? One could also say this newsletter is just that — a list.
-And even though I tried Obsidian and Notion, none of these…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
