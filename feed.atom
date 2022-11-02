@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-01T02:29:12.255Z</updated>
+    <updated>2022-11-02T02:19:54.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Event Delegation in JavaScript –Explained with an Example]]></title>
+        <id>https://www.freecodecamp.org/news/event-delegation-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/event-delegation-javascript/"/>
+        <updated>2022-11-01T17:58:39.000Z</updated>
+        <summary type="html"><![CDATA[Event Delegation is a pattern based upon the concept of Event Bubbling [/news/event-bubbling-in-javascript/]. It is an event-handling pattern that allows you to handle events at a higher level in the DOM tree other than the level where the event was first received. There's a video version of this topic [https://www.youtube.com/watch?v=aZ3JWv0ofuA]]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Full Stack Development – HTML, CSS, JavaScript, Node.js, MongoDB]]></title>
+        <id>https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/</id>
+        <link href="https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/"/>
+        <updated>2022-11-01T16:57:54.000Z</updated>
+        <summary type="html"><![CDATA[Full stack development is a term used to describe the process of developing a complete website or application from start to finish. A full stack developer is a web developer who can work on all parts of a website or application, from the back-end code that powers the site to]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Errors in Python – the try, except, else, and finally Keywords Explained]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-handle-errors-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-handle-errors-in-python/"/>
+        <updated>2022-11-01T14:53:34.000Z</updated>
+        <summary type="html"><![CDATA[> “It’s hard enough to find an error in your code when you’re looking for it; it’s even harder when you’ve assumed your code is error-free.” ― Steve McConnell Errors are inevitable in a programmer's life. In fact, while writing programs, errors can be really helpful in identifying the logic]]></summary>
+        <author>
+            <name>P S Mohammed Ali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Mathematician Who Fled to Freedom but Still Stares Down Doubts]]></title>
+        <id>https://www.quantamagazine.org/?p=120268</id>
+        <link href="https://www.quantamagazine.org/in-math-and-life-svetlana-jitomirskaya-stares-down-complexity-20221101/"/>
+        <updated>2022-11-01T13:53:54.000Z</updated>
+        <summary type="html"><![CDATA[Svetlana Jitomirskaya was born in Ukraine, but left the Soviet Union to escape sexism and antisemitism. Even though her work in mathematical physics has now been honored with one of the field’s top prizes, she finds herself still fighting old battles.             
+The post A Mathematician Who Fled to Freedom but Still Stares Down Doubts first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Jordana Cepelewicz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Event Bubbling in JavaScript – How Event Propagation Works with Examples]]></title>
         <id>https://www.freecodecamp.org/news/event-bubbling-in-javascript/</id>
@@ -1585,17 +1626,6 @@ The post Pioneering Quantum Physicists Win Nobel Prize in Physics first appeared
         <summary type="html"><![CDATA[Have you ever experienced a “PAGE NOT FOUND” error when trying to access or refresh an application that uses React Router? Don't worry, you're not alone. In this article, you will learn how to deploy a React application that uses react-router without any problems. The Problem with Deploying react-router Apps]]></summary>
         <author>
             <name>Edeh Israel Chidera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geneticist Awarded Nobel Prize for Studies of Extinct Human Ancestors]]></title>
-        <id>https://www.quantamagazine.org/?p=119283</id>
-        <link href="https://www.quantamagazine.org/extinct-human-genomes-studies-win-nobel-prize-for-medicine-2022-20221003/"/>
-        <updated>2022-10-03T09:45:32.000Z</updated>
-        <summary type="html"><![CDATA[Svante Pääbo has been awarded the 2022 Nobel Prize in Physiology or Medicine for studying our extinct ancestors’ DNA.            
-The post Geneticist Awarded Nobel Prize for Studies of Extinct Human Ancestors first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Yasemin Saplakoglu</name>
         </author>
     </entry>
 </feed>
