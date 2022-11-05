@@ -2,10 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-04T02:06:45.823Z</updated>
+    <updated>2022-11-05T01:59:56.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TypeError: module object is not callable [Python Error Solved]]]></title>
+        <id>https://www.freecodecamp.org/news/typeerror-module-object-is-not-callable-python-error-solved/</id>
+        <link href="https://www.freecodecamp.org/news/typeerror-module-object-is-not-callable-python-error-solved/"/>
+        <updated>2022-11-04T22:17:35.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll talk about the "TypeError: 'module' object is not callable" error in Python.  We'll start by defining some of the keywords found in the error message — module  and callable.  You'll then see some examples that raise the error, and how to fix it.]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailwind CSS Landing Page Themes for Busy Developers]]></title>
+        <id>https://www.freecodecamp.org/news/tailwind-css-landing-pages-and-themes-for-busy-developers/</id>
+        <link href="https://www.freecodecamp.org/news/tailwind-css-landing-pages-and-themes-for-busy-developers/"/>
+        <updated>2022-11-04T21:44:34.000Z</updated>
+        <summary type="html"><![CDATA[Developers across all levels of experience spend hours hunched over their computers, trying to translate the UI designer's ideas into a functional website or application. Considering that you're reading this, chances are that this is a pretty relatable scenario for you. And you know all too well just how tedious]]></summary>
+        <author>
+            <name>Edan Ben-Atar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the SQL CASE Statement – with Example Challenge]]></title>
+        <id>https://www.freecodecamp.org/news/sql-case-statement/</id>
+        <link href="https://www.freecodecamp.org/news/sql-case-statement/"/>
+        <updated>2022-11-04T14:28:57.000Z</updated>
+        <summary type="html"><![CDATA[Writing SQL with multiple conditions can be an arduous task, especially if you need to make numerous checks.  For example, an if () else if () else {} check case expression handles all SQL conditionals. If the first condition is satisfied, the query stops executing with a return value.]]></summary>
+        <author>
+            <name>Sule-Balogun Olanrewaju Ganiu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go is 'boring' and that's good.]]></title>
+        <id>https://golangweekly.com/issues/435</id>
+        <link href="https://golangweekly.com/issues/435"/>
+        <updated>2022-11-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#​435 — November 4, 2022
+
+
+Unsubscribe  |  Read on the Web
+
+
+
+    
+Together with 
+        
+          
+          
+          
+        
+      
+
+    
+    
+
+The Go Weekly Newsletter
+
+
+
+
+  
+
+
+
+
+
+  
+  
+▶  How Go Programs Keep Working (By Being Boring) — In a talk given at GopherCon 2022 last month, Russ dug into Go’s “compatibility promise” that ensures your Go code will keep working even as the Go runtime evolves. “Boring can be good,”  Russ says.
+Russ Cox 
+
+
+  
+  
+'The Real Problem with Go' — Some yin to Russ's yang! This author’s complaint is around the challenges around contributing to Go and perceived bottlenecks in the project’s processes. These sorts of posts often inspire discussion and so did this one: over on Hacker News.
+Vanity Notes 
+
+
+  
+  
+Gophers - Opportunity is Knocking — We’re a…]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[String to Int in Java – How to Convert a String to an Integer]]></title>
         <id>https://www.freecodecamp.org/news/how-to-convert-a-string-to-an-integer-in-java/</id>
@@ -1586,56 +1670,6 @@ The post ‘Monumental’ Math Proof Solves Triple Bubble Problem and More first
         <summary type="html"><![CDATA[My comprehensive PyTorch course is now live on the freeCodeCamp.org YouTube channel.   * You can view the full 26 hour course here [https://youtu.be/V_xro1bcAuA].  * Read the course materials online for free at learnpytorch.io    [https://learnpytorch.io/].  * See all of the course materials on GitHub]]></summary>
         <author>
             <name>Daniel Bourke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use React Helmet – With Example Use Case]]></title>
-        <id>https://www.freecodecamp.org/news/react-helmet-examples/</id>
-        <link href="https://www.freecodecamp.org/news/react-helmet-examples/"/>
-        <updated>2022-10-05T16:36:10.000Z</updated>
-        <summary type="html"><![CDATA[Because of the nature of single page applications (SPAs), modifying metadata in React apps can be tricky without using a helper library. Lucky for us, that library already exists – and it's called React Helmet. Leveraging Helmet for metadata inclusion can significantly simplify the process of making a React app SEO]]></summary>
-        <author>
-            <name>Scott Gary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VLOOKUP in Excel – Formula and Example Function]]></title>
-        <id>https://www.freecodecamp.org/news/vlookup-in-excel-formula-and-example-function/</id>
-        <link href="https://www.freecodecamp.org/news/vlookup-in-excel-formula-and-example-function/"/>
-        <updated>2022-10-05T16:26:42.000Z</updated>
-        <summary type="html"><![CDATA[In Excel, VLOOKUP() means vertical lookup. It is a powerful built-in function you can use to quickly search for a value in a spreadsheet. VLOOKUP() searches for a value in a vertical manner across the sheet – unlike the HLOOKUP() function which does it horizontally. Before using VLOOKUP(), make sure]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Functions Tutorial – IIFE, Function Parameters, and Code Blocks Explained]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/"/>
-        <updated>2022-10-05T16:06:29.000Z</updated>
-        <summary type="html"><![CDATA[Functions are one of the most widely-used features in programming. So, it helps to have a solid understanding of how they work. This tutorial discusses everything you need to know to use JavaScript functions like a pro. Table of Contents  1.  What Is a Function?  2.]]></summary>
-        <author>
-            <name>Oluwatobi Sofela</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big O Cheat Sheet – Time Complexity Chart]]></title>
-        <id>https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/</id>
-        <link href="https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/"/>
-        <updated>2022-10-05T15:00:53.000Z</updated>
-        <summary type="html"><![CDATA[An algorithm is a set of well-defined instructions for solving a specific problem. You can solve these problems in various ways. This means that the method you use to arrive at the same solution may differ from mine, but we should both get the same result. Because there are various]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Validate your Machine Learning Models Using TensorFlow Model Analysis]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-validate-machine-learning-models-with-tensorflow-model-analysis/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-validate-machine-learning-models-with-tensorflow-model-analysis/"/>
-        <updated>2022-10-05T14:37:09.000Z</updated>
-        <summary type="html"><![CDATA[My first deployed Machine Learning model was a failure. It was a simple Diabetes Diagnosis Model for potential diabetes mellitus patients – and quite frankly, I was beyond excited on deployment.  But the excitement soon disappeared when I received feedback from users. Simply put, the users felt the model]]></summary>
-        <author>
-            <name>Salim Oyinlola</name>
         </author>
     </entry>
 </feed>
