@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-05T01:59:56.401Z</updated>
+    <updated>2022-11-06T02:02:44.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -1570,106 +1570,6 @@ For example, if you find some outdated browser support information, head over to
         <summary type="html"><![CDATA[Recursion works similarly to how loops do in JavaScript. Loops allow you to execute a set of code multiple times as long as a condition is true. In this article, I will explain what Recursion is and how it works in JavaScript. In loops, when the condition becomes false, the]]></summary>
         <author>
             <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The hills are alive with the sound of gophers]]></title>
-        <id>https://golangweekly.com/issues/431</id>
-        <link href="https://golangweekly.com/issues/431"/>
-        <updated>2022-10-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​431 — October 7, 2022
-
-
-Unsubscribe  |  Read on the Web
-
-
-
-    
-Together with 
-        
-          
-          
-          
-        
-      
-
-    
-    
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-How Do You Solve a Problem Like for Loop Variables? — Russ Cox began a discussion about what changes could be made to Go to resolve a tripping point around per-iteration vs per-loop binding of variables in loops – an issue first raised five years ago and common enough to be in Go’s FAQ. 
-It's more complicated than you might think and this discussion provides a lot of insight, including from a C# core developer who shares how C# handled the same issue.
-Russ Cox 
-
-
-  
-  
-How a Bank Migrated Its Monorepo Seamlessly from Dep to Modules — While modules aren’t exactly new anymore, there are still quite a …]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python For Beginners Courses Ranked from Best to Worst – freeCodeCamp Edition]]></title>
-        <id>https://www.freecodecamp.org/news/freecodecamp-python-courses-ranked-from-best-to-worst/</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-python-courses-ranked-from-best-to-worst/"/>
-        <updated>2022-10-06T19:54:42.000Z</updated>
-        <summary type="html"><![CDATA[Does freeCodeCamp really need yet another Python course?   Click for answer.  Between the curriculum and the YouTube channel, freeCodeCamp has quite a few Python programming courses. But which Python course should you take? In this article, I'll rank every singe freeCodeCamp beginner's Python course from best to]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Stack Data Structure to Solve Coding Challenges]]></title>
-        <id>https://www.freecodecamp.org/news/stack-data-structure-solve-coding-challenges/</id>
-        <link href="https://www.freecodecamp.org/news/stack-data-structure-solve-coding-challenges/"/>
-        <updated>2022-10-06T18:48:30.000Z</updated>
-        <summary type="html"><![CDATA[The stack data structure is used frequently in programming, sometimes behind-the-scenes. And questions involving the stack data structure are very common in coding interviews. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use the stack data structure to solve the type of]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Monumental’ Math Proof Solves Triple Bubble Problem and More]]></title>
-        <id>https://www.quantamagazine.org/?p=119509</id>
-        <link href="https://www.quantamagazine.org/monumental-math-proof-solves-triple-bubble-problem-and-more-20221006/"/>
-        <updated>2022-10-06T16:54:27.000Z</updated>
-        <summary type="html"><![CDATA[The decades-old Sullivan’s conjecture, about the best way to minimize the surface area of a bubble cluster, was thought to be out of reach for three bubbles and up — until a new breakthrough result.            
-The post ‘Monumental’ Math Proof Solves Triple Bubble Problem and More first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Erica Klarreich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP Implode – Convert Array to String with Join]]></title>
-        <id>https://www.freecodecamp.org/news/php-implode-convert-array-to-string-with-join/</id>
-        <link href="https://www.freecodecamp.org/news/php-implode-convert-array-to-string-with-join/"/>
-        <updated>2022-10-06T16:14:10.000Z</updated>
-        <summary type="html"><![CDATA[In PHP, the implode() function is a built-in function that takes an array and converts it to a string. implode() doesn’t modify the original array. It doesn’t matter whether the array is an indexed or associative array. Once you pass in the array to implode(), it joins all the values]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn PyTorch for Deep Learning – Free 26-Hour Course]]></title>
-        <id>https://www.freecodecamp.org/news/learn-pytorch-for-deep-learning-in-day/</id>
-        <link href="https://www.freecodecamp.org/news/learn-pytorch-for-deep-learning-in-day/"/>
-        <updated>2022-10-06T14:48:39.000Z</updated>
-        <summary type="html"><![CDATA[My comprehensive PyTorch course is now live on the freeCodeCamp.org YouTube channel.   * You can view the full 26 hour course here [https://youtu.be/V_xro1bcAuA].  * Read the course materials online for free at learnpytorch.io    [https://learnpytorch.io/].  * See all of the course materials on GitHub]]></summary>
-        <author>
-            <name>Daniel Bourke</name>
         </author>
     </entry>
 </feed>

@@ -1010,46 +1010,6 @@
           "wordCount": 2285,
           "title": "How Does Recursion Work? Simplified in JavaScript with Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/recursion-js.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/freecodecamp-python-courses-ranked-from-best-to-worst/",
-          "author": "Beau Carnes",
-          "description": "Does freeCodeCamp really need yet another Python course?   Click for answer.  Between the curriculum and the YouTube channel, freeCodeCamp has quite a few Python programming courses. But which Python course should you take? In this article, I'll rank every singe freeCodeCamp beginner's Python course from best to",
-          "link": "https://www.freecodecamp.org/news/freecodecamp-python-courses-ranked-from-best-to-worst/",
-          "publishedOn": "2022-10-06T19:54:42.000Z",
-          "wordCount": 1425,
-          "title": "Python For Beginners Courses Ranked from Best to Worst – freeCodeCamp Edition",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pythoninstructors-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/stack-data-structure-solve-coding-challenges/",
-          "author": "Beau Carnes",
-          "description": "The stack data structure is used frequently in programming, sometimes behind-the-scenes. And questions involving the stack data structure are very common in coding interviews. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use the stack data structure to solve the type of",
-          "link": "https://www.freecodecamp.org/news/stack-data-structure-solve-coding-challenges/",
-          "publishedOn": "2022-10-06T18:48:30.000Z",
-          "wordCount": 948,
-          "title": "How to Use the Stack Data Structure to Solve Coding Challenges",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/stack.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/php-implode-convert-array-to-string-with-join/",
-          "author": "Kolade Chris",
-          "description": "In PHP, the implode() function is a built-in function that takes an array and converts it to a string. implode() doesn’t modify the original array. It doesn’t matter whether the array is an indexed or associative array. Once you pass in the array to implode(), it joins all the values",
-          "link": "https://www.freecodecamp.org/news/php-implode-convert-array-to-string-with-join/",
-          "publishedOn": "2022-10-06T16:14:10.000Z",
-          "wordCount": 1366,
-          "title": "PHP Implode – Convert Array to String with Join",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/implode.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-pytorch-for-deep-learning-in-day/",
-          "author": "Daniel Bourke",
-          "description": "My comprehensive PyTorch course is now live on the freeCodeCamp.org YouTube channel.   * You can view the full 26 hour course here [https://youtu.be/V_xro1bcAuA].  * Read the course materials online for free at learnpytorch.io    [https://learnpytorch.io/].  * See all of the course materials on GitHub",
-          "link": "https://www.freecodecamp.org/news/learn-pytorch-for-deep-learning-in-day/",
-          "publishedOn": "2022-10-06T14:48:39.000Z",
-          "wordCount": 1730,
-          "title": "Learn PyTorch for Deep Learning – Free 26-Hour Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pytorch24.png"
         }
       ]
     },
@@ -1227,16 +1187,6 @@
           "wordCount": 5482,
           "title": "Machine Learning Highlights a Hidden Order in Scents",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/Digital-Smell-Model_1200_Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=119509",
-          "author": "Erica Klarreich",
-          "description": "The decades-old Sullivan’s conjecture, about the best way to minimize the surface area of a bubble cluster, was thought to be out of reach for three bubbles and up — until a new breakthrough result.            \nThe post ‘Monumental’ Math Proof Solves Triple Bubble Problem and More first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/monumental-math-proof-solves-triple-bubble-problem-and-more-20221006/",
-          "publishedOn": "2022-10-06T16:54:27.000Z",
-          "wordCount": 7753,
-          "title": "‘Monumental’ Math Proof Solves Triple Bubble Problem and More",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/Multi-Bubble-Conjecture_520x292.webp"
         }
       ]
     },
@@ -1377,16 +1327,6 @@
           "publishedOn": "2022-10-14T00:00:00.000Z",
           "wordCount": 1015,
           "title": "If at first your code doesn't succeed, `try`, `try` again?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/431",
-          "author": null,
-          "description": "#​431 — October 7, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\n    \nTogether with \n        \n          \n          \n          \n        \n      \n\n    \n    \n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nHow Do You Solve a Problem Like for Loop Variables? — Russ Cox began a discussion about what changes could be made to Go to resolve a tripping point around per-iteration vs per-loop binding of variables in loops – an issue first raised five years ago and common enough to be in Go’s FAQ. \nIt's more complicated than you might think and this discussion provides a lot of insight, including from a C# core developer who shares how C# handled the same issue.\nRuss Cox \n\n\n  \n  \nHow a Bank Migrated Its Monorepo Seamlessly from Dep to Modules — While modules aren’t exactly new anymore, there are still quite a …",
-          "link": "https://golangweekly.com/issues/431",
-          "publishedOn": "2022-10-07T00:00:00.000Z",
-          "wordCount": 896,
-          "title": "The hills are alive with the sound of gophers",
           "imageUrl": null
         }
       ]
