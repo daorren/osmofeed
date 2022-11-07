@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-06T02:02:44.868Z</updated>
+    <updated>2022-11-07T01:57:03.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 👋 No-vember: learn to say "no" to feature requests]]></title>
+        <id>635dab23986b4b3ed6ac0b41</id>
+        <link href="https://labnotes.org/weekend-reading-no-vember-learn-to-say-no-to-feature-requests/"/>
+        <updated>2022-11-06T20:55:26.000Z</updated>
+        <summary type="html"><![CDATA[This week we talk about server-side image rendering, making great presentations, and the opposite sides of fine-tuned AI art.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A native shell alternative to the trash-cli (#snippet)]]></title>
+        <id>https://www.stefanjudis.com/snippets/a-native-shell-alternative-to-the-trash-cli/</id>
+        <link href="https://www.stefanjudis.com/snippets/a-native-shell-alternative-to-the-trash-cli/"/>
+        <updated>2022-11-05T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Wes Bos has advocated using the trash-cli instead of the rm command this week.
+The reasoning: rm is unrecoverable. Once you remove files or directories using rm, they're gone. Ergo, you can bring yourself into real trouble using rm.
+I assume one could do some wild forensic stuff to restore bits and bytes on your hard drive, but the deleted files have to be very important to go this route.
+trash can help out here! The command doesn't delete files but moves them to your operating system's trash directory. When you then accidentally delete something important, head over to your lovely bin icon and recover files from there!
+But here's the kicker: installing the global trash-cli package comes with 829 dependency files. Markdown, JavaScript, JSON and license files are all at your service, making up a whopping 4.3MB heavy node_modules directory.
+Sure, 4 MB isn't an issue for me on my developer machine. And the command runs fast enough to protect me and my fat fingers from self-destruction. But still, that's a lot of dependency code to move files into another directory, isn't it?
+A native trash CLI function
+
+Liran Tal thought the same and shared a nifty four-liner giving you all of trash's functionality.
+trash() {
+  echo "[x] moving files to trash..."
+  mv "$@" "$HOME/.trash"
+}
+
+I played around with Liran's function and adjusted it also to support multiple files.
+# ✅ globs          – `trash file-*-.txt`
+# ✅ directories    – `trash directory`
+# ✅ multiple files - `trash file-1 dir-1 file-2`
+function trash() {
+  echo "🗑️  Moving files to trash..."
+
+  for var in "$@"
+  do
+    mv "$var" "$HOME/.trash"
+  done
+}
+
+So far, my new trash command has been working great. I'll let you know when I'll discover any issues!
+Disclaimer: I only tested this shell function in my environment: macOS and ZSH.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeError: module object is not callable [Python Error Solved]]]></title>
         <id>https://www.freecodecamp.org/news/typeerror-module-object-is-not-callable-python-error-solved/</id>
@@ -1522,54 +1575,6 @@ The post How Do You Prove a Secret? first appeared on Quanta Magazine]]></summar
 The post Machine Learning Highlights a Hidden Order in Scents first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Allison Parshall</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #82 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-82/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-82/"/>
-        <updated>2022-10-07T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag, my friend!
-
-Have you ever wondered if the Largest Contentful Paint metric measures unimportant things? Or do you know that some ARIA attributes aren't considered by translation tools? Or that there's a CSS property to avoid reflows when your content grows so that you need a scrollbar?
-All the answers and much more are included in this week's Web Weekly. 🙈 Enjoy!
-Welcome to the 19 new subscribers! I'm super excited to have you around! 👋
-💡 Thought of the week
-
-MDN is probably the most important webdev resource out there. It's THE documentation of the web. And while most of us only read it, you can contribute, too.
-For example, if you find some outdated browser support information, head over to the "mdn/browser-compat-data" repo and propose an update! It's all structured JSON fi…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript Generics – Use Case and Examples]]></title>
-        <id>https://www.freecodecamp.org/news/typescript-generics-use-case-example/</id>
-        <link href="https://www.freecodecamp.org/news/typescript-generics-use-case-example/"/>
-        <updated>2022-10-07T20:49:10.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you'll learn the basics of generics in TypeScript. We'll discuss how to use them and when they're useful in your code. Use Case for Generics Let's start with a simple example, where you want to print the value of an argument passed: function printData(data: number) {]]></summary>
-        <author>
-            <name>Aman Kalra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Check if a String Contains a Substring in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-check-if-a-string-contains-a-substring-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-check-if-a-string-contains-a-substring-javascript/"/>
-        <updated>2022-10-07T18:00:38.000Z</updated>
-        <summary type="html"><![CDATA[When you're working with a JavaScript program, you might need to check whether a string contains a substring. A substring is a string inside another string. Specifically, you might need to check whether a word contains a specific character or a specific set of characters. Thankfully, there are a few]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does Recursion Work? Simplified in JavaScript with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/recursion-in-javascript-simplified/</id>
-        <link href="https://www.freecodecamp.org/news/recursion-in-javascript-simplified/"/>
-        <updated>2022-10-07T17:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Recursion works similarly to how loops do in JavaScript. Loops allow you to execute a set of code multiple times as long as a condition is true. In this article, I will explain what Recursion is and how it works in JavaScript. In loops, when the condition becomes false, the]]></summary>
-        <author>
-            <name>Dillion Megida</name>
         </author>
     </entry>
 </feed>

@@ -22,6 +22,135 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-06 datetime="2022-11-06T20:55:26.000Z">2022-11-06</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-06 datetime="2022-11-06T20:55:26.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Labnotes (by Assaf Arkin)</button>
+                  <a class="source-heading__link" href="https://labnotes.org/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="635dab23986b4b3ed6ac0b41"
+                        open
+                      >
+                        <summary class="article-expander__title">Weekend Reading — 👋 No-vember: learn to say &quot;no&quot; to feature requests</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://labnotes.org/weekend-reading-no-vember-learn-to-say-no-to-feature-requests/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://labnotes.org/content/images/2022/11/Unknown.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>This week we talk about server-side image rendering, making great presentations, and the opposite sides of fine-tuned AI art.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-05 datetime="2022-11-05T23:00:00.000Z">2022-11-05</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-05 datetime="2022-11-05T23:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/snippets/a-native-shell-alternative-to-the-trash-cli/"
+                        open
+                      >
+                        <summary class="article-expander__title">A native shell alternative to the trash-cli (#snippet)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/snippets/a-native-shell-alternative-to-the-trash-cli/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20native%20shell%20alternative%20to%20the%20trash-cli/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Wes Bos has advocated using the trash-cli instead of the rm command this week.
+The reasoning: rm is unrecoverable. Once you remove files or directories using rm, they&#x27;re gone. Ergo, you can bring yourself into real trouble using rm.
+I assume one could do some wild forensic stuff to restore bits and bytes on your hard drive, but the deleted files have to be very important to go this route.
+trash can help out here! The command doesn&#x27;t delete files but moves them to your operating system&#x27;s trash directory. When you then accidentally delete something important, head over to your lovely bin icon and recover files from there!
+But here&#x27;s the kicker: installing the global trash-cli package comes with 829 dependency files. Markdown, JavaScript, JSON and license files are all at your service, making up a whopping 4.3MB heavy node_modules directory.
+Sure, 4 MB isn&#x27;t an issue for me on my developer machine. And the command runs fast enough to protect me and my fat fingers from self-destruction. But still, that&#x27;s a lot of dependency code to move files into another directory, isn&#x27;t it?
+A native trash CLI function
+
+Liran Tal thought the same and shared a nifty four-liner giving you all of trash&#x27;s functionality.
+trash() {
+  echo &quot;[x] moving files to trash...&quot;
+  mv &quot;$@&quot; &quot;$HOME/.trash&quot;
+}
+
+I played around with Liran&#x27;s function and adjusted it also to support multiple files.
+# ✅ globs          – &#x60;trash file-*-.txt&#x60;
+# ✅ directories    – &#x60;trash directory&#x60;
+# ✅ multiple files - &#x60;trash file-1 dir-1 file-2&#x60;
+function trash() {
+  echo &quot;🗑️  Moving files to trash...&quot;
+
+  for var in &quot;$@&quot;
+  do
+    mv &quot;$var&quot; &quot;$HOME/.trash&quot;
+  done
+}
+
+So far, my new trash command has been working great. I&#x27;ll let you know when I&#x27;ll discover any issues!
+Disclaimer: I only tested this shell function in my environment: macOS and ZSH.
+
+
+          
+          
+            Reply to Stefan</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-04 datetime="2022-11-04T22:17:35.000Z">2022-11-04</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-04 datetime="2022-11-04T22:17:35.000Z"></time>
           </button>
@@ -3759,140 +3888,10 @@ The post Machine Learning Highlights a Hidden Order in Scents first appeared on 
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-07 datetime="2022-10-07T22:00:00.000Z">2022-10-07</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-07 datetime="2022-10-07T22:00:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Stefan Judis Web Development</button>
-                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.stefanjudis.com/blog/web-weekly-82/"
-                        open
-                      >
-                        <summary class="article-expander__title">Web Weekly #82 (#blogPost)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/blog/web-weekly-82/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.stefanjudis.com/newsletter-social.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Guten Tag, my friend!
-
-Have you ever wondered if the Largest Contentful Paint metric measures unimportant things? Or do you know that some ARIA attributes aren&#x27;t considered by translation tools? Or that there&#x27;s a CSS property to avoid reflows when your content grows so that you need a scrollbar?
-All the answers and much more are included in this week&#x27;s Web Weekly. 🙈 Enjoy!
-Welcome to the 19 new subscribers! I&#x27;m super excited to have you around! 👋
-💡 Thought of the week
-
-MDN is probably the most important webdev resource out there. It&#x27;s THE documentation of the web. And while most of us only read it, you can contribute, too.
-For example, if you find some outdated browser support information, head over to the &quot;mdn/browser-compat-data&quot; repo and propose an update! It&#x27;s all structured JSON fi…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >freeCodeCamp.org</button>
-                  <a class="source-heading__link" href="https://www.freecodecamp.org/news/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/typescript-generics-use-case-example/"
-                        open
-                      >
-                        <summary class="article-expander__title">TypeScript Generics – Use Case and Examples</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/typescript-generics-use-case-example/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2022/10/pexels-hitarth-jadhav-220357.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>In this tutorial, you&#x27;ll learn the basics of generics in TypeScript. We&#x27;ll discuss how to use them and when they&#x27;re useful in your code. Use Case for Generics Let&#x27;s start with a simple example, where you want to print the value of an argument passed: function printData(data: number) {</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/how-to-check-if-a-string-contains-a-substring-javascript/"
-                        open
-                      >
-                        <summary class="article-expander__title">How to Check if a String Contains a Substring in JavaScript</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/how-to-check-if-a-string-contains-a-substring-javascript/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2022/10/pexels-tranmautritam-251225.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>When you&#x27;re working with a JavaScript program, you might need to check whether a string contains a substring. A substring is a string inside another string. Specifically, you might need to check whether a word contains a specific character or a specific set of characters. Thankfully, there are a few</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/recursion-in-javascript-simplified/"
-                        open
-                      >
-                        <summary class="article-expander__title">How Does Recursion Work? Simplified in JavaScript with Examples</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/recursion-in-javascript-simplified/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2022/10/recursion-js.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Recursion works similarly to how loops do in JavaScript. Loops allow you to execute a set of code multiple times as long as a condition is true. In this article, I will explain what Recursion is and how it works in JavaScript. In loops, when the condition becomes false, the</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/3402517903">
-        <time id="build-timestamp" datetime="2022-11-06T02:02:44.835Z">2022-11-06T02:02:44.835Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/3406989838">
+        <time id="build-timestamp" datetime="2022-11-07T01:57:03.018Z">2022-11-07T01:57:03.018Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
