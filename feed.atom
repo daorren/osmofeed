@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-07T01:57:03.052Z</updated>
+    <updated>2022-11-08T01:56:45.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Learn the Linux Terminal as a Beginner – Tips and Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-learn-linux-terminal-as-a-beginner/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-learn-linux-terminal-as-a-beginner/"/>
+        <updated>2022-11-07T21:25:11.000Z</updated>
+        <summary type="html"><![CDATA[In 2017, I bought a new laptop and switched to Linux. I started off with Ubuntu (but jumped to Elementary [https://elementary.io/] later), as most people suggested it was beginner friendly.  People also suggested that I should get used to using the keyboard and terminal over a mouse to enjoy]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Toggle an Element in React using React Hooks]]></title>
+        <id>https://www.freecodecamp.org/news/toggle-elements-in-react-using-hooks/</id>
+        <link href="https://www.freecodecamp.org/news/toggle-elements-in-react-using-hooks/"/>
+        <updated>2022-11-07T18:26:54.000Z</updated>
+        <summary type="html"><![CDATA[When building a web application, toggling an element is one of the key features you are likely to come across and may need to implement in your project. There are various ways you can toggle an element. In this article, we will take a look at how we can implement]]></summary>
+        <author>
+            <name>Deji Adesoga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS – Responsive Web Design Study Guide]]></title>
+        <id>https://www.freecodecamp.org/news/learn-css/</id>
+        <link href="https://www.freecodecamp.org/news/learn-css/"/>
+        <updated>2022-11-07T18:24:20.000Z</updated>
+        <summary type="html"><![CDATA[Cascading Style Sheets (CSS) represents the design for a web page. But when you are learning this information for the first time, it can be hard to keep track of all of the different CSS properties. In this article, I have created a study guide for the freeCodeCamp curriculum's entire]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High Availability vs Fault Tolerance vs Disaster Recovery – Explained with an Analogy]]></title>
+        <id>https://www.freecodecamp.org/news/high-availability-fault-tolerance-and-disaster-recovery-explained/</id>
+        <link href="https://www.freecodecamp.org/news/high-availability-fault-tolerance-and-disaster-recovery-explained/"/>
+        <updated>2022-11-07T17:10:24.000Z</updated>
+        <summary type="html"><![CDATA[High availability, fault tolerance and disaster recovery are important things to consider when designing a system.  These terms are sometimes used interchangeably by architects and developers. They are not, however, the same thing – and understanding the differences can save you many headaches, as well as time and money.]]></summary>
+        <author>
+            <name>Daniel Adetunji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coercion and Type Conversion in JavaScript – Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/coercion-and-type-conversion-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/coercion-and-type-conversion-in-javascript/"/>
+        <updated>2022-11-07T17:03:46.000Z</updated>
+        <summary type="html"><![CDATA[Coercion is an automatic type conversion that occurs in JavaScript when you want to perform certain operations. I'll explain what coercion is in this article. What is Type Conversion? As the name implies, type conversion is the process of converting a value from one type to another. Values in JavaScript]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Enduring Mystery of the Dragonfly 44 Galaxy]]></title>
+        <id>https://www.quantamagazine.org/?p=120380</id>
+        <link href="https://www.quantamagazine.org/the-enduring-mystery-of-the-dragonfly-44-galaxy-20221107/"/>
+        <updated>2022-11-07T16:16:27.000Z</updated>
+        <summary type="html"><![CDATA[A growing catalog of huge but dim galaxies such as Dragonfly 44 is forcing astronomers to invent new theories of galactic evolution.            
+The post The Enduring Mystery of the Dragonfly 44 Galaxy first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Lyndie Chiou</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — 👋 No-vember: learn to say "no" to feature requests]]></title>
         <id>635dab23986b4b3ed6ac0b41</id>
