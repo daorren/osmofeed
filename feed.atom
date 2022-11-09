@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-08T01:56:45.124Z</updated>
+    <updated>2022-11-09T02:07:52.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Generate Images using React and the Dall-E 2 API – React and OpenAI API Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/generate-images-using-react-and-dall-e-api-react-and-openai-api-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/generate-images-using-react-and-dall-e-api-react-and-openai-api-tutorial/"/>
+        <updated>2022-11-08T20:22:16.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! OpenAI just released its DALL-E API where users can generate custom images by just typing in a query.  So in this tutorial, you'll learn how to integrate the OpenAI DALL-E 2 API with a React app. But First, How Does Dall-E Work? So as you already know,]]></summary>
+        <author>
+            <name>Nishant Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Supergenes Fuel Evolution Despite Harmful Mutations]]></title>
+        <id>https://www.quantamagazine.org/?p=120421</id>
+        <link href="https://www.quantamagazine.org/how-supergenes-fuel-evolution-despite-harmful-mutations-20221108/"/>
+        <updated>2022-11-08T16:39:48.000Z</updated>
+        <summary type="html"><![CDATA[Supergenes that lock inherited traits together are widespread in nature. Recent work shows that their blend of genetic benefits and risks for species can be complex.            
+The post How Supergenes Fuel Evolution Despite Harmful Mutations first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Carrie Arnold</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Learn the Linux Terminal as a Beginner – Tips and Examples]]></title>
         <id>https://www.freecodecamp.org/news/how-to-learn-linux-terminal-as-a-beginner/</id>
@@ -1625,17 +1646,6 @@ The post Lab-Grown Human Cells Form Working Circuits in Rat Brains first appeare
 The post How Do You Prove a Secret? first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Sheon Han</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning Highlights a Hidden Order in Scents]]></title>
-        <id>https://www.quantamagazine.org/?p=119564</id>
-        <link href="https://www.quantamagazine.org/ai-model-links-smell-molecules-with-metabolic-processes-20221010/"/>
-        <updated>2022-10-10T13:54:19.000Z</updated>
-        <summary type="html"><![CDATA[Efforts to build a better digital “nose” suggest that our perception of scents reflects both the structure of aromatic molecules and the metabolic processes that make them.            
-The post Machine Learning Highlights a Hidden Order in Scents first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Allison Parshall</name>
         </author>
     </entry>
 </feed>

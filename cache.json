@@ -12,6 +12,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/generate-images-using-react-and-dall-e-api-react-and-openai-api-tutorial/",
+          "author": "Nishant Kumar",
+          "description": "Hey everyone! OpenAI just released its DALL-E API where users can generate custom images by just typing in a query.  So in this tutorial, you'll learn how to integrate the OpenAI DALL-E 2 API with a React app. But First, How Does Dall-E Work? So as you already know,",
+          "link": "https://www.freecodecamp.org/news/generate-images-using-react-and-dall-e-api-react-and-openai-api-tutorial/",
+          "publishedOn": "2022-11-08T20:22:16.000Z",
+          "wordCount": 1834,
+          "title": "How to Generate Images using React and the Dall-E 2 API – React and OpenAI API Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Important-Concepts-and-questions--1-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-learn-linux-terminal-as-a-beginner/",
           "author": "Arunachalam B",
           "description": "In 2017, I bought a new laptop and switched to Linux. I started off with Ubuntu (but jumped to Elementary [https://elementary.io/] later), as most people suggested it was beginner friendly.  People also suggested that I should get used to using the keyboard and terminal over a mouse to enjoy",
@@ -1039,6 +1049,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=120421",
+          "author": "Carrie Arnold",
+          "description": "Supergenes that lock inherited traits together are widespread in nature. Recent work shows that their blend of genetic benefits and risks for species can be complex.            \nThe post How Supergenes Fuel Evolution Despite Harmful Mutations first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-supergenes-fuel-evolution-despite-harmful-mutations-20221108/",
+          "publishedOn": "2022-11-08T16:39:48.000Z",
+          "wordCount": 7689,
+          "title": "How Supergenes Fuel Evolution Despite Harmful Mutations",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/Supergenes_1200_Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=120380",
           "author": "Lyndie Chiou",
           "description": "A growing catalog of huge but dim galaxies such as Dragonfly 44 is forcing astronomers to invent new theories of galactic evolution.            \nThe post The Enduring Mystery of the Dragonfly 44 Galaxy first appeared on Quanta Magazine",
@@ -1207,16 +1227,6 @@
           "wordCount": 5236,
           "title": "How Do You Prove a Secret?",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/Zero-Knowledge-Proof_1200_Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=119564",
-          "author": "Allison Parshall",
-          "description": "Efforts to build a better digital “nose” suggest that our perception of scents reflects both the structure of aromatic molecules and the metabolic processes that make them.            \nThe post Machine Learning Highlights a Hidden Order in Scents first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/ai-model-links-smell-molecules-with-metabolic-processes-20221010/",
-          "publishedOn": "2022-10-10T13:54:19.000Z",
-          "wordCount": 5482,
-          "title": "Machine Learning Highlights a Hidden Order in Scents",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/Digital-Smell-Model_1200_Social.webp"
         }
       ]
     },
