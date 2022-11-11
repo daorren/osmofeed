@@ -12,6 +12,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-convert-an-int-to-a-string-in-cpp/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Type casting or type conversion is the process of converting a variable from one data type to another.  Type casting can be done implicitly or explicitly.  Implicit type casting gets done automatically via the compiler, while explicit type casting is done by the developer. In this article, you'll",
+          "link": "https://www.freecodecamp.org/news/how-to-convert-an-int-to-a-string-in-cpp/",
+          "publishedOn": "2022-11-10T18:54:57.000Z",
+          "wordCount": 1344,
+          "title": "How to Convert an Int to a String in C++ – Integer Cast Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/uday-awal-UjJWhMerJx0-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/error-error-0308010c-digital-envelope-routines-unsupported-node-error-solved/",
+          "author": "Kolade Chris",
+          "description": "If you work with Node.js and command line interface solutions like Webpack, create-react-app, or vue-cli-service, you might have encountered the error,  Error: error:0308010c:digital envelope routines::unsupported. You’re not alone, because I’m currently getting it too: The React app indeed failed to start: In this article, you’ll learn how to fix",
+          "link": "https://www.freecodecamp.org/news/error-error-0308010c-digital-envelope-routines-unsupported-node-error-solved/",
+          "publishedOn": "2022-11-10T18:39:19.000Z",
+          "wordCount": 1159,
+          "title": "Error: error:0308010c:digital envelope routines::unsupported [Node Error Solved]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/envelope-1829509_1280.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/jamstack-for-beginners/",
+          "author": "Damilola Oladele",
+          "description": "You may have heard the term Jamstack and have been wondering what it means. Well, the Jamstack is nothing more than a modern way of building web applications.  Jamstack takes advantage of existing technologies – which we'll discuss in a minute. The result is better performance, improved security, and",
+          "link": "https://www.freecodecamp.org/news/jamstack-for-beginners/",
+          "publishedOn": "2022-11-10T18:30:49.000Z",
+          "wordCount": 1486,
+          "title": "What is the Jamstack? Tutorial for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Damilola-Oladele-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/web-security-fuzz-web-applications-using-ffuf/",
+          "author": "Manish Shivanandhan",
+          "description": "Building strong authentication systems is crucial for web applications. Now that many businesses have a growing online presence, a malicious actor taking control of your website can be devastating. In this article, we will learn how to use Ffuf, a fast web fuzzer written in Go. You will learn how",
+          "link": "https://www.freecodecamp.org/news/web-security-fuzz-web-applications-using-ffuf/",
+          "publishedOn": "2022-11-10T17:21:43.000Z",
+          "wordCount": 2445,
+          "title": "How to Fuzz Web Applications using FFuf – Web Security Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/ffuf.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/programming-in-typescript/",
+          "author": "Beau Carnes",
+          "description": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. TypeScript provides better error checking than JavaScript. This is because TypeScript uses a static type system, which means that the type of a variable is checked before the code is executed. We just published a 5-hour TypeScript course",
+          "link": "https://www.freecodecamp.org/news/programming-in-typescript/",
+          "publishedOn": "2022-11-10T16:10:57.000Z",
+          "wordCount": 932,
+          "title": "Programming in TypeScript – Full Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/typescript.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-bootstrap-5-in-spanish-by-building-a-portfolio-website-bootstrap-course-for-beginners/",
+          "author": "Estefania Cassingena Navone",
+          "description": "Welcome! If you speak Spanish and you want to practice your HTML and CSS skills, create responsive websites with Bootstrap 5, and build your portfolio website, then this course is for you. In this article, you will find a brief introduction to responsive web development and Bootstrap 5. You will",
+          "link": "https://www.freecodecamp.org/news/learn-bootstrap-5-in-spanish-by-building-a-portfolio-website-bootstrap-course-for-beginners/",
+          "publishedOn": "2022-11-10T05:30:10.000Z",
+          "wordCount": 1821,
+          "title": "Learn Bootstrap 5 in Spanish by Building a Portfolio Website – Bootstrap Course for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/thumbnail-2.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/aws-lambda-rds/",
           "author": "Mugilan Ragupathi",
           "description": "In this article, we're going to learn about how to communicate with AWS RDS from AWS Lambda.  In this tutorial, we'll be using AWS CDK. It's an open source software development framework that lets you define cloud infrastructure.  AWS CDK supports many languages including TypeScript, Python, C#, Java",
@@ -1040,76 +1100,6 @@
           "wordCount": 1568,
           "title": "How Web Storage Works – Local vs Session Storage Explained",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/webstorage-1-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/dbms-and-sql-basics/",
-          "author": "Bikash Daga (Jain)",
-          "description": "Database Management Systems and SQL are two of the most important and widely used tools on the internet today.  You use a Database Management System (DBMS) to store the data you collect from various sources, and SQL to manipulate and access the particular data you want in an efficient",
-          "link": "https://www.freecodecamp.org/news/dbms-and-sql-basics/",
-          "publishedOn": "2022-10-12T13:57:35.000Z",
-          "wordCount": 3446,
-          "title": "Database Management Systems and SQL – Tutorial for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/FreeCodeCamp.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/branding-for-developer-freelancers/",
-          "author": "Juan Cruz Martinez",
-          "description": "You probably didn’t get into freelance development to become a marketer.  You got into freelancing so you could work when you want, make more money, and control your life. But, if you haven’t realized it yet, building a career as a freelancer requires you to embrace more than just",
-          "link": "https://www.freecodecamp.org/news/branding-for-developer-freelancers/",
-          "publishedOn": "2022-10-12T13:52:08.000Z",
-          "wordCount": 2977,
-          "title": "How to Build Your Personal Brand as a Freelance Developer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Standard-Blog-Post.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-webshop-with-angular-node-js-typescript-stripe/",
-          "author": "Beau Carnes",
-          "description": "Learn how to build a webshop from scratch! We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build a webshop or e-commerce store using Angular/TypeScript, Express.js, and Stripe.  You will learn how to use Angular material and Tailwind to structure the UI",
-          "link": "https://www.freecodecamp.org/news/build-a-webshop-with-angular-node-js-typescript-stripe/",
-          "publishedOn": "2022-10-12T13:46:34.000Z",
-          "wordCount": 809,
-          "title": "Build a Webshop with Angular, Node.js, TypeScript, & Stripe",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/webshop.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-recognize-phishing-email/",
-          "author": "Jose Vicente Nunez",
-          "description": "You know the drill: you open your email client and there is it an email saying that you will be in trouble if you do not follow certain instructions in short time, no questions asked. All it takes is a single click, and you're in trouble. This kind of email",
-          "link": "https://www.freecodecamp.org/news/how-to-recognize-phishing-email/",
-          "publishedOn": "2022-10-12T00:52:32.000Z",
-          "wordCount": 1630,
-          "title": "How to Recognize a Phishing Email – And What to Do When You Get One",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/five_hours_until_the_bombing_run-1.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/fix-typeerror-cannot-read-property-push-of-undefined-in-javascript/",
-          "author": "Joel Olawanle",
-          "description": "When working with JavaScript arrays, you have to be careful that you are not calling the push(), pop(), shift(), unShift(), or splice() methods on a variable that is meant to be an array but has a value of undefined. If you mistakenly do this, you'll get this error: If you",
-          "link": "https://www.freecodecamp.org/news/fix-typeerror-cannot-read-property-push-of-undefined-in-javascript/",
-          "publishedOn": "2022-10-11T23:18:26.000Z",
-          "wordCount": 1487,
-          "title": "How to Fix TypeError: Cannot read Property 'push' of Undefined in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/cover-template--13-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/best-resources-to-learn-golang-for-free/",
-          "author": "Avdhoot Fulsundar",
-          "description": "Golang has been around for a while now, and it's become quite popular among developers. It is a simple yet compelling programming language that's well-loved because of its powerful features like concurrency and the fact that it is developed by Google. Golang is a server-side language that's used in many",
-          "link": "https://www.freecodecamp.org/news/best-resources-to-learn-golang-for-free/",
-          "publishedOn": "2022-10-11T23:11:17.000Z",
-          "wordCount": 1317,
-          "title": "Best Free Resources to Learn Golang – Go Coding Courses",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Gradient-Modern-Digital-Marketing-Facebook-Cover--36-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-programming-tips/",
-          "author": "David Fagbuyiro",
-          "description": "Python is one of the most popular programming languages out there today. Its simplicity and readability make it a favorite among many programmers. So in this tutorial, I'm sharing a few pointers and strategies to help you improve your Python programming skills. How to Reverse a String in Python In",
-          "link": "https://www.freecodecamp.org/news/python-programming-tips/",
-          "publishedOn": "2022-10-11T19:47:25.000Z",
-          "wordCount": 1539,
-          "title": "Python Programming Tips to Help You Level Up Your Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-ankush-rathi-925067.jpg"
         }
       ]
     },
@@ -1118,6 +1108,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=120506",
+          "author": "Allison Whitten",
+          "description": "An energy-efficient chip called NeuRRAM fixes an old design flaw to run large-scale AI algorithms on smaller devices, reaching the same accuracy as wasteful digital computers.            \nThe post New Chip Expands the Possibilities for AI first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/a-brain-inspired-chip-can-run-ai-with-far-less-energy-20221110/",
+          "publishedOn": "2022-11-10T15:18:11.000Z",
+          "wordCount": 7173,
+          "title": "New Chip Expands the Possibilities for AI",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/NeurramChips-cr.Sen%CC%83or_Salme-1200-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=120459",
           "author": "Leila Sloman",
@@ -1297,16 +1297,6 @@
           "wordCount": 7151,
           "title": "Lab-Grown Human Cells Form Working Circuits in Rat Brains",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/Pasca_Blog_1200_Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=119593",
-          "author": "Sheon Han",
-          "description": "Zero-knowledge proofs allow researchers to prove their knowledge without divulging the knowledge itself.\r\n            \nThe post How Do You Prove a Secret? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-to-prove-you-know-a-secret-without-giving-it-away-20221011/",
-          "publishedOn": "2022-10-11T15:10:53.000Z",
-          "wordCount": 5236,
-          "title": "How Do You Prove a Secret?",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/Zero-Knowledge-Proof_1200_Social.webp"
         }
       ]
     },
