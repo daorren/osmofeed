@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-11T02:00:41.665Z</updated>
+    <updated>2022-11-12T01:56:06.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hacktoberfest 2022 Contributors]]></title>
+        <id>https://www.freecodecamp.org/news/hacktoberfest-2022-contributors/</id>
+        <link href="https://www.freecodecamp.org/news/hacktoberfest-2022-contributors/"/>
+        <updated>2022-11-11T20:25:10.000Z</updated>
+        <summary type="html"><![CDATA[freeCodeCamp participated in Hacktoberfest (a month-long celebration of open source) again this year. We wanted to take a moment to thank all of our wonderful contributors for the effort they put in to help us continue to improve our curriculum and learning resources. Thank you for your contributions to open]]></summary>
+        <author>
+            <name>Naomi Carrigan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JS Copy an Object – How to Clone an Obj in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/clone-an-object-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/clone-an-object-in-javascript/"/>
+        <updated>2022-11-11T17:13:52.000Z</updated>
+        <summary type="html"><![CDATA[A JavaScript object is a collection of key-value pairs. It is a non-primitive data type that can contain various data types. For example: const userDetails = {   name: "John Doe",   age: 14,   verified: false }; When working with objects in JavaScript, you may sometimes]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Your Own Mastodon Instance]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-set-up-your-own-mastodon-instance/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-your-own-mastodon-instance/"/>
+        <updated>2022-11-11T16:29:20.000Z</updated>
+        <summary type="html"><![CDATA[Mastodon is a decentralized, federated social media platform based on the  ActivityPub [https://www.w3.org/TR/activitypub/] protocol. It allows you to follow and interact with friends across multiple instances.  In this article, you will learn how freeCodeCamp set up our own Mastodon instance - and how you can too. What is]]></summary>
+        <author>
+            <name>Naomi Carrigan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is YAML? The YML File Format]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-yaml-the-yml-file-format/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-yaml-the-yml-file-format/"/>
+        <updated>2022-11-11T16:20:17.000Z</updated>
+        <summary type="html"><![CDATA[YAML is one of the most popular languages for writing configuration files. In this article, you will learn how YAML compares to XML and JSON - two languages also used for creating configuration files. You will also learn some of the rules and features of the language, along with its]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go becomes a teenager]]></title>
+        <id>https://golangweekly.com/issues/436</id>
+        <link href="https://golangweekly.com/issues/436"/>
+        <updated>2022-11-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#​436 — November 11, 2022
+
+
+Unsub  |  Web Version
+
+
+
+The Go Weekly Newsletter
+
+
+
+
+  
+
+
+
+
+
+  
+  
+Thirteen Years of Go — It’s now an annual tradition for Russ Cox to blog about the past year of happenings (e.g. on Go’s 10th, 11th, and 12th birthdays) and now that Go is a teenager, there’s a lot to celebrate including fuzzing, improvements to generics, and soft memory limits.
+Russ Cox 
+
+
+  
+  
+The Official Structured Logging Proposal — Go may be a teenager but that only means it’s continuing to grow! And so it goes with this formal proposal (which started life as this discussion) for bringing structured logging with levels to the standard library. Want to play? Try it here.
+Jonathan Amsterdam 
+
+
+  
+  
+Troubleshoot and Optimize Golang App Performance with Datadog APM — Datadog’s APM generates …]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Convert an Int to a String in C++ – Integer Cast Tutorial]]></title>
         <id>https://www.freecodecamp.org/news/how-to-convert-an-int-to-a-string-in-cpp/</id>
@@ -1634,88 +1716,6 @@ The post Teenager Solves Stubborn Riddle About Prime Number Look-Alikes first ap
         <summary type="html"><![CDATA[When you code a similar project using different methods it helps you understand each method more. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code a flight widget in JavaScript using multiple methods. First you will learn to create the project using]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Machine Learning Model in Rust]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/"/>
-        <updated>2022-10-12T22:31:25.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning is a really interesting concept in computer programming. It involves using data to train a computer program to carry out tasks.  During the process, the program learns from data by discovering patterns. This reduces the need for programmers to hard code rules in some applications. Languages like]]></summary>
-        <author>
-            <name>Chigozie Oduah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Email Alias – How to Set Up a Professional Email for Free]]></title>
-        <id>https://www.freecodecamp.org/news/email-alias-set-up-a-professional-email-for-free/</id>
-        <link href="https://www.freecodecamp.org/news/email-alias-set-up-a-professional-email-for-free/"/>
-        <updated>2022-10-12T22:26:51.000Z</updated>
-        <summary type="html"><![CDATA[I needed to log in to AWS. But my main email address was rejected. Apparently I'd done this in the past and the account had been irreversibly deleted.  No reset option – just a message saying the account was permanently deleted: There are about a million ways to get]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Visualization Tools – 2022 Guide]]></title>
-        <id>https://www.freecodecamp.org/news/data-visualization-tools-guide/</id>
-        <link href="https://www.freecodecamp.org/news/data-visualization-tools-guide/"/>
-        <updated>2022-10-12T17:45:21.000Z</updated>
-        <summary type="html"><![CDATA[Data visualization is the process of interpreting or representing data graphically. Generally, it is the graphical or visual representation of data using charts, tables, histograms, and other info-graphics.  Data plays a major role in any type of organization. Data visualization helps us understand certain trends and insights, and make]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Human Brains Are Hard to Study. He Grows Useful Substitutes.]]></title>
-        <id>https://www.quantamagazine.org/?p=119632</id>
-        <link href="https://www.quantamagazine.org/human-brains-are-hard-to-study-sergiu-pasca-grows-useful-substitutes-20221012/"/>
-        <updated>2022-10-12T15:00:20.000Z</updated>
-        <summary type="html"><![CDATA[With stem cell technology and lab-grown brain organoids, Sergiu Paşca seeks the causes of autism and other neuropsychiatric conditions.            
-The post Human Brains Are Hard to Study. He Grows Useful Substitutes. first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Claudia Dreifus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lab-Grown Human Cells Form Working Circuits in Rat Brains]]></title>
-        <id>https://www.quantamagazine.org/?p=119651</id>
-        <link href="https://www.quantamagazine.org/lab-grown-human-cells-form-working-circuits-in-rat-brains-20221012/"/>
-        <updated>2022-10-12T15:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Letting human brain organoids grow in animal brains could be an ethical new option for experimental studies of neurological disorders.            
-The post Lab-Grown Human Cells Form Working Circuits in Rat Brains first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Allison Whitten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Docker and Kubernetes – Free Hands-On Course]]></title>
-        <id>https://www.freecodecamp.org/news/learn-docker-and-kubernetes-hands-on-course/</id>
-        <link href="https://www.freecodecamp.org/news/learn-docker-and-kubernetes-hands-on-course/"/>
-        <updated>2022-10-12T14:22:50.000Z</updated>
-        <summary type="html"><![CDATA[Docker and Kubernetes are important technologies that can help you scale your applications. Docker is a platform for packaging, deploying, and running applications in containers. Kubernetes is a system for managing containerized applications across a cluster of nodes. It provides basic mechanisms for deployment, maintenance, and scaling of applications. We]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement a Whitelist in Smart Contracts (ERC-721 NFT, ERC-1155, and others)]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-implement-whitelist-in-smartcontracts-erc-721-nft-erc-1155-and-others/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-whitelist-in-smartcontracts-erc-721-nft-erc-1155-and-others/"/>
-        <updated>2022-10-12T14:12:02.000Z</updated>
-        <summary type="html"><![CDATA[In this article I will show you three ways you can create a whitelist in a smart contract. Here's what we'll discuss:  * On-chain whitelists  * Digital signatures  * Merkle trees All methods are available in the repo here [https://github.com/gapon2401/smartcontract-whitelist]. A whitelist is useful if you want]]></summary>
-        <author>
-            <name>Igor Gaponov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Web Storage Works – Local vs Session Storage Explained]]></title>
-        <id>https://www.freecodecamp.org/news/how-web-storage-works/</id>
-        <link href="https://www.freecodecamp.org/news/how-web-storage-works/"/>
-        <updated>2022-10-12T14:08:46.000Z</updated>
-        <summary type="html"><![CDATA[Anyone who works with the web needs to store data for a later use. Backend developers have some powerful databases in their toolkit. But if you are a frontend developer, you can still store and process data using web storage. In this article, you'll learn what is a web storage,]]></summary>
-        <author>
-            <name>Tooba Jamal</name>
         </author>
     </entry>
 </feed>

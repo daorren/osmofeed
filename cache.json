@@ -12,6 +12,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/hacktoberfest-2022-contributors/",
+          "author": "Naomi Carrigan",
+          "description": "freeCodeCamp participated in Hacktoberfest (a month-long celebration of open source) again this year. We wanted to take a moment to thank all of our wonderful contributors for the effort they put in to help us continue to improve our curriculum and learning resources. Thank you for your contributions to open",
+          "link": "https://www.freecodecamp.org/news/hacktoberfest-2022-contributors/",
+          "publishedOn": "2022-11-11T20:25:10.000Z",
+          "wordCount": 2023,
+          "title": "Hacktoberfest 2022 Contributors",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Hacktoberfest_2022.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/clone-an-object-in-javascript/",
+          "author": "Joel Olawanle",
+          "description": "A JavaScript object is a collection of key-value pairs. It is a non-primitive data type that can contain various data types. For example: const userDetails = {   name: \"John Doe\",   age: 14,   verified: false }; When working with objects in JavaScript, you may sometimes",
+          "link": "https://www.freecodecamp.org/news/clone-an-object-in-javascript/",
+          "publishedOn": "2022-11-11T17:13:52.000Z",
+          "wordCount": 2267,
+          "title": "JS Copy an Object – How to Clone an Obj in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/cover-template--20-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-set-up-your-own-mastodon-instance/",
+          "author": "Naomi Carrigan",
+          "description": "Mastodon is a decentralized, federated social media platform based on the  ActivityPub [https://www.w3.org/TR/activitypub/] protocol. It allows you to follow and interact with friends across multiple instances.  In this article, you will learn how freeCodeCamp set up our own Mastodon instance - and how you can too. What is",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-your-own-mastodon-instance/",
+          "publishedOn": "2022-11-11T16:29:20.000Z",
+          "wordCount": 1389,
+          "title": "How to Set Up Your Own Mastodon Instance",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Mastodon_logotype_-simple-_new_hue.svg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-yaml-the-yml-file-format/",
+          "author": "Dionysia Lemonaki",
+          "description": "YAML is one of the most popular languages for writing configuration files. In this article, you will learn how YAML compares to XML and JSON - two languages also used for creating configuration files. You will also learn some of the rules and features of the language, along with its",
+          "link": "https://www.freecodecamp.org/news/what-is-yaml-the-yml-file-format/",
+          "publishedOn": "2022-11-11T16:20:17.000Z",
+          "wordCount": 2408,
+          "title": "What is YAML? The YML File Format",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-christina-morillo-1181675.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-convert-an-int-to-a-string-in-cpp/",
           "author": "Ihechikara Vincent Abba",
           "description": "Type casting or type conversion is the process of converting a variable from one data type to another.  Type casting can be done implicitly or explicitly.  Implicit type casting gets done automatically via the compiler, while explicit type casting is done by the developer. In this article, you'll",
@@ -1040,66 +1080,6 @@
           "wordCount": 852,
           "title": "Code a project three different ways (JavaScript + REST API + Database)",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/maxresdefault.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/",
-          "author": "Chigozie Oduah",
-          "description": "Machine learning is a really interesting concept in computer programming. It involves using data to train a computer program to carry out tasks.  During the process, the program learns from data by discovering patterns. This reduces the need for programmers to hard code rules in some applications. Languages like",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/",
-          "publishedOn": "2022-10-12T22:31:25.000Z",
-          "wordCount": 2706,
-          "title": "How to Build a Machine Learning Model in Rust",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/guerrillabuzz-crypto-pr-IlUq1ruyv0Q-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/email-alias-set-up-a-professional-email-for-free/",
-          "author": "Eamonn Cottrell",
-          "description": "I needed to log in to AWS. But my main email address was rejected. Apparently I'd done this in the past and the account had been irreversibly deleted.  No reset option – just a message saying the account was permanently deleted: There are about a million ways to get",
-          "link": "https://www.freecodecamp.org/news/email-alias-set-up-a-professional-email-for-free/",
-          "publishedOn": "2022-10-12T22:26:51.000Z",
-          "wordCount": 1490,
-          "title": "Email Alias – How to Set Up a Professional Email for Free",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Email-Alias-with-Gmail.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/data-visualization-tools-guide/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Data visualization is the process of interpreting or representing data graphically. Generally, it is the graphical or visual representation of data using charts, tables, histograms, and other info-graphics.  Data plays a major role in any type of organization. Data visualization helps us understand certain trends and insights, and make",
-          "link": "https://www.freecodecamp.org/news/data-visualization-tools-guide/",
-          "publishedOn": "2022-10-12T17:45:21.000Z",
-          "wordCount": 2031,
-          "title": "Data Visualization Tools – 2022 Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/luke-chesser-JKUTrJ4vK00-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-docker-and-kubernetes-hands-on-course/",
-          "author": "Beau Carnes",
-          "description": "Docker and Kubernetes are important technologies that can help you scale your applications. Docker is a platform for packaging, deploying, and running applications in containers. Kubernetes is a system for managing containerized applications across a cluster of nodes. It provides basic mechanisms for deployment, maintenance, and scaling of applications. We",
-          "link": "https://www.freecodecamp.org/news/learn-docker-and-kubernetes-hands-on-course/",
-          "publishedOn": "2022-10-12T14:22:50.000Z",
-          "wordCount": 1119,
-          "title": "Learn Docker and Kubernetes – Free Hands-On Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/docker.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-implement-whitelist-in-smartcontracts-erc-721-nft-erc-1155-and-others/",
-          "author": "Igor Gaponov",
-          "description": "In this article I will show you three ways you can create a whitelist in a smart contract. Here's what we'll discuss:  * On-chain whitelists  * Digital signatures  * Merkle trees All methods are available in the repo here [https://github.com/gapon2401/smartcontract-whitelist]. A whitelist is useful if you want",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-whitelist-in-smartcontracts-erc-721-nft-erc-1155-and-others/",
-          "publishedOn": "2022-10-12T14:12:02.000Z",
-          "wordCount": 2642,
-          "title": "How to Implement a Whitelist in Smart Contracts (ERC-721 NFT, ERC-1155, and others)",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/whitelist-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-web-storage-works/",
-          "author": "Tooba Jamal",
-          "description": "Anyone who works with the web needs to store data for a later use. Backend developers have some powerful databases in their toolkit. But if you are a frontend developer, you can still store and process data using web storage. In this article, you'll learn what is a web storage,",
-          "link": "https://www.freecodecamp.org/news/how-web-storage-works/",
-          "publishedOn": "2022-10-12T14:08:46.000Z",
-          "wordCount": 1568,
-          "title": "How Web Storage Works – Local vs Session Storage Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/webstorage-1-1.png"
         }
       ]
     },
@@ -1277,26 +1257,6 @@
           "wordCount": 6924,
           "title": "Teenager Solves Stubborn Riddle About Prime Number Look-Alikes",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/WHIZ_Daniel_Larsen_1200_Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=119632",
-          "author": "Claudia Dreifus",
-          "description": "With stem cell technology and lab-grown brain organoids, Sergiu Paşca seeks the causes of autism and other neuropsychiatric conditions.            \nThe post Human Brains Are Hard to Study. He Grows Useful Substitutes. first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/human-brains-are-hard-to-study-sergiu-pasca-grows-useful-substitutes-20221012/",
-          "publishedOn": "2022-10-12T15:00:20.000Z",
-          "wordCount": 10067,
-          "title": "Human Brains Are Hard to Study. He Grows Useful Substitutes.",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/Sergiu_Pasca_1200_Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=119651",
-          "author": "Allison Whitten",
-          "description": "Letting human brain organoids grow in animal brains could be an ethical new option for experimental studies of neurological disorders.            \nThe post Lab-Grown Human Cells Form Working Circuits in Rat Brains first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/lab-grown-human-cells-form-working-circuits-in-rat-brains-20221012/",
-          "publishedOn": "2022-10-12T15:00:08.000Z",
-          "wordCount": 7151,
-          "title": "Lab-Grown Human Cells Form Working Circuits in Rat Brains",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/Pasca_Blog_1200_Social.webp"
         }
       ]
     },
@@ -1409,6 +1369,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/436",
+          "author": null,
+          "description": "#​436 — November 11, 2022\n\n\nUnsub  |  Web Version\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nThirteen Years of Go — It’s now an annual tradition for Russ Cox to blog about the past year of happenings (e.g. on Go’s 10th, 11th, and 12th birthdays) and now that Go is a teenager, there’s a lot to celebrate including fuzzing, improvements to generics, and soft memory limits.\nRuss Cox \n\n\n  \n  \nThe Official Structured Logging Proposal — Go may be a teenager but that only means it’s continuing to grow! And so it goes with this formal proposal (which started life as this discussion) for bringing structured logging with levels to the standard library. Want to play? Try it here.\nJonathan Amsterdam \n\n\n  \n  \nTroubleshoot and Optimize Golang App Performance with Datadog APM — Datadog’s APM generates …",
+          "link": "https://golangweekly.com/issues/436",
+          "publishedOn": "2022-11-11T00:00:00.000Z",
+          "wordCount": 939,
+          "title": "Go becomes a teenager",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/435",
           "author": null,
