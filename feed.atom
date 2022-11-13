@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-12T01:56:06.842Z</updated>
+    <updated>2022-11-13T01:56:10.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -1637,85 +1637,6 @@ The post Mathematicians Discover the Fibonacci Numbers Hiding in Strange Spaces 
         <summary type="html"><![CDATA[Hi everyone, I'm Jalmari Ikävalko, a software developer in my early 30s. In this article, I’ll share my whole journey from my first contact with code to becoming the professional developer I am today.  I'll start from my childhood when I first got interested in programming. My Introduction to]]></summary>
         <author>
             <name>Jalmari Ikävalko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If at first your code doesn't succeed, `try`, `try` again?]]></title>
-        <id>https://golangweekly.com/issues/432</id>
-        <link href="https://golangweekly.com/issues/432"/>
-        <updated>2022-10-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​432 — October 14, 2022
-
-
-Unsubscribe  |  Read on the Web
-
-
-
-    
-Together with 
-        
-          
-          
-          
-        
-      
-
-    
-    
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-Proposal: A try Statement for Error Handling? — Inspired by the results of the recent Go community survey, a self-proclaimed if err != nil expert(!) puts forward an interesting, well-written proposal for adding some tasty syntactic sugar to error handling. It’s only early days for this idea which may well not even pan out, but there’s plenty of room to jump in with your take on it and help push things forward.
-Greg Weber 
-
-
-  
-  
-Autostrada: A Codebase Generator for Go Projects — A site that lets you pick from a variety of options (webapp vs JSON API, SQLite vs Postgres – add auth, secure cookies, …]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Avoid Prop Drilling with the React Context API]]></title>
-        <id>https://www.freecodecamp.org/news/avoid-prop-drilling-with-react-context-api/</id>
-        <link href="https://www.freecodecamp.org/news/avoid-prop-drilling-with-react-context-api/"/>
-        <updated>2022-10-13T16:52:03.000Z</updated>
-        <summary type="html"><![CDATA[The React Context API provides a way to pass data through multiple nested levels of components without having to manually pass that data to each level.  React context is one sure way of globally managing your data in your app, and it's a good way to avoid prop drilling.]]></summary>
-        <author>
-            <name>Edeh Israel Chidera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teenager Solves Stubborn Riddle About Prime Number Look-Alikes]]></title>
-        <id>https://www.quantamagazine.org/?p=119742</id>
-        <link href="https://www.quantamagazine.org/teenager-solves-stubborn-riddle-about-prime-number-look-alikes-20221013/"/>
-        <updated>2022-10-13T15:05:40.000Z</updated>
-        <summary type="html"><![CDATA[In his senior year of high school, Daniel Larsen proved a key theorem about Carmichael numbers — strange entities that mimic the primes.            
-The post Teenager Solves Stubborn Riddle About Prime Number Look-Alikes first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Jordana Cepelewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code a project three different ways (JavaScript + REST API + Database)]]></title>
-        <id>https://www.freecodecamp.org/news/code-a-project-three-different-ways-javascript-rest-api-database/</id>
-        <link href="https://www.freecodecamp.org/news/code-a-project-three-different-ways-javascript-rest-api-database/"/>
-        <updated>2022-10-13T14:06:09.000Z</updated>
-        <summary type="html"><![CDATA[When you code a similar project using different methods it helps you understand each method more. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code a flight widget in JavaScript using multiple methods. First you will learn to create the project using]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>

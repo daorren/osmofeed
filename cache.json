@@ -1060,26 +1060,6 @@
           "wordCount": 3915,
           "title": "My Developer Journey – How I Learned to Code with Dyslexia and ADHD",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/avoid-prop-drilling-with-react-context-api/",
-          "author": "Edeh Israel Chidera",
-          "description": "The React Context API provides a way to pass data through multiple nested levels of components without having to manually pass that data to each level.  React context is one sure way of globally managing your data in your app, and it's a good way to avoid prop drilling.",
-          "link": "https://www.freecodecamp.org/news/avoid-prop-drilling-with-react-context-api/",
-          "publishedOn": "2022-10-13T16:52:03.000Z",
-          "wordCount": 1243,
-          "title": "How to Avoid Prop Drilling with the React Context API",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/ferenc-almasi-c8h0n7fSTqs-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/code-a-project-three-different-ways-javascript-rest-api-database/",
-          "author": "Beau Carnes",
-          "description": "When you code a similar project using different methods it helps you understand each method more. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code a flight widget in JavaScript using multiple methods. First you will learn to create the project using",
-          "link": "https://www.freecodecamp.org/news/code-a-project-three-different-ways-javascript-rest-api-database/",
-          "publishedOn": "2022-10-13T14:06:09.000Z",
-          "wordCount": 852,
-          "title": "Code a project three different ways (JavaScript + REST API + Database)",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/maxresdefault.jpeg"
         }
       ]
     },
@@ -1247,16 +1227,6 @@
           "wordCount": 5244,
           "title": "Mathematicians Discover the Fibonacci Numbers Hiding in Strange Spaces",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/Infinite-Staircases_1200_Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=119742",
-          "author": "Jordana Cepelewicz",
-          "description": "In his senior year of high school, Daniel Larsen proved a key theorem about Carmichael numbers — strange entities that mimic the primes.            \nThe post Teenager Solves Stubborn Riddle About Prime Number Look-Alikes first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/teenager-solves-stubborn-riddle-about-prime-number-look-alikes-20221013/",
-          "publishedOn": "2022-10-13T15:05:40.000Z",
-          "wordCount": 6924,
-          "title": "Teenager Solves Stubborn Riddle About Prime Number Look-Alikes",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/WHIZ_Daniel_Larsen_1200_Social.webp"
         }
       ]
     },
@@ -1407,16 +1377,6 @@
           "publishedOn": "2022-10-21T00:00:00.000Z",
           "wordCount": 923,
           "title": "Wiping the map clean",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/432",
-          "author": null,
-          "description": "#​432 — October 14, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\n    \nTogether with \n        \n          \n          \n          \n        \n      \n\n    \n    \n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nProposal: A try Statement for Error Handling? — Inspired by the results of the recent Go community survey, a self-proclaimed if err != nil expert(!) puts forward an interesting, well-written proposal for adding some tasty syntactic sugar to error handling. It’s only early days for this idea which may well not even pan out, but there’s plenty of room to jump in with your take on it and help push things forward.\nGreg Weber \n\n\n  \n  \nAutostrada: A Codebase Generator for Go Projects — A site that lets you pick from a variety of options (webapp vs JSON API, SQLite vs Postgres – add auth, secure cookies, …",
-          "link": "https://golangweekly.com/issues/432",
-          "publishedOn": "2022-10-14T00:00:00.000Z",
-          "wordCount": 1015,
-          "title": "If at first your code doesn't succeed, `try`, `try` again?",
           "imageUrl": null
         }
       ]
