@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-13T01:56:10.751Z</updated>
+    <updated>2022-11-14T01:55:17.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 🍿 It's all just a simulation]]></title>
+        <id>63681f93811f4275757699f5</id>
+        <link href="https://labnotes.org/weekend-reading-its-all-just-a-simulation/"/>
+        <updated>2022-11-13T21:27:50.000Z</updated>
+        <summary type="html"><![CDATA[This week we bring out the popcorn, as we watch FTX implode and the big Twitter exodus. We also we learn about defensive CSS, and pre-sleep phone time.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to flip characters and words in your terminal (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/how-to-flip-characters-and-words-in-your-terminal/</id>
+        <link href="https://www.stefanjudis.com/blog/how-to-flip-characters-and-words-in-your-terminal/"/>
+        <updated>2022-11-12T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today I learned that you press ctrl + t to flip characters in your terminal. 😲
+iTerm session showing how to flip characters with "ctrl + t"
+      
+    
+I probably won't remember this shortcut, but I googled around and discovered that t can also be used to toggle words with alt + t.
+And this makes two toggle commands! Maybe this will stick... 🤞
+I only tested these command shortcuts in iTerm and the default terminal on macOS. It might be that they won't work on your machine. 🤷‍♂️
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hacktoberfest 2022 Contributors]]></title>
         <id>https://www.freecodecamp.org/news/hacktoberfest-2022-contributors/</id>
@@ -1587,56 +1618,6 @@ The post Mathematicians Discover the Fibonacci Numbers Hiding in Strange Spaces 
         <summary type="html"><![CDATA[This week we get over our jet lag, have a git together, reverse engineer prompts at the Louvre, and even more Apple Watch workouts.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[find() vs filter() in JavaScript – Differences Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/find-vs-filter-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/find-vs-filter-javascript/"/>
-        <updated>2022-10-14T22:22:22.000Z</updated>
-        <summary type="html"><![CDATA[A common interview question that JavaScript developers often get asked is to explain the difference between the find() and filter() methods.  In this tutorial today, I'll walk you through what these methods are and when you should use them. What is the filter() method? This method returns all the]]></summary>
-        <author>
-            <name>Aman Kalra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Copy Text to the Clipboard with JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/copy-text-to-clipboard-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/copy-text-to-clipboard-javascript/"/>
-        <updated>2022-10-14T21:18:48.000Z</updated>
-        <summary type="html"><![CDATA[When you're building advanced web pages and applications, you'll sometimes want to add the copy feature. This lets your users simply click a button or icon to copy text rather than highlighting the text and clicking a couple of buttons on the keyboard. This feature is mostly used when someone]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Add to an Array – JS Append]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-add-to-an-array-js-append/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-add-to-an-array-js-append/"/>
-        <updated>2022-10-14T18:29:54.000Z</updated>
-        <summary type="html"><![CDATA[You can use arrays in JavaScript to store a group of variables, often referred to as elements or items of the array. Each of these elements will have an index number assigned to them starting from zero.  By default, you can use the index of an element in an]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UX vs UI – What's the Difference? Definition and Meaning]]></title>
-        <id>https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-meaning/</id>
-        <link href="https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-meaning/"/>
-        <updated>2022-10-14T16:15:57.000Z</updated>
-        <summary type="html"><![CDATA[When designing a website or an app, the finished product needs to be functional, intuitive, and aesthetically pleasing. This is where UX and UI design come in. UX and UI design are two technical terms that can often be confusing. Many people may use these two terms interchangeably, incorrectly, or]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Developer Journey – How I Learned to Code with Dyslexia and ADHD]]></title>
-        <id>https://www.freecodecamp.org/news/developer-journey/</id>
-        <link href="https://www.freecodecamp.org/news/developer-journey/"/>
-        <updated>2022-10-14T16:01:31.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone, I'm Jalmari Ikävalko, a software developer in my early 30s. In this article, I’ll share my whole journey from my first contact with code to becoming the professional developer I am today.  I'll start from my childhood when I first got interested in programming. My Introduction to]]></summary>
-        <author>
-            <name>Jalmari Ikävalko</name>
         </author>
     </entry>
 </feed>

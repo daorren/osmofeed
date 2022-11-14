@@ -1010,56 +1010,6 @@
           "wordCount": 3944,
           "title": "What is the Five Layers Model? The Framework of the Internet Explained",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/d.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/find-vs-filter-javascript/",
-          "author": "Aman Kalra",
-          "description": "A common interview question that JavaScript developers often get asked is to explain the difference between the find() and filter() methods.  In this tutorial today, I'll walk you through what these methods are and when you should use them. What is the filter() method? This method returns all the",
-          "link": "https://www.freecodecamp.org/news/find-vs-filter-javascript/",
-          "publishedOn": "2022-10-14T22:22:22.000Z",
-          "wordCount": 1174,
-          "title": "find() vs filter() in JavaScript – Differences Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Logo.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/copy-text-to-clipboard-javascript/",
-          "author": "Joel Olawanle",
-          "description": "When you're building advanced web pages and applications, you'll sometimes want to add the copy feature. This lets your users simply click a button or icon to copy text rather than highlighting the text and clicking a couple of buttons on the keyboard. This feature is mostly used when someone",
-          "link": "https://www.freecodecamp.org/news/copy-text-to-clipboard-javascript/",
-          "publishedOn": "2022-10-14T21:18:48.000Z",
-          "wordCount": 1263,
-          "title": "How to Copy Text to the Clipboard with JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/cover-template--14-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-add-to-an-array-js-append/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can use arrays in JavaScript to store a group of variables, often referred to as elements or items of the array. Each of these elements will have an index number assigned to them starting from zero.  By default, you can use the index of an element in an",
-          "link": "https://www.freecodecamp.org/news/javascript-add-to-an-array-js-append/",
-          "publishedOn": "2022-10-14T18:29:54.000Z",
-          "wordCount": 1555,
-          "title": "JavaScript Add to an Array – JS Append",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/kelly-sikkema--1_RZL8BGBM-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-meaning/",
-          "author": "Dionysia Lemonaki",
-          "description": "When designing a website or an app, the finished product needs to be functional, intuitive, and aesthetically pleasing. This is where UX and UI design come in. UX and UI design are two technical terms that can often be confusing. Many people may use these two terms interchangeably, incorrectly, or",
-          "link": "https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-meaning/",
-          "publishedOn": "2022-10-14T16:15:57.000Z",
-          "wordCount": 3296,
-          "title": "UX vs UI – What's the Difference? Definition and Meaning",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-picjumbocom-196644.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/developer-journey/",
-          "author": "Jalmari Ikävalko",
-          "description": "Hi everyone, I'm Jalmari Ikävalko, a software developer in my early 30s. In this article, I’ll share my whole journey from my first contact with code to becoming the professional developer I am today.  I'll start from my childhood when I first got interested in programming. My Introduction to",
-          "link": "https://www.freecodecamp.org/news/developer-journey/",
-          "publishedOn": "2022-10-14T16:01:31.000Z",
-          "wordCount": 3915,
-          "title": "My Developer Journey – How I Learned to Code with Dyslexia and ADHD",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/1.jpg"
         }
       ]
     },
@@ -1236,6 +1186,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "63681f93811f4275757699f5",
+          "author": "Assaf Arkin",
+          "description": "This week we bring out the popcorn, as we watch FTX implode and the big Twitter exodus. We also we learn about defensive CSS, and pre-sleep phone time.",
+          "link": "https://labnotes.org/weekend-reading-its-all-just-a-simulation/",
+          "publishedOn": "2022-11-13T21:27:50.000Z",
+          "wordCount": 1960,
+          "title": "Weekend Reading — 🍿 It's all just a simulation",
+          "imageUrl": "https://labnotes.org/content/images/2022/11/7633545db8112902.jpg"
+        },
+        {
           "id": "635dab23986b4b3ed6ac0b41",
           "author": "Assaf Arkin",
           "description": "This week we talk about server-side image rendering, making great presentations, and the opposite sides of fine-tuned AI art.",
@@ -1282,6 +1242,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/how-to-flip-characters-and-words-in-your-terminal/",
+          "author": null,
+          "description": "Today I learned that you press ctrl + t to flip characters in your terminal. 😲\niTerm session showing how to flip characters with \"ctrl + t\"\n      \n    \nI probably won't remember this shortcut, but I googled around and discovered that t can also be used to toggle words with alt + t.\nAnd this makes two toggle commands! Maybe this will stick... 🤞\nI only tested these command shortcuts in iTerm and the default terminal on macOS. It might be that they won't work on your machine. 🤷‍♂️\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/blog/how-to-flip-characters-and-words-in-your-terminal/",
+          "publishedOn": "2022-11-12T23:00:00.000Z",
+          "wordCount": 1245,
+          "title": "How to flip characters and words in your terminal (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20flip%20characters%20and%20words%20in%20your%20terminal/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/snippets/a-native-shell-alternative-to-the-trash-cli/",
           "author": null,
