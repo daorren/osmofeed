@@ -2,10 +2,136 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-15T01:52:55.049Z</updated>
+    <updated>2022-11-16T01:53:58.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Provision a Home Lab with Oracle Cloud and Ansible]]></title>
+        <id>https://www.freecodecamp.org/news/provision-home-lab-with-oracle-cloud-and-ansible/</id>
+        <link href="https://www.freecodecamp.org/news/provision-home-lab-with-oracle-cloud-and-ansible/"/>
+        <updated>2022-11-15T21:52:50.000Z</updated>
+        <summary type="html"><![CDATA[Imagine for a moment that you been working hard to setup a website, protected with SSL, and then your hardware fails. This means that unless you have a perfect backup of your machine, you will need to install all the software and configuration files by hand. What if it's not]]></summary>
+        <author>
+            <name>Jose Vicente Nunez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL DATE – Function, Query, Timestamp Example Format]]></title>
+        <id>https://www.freecodecamp.org/news/sql-date-function-query-timestamp-example-format/</id>
+        <link href="https://www.freecodecamp.org/news/sql-date-function-query-timestamp-example-format/"/>
+        <updated>2022-11-15T18:58:58.000Z</updated>
+        <summary type="html"><![CDATA[Dates are an integral part of any programming language, and SQL is no exception. When you insert data into your SQL database, you can add a date and query the database based on that date. In this article, you’ll learn about DATE functions in SQL and how to query a]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add ESLint to an Angular Application]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-add-eslint-to-an-angular-application/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-eslint-to-an-angular-application/"/>
+        <updated>2022-11-15T16:39:58.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll build a web application using the latest version of  Angular [https://angular.io/]. Then we'll add ESLint [https://eslint.org/] which analyzes the JavaScript code statically to find any problems. Prerequisites Before you start, you need to install and configure the tools below (if you don't already have them]]></summary>
+        <author>
+            <name>Rodrigo Kamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Stratified Random Sampling? Definition and Python Example]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-stratified-random-sampling-definition-and-python-example/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-stratified-random-sampling-definition-and-python-example/"/>
+        <updated>2022-11-15T16:33:52.000Z</updated>
+        <summary type="html"><![CDATA[When we wish to conduct an experiment on a population – for example, the entire population of a country – it is not always practical or realistic to include every subject (citizen) in the experiment.  Instead, we rely on a sample, which is a subset of the population, and]]></summary>
+        <author>
+            <name>Ibrahim Abayomi Ogunbiyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cannot use import statement outside a module [React TypeScript Error Solved]]]></title>
+        <id>https://www.freecodecamp.org/news/cannot-use-import-statement-outside-a-module-react-typescript-error-solved/</id>
+        <link href="https://www.freecodecamp.org/news/cannot-use-import-statement-outside-a-module-react-typescript-error-solved/"/>
+        <updated>2022-11-15T15:30:56.000Z</updated>
+        <summary type="html"><![CDATA[When building a web application, you may encounter the SyntaxError: Cannot use import statement outside a module error.  This error might be raised when using either JavaScript or TypeScript in the back-end. So you could be working on the client side with React, Vue, and so on, and still]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manage State in React]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-manage-state-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-manage-state-in-react/"/>
+        <updated>2022-11-15T15:17:14.000Z</updated>
+        <summary type="html"><![CDATA[React state management is a process for managing the data that React components need in order to render themselves. This data is typically stored in the component's state object. When the state object changes, the component will re-render itself. React state management is basically half of a React app. It]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Gut Microbiome Helps Social Skills Develop in the Brain]]></title>
+        <id>https://www.quantamagazine.org/?p=120578</id>
+        <link href="https://www.quantamagazine.org/the-gut-microbiome-helps-social-skills-develop-in-the-brain-20221115/"/>
+        <updated>2022-11-15T15:11:21.000Z</updated>
+        <summary type="html"><![CDATA[New research in fish suggests that gut microbes can have a crucial early influence on the brain’s social development.            
+The post The Gut Microbiome Helps Social Skills Develop in the Brain first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Joanna Thompson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #85 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-85/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-85/"/>
+        <updated>2022-11-14T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag!
+
+Have you ever used forgiving CSS selectors? Or do you know that not all JavaScript events can be trusted? Or that aria-label can be considered a code smell?
+All the answers and much more are included in this week's Web Weekly. 🫣
+Enjoy!
+It's funny how quickly editor habits change. Rach Smith shared some VS Code tips, and oh boy... I used to fold (⌘k + ⌘0) and unfold (⌘k + ⌘j) code blocks all the time, but I just stopped doing it for some reason. I don't know why. 🤷‍♂️
+
+Obviously, there are thousands of shortcuts I don't use. ⌘⇧k deletes a line, but it's just not making it into my muscle memory.
+
+On the other hand, some shortcuts just click. For example, I use ⇧⌥↓ to copy lines all the time.
+
+Maybe I should start remapping all these commands to make them brain compatible? But t…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS clip-path can go outside of an element (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/css-clip-path-can-go-outside-of-an-element/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/css-clip-path-can-go-outside-of-an-element/"/>
+        <updated>2022-11-14T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I've been reading one of Temani Afif's CSS magic posts and discovered a clip-path CSS trick I wasn't aware of.
+clip-path allows you to clip an element in various ways. You can use geometric shapes like circles and SVG paths. It's pretty cool!
+.element {
+  clip-path: circle(50px at 0 100px);
+  clip-path: path(
+    "M0.5,1 C0.5,1,0,0.7,0,0.3 A0.25,0.25,1,1,1,1,0.3 C1,0.7,0.5,1,0.5,1 Z"
+  );
+}
+
+But to be fair, I haven't used clip-path extensively, because a) my projects aren't that fancy, and b) I can't be bothered with creating complicated SVG paths.
+But then there's also polygon. With polygon you can define clipping pointed with relative percentages. Handy!
+.element {
+  clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+}
+
+And Temani shared that you can even define points outside the 100% range, too! 😲
+It’s a little known fact that clip-path accepts values outside the 0%-100% range, which allows us to create “overflowing” shapes.
+This detail is something I could get my head around to create some custom corners!
+[Interactive component: visit the article to see it...]
+Thank you, Temani!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Declare an Array in JavaScript – Creating an Array in JS]]></title>
         <id>https://www.freecodecamp.org/news/how-to-declare-an-array-in-javascript-creating-an-array-in-js/</id>
@@ -1648,37 +1774,6 @@ The post The Computer Scientist Who’s Boosting Privacy on the Internet first a
         <summary type="html"><![CDATA[Machine learning models are black box models. By giving input to these models, we can get output based on the particular model we're using.  The way humans interpret things is different from how machines interpret them. So it's helpful to use tools that can turn the output from certain]]></summary>
         <author>
             <name>Josua Antonius Naiborhu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematicians Discover the Fibonacci Numbers Hiding in Strange Spaces]]></title>
-        <id>https://www.quantamagazine.org/?p=119791</id>
-        <link href="https://www.quantamagazine.org/mathematicians-surprised-by-hidden-fibonacci-numbers-20221017/"/>
-        <updated>2022-10-17T13:44:13.000Z</updated>
-        <summary type="html"><![CDATA[Recent explorations of unique geometric worlds reveal perplexing patterns, including the Fibonacci sequence and the golden ratio.            
-The post Mathematicians Discover the Fibonacci Numbers Hiding in Strange Spaces first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Leila Sloman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Python? How the Interpreter Works and How to Write "Hello World" in Python]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-python-beginners-guide/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-python-beginners-guide/"/>
-        <updated>2022-10-17T13:38:18.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I am going to explain what Python is and how the Python interpreter works. Then you'll write your first "Hello World" program. What is Python? Python is a high-level programming language designed to do many tasks. It's based on the CPython interpreter which translates the Python code]]></summary>
-        <author>
-            <name>Michael Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the Five Layers Model? The Framework of the Internet Explained]]></title>
-        <id>https://www.freecodecamp.org/news/the-five-layers-model-explained/</id>
-        <link href="https://www.freecodecamp.org/news/the-five-layers-model-explained/"/>
-        <updated>2022-10-17T13:37:19.000Z</updated>
-        <summary type="html"><![CDATA[Computer Networks are a beautiful, amazing topic. Networks involve so much knowledge from different fields, from physics to algorithms.  When dealing with Computer Networks, there is one framework that puts everything into place – and that is the layers model.  In this post you'll learn why we need]]></summary>
-        <author>
-            <name>Omer Rosenbaum</name>
         </author>
     </entry>
 </feed>

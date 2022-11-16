@@ -12,6 +12,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/provision-home-lab-with-oracle-cloud-and-ansible/",
+          "author": "Jose Vicente Nunez",
+          "description": "Imagine for a moment that you been working hard to setup a website, protected with SSL, and then your hardware fails. This means that unless you have a perfect backup of your machine, you will need to install all the software and configuration files by hand. What if it's not",
+          "link": "https://www.freecodecamp.org/news/provision-home-lab-with-oracle-cloud-and-ansible/",
+          "publishedOn": "2022-11-15T21:52:50.000Z",
+          "wordCount": 2638,
+          "title": "How to Provision a Home Lab with Oracle Cloud and Ansible",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-pixabay-210158.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sql-date-function-query-timestamp-example-format/",
+          "author": "Kolade Chris",
+          "description": "Dates are an integral part of any programming language, and SQL is no exception. When you insert data into your SQL database, you can add a date and query the database based on that date. In this article, you’ll learn about DATE functions in SQL and how to query a",
+          "link": "https://www.freecodecamp.org/news/sql-date-function-query-timestamp-example-format/",
+          "publishedOn": "2022-11-15T18:58:58.000Z",
+          "wordCount": 1163,
+          "title": "SQL DATE – Function, Query, Timestamp Example Format",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/date.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-add-eslint-to-an-angular-application/",
+          "author": "Rodrigo Kamada",
+          "description": "In this article, we'll build a web application using the latest version of  Angular [https://angular.io/]. Then we'll add ESLint [https://eslint.org/] which analyzes the JavaScript code statically to find any problems. Prerequisites Before you start, you need to install and configure the tools below (if you don't already have them",
+          "link": "https://www.freecodecamp.org/news/how-to-add-eslint-to-an-angular-application/",
+          "publishedOn": "2022-11-15T16:39:58.000Z",
+          "wordCount": 1188,
+          "title": "How to Add ESLint to an Angular Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/angular-eslint-cover-hashnode.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-stratified-random-sampling-definition-and-python-example/",
+          "author": "Ibrahim Abayomi Ogunbiyi",
+          "description": "When we wish to conduct an experiment on a population – for example, the entire population of a country – it is not always practical or realistic to include every subject (citizen) in the experiment.  Instead, we rely on a sample, which is a subset of the population, and",
+          "link": "https://www.freecodecamp.org/news/what-is-stratified-random-sampling-definition-and-python-example/",
+          "publishedOn": "2022-11-15T16:33:52.000Z",
+          "wordCount": 1858,
+          "title": "What is Stratified Random Sampling? Definition and Python Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-viktorya-sergeeva--------10275085.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/cannot-use-import-statement-outside-a-module-react-typescript-error-solved/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When building a web application, you may encounter the SyntaxError: Cannot use import statement outside a module error.  This error might be raised when using either JavaScript or TypeScript in the back-end. So you could be working on the client side with React, Vue, and so on, and still",
+          "link": "https://www.freecodecamp.org/news/cannot-use-import-statement-outside-a-module-react-typescript-error-solved/",
+          "publishedOn": "2022-11-15T15:30:56.000Z",
+          "wordCount": 1238,
+          "title": "Cannot use import statement outside a module [React TypeScript Error Solved]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/markus-spiske-iar-afB0QQw-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-manage-state-in-react/",
+          "author": "Beau Carnes",
+          "description": "React state management is a process for managing the data that React components need in order to render themselves. This data is typically stored in the component's state object. When the state object changes, the component will re-render itself. React state management is basically half of a React app. It",
+          "link": "https://www.freecodecamp.org/news/how-to-manage-state-in-react/",
+          "publishedOn": "2022-11-15T15:17:14.000Z",
+          "wordCount": 764,
+          "title": "How to Manage State in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/reactstate.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-declare-an-array-in-javascript-creating-an-array-in-js/",
           "author": "Joel Olawanle",
           "description": "In JavaScript, an array is one of the most commonly used data types. It stores multiple values and elements in one variable. These values can be of any data type — meaning you can store a string, number, boolean, and other data types in one variable. There are two standard",
@@ -1050,26 +1110,6 @@
           "wordCount": 2391,
           "title": "How to Interpret Black Box Models using LIME (Local Interpretable Model-Agnostic Explanations)",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/LIME.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-python-beginners-guide/",
-          "author": "Michael Lee",
-          "description": "In this article, I am going to explain what Python is and how the Python interpreter works. Then you'll write your first \"Hello World\" program. What is Python? Python is a high-level programming language designed to do many tasks. It's based on the CPython interpreter which translates the Python code",
-          "link": "https://www.freecodecamp.org/news/what-is-python-beginners-guide/",
-          "publishedOn": "2022-10-17T13:38:18.000Z",
-          "wordCount": 1696,
-          "title": "What is Python? How the Interpreter Works and How to Write \"Hello World\" in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/python-img.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-five-layers-model-explained/",
-          "author": "Omer Rosenbaum",
-          "description": "Computer Networks are a beautiful, amazing topic. Networks involve so much knowledge from different fields, from physics to algorithms.  When dealing with Computer Networks, there is one framework that puts everything into place – and that is the layers model.  In this post you'll learn why we need",
-          "link": "https://www.freecodecamp.org/news/the-five-layers-model-explained/",
-          "publishedOn": "2022-10-17T13:37:19.000Z",
-          "wordCount": 3944,
-          "title": "What is the Five Layers Model? The Framework of the Internet Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/d.png"
         }
       ]
     },
@@ -1078,6 +1118,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=120578",
+          "author": "Joanna Thompson",
+          "description": "New research in fish suggests that gut microbes can have a crucial early influence on the brain’s social development.            \nThe post The Gut Microbiome Helps Social Skills Develop in the Brain first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-gut-microbiome-helps-social-skills-develop-in-the-brain-20221115/",
+          "publishedOn": "2022-11-15T15:11:21.000Z",
+          "wordCount": 5486,
+          "title": "The Gut Microbiome Helps Social Skills Develop in the Brain",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/MicrobesPruneNeurons-DanielCastranova_NICHD-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=120545",
           "author": "Sean Carroll",
@@ -1237,16 +1287,6 @@
           "wordCount": 7151,
           "title": "The Computer Scientist Who’s Boosting Privacy on the Internet",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/Harry-Halpin_1200_Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=119791",
-          "author": "Leila Sloman",
-          "description": "Recent explorations of unique geometric worlds reveal perplexing patterns, including the Fibonacci sequence and the golden ratio.            \nThe post Mathematicians Discover the Fibonacci Numbers Hiding in Strange Spaces first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/mathematicians-surprised-by-hidden-fibonacci-numbers-20221017/",
-          "publishedOn": "2022-10-17T13:44:13.000Z",
-          "wordCount": 5244,
-          "title": "Mathematicians Discover the Fibonacci Numbers Hiding in Strange Spaces",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/Infinite-Staircases_1200_Social.webp"
         }
       ]
     },
@@ -1302,6 +1342,26 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-85/",
+          "author": null,
+          "description": "Guten Tag!\n\nHave you ever used forgiving CSS selectors? Or do you know that not all JavaScript events can be trusted? Or that aria-label can be considered a code smell?\nAll the answers and much more are included in this week's Web Weekly. 🫣\nEnjoy!\nIt's funny how quickly editor habits change. Rach Smith shared some VS Code tips, and oh boy... I used to fold (⌘k + ⌘0) and unfold (⌘k + ⌘j) code blocks all the time, but I just stopped doing it for some reason. I don't know why. 🤷‍♂️\n\nObviously, there are thousands of shortcuts I don't use. ⌘⇧k deletes a line, but it's just not making it into my muscle memory.\n\nOn the other hand, some shortcuts just click. For example, I use ⇧⌥↓ to copy lines all the time.\n\nMaybe I should start remapping all these commands to make them brain compatible? But t…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-85/",
+          "publishedOn": "2022-11-14T23:00:00.000Z",
+          "wordCount": 2062,
+          "title": "Web Weekly #85 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/css-clip-path-can-go-outside-of-an-element/",
+          "author": null,
+          "description": "I've been reading one of Temani Afif's CSS magic posts and discovered a clip-path CSS trick I wasn't aware of.\nclip-path allows you to clip an element in various ways. You can use geometric shapes like circles and SVG paths. It's pretty cool!\n.element {\n  clip-path: circle(50px at 0 100px);\n  clip-path: path(\n    \"M0.5,1 C0.5,1,0,0.7,0,0.3 A0.25,0.25,1,1,1,1,0.3 C1,0.7,0.5,1,0.5,1 Z\"\n  );\n}\n\nBut to be fair, I haven't used clip-path extensively, because a) my projects aren't that fancy, and b) I can't be bothered with creating complicated SVG paths.\nBut then there's also polygon. With polygon you can define clipping pointed with relative percentages. Handy!\n.element {\n  clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);\n}\n\nAnd Temani shared that you can even define points outside the 100% range, too! 😲\nIt’s a little known fact that clip-path accepts values outside the 0%-100% range, which allows us to create “overflowing” shapes.\nThis detail is something I could get my head around to create some custom corners!\n[Interactive component: visit the article to see it...]\nThank you, Temani!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/css-clip-path-can-go-outside-of-an-element/",
+          "publishedOn": "2022-11-14T23:00:00.000Z",
+          "wordCount": 1465,
+          "title": "CSS clip-path can go outside of an element (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:CSS%20clip-path%20can%20go%20outside%20of%20an%20element/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/how-to-flip-characters-and-words-in-your-terminal/",
           "author": null,
