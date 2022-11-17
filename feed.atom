@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-16T01:53:58.218Z</updated>
+    <updated>2022-11-17T01:52:50.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Identity and Access Management (IAM) – Explained With an Analogy]]></title>
+        <id>https://www.freecodecamp.org/news/aws-iam-explained/</id>
+        <link href="https://www.freecodecamp.org/news/aws-iam-explained/"/>
+        <updated>2022-11-16T18:51:48.000Z</updated>
+        <summary type="html"><![CDATA[AWS IAM (Identity and Access Management) gives you control over who can access your AWS services and resources based on some predefined permissions.  The two keywords here are “who” and “permissions”. “Who” refers to a specific identity, which can be a user, group or role. “permissions” refer to the]]></summary>
+        <author>
+            <name>Daniel Adetunji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Modern Documentation Site with VitePress]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-modern-documentation-site-with-vitepress/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-modern-documentation-site-with-vitepress/"/>
+        <updated>2022-11-16T17:01:23.000Z</updated>
+        <summary type="html"><![CDATA[Documentation is a crucial aspect of software development. But developers often neglect it because it can be a hassle to maintain. This is why it's important to use tools that help simplify this process.  In this tutorial, you'll learn how to build a complete docs site quickly by utilizing]]></summary>
+        <author>
+            <name>Victor Eke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Proof ‘Blows Up’ Centuries-Old Fluid Equations]]></title>
+        <id>https://www.quantamagazine.org/?p=120604</id>
+        <link href="https://www.quantamagazine.org/computer-helps-prove-long-sought-fluid-equation-singularity-20221116/"/>
+        <updated>2022-11-16T15:40:45.000Z</updated>
+        <summary type="html"><![CDATA[For more than 250 years, mathematicians have wondered if the Euler equations might sometimes fail to describe a fluid’s flow. A new computer-assisted proof marks a major breakthrough in that quest.            
+The post Computer Proof ‘Blows Up’ Centuries-Old Fluid Equations first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Jordana Cepelewicz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The missing bridge in web development – JSON forms (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/the-missing-bridge-in-web-development-json-forms/</id>
+        <link href="https://www.stefanjudis.com/notes/the-missing-bridge-in-web-development-json-forms/"/>
+        <updated>2022-11-15T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jim Nielsen did what he always does and shared some thoughts on the web platform. And he hit the nail on the head with "Browsers, JSON, and FormData".
+So what's the current state of the web?
+It's bloated with truckloads of JavaScript, and APIs power everything. APIs won't go anywhere, but we're all working on reducing JavaScript.
+To drop some code while still relying on APIs, there are two options:
+We need either 1) more APIs that speak FormData, or 2) browsers that speak JSON.
+On point, Jim! On point. 💯
+Think of it: isn't it wild that JSON APIs only work with JavaScript and Ajax because JSON requests aren't supported in HTML?
+To put it bluntly: there’s no progressive enhancement if all your APIs only accept JSON payloads directly from the browser.
+With the rise of all these APIs, we either have to rely on client-side JavaScript to talk to APIs directly or pipe everything through a serverless function. And we're so used to doing this that we don't even question it anymore.
+The web platform is entirely broken in that sense if you ask me. And it's funny, because Jim dug up a spec that aimed to bring JSON into HTML. 😲
+<form enctype='application/json'>
+  <input name='name' value='Bender'>
+  <select name='hind'>
+    <option selected>Bitable</option>
+    <option>Kickable</option>
+  </select>
+  <input type='checkbox' name='shiny' checked>
+</form>
+
+Unfortunately, the spec went nowhere...
+But think of it: with JSON built into HTML forms, and View transitions coming up (formerly known as Shared Element Transistions), the web could really catch up and become the platform it needs to be these days.
+Anyways, head over to Jim's blog; it's a good one, I promise!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Provision a Home Lab with Oracle Cloud and Ansible]]></title>
         <id>https://www.freecodecamp.org/news/provision-home-lab-with-oracle-cloud-and-ansible/</id>
@@ -1704,76 +1771,6 @@ The post Inside the Proton, the ‘Most Complicated Thing You Could Possibly Ima
 The post The Computer Scientist Who’s Boosting Privacy on the Internet first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Steve Nadis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Search Tips – How to Search Issues, Repos, and More Effectively on GitHub]]></title>
-        <id>https://www.freecodecamp.org/news/github-search-tips/</id>
-        <link href="https://www.freecodecamp.org/news/github-search-tips/"/>
-        <updated>2022-10-17T19:27:10.000Z</updated>
-        <summary type="html"><![CDATA[When I was a beginner to open-source contributions, one of my greatest challenge was finding the correct projects/issues to work on. For the longest time I relied on resources curated by different writers on the internet (which were good, by the way). But I always wanted to find a way]]></summary>
-        <author>
-            <name>Hillary Nyakundi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP Explode – How to Split a String into an Array]]></title>
-        <id>https://www.freecodecamp.org/news/php-explode-how-to-split-a-string-into-an-array/</id>
-        <link href="https://www.freecodecamp.org/news/php-explode-how-to-split-a-string-into-an-array/"/>
-        <updated>2022-10-17T17:19:46.000Z</updated>
-        <summary type="html"><![CDATA[The PHP explode() function converts a string to an array. Each of the characters in the string is given an index that starts from 0. Like the built-in imlode()  function, the explode function does not modify the data (string). Syntax of the explode() Function The explode() function takes in]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Show Upcoming Meetings for a Microsoft 365 User]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-show-upcoming-meetings-for-a-microsoft-365-user/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-show-upcoming-meetings-for-a-microsoft-365-user/"/>
-        <updated>2022-10-17T17:08:26.000Z</updated>
-        <summary type="html"><![CDATA[If you're a web developer and you work with an organization that uses Microsoft 365, you probably use it to manage your meetings. In this tutorial, you'll learn how you can build a simple personal assistant in under 10 minutes that'll show a Microsoft 365 user the meetings they have]]></summary>
-        <author>
-            <name>Waldek Mastykarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Architect a Blockchain on Kubernetes – K8S Microservice Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-architect-a-blockchain-on-kubernetes-k8s-microservice-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-architect-a-blockchain-on-kubernetes-k8s-microservice-tutorial/"/>
-        <updated>2022-10-17T16:02:43.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I will describe how to use microservices architecture and Kubernetes to build a blockchain.  The technologies usually used for blockchains are purpose-driven, and you can use them for other projects as well. The examples in this article can readily handle heavy loads and remain responsive and]]></summary>
-        <author>
-            <name>Kayode Adeniyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Lowercase a String in JavaScript – toLowerCase() in JS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-lowercase-a-string-in-javascript-tolowercase-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-lowercase-a-string-in-javascript-tolowercase-in-js/"/>
-        <updated>2022-10-17T15:51:50.000Z</updated>
-        <summary type="html"><![CDATA[Strings are a fundamental part of working with JavaScript. And the toLowerCase()  method is one of the many integrated methods that you can use to work with strings. In this article, we'll see how to make strings lowercase with the toLowerCase()  method in Python. What is a String?]]></summary>
-        <author>
-            <name>Ilenia Magoni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Svelte in 23 Hours]]></title>
-        <id>https://www.freecodecamp.org/news/learn-svelte-complete-course/</id>
-        <link href="https://www.freecodecamp.org/news/learn-svelte-complete-course/"/>
-        <updated>2022-10-17T15:14:47.000Z</updated>
-        <summary type="html"><![CDATA[Svelte is a front-end JavaScript framework for making interactive webpages. Svelte has grown in popularity quite a bit over the last few years. We just published a free 23-hour course on the freeCodeCamp.org YouTube channel that will teach you how to use Svelte. Li Hau Tan developed this course. Li]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Interpret Black Box Models using LIME (Local Interpretable Model-Agnostic Explanations)]]></title>
-        <id>https://www.freecodecamp.org/news/interpret-black-box-model-using-lime/</id>
-        <link href="https://www.freecodecamp.org/news/interpret-black-box-model-using-lime/"/>
-        <updated>2022-10-17T15:12:31.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning models are black box models. By giving input to these models, we can get output based on the particular model we're using.  The way humans interpret things is different from how machines interpret them. So it's helpful to use tools that can turn the output from certain]]></summary>
-        <author>
-            <name>Josua Antonius Naiborhu</name>
         </author>
     </entry>
 </feed>
