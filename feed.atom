@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-20T01:57:38.135Z</updated>
+    <updated>2022-11-21T01:53:55.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 👋 Rolling with the boilerplate]]></title>
+        <id>637161c0d081b62c034110a1</id>
+        <link href="https://labnotes.org/weekend-reading-rolling-with-the-boilerplate/"/>
+        <updated>2022-11-21T01:20:42.000Z</updated>
+        <summary type="html"><![CDATA[This week we use AI to find bugs and generate security holes, flex with cats, design for Teletext, and defeat a chicken.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #86 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-86/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-86/"/>
+        <updated>2022-11-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag!
+
+Do you struggle with Unicode in JavaScript? Or curse the vh when designing for mobile? Or always wanted to know how this obscure .visually-hidden class you're copying from project to project works?
+All the answers and much more are included in this week's Web Weekly. 🫣
+Enjoy!
+This edition is the 86th Web Weekly, and for almost two years, I've been sharing weekly Frontend tips (I missed a few, but hey... 🙈).
+It's odd that Web Weekly somehow became a part of my life. 💙
+This week, I've chatted with my friend Anselm who runs the excellent Web Development Reading List. You should check it out!
+We both wondered where we're going with our newsletters and if there's a way to collaborate.
+All this got me thinking about Web Weekly.
+Is it valuable to send it weekly? Should it be focuss…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux Date Command – How to Query the Terminal to Get Dates]]></title>
         <id>https://www.freecodecamp.org/news/how-to-query-the-terminal-to-get-dates-linux/</id>
@@ -1683,100 +1713,6 @@ Thought of the week
 Attention, a…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Upload Files to Azure using NestJS and typeORM with MySQL]]></title>
-        <id>https://www.freecodecamp.org/news/upload-files-to-azure-using-nestjs-and-typeorm-with-mysql/</id>
-        <link href="https://www.freecodecamp.org/news/upload-files-to-azure-using-nestjs-and-typeorm-with-mysql/"/>
-        <updated>2022-10-21T23:13:08.000Z</updated>
-        <summary type="html"><![CDATA[Images and videos are examples of huge files that might be stored in your database. And this might impact the performance of your applications because of the amount of space that those files can take up.  Also, it expands the database, which makes backups larger and slower. Because of]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Layouts – How to Use CSS Grid and Flex to Create a Responsive Web Page]]></title>
-        <id>https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/</id>
-        <link href="https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/"/>
-        <updated>2022-10-21T23:12:52.000Z</updated>
-        <summary type="html"><![CDATA[Your web layout is to your website what a floor plan is to a building. Without them, you’re just building castles in the air.  The first thing to do when you have a website or application to build or design is to decide on the layout. This is important]]></summary>
-        <author>
-            <name>Ophy Boamah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A centered CSS grid with full-width components (#snippet)]]></title>
-        <id>https://www.stefanjudis.com/snippets/a-centered-css-grid-with-full-width-components/</id>
-        <link href="https://www.stefanjudis.com/snippets/a-centered-css-grid-with-full-width-components/"/>
-        <updated>2022-10-21T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Not too long ago, I was looking into refactoring my site to go all in with CSS grid!
-I've been aiming for a classical centered blog layout with flexible side margins. The content should be 65 characters wide at max. But (!) I wanted to be able to break free, and some components should go full-width by setting a class. And it should all work with CSS grid.
-After fiddling with it for a while, I didn't reach a satisfying result and decided to do it another day. In the meantime, Ryan Mulligan's post "Layout Breakouts with CSS Grid" provided the CSS solution I was looking for (see it in action on CodePen).
-The solution: named grid-template-columns and some math
-
-Put all your content in a content wrapper element that defines named grid areas:
-.content {
-  --gap: clamp(1rem, 6vw, 3rem);
-  --full: minmax(var(--gap), 1fr);
-  --content: min(50ch, 100% - var(--gap) * 2);
-  --popout: minmax(0, 2rem);
-  --feature: minmax(0, 5rem);
-
-  display: grid;
-  grid-template-columns:
-    [full-start] var(--full)
-    [feature-start] var(--feature)
-    [popout-start] var(--popout)
-    [content-start] var(--content) [content-end]
-    var(--popout) [popout-end]
-    var(--feature) [feature-end]
-    var(--full) [full-end];
-}
-
-And then control all the component widths using grid template areas. 💯
-.content > * {
-  grid-column: content;
-}
-.popout {
-  grid-column: popout;
-}
-.feature {
-  grid-column: feature;
-}
-.full {
-  grid-column: full;
-}
-
-The post even includes a beautiful visualization that explains what's going on. 👏
-I love it. 💙 Thank you, Ryan!
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is an ORM – The Meaning of Object Relational Mapping Database Tools]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/"/>
-        <updated>2022-10-21T18:18:25.000Z</updated>
-        <summary type="html"><![CDATA[Object Relational Mapping (ORM) is a technique used in creating a "bridge" between object-oriented programs and, in most cases, relational databases [/news/what-is-a-relational-database-rdbms-definition/]. Put another way, you can see the ORM as the layer that connects object oriented programming [/news/four-pillars-of-object-oriented-programming/] (OOP) to relational databases.  When interacting with a database using]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Ethernet Protocol Works – A Complete Guide]]></title>
-        <id>https://www.freecodecamp.org/news/the-complete-guide-to-the-ethernet-protocol/</id>
-        <link href="https://www.freecodecamp.org/news/the-complete-guide-to-the-ethernet-protocol/"/>
-        <updated>2022-10-21T17:12:40.000Z</updated>
-        <summary type="html"><![CDATA[Whether you’ve been aware of it or not, you’ve probably used the Ethernet in the past. Does this cable look familiar? (Source: Wikipedia [https://en.wikipedia.org/wiki/Ethernet_physical_layer#/media/File:EthernetCableYellow3.jpg] )Ethernet is extremely popular, and is the most widely used Data Link Layer protocol, at least where the devices are linked by physical cables (rather than]]></summary>
-        <author>
-            <name>Omer Rosenbaum</name>
         </author>
     </entry>
 </feed>
