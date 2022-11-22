@@ -12,6 +12,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-mobile-app-curriculum-update/",
+          "author": "Sem Bauke",
+          "description": "I am happy to announce that the freeCodeCamp mobile app is finally ready to accept beta testers. 🧑‍💻 The mobile development team just pushed a big update with many helpful improvements. A big part of this is update is the implementation of the freeCodeCamp curriculum, AKA /learn. We are still",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-mobile-app-curriculum-update/",
+          "publishedOn": "2022-11-21T16:23:56.000Z",
+          "wordCount": 947,
+          "title": "The freeCodeCamp Mobile App – Learn to Code Right On Your Phone",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/michal-soukup-hDOskFirs-c-unsplash.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-query-the-terminal-to-get-dates-linux/",
           "author": "Arunachalam B",
           "description": "Linux has many utility tools that help you quickly find the answer to your questions. But many devs aren't aware of them. In this article, you will learn a command that has exceptional benefits.  For example, say you want to take a look at your calendar to plan a",
@@ -1039,6 +1049,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=120730",
+          "author": "Patrick Honner",
+          "description": "Proving that two polygons have the same area can be as easy as cutting them up and rearranging the pieces.             \nThe post The Simple Geometry Behind Brownie Bake Offs and Equal Areas first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/simple-geometry-shows-when-two-shapes-are-equal-20221121/",
+          "publishedOn": "2022-11-21T15:31:33.000Z",
+          "wordCount": 7872,
+          "title": "The Simple Geometry Behind Brownie Bake Offs and Equal Areas",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/NovemberAcademy-cr.RobertNeubecker-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=120649",
           "author": "Charlie Wood",
           "description": "Two physicists have calculated that the universe has a higher entropy — and is therefore more likely — than alternative possible universes.            \nThe post Why This Universe? A New Calculation Suggests Our Cosmos Is Typical. first appeared on Quanta Magazine",
@@ -1244,16 +1264,6 @@
           "wordCount": 1172,
           "title": "Weekend Reading — 👻 Inspiring deadline",
           "imageUrl": "https://labnotes.org/content/images/2022/10/m8gdp15avuv91.jpg.webp"
-        },
-        {
-          "id": "634b4a70725d383ca43f088e",
-          "author": "Assaf Arkin",
-          "description": "This week we help a machine generate art, so we can out-source our thought leadership, wash in WFG, and set up our OpenTable profile.",
-          "link": "https://labnotes.org/weekend-reading-any-desk-is-a-standing-desk-if-youre-short-enough/",
-          "publishedOn": "2022-10-22T23:02:04.000Z",
-          "wordCount": 1757,
-          "title": "Weekend Reading — 👋 Any desk is a standing desk if you’re short enough",
-          "imageUrl": "https://labnotes.org/content/images/2022/10/SCR-20221021-e5y.png"
         }
       ]
     },
@@ -1351,16 +1361,6 @@
           "wordCount": 1355,
           "title": "A JavaScript-free custom element implementation (#note)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20JavaScript-free%20custom%20element%20implementation/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-83/",
-          "author": null,
-          "description": "Γειά σου!\n\nThis week's Web Weekly comes to you from a lovely terrace in Greece. I spent the last few days mountain biking, driving on tiny streets, and hiking, and right now, I'm looking down at the Mediterranean Sea.\nLife's good because I'm taking the much-needed break from being a tad too busy for a little too long. Nevertheless, I love writing this newsletter, so let's get to it!\nYou might have heard of MPAs and SPAs — but have you heard of PEMPAs and PESPAs? Or did you consider that Copilot might be toxic for open source communities? And do you know that there's an HTTP header to clear localstorage?\nAll the answers and much more are included in this week's Web Weekly. 🙈 Enjoy!\nWelcome to the 34 new subscribers! I'm super excited to have you around! 👋\nThought of the week\n\nAttention, a…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-83/",
-          "publishedOn": "2022-10-22T21:00:00.000Z",
-          "wordCount": 2308,
-          "title": "Web Weekly #83 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
     },
