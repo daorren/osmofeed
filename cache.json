@@ -12,6 +12,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/create-a-arcade-style-shooting/",
+          "author": "Beau Carnes",
+          "description": "Creating an arcade-style shooting game is a fun project to help you improve your Python and PyGame programming skills. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a fun game using Python and PyGame. Pete LeMaster created this course. Pete is",
+          "link": "https://www.freecodecamp.org/news/create-a-arcade-style-shooting/",
+          "publishedOn": "2022-11-22T14:41:04.000Z",
+          "wordCount": 899,
+          "title": "Create a Arcade-Style Shooting Game with Python and PyGame",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pythongame.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-validate-urls-in-javascript/",
+          "author": "Benjamin Semah",
+          "description": "A Uniform Resource Locator (URL) is what leads you to a page or file on the internet. URLs serve as the addresses of things on the internet. All valid URLs follow certain patterns. So if you know those patterns, you can determine whether a URL is valid or not in",
+          "link": "https://www.freecodecamp.org/news/how-to-validate-urls-in-javascript/",
+          "publishedOn": "2022-11-22T04:12:10.000Z",
+          "wordCount": 1800,
+          "title": "How to Validate URLs in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/web-design-g84d0f5bf9_1920.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/freecodecamp-mobile-app-curriculum-update/",
           "author": "Sem Bauke",
           "description": "I am happy to announce that the freeCodeCamp mobile app is finally ready to accept beta testers. 🧑‍💻 The mobile development team just pushed a big update with many helpful improvements. A big part of this is update is the implementation of the freeCodeCamp curriculum, AKA /learn. We are still",
@@ -1048,6 +1068,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=120793",
+          "author": "Rachel Crowell",
+          "description": "Wei Ho, the first director of the Women and Mathematics program at the Institute for Advanced Study, combines algebra and geometry in her work on an ancient class of curves.            \nThe post A Mathematician Dancing Between Algebra and Geometry first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/wei-ho-is-drawn-to-algebra-geometry-and-the-human-side-of-math-20221122/",
+          "publishedOn": "2022-11-22T15:50:49.000Z",
+          "wordCount": 6522,
+          "title": "A Mathematician Dancing Between Algebra and Geometry",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/WeiHo-cr.CarolineGutman-Social-2.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=120730",
           "author": "Patrick Honner",

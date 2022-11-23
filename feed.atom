@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-22T01:55:32.270Z</updated>
+    <updated>2022-11-23T01:42:41.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Mathematician Dancing Between Algebra and Geometry]]></title>
+        <id>https://www.quantamagazine.org/?p=120793</id>
+        <link href="https://www.quantamagazine.org/wei-ho-is-drawn-to-algebra-geometry-and-the-human-side-of-math-20221122/"/>
+        <updated>2022-11-22T15:50:49.000Z</updated>
+        <summary type="html"><![CDATA[Wei Ho, the first director of the Women and Mathematics program at the Institute for Advanced Study, combines algebra and geometry in her work on an ancient class of curves.            
+The post A Mathematician Dancing Between Algebra and Geometry first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Rachel Crowell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Arcade-Style Shooting Game with Python and PyGame]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-arcade-style-shooting/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-arcade-style-shooting/"/>
+        <updated>2022-11-22T14:41:04.000Z</updated>
+        <summary type="html"><![CDATA[Creating an arcade-style shooting game is a fun project to help you improve your Python and PyGame programming skills. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a fun game using Python and PyGame. Pete LeMaster created this course. Pete is]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Validate URLs in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-validate-urls-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-validate-urls-in-javascript/"/>
+        <updated>2022-11-22T04:12:10.000Z</updated>
+        <summary type="html"><![CDATA[A Uniform Resource Locator (URL) is what leads you to a page or file on the internet. URLs serve as the addresses of things on the internet. All valid URLs follow certain patterns. So if you know those patterns, you can determine whether a URL is valid or not in]]></summary>
+        <author>
+            <name>Benjamin Semah</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The freeCodeCamp Mobile App – Learn to Code Right On Your Phone]]></title>
         <id>https://www.freecodecamp.org/news/freecodecamp-mobile-app-curriculum-update/</id>
