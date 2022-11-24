@@ -990,76 +990,6 @@
           "wordCount": 2035,
           "title": "freeCodeCamp Turns 8 Years Old: Data Science Courses + University Degrees Update",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/freeCodeCamp-Data-Science-Courses-and-Degrees.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/payment-request-api-javascript/",
-          "author": "Atta ✨",
-          "description": "The Payment Request API provides a cross-browser standard that lets you collect payments, addresses, and contact information from your customers. You can then use this info to process their order. It also facilitates the exchange of this information between the browser and the website. The fundamental idea behind this is",
-          "link": "https://www.freecodecamp.org/news/payment-request-api-javascript/",
-          "publishedOn": "2022-10-24T22:40:51.000Z",
-          "wordCount": 1958,
-          "title": "How to Use the Payment Request API in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/js-payment-request.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-contribute-to-open-source-for-technical-writers/",
-          "author": "Valentine Gatwiri",
-          "description": "Contributing to open source can be a daunting prospect, especially if you haven't done so before, or if you're used to working on documentation rather than code. This guide will help technical writers get started contributing to open-source projects, and outline some of the common pitfalls you might encounter when",
-          "link": "https://www.freecodecamp.org/news/how-to-contribute-to-open-source-for-technical-writers/",
-          "publishedOn": "2022-10-24T21:20:33.000Z",
-          "wordCount": 2030,
-          "title": "How to Contribute to Open Source – a Guide for Technical Writers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-william-fortunato-6393024.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-swift-handbook/",
-          "author": "Flavio Copes",
-          "description": "Introduction to Swift The Swift programming language was created by Apple in 2014. It's the official language that works with the whole Apple Operating Systems lineup: iOS, iPadOS, watchOS, macOS, and tvOS. Swift is an open source, general purpose, compiled programming language that's statically typed. Every value has a type",
-          "link": "https://www.freecodecamp.org/news/the-swift-handbook/",
-          "publishedOn": "2022-10-24T21:04:27.000Z",
-          "wordCount": 6746,
-          "title": "The Swift Handbook – Learn Swift for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-quang-nguyen-vinh-6131283.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/sql-select-statement-and-query-examples/",
-          "author": "Joel Olawanle",
-          "description": "Structured Query Language (SQL) is a programming language that you use to manage data in relational databases. You can use SQL to create, read, update, and delete (CRUD) data in a relational database. You can write SQL queries to insert data with INSERT, read data with SELECT, update with UPDATE,",
-          "link": "https://www.freecodecamp.org/news/sql-select-statement-and-query-examples/",
-          "publishedOn": "2022-10-24T18:07:46.000Z",
-          "wordCount": 1724,
-          "title": "SQL Select – Statement and Query Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/cover-template--17-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-monetize-your-website/",
-          "author": "Beau Carnes",
-          "description": "Web Monetization means that you can get money for every person that visits your website. Sounds good right? But how does it work?  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to monetize your website using microtransactions and the Interledger Protocol.",
-          "link": "https://www.freecodecamp.org/news/how-to-monetize-your-website/",
-          "publishedOn": "2022-10-24T15:37:44.000Z",
-          "wordCount": 881,
-          "title": "How to Monetize Your Website with Microtransactions",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/maxresdefault-2.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-the-firebase-database-in-react/",
-          "author": "Edeh Israel Chidera",
-          "description": "Firebase provides some great services like NoSQL databases, authentication, cloud storage, and much more. In this tutorial, we will learn how to use your React application to read and add data to your Firebase database.  To demonstrate this, we will learn how to build a Todo app using React",
-          "link": "https://www.freecodecamp.org/news/how-to-use-the-firebase-database-in-react/",
-          "publishedOn": "2022-10-24T15:08:06.000Z",
-          "wordCount": 2412,
-          "title": "How to Use Cloud Firestore in a React App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/lautaro-andreani-xkBaqlcqeb4-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/gradient-descent-machine-learning-algorithm-example/",
-          "author": "Salim Oyinlola",
-          "description": "What is the Gradient Descent Algorithm? Gradient descent is probably the most popular machine learning algorithm. At its core, the algorithm exists to minimize errors as much as possible.  The aim of gradient descent as an algorithm is to minimize the cost function of a model. We can tell",
-          "link": "https://www.freecodecamp.org/news/gradient-descent-machine-learning-algorithm-example/",
-          "publishedOn": "2022-10-24T13:53:51.000Z",
-          "wordCount": 1916,
-          "title": "Gradient Descent – Machine Learning Algorithm Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-pixabay-159751.jpg"
         }
       ]
     },
@@ -1068,6 +998,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=120848",
+          "author": "Ben Brubaker",
+          "description": "Inspired by the results of a game-playing neural network, mathematicians have been making unexpected advances on an age-old math problem.            \nThe post AI Reveals New Possibilities in Matrix Multiplication first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/ai-reveals-new-possibilities-in-matrix-multiplication-20221123/",
+          "publishedOn": "2022-11-23T14:57:13.000Z",
+          "wordCount": 7190,
+          "title": "AI Reveals New Possibilities in Matrix Multiplication",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/DeepmindMatrixMultiplication-cr.MahmetEminGu%CC%88zel-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=120793",
           "author": "Rachel Crowell",
@@ -1237,16 +1177,6 @@
           "wordCount": 6314,
           "title": "How to Win at Wordle (Without Cheating)",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/October_Puzzle_1200_Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=120011",
-          "author": "Allison Parshall",
-          "description": "A team of physicists has entangled three photons over a considerable distance, which could lead to more powerful quantum cryptography.            \nThe post New Entanglement Results Hint at Better Quantum Codes first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/new-entanglement-results-hint-at-better-quantum-codes-20221024/",
-          "publishedOn": "2022-10-24T14:08:23.000Z",
-          "wordCount": 5175,
-          "title": "New Entanglement Results Hint at Better Quantum Codes",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/Three-Party-Entanglement_1200_Social.webp"
         }
       ]
     },
