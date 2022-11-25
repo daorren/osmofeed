@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-24T01:46:40.510Z</updated>
+    <updated>2022-11-25T01:43:36.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Should responsive images work with container queries? (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/should-responsive-images-work-with-container-queries/</id>
+        <link href="https://www.stefanjudis.com/notes/should-responsive-images-work-with-container-queries/"/>
+        <updated>2022-11-23T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Container queries are slowly moving towards cross-browser support, and it got me wondering: how is image loading supposed to work in a container-based world?
+The wonderful Miriam Suzanne pointed me to a GitHub issue discussing this exact topic.
+The container-based responsive images proposal
+
+Here's the issue created by Una Kravets.
+
+
+
+
+
+
+
+
+
+w3c/csswg-drafts #5889 OPEN
+
+
+
+[css-conditional] [css-contain] srcset and sizes interaction with container queries
+
+ una opened it Jan 22 2021
+
+As it's pretty long, and the topic spreads across multiple different but somehow related discussions, let me summarize what I understood.
+Disclaimer: I'm no browser engineer; if you spot any mistakes, please let me know!
+The syntax for responsive images is quite verbose. And especially if you want to load differ…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Reveals New Possibilities in Matrix Multiplication]]></title>
         <id>https://www.quantamagazine.org/?p=120848</id>
@@ -1615,57 +1649,6 @@ The post How Genes Can Leap From Snakes to Frogs in Madagascar first appeared on
 The post Brightest-Ever Space Explosion Reveals Possible Hints of Dark Matter first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Jonathan O'Callaghan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How Graph Algorithms Work]]></title>
-        <id>https://www.freecodecamp.org/news/learn-how-graph-algorithms-work/</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-graph-algorithms-work/"/>
-        <updated>2022-10-26T13:42:09.000Z</updated>
-        <summary type="html"><![CDATA[Graph algorithms and data structures are used to solve many real-word problems and are commonly needed to solve coding challenges. A graph data structures is a non-linear data structure consisting of vertices and edges. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn how]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Python Lambda Function Works – Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/python-lambda-function-explained/</id>
-        <link href="https://www.freecodecamp.org/news/python-lambda-function-explained/"/>
-        <updated>2022-10-25T20:37:45.000Z</updated>
-        <summary type="html"><![CDATA[One of the beautiful things about Python is that it is generally one of the most intuitive programming languages out there. Still, certain concepts can be difficult to grasp and comprehend. The lambda function is one of them.  I've been there. When I first started learning Python, I skipped]]></summary>
-        <author>
-            <name>Ibrahim Abayomi Ogunbiyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Production Ready eCommerce Website with ReactJS, TailwindCSS, PlanetScale and Stripe]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-ecommerce-website-using-next-js-and-planetscale/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-ecommerce-website-using-next-js-and-planetscale/"/>
-        <updated>2022-10-25T16:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Hello, welcome to this tutorial. Today we're going to build a production-ready eCommerce website using ReactJS, TailwindCSS, PlanetScale, and Stripe. Before we begin, you should be familiar with the basics of React.js and Next.js to get the most out of this guide. If you're not and need to brush up,]]></summary>
-        <author>
-            <name>Sharvin Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Win at Wordle (Without Cheating)]]></title>
-        <id>https://www.quantamagazine.org/?p=120040</id>
-        <link href="https://www.quantamagazine.org/how-to-win-at-wordle-without-cheating-20221025/"/>
-        <updated>2022-10-25T14:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Solve these puzzle questions to level up your Wordle game.            
-The post How to Win at Wordle (Without Cheating) first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Pradeep Mutalik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freeCodeCamp Turns 8 Years Old: Data Science Courses + University Degrees Update]]></title>
-        <id>https://www.freecodecamp.org/news/freecodecamp-math-computer-science-degree-update/</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-math-computer-science-degree-update/"/>
-        <updated>2022-10-25T13:52:49.000Z</updated>
-        <summary type="html"><![CDATA[Happy birthday to the global freeCodeCamp community. 8 years ago, we started this grass-roots community of learners. Back then, freeCodeCamp sounded like an improbable dream. But we all rolled up our sleeves and got to work making it a reality. Today, more than a million people use freeCodeCamp each day.]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
 </feed>

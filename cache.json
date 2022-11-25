@@ -950,46 +950,6 @@
           "wordCount": 1735,
           "title": "Computer Science VS Information Technology – What's the Difference Between CS and IT?",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/science-ge752bcd42_1280.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-how-graph-algorithms-work/",
-          "author": "Beau Carnes",
-          "description": "Graph algorithms and data structures are used to solve many real-word problems and are commonly needed to solve coding challenges. A graph data structures is a non-linear data structure consisting of vertices and edges. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn how",
-          "link": "https://www.freecodecamp.org/news/learn-how-graph-algorithms-work/",
-          "publishedOn": "2022-10-26T13:42:09.000Z",
-          "wordCount": 808,
-          "title": "Learn How Graph Algorithms Work",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/graphalgs2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-lambda-function-explained/",
-          "author": "Ibrahim Abayomi Ogunbiyi",
-          "description": "One of the beautiful things about Python is that it is generally one of the most intuitive programming languages out there. Still, certain concepts can be difficult to grasp and comprehend. The lambda function is one of them.  I've been there. When I first started learning Python, I skipped",
-          "link": "https://www.freecodecamp.org/news/python-lambda-function-explained/",
-          "publishedOn": "2022-10-25T20:37:45.000Z",
-          "wordCount": 1725,
-          "title": "How the Python Lambda Function Works – Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-pixabay-45246--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-ecommerce-website-using-next-js-and-planetscale/",
-          "author": "Sharvin Shah",
-          "description": "Hello, welcome to this tutorial. Today we're going to build a production-ready eCommerce website using ReactJS, TailwindCSS, PlanetScale, and Stripe. Before we begin, you should be familiar with the basics of React.js and Next.js to get the most out of this guide. If you're not and need to brush up,",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-ecommerce-website-using-next-js-and-planetscale/",
-          "publishedOn": "2022-10-25T16:30:14.000Z",
-          "wordCount": 6999,
-          "title": "How to Build a Production Ready eCommerce Website with ReactJS, TailwindCSS, PlanetScale and Stripe",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Add-a-heading.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/freecodecamp-math-computer-science-degree-update/",
-          "author": "Quincy Larson",
-          "description": "Happy birthday to the global freeCodeCamp community. 8 years ago, we started this grass-roots community of learners. Back then, freeCodeCamp sounded like an improbable dream. But we all rolled up our sleeves and got to work making it a reality. Today, more than a million people use freeCodeCamp each day.",
-          "link": "https://www.freecodecamp.org/news/freecodecamp-math-computer-science-degree-update/",
-          "publishedOn": "2022-10-25T13:52:49.000Z",
-          "wordCount": 2035,
-          "title": "freeCodeCamp Turns 8 Years Old: Data Science Courses + University Degrees Update",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/freeCodeCamp-Data-Science-Courses-and-Degrees.jpg"
         }
       ]
     },
@@ -1167,16 +1127,6 @@
           "wordCount": 5001,
           "title": "Brightest-Ever Space Explosion Reveals Possible Hints of Dark Matter",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/BOAT-Gamma-Ray-Burst_1200_Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=120040",
-          "author": "Pradeep Mutalik",
-          "description": "Solve these puzzle questions to level up your Wordle game.            \nThe post How to Win at Wordle (Without Cheating) first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-to-win-at-wordle-without-cheating-20221025/",
-          "publishedOn": "2022-10-25T14:00:18.000Z",
-          "wordCount": 6314,
-          "title": "How to Win at Wordle (Without Cheating)",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/October_Puzzle_1200_Social.webp"
         }
       ]
     },
@@ -1232,6 +1182,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/notes/should-responsive-images-work-with-container-queries/",
+          "author": null,
+          "description": "Container queries are slowly moving towards cross-browser support, and it got me wondering: how is image loading supposed to work in a container-based world?\nThe wonderful Miriam Suzanne pointed me to a GitHub issue discussing this exact topic.\nThe container-based responsive images proposal\n\nHere's the issue created by Una Kravets.\n\n\n\n\n\n\n\n\n\nw3c/csswg-drafts #5889 OPEN\n\n\n\n[css-conditional] [css-contain] srcset and sizes interaction with container queries\n\n una opened it Jan 22 2021\n\nAs it's pretty long, and the topic spreads across multiple different but somehow related discussions, let me summarize what I understood.\nDisclaimer: I'm no browser engineer; if you spot any mistakes, please let me know!\nThe syntax for responsive images is quite verbose. And especially if you want to load differ…",
+          "link": "https://www.stefanjudis.com/notes/should-responsive-images-work-with-container-queries/",
+          "publishedOn": "2022-11-23T23:00:00.000Z",
+          "wordCount": 1929,
+          "title": "Should responsive images work with container queries? (#note)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Should%20responsive%20images%20work%20with%20container%20queries%253F/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-86/",
           "author": null,
