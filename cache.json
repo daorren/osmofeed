@@ -900,56 +900,6 @@
           "wordCount": 890,
           "title": "Learn Kotlin in 14 Hours",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/kotlin.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/find-meeting-time-schedule-meeting-microsoft-365/",
-          "author": "Waldek Mastykarz",
-          "description": "A common functionality that many work apps have is letting users schedule a meeting with others in their organization. Here's how to do it on Microsoft 365. Work Apps Need Work Data If your organization uses Microsoft 365, it should consider integrating it with apps that it uses for work.",
-          "link": "https://www.freecodecamp.org/news/find-meeting-time-schedule-meeting-microsoft-365/",
-          "publishedOn": "2022-10-26T21:34:19.000Z",
-          "wordCount": 1600,
-          "title": "How to Find a Meeting Time and Schedule a Meeting on Microsoft 365",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Screenshot-2022-10-25-at-13.03.43.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-devsecops-can-improve-cloud-security/",
-          "author": "Andrej Kovacevic",
-          "description": "There’s no doubt that DevSecOps is on the rise, as the need for fast but highly secure application delivery increases. A report by Emergen Research [https://www.prnewswire.com/news-releases/devsecops-market-size-to-reach-usd-23-42-billion-in-2028--rising-need-for-repeatable-and-adaptive-processes-and-increasing-need-for-custom-code-security-are-key-factors-driving-industry-demand-says-emergen-research-301481508.html]  shows that the DevSecOps market is set to reach a $23.42 billion value in 202",
-          "link": "https://www.freecodecamp.org/news/how-devsecops-can-improve-cloud-security/",
-          "publishedOn": "2022-10-26T21:28:20.000Z",
-          "wordCount": 1712,
-          "title": "How Can DevSecOps Improve Cloud Security?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/devsecops-role-guide.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/",
-          "author": "Zaira Hira",
-          "description": "In programming, you use variables to store information like strings and numbers temporarily.  Variables can be used repeatedly throughout the code or by your operating system to provide values. You can edit them, overwrite them, and delete them. In this tutorial, I'll teach you what environment variables are and",
-          "link": "https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/",
-          "publishedOn": "2022-10-26T18:38:21.000Z",
-          "wordCount": 1449,
-          "title": "How to Set an Environment Variable in Linux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Copy-of-Copy-of-read-write-files-python--3-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/improve-website-accessibility-with-these-tips/",
-          "author": "Tooba Jamal",
-          "description": "An accessible website is designed in such a way that anyone can use it without difficulty.  During the website development process, you want to make sure that the end user has the best user experience. And that includes people with disabilities or those who faces challenges when using a",
-          "link": "https://www.freecodecamp.org/news/improve-website-accessibility-with-these-tips/",
-          "publishedOn": "2022-10-26T18:09:18.000Z",
-          "wordCount": 2193,
-          "title": "How to Improve Website Accessibility – 7 Helpful Tips",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/website_accessibility-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/computer-science-vs-information-technology-whats-the-difference/",
-          "author": "Kolade Chris",
-          "description": "To the average person, computer science and information technology might just seem like different names for the same thing. Well, computer science and information technology are related, but in the actual sense, they are two distinct fields when it comes to studying and choosing a career path. In this article,",
-          "link": "https://www.freecodecamp.org/news/computer-science-vs-information-technology-whats-the-difference/",
-          "publishedOn": "2022-10-26T16:24:40.000Z",
-          "wordCount": 1735,
-          "title": "Computer Science VS Information Technology – What's the Difference Between CS and IT?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/science-ge752bcd42_1280.jpg"
         }
       ]
     },
@@ -1117,16 +1067,6 @@
           "wordCount": 7749,
           "title": "How Genes Can Leap From Snakes to Frogs in Madagascar",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/10/Gene-Transfer-Hotspots_1200_Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=120093",
-          "author": "Jonathan O'Callaghan",
-          "description": "A recent gamma-ray burst known as the BOAT — “brightest of all time” — appears to have produced a high-energy particle that shouldn’t exist. For some, dark matter provides the explanation.            \nThe post Brightest-Ever Space Explosion Reveals Possible Hints of Dark Matter first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/brightest-ever-space-explosion-could-help-explain-dark-matter-20221026/",
-          "publishedOn": "2022-10-26T13:50:03.000Z",
-          "wordCount": 5001,
-          "title": "Brightest-Ever Space Explosion Reveals Possible Hints of Dark Matter",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/BOAT-Gamma-Ray-Burst_1200_Social.webp"
         }
       ]
     },
@@ -1182,6 +1122,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/elements-can-be-visible-even-though-their-parent-has-set-visibility-hidden/",
+          "author": null,
+          "description": "Responsive design can be a real challenge if you're coding something that needs more than just squishing and reordering some boxes. Scott O'Hara published an article describing how to build elements that act as buttons or spans depending on the viewport size.\nThe trick: Scott uses CSS visibility to hide and show elements throughout the element tree conditionally.\n<!-- Hide the button on smaller viewports \n     and only show the span -->\n<button type=\"button\">\n  <span>Do something</spin>\n</button>\n\nWait what? As it turns out, nested elements with different visibility properties (visible / hidden) can be visible even though their parent is hidden. 😲\nHere's the MDN section about this topic.\nDescendants of the element will be visible if they have visibility set to visible.\nThat's pretty wild!\n[Interactive component: visit the article to see it...]\nI'm not sure yet, what to make of this discovery. Scott's responsive pattern seems incredibly smart but also super hacky. I guess I have to sleep over it...\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/elements-can-be-visible-even-though-their-parent-has-set-visibility-hidden/",
+          "publishedOn": "2022-11-24T23:00:00.000Z",
+          "wordCount": 1593,
+          "title": "Elements can be visible even though their parent has set \"visibility: hidden\" (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Elements%20can%20be%20visible%20even%20though%20their%20parent%20has%20set%20%22visibility%3A%20hidden%22/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/notes/should-responsive-images-work-with-container-queries/",
           "author": null,
@@ -1289,6 +1239,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/438",
+          "author": null,
+          "description": "#​438 — November 25, 2022\n\n\nUnsub  |  Web Version\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \n▶  Fuzz Testing Made Easy — At GopherCon 2022, former Go core team member Katie Hockman presented a neat, accessible intro to fuzz testing starting from theoreticals and moving into a live demo. A great overview of a new Go 1.18’s feature that wasn’t generics ;-) (24 minutes.)\nKatie Hockman \n\n\nIf you'd prefer to read rather than watch, there are some docs for that.\n\n\n\n\n\n  \n  \nAwesome Go: Over 2000 Categorized Go Resources — A perennially useful resource that continues to get very frequent updates.  This means it’s a fantastic place to contribute projects of your own too :-)\nAwesome Go \n\n\n  \n  \nArgo CD as a Managed Service, from the Creators of Argo — With its agent-based architecture, the platfo…",
+          "link": "https://golangweekly.com/issues/438",
+          "publishedOn": "2022-11-25T00:00:00.000Z",
+          "wordCount": 762,
+          "title": "Building a code search index in Go",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/437",
           "author": null,

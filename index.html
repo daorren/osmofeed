@@ -22,6 +22,156 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-25 datetime="2022-11-25T00:00:00.000Z">2022-11-25</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-25 datetime="2022-11-25T00:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Golang Weekly</button>
+                  <a class="source-heading__link" href="https://golangweekly.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://golangweekly.com/issues/438"
+                        open
+                      >
+                        <summary class="article-expander__title">Building a code search index in Go</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://golangweekly.com/issues/438">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>#​438 — November 25, 2022
+
+
+Unsub  |  Web Version
+
+
+
+The Go Weekly Newsletter
+
+
+
+
+  
+
+
+
+
+
+  
+  
+▶  Fuzz Testing Made Easy — At GopherCon 2022, former Go core team member Katie Hockman presented a neat, accessible intro to fuzz testing starting from theoreticals and moving into a live demo. A great overview of a new Go 1.18’s feature that wasn’t generics ;-) (24 minutes.)
+Katie Hockman 
+
+
+If you&#x27;d prefer to read rather than watch, there are some docs for that.
+
+
+
+
+
+  
+  
+Awesome Go: Over 2000 Categorized Go Resources — A perennially useful resource that continues to get very frequent updates.  This means it’s a fantastic place to contribute projects of your own too :-)
+Awesome Go 
+
+
+  
+  
+Argo CD as a Managed Service, from the Creators of Argo — With its agent-based architecture, the platfo…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-24 datetime="2022-11-24T23:00:00.000Z">2022-11-24</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-24 datetime="2022-11-24T23:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/today-i-learned/elements-can-be-visible-even-though-their-parent-has-set-visibility-hidden/"
+                        open
+                      >
+                        <summary class="article-expander__title">Elements can be visible even though their parent has set &quot;visibility: hidden&quot; (#tilPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/elements-can-be-visible-even-though-their-parent-has-set-visibility-hidden/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Elements%20can%20be%20visible%20even%20though%20their%20parent%20has%20set%20%22visibility%3A%20hidden%22/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Responsive design can be a real challenge if you&#x27;re coding something that needs more than just squishing and reordering some boxes. Scott O&#x27;Hara published an article describing how to build elements that act as buttons or spans depending on the viewport size.
+The trick: Scott uses CSS visibility to hide and show elements throughout the element tree conditionally.
+
+
+  Do something
+
+
+Wait what? As it turns out, nested elements with different visibility properties (visible / hidden) can be visible even though their parent is hidden. 😲
+Here&#x27;s the MDN section about this topic.
+Descendants of the element will be visible if they have visibility set to visible.
+That&#x27;s pretty wild!
+[Interactive component: visit the article to see it...]
+I&#x27;m not sure yet, what to make of this discovery. Scott&#x27;s responsive pattern seems incredibly smart but also super hacky. I guess I have to sleep over it...
+
+
+          
+          
+            Reply to Stefan</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-23 datetime="2022-11-23T23:00:00.000Z">2022-11-23</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-23 datetime="2022-11-23T23:00:00.000Z"></time>
           </button>
@@ -3945,173 +4095,10 @@ The post How Genes Can Leap From Snakes to Frogs in Madagascar first appeared on
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-26 datetime="2022-10-26T21:34:19.000Z">2022-10-26</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-26 datetime="2022-10-26T21:34:19.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >freeCodeCamp.org</button>
-                  <a class="source-heading__link" href="https://www.freecodecamp.org/news/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/find-meeting-time-schedule-meeting-microsoft-365/"
-                        open
-                      >
-                        <summary class="article-expander__title">How to Find a Meeting Time and Schedule a Meeting on Microsoft 365</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/find-meeting-time-schedule-meeting-microsoft-365/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2022/10/Screenshot-2022-10-25-at-13.03.43.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>A common functionality that many work apps have is letting users schedule a meeting with others in their organization. Here&#x27;s how to do it on Microsoft 365. Work Apps Need Work Data If your organization uses Microsoft 365, it should consider integrating it with apps that it uses for work.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;5
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/how-devsecops-can-improve-cloud-security/"
-                        open
-                      >
-                        <summary class="article-expander__title">How Can DevSecOps Improve Cloud Security?</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/how-devsecops-can-improve-cloud-security/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2022/10/devsecops-role-guide.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>There’s no doubt that DevSecOps is on the rise, as the need for fast but highly secure application delivery increases. A report by Emergen Research [https://www.prnewswire.com/news-releases/devsecops-market-size-to-reach-usd-23-42-billion-in-2028--rising-need-for-repeatable-and-adaptive-processes-and-increasing-need-for-custom-code-security-are-key-factors-driving-industry-demand-says-emergen-research-301481508.html]  shows that the DevSecOps market is set to reach a $23.42 billion value in 202</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/"
-                        open
-                      >
-                        <summary class="article-expander__title">How to Set an Environment Variable in Linux</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2022/10/Copy-of-Copy-of-read-write-files-python--3-.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>In programming, you use variables to store information like strings and numbers temporarily.  Variables can be used repeatedly throughout the code or by your operating system to provide values. You can edit them, overwrite them, and delete them. In this tutorial, I&#x27;ll teach you what environment variables are and</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;5
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/improve-website-accessibility-with-these-tips/"
-                        open
-                      >
-                        <summary class="article-expander__title">How to Improve Website Accessibility – 7 Helpful Tips</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/improve-website-accessibility-with-these-tips/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2022/10/website_accessibility-1.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>An accessible website is designed in such a way that anyone can use it without difficulty.  During the website development process, you want to make sure that the end user has the best user experience. And that includes people with disabilities or those who faces challenges when using a</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/computer-science-vs-information-technology-whats-the-difference/"
-                        open
-                      >
-                        <summary class="article-expander__title">Computer Science VS Information Technology – What&#x27;s the Difference Between CS and IT?</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/computer-science-vs-information-technology-whats-the-difference/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2022/10/science-ge752bcd42_1280.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>To the average person, computer science and information technology might just seem like different names for the same thing. Well, computer science and information technology are related, but in the actual sense, they are two distinct fields when it comes to studying and choosing a career path. In this article,</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Quanta Magazine</button>
-                  <a class="source-heading__link" href="https://www.quantamagazine.org">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.quantamagazine.org/?p&#x3D;120093"
-                        open
-                      >
-                        <summary class="article-expander__title">Brightest-Ever Space Explosion Reveals Possible Hints of Dark Matter</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.quantamagazine.org/brightest-ever-space-explosion-could-help-explain-dark-matter-20221026/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/BOAT-Gamma-Ray-Burst_1200_Social.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>A recent gamma-ray burst known as the BOAT — “brightest of all time” — appears to have produced a high-energy particle that shouldn’t exist. For some, dark matter provides the explanation.            
-The post Brightest-Ever Space Explosion Reveals Possible Hints of Dark Matter first appeared on Quanta Magazine</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;17
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/3544699500">
-        <time id="build-timestamp" datetime="2022-11-25T01:43:36.431Z">2022-11-25T01:43:36.431Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/3551677538">
+        <time id="build-timestamp" datetime="2022-11-26T01:38:26.053Z">2022-11-26T01:38:26.053Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

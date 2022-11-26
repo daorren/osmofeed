@@ -2,10 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-25T01:43:36.465Z</updated>
+    <updated>2022-11-26T01:38:26.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building a code search index in Go]]></title>
+        <id>https://golangweekly.com/issues/438</id>
+        <link href="https://golangweekly.com/issues/438"/>
+        <updated>2022-11-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#​438 — November 25, 2022
+
+
+Unsub  |  Web Version
+
+
+
+The Go Weekly Newsletter
+
+
+
+
+  
+
+
+
+
+
+  
+  
+▶  Fuzz Testing Made Easy — At GopherCon 2022, former Go core team member Katie Hockman presented a neat, accessible intro to fuzz testing starting from theoreticals and moving into a live demo. A great overview of a new Go 1.18’s feature that wasn’t generics ;-) (24 minutes.)
+Katie Hockman 
+
+
+If you'd prefer to read rather than watch, there are some docs for that.
+
+
+
+
+
+  
+  
+Awesome Go: Over 2000 Categorized Go Resources — A perennially useful resource that continues to get very frequent updates.  This means it’s a fantastic place to contribute projects of your own too :-)
+Awesome Go 
+
+
+  
+  
+Argo CD as a Managed Service, from the Creators of Argo — With its agent-based architecture, the platfo…]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elements can be visible even though their parent has set "visibility: hidden" (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/elements-can-be-visible-even-though-their-parent-has-set-visibility-hidden/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/elements-can-be-visible-even-though-their-parent-has-set-visibility-hidden/"/>
+        <updated>2022-11-24T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Responsive design can be a real challenge if you're coding something that needs more than just squishing and reordering some boxes. Scott O'Hara published an article describing how to build elements that act as buttons or spans depending on the viewport size.
+The trick: Scott uses CSS visibility to hide and show elements throughout the element tree conditionally.
+<!-- Hide the button on smaller viewports 
+     and only show the span -->
+<button type="button">
+  <span>Do something</spin>
+</button>
+
+Wait what? As it turns out, nested elements with different visibility properties (visible / hidden) can be visible even though their parent is hidden. 😲
+Here's the MDN section about this topic.
+Descendants of the element will be visible if they have visibility set to visible.
+That's pretty wild!
+[Interactive component: visit the article to see it...]
+I'm not sure yet, what to make of this discovery. Scott's responsive pattern seems incredibly smart but also super hacky. I guess I have to sleep over it...
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Should responsive images work with container queries? (#note)]]></title>
         <id>https://www.stefanjudis.com/notes/should-responsive-images-work-with-container-queries/</id>
@@ -1588,67 +1664,6 @@ Will Daly
 The post How Genes Can Leap From Snakes to Frogs in Madagascar first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Veronique Greenwood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Find a Meeting Time and Schedule a Meeting on Microsoft 365]]></title>
-        <id>https://www.freecodecamp.org/news/find-meeting-time-schedule-meeting-microsoft-365/</id>
-        <link href="https://www.freecodecamp.org/news/find-meeting-time-schedule-meeting-microsoft-365/"/>
-        <updated>2022-10-26T21:34:19.000Z</updated>
-        <summary type="html"><![CDATA[A common functionality that many work apps have is letting users schedule a meeting with others in their organization. Here's how to do it on Microsoft 365. Work Apps Need Work Data If your organization uses Microsoft 365, it should consider integrating it with apps that it uses for work.]]></summary>
-        <author>
-            <name>Waldek Mastykarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Can DevSecOps Improve Cloud Security?]]></title>
-        <id>https://www.freecodecamp.org/news/how-devsecops-can-improve-cloud-security/</id>
-        <link href="https://www.freecodecamp.org/news/how-devsecops-can-improve-cloud-security/"/>
-        <updated>2022-10-26T21:28:20.000Z</updated>
-        <summary type="html"><![CDATA[There’s no doubt that DevSecOps is on the rise, as the need for fast but highly secure application delivery increases. A report by Emergen Research [https://www.prnewswire.com/news-releases/devsecops-market-size-to-reach-usd-23-42-billion-in-2028--rising-need-for-repeatable-and-adaptive-processes-and-increasing-need-for-custom-code-security-are-key-factors-driving-industry-demand-says-emergen-research-301481508.html]  shows that the DevSecOps market is set to reach a $23.42 billion value in 202]]></summary>
-        <author>
-            <name>Andrej Kovacevic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set an Environment Variable in Linux]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/"/>
-        <updated>2022-10-26T18:38:21.000Z</updated>
-        <summary type="html"><![CDATA[In programming, you use variables to store information like strings and numbers temporarily.  Variables can be used repeatedly throughout the code or by your operating system to provide values. You can edit them, overwrite them, and delete them. In this tutorial, I'll teach you what environment variables are and]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve Website Accessibility – 7 Helpful Tips]]></title>
-        <id>https://www.freecodecamp.org/news/improve-website-accessibility-with-these-tips/</id>
-        <link href="https://www.freecodecamp.org/news/improve-website-accessibility-with-these-tips/"/>
-        <updated>2022-10-26T18:09:18.000Z</updated>
-        <summary type="html"><![CDATA[An accessible website is designed in such a way that anyone can use it without difficulty.  During the website development process, you want to make sure that the end user has the best user experience. And that includes people with disabilities or those who faces challenges when using a]]></summary>
-        <author>
-            <name>Tooba Jamal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computer Science VS Information Technology – What's the Difference Between CS and IT?]]></title>
-        <id>https://www.freecodecamp.org/news/computer-science-vs-information-technology-whats-the-difference/</id>
-        <link href="https://www.freecodecamp.org/news/computer-science-vs-information-technology-whats-the-difference/"/>
-        <updated>2022-10-26T16:24:40.000Z</updated>
-        <summary type="html"><![CDATA[To the average person, computer science and information technology might just seem like different names for the same thing. Well, computer science and information technology are related, but in the actual sense, they are two distinct fields when it comes to studying and choosing a career path. In this article,]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brightest-Ever Space Explosion Reveals Possible Hints of Dark Matter]]></title>
-        <id>https://www.quantamagazine.org/?p=120093</id>
-        <link href="https://www.quantamagazine.org/brightest-ever-space-explosion-could-help-explain-dark-matter-20221026/"/>
-        <updated>2022-10-26T13:50:03.000Z</updated>
-        <summary type="html"><![CDATA[A recent gamma-ray burst known as the BOAT — “brightest of all time” — appears to have produced a high-energy particle that shouldn’t exist. For some, dark matter provides the explanation.            
-The post Brightest-Ever Space Explosion Reveals Possible Hints of Dark Matter first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Jonathan O'Callaghan</name>
         </author>
     </entry>
 </feed>
