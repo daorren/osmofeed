@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-27T01:48:25.588Z</updated>
+    <updated>2022-11-28T01:41:05.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #87 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-87/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-87/"/>
+        <updated>2022-11-26T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag!
+
+Do you know that JavaScript provides functionality to split strings into words and sentences? Or that the CSS property visibility can be reverted for nested elements? Or how modals, popovers and dialogs differ?
+All the answers and much more are included in this week's Web Weekly. 🫣
+What happens when you have a container set to visibility: hidden and one of its descendants has defined visibility: visible? I mean, a visible element nested inside a hidden one shouldn't be visible, or?
+Well... logic doesn't apply to visibility.
+From the MDN docs visibility:
+Descendants of the element will be visible if they have visibility set to visible.
+
+      
+What? 🤯
+The same goes for pointer-events. Elements inside a container with defined pointer-events: none can overwrite the declaration a…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to split JavaScript strings into sentences, words or graphemes with "Intl.Segmenter" (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/how-to-split-javascript-strings-with-intl-segmenter/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/how-to-split-javascript-strings-with-intl-segmenter/"/>
+        <updated>2022-11-26T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I've been reading Axel Rauschmayer's post on the new regular expression flag /v, which explains a way to split emoji strings into graphemes using Intl.Segmenter.
+I haven't used this Intl object before. Let's find out what it's about!
+Consider you want to split user input into sentences. It looks like a quick split() task... But there's a lot of nuance in this problem.
+Here's a naive approach:
+'Hello! How are you?'.split(/[.!?]/);
+// ['Hello', ' How are you', '']
+
+Using split(), you'll lose the defined separators and include all these spaces everywhere. And because it's relying on hardcoded delimiters it's not language-sensitive.
+I don't speak Japanese, but how would you try to split the following string into words or sentences?
+// I am a cat. My name is Tanuki.
+'吾輩は猫である。名前はたぬき。'
+
+Common st…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building a code search index in Go]]></title>
         <id>https://golangweekly.com/issues/438</id>
@@ -1445,87 +1488,6 @@ But isn't this all super complicated? Yeah, I thought the same, but it's honestl
 My first misbelief was that people could only follow people on the same M…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEO Tips for Developers]]></title>
-        <id>https://www.freecodecamp.org/news/tips-to-boost-your-seo/</id>
-        <link href="https://www.freecodecamp.org/news/tips-to-boost-your-seo/"/>
-        <updated>2022-10-29T00:09:34.000Z</updated>
-        <summary type="html"><![CDATA[SEO (Search Engine Optimization) is essential for your online marketing strategy. It's the process of optimizing your site and content to help you get as much traffic as you can from search engines. Reaching top positions in the search engine results pages (SERPs) with your website is one of the]]></summary>
-        <author>
-            <name>Edan Ben-Atar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Julia by Coding 7 Projects – Hands-On Programming Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/learn-julia-by-coding-7-projects/</id>
-        <link href="https://www.freecodecamp.org/news/learn-julia-by-coding-7-projects/"/>
-        <updated>2022-10-28T23:54:26.000Z</updated>
-        <summary type="html"><![CDATA[The Julia programming language is used for a lot of really impactful and interesting challenges like Machine Learning and Data Science.  But before you can get to the complex stuff, it is worth exploring the basics to develop a solid foundation.  In this tutorial, we will go over]]></summary>
-        <author>
-            <name>Logan Kilpatrick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Device Descriptor Request Failed – How to Fix Unknown USB Device Error in Windows 10]]></title>
-        <id>https://www.freecodecamp.org/news/device-descriptor-request-failed-windows-error-solved/</id>
-        <link href="https://www.freecodecamp.org/news/device-descriptor-request-failed-windows-error-solved/"/>
-        <updated>2022-10-28T23:49:33.000Z</updated>
-        <summary type="html"><![CDATA[Recently my uncle, who lives in Australia, sent my parents, who live in South Africa, a flash drive that was full of pictures of our Australian family getting up to various Australian activities.  But it was very frustrating for my poor Mom when her laptop would not recognise the]]></summary>
-        <author>
-            <name>Gavin Lon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A JavaScript-free custom element implementation (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/a-javascript-free-custom-element-implementation/</id>
-        <link href="https://www.stefanjudis.com/notes/a-javascript-free-custom-element-implementation/"/>
-        <updated>2022-10-28T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Some people love custom elements, and it seems that even more people are entirely against them. And while I'm leaning towards using them, today I learned a fascinating custom elements take.
-I've been reading one of Adam Argyle's excellent component walk-throughs, and Adam shared a tool-tip custom element that works without the usual customElements.define JavaScript instruction.
-To quote Adam:
-You could think of a custom element like a classname with less specificity.
-That's an interesting take because it changes the mental model around custom elements! Custom elements are usually used to encapsulate functionality as web components with JavaScript, but one could also use them as another style hook with lower specificity than class selectors. Neat!
-Use Polypane's specificity calculator if you want to learn more about CSS specificity.
-And to make the custom element accessible, Adam's example tool-tip component receives its semantic meaning via ARIA...
-<tool-tip role="tooltip">A tooltip</tool-tip>
-
-... and the show/hide functionality is then added via CSS has(). 😲
-/* Only show the custom element when its parent is hovered, focused, or activated */
-:has(> tool-tip):is(:hover, :focus-visible, :active) > tool-tip {
- opacity: 1;
- transition-delay: 200ms;
-}
-
-Very smart!
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Programming Language to Learn – Beginners Guide to Coding]]></title>
-        <id>https://www.freecodecamp.org/news/the-best-programming-language-to-learn-beginners-guide-to-coding/</id>
-        <link href="https://www.freecodecamp.org/news/the-best-programming-language-to-learn-beginners-guide-to-coding/"/>
-        <updated>2022-10-28T21:03:55.000Z</updated>
-        <summary type="html"><![CDATA[Technology is changing how we live. We use and rely on web applications and electronic devices daily to complete various tasks. And behind these modern-day software programs are thousands of lines of code. Coding is one of the most valuable skills to learn today. You can not only build any]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Flexbox Explained – Complete Guide to Flexible Containers and Flex Items]]></title>
-        <id>https://www.freecodecamp.org/news/css-flexbox-complete-guide/</id>
-        <link href="https://www.freecodecamp.org/news/css-flexbox-complete-guide/"/>
-        <updated>2022-10-28T14:28:24.000Z</updated>
-        <summary type="html"><![CDATA[CSS Flexbox gives you the tools to create basic and advanced website layouts in flexible and responsive ways. This tutorial discusses everything you need to know to use Flexbox like a pro. Table of Contents  1.  What Is Flexbox?  2.  Flex Container vs. Flex Item: What's]]></summary>
-        <author>
-            <name>Oluwatobi Sofela</name>
         </author>
     </entry>
 </feed>

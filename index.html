@@ -22,6 +22,97 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-26 datetime="2022-11-26T23:00:00.000Z">2022-11-26</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-26 datetime="2022-11-26T23:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/blog/web-weekly-87/"
+                        open
+                      >
+                        <summary class="article-expander__title">Web Weekly #87 (#blogPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/blog/web-weekly-87/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.stefanjudis.com/newsletter-social.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Guten Tag!
+
+Do you know that JavaScript provides functionality to split strings into words and sentences? Or that the CSS property visibility can be reverted for nested elements? Or how modals, popovers and dialogs differ?
+All the answers and much more are included in this week&#x27;s Web Weekly. 🫣
+What happens when you have a container set to visibility: hidden and one of its descendants has defined visibility: visible? I mean, a visible element nested inside a hidden one shouldn&#x27;t be visible, or?
+Well... logic doesn&#x27;t apply to visibility.
+From the MDN docs visibility:
+Descendants of the element will be visible if they have visibility set to visible.
+
+      
+What? 🤯
+The same goes for pointer-events. Elements inside a container with defined pointer-events: none can overwrite the declaration a…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/today-i-learned/how-to-split-javascript-strings-with-intl-segmenter/"
+                        open
+                      >
+                        <summary class="article-expander__title">How to split JavaScript strings into sentences, words or graphemes with &quot;Intl.Segmenter&quot; (#tilPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/how-to-split-javascript-strings-with-intl-segmenter/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20split%20JavaScript%20strings%20into%20sentences%252C%20words%20or%20graphemes%20with%20%22Intl.Segmenter%22/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>I&#x27;ve been reading Axel Rauschmayer&#x27;s post on the new regular expression flag /v, which explains a way to split emoji strings into graphemes using Intl.Segmenter.
+I haven&#x27;t used this Intl object before. Let&#x27;s find out what it&#x27;s about!
+Consider you want to split user input into sentences. It looks like a quick split() task... But there&#x27;s a lot of nuance in this problem.
+Here&#x27;s a naive approach:
+&#x27;Hello! How are you?&#x27;.split(/[.!?]/);
+// [&#x27;Hello&#x27;, &#x27; How are you&#x27;, &#x27;&#x27;]
+
+Using split(), you&#x27;ll lose the defined separators and include all these spaces everywhere. And because it&#x27;s relying on hardcoded delimiters it&#x27;s not language-sensitive.
+I don&#x27;t speak Japanese, but how would you try to split the following string into words or sentences?
+// I am a cat. My name is Tanuki.
+&#x27;吾輩は猫である。名前はたぬき。&#x27;
+
+Common st…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-25 datetime="2022-11-25T00:00:00.000Z">2022-11-25</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-25 datetime="2022-11-25T00:00:00.000Z"></time>
           </button>
@@ -3613,209 +3704,12 @@ My first misbelief was that people could only follow people on the same M…</sp
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >freeCodeCamp.org</button>
-                  <a class="source-heading__link" href="https://www.freecodecamp.org/news/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/tips-to-boost-your-seo/"
-                        open
-                      >
-                        <summary class="article-expander__title">SEO Tips for Developers</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/tips-to-boost-your-seo/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2022/04/10-Tips-to-Boost-Your-SEO.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>SEO (Search Engine Optimization) is essential for your online marketing strategy. It&#x27;s the process of optimizing your site and content to help you get as much traffic as you can from search engines. Reaching top positions in the search engine results pages (SERPs) with your website is one of the</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;9
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-28 datetime="2022-10-28T23:54:26.000Z">2022-10-28</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-28 datetime="2022-10-28T23:54:26.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >freeCodeCamp.org</button>
-                  <a class="source-heading__link" href="https://www.freecodecamp.org/news/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/learn-julia-by-coding-7-projects/"
-                        open
-                      >
-                        <summary class="article-expander__title">Learn Julia by Coding 7 Projects – Hands-On Programming Tutorial</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/learn-julia-by-coding-7-projects/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2022/10/7-projects-1.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The Julia programming language is used for a lot of really impactful and interesting challenges like Machine Learning and Data Science.  But before you can get to the complex stuff, it is worth exploring the basics to develop a solid foundation.  In this tutorial, we will go over</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;13
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/device-descriptor-request-failed-windows-error-solved/"
-                        open
-                      >
-                        <summary class="article-expander__title">Device Descriptor Request Failed – How to Fix Unknown USB Device Error in Windows 10</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/device-descriptor-request-failed-windows-error-solved/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2022/10/Screenshot1.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Recently my uncle, who lives in Australia, sent my parents, who live in South Africa, a flash drive that was full of pictures of our Australian family getting up to various Australian activities.  But it was very frustrating for my poor Mom when her laptop would not recognise the</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/the-best-programming-language-to-learn-beginners-guide-to-coding/"
-                        open
-                      >
-                        <summary class="article-expander__title">The Best Programming Language to Learn – Beginners Guide to Coding</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/the-best-programming-language-to-learn-beginners-guide-to-coding/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2022/10/pexels-christina-morillo-1181677.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Technology is changing how we live. We use and rely on web applications and electronic devices daily to complete various tasks. And behind these modern-day software programs are thousands of lines of code. Coding is one of the most valuable skills to learn today. You can not only build any</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;11
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/css-flexbox-complete-guide/"
-                        open
-                      >
-                        <summary class="article-expander__title">CSS Flexbox Explained – Complete Guide to Flexible Containers and Flex Items</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/css-flexbox-complete-guide/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2022/10/css-flexbox-complete-guide-codesweetly-pexels-chris-f-6664375.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>CSS Flexbox gives you the tools to create basic and advanced website layouts in flexible and responsive ways. This tutorial discusses everything you need to know to use Flexbox like a pro. Table of Contents  1.  What Is Flexbox?  2.  Flex Container vs. Flex Item: What&#x27;s</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;15
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Stefan Judis Web Development</button>
-                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.stefanjudis.com/notes/a-javascript-free-custom-element-implementation/"
-                        open
-                      >
-                        <summary class="article-expander__title">A JavaScript-free custom element implementation (#note)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/notes/a-javascript-free-custom-element-implementation/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20JavaScript-free%20custom%20element%20implementation/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Some people love custom elements, and it seems that even more people are entirely against them. And while I&#x27;m leaning towards using them, today I learned a fascinating custom elements take.
-I&#x27;ve been reading one of Adam Argyle&#x27;s excellent component walk-throughs, and Adam shared a tool-tip custom element that works without the usual customElements.define JavaScript instruction.
-To quote Adam:
-You could think of a custom element like a classname with less specificity.
-That&#x27;s an interesting take because it changes the mental model around custom elements! Custom elements are usually used to encapsulate functionality as web components with JavaScript, but one could also use them as another style hook with lower specificity than class selectors. Neat!
-Use Polypane&#x27;s specificity calculator if you want to learn more about CSS specificity.
-And to make the custom element accessible, Adam&#x27;s example tool-tip component receives its semantic meaning via ARIA...
-A tooltip
-
-... and the show/hide functionality is then added via CSS has(). 😲
-/* Only show the custom element when its parent is hovered, focused, or activated */
-:has(&gt; tool-tip):is(:hover, :focus-visible, :active) &gt; tool-tip {
- opacity: 1;
- transition-delay: 200ms;
-}
-
-Very smart!
-
-
-          
-          
-            Reply to Stefan</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;5
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/3556239744">
-        <time id="build-timestamp" datetime="2022-11-27T01:48:25.560Z">2022-11-27T01:48:25.560Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/3560963464">
+        <time id="build-timestamp" datetime="2022-11-28T01:41:05.466Z">2022-11-28T01:41:05.466Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

@@ -780,56 +780,6 @@
           "wordCount": 2360,
           "title": "How to Use Firebase Authentication in a React App",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/ferenc-almasi-tvHtIGbbjMo-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/tips-to-boost-your-seo/",
-          "author": "Edan Ben-Atar",
-          "description": "SEO (Search Engine Optimization) is essential for your online marketing strategy. It's the process of optimizing your site and content to help you get as much traffic as you can from search engines. Reaching top positions in the search engine results pages (SERPs) with your website is one of the",
-          "link": "https://www.freecodecamp.org/news/tips-to-boost-your-seo/",
-          "publishedOn": "2022-10-29T00:09:34.000Z",
-          "wordCount": 2809,
-          "title": "SEO Tips for Developers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/10-Tips-to-Boost-Your-SEO.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-julia-by-coding-7-projects/",
-          "author": "Logan Kilpatrick",
-          "description": "The Julia programming language is used for a lot of really impactful and interesting challenges like Machine Learning and Data Science.  But before you can get to the complex stuff, it is worth exploring the basics to develop a solid foundation.  In this tutorial, we will go over",
-          "link": "https://www.freecodecamp.org/news/learn-julia-by-coding-7-projects/",
-          "publishedOn": "2022-10-28T23:54:26.000Z",
-          "wordCount": 3824,
-          "title": "Learn Julia by Coding 7 Projects – Hands-On Programming Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/7-projects-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/device-descriptor-request-failed-windows-error-solved/",
-          "author": "Gavin Lon",
-          "description": "Recently my uncle, who lives in Australia, sent my parents, who live in South Africa, a flash drive that was full of pictures of our Australian family getting up to various Australian activities.  But it was very frustrating for my poor Mom when her laptop would not recognise the",
-          "link": "https://www.freecodecamp.org/news/device-descriptor-request-failed-windows-error-solved/",
-          "publishedOn": "2022-10-28T23:49:33.000Z",
-          "wordCount": 1962,
-          "title": "Device Descriptor Request Failed – How to Fix Unknown USB Device Error in Windows 10",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Screenshot1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-best-programming-language-to-learn-beginners-guide-to-coding/",
-          "author": "Dionysia Lemonaki",
-          "description": "Technology is changing how we live. We use and rely on web applications and electronic devices daily to complete various tasks. And behind these modern-day software programs are thousands of lines of code. Coding is one of the most valuable skills to learn today. You can not only build any",
-          "link": "https://www.freecodecamp.org/news/the-best-programming-language-to-learn-beginners-guide-to-coding/",
-          "publishedOn": "2022-10-28T21:03:55.000Z",
-          "wordCount": 3278,
-          "title": "The Best Programming Language to Learn – Beginners Guide to Coding",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-christina-morillo-1181677.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/css-flexbox-complete-guide/",
-          "author": "Oluwatobi Sofela",
-          "description": "CSS Flexbox gives you the tools to create basic and advanced website layouts in flexible and responsive ways. This tutorial discusses everything you need to know to use Flexbox like a pro. Table of Contents  1.  What Is Flexbox?  2.  Flex Container vs. Flex Item: What's",
-          "link": "https://www.freecodecamp.org/news/css-flexbox-complete-guide/",
-          "publishedOn": "2022-10-28T14:28:24.000Z",
-          "wordCount": 4454,
-          "title": "CSS Flexbox Explained – Complete Guide to Flexible Containers and Flex Items",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/css-flexbox-complete-guide-codesweetly-pexels-chris-f-6664375.jpg"
         }
       ]
     },
@@ -1043,6 +993,26 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-87/",
+          "author": null,
+          "description": "Guten Tag!\n\nDo you know that JavaScript provides functionality to split strings into words and sentences? Or that the CSS property visibility can be reverted for nested elements? Or how modals, popovers and dialogs differ?\nAll the answers and much more are included in this week's Web Weekly. 🫣\nWhat happens when you have a container set to visibility: hidden and one of its descendants has defined visibility: visible? I mean, a visible element nested inside a hidden one shouldn't be visible, or?\nWell... logic doesn't apply to visibility.\nFrom the MDN docs visibility:\nDescendants of the element will be visible if they have visibility set to visible.\n\n      \nWhat? 🤯\nThe same goes for pointer-events. Elements inside a container with defined pointer-events: none can overwrite the declaration a…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-87/",
+          "publishedOn": "2022-11-26T23:00:00.000Z",
+          "wordCount": 1885,
+          "title": "Web Weekly #87 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/how-to-split-javascript-strings-with-intl-segmenter/",
+          "author": null,
+          "description": "I've been reading Axel Rauschmayer's post on the new regular expression flag /v, which explains a way to split emoji strings into graphemes using Intl.Segmenter.\nI haven't used this Intl object before. Let's find out what it's about!\nConsider you want to split user input into sentences. It looks like a quick split() task... But there's a lot of nuance in this problem.\nHere's a naive approach:\n'Hello! How are you?'.split(/[.!?]/);\n// ['Hello', ' How are you', '']\n\nUsing split(), you'll lose the defined separators and include all these spaces everywhere. And because it's relying on hardcoded delimiters it's not language-sensitive.\nI don't speak Japanese, but how would you try to split the following string into words or sentences?\n// I am a cat. My name is Tanuki.\n'吾輩は猫である。名前はたぬき。'\n\nCommon st…",
+          "link": "https://www.stefanjudis.com/today-i-learned/how-to-split-javascript-strings-with-intl-segmenter/",
+          "publishedOn": "2022-11-26T23:00:00.000Z",
+          "wordCount": 2071,
+          "title": "How to split JavaScript strings into sentences, words or graphemes with \"Intl.Segmenter\" (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20split%20JavaScript%20strings%20into%20sentences%252C%20words%20or%20graphemes%20with%20%22Intl.Segmenter%22/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/today-i-learned/elements-can-be-visible-even-though-their-parent-has-set-visibility-hidden/",
           "author": null,
           "description": "Responsive design can be a real challenge if you're coding something that needs more than just squishing and reordering some boxes. Scott O'Hara published an article describing how to build elements that act as buttons or spans depending on the viewport size.\nThe trick: Scott uses CSS visibility to hide and show elements throughout the element tree conditionally.\n<!-- Hide the button on smaller viewports \n     and only show the span -->\n<button type=\"button\">\n  <span>Do something</spin>\n</button>\n\nWait what? As it turns out, nested elements with different visibility properties (visible / hidden) can be visible even though their parent is hidden. 😲\nHere's the MDN section about this topic.\nDescendants of the element will be visible if they have visibility set to visible.\nThat's pretty wild!\n[Interactive component: visit the article to see it...]\nI'm not sure yet, what to make of this discovery. Scott's responsive pattern seems incredibly smart but also super hacky. I guess I have to sleep over it...\n\n\n          \n          \n            Reply to Stefan",
@@ -1141,16 +1111,6 @@
           "wordCount": 2290,
           "title": "Web Weekly #84 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/a-javascript-free-custom-element-implementation/",
-          "author": null,
-          "description": "Some people love custom elements, and it seems that even more people are entirely against them. And while I'm leaning towards using them, today I learned a fascinating custom elements take.\nI've been reading one of Adam Argyle's excellent component walk-throughs, and Adam shared a tool-tip custom element that works without the usual customElements.define JavaScript instruction.\nTo quote Adam:\nYou could think of a custom element like a classname with less specificity.\nThat's an interesting take because it changes the mental model around custom elements! Custom elements are usually used to encapsulate functionality as web components with JavaScript, but one could also use them as another style hook with lower specificity than class selectors. Neat!\nUse Polypane's specificity calculator if you want to learn more about CSS specificity.\nAnd to make the custom element accessible, Adam's example tool-tip component receives its semantic meaning via ARIA...\n<tool-tip role=\"tooltip\">A tooltip</tool-tip>\n\n... and the show/hide functionality is then added via CSS has(). 😲\n/* Only show the custom element when its parent is hovered, focused, or activated */\n:has(> tool-tip):is(:hover, :focus-visible, :active) > tool-tip {\n opacity: 1;\n transition-delay: 200ms;\n}\n\nVery smart!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/notes/a-javascript-free-custom-element-implementation/",
-          "publishedOn": "2022-10-28T22:00:00.000Z",
-          "wordCount": 1355,
-          "title": "A JavaScript-free custom element implementation (#note)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20JavaScript-free%20custom%20element%20implementation/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
