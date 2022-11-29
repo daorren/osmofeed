@@ -12,6 +12,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/what-are-threads-in-java-how-to-create-one/",
+          "author": "Bikash Daga (Jain)",
+          "description": "Threads in Java are pre-defined classes that are available in the java.package when you write your programs. Generally, every program has one thread which is provided from the java.package.  All of these threads use the same memory, but they are independent. This means that any exception in a thread",
+          "link": "https://www.freecodecamp.org/news/what-are-threads-in-java-how-to-create-one/",
+          "publishedOn": "2022-11-28T22:23:36.000Z",
+          "wordCount": 2344,
+          "title": "What are Threads in Java? How to Create a Thread with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Copy-of-Copy-of-How-Encapsulation-is-Achieved-in-Python--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/deploy-react-app/",
+          "author": "Reed Barger",
+          "description": "You have been working on a React application and now you're ready to actually push it to the web. What services do you use to publish your site and make it live to the world?  Whether you're ready to release your website as a finished product or you are",
+          "link": "https://www.freecodecamp.org/news/deploy-react-app/",
+          "publishedOn": "2022-11-28T21:30:24.000Z",
+          "wordCount": 1572,
+          "title": "How to Deploy Your React App Using Cloudflare Pages, Vercel, and Netlify",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/mugshotbot.com_customize_color-pink-image-9129875b-mode-dark-pattern-none-theme-two_up-url-https___gifcoins.io.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-enter-safe-boot-on-windows-operating-systems/",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you're using the Windows operating system, you might have heard the phrase \"Rebooting to the safe boot\" or something like that. In this tutorial, I'll explain what that means and how you can do it on your Windows machine. What is Safe Boot or Safe Mode for Windows? Safe",
+          "link": "https://www.freecodecamp.org/news/how-to-enter-safe-boot-on-windows-operating-systems/",
+          "publishedOn": "2022-11-28T18:55:40.000Z",
+          "wordCount": 1089,
+          "title": "How to Enter \"Safe Boot\" On Windows Operating Systems",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-eduardo-dutra-2115217.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-merge-arrays-in-javascript-array-concatenation-in-js/",
+          "author": "Dillion Megida",
+          "description": "There are multiple ways to merge arrays in JavaScript. You can use long or short approaches. I'll be showing 3 of them in this article. When working with arrays in JavaScript, there are cases where you want to combine multiple arrays together. For example, arrays with related data coming from",
+          "link": "https://www.freecodecamp.org/news/how-to-merge-arrays-in-javascript-array-concatenation-in-js/",
+          "publishedOn": "2022-11-28T15:37:11.000Z",
+          "wordCount": 1466,
+          "title": "How to Merge Arrays in JavaScript – Array Concatenation in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/7.-merge-arrays.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/check-if-an-object-is-empty-in-javascript/",
+          "author": "Joel Olawanle",
+          "description": "An object is one of the most commonly used data types in programming. An object is a collection of related data stored as key-value pairs. For example: let userDetails = {   name: \"John Doe\",   username: \"jonnydoe\",   age: 14, } When working with objects, you",
+          "link": "https://www.freecodecamp.org/news/check-if-an-object-is-empty-in-javascript/",
+          "publishedOn": "2022-11-28T15:29:23.000Z",
+          "wordCount": 1695,
+          "title": "How to Check if an Object is Empty in JavaScript – JS Java isEmpty Equivalent",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/cover-template--21-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/clear-code-how-to-write-code-that-is-easy-to-read/",
+          "author": "Ryan Michael Kay",
+          "description": "This article is a follow up to a tweet I made on how I deal with my poor ability to remember implementation (code). It may seem funny to you, but I do actually tend to forget what I write shortly after writing it.",
+          "link": "https://www.freecodecamp.org/news/clear-code-how-to-write-code-that-is-easy-to-read/",
+          "publishedOn": "2022-11-28T12:26:28.000Z",
+          "wordCount": 3692,
+          "title": "Clear Code – How to Write Code That Is Easy to Read",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/cafe-gc5d844b68_1280.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/create-a-arcade-style-shooting/",
           "author": "Beau Carnes",
           "description": "Creating an arcade-style shooting game is a fun project to help you improve your Python and PyGame programming skills. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a fun game using Python and PyGame. Pete LeMaster created this course. Pete is",
@@ -789,6 +849,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=120901",
+          "author": "Kevin Hartnett",
+          "description": "Researchers discover that to sharpen its control over precision maneuvers, the brain uses comparisons between control signals — not the signals themselves.            \nThe post The Brain Uses Calculus to Control Fast Movements first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-brain-uses-calculus-to-control-fast-movements-20221128/",
+          "publishedOn": "2022-11-28T15:48:32.000Z",
+          "wordCount": 5039,
+          "title": "The Brain Uses Calculus to Control Fast Movements",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/BrainCalculus-cr.KristinaArmitage-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=120848",
           "author": "Ben Brubaker",
           "description": "Inspired by the results of a game-playing neural network, mathematicians have been making unexpected advances on an age-old math problem.            \nThe post AI Reveals New Possibilities in Matrix Multiplication first appeared on Quanta Magazine",
@@ -946,6 +1016,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "637ad3224ac0a02f93c58776",
+          "author": "Assaf Arkin",
+          "description": "This week we text from a plane, review a large PR (or not), use Twitter even less (or is it fewer?), and decode 15th-century PR spin.",
+          "link": "https://labnotes.org/weekend-reading-say-its-an-okr-meeting/",
+          "publishedOn": "2022-11-28T17:20:21.000Z",
+          "wordCount": 1328,
+          "title": "Weekend Reading — 👋 \"Say it's an OKR meeting\"",
+          "imageUrl": "https://labnotes.org/content/images/2022/11/11.08.22.jpg"
+        },
+        {
           "id": "637161c0d081b62c034110a1",
           "author": "Assaf Arkin",
           "description": "This week we use AI to find bugs and generate security holes, flex with cats, design for Teletext, and defeat a chicken.",
@@ -974,16 +1054,6 @@
           "wordCount": 1438,
           "title": "Weekend Reading — 👋 No-vember: learn to say \"no\" to feature requests",
           "imageUrl": "https://labnotes.org/content/images/2022/11/Unknown.jpeg"
-        },
-        {
-          "id": "635476e3d138594ba4d75736",
-          "author": "Assaf Arkin",
-          "description": "This week React goes async, semantic HTML is not a vibe, we hire a Chief Deadline Officer, dust off the old printer, and play in the mud.",
-          "link": "https://labnotes.org/weekend-reading-inspiring-deadline/",
-          "publishedOn": "2022-10-29T22:35:11.000Z",
-          "wordCount": 1172,
-          "title": "Weekend Reading — 👻 Inspiring deadline",
-          "imageUrl": "https://labnotes.org/content/images/2022/10/m8gdp15avuv91.jpg.webp"
         }
       ]
     },
@@ -1101,16 +1171,6 @@
           "wordCount": 1447,
           "title": "A native shell alternative to the trash-cli (#snippet)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20native%20shell%20alternative%20to%20the%20trash-cli/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-84/",
-          "author": null,
-          "description": "Guten Tag!\n\nHave you ever used custom elements without JavaScript? Or do you know that there's an SVG view element? Or that you can use the caption-side CSS property with HTML tables?\nAll the answers and much more are included in this week's Web Weekly. 🙈 Enjoy!\nThought of the week\n\nI didn't think it would happen, but Elon has taken over Twitter. I can't imagine what happens next after his weird sink move, immediately firing execs and making developers print out source code. 🤦‍♂️ The satire is real by now.\nI'm still deciding whether to move off it, but I did check out the Feediverse and created a mastodon.social account.\nBut isn't this all super complicated? Yeah, I thought the same, but it's honestly not that bad!\nMy first misbelief was that people could only follow people on the same M…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-84/",
-          "publishedOn": "2022-10-29T22:00:00.000Z",
-          "wordCount": 2290,
-          "title": "Web Weekly #84 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
     },
