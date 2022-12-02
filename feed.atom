@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-01T01:54:06.020Z</updated>
+    <updated>2022-12-02T01:34:18.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dijkstra's Algorithm – Explained with a Pseudocode Example]]></title>
+        <id>https://www.freecodecamp.org/news/dijkstras-algorithm-explained-with-a-pseudocode-example/</id>
+        <link href="https://www.freecodecamp.org/news/dijkstras-algorithm-explained-with-a-pseudocode-example/"/>
+        <updated>2022-12-01T20:57:53.000Z</updated>
+        <summary type="html"><![CDATA[You can use algorithms in programming to solve specific problems through a set of precise instructions or procedures. Dijkstra's algorithm is one of many graph algorithms you'll come across. It is used to find the shortest path from a fixed node to all other nodes in a graph. There are]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL INSERT Statement – How to Insert Data into a Table in SQL]]></title>
+        <id>https://www.freecodecamp.org/news/sql-insert-statement/</id>
+        <link href="https://www.freecodecamp.org/news/sql-insert-statement/"/>
+        <updated>2022-12-01T18:54:21.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll learn how to use the SQL INSERT statement. We'll discuss the syntax of INSERT, and then we'll use an example to show all the different ways you can use INSERT. We'll also combine it with other helpful clauses to perform more complex operations. Prerequisites  *]]></summary>
+        <author>
+            <name>Annoh Karlgusta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crucial Computer Program for Particle Physics at Risk of Obsolescence]]></title>
+        <id>https://www.quantamagazine.org/?p=121075</id>
+        <link href="https://www.quantamagazine.org/crucial-computer-program-for-particle-physics-at-risk-of-obsolescence-20221201/"/>
+        <updated>2022-12-01T16:01:27.000Z</updated>
+        <summary type="html"><![CDATA[Maintenance of the software that’s used for the hardest physics calculations rests almost entirely with a retiree. The situation reveals the problematic incentive structure of academia.            
+The post Crucial Computer Program for Particle Physics at Risk of Obsolescence first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Matt von Hippel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Schedule an Email in Gmail – a Step-by-Step Guide]]></title>
         <id>https://www.freecodecamp.org/news/schedule-email-in-gmail/</id>
@@ -1620,47 +1651,6 @@ The post Ocean Bacteria Reveal an Unexpected Multicellular Form first appeared o
         <summary type="html"><![CDATA[You can learn everything you need to know to earn the Microsoft 365 Fundamentals Certification by completing this free 4-hour course. What is the Microsoft 365 Fundamentals? The Microsoft 365 Fundamentals is an entry level Microsoft certification into a broad amount of Microsoft Software-as-a-Service (SaaS) products. These Microsoft SaaS products]]></summary>
         <author>
             <name>Andrew Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Event Delegation in JavaScript –Explained with an Example]]></title>
-        <id>https://www.freecodecamp.org/news/event-delegation-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/event-delegation-javascript/"/>
-        <updated>2022-11-01T17:58:39.000Z</updated>
-        <summary type="html"><![CDATA[Event Delegation is a pattern based upon the concept of Event Bubbling [/news/event-bubbling-in-javascript/]. It is an event-handling pattern that allows you to handle events at a higher level in the DOM tree other than the level where the event was first received. There's a video version of this topic [https://www.youtube.com/watch?v=aZ3JWv0ofuA]]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Full Stack Development – HTML, CSS, JavaScript, Node.js, MongoDB]]></title>
-        <id>https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/</id>
-        <link href="https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/"/>
-        <updated>2022-11-01T16:57:54.000Z</updated>
-        <summary type="html"><![CDATA[Full stack development is a term used to describe the process of developing a complete website or application from start to finish. A full stack developer is a web developer who can work on all parts of a website or application, from the back-end code that powers the site to]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle Errors in Python – the try, except, else, and finally Keywords Explained]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-handle-errors-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-handle-errors-in-python/"/>
-        <updated>2022-11-01T14:53:34.000Z</updated>
-        <summary type="html"><![CDATA[> “It’s hard enough to find an error in your code when you’re looking for it; it’s even harder when you’ve assumed your code is error-free.” ― Steve McConnell Errors are inevitable in a programmer's life. In fact, while writing programs, errors can be really helpful in identifying the logic]]></summary>
-        <author>
-            <name>P S Mohammed Ali</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Mathematician Who Fled to Freedom but Still Stares Down Doubts]]></title>
-        <id>https://www.quantamagazine.org/?p=120268</id>
-        <link href="https://www.quantamagazine.org/in-math-and-life-svetlana-jitomirskaya-stares-down-complexity-20221101/"/>
-        <updated>2022-11-01T13:53:54.000Z</updated>
-        <summary type="html"><![CDATA[Svetlana Jitomirskaya was born in Ukraine, but left the Soviet Union to escape sexism and antisemitism. Even though her work in mathematical physics has now been honored with one of the field’s top prizes, she finds herself still fighting old battles.             
-The post A Mathematician Who Fled to Freedom but Still Stares Down Doubts first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Jordana Cepelewicz</name>
         </author>
     </entry>
 </feed>

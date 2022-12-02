@@ -12,6 +12,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/dijkstras-algorithm-explained-with-a-pseudocode-example/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use algorithms in programming to solve specific problems through a set of precise instructions or procedures. Dijkstra's algorithm is one of many graph algorithms you'll come across. It is used to find the shortest path from a fixed node to all other nodes in a graph. There are",
+          "link": "https://www.freecodecamp.org/news/dijkstras-algorithm-explained-with-a-pseudocode-example/",
+          "publishedOn": "2022-12-01T20:57:53.000Z",
+          "wordCount": 2352,
+          "title": "Dijkstra's Algorithm – Explained with a Pseudocode Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/michael-dziedzic-vLmo8kAVVt4-unsplash--2-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sql-insert-statement/",
+          "author": "Annoh Karlgusta",
+          "description": "In this tutorial, you'll learn how to use the SQL INSERT statement. We'll discuss the syntax of INSERT, and then we'll use an example to show all the different ways you can use INSERT. We'll also combine it with other helpful clauses to perform more complex operations. Prerequisites  *",
+          "link": "https://www.freecodecamp.org/news/sql-insert-statement/",
+          "publishedOn": "2022-12-01T18:54:21.000Z",
+          "wordCount": 2312,
+          "title": "SQL INSERT Statement – How to Insert Data into a Table in SQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/SQL-Insert-Statement.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/schedule-email-in-gmail/",
           "author": "Benjamin Semah",
           "description": "Sometimes you might want to compose an email but send it later. Well, did you know that Gmail allows you to schedule up to 100 emails? In this article, you will learn how to schedule your emails using Gmail. There's no need to install any software or plugins. What you",
@@ -920,36 +940,6 @@
           "wordCount": 1047,
           "title": "Microsoft 365 Fundamentals Certification (MS-900) – Pass the Exam With This Free 4-Hour Course",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/ms900.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/event-delegation-javascript/",
-          "author": "Dillion Megida",
-          "description": "Event Delegation is a pattern based upon the concept of Event Bubbling [/news/event-bubbling-in-javascript/]. It is an event-handling pattern that allows you to handle events at a higher level in the DOM tree other than the level where the event was first received. There's a video version of this topic [https://www.youtube.com/watch?v=aZ3JWv0ofuA]",
-          "link": "https://www.freecodecamp.org/news/event-delegation-javascript/",
-          "publishedOn": "2022-11-01T17:58:39.000Z",
-          "wordCount": 1381,
-          "title": "Event Delegation in JavaScript –Explained with an Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/2.-event-delegation-js.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/",
-          "author": "Beau Carnes",
-          "description": "Full stack development is a term used to describe the process of developing a complete website or application from start to finish. A full stack developer is a web developer who can work on all parts of a website or application, from the back-end code that powers the site to",
-          "link": "https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/",
-          "publishedOn": "2022-11-01T16:57:54.000Z",
-          "wordCount": 1246,
-          "title": "Learn Full Stack Development – HTML, CSS, JavaScript, Node.js, MongoDB",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/webdev.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-handle-errors-in-python/",
-          "author": "P S Mohammed Ali",
-          "description": "> “It’s hard enough to find an error in your code when you’re looking for it; it’s even harder when you’ve assumed your code is error-free.” ― Steve McConnell Errors are inevitable in a programmer's life. In fact, while writing programs, errors can be really helpful in identifying the logic",
-          "link": "https://www.freecodecamp.org/news/how-to-handle-errors-in-python/",
-          "publishedOn": "2022-11-01T14:53:34.000Z",
-          "wordCount": 1829,
-          "title": "How to Handle Errors in Python – the try, except, else, and finally Keywords Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/11.jpg"
         }
       ]
     },
@@ -958,6 +948,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=121075",
+          "author": "Matt von Hippel",
+          "description": "Maintenance of the software that’s used for the hardest physics calculations rests almost entirely with a retiree. The situation reveals the problematic incentive structure of academia.            \nThe post Crucial Computer Program for Particle Physics at Risk of Obsolescence first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/crucial-computer-program-for-particle-physics-at-risk-of-obsolescence-20221201/",
+          "publishedOn": "2022-12-01T16:01:27.000Z",
+          "wordCount": 5416,
+          "title": "Crucial Computer Program for Particle Physics at Risk of Obsolescence",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/12/FormSoftwareInPeril-byKristinaArmitage-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=121002",
           "author": "Natalie Wolchover",
@@ -1117,16 +1117,6 @@
           "wordCount": 5681,
           "title": "Ocean Bacteria Reveal an Unexpected Multicellular Form",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/Bacterial-Aggregates_1200_Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=120268",
-          "author": "Jordana Cepelewicz",
-          "description": "Svetlana Jitomirskaya was born in Ukraine, but left the Soviet Union to escape sexism and antisemitism. Even though her work in mathematical physics has now been honored with one of the field’s top prizes, she finds herself still fighting old battles.             \nThe post A Mathematician Who Fled to Freedom but Still Stares Down Doubts first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/in-math-and-life-svetlana-jitomirskaya-stares-down-complexity-20221101/",
-          "publishedOn": "2022-11-01T13:53:54.000Z",
-          "wordCount": 8132,
-          "title": "A Mathematician Who Fled to Freedom but Still Stares Down Doubts",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/SvetlanaJitomirskaya-1200_Social.webp"
         }
       ]
     },
