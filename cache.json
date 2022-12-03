@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/css-is-pseudo-class-explained/",
+          "author": "Dillion Megida",
+          "description": "Pseudo-classes allow you to style an element in a specific state. There are many supported classes for states in CSS. In this article, I'll explain how the :is  pseudo-class works. This article is the first in a new series I'll be working on over the coming weeks and months:",
+          "link": "https://www.freecodecamp.org/news/css-is-pseudo-class-explained/",
+          "publishedOn": "2022-12-02T22:04:37.000Z",
+          "wordCount": 1587,
+          "title": "CSS Pseudo-Classes – How the :is Pseudo-Class Works with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/1.-is.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-2022-usage-statistics/",
+          "author": "Quincy Larson",
+          "description": "That's 8,000 years. That's a lot of learning. 2022 has been a massive year for the freeCodeCamp community. People around the world are using freeCodeCamp to expand their skills and advance their careers. Here's a breakdown of site usage across the four main pillars of the freeCodeCamp community: /learn (the",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-2022-usage-statistics/",
+          "publishedOn": "2022-12-02T00:22:33.000Z",
+          "wordCount": 1117,
+          "title": "People Spent 4 Billion Minutes Learning on freeCodeCamp in 2022",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/freeCodeCamp_historic_usage_-_Google_Sheets.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-2022-top-contributors/",
+          "author": "Quincy Larson",
+          "description": "2022 was a massive year for the freeCodeCamp community:  * The community helped millions of people around the world learn math,    programming, and computer science. We also helped them stay motivated and    moving forward toward their goals.  * We published thousands of",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-2022-top-contributors/",
+          "publishedOn": "2022-12-02T00:21:15.000Z",
+          "wordCount": 2266,
+          "title": "Announcing freeCodeCamp's 2022 Top Contributors",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/thomas-habr-wprOCzLIEYI-unsplash--1-.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/dijkstras-algorithm-explained-with-a-pseudocode-example/",
           "author": "Ihechikara Vincent Abba",
           "description": "You can use algorithms in programming to solve specific problems through a set of precise instructions or procedures. Dijkstra's algorithm is one of many graph algorithms you'll come across. It is used to find the shortest path from a fixed node to all other nodes in a graph. There are",
@@ -850,96 +880,6 @@
           "wordCount": 10125,
           "title": "TypeScript for React Developers – Why TypeScript is Useful and How it Works",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/typescript-cover.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/quick-sort-algorithm-time-complexity-with-cpp-and-java-code/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In this article, you'll learn about one of the most commonly used programming algorithms – the quick sort algorithm.  You'll get to know how the algorithm works with the help of visual guides. You'll also see some code examples that will help you implement the algorithm in C++ and",
-          "link": "https://www.freecodecamp.org/news/quick-sort-algorithm-time-complexity-with-cpp-and-java-code/",
-          "publishedOn": "2022-11-03T00:43:11.000Z",
-          "wordCount": 2528,
-          "title": "Quick Sort – Algorithm Time Complexity with C++ and Java Code Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/kelly-sikkema-377gw1wN0Ic-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-minify-minifying-js-with-a-minifier-or-jsmin/",
-          "author": "Dillion Megida",
-          "description": "You might be wondering – what is minification and how does it improve your JavaScript applications? What tools can you use to minify your JS? I'll answer these questions in this article. What is Minification? Minification is the process of \"minimizing\" code by removing the irrelevant parts of the code.",
-          "link": "https://www.freecodecamp.org/news/javascript-minify-minifying-js-with-a-minifier-or-jsmin/",
-          "publishedOn": "2022-11-02T23:50:39.000Z",
-          "wordCount": 1624,
-          "title": "JavaScript Minify – Minifying JS with a Minifier or jsmin",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/3.-minifying-js.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/typeerror-builtin-function-or-method-object-is-not-subscriptable-python-error-solved/",
-          "author": "Kolade Chris",
-          "description": "As the name suggests, the error TypeError: builtin_function_or_method object is not subscriptable is a “typeerror” that occurs when you try to call a built-in function the wrong way. When a \"typeerror\" occurs, the program is telling you that you’re mixing up types. That means, for example, you might be concatenating",
-          "link": "https://www.freecodecamp.org/news/typeerror-builtin-function-or-method-object-is-not-subscriptable-python-error-solved/",
-          "publishedOn": "2022-11-02T23:43:20.000Z",
-          "wordCount": 1131,
-          "title": "TypeError: builtin_function_or_method object is not subscriptable Python Error [SOLVED]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/built_in_not_subable.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/customer-segmentation-python-machine-learning/",
-          "author": "Ibrahim Abayomi Ogunbiyi",
-          "description": "Before I get into what this post is all about, I'd like to share the motivation that prompted me to write it.  I'm writing this article because I recall the first time I learned about customer segmentation or clustering. I didn't fully grasp what I was doing back then.",
-          "link": "https://www.freecodecamp.org/news/customer-segmentation-python-machine-learning/",
-          "publishedOn": "2022-11-02T18:56:39.000Z",
-          "wordCount": 3363,
-          "title": "How to Perform Customer Segmentation in Python – Machine Learning Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/-GetPaidStock.com--635e3fa0c561f.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/destructure-object-properties-using-array-map-in-react/",
-          "author": "Caleb Olojo",
-          "description": "One of the methods frontend developers use the most in JavaScript is the  Array.prototype.map() method.  From having to render a list of items in the DOM to looping through a series of blog posts – and many more – the usefulness goes on and on. Say you have",
-          "link": "https://www.freecodecamp.org/news/destructure-object-properties-using-array-map-in-react/",
-          "publishedOn": "2022-11-02T17:07:58.000Z",
-          "wordCount": 1432,
-          "title": "How to Destructure Object Properties Using array.map() in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-pixabay-276502.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-an-effective-cyber-tabletop-exercise/",
-          "author": "Aaron Katz",
-          "description": "What is a cybersecurity tabletop exercise (TTX)? Cybersecurity breaches are resulting in an increasing number of losses ($4.2 million in 2021 [https://purplesec.us/resources/cyber-security-statistics/#Cybercrime]). So it's important to do as much as possible to prepare and train before experiencing a potential incident yourself.  A cybersecurity tabletop exercise (TTX) is one of",
-          "link": "https://www.freecodecamp.org/news/build-an-effective-cyber-tabletop-exercise/",
-          "publishedOn": "2022-11-02T16:41:13.000Z",
-          "wordCount": 2389,
-          "title": "How to Build an Effective Cyber Tabletop Exercise",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-fauxels-3183197.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved-python-error/",
-          "author": "Dionysia Lemonaki",
-          "description": "In this article, you will learn what the Python error TypeError: can't multiply sequence by non-int of type float means. Firstly, I will explain why this error gets raised. You will also learn how to solve the error and how to avoid it in the first place. Here is what",
-          "link": "https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved-python-error/",
-          "publishedOn": "2022-11-02T16:36:15.000Z",
-          "wordCount": 1534,
-          "title": "TypeError: can't multiply sequence by non-int of type float [Solved Python Error]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-pixabay-355948.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-i-learned-as-a-hacktoberfest-repo-maintainer/",
-          "author": "Jessica Wilkins",
-          "description": "Hacktoberfest is a month long celebration of open source. And this year I participated as a maintainer for freeCodeCamp's Developer Quiz Site [https://github.com/freeCodeCamp/Developer_Quiz_Site]. I merged a total of 356 pull requests and helped a lot of new contributors get started with open source. We were able to add a total",
-          "link": "https://www.freecodecamp.org/news/what-i-learned-as-a-hacktoberfest-repo-maintainer/",
-          "publishedOn": "2022-11-02T16:17:06.000Z",
-          "wordCount": 2431,
-          "title": "What I Learned from Maintaining a Repo During Hacktoberfest and Merging 356 PRs",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Screen-Shot-2022-10-31-at-5.56.25-PM.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/microsoft-365-fundamentals-certification-ms-900-course/",
-          "author": "Andrew Brown",
-          "description": "You can learn everything you need to know to earn the Microsoft 365 Fundamentals Certification by completing this free 4-hour course. What is the Microsoft 365 Fundamentals? The Microsoft 365 Fundamentals is an entry level Microsoft certification into a broad amount of Microsoft Software-as-a-Service (SaaS) products. These Microsoft SaaS products",
-          "link": "https://www.freecodecamp.org/news/microsoft-365-fundamentals-certification-ms-900-course/",
-          "publishedOn": "2022-11-02T14:10:44.000Z",
-          "wordCount": 1047,
-          "title": "Microsoft 365 Fundamentals Certification (MS-900) – Pass the Exam With This Free 4-Hour Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/ms900.png"
         }
       ]
     },
@@ -948,6 +888,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=121100",
+          "author": "Pradeep Mutalik",
+          "description": "Wordle is a word game. But you can use math to optimize your chances of winning (without cheating).            \nThe post The Math Behind Wordle Guesses first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-math-behind-wordle-guesses-20221202/",
+          "publishedOn": "2022-12-02T14:42:56.000Z",
+          "wordCount": 9436,
+          "title": "The Math Behind Wordle Guesses",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/October_Puzzle_1200_Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=121075",
           "author": "Matt von Hippel",
@@ -1107,16 +1057,6 @@
           "wordCount": 11890,
           "title": "A Dream of Discovering Alien Life Finds New Hope",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/LisaKaltenegger-Social-SashaMaslov.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=120304",
-          "author": "Carrie Arnold",
-          "description": "Marine bacteria normally seen as single cells join together as a “microscopic snow globe” to consume bulky floating carbohydrates.            \nThe post Ocean Bacteria Reveal an Unexpected Multicellular Form first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/ocean-bacteria-reveal-an-unexpected-multicellular-form-20221102/",
-          "publishedOn": "2022-11-02T14:13:20.000Z",
-          "wordCount": 5681,
-          "title": "Ocean Bacteria Reveal an Unexpected Multicellular Form",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/Bacterial-Aggregates_1200_Social.webp"
         }
       ]
     },
@@ -1289,6 +1229,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/439",
+          "author": null,
+          "description": "#​439 — December 2, 2022\n\n\nUnsub  |  Web Version\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nThe Best Go Framework.. No Framework? — Many languages have default (or, at least, obvious) frameworks that can help your project get off the ground quickly and help learn the language, but Go is different. Starting without a framework may be the best choice you can make, argues Robert. (This also provoked a fair bit of discussion on Hacker News.)\nRobert Laszczak (Three Dots Labs) \n\n\n  \n  \nGoLand Turns 5; Releases v2022.3 — Whilst a commercial product, GoLand is undoubtedly a common IDE choice in the Go world, and 2022.3 offers a variety of enhancements, including improvements to generics and workspaces support. A Go Playground feature has also been baked in for in-IDE experimentation.\nEkaterina …",
+          "link": "https://golangweekly.com/issues/439",
+          "publishedOn": "2022-12-02T00:00:00.000Z",
+          "wordCount": 976,
+          "title": "Are robots coming to fix your Go code?",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/438",
           "author": null,
