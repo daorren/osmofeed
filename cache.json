@@ -840,46 +840,6 @@
           "wordCount": 2097,
           "title": "How to Use the SQL CASE Statement – with Example Challenge",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Sql-case-banner.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-convert-a-string-to-an-integer-in-java/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When working with a programming language, you may want to convert strings to integers. An example would be performing a mathematical operation using the value of a string variable.  In this article, you'll learn how to convert a string to an integer in Java using two methods of the",
-          "link": "https://www.freecodecamp.org/news/how-to-convert-a-string-to-an-integer-in-java/",
-          "publishedOn": "2022-11-03T22:02:07.000Z",
-          "wordCount": 1069,
-          "title": "String to Int in Java – How to Convert a String to an Integer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/marcel-eberle-rendLSpkDtY-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-lowercase-python-string/",
-          "author": "Tantoluwa Heritage Alabi",
-          "description": "A string is a datatype that consists of characters wrapped in quotation marks. These characters can be letters, symbols, or numbers.  In Python, there are different ways of working with strings. These methods are built-in functions that change the results of the string.  For instance, if I want",
-          "link": "https://www.freecodecamp.org/news/how-to-lowercase-python-string/",
-          "publishedOn": "2022-11-03T16:16:15.000Z",
-          "wordCount": 3000,
-          "title": "Python lower() – How to Lowercase a Python String with the tolower Function Equivalent",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-pixabay-278881.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-format-number-as-currency-in-javascript-one-line-of-code/",
-          "author": "Joel Olawanle",
-          "description": "When you're working with data from an API or an external resource, you'll get these data in some general format. For example, if you are building a store, you might have data like price. This price data might be in the form of a general number such as 14340 or",
-          "link": "https://www.freecodecamp.org/news/how-to-format-number-as-currency-in-javascript-one-line-of-code/",
-          "publishedOn": "2022-11-03T15:29:55.000Z",
-          "wordCount": 1618,
-          "title": "How to Format a Number as Currency in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/cover-template--2-.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/typescript-for-react-developers/",
-          "author": "Daniel Asta",
-          "description": "If you've been using React for a while, you may have noticed times when the freedom and wild nature of JavaScript works against you (and not because of JS 😄). This can be especially true if you're working in a team. You may not know it, but you need TypeScript",
-          "link": "https://www.freecodecamp.org/news/typescript-for-react-developers/",
-          "publishedOn": "2022-11-03T15:00:03.000Z",
-          "wordCount": 10125,
-          "title": "TypeScript for React Developers – Why TypeScript is Useful and How it Works",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/typescript-cover.jpg"
         }
       ]
     },
@@ -1047,16 +1007,6 @@
           "wordCount": 5468,
           "title": "The Enduring Mystery of the Dragonfly 44 Galaxy",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/Dragonfly-44-Explainer_1200_Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=120326",
-          "author": "Joshua Sokol",
-          "description": "For Lisa Kaltenegger and her generation of exoplanet astronomers, decades of planning have set the stage for an epochal detection.             \nThe post A Dream of Discovering Alien Life Finds New Hope first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/alien-life-a-dream-of-discovery-finds-new-hope-20221103/",
-          "publishedOn": "2022-11-03T15:12:26.000Z",
-          "wordCount": 11890,
-          "title": "A Dream of Discovering Alien Life Finds New Hope",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/LisaKaltenegger-Social-SashaMaslov.webp"
         }
       ]
     },
@@ -1267,16 +1217,6 @@
           "publishedOn": "2022-11-11T00:00:00.000Z",
           "wordCount": 939,
           "title": "Go becomes a teenager",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/435",
-          "author": null,
-          "description": "#​435 — November 4, 2022\n\n\nUnsubscribe  |  Read on the Web\n\n\n\n    \nTogether with \n        \n          \n          \n          \n        \n      \n\n    \n    \n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \n▶  How Go Programs Keep Working (By Being Boring) — In a talk given at GopherCon 2022 last month, Russ dug into Go’s “compatibility promise” that ensures your Go code will keep working even as the Go runtime evolves. “Boring can be good,”  Russ says.\nRuss Cox \n\n\n  \n  \n'The Real Problem with Go' — Some yin to Russ's yang! This author’s complaint is around the challenges around contributing to Go and perceived bottlenecks in the project’s processes. These sorts of posts often inspire discussion and so did this one: over on Hacker News.\nVanity Notes \n\n\n  \n  \nGophers - Opportunity is Knocking — We’re a…",
-          "link": "https://golangweekly.com/issues/435",
-          "publishedOn": "2022-11-04T00:00:00.000Z",
-          "wordCount": 903,
-          "title": "Go is 'boring' and that's good.",
           "imageUrl": null
         }
       ]
