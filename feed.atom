@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-04T01:36:43.573Z</updated>
+    <updated>2022-12-05T01:35:24.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — “There ain't no more swaps”]]></title>
+        <id>6384ee96a6e1f3029a408a91</id>
+        <link href="https://labnotes.org/weekend-reading-there-aint-no-more-swaps/"/>
+        <updated>2022-12-04T23:13:12.000Z</updated>
+        <summary type="html"><![CDATA[This week we got two serverless databases, 8-bit icons, a better search experience, follow links for Mastodon, and a 3D printer challenge.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Pseudo-Classes – How the :is Pseudo-Class Works with Examples]]></title>
         <id>https://www.freecodecamp.org/news/css-is-pseudo-class-explained/</id>
@@ -1493,36 +1503,6 @@ Disclaimer: I only tested this shell function in my environment: macOS and ZSH.
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeError: module object is not callable [Python Error Solved]]]></title>
-        <id>https://www.freecodecamp.org/news/typeerror-module-object-is-not-callable-python-error-solved/</id>
-        <link href="https://www.freecodecamp.org/news/typeerror-module-object-is-not-callable-python-error-solved/"/>
-        <updated>2022-11-04T22:17:35.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll talk about the "TypeError: 'module' object is not callable" error in Python.  We'll start by defining some of the keywords found in the error message — module  and callable.  You'll then see some examples that raise the error, and how to fix it.]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tailwind CSS Landing Page Themes for Busy Developers]]></title>
-        <id>https://www.freecodecamp.org/news/tailwind-css-landing-pages-and-themes-for-busy-developers/</id>
-        <link href="https://www.freecodecamp.org/news/tailwind-css-landing-pages-and-themes-for-busy-developers/"/>
-        <updated>2022-11-04T21:44:34.000Z</updated>
-        <summary type="html"><![CDATA[Developers across all levels of experience spend hours hunched over their computers, trying to translate the UI designer's ideas into a functional website or application. Considering that you're reading this, chances are that this is a pretty relatable scenario for you. And you know all too well just how tedious]]></summary>
-        <author>
-            <name>Edan Ben-Atar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the SQL CASE Statement – with Example Challenge]]></title>
-        <id>https://www.freecodecamp.org/news/sql-case-statement/</id>
-        <link href="https://www.freecodecamp.org/news/sql-case-statement/"/>
-        <updated>2022-11-04T14:28:57.000Z</updated>
-        <summary type="html"><![CDATA[Writing SQL with multiple conditions can be an arduous task, especially if you need to make numerous checks.  For example, an if () else if () else {} check case expression handles all SQL conditionals. If the first condition is satisfied, the query stops executing with a return value.]]></summary>
-        <author>
-            <name>Sule-Balogun Olanrewaju Ganiu</name>
         </author>
     </entry>
 </feed>

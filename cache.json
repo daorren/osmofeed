@@ -810,36 +810,6 @@
           "wordCount": 2109,
           "title": "Coercion and Type Conversion in JavaScript – Explained with Code Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/4.-coercion.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/typeerror-module-object-is-not-callable-python-error-solved/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In this article, we'll talk about the \"TypeError: 'module' object is not callable\" error in Python.  We'll start by defining some of the keywords found in the error message — module  and callable.  You'll then see some examples that raise the error, and how to fix it.",
-          "link": "https://www.freecodecamp.org/news/typeerror-module-object-is-not-callable-python-error-solved/",
-          "publishedOn": "2022-11-04T22:17:35.000Z",
-          "wordCount": 1477,
-          "title": "TypeError: module object is not callable [Python Error Solved]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/brett-jordan-XWar9MbNGUY-unsplash--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/tailwind-css-landing-pages-and-themes-for-busy-developers/",
-          "author": "Edan Ben-Atar",
-          "description": "Developers across all levels of experience spend hours hunched over their computers, trying to translate the UI designer's ideas into a functional website or application. Considering that you're reading this, chances are that this is a pretty relatable scenario for you. And you know all too well just how tedious",
-          "link": "https://www.freecodecamp.org/news/tailwind-css-landing-pages-and-themes-for-busy-developers/",
-          "publishedOn": "2022-11-04T21:44:34.000Z",
-          "wordCount": 2120,
-          "title": "Tailwind CSS Landing Page Themes for Busy Developers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-gdtography-911758.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/sql-case-statement/",
-          "author": "Sule-Balogun Olanrewaju Ganiu",
-          "description": "Writing SQL with multiple conditions can be an arduous task, especially if you need to make numerous checks.  For example, an if () else if () else {} check case expression handles all SQL conditionals. If the first condition is satisfied, the query stops executing with a return value.",
-          "link": "https://www.freecodecamp.org/news/sql-case-statement/",
-          "publishedOn": "2022-11-04T14:28:57.000Z",
-          "wordCount": 2097,
-          "title": "How to Use the SQL CASE Statement – with Example Challenge",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Sql-case-banner.jpg"
         }
       ]
     },
@@ -1015,6 +985,16 @@
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
+        {
+          "id": "6384ee96a6e1f3029a408a91",
+          "author": "Assaf Arkin",
+          "description": "This week we got two serverless databases, 8-bit icons, a better search experience, follow links for Mastodon, and a 3D printer challenge.",
+          "link": "https://labnotes.org/weekend-reading-there-aint-no-more-swaps/",
+          "publishedOn": "2022-12-04T23:13:12.000Z",
+          "wordCount": 1282,
+          "title": "Weekend Reading — “There ain't no more swaps”",
+          "imageUrl": "https://labnotes.org/content/images/2022/12/cce098a7871181d909a8cad01c7df255daea354a6434cdf2cf38ea61aa46fad3-1.jpeg"
+        },
         {
           "id": "637ad3224ac0a02f93c58776",
           "author": "Assaf Arkin",
