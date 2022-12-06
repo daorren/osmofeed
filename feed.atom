@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-05T01:35:24.516Z</updated>
+    <updated>2022-12-06T01:33:21.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gobuster Tutorial – How to Find Hidden Directories, Sub-Domains, and S3 Buckets]]></title>
+        <id>https://www.freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/</id>
+        <link href="https://www.freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/"/>
+        <updated>2022-12-05T23:40:58.000Z</updated>
+        <summary type="html"><![CDATA[There’s much more to web servers and websites than what appears on the surface. The first step an attacker uses when attacking a website is to find the list of URLs and sub-domains. Web developers often expose sensitive files, URL paths, or even sub-domains while building or maintaining a site.]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is an API and How Does it Work? APIs for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/how-apis-work/</id>
+        <link href="https://www.freecodecamp.org/news/how-apis-work/"/>
+        <updated>2022-12-05T22:56:35.000Z</updated>
+        <summary type="html"><![CDATA[When I started learning to code, the term API would always haunt me. I couldn't make sense of what it actually meant because I would hear people talking about APIs in different contexts.  The biggest challenge was that I couldn't find resources to learn about APIs in simple terms.]]></summary>
+        <author>
+            <name>Tooba Jamal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better React Performance – When to Use the useCallback vs useMemo Hook]]></title>
+        <id>https://www.freecodecamp.org/news/better-react-performance-usecallback-vs-usememo/</id>
+        <link href="https://www.freecodecamp.org/news/better-react-performance-usecallback-vs-usememo/"/>
+        <updated>2022-12-05T18:47:25.000Z</updated>
+        <summary type="html"><![CDATA[We all want to build powerful applications and avoid unnecessary renders. There are some hooks available to help with this, but you might not be sure about which one to use and when. In this article you will learn the differences between useCallback and useMemo  as well as how]]></summary>
+        <author>
+            <name>Daniel Asta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Exactly is Node.js? Explained for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-node-js/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-node-js/"/>
+        <updated>2022-12-05T15:18:12.000Z</updated>
+        <summary type="html"><![CDATA[Node.js allows developers to create both front-end and back-end applications using JavaScript. It was released in 2009 by Ryan Dahl. In this article, you will learn about Node.js. You will learn the following:  * What is Node.js?  * How the Node.js environment differs from the browser.  *]]></summary>
+        <author>
+            <name>Benjamin Semah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asymmetry Detected in the Distribution of Galaxies]]></title>
+        <id>https://www.quantamagazine.org/?p=121126</id>
+        <link href="https://www.quantamagazine.org/asymmetry-detected-in-the-distribution-of-galaxies-20221205/"/>
+        <updated>2022-12-05T15:16:46.000Z</updated>
+        <summary type="html"><![CDATA[Two new studies suggest that certain tetrahedral arrangements of galaxies outnumber their mirror images, potentially reflecting details of the universe’s birth. But confirmation is needed.            
+The post Asymmetry Detected in the Distribution of Galaxies first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Katie McCormick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Find the Size of an Array in C with the sizeof Operator]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-find-the-size-of-an-array-in-c-with-the-sizeof-operator/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-find-the-size-of-an-array-in-c-with-the-sizeof-operator/"/>
+        <updated>2022-12-05T14:53:05.000Z</updated>
+        <summary type="html"><![CDATA[When coding in the C programming language, there may be times when you need to know the size of an array. For example, when you want to loop through all the elements stored in the array to determine whether a specific value is present. In this article, you will learn]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — “There ain't no more swaps”]]></title>
         <id>6384ee96a6e1f3029a408a91</id>
@@ -1460,49 +1521,6 @@ The post The Enduring Mystery of the Dragonfly 44 Galaxy first appeared on Quant
         <summary type="html"><![CDATA[This week we talk about server-side image rendering, making great presentations, and the opposite sides of fine-tuned AI art.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A native shell alternative to the trash-cli (#snippet)]]></title>
-        <id>https://www.stefanjudis.com/snippets/a-native-shell-alternative-to-the-trash-cli/</id>
-        <link href="https://www.stefanjudis.com/snippets/a-native-shell-alternative-to-the-trash-cli/"/>
-        <updated>2022-11-05T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Wes Bos has advocated using the trash-cli instead of the rm command this week.
-The reasoning: rm is unrecoverable. Once you remove files or directories using rm, they're gone. Ergo, you can bring yourself into real trouble using rm.
-I assume one could do some wild forensic stuff to restore bits and bytes on your hard drive, but the deleted files have to be very important to go this route.
-trash can help out here! The command doesn't delete files but moves them to your operating system's trash directory. When you then accidentally delete something important, head over to your lovely bin icon and recover files from there!
-But here's the kicker: installing the global trash-cli package comes with 829 dependency files. Markdown, JavaScript, JSON and license files are all at your service, making up a whopping 4.3MB heavy node_modules directory.
-Sure, 4 MB isn't an issue for me on my developer machine. And the command runs fast enough to protect me and my fat fingers from self-destruction. But still, that's a lot of dependency code to move files into another directory, isn't it?
-A native trash CLI function
-
-Liran Tal thought the same and shared a nifty four-liner giving you all of trash's functionality.
-trash() {
-  echo "[x] moving files to trash..."
-  mv "$@" "$HOME/.trash"
-}
-
-I played around with Liran's function and adjusted it also to support multiple files.
-# ✅ globs          – `trash file-*-.txt`
-# ✅ directories    – `trash directory`
-# ✅ multiple files - `trash file-1 dir-1 file-2`
-function trash() {
-  echo "🗑️  Moving files to trash..."
-
-  for var in "$@"
-  do
-    mv "$var" "$HOME/.trash"
-  done
-}
-
-So far, my new trash command has been working great. I'll let you know when I'll discover any issues!
-Disclaimer: I only tested this shell function in my environment: macOS and ZSH.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

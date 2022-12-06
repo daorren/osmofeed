@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/",
+          "author": "Manish Shivanandhan",
+          "description": "There’s much more to web servers and websites than what appears on the surface. The first step an attacker uses when attacking a website is to find the list of URLs and sub-domains. Web developers often expose sensitive files, URL paths, or even sub-domains while building or maintaining a site.",
+          "link": "https://www.freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/",
+          "publishedOn": "2022-12-05T23:40:58.000Z",
+          "wordCount": 1845,
+          "title": "Gobuster Tutorial – How to Find Hidden Directories, Sub-Domains, and S3 Buckets",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Stealth-Security---Blog-Banner--24-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-apis-work/",
+          "author": "Tooba Jamal",
+          "description": "When I started learning to code, the term API would always haunt me. I couldn't make sense of what it actually meant because I would hear people talking about APIs in different contexts.  The biggest challenge was that I couldn't find resources to learn about APIs in simple terms.",
+          "link": "https://www.freecodecamp.org/news/how-apis-work/",
+          "publishedOn": "2022-12-05T22:56:35.000Z",
+          "wordCount": 1923,
+          "title": "What is an API and How Does it Work? APIs for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/api-article.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/better-react-performance-usecallback-vs-usememo/",
+          "author": "Daniel Asta",
+          "description": "We all want to build powerful applications and avoid unnecessary renders. There are some hooks available to help with this, but you might not be sure about which one to use and when. In this article you will learn the differences between useCallback and useMemo  as well as how",
+          "link": "https://www.freecodecamp.org/news/better-react-performance-usecallback-vs-usememo/",
+          "publishedOn": "2022-12-05T18:47:25.000Z",
+          "wordCount": 2705,
+          "title": "Better React Performance – When to Use the useCallback vs useMemo Hook",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/useCallback-vs-useMemo.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-node-js/",
+          "author": "Benjamin Semah",
+          "description": "Node.js allows developers to create both front-end and back-end applications using JavaScript. It was released in 2009 by Ryan Dahl. In this article, you will learn about Node.js. You will learn the following:  * What is Node.js?  * How the Node.js environment differs from the browser.  *",
+          "link": "https://www.freecodecamp.org/news/what-is-node-js/",
+          "publishedOn": "2022-12-05T15:18:12.000Z",
+          "wordCount": 1907,
+          "title": "What Exactly is Node.js? Explained for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/What-is.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-find-the-size-of-an-array-in-c-with-the-sizeof-operator/",
+          "author": "Dionysia Lemonaki",
+          "description": "When coding in the C programming language, there may be times when you need to know the size of an array. For example, when you want to loop through all the elements stored in the array to determine whether a specific value is present. In this article, you will learn",
+          "link": "https://www.freecodecamp.org/news/how-to-find-the-size-of-an-array-in-c-with-the-sizeof-operator/",
+          "publishedOn": "2022-12-05T14:53:05.000Z",
+          "wordCount": 1368,
+          "title": "How to Find the Size of an Array in C with the sizeof Operator",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-eduardo-dutra-2115217-1.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/css-is-pseudo-class-explained/",
           "author": "Dillion Megida",
           "description": "Pseudo-classes allow you to style an element in a specific state. There are many supported classes for states in CSS. In this article, I'll explain how the :is  pseudo-class works. This article is the first in a new series I'll be working on over the coming weeks and months:",
@@ -819,6 +869,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=121126",
+          "author": "Katie McCormick",
+          "description": "Two new studies suggest that certain tetrahedral arrangements of galaxies outnumber their mirror images, potentially reflecting details of the universe’s birth. But confirmation is needed.            \nThe post Asymmetry Detected in the Distribution of Galaxies first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/asymmetry-detected-in-the-distribution-of-galaxies-20221205/",
+          "publishedOn": "2022-12-05T15:16:46.000Z",
+          "wordCount": 6713,
+          "title": "Asymmetry Detected in the Distribution of Galaxies",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/12/TetrahedraInTheSky-byMyriamWares-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=121100",
           "author": "Pradeep Mutalik",
           "description": "Wordle is a word game. But you can use math to optimize your chances of winning (without cheating).            \nThe post The Math Behind Wordle Guesses first appeared on Quanta Magazine",
@@ -1141,16 +1201,6 @@
           "wordCount": 1245,
           "title": "How to flip characters and words in your terminal (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20flip%20characters%20and%20words%20in%20your%20terminal/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/a-native-shell-alternative-to-the-trash-cli/",
-          "author": null,
-          "description": "Wes Bos has advocated using the trash-cli instead of the rm command this week.\nThe reasoning: rm is unrecoverable. Once you remove files or directories using rm, they're gone. Ergo, you can bring yourself into real trouble using rm.\nI assume one could do some wild forensic stuff to restore bits and bytes on your hard drive, but the deleted files have to be very important to go this route.\ntrash can help out here! The command doesn't delete files but moves them to your operating system's trash directory. When you then accidentally delete something important, head over to your lovely bin icon and recover files from there!\nBut here's the kicker: installing the global trash-cli package comes with 829 dependency files. Markdown, JavaScript, JSON and license files are all at your service, making up a whopping 4.3MB heavy node_modules directory.\nSure, 4 MB isn't an issue for me on my developer machine. And the command runs fast enough to protect me and my fat fingers from self-destruction. But still, that's a lot of dependency code to move files into another directory, isn't it?\nA native trash CLI function\n\nLiran Tal thought the same and shared a nifty four-liner giving you all of trash's functionality.\ntrash() {\n  echo \"[x] moving files to trash...\"\n  mv \"$@\" \"$HOME/.trash\"\n}\n\nI played around with Liran's function and adjusted it also to support multiple files.\n# ✅ globs          – `trash file-*-.txt`\n# ✅ directories    – `trash directory`\n# ✅ multiple files - `trash file-1 dir-1 file-2`\nfunction trash() {\n  echo \"🗑️  Moving files to trash...\"\n\n  for var in \"$@\"\n  do\n    mv \"$var\" \"$HOME/.trash\"\n  done\n}\n\nSo far, my new trash command has been working great. I'll let you know when I'll discover any issues!\nDisclaimer: I only tested this shell function in my environment: macOS and ZSH.\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/snippets/a-native-shell-alternative-to-the-trash-cli/",
-          "publishedOn": "2022-11-05T23:00:00.000Z",
-          "wordCount": 1447,
-          "title": "A native shell alternative to the trash-cli (#snippet)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20native%20shell%20alternative%20to%20the%20trash-cli/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
