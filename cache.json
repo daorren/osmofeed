@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/separation-of-concerns-react-container-and-presentational-components/",
+          "author": "Keyur Paralkar",
+          "description": "Many new React developers combine logic and presentation inside the same React component. And they may not know why it's important to separate these two – they just want to make it work. But later, they'll find that they need to make changes to the file and doing so becomes",
+          "link": "https://www.freecodecamp.org/news/separation-of-concerns-react-container-and-presentational-components/",
+          "publishedOn": "2022-12-06T21:43:19.000Z",
+          "wordCount": 2388,
+          "title": "Separation of Concerns in React –How to Use Container and Presentational Components",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/container-and-presentational-component-pattern-image.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/linux-top/",
+          "author": "Anthony Behery",
+          "description": "You may be used to using the Activity Monitor in MacOS or the Task Manager for Windows to see the current processes running on your system.  But for those running Linux, if that includes a dual boot, virtual box, or even WSL2, you could use a useful Linux command",
+          "link": "https://www.freecodecamp.org/news/linux-top/",
+          "publishedOn": "2022-12-06T21:09:33.000Z",
+          "wordCount": 1367,
+          "title": "How to View Your Linux Processes",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Screenshot-2022-12-05-235534.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-automate-e-commerce-operations-with-python/",
+          "author": "Marco Venturi",
+          "description": "When you work in e-commerce operations, you'll have to perform many tasks daily to implement your company's business strategies.  But these often repetitive tasks can be time-consuming and leave room for errors. Some of these errors can cost your company money, reputation, and time.  Luckily, Python and APIs",
+          "link": "https://www.freecodecamp.org/news/how-to-automate-e-commerce-operations-with-python/",
+          "publishedOn": "2022-12-06T18:11:07.000Z",
+          "wordCount": 1896,
+          "title": "How to Automate Your Business Strategy with Python and APIs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-are-node-modules/",
+          "author": "Benjamin Semah",
+          "description": "Every Node.js application has modules. These modules form part of the building blocks of the application. They help developers work faster and write more structured code. In this tutorial, you will learn what node modules are. You will also learn about the three types of node modules. And we'll go",
+          "link": "https://www.freecodecamp.org/news/what-are-node-modules/",
+          "publishedOn": "2022-12-06T17:54:33.000Z",
+          "wordCount": 1383,
+          "title": "What Are Node Modules and How Do You Use Them?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/stock.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/generate-random-number-within-a-range-in-javascript/",
+          "author": "Dillion Megida",
+          "description": "Let's say you want to generate a random number between 10 and 15 – how do you do that in JavaScript? I'll show you how with examples in this article. In JavaScript, there's the random method of the Math object which returns random numbers. But this has a range limitation.",
+          "link": "https://www.freecodecamp.org/news/generate-random-number-within-a-range-in-javascript/",
+          "publishedOn": "2022-12-06T16:21:25.000Z",
+          "wordCount": 1269,
+          "title": "How to Generate a Random Number within Certain a Range in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/9.-random-number.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/",
           "author": "Manish Shivanandhan",
           "description": "There’s much more to web servers and websites than what appears on the surface. The first step an attacker uses when attacking a website is to find the list of URLs and sub-domains. Web developers often expose sensitive files, URL paths, or even sub-domains while building or maintaining a site.",
@@ -869,6 +919,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=121170",
+          "author": "Leila Sloman",
+          "description": "Mathematicians are finding inevitable structures in sufficiently large sets of integers.            \nThe post From Systems in Motion, Infinite Patterns Appear first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/infinite-patterns-appear-in-numbers-described-as-moving-systems-20221205/",
+          "publishedOn": "2022-12-05T15:30:15.000Z",
+          "wordCount": 7992,
+          "title": "From Systems in Motion, Infinite Patterns Appear",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/12/InfiniteSumsets-bySamuelVelasco-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=121126",
           "author": "Katie McCormick",
           "description": "Two new studies suggest that certain tetrahedral arrangements of galaxies outnumber their mirror images, potentially reflecting details of the universe’s birth. But confirmation is needed.            \nThe post Asymmetry Detected in the Distribution of Galaxies first appeared on Quanta Magazine",
@@ -1084,16 +1144,6 @@
           "wordCount": 1960,
           "title": "Weekend Reading — 🍿 It's all just a simulation",
           "imageUrl": "https://labnotes.org/content/images/2022/11/7633545db8112902.jpg"
-        },
-        {
-          "id": "635dab23986b4b3ed6ac0b41",
-          "author": "Assaf Arkin",
-          "description": "This week we talk about server-side image rendering, making great presentations, and the opposite sides of fine-tuned AI art.",
-          "link": "https://labnotes.org/weekend-reading-no-vember-learn-to-say-no-to-feature-requests/",
-          "publishedOn": "2022-11-06T20:55:26.000Z",
-          "wordCount": 1438,
-          "title": "Weekend Reading — 👋 No-vember: learn to say \"no\" to feature requests",
-          "imageUrl": "https://labnotes.org/content/images/2022/11/Unknown.jpeg"
         }
       ]
     },
