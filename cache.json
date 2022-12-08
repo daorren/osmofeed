@@ -12,6 +12,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/aws-lambda-interview-questions/",
+          "author": "Mugilan Ragupathi",
+          "description": "In this article, I'll go over some of the most commonly asked questions that come up in interviews about AWS Lambda.  Note that this is not an exhaustive list – but you can use this guide as a reference to refresh your knowledge and get pointers for further study.",
+          "link": "https://www.freecodecamp.org/news/aws-lambda-interview-questions/",
+          "publishedOn": "2022-12-07T20:54:49.000Z",
+          "wordCount": 3161,
+          "title": "AWS Lambda Interview Questions and Answers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/AWS-Lambda-Interview-Questions.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-remove-a-specific-character-from-a-string-in-python/",
+          "author": "Dionysia Lemonaki",
+          "description": "When coding in Python, there may be times when you need to remove a character from a string. Removing characters from strings is handy if you are working with user-generated inputs and need to clean your data and remove unwanted characters. Specifically, you may need to remove only one instance",
+          "link": "https://www.freecodecamp.org/news/how-to-remove-a-specific-character-from-a-string-in-python/",
+          "publishedOn": "2022-12-07T18:43:30.000Z",
+          "wordCount": 2065,
+          "title": "How to Remove a Specific Character from a String in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-josh-sorenson-1714208.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-the-swift-programming-language/",
+          "author": "Beau Carnes",
+          "description": "Swift is popular programming language that is often used for creating iOS apps.  We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the Swift programming language. Vandad Nahavandipoor teaches this course. He currently works as a lead iOS developer and he has created",
+          "link": "https://www.freecodecamp.org/news/learn-the-swift-programming-language/",
+          "publishedOn": "2022-12-07T16:51:51.000Z",
+          "wordCount": 716,
+          "title": "Learn the Swift Programming Language",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/swift.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt/",
+          "author": "Beau Carnes",
+          "description": "Learn how to build cross platform desktop apps for Windows, Mac and Linux. PySide6 is a Python binding for the Qt6 application framework. PySide6 allows you to use the Qt6 framework to create graphical user interfaces (GUIs) and other cross-platform applications in Python. It provides a convenient way to access",
+          "link": "https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt/",
+          "publishedOn": "2022-12-07T16:45:01.000Z",
+          "wordCount": 825,
+          "title": "Python GUI Development Using PySide6 and Qt",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pyside6.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/separation-of-concerns-react-container-and-presentational-components/",
           "author": "Keyur Paralkar",
           "description": "Many new React developers combine logic and presentation inside the same React component. And they may not know why it's important to separate these two – they just want to make it work. But later, they'll find that they need to make changes to the file and doing so becomes",
@@ -860,56 +900,6 @@
           "wordCount": 1834,
           "title": "How to Generate Images using React and the Dall-E 2 API – React and OpenAI API Tutorial",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Important-Concepts-and-questions--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-learn-linux-terminal-as-a-beginner/",
-          "author": "Arunachalam B",
-          "description": "In 2017, I bought a new laptop and switched to Linux. I started off with Ubuntu (but jumped to Elementary [https://elementary.io/] later), as most people suggested it was beginner friendly.  People also suggested that I should get used to using the keyboard and terminal over a mouse to enjoy",
-          "link": "https://www.freecodecamp.org/news/how-to-learn-linux-terminal-as-a-beginner/",
-          "publishedOn": "2022-11-07T21:25:11.000Z",
-          "wordCount": 2715,
-          "title": "How to Learn the Linux Terminal as a Beginner – Tips and Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/10.-Linux-basic-commands---Brief.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/toggle-elements-in-react-using-hooks/",
-          "author": "Deji Adesoga",
-          "description": "When building a web application, toggling an element is one of the key features you are likely to come across and may need to implement in your project. There are various ways you can toggle an element. In this article, we will take a look at how we can implement",
-          "link": "https://www.freecodecamp.org/news/toggle-elements-in-react-using-hooks/",
-          "publishedOn": "2022-11-07T18:26:54.000Z",
-          "wordCount": 2588,
-          "title": "How to Toggle an Element in React using React Hooks",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Copy-of-Coffee-Tutorial-YouTube-Thumbnail--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-css/",
-          "author": "Jessica Wilkins",
-          "description": "Cascading Style Sheets (CSS) represents the design for a web page. But when you are learning this information for the first time, it can be hard to keep track of all of the different CSS properties. In this article, I have created a study guide for the freeCodeCamp curriculum's entire",
-          "link": "https://www.freecodecamp.org/news/learn-css/",
-          "publishedOn": "2022-11-07T18:24:20.000Z",
-          "wordCount": 4762,
-          "title": "Learn CSS – Responsive Web Design Study Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/kobu-agency-ipARHaxETRk-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/high-availability-fault-tolerance-and-disaster-recovery-explained/",
-          "author": "Daniel Adetunji",
-          "description": "High availability, fault tolerance and disaster recovery are important things to consider when designing a system.  These terms are sometimes used interchangeably by architects and developers. They are not, however, the same thing – and understanding the differences can save you many headaches, as well as time and money.",
-          "link": "https://www.freecodecamp.org/news/high-availability-fault-tolerance-and-disaster-recovery-explained/",
-          "publishedOn": "2022-11-07T17:10:24.000Z",
-          "wordCount": 3341,
-          "title": "High Availability vs Fault Tolerance vs Disaster Recovery – Explained with an Analogy",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Slide6.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/coercion-and-type-conversion-in-javascript/",
-          "author": "Dillion Megida",
-          "description": "Coercion is an automatic type conversion that occurs in JavaScript when you want to perform certain operations. I'll explain what coercion is in this article. What is Type Conversion? As the name implies, type conversion is the process of converting a value from one type to another. Values in JavaScript",
-          "link": "https://www.freecodecamp.org/news/coercion-and-type-conversion-in-javascript/",
-          "publishedOn": "2022-11-07T17:03:46.000Z",
-          "wordCount": 2109,
-          "title": "Coercion and Type Conversion in JavaScript – Explained with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/4.-coercion.png"
         }
       ]
     },
@@ -918,6 +908,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=121206",
+          "author": "Allison Parshall",
+          "description": "A quantum approach to data analysis that relies on the study of shapes will likely remain an example of a quantum advantage — albeit for increasingly unlikely scenarios.            \nThe post After a Quantum Clobbering, One Approach Survives Unscathed first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/after-a-classical-clobbering-a-quantum-advantage-remains-20221207/",
+          "publishedOn": "2022-12-07T15:20:10.000Z",
+          "wordCount": 5559,
+          "title": "After a Quantum Clobbering, One Approach Survives Unscathed",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/12/QuantumTDA-byKristinaArmitage-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=121170",
           "author": "Leila Sloman",
@@ -1087,16 +1087,6 @@
           "wordCount": 7689,
           "title": "How Supergenes Fuel Evolution Despite Harmful Mutations",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/Supergenes_1200_Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=120380",
-          "author": "Lyndie Chiou",
-          "description": "A growing catalog of huge but dim galaxies such as Dragonfly 44 is forcing astronomers to invent new theories of galactic evolution.            \nThe post The Enduring Mystery of the Dragonfly 44 Galaxy first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/the-enduring-mystery-of-the-dragonfly-44-galaxy-20221107/",
-          "publishedOn": "2022-11-07T16:16:27.000Z",
-          "wordCount": 5468,
-          "title": "The Enduring Mystery of the Dragonfly 44 Galaxy",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/Dragonfly-44-Explainer_1200_Social.webp"
         }
       ]
     },

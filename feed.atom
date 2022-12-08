@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-07T01:38:22.312Z</updated>
+    <updated>2022-12-08T01:34:45.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda Interview Questions and Answers]]></title>
+        <id>https://www.freecodecamp.org/news/aws-lambda-interview-questions/</id>
+        <link href="https://www.freecodecamp.org/news/aws-lambda-interview-questions/"/>
+        <updated>2022-12-07T20:54:49.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll go over some of the most commonly asked questions that come up in interviews about AWS Lambda.  Note that this is not an exhaustive list – but you can use this guide as a reference to refresh your knowledge and get pointers for further study.]]></summary>
+        <author>
+            <name>Mugilan Ragupathi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Remove a Specific Character from a String in Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-remove-a-specific-character-from-a-string-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-remove-a-specific-character-from-a-string-in-python/"/>
+        <updated>2022-12-07T18:43:30.000Z</updated>
+        <summary type="html"><![CDATA[When coding in Python, there may be times when you need to remove a character from a string. Removing characters from strings is handy if you are working with user-generated inputs and need to clean your data and remove unwanted characters. Specifically, you may need to remove only one instance]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the Swift Programming Language]]></title>
+        <id>https://www.freecodecamp.org/news/learn-the-swift-programming-language/</id>
+        <link href="https://www.freecodecamp.org/news/learn-the-swift-programming-language/"/>
+        <updated>2022-12-07T16:51:51.000Z</updated>
+        <summary type="html"><![CDATA[Swift is popular programming language that is often used for creating iOS apps.  We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the Swift programming language. Vandad Nahavandipoor teaches this course. He currently works as a lead iOS developer and he has created]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python GUI Development Using PySide6 and Qt]]></title>
+        <id>https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt/</id>
+        <link href="https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt/"/>
+        <updated>2022-12-07T16:45:01.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build cross platform desktop apps for Windows, Mac and Linux. PySide6 is a Python binding for the Qt6 application framework. PySide6 allows you to use the Qt6 framework to create graphical user interfaces (GUIs) and other cross-platform applications in Python. It provides a convenient way to access]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After a Quantum Clobbering, One Approach Survives Unscathed]]></title>
+        <id>https://www.quantamagazine.org/?p=121206</id>
+        <link href="https://www.quantamagazine.org/after-a-classical-clobbering-a-quantum-advantage-remains-20221207/"/>
+        <updated>2022-12-07T15:20:10.000Z</updated>
+        <summary type="html"><![CDATA[A quantum approach to data analysis that relies on the study of shapes will likely remain an example of a quantum advantage — albeit for increasingly unlikely scenarios.            
+The post After a Quantum Clobbering, One Approach Survives Unscathed first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Allison Parshall</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Separation of Concerns in React –How to Use Container and Presentational Components]]></title>
         <id>https://www.freecodecamp.org/news/separation-of-concerns-react-container-and-presentational-components/</id>
@@ -1511,67 +1562,6 @@ The post Cryptography’s Future Will Be Quantum-Safe. Here’s How It Will Work
 The post How Supergenes Fuel Evolution Despite Harmful Mutations first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Carrie Arnold</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Learn the Linux Terminal as a Beginner – Tips and Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-learn-linux-terminal-as-a-beginner/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-learn-linux-terminal-as-a-beginner/"/>
-        <updated>2022-11-07T21:25:11.000Z</updated>
-        <summary type="html"><![CDATA[In 2017, I bought a new laptop and switched to Linux. I started off with Ubuntu (but jumped to Elementary [https://elementary.io/] later), as most people suggested it was beginner friendly.  People also suggested that I should get used to using the keyboard and terminal over a mouse to enjoy]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Toggle an Element in React using React Hooks]]></title>
-        <id>https://www.freecodecamp.org/news/toggle-elements-in-react-using-hooks/</id>
-        <link href="https://www.freecodecamp.org/news/toggle-elements-in-react-using-hooks/"/>
-        <updated>2022-11-07T18:26:54.000Z</updated>
-        <summary type="html"><![CDATA[When building a web application, toggling an element is one of the key features you are likely to come across and may need to implement in your project. There are various ways you can toggle an element. In this article, we will take a look at how we can implement]]></summary>
-        <author>
-            <name>Deji Adesoga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn CSS – Responsive Web Design Study Guide]]></title>
-        <id>https://www.freecodecamp.org/news/learn-css/</id>
-        <link href="https://www.freecodecamp.org/news/learn-css/"/>
-        <updated>2022-11-07T18:24:20.000Z</updated>
-        <summary type="html"><![CDATA[Cascading Style Sheets (CSS) represents the design for a web page. But when you are learning this information for the first time, it can be hard to keep track of all of the different CSS properties. In this article, I have created a study guide for the freeCodeCamp curriculum's entire]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High Availability vs Fault Tolerance vs Disaster Recovery – Explained with an Analogy]]></title>
-        <id>https://www.freecodecamp.org/news/high-availability-fault-tolerance-and-disaster-recovery-explained/</id>
-        <link href="https://www.freecodecamp.org/news/high-availability-fault-tolerance-and-disaster-recovery-explained/"/>
-        <updated>2022-11-07T17:10:24.000Z</updated>
-        <summary type="html"><![CDATA[High availability, fault tolerance and disaster recovery are important things to consider when designing a system.  These terms are sometimes used interchangeably by architects and developers. They are not, however, the same thing – and understanding the differences can save you many headaches, as well as time and money.]]></summary>
-        <author>
-            <name>Daniel Adetunji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coercion and Type Conversion in JavaScript – Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/coercion-and-type-conversion-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/coercion-and-type-conversion-in-javascript/"/>
-        <updated>2022-11-07T17:03:46.000Z</updated>
-        <summary type="html"><![CDATA[Coercion is an automatic type conversion that occurs in JavaScript when you want to perform certain operations. I'll explain what coercion is in this article. What is Type Conversion? As the name implies, type conversion is the process of converting a value from one type to another. Values in JavaScript]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Enduring Mystery of the Dragonfly 44 Galaxy]]></title>
-        <id>https://www.quantamagazine.org/?p=120380</id>
-        <link href="https://www.quantamagazine.org/the-enduring-mystery-of-the-dragonfly-44-galaxy-20221107/"/>
-        <updated>2022-11-07T16:16:27.000Z</updated>
-        <summary type="html"><![CDATA[A growing catalog of huge but dim galaxies such as Dragonfly 44 is forcing astronomers to invent new theories of galactic evolution.            
-The post The Enduring Mystery of the Dragonfly 44 Galaxy first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Lyndie Chiou</name>
         </author>
     </entry>
 </feed>
