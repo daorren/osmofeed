@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/statement-vs-expression-whats-the-difference-in-programming/",
+          "author": "Ogundiran Ayobami",
+          "description": "Learning the syntax of a programming language is key if you want to use that language effectively. This is true for both new and experienced developers. And one of the most important things to pay attention to while learning a programming language is whether the code you're dealing with is",
+          "link": "https://www.freecodecamp.org/news/statement-vs-expression-whats-the-difference-in-programming/",
+          "publishedOn": "2022-12-08T23:44:58.000Z",
+          "wordCount": 2128,
+          "title": "Statement vs Expression – What's the Difference in Programming?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/kaleidico-7lryofJ0H9s-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-slicing-how-to-slice-an-array/",
+          "author": "Dillion Megida",
+          "description": "Slicing an array is the concept of cutting out – or slicing out – a part of the array. How do you do this in Python? I'll show you how in this article. What is an Array? An array is a data structure that allows you to store multiple items",
+          "link": "https://www.freecodecamp.org/news/python-slicing-how-to-slice-an-array/",
+          "publishedOn": "2022-12-08T19:13:33.000Z",
+          "wordCount": 2252,
+          "title": "Python Slicing – How to Slice an Array and What Does [::-1] Mean?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/10.-slide-array.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/hacking-with-hashcat-a-practical-guide/",
+          "author": "Manish Shivanandhan",
+          "description": "Hashing is one of the pillars of cybersecurity. From securing passwords to sensitive data, there are a variety of use cases for hashing. Hashing is often confused with encryption. A simple difference is that hashed data is not reversible. Encrypted data can be reversed using a key. This is why",
+          "link": "https://www.freecodecamp.org/news/hacking-with-hashcat-a-practical-guide/",
+          "publishedOn": "2022-12-08T15:55:26.000Z",
+          "wordCount": 2256,
+          "title": "How to Crack Hashes with Hashcat — a Practical Pentesting Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/hashcat-1.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/aws-lambda-interview-questions/",
           "author": "Mugilan Ragupathi",
           "description": "In this article, I'll go over some of the most commonly asked questions that come up in interviews about AWS Lambda.  Note that this is not an exhaustive list – but you can use this guide as a reference to refresh your knowledge and get pointers for further study.",
@@ -890,16 +920,6 @@
           "wordCount": 8161,
           "title": "How to Write Unit Tests in React – Basic Redux Toolkit Testing Included",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-scott-webb-1527893.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/generate-images-using-react-and-dall-e-api-react-and-openai-api-tutorial/",
-          "author": "Nishant Kumar",
-          "description": "Hey everyone! OpenAI just released its DALL-E API where users can generate custom images by just typing in a query.  So in this tutorial, you'll learn how to integrate the OpenAI DALL-E 2 API with a React app. But First, How Does Dall-E Work? So as you already know,",
-          "link": "https://www.freecodecamp.org/news/generate-images-using-react-and-dall-e-api-react-and-openai-api-tutorial/",
-          "publishedOn": "2022-11-08T20:22:16.000Z",
-          "wordCount": 1834,
-          "title": "How to Generate Images using React and the Dall-E 2 API – React and OpenAI API Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Important-Concepts-and-questions--1-.png"
         }
       ]
     },
@@ -908,6 +928,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=121241",
+          "author": "Yasemin Saplakoglu",
+          "description": "After decades in the shadow of the reigning model for Alzheimer’s disease, alternative explanations are finally getting the attention they deserve.            \nThe post What Causes Alzheimer’s? Scientists Are Rethinking the Answer. first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/what-causes-alzheimers-scientists-are-rethinking-the-answer-20221208/",
+          "publishedOn": "2022-12-08T16:33:19.000Z",
+          "wordCount": 22140,
+          "title": "What Causes Alzheimer’s? Scientists Are Rethinking the Answer.",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/12/Alzheimer-byHarolBustos-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=121206",
           "author": "Allison Parshall",
@@ -1077,16 +1107,6 @@
           "wordCount": 5254,
           "title": "Cryptography’s Future Will Be Quantum-Safe. Here’s How It Will Work.",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/Lattice-Cryptography-Explainer_1200_Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=120421",
-          "author": "Carrie Arnold",
-          "description": "Supergenes that lock inherited traits together are widespread in nature. Recent work shows that their blend of genetic benefits and risks for species can be complex.            \nThe post How Supergenes Fuel Evolution Despite Harmful Mutations first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-supergenes-fuel-evolution-despite-harmful-mutations-20221108/",
-          "publishedOn": "2022-11-08T16:39:48.000Z",
-          "wordCount": 7689,
-          "title": "How Supergenes Fuel Evolution Despite Harmful Mutations",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/Supergenes_1200_Social.webp"
         }
       ]
     },
