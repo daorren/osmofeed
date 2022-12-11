@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-10T01:25:12.965Z</updated>
+    <updated>2022-12-11T01:42:12.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -1476,109 +1476,6 @@ I only tested these command shortcuts in iTerm and the default terminal on macOS
         <summary type="html"><![CDATA[YAML is one of the most popular languages for writing configuration files. In this article, you will learn how YAML compares to XML and JSON - two languages also used for creating configuration files. You will also learn some of the rules and features of the language, along with its]]></summary>
         <author>
             <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go becomes a teenager]]></title>
-        <id>https://golangweekly.com/issues/436</id>
-        <link href="https://golangweekly.com/issues/436"/>
-        <updated>2022-11-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​436 — November 11, 2022
-
-
-Unsub  |  Web Version
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-Thirteen Years of Go — It’s now an annual tradition for Russ Cox to blog about the past year of happenings (e.g. on Go’s 10th, 11th, and 12th birthdays) and now that Go is a teenager, there’s a lot to celebrate including fuzzing, improvements to generics, and soft memory limits.
-Russ Cox 
-
-
-  
-  
-The Official Structured Logging Proposal — Go may be a teenager but that only means it’s continuing to grow! And so it goes with this formal proposal (which started life as this discussion) for bringing structured logging with levels to the standard library. Want to play? Try it here.
-Jonathan Amsterdam 
-
-
-  
-  
-Troubleshoot and Optimize Golang App Performance with Datadog APM — Datadog’s APM generates …]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Convert an Int to a String in C++ – Integer Cast Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-convert-an-int-to-a-string-in-cpp/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-convert-an-int-to-a-string-in-cpp/"/>
-        <updated>2022-11-10T18:54:57.000Z</updated>
-        <summary type="html"><![CDATA[Type casting or type conversion is the process of converting a variable from one data type to another.  Type casting can be done implicitly or explicitly.  Implicit type casting gets done automatically via the compiler, while explicit type casting is done by the developer. In this article, you'll]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Error: error:0308010c:digital envelope routines::unsupported [Node Error Solved]]]></title>
-        <id>https://www.freecodecamp.org/news/error-error-0308010c-digital-envelope-routines-unsupported-node-error-solved/</id>
-        <link href="https://www.freecodecamp.org/news/error-error-0308010c-digital-envelope-routines-unsupported-node-error-solved/"/>
-        <updated>2022-11-10T18:39:19.000Z</updated>
-        <summary type="html"><![CDATA[If you work with Node.js and command line interface solutions like Webpack, create-react-app, or vue-cli-service, you might have encountered the error,  Error: error:0308010c:digital envelope routines::unsupported. You’re not alone, because I’m currently getting it too: The React app indeed failed to start: In this article, you’ll learn how to fix]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the Jamstack? Tutorial for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/jamstack-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/jamstack-for-beginners/"/>
-        <updated>2022-11-10T18:30:49.000Z</updated>
-        <summary type="html"><![CDATA[You may have heard the term Jamstack and have been wondering what it means. Well, the Jamstack is nothing more than a modern way of building web applications.  Jamstack takes advantage of existing technologies – which we'll discuss in a minute. The result is better performance, improved security, and]]></summary>
-        <author>
-            <name>Damilola Oladele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fuzz Web Applications using FFuf – Web Security Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/web-security-fuzz-web-applications-using-ffuf/</id>
-        <link href="https://www.freecodecamp.org/news/web-security-fuzz-web-applications-using-ffuf/"/>
-        <updated>2022-11-10T17:21:43.000Z</updated>
-        <summary type="html"><![CDATA[Building strong authentication systems is crucial for web applications. Now that many businesses have a growing online presence, a malicious actor taking control of your website can be devastating. In this article, we will learn how to use Ffuf, a fast web fuzzer written in Go. You will learn how]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programming in TypeScript – Full Course]]></title>
-        <id>https://www.freecodecamp.org/news/programming-in-typescript/</id>
-        <link href="https://www.freecodecamp.org/news/programming-in-typescript/"/>
-        <updated>2022-11-10T16:10:57.000Z</updated>
-        <summary type="html"><![CDATA[TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. TypeScript provides better error checking than JavaScript. This is because TypeScript uses a static type system, which means that the type of a variable is checked before the code is executed. We just published a 5-hour TypeScript course]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Chip Expands the Possibilities for AI]]></title>
-        <id>https://www.quantamagazine.org/?p=120506</id>
-        <link href="https://www.quantamagazine.org/a-brain-inspired-chip-can-run-ai-with-far-less-energy-20221110/"/>
-        <updated>2022-11-10T15:18:11.000Z</updated>
-        <summary type="html"><![CDATA[An energy-efficient chip called NeuRRAM fixes an old design flaw to run large-scale AI algorithms on smaller devices, reaching the same accuracy as wasteful digital computers.            
-The post New Chip Expands the Possibilities for AI first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Allison Whitten</name>
         </author>
     </entry>
 </feed>

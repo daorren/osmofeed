@@ -830,56 +830,6 @@
           "wordCount": 2408,
           "title": "What is YAML? The YML File Format",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-christina-morillo-1181675.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-convert-an-int-to-a-string-in-cpp/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Type casting or type conversion is the process of converting a variable from one data type to another.  Type casting can be done implicitly or explicitly.  Implicit type casting gets done automatically via the compiler, while explicit type casting is done by the developer. In this article, you'll",
-          "link": "https://www.freecodecamp.org/news/how-to-convert-an-int-to-a-string-in-cpp/",
-          "publishedOn": "2022-11-10T18:54:57.000Z",
-          "wordCount": 1344,
-          "title": "How to Convert an Int to a String in C++ – Integer Cast Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/uday-awal-UjJWhMerJx0-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/error-error-0308010c-digital-envelope-routines-unsupported-node-error-solved/",
-          "author": "Kolade Chris",
-          "description": "If you work with Node.js and command line interface solutions like Webpack, create-react-app, or vue-cli-service, you might have encountered the error,  Error: error:0308010c:digital envelope routines::unsupported. You’re not alone, because I’m currently getting it too: The React app indeed failed to start: In this article, you’ll learn how to fix",
-          "link": "https://www.freecodecamp.org/news/error-error-0308010c-digital-envelope-routines-unsupported-node-error-solved/",
-          "publishedOn": "2022-11-10T18:39:19.000Z",
-          "wordCount": 1159,
-          "title": "Error: error:0308010c:digital envelope routines::unsupported [Node Error Solved]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/envelope-1829509_1280.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/jamstack-for-beginners/",
-          "author": "Damilola Oladele",
-          "description": "You may have heard the term Jamstack and have been wondering what it means. Well, the Jamstack is nothing more than a modern way of building web applications.  Jamstack takes advantage of existing technologies – which we'll discuss in a minute. The result is better performance, improved security, and",
-          "link": "https://www.freecodecamp.org/news/jamstack-for-beginners/",
-          "publishedOn": "2022-11-10T18:30:49.000Z",
-          "wordCount": 1486,
-          "title": "What is the Jamstack? Tutorial for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Damilola-Oladele-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/web-security-fuzz-web-applications-using-ffuf/",
-          "author": "Manish Shivanandhan",
-          "description": "Building strong authentication systems is crucial for web applications. Now that many businesses have a growing online presence, a malicious actor taking control of your website can be devastating. In this article, we will learn how to use Ffuf, a fast web fuzzer written in Go. You will learn how",
-          "link": "https://www.freecodecamp.org/news/web-security-fuzz-web-applications-using-ffuf/",
-          "publishedOn": "2022-11-10T17:21:43.000Z",
-          "wordCount": 2445,
-          "title": "How to Fuzz Web Applications using FFuf – Web Security Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/ffuf.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/programming-in-typescript/",
-          "author": "Beau Carnes",
-          "description": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. TypeScript provides better error checking than JavaScript. This is because TypeScript uses a static type system, which means that the type of a variable is checked before the code is executed. We just published a 5-hour TypeScript course",
-          "link": "https://www.freecodecamp.org/news/programming-in-typescript/",
-          "publishedOn": "2022-11-10T16:10:57.000Z",
-          "wordCount": 932,
-          "title": "Programming in TypeScript – Full Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/typescript.png"
         }
       ]
     },
@@ -1047,16 +997,6 @@
           "wordCount": 6609,
           "title": "How to Think About Relativity",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/Relativity-cr.PeterGreenwood-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=120506",
-          "author": "Allison Whitten",
-          "description": "An energy-efficient chip called NeuRRAM fixes an old design flaw to run large-scale AI algorithms on smaller devices, reaching the same accuracy as wasteful digital computers.            \nThe post New Chip Expands the Possibilities for AI first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/a-brain-inspired-chip-can-run-ai-with-far-less-energy-20221110/",
-          "publishedOn": "2022-11-10T15:18:11.000Z",
-          "wordCount": 7173,
-          "title": "New Chip Expands the Possibilities for AI",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/NeurramChips-cr.Sen%CC%83or_Salme-1200-Social.webp"
         }
       ]
     },
@@ -1257,16 +1197,6 @@
           "publishedOn": "2022-11-18T00:00:00.000Z",
           "wordCount": 852,
           "title": "Google's got a Go style guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/436",
-          "author": null,
-          "description": "#​436 — November 11, 2022\n\n\nUnsub  |  Web Version\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nThirteen Years of Go — It’s now an annual tradition for Russ Cox to blog about the past year of happenings (e.g. on Go’s 10th, 11th, and 12th birthdays) and now that Go is a teenager, there’s a lot to celebrate including fuzzing, improvements to generics, and soft memory limits.\nRuss Cox \n\n\n  \n  \nThe Official Structured Logging Proposal — Go may be a teenager but that only means it’s continuing to grow! And so it goes with this formal proposal (which started life as this discussion) for bringing structured logging with levels to the standard library. Want to play? Try it here.\nJonathan Amsterdam \n\n\n  \n  \nTroubleshoot and Optimize Golang App Performance with Datadog APM — Datadog’s APM generates …",
-          "link": "https://golangweekly.com/issues/436",
-          "publishedOn": "2022-11-11T00:00:00.000Z",
-          "wordCount": 939,
-          "title": "Go becomes a teenager",
           "imageUrl": null
         }
       ]
