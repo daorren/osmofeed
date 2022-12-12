@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-11T01:42:12.399Z</updated>
+    <updated>2022-12-12T01:38:09.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 👋 Algorithm vs Algorithm]]></title>
+        <id>638d2a063523c954d2ea3b98</id>
+        <link href="https://labnotes.org/weekend-reading-algorithm-vs-algorithm/"/>
+        <updated>2022-12-11T21:08:12.000Z</updated>
+        <summary type="html"><![CDATA[This week we erase some data, swipe the card, pit algorithms against each other, and show up early to our flight.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #88 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-88/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-88/"/>
+        <updated>2022-12-10T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag!
+
+Do you know how to create fancy effects with CSS masking? Or what resolved CSS values are? Or that you can await objects with a then property?
+All the answers and much more are included in this week's Web Weekly. 🫣
+Correction time: last week, I highlighted that it's prime time for the translate, rotate and scale properties because they're cross-browser supported.
+And while this is true for Safari, Chrome, Edge and Firefox, I should have noticed something! Samsung Internet uses Chromium but is usually behind the main branch. And it doesn't yet support these properties. 😢
+caniuse.com states a global market share of 1.5%, and while that's not huge, it must be considered. A big thanks goes to Fynn who pointed that out.
+On another note: last week, I enabled double opt-in for Web W…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Type Checking – How to Check Type in JS with typeof()]]></title>
         <id>https://www.freecodecamp.org/news/javascript-type-checking-how-to-check-type-in-js-with-typeof/</id>
@@ -1436,46 +1463,6 @@ I only tested these command shortcuts in iTerm and the default terminal on macOS
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacktoberfest 2022 Contributors]]></title>
-        <id>https://www.freecodecamp.org/news/hacktoberfest-2022-contributors/</id>
-        <link href="https://www.freecodecamp.org/news/hacktoberfest-2022-contributors/"/>
-        <updated>2022-11-11T20:25:10.000Z</updated>
-        <summary type="html"><![CDATA[freeCodeCamp participated in Hacktoberfest (a month-long celebration of open source) again this year. We wanted to take a moment to thank all of our wonderful contributors for the effort they put in to help us continue to improve our curriculum and learning resources. Thank you for your contributions to open]]></summary>
-        <author>
-            <name>Naomi Carrigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS Copy an Object – How to Clone an Obj in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/clone-an-object-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/clone-an-object-in-javascript/"/>
-        <updated>2022-11-11T17:13:52.000Z</updated>
-        <summary type="html"><![CDATA[A JavaScript object is a collection of key-value pairs. It is a non-primitive data type that can contain various data types. For example: const userDetails = {   name: "John Doe",   age: 14,   verified: false }; When working with objects in JavaScript, you may sometimes]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Your Own Mastodon Instance]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-set-up-your-own-mastodon-instance/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-your-own-mastodon-instance/"/>
-        <updated>2022-11-11T16:29:20.000Z</updated>
-        <summary type="html"><![CDATA[Mastodon is a decentralized, federated social media platform based on the  ActivityPub [https://www.w3.org/TR/activitypub/] protocol. It allows you to follow and interact with friends across multiple instances.  In this article, you will learn how freeCodeCamp set up our own Mastodon instance - and how you can too. What is]]></summary>
-        <author>
-            <name>Naomi Carrigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is YAML? The YML File Format]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-yaml-the-yml-file-format/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-yaml-the-yml-file-format/"/>
-        <updated>2022-11-11T16:20:17.000Z</updated>
-        <summary type="html"><![CDATA[YAML is one of the most popular languages for writing configuration files. In this article, you will learn how YAML compares to XML and JSON - two languages also used for creating configuration files. You will also learn some of the rules and features of the language, along with its]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
         </author>
     </entry>
 </feed>
