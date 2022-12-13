@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-12T01:38:09.588Z</updated>
+    <updated>2022-12-13T01:40:23.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Programming? A Handbook for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-programming-tutorial-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-programming-tutorial-for-beginners/"/>
+        <updated>2022-12-12T17:10:03.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the amazing world of programming. This is one of the most useful and powerful skills that you can learn and use to make your visions come true.  In this handbook, we will dive into why programming is important, its applications, its basic concepts, and the skills you]]></summary>
+        <author>
+            <name>Estefania Cassingena Navone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[She Turns Fluids Into ‘Black Holes’ and ‘Inflating Universes’]]></title>
+        <id>https://www.quantamagazine.org/?p=121344</id>
+        <link href="https://www.quantamagazine.org/she-turns-fluids-into-black-holes-and-inflating-universes-20221212/"/>
+        <updated>2022-12-12T15:08:50.000Z</updated>
+        <summary type="html"><![CDATA[By using fluids to model inaccessible realms of the cosmos, Silke Weinfurtner is “looking for a deeper truth beyond one system.” But what can such experiments teach us?             
+The post She Turns Fluids Into ‘Black Holes’ and ‘Inflating Universes’ first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Thomas Lewton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — 👋 Algorithm vs Algorithm]]></title>
         <id>638d2a063523c954d2ea3b98</id>
@@ -1442,27 +1463,6 @@ The post How to Think About Relativity first appeared on Quanta Magazine]]></sum
         <summary type="html"><![CDATA[This week we bring out the popcorn, as we watch FTX implode and the big Twitter exodus. We also we learn about defensive CSS, and pre-sleep phone time.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to flip characters and words in your terminal (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/how-to-flip-characters-and-words-in-your-terminal/</id>
-        <link href="https://www.stefanjudis.com/blog/how-to-flip-characters-and-words-in-your-terminal/"/>
-        <updated>2022-11-12T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today I learned that you press ctrl + t to flip characters in your terminal. 😲
-iTerm session showing how to flip characters with "ctrl + t"
-      
-    
-I probably won't remember this shortcut, but I googled around and discovered that t can also be used to toggle words with alt + t.
-And this makes two toggle commands! Maybe this will stick... 🤞
-I only tested these command shortcuts in iTerm and the default terminal on macOS. It might be that they won't work on your machine. 🤷‍♂️
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

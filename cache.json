@@ -12,6 +12,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/what-is-programming-tutorial-for-beginners/",
+          "author": "Estefania Cassingena Navone",
+          "description": "Welcome to the amazing world of programming. This is one of the most useful and powerful skills that you can learn and use to make your visions come true.  In this handbook, we will dive into why programming is important, its applications, its basic concepts, and the skills you",
+          "link": "https://www.freecodecamp.org/news/what-is-programming-tutorial-for-beginners/",
+          "publishedOn": "2022-12-12T17:10:03.000Z",
+          "wordCount": 8117,
+          "title": "What is Programming? A Handbook for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/what-is-programming.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/javascript-type-checking-how-to-check-type-in-js-with-typeof/",
           "author": "Joel Olawanle",
           "description": "JavaScript is a dynamically typed (or loosely typed) programming language. It allows you to declare variables without specifying or defining the variable type. You can create a variable in JavaScript without defining the type of value you can store in the variable. This can affect your program and cause bugs",
@@ -799,6 +809,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=121344",
+          "author": "Thomas Lewton",
+          "description": "By using fluids to model inaccessible realms of the cosmos, Silke Weinfurtner is “looking for a deeper truth beyond one system.” But what can such experiments teach us?             \nThe post She Turns Fluids Into ‘Black Holes’ and ‘Inflating Universes’ first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/she-turns-fluids-into-black-holes-and-inflating-universes-20221212/",
+          "publishedOn": "2022-12-12T15:08:50.000Z",
+          "wordCount": 7752,
+          "title": "She Turns Fluids Into ‘Black Holes’ and ‘Inflating Universes’",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/12/SilkeWeinfurtner-byPhilippAmmon-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=121241",
           "author": "Yasemin Saplakoglu",
           "description": "After decades in the shadow of the reigning model for Alzheimer’s disease, alternative explanations are finally getting the attention they deserve.            \nThe post What Causes Alzheimer’s? Scientists Are Rethinking the Answer. first appeared on Quanta Magazine",
@@ -1121,16 +1141,6 @@
           "wordCount": 1465,
           "title": "CSS clip-path can go outside of an element (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:CSS%20clip-path%20can%20go%20outside%20of%20an%20element/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/how-to-flip-characters-and-words-in-your-terminal/",
-          "author": null,
-          "description": "Today I learned that you press ctrl + t to flip characters in your terminal. 😲\niTerm session showing how to flip characters with \"ctrl + t\"\n      \n    \nI probably won't remember this shortcut, but I googled around and discovered that t can also be used to toggle words with alt + t.\nAnd this makes two toggle commands! Maybe this will stick... 🤞\nI only tested these command shortcuts in iTerm and the default terminal on macOS. It might be that they won't work on your machine. 🤷‍♂️\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/blog/how-to-flip-characters-and-words-in-your-terminal/",
-          "publishedOn": "2022-11-12T23:00:00.000Z",
-          "wordCount": 1245,
-          "title": "How to flip characters and words in your terminal (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20flip%20characters%20and%20words%20in%20your%20terminal/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
