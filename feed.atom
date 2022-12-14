@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T01:40:23.106Z</updated>
+    <updated>2022-12-14T01:36:59.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Shells for Beginners – Bash, Zsh, and Fish Explained]]></title>
+        <id>https://www.freecodecamp.org/news/linux-shells-explained/</id>
+        <link href="https://www.freecodecamp.org/news/linux-shells-explained/"/>
+        <updated>2022-12-13T21:55:05.000Z</updated>
+        <summary type="html"><![CDATA[When you open up your terminal, chances are that it uses Bash as its UNIX shell environment. But other "shell" environments exist. There are other environments such as the C Shell, Korn Shell, Z Shell, and even the Fish Shell. All of these different shell environments have their own pros]]></summary>
+        <author>
+            <name>Anthony Behery</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Calculate Percentage Differences Between Two Numbers in Excel - Cell Percentage Change Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-calculate-percentage-differences-between-two-numbers-in-excel-cell-percentage-change-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-calculate-percentage-differences-between-two-numbers-in-excel-cell-percentage-change-tutorial/"/>
+        <updated>2022-12-13T21:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Spreadsheets are powerful and awesome. 💪  In this tutorial I will show you four ways to find the percentage difference between two numbers in Excel. I'll also show you how to use custom functions in Google Sheets. 👍 The four techniques (and one bonus) we'll use are:  1.]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does It Mean to Align AI With Human Values?]]></title>
+        <id>https://www.quantamagazine.org/?p=121378</id>
+        <link href="https://www.quantamagazine.org/what-does-it-mean-to-align-ai-with-human-values-20221213/"/>
+        <updated>2022-12-13T14:39:58.000Z</updated>
+        <summary type="html"><![CDATA[Making sure our machines understand the intent behind our instructions is an important problem that requires understanding intelligence itself.            
+The post What Does It Mean to Align AI With Human Values? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Melanie Mitchell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Injection Attacks – How to Use SQLMap to Find Database Vulnerabilities]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-protect-against-sql-injection-attacks/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-protect-against-sql-injection-attacks/"/>
+        <updated>2022-12-13T00:40:15.000Z</updated>
+        <summary type="html"><![CDATA[Databases are the backbone of any application. They give us a way to store and organize large amounts of data in a way that we can easily access, manage, and update it. From small businesses to large-scale enterprises, databases play a critical role in keeping the systems up and running.]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is an Algorithm? Algorithm Definition for Computer Science Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-an-algorithm-definition-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-an-algorithm-definition-for-beginners/"/>
+        <updated>2022-12-13T00:38:26.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a student and want to study computer science, or you’re learning to code, then there’s a chance you’ve heard of algorithms. Simply put, an algorithm is a set of instructions that performs a particular action. Contrary to popular belief, an algorithm is not some piece of code that]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Remove an Item from a List in C#]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-remove-an-item-from-a-list-in-c/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-remove-an-item-from-a-list-in-c/"/>
+        <updated>2022-12-13T00:28:02.000Z</updated>
+        <summary type="html"><![CDATA[While building your application in C#, you might need to store and manipulate sets of data. The List class is a member of the System.Collections.Generic  namespace and you use it to store multiple objects of the same datatype. The List class represents a collection of strongly typed lists of]]></summary>
+        <author>
+            <name>Edeh Israel Chidera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber Security Certifications – What Certs to Get for a Career in Infosec]]></title>
+        <id>https://www.freecodecamp.org/news/overview-of-cyber-security-certifications/</id>
+        <link href="https://www.freecodecamp.org/news/overview-of-cyber-security-certifications/"/>
+        <updated>2022-12-13T00:22:54.000Z</updated>
+        <summary type="html"><![CDATA[Certifications aren't strictly necessary in order to get hired as a cybersecurity analyst (with the notable exception of many government jobs). But they can help you demonstrate to an HR recruiter or hiring manager that you have a specific skillset via a third party's assessment of your skills. The process]]></summary>
+        <author>
+            <name>Megan Kaczanowski</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Programming? A Handbook for Beginners]]></title>
         <id>https://www.freecodecamp.org/news/what-is-programming-tutorial-for-beginners/</id>
@@ -1453,16 +1524,6 @@ The post How to Think About Relativity first appeared on Quanta Magazine]]></sum
         <summary type="html"><![CDATA[Open source software is used by organizations large and small around the world. And it's become very popular in the tech industry.  Many people want to be involved in this open side of tech, and luckily there are many different ways to contribute.  Still, open source can be]]></summary>
         <author>
             <name>Njong Emy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — 🍿 It's all just a simulation]]></title>
-        <id>63681f93811f4275757699f5</id>
-        <link href="https://labnotes.org/weekend-reading-its-all-just-a-simulation/"/>
-        <updated>2022-11-13T21:27:50.000Z</updated>
-        <summary type="html"><![CDATA[This week we bring out the popcorn, as we watch FTX implode and the big Twitter exodus. We also we learn about defensive CSS, and pre-sleep phone time.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
