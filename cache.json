@@ -12,6 +12,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/css-display-none-and-visibility-hidden-the-difference/",
+          "author": "Dillion Megida",
+          "description": "display:none and visibility:hidden are two style declarations you can use to hide elements on the screen with CSS. But what are the differences between them? When building applications, there are times that you want to hide elements visually (not deleting them from the DOM, just the screen). You can do",
+          "link": "https://www.freecodecamp.org/news/css-display-none-and-visibility-hidden-the-difference/",
+          "publishedOn": "2022-12-15T23:13:53.000Z",
+          "wordCount": 1707,
+          "title": "CSS display:none and visibility:hidden – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/11.-display-visibility-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-select-the-right-ec2-instance/",
+          "author": "Daniel Adetunji",
+          "description": "EC2 (Elastic Compute Cloud) is the most widely-used compute service from AWS. It's also one of the oldest services launched by AWS, as it was started in 2006.  In this article, I will go through some things you should consider when selecting an EC2 instance.  You can think",
+          "link": "https://www.freecodecamp.org/news/how-to-select-the-right-ec2-instance/",
+          "publishedOn": "2022-12-15T19:08:27.000Z",
+          "wordCount": 2720,
+          "title": "How to Select the Right EC2 Instance – A Guide to EC2 Instances and Their Capabilities",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-photo.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-get-request-tutorial/",
+          "author": "Joel Olawanle",
+          "description": "When building applications, you will have to interact between the backend and frontend to get, store, and manipulate data. This interaction between your frontend application and the backend server is possible through HTTP requests. There are five popular HTTP methods you can use to make requests and interact with your",
+          "link": "https://www.freecodecamp.org/news/javascript-get-request-tutorial/",
+          "publishedOn": "2022-12-15T19:05:24.000Z",
+          "wordCount": 1593,
+          "title": "JavaScript Get Request – How to Make an HTTP Request in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-template--2-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-an-ai-for-two-player-turn-based-games/",
+          "author": "Houssein Badra",
+          "description": "Two-player turn-based games are games where two players play against each other, turn after turn, until one of them wins. Examples of these types of games are Tic-Tac-Toe, Backgammon, Mancala, Chess, and Connect 4. In this tutorial we will learn about the Minimax algorithm. It is a backtracking algorithm that",
+          "link": "https://www.freecodecamp.org/news/build-an-ai-for-two-player-turn-based-games/",
+          "publishedOn": "2022-12-15T18:24:15.000Z",
+          "wordCount": 2369,
+          "title": "How to Build an AI for Two-Player Turn-based Games",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/2825132-637490944552534550-16x9-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/solve-your-math-equation-on-terminal/",
+          "author": "Arunachalam B",
+          "description": "Can you solve the below math expression on your own without using any device? Take as much time as you need – but no tools allowed: ( ( 11 + 97 ) + ( 2 * 63 ) - ( 7 / 93 ) * ( 8 - 25 )",
+          "link": "https://www.freecodecamp.org/news/solve-your-math-equation-on-terminal/",
+          "publishedOn": "2022-12-15T17:40:54.000Z",
+          "wordCount": 2273,
+          "title": "How to Solve Math Equations in the Linux Terminal",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/FreeCodeCamp---Evaluate-expression-on-Terminal.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/independent-variable-vs-dependent-variable/",
+          "author": "Kolade Chris",
+          "description": "The meaning of the word \"variable\" depends on the field where it's being used. In programming, a variable is a particular piece of data that holds a value. Depending on the configuration, that value can change or remain fixed. For instance, in JavaScript, you can implement a variable to change",
+          "link": "https://www.freecodecamp.org/news/independent-variable-vs-dependent-variable/",
+          "publishedOn": "2022-12-15T17:32:36.000Z",
+          "wordCount": 1461,
+          "title": "What is the Difference Between an Independent Variable and a Dependent Variable?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/snowy-4689675_1280.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/javascript-range-create-an-array-of-numbers-with-the-from-method/",
           "author": "Joel Olawanle",
           "description": "The .from() method is a static method of the Array object in JavaScript ES6. It creates a new, shallow-copied Array instance from an array-like or iterable object like map and set. This method returns an array from any object with a length property. You can use it to create an",
@@ -790,66 +850,6 @@
           "wordCount": 3326,
           "title": "How to Build a Modern Documentation Site with VitePress",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/How-to-build-a-modern-documentation-site-with-vitepress-by-Victor-Eke.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/provision-home-lab-with-oracle-cloud-and-ansible/",
-          "author": "Jose Vicente Nunez",
-          "description": "Imagine for a moment that you been working hard to setup a website, protected with SSL, and then your hardware fails. This means that unless you have a perfect backup of your machine, you will need to install all the software and configuration files by hand. What if it's not",
-          "link": "https://www.freecodecamp.org/news/provision-home-lab-with-oracle-cloud-and-ansible/",
-          "publishedOn": "2022-11-15T21:52:50.000Z",
-          "wordCount": 2638,
-          "title": "How to Provision a Home Lab with Oracle Cloud and Ansible",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-pixabay-210158.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/sql-date-function-query-timestamp-example-format/",
-          "author": "Kolade Chris",
-          "description": "Dates are an integral part of any programming language, and SQL is no exception. When you insert data into your SQL database, you can add a date and query the database based on that date. In this article, you’ll learn about DATE functions in SQL and how to query a",
-          "link": "https://www.freecodecamp.org/news/sql-date-function-query-timestamp-example-format/",
-          "publishedOn": "2022-11-15T18:58:58.000Z",
-          "wordCount": 1163,
-          "title": "SQL DATE – Function, Query, Timestamp Example Format",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/date.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-add-eslint-to-an-angular-application/",
-          "author": "Rodrigo Kamada",
-          "description": "In this article, we'll build a web application using the latest version of  Angular [https://angular.io/]. Then we'll add ESLint [https://eslint.org/] which analyzes the JavaScript code statically to find any problems. Prerequisites Before you start, you need to install and configure the tools below (if you don't already have them",
-          "link": "https://www.freecodecamp.org/news/how-to-add-eslint-to-an-angular-application/",
-          "publishedOn": "2022-11-15T16:39:58.000Z",
-          "wordCount": 1188,
-          "title": "How to Add ESLint to an Angular Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/angular-eslint-cover-hashnode.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-stratified-random-sampling-definition-and-python-example/",
-          "author": "Ibrahim Abayomi Ogunbiyi",
-          "description": "When we wish to conduct an experiment on a population – for example, the entire population of a country – it is not always practical or realistic to include every subject (citizen) in the experiment.  Instead, we rely on a sample, which is a subset of the population, and",
-          "link": "https://www.freecodecamp.org/news/what-is-stratified-random-sampling-definition-and-python-example/",
-          "publishedOn": "2022-11-15T16:33:52.000Z",
-          "wordCount": 1858,
-          "title": "What is Stratified Random Sampling? Definition and Python Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-viktorya-sergeeva--------10275085.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/cannot-use-import-statement-outside-a-module-react-typescript-error-solved/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When building a web application, you may encounter the SyntaxError: Cannot use import statement outside a module error.  This error might be raised when using either JavaScript or TypeScript in the back-end. So you could be working on the client side with React, Vue, and so on, and still",
-          "link": "https://www.freecodecamp.org/news/cannot-use-import-statement-outside-a-module-react-typescript-error-solved/",
-          "publishedOn": "2022-11-15T15:30:56.000Z",
-          "wordCount": 1238,
-          "title": "Cannot use import statement outside a module [React TypeScript Error Solved]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/markus-spiske-iar-afB0QQw-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-manage-state-in-react/",
-          "author": "Beau Carnes",
-          "description": "React state management is a process for managing the data that React components need in order to render themselves. This data is typically stored in the component's state object. When the state object changes, the component will re-render itself. React state management is basically half of a React app. It",
-          "link": "https://www.freecodecamp.org/news/how-to-manage-state-in-react/",
-          "publishedOn": "2022-11-15T15:17:14.000Z",
-          "wordCount": 764,
-          "title": "How to Manage State in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/reactstate.png"
         }
       ]
     },
@@ -858,6 +858,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=121467",
+          "author": "Jordana Cepelewicz",
+          "description": "Mathematicians predicted that if they imposed enough restrictions on how a shape might tile space, they could force a periodic pattern to emerge. But they were wrong.            \nThe post ‘Nasty’ Geometry Breaks Decades-Old Tiling Conjecture first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/nasty-geometry-breaks-decades-old-tiling-conjecture-20221215/",
+          "publishedOn": "2022-12-15T16:32:23.000Z",
+          "wordCount": 8015,
+          "title": "‘Nasty’ Geometry Breaks Decades-Old Tiling Conjecture",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/12/PeriodicTiling-byDVDP-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=121441",
           "author": "Yasemin Saplakoglu",
@@ -1027,16 +1037,6 @@
           "wordCount": 8007,
           "title": "Computer Proof ‘Blows Up’ Centuries-Old Fluid Equations",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/3D-Euler-Blowup-cr.DVDP-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=120578",
-          "author": "Joanna Thompson",
-          "description": "New research in fish suggests that gut microbes can have a crucial early influence on the brain’s social development.            \nThe post The Gut Microbiome Helps Social Skills Develop in the Brain first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/the-gut-microbiome-helps-social-skills-develop-in-the-brain-20221115/",
-          "publishedOn": "2022-11-15T15:11:21.000Z",
-          "wordCount": 5486,
-          "title": "The Gut Microbiome Helps Social Skills Develop in the Brain",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/MicrobesPruneNeurons-DanielCastranova_NICHD-Social.webp"
         }
       ]
     },
@@ -1171,16 +1171,6 @@
           "wordCount": 1925,
           "title": "Top-level promise handling in Node.js ES modules (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Top-level%20promise%20handling%20in%20Node.js%20ES%20modules/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/the-missing-bridge-in-web-development-json-forms/",
-          "author": null,
-          "description": "Jim Nielsen did what he always does and shared some thoughts on the web platform. And he hit the nail on the head with \"Browsers, JSON, and FormData\".\nSo what's the current state of the web?\nIt's bloated with truckloads of JavaScript, and APIs power everything. APIs won't go anywhere, but we're all working on reducing JavaScript.\nTo drop some code while still relying on APIs, there are two options:\nWe need either 1) more APIs that speak FormData, or 2) browsers that speak JSON.\nOn point, Jim! On point. 💯\nThink of it: isn't it wild that JSON APIs only work with JavaScript and Ajax because JSON requests aren't supported in HTML?\nTo put it bluntly: there’s no progressive enhancement if all your APIs only accept JSON payloads directly from the browser.\nWith the rise of all these APIs, we either have to rely on client-side JavaScript to talk to APIs directly or pipe everything through a serverless function. And we're so used to doing this that we don't even question it anymore.\nThe web platform is entirely broken in that sense if you ask me. And it's funny, because Jim dug up a spec that aimed to bring JSON into HTML. 😲\n<form enctype='application/json'>\n  <input name='name' value='Bender'>\n  <select name='hind'>\n    <option selected>Bitable</option>\n    <option>Kickable</option>\n  </select>\n  <input type='checkbox' name='shiny' checked>\n</form>\n\nUnfortunately, the spec went nowhere...\nBut think of it: with JSON built into HTML forms, and View transitions coming up (formerly known as Shared Element Transistions), the web could really catch up and become the platform it needs to be these days.\nAnyways, head over to Jim's blog; it's a good one, I promise!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/notes/the-missing-bridge-in-web-development-json-forms/",
-          "publishedOn": "2022-11-15T23:00:00.000Z",
-          "wordCount": 1448,
-          "title": "The missing bridge in web development – JSON forms (#note)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:The%20missing%20bridge%20in%20web%20development%20%E2%80%93%20JSON%20forms/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
