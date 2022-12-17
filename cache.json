@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/rules-of-api-testing-for-beginners/",
+          "author": "Hillary Nyakundi",
+          "description": "In this digital age, APIs have become the cornerstone of how data is shared and processed. But many users are often unaware of the fact that they are putting their trust in an API and not a person. This is why it's important to leverage API testing techniques to ensure",
+          "link": "https://www.freecodecamp.org/news/rules-of-api-testing-for-beginners/",
+          "publishedOn": "2022-12-16T21:25:46.000Z",
+          "wordCount": 1908,
+          "title": "API Testing Best Practices – How to Test APIs for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/OOP--2-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/accessibility-best-practices-to-make-web-apps-accessible/",
+          "author": "Shruti Kapoor",
+          "description": "Anyone should be able to use your websites and apps - both people with disabilities and those without. This will make your website accessible. Think about the last site you built, or your favorite site. Are you confident that anyone can use your site and perform the critical actions it",
+          "link": "https://www.freecodecamp.org/news/accessibility-best-practices-to-make-web-apps-accessible/",
+          "publishedOn": "2022-12-16T21:01:26.000Z",
+          "wordCount": 1765,
+          "title": "Accessibility Best Practices – What to Remember When Building Accessible Web Apps",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/ben-kolde-bs2Ba7t69mM-unsplash-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/pair-programming-with-the-chatgpt-ai-how-well-does-gpt-3-5-understand-bash/",
+          "author": "David Clinton",
+          "description": "We've been hearing a lot about artificial intelligence and natural language processing – and in particular about the latest version of OpenAI's GPT – for weeks.  The recent release of GPT 3.5, and specifically the very new ChatGPT tool, is definitely a huge leap forward. You may have read",
+          "link": "https://www.freecodecamp.org/news/pair-programming-with-the-chatgpt-ai-how-well-does-gpt-3-5-understand-bash/",
+          "publishedOn": "2022-12-16T17:51:07.000Z",
+          "wordCount": 1896,
+          "title": "Pair Programming with the ChatGPT AI – Does GPT-3.5 Understand Bash?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-pavel-danilyuk-8438951.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/",
+          "author": "Ashutosh Krishna",
+          "description": "Automated chatbots are quite useful for stimulating interactions. We can create chatbots for Slack, Discord, and other platforms.  In this article, I'll teach you how to build a Telegram chatbot that will tell you your horoscope. So, let’s get started! How to Get Your Bot Token To set up",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/",
+          "publishedOn": "2022-12-16T17:42:10.000Z",
+          "wordCount": 1988,
+          "title": "How to Create a Telegram Bot using Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Telegram-Bot.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-a-rom-price-and-cost-estimate-2/",
+          "author": "Eamonn Cottrell",
+          "description": "ROM stands for Rough Order of Magnitude. It is a project management guideline to determine the estimated range of costs for a project. This article will explain:  1. Who should use a ROM  2. When to use a ROM  3. How to calculate a ROM  4.",
+          "link": "https://www.freecodecamp.org/news/what-is-a-rom-price-and-cost-estimate-2/",
+          "publishedOn": "2022-12-16T17:27:32.000Z",
+          "wordCount": 1151,
+          "title": "What is a ROM? ROM Price and Cost Estimate",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/12.15.22-What-is-a-ROM.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/css-display-none-and-visibility-hidden-the-difference/",
           "author": "Dillion Megida",
           "description": "display:none and visibility:hidden are two style declarations you can use to hide elements on the screen with CSS. But what are the differences between them? When building applications, there are times that you want to hide elements visually (not deleting them from the DOM, just the screen). You can do",
@@ -830,26 +880,6 @@
           "wordCount": 856,
           "title": "WordPress and Elementor Tutorial – How to Easily Create a Blog or Website",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/blog.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/aws-iam-explained/",
-          "author": "Daniel Adetunji",
-          "description": "AWS IAM (Identity and Access Management) gives you control over who can access your AWS services and resources based on some predefined permissions.  The two keywords here are “who” and “permissions”. “Who” refers to a specific identity, which can be a user, group or role. “permissions” refer to the",
-          "link": "https://www.freecodecamp.org/news/aws-iam-explained/",
-          "publishedOn": "2022-11-16T18:51:48.000Z",
-          "wordCount": 2666,
-          "title": "AWS Identity and Access Management (IAM) – Explained With an Analogy",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Slide1.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-modern-documentation-site-with-vitepress/",
-          "author": "Victor Eke",
-          "description": "Documentation is a crucial aspect of software development. But developers often neglect it because it can be a hassle to maintain. This is why it's important to use tools that help simplify this process.  In this tutorial, you'll learn how to build a complete docs site quickly by utilizing",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-modern-documentation-site-with-vitepress/",
-          "publishedOn": "2022-11-16T17:01:23.000Z",
-          "wordCount": 3326,
-          "title": "How to Build a Modern Documentation Site with VitePress",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/How-to-build-a-modern-documentation-site-with-vitepress-by-Victor-Eke.png"
         }
       ]
     },
@@ -1027,16 +1057,6 @@
           "wordCount": 9116,
           "title": "Why This Universe? A New Calculation Suggests Our Cosmos Is Typical.",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/CosmicEntropy-cr.KouzouSakai-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=120604",
-          "author": "Jordana Cepelewicz",
-          "description": "For more than 250 years, mathematicians have wondered if the Euler equations might sometimes fail to describe a fluid’s flow. A new computer-assisted proof marks a major breakthrough in that quest.            \nThe post Computer Proof ‘Blows Up’ Centuries-Old Fluid Equations first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/computer-helps-prove-long-sought-fluid-equation-singularity-20221116/",
-          "publishedOn": "2022-11-16T15:40:45.000Z",
-          "wordCount": 8007,
-          "title": "Computer Proof ‘Blows Up’ Centuries-Old Fluid Equations",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/3D-Euler-Blowup-cr.DVDP-Social.webp"
         }
       ]
     },
@@ -1161,16 +1181,6 @@
           "wordCount": 2052,
           "title": "Web Weekly #86 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/top-level-promise-handling-in-node-js/",
-          "author": null,
-          "description": "I was writing a quick Node.js script the other day, made a silly mistake, and faced the exit code 13. There was no error. I just looked at this status code I haven't seen before.\nSo, I went on to learn more about it.\nTLDR: the exit code 13 is used when an ESM-based Node.js script exits before the top-level code is resolved.\nThe script used ESM-based top-level await and performed some API requests to transform the data and write it to disk.\nI needed a wait function (don't judge!) and made a silly mistake.\nHere's a very simplified version of the script:\n// index.mjs (ESM)\nconst wait = (time) =>\n  new Promise((resolve) => {\n    setTimeout(() => resolve, time);\n  });\n\nconsole.log(\"waiting\");\nawait wait(1000);\nconsole.log(\"done\");\n\n// -----\n// Exit code: 13\n\nCan you spot the mistake?\nThe wait f…",
-          "link": "https://www.stefanjudis.com/today-i-learned/top-level-promise-handling-in-node-js/",
-          "publishedOn": "2022-11-16T23:00:00.000Z",
-          "wordCount": 1925,
-          "title": "Top-level promise handling in Node.js ES modules (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Top-level%20promise%20handling%20in%20Node.js%20ES%20modules/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
@@ -1179,6 +1189,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/441",
+          "author": null,
+          "description": "#​441 — December 16, 2022\n\n\nUnsub  |  Web Version\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\nThe Best of the Go Newsletter in 2022\nThis is the final issue of the year (we're back on January 6, 2023) so we're revisiting the most popular links (and releases) from this year. There'll be a few useful resources that escaped your attention or that you've since forgotten about so enjoy! 😁\nHave a fantastic holiday season.\n____\nPeter Cooper, your editor\n\n\n\n\n\n  \n  \n1: Effective Error Handling in Go — The most popular item of the year came in the very first issue of 2022 and presaged what would be a common concern this year: error handling. Brandon covered the basics, as well as some simple strategies you can follow to ensure your programs are more robust and easier to debug.\nBrandon Schurman \n\n\n  \n  \n…",
+          "link": "https://golangweekly.com/issues/441",
+          "publishedOn": "2022-12-16T00:00:00.000Z",
+          "wordCount": 1100,
+          "title": "The best of the Go newsletter in 2022",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/440",
           "author": null,

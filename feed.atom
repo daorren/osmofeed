@@ -2,10 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-16T01:24:23.546Z</updated>
+    <updated>2022-12-17T01:21:53.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[API Testing Best Practices – How to Test APIs for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/rules-of-api-testing-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/rules-of-api-testing-for-beginners/"/>
+        <updated>2022-12-16T21:25:46.000Z</updated>
+        <summary type="html"><![CDATA[In this digital age, APIs have become the cornerstone of how data is shared and processed. But many users are often unaware of the fact that they are putting their trust in an API and not a person. This is why it's important to leverage API testing techniques to ensure]]></summary>
+        <author>
+            <name>Hillary Nyakundi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accessibility Best Practices – What to Remember When Building Accessible Web Apps]]></title>
+        <id>https://www.freecodecamp.org/news/accessibility-best-practices-to-make-web-apps-accessible/</id>
+        <link href="https://www.freecodecamp.org/news/accessibility-best-practices-to-make-web-apps-accessible/"/>
+        <updated>2022-12-16T21:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Anyone should be able to use your websites and apps - both people with disabilities and those without. This will make your website accessible. Think about the last site you built, or your favorite site. Are you confident that anyone can use your site and perform the critical actions it]]></summary>
+        <author>
+            <name>Shruti Kapoor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pair Programming with the ChatGPT AI – Does GPT-3.5 Understand Bash?]]></title>
+        <id>https://www.freecodecamp.org/news/pair-programming-with-the-chatgpt-ai-how-well-does-gpt-3-5-understand-bash/</id>
+        <link href="https://www.freecodecamp.org/news/pair-programming-with-the-chatgpt-ai-how-well-does-gpt-3-5-understand-bash/"/>
+        <updated>2022-12-16T17:51:07.000Z</updated>
+        <summary type="html"><![CDATA[We've been hearing a lot about artificial intelligence and natural language processing – and in particular about the latest version of OpenAI's GPT – for weeks.  The recent release of GPT 3.5, and specifically the very new ChatGPT tool, is definitely a huge leap forward. You may have read]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Telegram Bot using Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/"/>
+        <updated>2022-12-16T17:42:10.000Z</updated>
+        <summary type="html"><![CDATA[Automated chatbots are quite useful for stimulating interactions. We can create chatbots for Slack, Discord, and other platforms.  In this article, I'll teach you how to build a Telegram chatbot that will tell you your horoscope. So, let’s get started! How to Get Your Bot Token To set up]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a ROM? ROM Price and Cost Estimate]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-a-rom-price-and-cost-estimate-2/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-rom-price-and-cost-estimate-2/"/>
+        <updated>2022-12-16T17:27:32.000Z</updated>
+        <summary type="html"><![CDATA[ROM stands for Rough Order of Magnitude. It is a project management guideline to determine the estimated range of costs for a project. This article will explain:  1. Who should use a ROM  2. When to use a ROM  3. How to calculate a ROM  4.]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The best of the Go newsletter in 2022]]></title>
+        <id>https://golangweekly.com/issues/441</id>
+        <link href="https://golangweekly.com/issues/441"/>
+        <updated>2022-12-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#​441 — December 16, 2022
+
+
+Unsub  |  Web Version
+
+
+
+The Go Weekly Newsletter
+
+
+
+
+  
+
+
+
+
+
+The Best of the Go Newsletter in 2022
+This is the final issue of the year (we're back on January 6, 2023) so we're revisiting the most popular links (and releases) from this year. There'll be a few useful resources that escaped your attention or that you've since forgotten about so enjoy! 😁
+Have a fantastic holiday season.
+____
+Peter Cooper, your editor
+
+
+
+
+
+  
+  
+1: Effective Error Handling in Go — The most popular item of the year came in the very first issue of 2022 and presaged what would be a common concern this year: error handling. Brandon covered the basics, as well as some simple strategies you can follow to ensure your programs are more robust and easier to debug.
+Brandon Schurman 
+
+
+  
+  
+…]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS display:none and visibility:hidden – What's the Difference?]]></title>
         <id>https://www.freecodecamp.org/news/css-display-none-and-visibility-hidden-the-difference/</id>
@@ -1375,67 +1471,6 @@ Google's Go Style Guide — What goes for Google doesn’t necessarily go for ev
 The post Why This Universe? A New Calculation Suggests Our Cosmos Is Typical. first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Charlie Wood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top-level promise handling in Node.js ES modules (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/top-level-promise-handling-in-node-js/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/top-level-promise-handling-in-node-js/"/>
-        <updated>2022-11-16T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I was writing a quick Node.js script the other day, made a silly mistake, and faced the exit code 13. There was no error. I just looked at this status code I haven't seen before.
-So, I went on to learn more about it.
-TLDR: the exit code 13 is used when an ESM-based Node.js script exits before the top-level code is resolved.
-The script used ESM-based top-level await and performed some API requests to transform the data and write it to disk.
-I needed a wait function (don't judge!) and made a silly mistake.
-Here's a very simplified version of the script:
-// index.mjs (ESM)
-const wait = (time) =>
-  new Promise((resolve) => {
-    setTimeout(() => resolve, time);
-  });
-
-console.log("waiting");
-await wait(1000);
-console.log("done");
-
-// -----
-// Exit code: 13
-
-Can you spot the mistake?
-The wait f…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Identity and Access Management (IAM) – Explained With an Analogy]]></title>
-        <id>https://www.freecodecamp.org/news/aws-iam-explained/</id>
-        <link href="https://www.freecodecamp.org/news/aws-iam-explained/"/>
-        <updated>2022-11-16T18:51:48.000Z</updated>
-        <summary type="html"><![CDATA[AWS IAM (Identity and Access Management) gives you control over who can access your AWS services and resources based on some predefined permissions.  The two keywords here are “who” and “permissions”. “Who” refers to a specific identity, which can be a user, group or role. “permissions” refer to the]]></summary>
-        <author>
-            <name>Daniel Adetunji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Modern Documentation Site with VitePress]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-modern-documentation-site-with-vitepress/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-modern-documentation-site-with-vitepress/"/>
-        <updated>2022-11-16T17:01:23.000Z</updated>
-        <summary type="html"><![CDATA[Documentation is a crucial aspect of software development. But developers often neglect it because it can be a hassle to maintain. This is why it's important to use tools that help simplify this process.  In this tutorial, you'll learn how to build a complete docs site quickly by utilizing]]></summary>
-        <author>
-            <name>Victor Eke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computer Proof ‘Blows Up’ Centuries-Old Fluid Equations]]></title>
-        <id>https://www.quantamagazine.org/?p=120604</id>
-        <link href="https://www.quantamagazine.org/computer-helps-prove-long-sought-fluid-equation-singularity-20221116/"/>
-        <updated>2022-11-16T15:40:45.000Z</updated>
-        <summary type="html"><![CDATA[For more than 250 years, mathematicians have wondered if the Euler equations might sometimes fail to describe a fluid’s flow. A new computer-assisted proof marks a major breakthrough in that quest.            
-The post Computer Proof ‘Blows Up’ Centuries-Old Fluid Equations first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Jordana Cepelewicz</name>
         </author>
     </entry>
 </feed>
