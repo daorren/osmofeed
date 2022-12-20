@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-19T01:23:29.145Z</updated>
+    <updated>2022-12-20T01:25:18.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Get Your First Job in InfoSec]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-get-your-first-job-in-infosec/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-your-first-job-in-infosec/"/>
+        <updated>2022-12-19T23:32:44.000Z</updated>
+        <summary type="html"><![CDATA[Getting your first job in information security (infosec, or cybersecurity) can be tough.  It's (still) a relatively new industry, and job roles and descriptions aren't always consistent. Plus, it can be hard to figure out where to get started, what skills you need, and how you can acquire them.]]></summary>
+        <author>
+            <name>Megan Kaczanowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 👋 Friend of John]]></title>
+        <id>6396477892a0bb4700d50e0c</id>
+        <link href="https://labnotes.org/weekend-reading-friend-of-john/"/>
+        <updated>2022-12-19T21:58:11.000Z</updated>
+        <summary type="html"><![CDATA[This week we discover the legendary software entrepreneur J.Mastodon, punch holes in cards, choose a new timezone, and worry about dark chocolate.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Have Fun Building React Apps]]></title>
+        <id>https://www.freecodecamp.org/news/have-fun-building-react-apps/</id>
+        <link href="https://www.freecodecamp.org/news/have-fun-building-react-apps/"/>
+        <updated>2022-12-19T21:41:26.000Z</updated>
+        <summary type="html"><![CDATA[Building React apps can either be a very fun experience or a very difficult and tedious one, based off of the tools you choose. React is a JavaScript library that, unlike frameworks like Angular, leave us to making a lot of decisions on our own. You have to choose which]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own Wireguard VPN in Five Minutes]]></title>
+        <id>https://www.freecodecamp.org/news/build-your-own-wireguard-vpn-in-five-minutes/</id>
+        <link href="https://www.freecodecamp.org/news/build-your-own-wireguard-vpn-in-five-minutes/"/>
+        <updated>2022-12-19T20:46:15.000Z</updated>
+        <summary type="html"><![CDATA[You may already understand how important a good VPN can be for maintaining the security and privacy of your mobile communications.  Whether you need to use your phone for banking over a public airport or coffee shop WiFi connection, or you're worried about the wrong people listening in on]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Speed up Your Software Development Pipeline]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-speed-up-your-software-development-pipeline/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-speed-up-your-software-development-pipeline/"/>
+        <updated>2022-12-19T17:51:06.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever managed a software development pipeline—or have plans to do so—there's one thing you'll need to prioritize above almost all else: speed.  No matter the type of software you're working on, you'll always be under pressure to speed up your team's deliverables. Some of that pressure might]]></summary>
+        <author>
+            <name>Andrej Kovacevic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[She Finds Keys to Ecology in Cells That Steal From Others]]></title>
+        <id>https://www.quantamagazine.org/?p=121543</id>
+        <link href="https://www.quantamagazine.org/holly-moeller-finds-keys-to-ecology-in-cells-that-steal-20221219/"/>
+        <updated>2022-12-19T14:53:13.000Z</updated>
+        <summary type="html"><![CDATA[The ecologist Holly Moeller studies microorganisms that expand their range by absorbing organelles and gaining new metabolic talents from their prey.            
+The post She Finds Keys to Ecology in Cells That Steal From Others first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Veronique Greenwood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #89 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-89/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-89/"/>
+        <updated>2022-12-18T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Frohe Feiertage!
+
+Would you animate the display property if you could? Have you heard of the new renderblockingstatus webperf property? Or did you already inject DOM elements with before() and after()?
+All the answers and much more are included in this week's Web Weekly. 🫣
+Before we go into this week's favorites...
+Last week I asked for a reply to this email to signal email providers that I'm not spamming and well... I DOS'ed myself. Way more of you replied to the email, and it was a good challenge to reply to all the emails. 🫣
+Sending this newsletter sometimes feels a little lonely, but I'm humbled that so many people are reading along! And I can't tell you how much getting all these kind words and replies motivate me.
+I'm all ears when you have something to share or want to provide fee…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use Raycast snippet auto expansion (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/how-to-use-raycast-snippet-auto-expansion/</id>
+        <link href="https://www.stefanjudis.com/blog/how-to-use-raycast-snippet-auto-expansion/"/>
+        <updated>2022-12-18T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I plugged that I use Raycast for automatic snippet expansion in my weekly newsletter. If you don't know Raycast, it's a macOS Spotlight replacement and the OS-level command bar is very good!
+I use Raycast primarily to navigate all the apps on my machine, place windows on different monitors and expand snippets. ;es for example, expands automatically to my email address. Whether in my browser, mail app or Slack, my email address or often used phrases are automagically expanded to save some keystrokes.
+But I must admit, the docs on auto-expansion could be better, and someone asked me how I set this functionality up. So here we go!
+The native snippet extension
+
+Raycast comes with a native snippet extension to create and search all your snippets from within Raycast itself.
+I'm not using it to search my snippets, because I primarily auto-expand things. And to enable auto-expansion, you must look at the overall snippet configuration.
+"Enable Snippet Expansion" is the magic trick. After you enable this setting, use the "Create Snippet" or "Edit snippet" command via the Raycast command bar and define a name, the expansion and the character combination triggering it (Keyword).
+And that's it!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[API Testing Best Practices – How to Test APIs for Beginners]]></title>
         <id>https://www.freecodecamp.org/news/rules-of-api-testing-for-beginners/</id>
@@ -1274,36 +1375,6 @@ The post The Simple Geometry Behind Brownie Bake Offs and Equal Areas first appe
         <summary type="html"><![CDATA[This week we use AI to find bugs and generate security holes, flex with cats, design for Teletext, and defeat a chicken.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #86 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-86/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-86/"/>
-        <updated>2022-11-19T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag!
-
-Do you struggle with Unicode in JavaScript? Or curse the vh when designing for mobile? Or always wanted to know how this obscure .visually-hidden class you're copying from project to project works?
-All the answers and much more are included in this week's Web Weekly. 🫣
-Enjoy!
-This edition is the 86th Web Weekly, and for almost two years, I've been sharing weekly Frontend tips (I missed a few, but hey... 🙈).
-It's odd that Web Weekly somehow became a part of my life. 💙
-This week, I've chatted with my friend Anselm who runs the excellent Web Development Reading List. You should check it out!
-We both wondered where we're going with our newsletters and if there's a way to collaborate.
-All this got me thinking about Web Weekly.
-Is it valuable to send it weekly? Should it be focuss…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Date Command – How to Query the Terminal to Get Dates]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-query-the-terminal-to-get-dates-linux/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-query-the-terminal-to-get-dates-linux/"/>
-        <updated>2022-11-19T19:06:26.000Z</updated>
-        <summary type="html"><![CDATA[Linux has many utility tools that help you quickly find the answer to your questions. But many devs aren't aware of them. In this article, you will learn a command that has exceptional benefits.  For example, say you want to take a look at your calendar to plan a]]></summary>
-        <author>
-            <name>Arunachalam B</name>
         </author>
     </entry>
 </feed>

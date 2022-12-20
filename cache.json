@@ -12,6 +12,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-get-your-first-job-in-infosec/",
+          "author": "Megan Kaczanowski",
+          "description": "Getting your first job in information security (infosec, or cybersecurity) can be tough.  It's (still) a relatively new industry, and job roles and descriptions aren't always consistent. Plus, it can be hard to figure out where to get started, what skills you need, and how you can acquire them.",
+          "link": "https://www.freecodecamp.org/news/how-to-get-your-first-job-in-infosec/",
+          "publishedOn": "2022-12-19T23:32:44.000Z",
+          "wordCount": 3410,
+          "title": "How to Get Your First Job in InfoSec",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-tima-miroshnichenko-5380665.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/have-fun-building-react-apps/",
+          "author": "Reed Barger",
+          "description": "Building React apps can either be a very fun experience or a very difficult and tedious one, based off of the tools you choose. React is a JavaScript library that, unlike frameworks like Angular, leave us to making a lot of decisions on our own. You have to choose which",
+          "link": "https://www.freecodecamp.org/news/have-fun-building-react-apps/",
+          "publishedOn": "2022-12-19T21:41:26.000Z",
+          "wordCount": 2389,
+          "title": "How to Have Fun Building React Apps",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/mugshotbot.com_customize_color-teal-discounted_price--image-fa229fca-mode-light-pattern-charlie_brown-price--theme-e_commerce-url-https___gifcoins.io.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-your-own-wireguard-vpn-in-five-minutes/",
+          "author": "David Clinton",
+          "description": "You may already understand how important a good VPN can be for maintaining the security and privacy of your mobile communications.  Whether you need to use your phone for banking over a public airport or coffee shop WiFi connection, or you're worried about the wrong people listening in on",
+          "link": "https://www.freecodecamp.org/news/build-your-own-wireguard-vpn-in-five-minutes/",
+          "publishedOn": "2022-12-19T20:46:15.000Z",
+          "wordCount": 2246,
+          "title": "How to Build Your Own Wireguard VPN in Five Minutes",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-ibrahim-boran-339814.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-speed-up-your-software-development-pipeline/",
+          "author": "Andrej Kovacevic",
+          "description": "If you've ever managed a software development pipeline—or have plans to do so—there's one thing you'll need to prioritize above almost all else: speed.  No matter the type of software you're working on, you'll always be under pressure to speed up your team's deliverables. Some of that pressure might",
+          "link": "https://www.freecodecamp.org/news/how-to-speed-up-your-software-development-pipeline/",
+          "publishedOn": "2022-12-19T17:51:06.000Z",
+          "wordCount": 2086,
+          "title": "How to Speed up Your Software Development Pipeline",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/software-development-team.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/rules-of-api-testing-for-beginners/",
           "author": "Hillary Nyakundi",
           "description": "In this digital age, APIs have become the cornerstone of how data is shared and processed. But many users are often unaware of the fact that they are putting their trust in an API and not a person. This is why it's important to leverage API testing techniques to ensure",
@@ -750,16 +790,6 @@
           "wordCount": 947,
           "title": "The freeCodeCamp Mobile App – Learn to Code Right On Your Phone",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/michal-soukup-hDOskFirs-c-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-query-the-terminal-to-get-dates-linux/",
-          "author": "Arunachalam B",
-          "description": "Linux has many utility tools that help you quickly find the answer to your questions. But many devs aren't aware of them. In this article, you will learn a command that has exceptional benefits.  For example, say you want to take a look at your calendar to plan a",
-          "link": "https://www.freecodecamp.org/news/how-to-query-the-terminal-to-get-dates-linux/",
-          "publishedOn": "2022-11-19T19:06:26.000Z",
-          "wordCount": 1998,
-          "title": "Linux Date Command – How to Query the Terminal to Get Dates",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/10.-Date-Command---Brief-1.png"
         }
       ]
     },
@@ -768,6 +798,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=121543",
+          "author": "Veronique Greenwood",
+          "description": "The ecologist Holly Moeller studies microorganisms that expand their range by absorbing organelles and gaining new metabolic talents from their prey.            \nThe post She Finds Keys to Ecology in Cells That Steal From Others first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/holly-moeller-finds-keys-to-ecology-in-cells-that-steal-20221219/",
+          "publishedOn": "2022-12-19T14:53:13.000Z",
+          "wordCount": 9093,
+          "title": "She Finds Keys to Ecology in Cells That Steal From Others",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/12/HollyMoeller_byMonicAlmeida-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=121467",
           "author": "Jordana Cepelewicz",
@@ -936,6 +976,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "6396477892a0bb4700d50e0c",
+          "author": "Assaf Arkin",
+          "description": "This week we discover the legendary software entrepreneur J.Mastodon, punch holes in cards, choose a new timezone, and worry about dark chocolate.",
+          "link": "https://labnotes.org/weekend-reading-friend-of-john/",
+          "publishedOn": "2022-12-19T21:58:11.000Z",
+          "wordCount": 1437,
+          "title": "Weekend Reading — 👋 Friend of John",
+          "imageUrl": "https://labnotes.org/content/images/2022/12/john-mastodon.webp"
+        },
+        {
           "id": "63992e6892a0bb4700d51a7c",
           "author": "Assaf Arkin",
           "description": "Let's make Mastodon happen! Here are some goodies that make sharing content and following people easier. \nShare button\nMake it easy for people to share your content on Mastodon.\nHere's a share button you can try (don't worry, it won't post anything",
@@ -993,6 +1043,26 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-89/",
+          "author": null,
+          "description": "Frohe Feiertage!\n\nWould you animate the display property if you could? Have you heard of the new renderblockingstatus webperf property? Or did you already inject DOM elements with before() and after()?\nAll the answers and much more are included in this week's Web Weekly. 🫣\nBefore we go into this week's favorites...\nLast week I asked for a reply to this email to signal email providers that I'm not spamming and well... I DOS'ed myself. Way more of you replied to the email, and it was a good challenge to reply to all the emails. 🫣\nSending this newsletter sometimes feels a little lonely, but I'm humbled that so many people are reading along! And I can't tell you how much getting all these kind words and replies motivate me.\nI'm all ears when you have something to share or want to provide fee…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-89/",
+          "publishedOn": "2022-12-18T23:00:00.000Z",
+          "wordCount": 2312,
+          "title": "Web Weekly #89 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
+          "id": "https://www.stefanjudis.com/blog/how-to-use-raycast-snippet-auto-expansion/",
+          "author": null,
+          "description": "I plugged that I use Raycast for automatic snippet expansion in my weekly newsletter. If you don't know Raycast, it's a macOS Spotlight replacement and the OS-level command bar is very good!\nI use Raycast primarily to navigate all the apps on my machine, place windows on different monitors and expand snippets. ;es for example, expands automatically to my email address. Whether in my browser, mail app or Slack, my email address or often used phrases are automagically expanded to save some keystrokes.\nBut I must admit, the docs on auto-expansion could be better, and someone asked me how I set this functionality up. So here we go!\nThe native snippet extension\n\nRaycast comes with a native snippet extension to create and search all your snippets from within Raycast itself.\nI'm not using it to search my snippets, because I primarily auto-expand things. And to enable auto-expansion, you must look at the overall snippet configuration.\n\"Enable Snippet Expansion\" is the magic trick. After you enable this setting, use the \"Create Snippet\" or \"Edit snippet\" command via the Raycast command bar and define a name, the expansion and the character combination triggering it (Keyword).\nAnd that's it!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/blog/how-to-use-raycast-snippet-auto-expansion/",
+          "publishedOn": "2022-12-18T23:00:00.000Z",
+          "wordCount": 1241,
+          "title": "How to use Raycast snippet auto expansion (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20use%20Raycast%20snippet%20auto%20expansion/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-88/",
           "author": null,
           "description": "Guten Tag!\n\nDo you know how to create fancy effects with CSS masking? Or what resolved CSS values are? Or that you can await objects with a then property?\nAll the answers and much more are included in this week's Web Weekly. 🫣\nCorrection time: last week, I highlighted that it's prime time for the translate, rotate and scale properties because they're cross-browser supported.\nAnd while this is true for Safari, Chrome, Edge and Firefox, I should have noticed something! Samsung Internet uses Chromium but is usually behind the main branch. And it doesn't yet support these properties. 😢\ncaniuse.com states a global market share of 1.5%, and while that's not huge, it must be considered. A big thanks goes to Fynn who pointed that out.\nOn another note: last week, I enabled double opt-in for Web W…",
@@ -1041,16 +1111,6 @@
           "wordCount": 1929,
           "title": "Should responsive images work with container queries? (#note)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Should%20responsive%20images%20work%20with%20container%20queries%253F/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-86/",
-          "author": null,
-          "description": "Guten Tag!\n\nDo you struggle with Unicode in JavaScript? Or curse the vh when designing for mobile? Or always wanted to know how this obscure .visually-hidden class you're copying from project to project works?\nAll the answers and much more are included in this week's Web Weekly. 🫣\nEnjoy!\nThis edition is the 86th Web Weekly, and for almost two years, I've been sharing weekly Frontend tips (I missed a few, but hey... 🙈).\nIt's odd that Web Weekly somehow became a part of my life. 💙\nThis week, I've chatted with my friend Anselm who runs the excellent Web Development Reading List. You should check it out!\nWe both wondered where we're going with our newsletters and if there's a way to collaborate.\nAll this got me thinking about Web Weekly.\nIs it valuable to send it weekly? Should it be focuss…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-86/",
-          "publishedOn": "2022-11-19T23:00:00.000Z",
-          "wordCount": 2052,
-          "title": "Web Weekly #86 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
     },
