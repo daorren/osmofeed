@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-20T01:25:18.183Z</updated>
+    <updated>2022-12-21T01:22:26.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘Fullertubes’ Join the Family of Carbon Crystals]]></title>
+        <id>https://www.quantamagazine.org/?p=121664</id>
+        <link href="https://www.quantamagazine.org/fullertubes-join-the-family-of-carbon-crystals-20221220/"/>
+        <updated>2022-12-20T15:46:40.000Z</updated>
+        <summary type="html"><![CDATA[The buckminsterfullerene revolution never came, but some researchers are eagerly exploring the properties of newfound carbon crystals known as fullertubes.            
+The post ‘Fullertubes’ Join the Family of Carbon Crystals first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>James R. Riordon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own SaaS – PagerDuty Clone]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-your-own-saas-pagerduty-clone/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-your-own-saas-pagerduty-clone/"/>
+        <updated>2022-12-20T13:47:49.000Z</updated>
+        <summary type="html"><![CDATA[One of the best ways to learn software development is to create a slimmed-down version of software you use every day to get a better understanding of how it might work. This process helps you understand the problem space constraints and techniques required to build a real-world use-case. We just]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Get Your First Job in InfoSec]]></title>
         <id>https://www.freecodecamp.org/news/how-to-get-your-first-job-in-infosec/</id>
@@ -1365,16 +1386,6 @@ The post A Mathematician Dancing Between Algebra and Geometry first appeared on 
 The post The Simple Geometry Behind Brownie Bake Offs and Equal Areas first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Patrick Honner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — 👋 Rolling with the boilerplate]]></title>
-        <id>637161c0d081b62c034110a1</id>
-        <link href="https://labnotes.org/weekend-reading-rolling-with-the-boilerplate/"/>
-        <updated>2022-11-21T01:20:42.000Z</updated>
-        <summary type="html"><![CDATA[This week we use AI to find bugs and generate security holes, flex with cats, design for Teletext, and defeat a chicken.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
