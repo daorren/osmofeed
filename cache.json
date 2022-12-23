@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/serverless-caching-for-your-web-applications/",
+          "author": "Andrew Brown",
+          "description": "When to Use a Cache When you are building a web-application, you'll need to fetch data from a database. As your traffic and the size of your database grows, you will find that querying your database gets slower and slower. In order to return requests to users quickly, a cache",
+          "link": "https://www.freecodecamp.org/news/serverless-caching-for-your-web-applications/",
+          "publishedOn": "2022-12-22T20:45:05.000Z",
+          "wordCount": 1830,
+          "title": "How to Cache Expensive Database Queries Using the Momento Serverless Cache",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-tiger-lily-4483610.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/string-equality-in-javascript-how-to-compare-strings-in-js/",
+          "author": "Joel Olawanle",
+          "description": "When writing code or building a solution, you might need to compare two strings to see if they are the same before proceeding with an operation. For example, when a user signs in, you'll want to compare the username the provide to the one in your database to see if",
+          "link": "https://www.freecodecamp.org/news/string-equality-in-javascript-how-to-compare-strings-in-js/",
+          "publishedOn": "2022-12-22T18:57:16.000Z",
+          "wordCount": 1396,
+          "title": "String Equality in JavaScript – How to Compare Strings in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-template--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/adding-to-a-dict-in-python-how-to-add-to-a-dictionary/",
+          "author": "Kolade Chris",
+          "description": "A Python dictionary is like a JavaScript object – it’s a sequence of key:value  pairs. So, you can create them like this: stack_dict = {     \"frontend\": \"JavaScript\",     \"backend\": \"Node JS\",     \"markup\": \"HTML and JSX\", } To access",
+          "link": "https://www.freecodecamp.org/news/adding-to-a-dict-in-python-how-to-add-to-a-dictionary/",
+          "publishedOn": "2022-12-22T18:04:49.000Z",
+          "wordCount": 1315,
+          "title": "Adding to a Dict in Python – How to Add to a Dictionary",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/addToDict.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/",
+          "author": "Rwitesh Bera",
+          "description": "Have you ever wondered how JavaScript works behind the scenes? It's actually quite fascinating! And that's what you'll learn about here. JavaScript is a single-threaded interpreted language. Every browser has its own JavaScript engine. Google Chrome has the V8 engine, Mozilla Firefox has SpiderMonkey, and so on. They all are",
+          "link": "https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/",
+          "publishedOn": "2022-12-22T17:50:05.000Z",
+          "wordCount": 1733,
+          "title": "JavaScript Execution Context – How JS Works Behind the Scenes",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Dark-Blue-Illustrated-Techno-Daily-Smore-Header--1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-enumerate-in-python/",
+          "author": "Suchandra Datta",
+          "description": "The enumerate() function is one of the built-in functions in Python. It provides a handy way to access each item in an iterable, along with a count value that specifies the order in which the item was accessed.  In this article you will learn all that you need to",
+          "link": "https://www.freecodecamp.org/news/what-is-enumerate-in-python/",
+          "publishedOn": "2022-12-22T15:56:07.000Z",
+          "wordCount": 2336,
+          "title": "What is enumerate() in Python? Enumeration Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-yan-krukov-8612931.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/filtering-in-csharp-how-to-filter-a-list-with-code-examples/",
           "author": "Edeh Israel Chidera",
           "description": "Filtering through a data set is one of the most basic operations a developer should know how to perform.  Filtering [https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/filtering-data]  refers to the process of restricting the result set to contain only those elements that satisfy a specified condition. It is also known as selection.  To",
@@ -860,16 +910,6 @@
           "wordCount": 3692,
           "title": "Clear Code – How to Write Code That Is Easy to Read",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/cafe-gc5d844b68_1280.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-arcade-style-shooting/",
-          "author": "Beau Carnes",
-          "description": "Creating an arcade-style shooting game is a fun project to help you improve your Python and PyGame programming skills. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a fun game using Python and PyGame. Pete LeMaster created this course. Pete is",
-          "link": "https://www.freecodecamp.org/news/create-a-arcade-style-shooting/",
-          "publishedOn": "2022-11-22T14:41:04.000Z",
-          "wordCount": 899,
-          "title": "Create a Arcade-Style Shooting Game with Python and PyGame",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pythongame.png"
         }
       ]
     },
@@ -878,6 +918,36 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=121394",
+          "author": "Matt Carlstrom",
+          "description": "While the internet is awash in the noise of unmoderated comments, Quanta has attempted to provide a quiet, information-rich spot where readers, listeners and viewers can contemplate the complexity of nature.              \nThe post The Year in Comments first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/thoughtful-and-funny-feedback-from-quantas-audience-in-2022-20221222/",
+          "publishedOn": "2022-12-22T17:00:13.000Z",
+          "wordCount": 5070,
+          "title": "The Year in Comments",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/12/YiR-COMMENTS-byMyriamWares-Social.webp"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=121400",
+          "author": "Konstantin Kakaes",
+          "description": "Four Fields Medals were awarded for major breakthroughs in geometry, combinatorics, statistical physics and number theory, even as mathematicians continued to wrestle with how computers are changing the discipline.            \nThe post The Year in Math first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-biggest-math-breakthroughs-in-2022-20221222/",
+          "publishedOn": "2022-12-22T16:00:09.000Z",
+          "wordCount": 6977,
+          "title": "The Year in Math",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/12/YiR-MATH-byMyriamWares-Social.webp"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=121396",
+          "author": "Natalie Wolchover",
+          "description": "In a year filled with sweet new observations in astronomy and tantalizing breakthroughs in condensed matter physics, the brand-new space telescope takes the cake.            \nThe post The Year in Physics first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-biggest-discoveries-in-physics-in-2022-20221222/",
+          "publishedOn": "2022-12-22T15:00:47.000Z",
+          "wordCount": 6129,
+          "title": "The Year in Physics",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/12/YiR-PHYSICS-byMyriamWares-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=121398",
           "author": "Bill Andrews",
@@ -1057,16 +1127,6 @@
           "wordCount": 7190,
           "title": "AI Reveals New Possibilities in Matrix Multiplication",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/DeepmindMatrixMultiplication-cr.MahmetEminGu%CC%88zel-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=120793",
-          "author": "Rachel Crowell",
-          "description": "Wei Ho, the first director of the Women and Mathematics program at the Institute for Advanced Study, combines algebra and geometry in her work on an ancient class of curves.            \nThe post A Mathematician Dancing Between Algebra and Geometry first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/wei-ho-is-drawn-to-algebra-geometry-and-the-human-side-of-math-20221122/",
-          "publishedOn": "2022-11-22T15:50:49.000Z",
-          "wordCount": 6522,
-          "title": "A Mathematician Dancing Between Algebra and Geometry",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/WeiHo-cr.CarolineGutman-Social-2.webp"
         }
       ]
     },
@@ -1132,6 +1192,26 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/viewport-units-can-consider-the-writing-mode/",
+          "author": null,
+          "description": "Slowly but surely, developers adopt logical CSS properties to be good web citizens and write CSS that follows a defined writing mode, directionality, and text orientation.\nwidth becomes inline-size, margin-inline is a shorthand for margin-left and margin-right, you get the idea.\nMDN lists all the logical CSS properties if you haven't heard about them yet.\nThat's all good and dandy, but there's at least one situation where logical CSS properties aren't enough. Suppose you want to style a container and make it 50% of the viewport on the horizontal axis.\nYou can define inline-size: 50vw; but isn't that mixing things up? inline-size will define either the horizontal or vertical size depending on the writing mode, but 50vw will always be the viewport width.\nI don't know if that's a real issue b…",
+          "link": "https://www.stefanjudis.com/today-i-learned/viewport-units-can-consider-the-writing-mode/",
+          "publishedOn": "2022-12-21T23:00:00.000Z",
+          "wordCount": 1729,
+          "title": "Viewport units can consider the writing mode (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Viewport%20units%20can%20consider%20the%20writing%20mode/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
+          "id": "https://www.stefanjudis.com/snippets/how-to-animate-height-with-css-grid/",
+          "author": null,
+          "description": "Did Chris just publish a post and unveil the solution to a long-lasting CSS problem almost in a side sentence? It seems like it!\nWhat of the many are we walking about? We're talking about animating an element's height from 0 to something (auto).\nAnimated grid rows\n\nNot too long ago, browsers shipped animatable CSS grid columns and rows which you could use to fly in a side menu or do fancy stuff like Michelle Barker. 👇\n by Michelle Barker (@michellebarker)\n  on CodePen.\n\nI've never considered using animated grid rows to hide grid cells, though.\nHere's the trick to toggle an element's height:\ndefine a grid element\ndefine a single grid row with 0fr\nadd a transition for grid-template-rows\nset overflow: hidden to the one element inside the grid\nredefine the grid-template-rows to be 1fr with an open class\n.grid {\n  display: grid;\n  grid-template-rows: 0fr;\n  transition: grid-template-rows 0.5s ease-in-out;\n}\n\n.grid.open {\n  grid-template-rows: 1fr;\n}\n\n.grid-inner {\n  overflow: hidden;\n}\n\nAnd voila! You can now transition an element's height, and it doesn't use any hardcoded values – toggle a class and call it a day! CSS Grid figures out all the rest.\n[Interactive component: visit the article to see it...]\nI'm blown away by this!\nAnd sure, to Chris' point, it'd be nice to have an easier way to animate element heights, but I'll take this approach for now! Thanks Chris! 💯\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/snippets/how-to-animate-height-with-css-grid/",
+          "publishedOn": "2022-12-21T23:00:00.000Z",
+          "wordCount": 1499,
+          "title": "How to animate an element's height with CSS grid (#snippet)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20animate%20an%20element's%20height%20with%20CSS%20grid/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-89/",
           "author": null,
