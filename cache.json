@@ -12,6 +12,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/learn-to-code-rpg-1-5-update/",
+          "author": "Lynn Zheng",
+          "description": "Hello from the Learn to Code RPG dev team! We are Lynn, KayLa, and Nielda. And we've been hard at work building out new adventures for our characters. I'm excited to announce the launch of Learn to Code RPG v1.5, a year after the launch of Learn to Code RPG",
+          "link": "https://www.freecodecamp.org/news/learn-to-code-rpg-1-5-update/",
+          "publishedOn": "2022-12-23T02:43:43.000Z",
+          "wordCount": 2134,
+          "title": "Learn to Code RPG Version 1.5 is Now Playable with Hours of New Gameplay",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/splash-2-lowres-1.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/serverless-caching-for-your-web-applications/",
           "author": "Andrew Brown",
           "description": "When to Use a Cache When you are building a web-application, you'll need to fetch data from a database. As your traffic and the size of your database grows, you will find that querying your database gets slower and slower. In order to return requests to users quickly, a cache",
@@ -1117,16 +1127,6 @@
           "wordCount": 5039,
           "title": "The Brain Uses Calculus to Control Fast Movements",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/BrainCalculus-cr.KristinaArmitage-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=120848",
-          "author": "Ben Brubaker",
-          "description": "Inspired by the results of a game-playing neural network, mathematicians have been making unexpected advances on an age-old math problem.            \nThe post AI Reveals New Possibilities in Matrix Multiplication first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/ai-reveals-new-possibilities-in-matrix-multiplication-20221123/",
-          "publishedOn": "2022-11-23T14:57:13.000Z",
-          "wordCount": 7190,
-          "title": "AI Reveals New Possibilities in Matrix Multiplication",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/DeepmindMatrixMultiplication-cr.MahmetEminGu%CC%88zel-Social.webp"
         }
       ]
     },
@@ -1271,16 +1271,6 @@
           "wordCount": 1593,
           "title": "Elements can be visible even though their parent has set \"visibility: hidden\" (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Elements%20can%20be%20visible%20even%20though%20their%20parent%20has%20set%20%22visibility%3A%20hidden%22/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/should-responsive-images-work-with-container-queries/",
-          "author": null,
-          "description": "Container queries are slowly moving towards cross-browser support, and it got me wondering: how is image loading supposed to work in a container-based world?\nThe wonderful Miriam Suzanne pointed me to a GitHub issue discussing this exact topic.\nThe container-based responsive images proposal\n\nHere's the issue created by Una Kravets.\n\n\n\n\n\n\n\n\n\nw3c/csswg-drafts #5889 OPEN\n\n\n\n[css-conditional] [css-contain] srcset and sizes interaction with container queries\n\n una opened it Jan 22 2021\n\nAs it's pretty long, and the topic spreads across multiple different but somehow related discussions, let me summarize what I understood.\nDisclaimer: I'm no browser engineer; if you spot any mistakes, please let me know!\nThe syntax for responsive images is quite verbose. And especially if you want to load differ…",
-          "link": "https://www.stefanjudis.com/notes/should-responsive-images-work-with-container-queries/",
-          "publishedOn": "2022-11-23T23:00:00.000Z",
-          "wordCount": 1929,
-          "title": "Should responsive images work with container queries? (#note)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Should%20responsive%20images%20work%20with%20container%20queries%253F/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },

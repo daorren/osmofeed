@@ -22,6 +22,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-12-23 datetime="2022-12-23T02:43:43.000Z">2022-12-23</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-12-23 datetime="2022-12-23T02:43:43.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >freeCodeCamp.org</button>
+                  <a class="source-heading__link" href="https://www.freecodecamp.org/news/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.freecodecamp.org/news/learn-to-code-rpg-1-5-update/"
+                        open
+                      >
+                        <summary class="article-expander__title">Learn to Code RPG Version 1.5 is Now Playable with Hours of New Gameplay</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/learn-to-code-rpg-1-5-update/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.freecodecamp.org/news/content/images/2022/12/splash-2-lowres-1.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Hello from the Learn to Code RPG dev team! We are Lynn, KayLa, and Nielda. And we&#x27;ve been hard at work building out new adventures for our characters. I&#x27;m excited to announce the launch of Learn to Code RPG v1.5, a year after the launch of Learn to Code RPG</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-12-22 datetime="2022-12-22T20:45:05.000Z">2022-12-22</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-12-22 datetime="2022-12-22T20:45:05.000Z"></time>
           </button>
@@ -3872,117 +3920,10 @@ I&#x27;m not sure yet, what to make of this discovery. Scott&#x27;s responsive p
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-23 datetime="2022-11-23T23:00:00.000Z">2022-11-23</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-23 datetime="2022-11-23T23:00:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Stefan Judis Web Development</button>
-                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.stefanjudis.com/notes/should-responsive-images-work-with-container-queries/"
-                        open
-                      >
-                        <summary class="article-expander__title">Should responsive images work with container queries? (#note)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/notes/should-responsive-images-work-with-container-queries/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Should%20responsive%20images%20work%20with%20container%20queries%253F/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Container queries are slowly moving towards cross-browser support, and it got me wondering: how is image loading supposed to work in a container-based world?
-The wonderful Miriam Suzanne pointed me to a GitHub issue discussing this exact topic.
-The container-based responsive images proposal
-
-Here&#x27;s the issue created by Una Kravets.
-
-
-
-
-
-
-
-
-
-w3c/csswg-drafts #5889 OPEN
-
-
-
-[css-conditional] [css-contain] srcset and sizes interaction with container queries
-
- una opened it Jan 22 2021
-
-As it&#x27;s pretty long, and the topic spreads across multiple different but somehow related discussions, let me summarize what I understood.
-Disclaimer: I&#x27;m no browser engineer; if you spot any mistakes, please let me know!
-The syntax for responsive images is quite verbose. And especially if you want to load differ…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Quanta Magazine</button>
-                  <a class="source-heading__link" href="https://www.quantamagazine.org">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.quantamagazine.org/?p&#x3D;120848"
-                        open
-                      >
-                        <summary class="article-expander__title">AI Reveals New Possibilities in Matrix Multiplication</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.quantamagazine.org/ai-reveals-new-possibilities-in-matrix-multiplication-20221123/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/DeepmindMatrixMultiplication-cr.MahmetEminGu%CC%88zel-Social.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Inspired by the results of a game-playing neural network, mathematicians have been making unexpected advances on an age-old math problem.            
-The post AI Reveals New Possibilities in Matrix Multiplication first appeared on Quanta Magazine</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;24
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/3762393117">
-        <time id="build-timestamp" datetime="2022-12-23T01:24:02.208Z">2022-12-23T01:24:02.208Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/3769193405">
+        <time id="build-timestamp" datetime="2022-12-24T01:19:07.980Z">2022-12-24T01:19:07.980Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

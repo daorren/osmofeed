@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-23T01:24:02.233Z</updated>
+    <updated>2022-12-24T01:19:08.004Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn to Code RPG Version 1.5 is Now Playable with Hours of New Gameplay]]></title>
+        <id>https://www.freecodecamp.org/news/learn-to-code-rpg-1-5-update/</id>
+        <link href="https://www.freecodecamp.org/news/learn-to-code-rpg-1-5-update/"/>
+        <updated>2022-12-23T02:43:43.000Z</updated>
+        <summary type="html"><![CDATA[Hello from the Learn to Code RPG dev team! We are Lynn, KayLa, and Nielda. And we've been hard at work building out new adventures for our characters. I'm excited to announce the launch of Learn to Code RPG v1.5, a year after the launch of Learn to Code RPG]]></summary>
+        <author>
+            <name>Lynn Zheng</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Cache Expensive Database Queries Using the Momento Serverless Cache]]></title>
         <id>https://www.freecodecamp.org/news/serverless-caching-for-your-web-applications/</id>
@@ -1546,51 +1556,6 @@ I'm not sure yet, what to make of this discovery. Scott's responsive pattern see
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should responsive images work with container queries? (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/should-responsive-images-work-with-container-queries/</id>
-        <link href="https://www.stefanjudis.com/notes/should-responsive-images-work-with-container-queries/"/>
-        <updated>2022-11-23T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Container queries are slowly moving towards cross-browser support, and it got me wondering: how is image loading supposed to work in a container-based world?
-The wonderful Miriam Suzanne pointed me to a GitHub issue discussing this exact topic.
-The container-based responsive images proposal
-
-Here's the issue created by Una Kravets.
-
-
-
-
-
-
-
-
-
-w3c/csswg-drafts #5889 OPEN
-
-
-
-[css-conditional] [css-contain] srcset and sizes interaction with container queries
-
- una opened it Jan 22 2021
-
-As it's pretty long, and the topic spreads across multiple different but somehow related discussions, let me summarize what I understood.
-Disclaimer: I'm no browser engineer; if you spot any mistakes, please let me know!
-The syntax for responsive images is quite verbose. And especially if you want to load differ…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Reveals New Possibilities in Matrix Multiplication]]></title>
-        <id>https://www.quantamagazine.org/?p=120848</id>
-        <link href="https://www.quantamagazine.org/ai-reveals-new-possibilities-in-matrix-multiplication-20221123/"/>
-        <updated>2022-11-23T14:57:13.000Z</updated>
-        <summary type="html"><![CDATA[Inspired by the results of a game-playing neural network, mathematicians have been making unexpected advances on an age-old math problem.            
-The post AI Reveals New Possibilities in Matrix Multiplication first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Ben Brubaker</name>
         </author>
     </entry>
 </feed>
