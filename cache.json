@@ -1261,16 +1261,6 @@
           "wordCount": 2071,
           "title": "How to split JavaScript strings into sentences, words or graphemes with \"Intl.Segmenter\" (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20split%20JavaScript%20strings%20into%20sentences%252C%20words%20or%20graphemes%20with%20%22Intl.Segmenter%22/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/elements-can-be-visible-even-though-their-parent-has-set-visibility-hidden/",
-          "author": null,
-          "description": "Responsive design can be a real challenge if you're coding something that needs more than just squishing and reordering some boxes. Scott O'Hara published an article describing how to build elements that act as buttons or spans depending on the viewport size.\nThe trick: Scott uses CSS visibility to hide and show elements throughout the element tree conditionally.\n<!-- Hide the button on smaller viewports \n     and only show the span -->\n<button type=\"button\">\n  <span>Do something</spin>\n</button>\n\nWait what? As it turns out, nested elements with different visibility properties (visible / hidden) can be visible even though their parent is hidden. 😲\nHere's the MDN section about this topic.\nDescendants of the element will be visible if they have visibility set to visible.\nThat's pretty wild!\n[Interactive component: visit the article to see it...]\nI'm not sure yet, what to make of this discovery. Scott's responsive pattern seems incredibly smart but also super hacky. I guess I have to sleep over it...\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/elements-can-be-visible-even-though-their-parent-has-set-visibility-hidden/",
-          "publishedOn": "2022-11-24T23:00:00.000Z",
-          "wordCount": 1593,
-          "title": "Elements can be visible even though their parent has set \"visibility: hidden\" (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Elements%20can%20be%20visible%20even%20though%20their%20parent%20has%20set%20%22visibility%3A%20hidden%22/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
@@ -1307,16 +1297,6 @@
           "publishedOn": "2022-12-02T00:00:00.000Z",
           "wordCount": 976,
           "title": "Are robots coming to fix your Go code?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/438",
-          "author": null,
-          "description": "#​438 — November 25, 2022\n\n\nUnsub  |  Web Version\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \n▶  Fuzz Testing Made Easy — At GopherCon 2022, former Go core team member Katie Hockman presented a neat, accessible intro to fuzz testing starting from theoreticals and moving into a live demo. A great overview of a new Go 1.18’s feature that wasn’t generics ;-) (24 minutes.)\nKatie Hockman \n\n\nIf you'd prefer to read rather than watch, there are some docs for that.\n\n\n\n\n\n  \n  \nAwesome Go: Over 2000 Categorized Go Resources — A perennially useful resource that continues to get very frequent updates.  This means it’s a fantastic place to contribute projects of your own too :-)\nAwesome Go \n\n\n  \n  \nArgo CD as a Managed Service, from the Creators of Argo — With its agent-based architecture, the platfo…",
-          "link": "https://golangweekly.com/issues/438",
-          "publishedOn": "2022-11-25T00:00:00.000Z",
-          "wordCount": 762,
-          "title": "Building a code search index in Go",
           "imageUrl": null
         }
       ]

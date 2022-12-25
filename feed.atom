@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-24T01:19:08.004Z</updated>
+    <updated>2022-12-25T01:34:07.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -1478,82 +1478,6 @@ I don't speak Japanese, but how would you try to split the following string into
 '吾輩は猫である。名前はたぬき。'
 
 Common st…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a code search index in Go]]></title>
-        <id>https://golangweekly.com/issues/438</id>
-        <link href="https://golangweekly.com/issues/438"/>
-        <updated>2022-11-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​438 — November 25, 2022
-
-
-Unsub  |  Web Version
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-▶  Fuzz Testing Made Easy — At GopherCon 2022, former Go core team member Katie Hockman presented a neat, accessible intro to fuzz testing starting from theoreticals and moving into a live demo. A great overview of a new Go 1.18’s feature that wasn’t generics ;-) (24 minutes.)
-Katie Hockman 
-
-
-If you'd prefer to read rather than watch, there are some docs for that.
-
-
-
-
-
-  
-  
-Awesome Go: Over 2000 Categorized Go Resources — A perennially useful resource that continues to get very frequent updates.  This means it’s a fantastic place to contribute projects of your own too :-)
-Awesome Go 
-
-
-  
-  
-Argo CD as a Managed Service, from the Creators of Argo — With its agent-based architecture, the platfo…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elements can be visible even though their parent has set "visibility: hidden" (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/elements-can-be-visible-even-though-their-parent-has-set-visibility-hidden/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/elements-can-be-visible-even-though-their-parent-has-set-visibility-hidden/"/>
-        <updated>2022-11-24T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Responsive design can be a real challenge if you're coding something that needs more than just squishing and reordering some boxes. Scott O'Hara published an article describing how to build elements that act as buttons or spans depending on the viewport size.
-The trick: Scott uses CSS visibility to hide and show elements throughout the element tree conditionally.
-<!-- Hide the button on smaller viewports 
-     and only show the span -->
-<button type="button">
-  <span>Do something</spin>
-</button>
-
-Wait what? As it turns out, nested elements with different visibility properties (visible / hidden) can be visible even though their parent is hidden. 😲
-Here's the MDN section about this topic.
-Descendants of the element will be visible if they have visibility set to visible.
-That's pretty wild!
-[Interactive component: visit the article to see it...]
-I'm not sure yet, what to make of this discovery. Scott's responsive pattern seems incredibly smart but also super hacky. I guess I have to sleep over it...
-
-
-          
-          
-            Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>
