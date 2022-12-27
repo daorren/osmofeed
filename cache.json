@@ -1136,6 +1136,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "63a8b308387fff68fb190974",
+          "author": "Assaf Arkin",
+          "description": "This week our train leaves every 5 minutes, we capture some packets, zoom through meetings, and buy bubble wrap in bulk.",
+          "link": "https://labnotes.org/weekend-reading-2-3-levels-max/",
+          "publishedOn": "2022-12-26T21:38:19.000Z",
+          "wordCount": 1648,
+          "title": "Weekend Reading — 👋 2-3 levels max",
+          "imageUrl": "https://labnotes.org/content/images/2022/12/21106765fd22f52e06879bddb9fa053ad4140e3560079fea468bdd23862f5706-1.jpeg"
+        },
+        {
           "id": "6396477892a0bb4700d50e0c",
           "author": "Assaf Arkin",
           "description": "This week we discover the legendary software entrepreneur J.Mastodon, punch holes in cards, choose a new timezone, and worry about dark chocolate.",
@@ -1241,26 +1251,6 @@
           "wordCount": 2022,
           "title": "Web Weekly #88 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-87/",
-          "author": null,
-          "description": "Guten Tag!\n\nDo you know that JavaScript provides functionality to split strings into words and sentences? Or that the CSS property visibility can be reverted for nested elements? Or how modals, popovers and dialogs differ?\nAll the answers and much more are included in this week's Web Weekly. 🫣\nWhat happens when you have a container set to visibility: hidden and one of its descendants has defined visibility: visible? I mean, a visible element nested inside a hidden one shouldn't be visible, or?\nWell... logic doesn't apply to visibility.\nFrom the MDN docs visibility:\nDescendants of the element will be visible if they have visibility set to visible.\n\n      \nWhat? 🤯\nThe same goes for pointer-events. Elements inside a container with defined pointer-events: none can overwrite the declaration a…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-87/",
-          "publishedOn": "2022-11-26T23:00:00.000Z",
-          "wordCount": 1885,
-          "title": "Web Weekly #87 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/how-to-split-javascript-strings-with-intl-segmenter/",
-          "author": null,
-          "description": "I've been reading Axel Rauschmayer's post on the new regular expression flag /v, which explains a way to split emoji strings into graphemes using Intl.Segmenter.\nI haven't used this Intl object before. Let's find out what it's about!\nConsider you want to split user input into sentences. It looks like a quick split() task... But there's a lot of nuance in this problem.\nHere's a naive approach:\n'Hello! How are you?'.split(/[.!?]/);\n// ['Hello', ' How are you', '']\n\nUsing split(), you'll lose the defined separators and include all these spaces everywhere. And because it's relying on hardcoded delimiters it's not language-sensitive.\nI don't speak Japanese, but how would you try to split the following string into words or sentences?\n// I am a cat. My name is Tanuki.\n'吾輩は猫である。名前はたぬき。'\n\nCommon st…",
-          "link": "https://www.stefanjudis.com/today-i-learned/how-to-split-javascript-strings-with-intl-segmenter/",
-          "publishedOn": "2022-11-26T23:00:00.000Z",
-          "wordCount": 2071,
-          "title": "How to split JavaScript strings into sentences, words or graphemes with \"Intl.Segmenter\" (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20split%20JavaScript%20strings%20into%20sentences%252C%20words%20or%20graphemes%20with%20%22Intl.Segmenter%22/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },

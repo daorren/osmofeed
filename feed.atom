@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-26T01:25:06.775Z</updated>
+    <updated>2022-12-27T01:23:39.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 👋 2-3 levels max]]></title>
+        <id>63a8b308387fff68fb190974</id>
+        <link href="https://labnotes.org/weekend-reading-2-3-levels-max/"/>
+        <updated>2022-12-26T21:38:19.000Z</updated>
+        <summary type="html"><![CDATA[This week our train leaves every 5 minutes, we capture some packets, zoom through meetings, and buy bubble wrap in bulk.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn to Code RPG Version 1.5 is Now Playable with Hours of New Gameplay]]></title>
         <id>https://www.freecodecamp.org/news/learn-to-code-rpg-1-5-update/</id>
@@ -1437,49 +1447,6 @@ The post The Brain Uses Calculus to Control Fast Movements first appeared on Qua
         <summary type="html"><![CDATA[This article is a follow up to a tweet I made on how I deal with my poor ability to remember implementation (code). It may seem funny to you, but I do actually tend to forget what I write shortly after writing it.]]></summary>
         <author>
             <name>Ryan Michael Kay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #87 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-87/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-87/"/>
-        <updated>2022-11-26T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag!
-
-Do you know that JavaScript provides functionality to split strings into words and sentences? Or that the CSS property visibility can be reverted for nested elements? Or how modals, popovers and dialogs differ?
-All the answers and much more are included in this week's Web Weekly. 🫣
-What happens when you have a container set to visibility: hidden and one of its descendants has defined visibility: visible? I mean, a visible element nested inside a hidden one shouldn't be visible, or?
-Well... logic doesn't apply to visibility.
-From the MDN docs visibility:
-Descendants of the element will be visible if they have visibility set to visible.
-
-      
-What? 🤯
-The same goes for pointer-events. Elements inside a container with defined pointer-events: none can overwrite the declaration a…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to split JavaScript strings into sentences, words or graphemes with "Intl.Segmenter" (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/how-to-split-javascript-strings-with-intl-segmenter/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/how-to-split-javascript-strings-with-intl-segmenter/"/>
-        <updated>2022-11-26T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I've been reading Axel Rauschmayer's post on the new regular expression flag /v, which explains a way to split emoji strings into graphemes using Intl.Segmenter.
-I haven't used this Intl object before. Let's find out what it's about!
-Consider you want to split user input into sentences. It looks like a quick split() task... But there's a lot of nuance in this problem.
-Here's a naive approach:
-'Hello! How are you?'.split(/[.!?]/);
-// ['Hello', ' How are you', '']
-
-Using split(), you'll lose the defined separators and include all these spaces everywhere. And because it's relying on hardcoded delimiters it's not language-sensitive.
-I don't speak Japanese, but how would you try to split the following string into words or sentences?
-// I am a cat. My name is Tanuki.
-'吾輩は猫である。名前はたぬき。'
-
-Common st…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
