@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T01:23:39.050Z</updated>
+    <updated>2022-12-28T01:24:21.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -1437,16 +1437,6 @@ The post The Brain Uses Calculus to Control Fast Movements first appeared on Qua
         <summary type="html"><![CDATA[An object is one of the most commonly used data types in programming. An object is a collection of related data stored as key-value pairs. For example: let userDetails = {   name: "John Doe",   username: "jonnydoe",   age: 14, } When working with objects, you]]></summary>
         <author>
             <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clear Code – How to Write Code That Is Easy to Read]]></title>
-        <id>https://www.freecodecamp.org/news/clear-code-how-to-write-code-that-is-easy-to-read/</id>
-        <link href="https://www.freecodecamp.org/news/clear-code-how-to-write-code-that-is-easy-to-read/"/>
-        <updated>2022-11-28T12:26:28.000Z</updated>
-        <summary type="html"><![CDATA[This article is a follow up to a tweet I made on how I deal with my poor ability to remember implementation (code). It may seem funny to you, but I do actually tend to forget what I write shortly after writing it.]]></summary>
-        <author>
-            <name>Ryan Michael Kay</name>
         </author>
     </entry>
 </feed>
