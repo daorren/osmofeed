@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-28T01:24:21.192Z</updated>
+    <updated>2022-12-29T01:26:22.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -1366,77 +1366,6 @@ The post Physicists Create a Wormhole Using a Quantum Computer first appeared on
 The post Mathematical Trio Advances Centuries-Old Number Theory Problem first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Erica Klarreich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Threads in Java? How to Create a Thread with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/what-are-threads-in-java-how-to-create-one/</id>
-        <link href="https://www.freecodecamp.org/news/what-are-threads-in-java-how-to-create-one/"/>
-        <updated>2022-11-28T22:23:36.000Z</updated>
-        <summary type="html"><![CDATA[Threads in Java are pre-defined classes that are available in the java.package when you write your programs. Generally, every program has one thread which is provided from the java.package.  All of these threads use the same memory, but they are independent. This means that any exception in a thread]]></summary>
-        <author>
-            <name>Bikash Daga (Jain)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy Your React App Using Cloudflare Pages, Vercel, and Netlify]]></title>
-        <id>https://www.freecodecamp.org/news/deploy-react-app/</id>
-        <link href="https://www.freecodecamp.org/news/deploy-react-app/"/>
-        <updated>2022-11-28T21:30:24.000Z</updated>
-        <summary type="html"><![CDATA[You have been working on a React application and now you're ready to actually push it to the web. What services do you use to publish your site and make it live to the world?  Whether you're ready to release your website as a finished product or you are]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Enter "Safe Boot" On Windows Operating Systems]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-enter-safe-boot-on-windows-operating-systems/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-enter-safe-boot-on-windows-operating-systems/"/>
-        <updated>2022-11-28T18:55:40.000Z</updated>
-        <summary type="html"><![CDATA[If you're using the Windows operating system, you might have heard the phrase "Rebooting to the safe boot" or something like that. In this tutorial, I'll explain what that means and how you can do it on your Windows machine. What is Safe Boot or Safe Mode for Windows? Safe]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — 👋 "Say it's an OKR meeting"]]></title>
-        <id>637ad3224ac0a02f93c58776</id>
-        <link href="https://labnotes.org/weekend-reading-say-its-an-okr-meeting/"/>
-        <updated>2022-11-28T17:20:21.000Z</updated>
-        <summary type="html"><![CDATA[This week we text from a plane, review a large PR (or not), use Twitter even less (or is it fewer?), and decode 15th-century PR spin.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Brain Uses Calculus to Control Fast Movements]]></title>
-        <id>https://www.quantamagazine.org/?p=120901</id>
-        <link href="https://www.quantamagazine.org/the-brain-uses-calculus-to-control-fast-movements-20221128/"/>
-        <updated>2022-11-28T15:48:32.000Z</updated>
-        <summary type="html"><![CDATA[Researchers discover that to sharpen its control over precision maneuvers, the brain uses comparisons between control signals — not the signals themselves.            
-The post The Brain Uses Calculus to Control Fast Movements first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Kevin Hartnett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Merge Arrays in JavaScript – Array Concatenation in JS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-merge-arrays-in-javascript-array-concatenation-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-merge-arrays-in-javascript-array-concatenation-in-js/"/>
-        <updated>2022-11-28T15:37:11.000Z</updated>
-        <summary type="html"><![CDATA[There are multiple ways to merge arrays in JavaScript. You can use long or short approaches. I'll be showing 3 of them in this article. When working with arrays in JavaScript, there are cases where you want to combine multiple arrays together. For example, arrays with related data coming from]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Check if an Object is Empty in JavaScript – JS Java isEmpty Equivalent]]></title>
-        <id>https://www.freecodecamp.org/news/check-if-an-object-is-empty-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/check-if-an-object-is-empty-in-javascript/"/>
-        <updated>2022-11-28T15:29:23.000Z</updated>
-        <summary type="html"><![CDATA[An object is one of the most commonly used data types in programming. An object is a collection of related data stored as key-value pairs. For example: let userDetails = {   name: "John Doe",   username: "jonnydoe",   age: 14, } When working with objects, you]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
         </author>
     </entry>
 </feed>
