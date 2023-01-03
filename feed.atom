@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-02T01:25:20.687Z</updated>
+    <updated>2023-01-03T01:24:43.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Laravel Valet Performance – How to Prevent 504 Errors and Speed Up Valet]]></title>
+        <id>https://www.freecodecamp.org/news/speed-up-performance-in-laravel-valet/</id>
+        <link href="https://www.freecodecamp.org/news/speed-up-performance-in-laravel-valet/"/>
+        <updated>2023-01-02T23:12:30.000Z</updated>
+        <summary type="html"><![CDATA[Last week, I decided to install Laravel Valet on my Mac. But after the installation, the performance of the microservice architecture application I had it on was quite slow.  I wondered if it was an M1 issue or because I had yet to shut the machine down. I shut]]></summary>
+        <author>
+            <name>Sule-Balogun Olanrewaju Ganiu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn React in 2023]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-learn-react-in-2023/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-learn-react-in-2023/"/>
+        <updated>2023-01-02T22:59:24.000Z</updated>
+        <summary type="html"><![CDATA[As the most popular JavaScript library for building frontend applications, there has never been a better year to learn React than 2023.  In this guide, I'm going to show you the most valuable resources and tips that I believe will help you learn React faster. You'll also save a]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS by Building the Figma Logo in Pure CSS]]></title>
+        <id>https://www.freecodecamp.org/news/learn-css-by-creating-the-figma-logo-in-pure-css/</id>
+        <link href="https://www.freecodecamp.org/news/learn-css-by-creating-the-figma-logo-in-pure-css/"/>
+        <updated>2023-01-02T22:39:24.000Z</updated>
+        <summary type="html"><![CDATA[One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS concepts by creating the Figma logo:  * flex-wrap  * multiple classes  * border-radius What We Will Be Creating We will create]]></summary>
+        <author>
+            <name>Jennifer Bland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Protect Your Privacy Online – Five Useful Tools]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-protect-your-privacy-online/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-protect-your-privacy-online/"/>
+        <updated>2023-01-02T22:33:08.000Z</updated>
+        <summary type="html"><![CDATA[In today’s growing cyber threat landscape, it is important to learn how to protect yourself. In this article, I'll share my five favorite tools you can use to protect your privacy online. Why Online Privacy is Important Have you ever wondered how valuable your data is? Every app, website, and]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add a Custom Network to Metamask with JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-add-custom-network-to-metamask/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-custom-network-to-metamask/"/>
+        <updated>2023-01-02T22:17:22.000Z</updated>
+        <summary type="html"><![CDATA[As a developer, you can enhance the user experience of your decentralized applications (DApps) by allowing users to easily add your network to their Metamask wallet with just one click.  This simplifies the process of onboarding users to your application, since they don't have to manually add the network]]></summary>
+        <author>
+            <name>Joshua Omobola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[File Permissions in Linux – How to Use the chmod Command]]></title>
+        <id>https://www.freecodecamp.org/news/file-permissions-in-linux-chmod-command-explained/</id>
+        <link href="https://www.freecodecamp.org/news/file-permissions-in-linux-chmod-command-explained/"/>
+        <updated>2023-01-02T22:17:02.000Z</updated>
+        <summary type="html"><![CDATA[Just as with other operating systems, multiple users can create user accounts and share the same machine running Linux OS.  But whenever different users share a system, problems of privacy can easily arise. The first user may not wish the next user to view, edit, or delete their files,]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 👋 Happy new year!]]></title>
+        <id>63b1d35fc2cc9537c970a3cd</id>
+        <link href="https://labnotes.org/weekend-reading-happy-2023/"/>
+        <updated>2023-01-02T20:52:20.000Z</updated>
+        <summary type="html"><![CDATA[I’m ready for 2023, are you? This week we got fresh UI components, rendering HTML with React, GPT prompt reverse engineering, and ultimate LEGO.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to disable Google sign-in prompts on other sites (#tilPost)]]></title>
         <id>https://www.stefanjudis.com/today-i-learned/how-to-disable-google-sign-in-prompts/</id>

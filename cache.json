@@ -12,6 +12,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/speed-up-performance-in-laravel-valet/",
+          "author": "Sule-Balogun Olanrewaju Ganiu",
+          "description": "Last week, I decided to install Laravel Valet on my Mac. But after the installation, the performance of the microservice architecture application I had it on was quite slow.  I wondered if it was an M1 issue or because I had yet to shut the machine down. I shut",
+          "link": "https://www.freecodecamp.org/news/speed-up-performance-in-laravel-valet/",
+          "publishedOn": "2023-01-02T23:12:30.000Z",
+          "wordCount": 1638,
+          "title": "Laravel Valet Performance – How to Prevent 504 Errors and Speed Up Valet",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-jonathan-petersson-399636.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-learn-react-in-2023/",
+          "author": "Reed Barger",
+          "description": "As the most popular JavaScript library for building frontend applications, there has never been a better year to learn React than 2023.  In this guide, I'm going to show you the most valuable resources and tips that I believe will help you learn React faster. You'll also save a",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-react-in-2023/",
+          "publishedOn": "2023-01-02T22:59:24.000Z",
+          "wordCount": 2431,
+          "title": "How to Learn React in 2023",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/learn-react-2023.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-css-by-creating-the-figma-logo-in-pure-css/",
+          "author": "Jennifer Bland",
+          "description": "One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS concepts by creating the Figma logo:  * flex-wrap  * multiple classes  * border-radius What We Will Be Creating We will create",
+          "link": "https://www.freecodecamp.org/news/learn-css-by-creating-the-figma-logo-in-pure-css/",
+          "publishedOn": "2023-01-02T22:39:24.000Z",
+          "wordCount": 1328,
+          "title": "Learn CSS by Building the Figma Logo in Pure CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Learn-CSS-Create-The-Figma-Logo-3.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-protect-your-privacy-online/",
+          "author": "Manish Shivanandhan",
+          "description": "In today’s growing cyber threat landscape, it is important to learn how to protect yourself. In this article, I'll share my five favorite tools you can use to protect your privacy online. Why Online Privacy is Important Have you ever wondered how valuable your data is? Every app, website, and",
+          "link": "https://www.freecodecamp.org/news/how-to-protect-your-privacy-online/",
+          "publishedOn": "2023-01-02T22:33:08.000Z",
+          "wordCount": 2042,
+          "title": "How to Protect Your Privacy Online – Five Useful Tools",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/security-tools.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-add-custom-network-to-metamask/",
+          "author": "Joshua Omobola",
+          "description": "As a developer, you can enhance the user experience of your decentralized applications (DApps) by allowing users to easily add your network to their Metamask wallet with just one click.  This simplifies the process of onboarding users to your application, since they don't have to manually add the network",
+          "link": "https://www.freecodecamp.org/news/how-to-add-custom-network-to-metamask/",
+          "publishedOn": "2023-01-02T22:17:22.000Z",
+          "wordCount": 1188,
+          "title": "How to Add a Custom Network to Metamask with JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Frame-1--3--1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/file-permissions-in-linux-chmod-command-explained/",
+          "author": "Arunachalam B",
+          "description": "Just as with other operating systems, multiple users can create user accounts and share the same machine running Linux OS.  But whenever different users share a system, problems of privacy can easily arise. The first user may not wish the next user to view, edit, or delete their files,",
+          "link": "https://www.freecodecamp.org/news/file-permissions-in-linux-chmod-command-explained/",
+          "publishedOn": "2023-01-02T22:17:02.000Z",
+          "wordCount": 2637,
+          "title": "File Permissions in Linux – How to Use the chmod Command",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Banner---File-permission-blog-1.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/learn-to-code-rpg-1-5-update/",
           "author": "Lynn Zheng",
           "description": "Hello from the Learn to Code RPG dev team! We are Lynn, KayLa, and Nielda. And we've been hard at work building out new adventures for our characters. I'm excited to announce the launch of Learn to Code RPG v1.5, a year after the launch of Learn to Code RPG",
@@ -815,6 +875,16 @@
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
+        {
+          "id": "63b1d35fc2cc9537c970a3cd",
+          "author": "Assaf Arkin",
+          "description": "I’m ready for 2023, are you? This week we got fresh UI components, rendering HTML with React, GPT prompt reverse engineering, and ultimate LEGO.",
+          "link": "https://labnotes.org/weekend-reading-happy-2023/",
+          "publishedOn": "2023-01-02T20:52:20.000Z",
+          "wordCount": 1543,
+          "title": "Weekend Reading — 👋 Happy new year!",
+          "imageUrl": "https://labnotes.org/content/images/2023/01/6c78fa96f403bd84558109f0278cc344d8159fe26f1846485afcf1e63783f8b8-1.jpg"
+        },
         {
           "id": "63a8b308387fff68fb190974",
           "author": "Assaf Arkin",
