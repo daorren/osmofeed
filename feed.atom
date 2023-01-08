@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-07T01:28:05.916Z</updated>
+    <updated>2023-01-08T01:38:39.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -1267,95 +1267,6 @@ On another note: last week, I enabled double opt-in for Web W…]]></summary>
         <summary type="html"><![CDATA[If you use the internet, you've likely used a dropdown menu before. They primarily serve two purposes: collecting user input in web forms, and implementing action/navigation menus in web applications. Dropdowns are one of the best ways to offer numerous options for a similar collection of elements without needing to]]></summary>
         <author>
             <name>Victor Eke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The first Go 1.20 release candidate]]></title>
-        <id>https://golangweekly.com/issues/440</id>
-        <link href="https://golangweekly.com/issues/440"/>
-        <updated>2022-12-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​440 — December 9, 2022
-
-
-Unsub  |  Web Version
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-A Look Back at 2022 for Go Gamedev with Ebitengine™ — Formerly known as Ebiten, newly trademarked Ebitengine™ is a popular 2D game engine for Go and one of our favorite Go projects generally. It’s had a good year with improved Windows support, full games published and released on the Nintendo Switch, and productive game jams.
-Ebitengine Team 
-
-
-  
-  
-New in Go 1.20: Wrapping Multiple Errors — The final release of Go 1.20 (draft release notes) is still a while away, but comes with a change that can improve error wrapping, as demonstrated in this post.
-Lukáš Zapletal 
-
-
-💡 If you want to play with Go 1.20, the first release candidate came out yesterday.
-
-
-
-
-
-  
-  
-Gophers - Opportunity is Knocking …]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Statement vs Expression – What's the Difference in Programming?]]></title>
-        <id>https://www.freecodecamp.org/news/statement-vs-expression-whats-the-difference-in-programming/</id>
-        <link href="https://www.freecodecamp.org/news/statement-vs-expression-whats-the-difference-in-programming/"/>
-        <updated>2022-12-08T23:44:58.000Z</updated>
-        <summary type="html"><![CDATA[Learning the syntax of a programming language is key if you want to use that language effectively. This is true for both new and experienced developers. And one of the most important things to pay attention to while learning a programming language is whether the code you're dealing with is]]></summary>
-        <author>
-            <name>Ogundiran Ayobami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Slicing – How to Slice an Array and What Does [::-1] Mean?]]></title>
-        <id>https://www.freecodecamp.org/news/python-slicing-how-to-slice-an-array/</id>
-        <link href="https://www.freecodecamp.org/news/python-slicing-how-to-slice-an-array/"/>
-        <updated>2022-12-08T19:13:33.000Z</updated>
-        <summary type="html"><![CDATA[Slicing an array is the concept of cutting out – or slicing out – a part of the array. How do you do this in Python? I'll show you how in this article. What is an Array? An array is a data structure that allows you to store multiple items]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Causes Alzheimer’s? Scientists Are Rethinking the Answer.]]></title>
-        <id>https://www.quantamagazine.org/?p=121241</id>
-        <link href="https://www.quantamagazine.org/what-causes-alzheimers-scientists-are-rethinking-the-answer-20221208/"/>
-        <updated>2022-12-08T16:33:19.000Z</updated>
-        <summary type="html"><![CDATA[After decades in the shadow of the reigning model for Alzheimer’s disease, alternative explanations are finally getting the attention they deserve.            
-The post What Causes Alzheimer’s? Scientists Are Rethinking the Answer. first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Yasemin Saplakoglu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Crack Hashes with Hashcat — a Practical Pentesting Guide]]></title>
-        <id>https://www.freecodecamp.org/news/hacking-with-hashcat-a-practical-guide/</id>
-        <link href="https://www.freecodecamp.org/news/hacking-with-hashcat-a-practical-guide/"/>
-        <updated>2022-12-08T15:55:26.000Z</updated>
-        <summary type="html"><![CDATA[Hashing is one of the pillars of cybersecurity. From securing passwords to sensitive data, there are a variety of use cases for hashing. Hashing is often confused with encryption. A simple difference is that hashed data is not reversible. Encrypted data can be reversed using a key. This is why]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
 </feed>
