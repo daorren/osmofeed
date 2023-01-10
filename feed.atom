@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-09T01:26:43.848Z</updated>
+    <updated>2023-01-10T01:37:26.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Better Web Developer in 2023]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-become-a-better-web-developer/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-become-a-better-web-developer/"/>
+        <updated>2023-01-09T23:05:20.000Z</updated>
+        <summary type="html"><![CDATA[Web development is a highly in-demand and popular skill these days. So if you’re at a crossroads in your life and thinking about becoming a web developer – or just want to further improve your skills – read on. To be a great web developer, you must learn many skills]]></summary>
+        <author>
+            <name>Shahan Chowdhury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review of CS50 – Harvard's Introduction to Computer Science Course]]></title>
+        <id>https://www.freecodecamp.org/news/cs50-course-review/</id>
+        <link href="https://www.freecodecamp.org/news/cs50-course-review/"/>
+        <updated>2023-01-09T22:20:27.000Z</updated>
+        <summary type="html"><![CDATA[Are you considering taking the CS50 [/news/harvard-cs50/] Introduction to Computer Science course, but wondering if it's the right fit for you?  As someone who doesn’t have a computer science degree and was looking to learn the fundamentals of the field, I was in the same boat. That's why I]]></summary>
+        <author>
+            <name>Phoebe Voong-Fadel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Setup React and Tailwind CSS with Vite in a Project]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/"/>
+        <updated>2023-01-09T18:49:56.000Z</updated>
+        <summary type="html"><![CDATA[Tailwind CSS is a popular CSS framework, and React is one of the most popular JavaScript libraries. And Tailwind CSS and React are a great combo to use if you're building a frontend project. In this article, you will learn how to setup your coding environment with Vite, install React]]></summary>
+        <author>
+            <name>Segun Ajibola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Synthetic Identity Theft and How to Protect Yourself]]></title>
+        <id>https://www.freecodecamp.org/news/synthetic-identity-theft/</id>
+        <link href="https://www.freecodecamp.org/news/synthetic-identity-theft/"/>
+        <updated>2023-01-09T18:42:56.000Z</updated>
+        <summary type="html"><![CDATA[In today’s digital age, cybercriminals have no shortage of methods to steal people's identities and sensitive data. One such method is synthetic identity theft, which is becoming one of the most dangerous and common forms.  In fact, according to a figures published by Federal Reserve Bank of Boston [https://www.bostonfed.org/news-and-events/news/2022/08/synthetic-identity-fraud-is-not-a-victimless-crime-costs-billions-damages-lives.aspx]]]></summary>
+        <author>
+            <name>Dmitry Dragilev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS by Building the React Logo in Pure CSS]]></title>
+        <id>https://www.freecodecamp.org/news/learn-css-create-the-react-logo/</id>
+        <link href="https://www.freecodecamp.org/news/learn-css-create-the-react-logo/"/>
+        <updated>2023-01-09T18:21:57.000Z</updated>
+        <summary type="html"><![CDATA[One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS concepts by creating the React logo:  * position: absolute  * vw (view width)  * transform: rotate()  * animation using keyframes]]></summary>
+        <author>
+            <name>Jennifer Bland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Email Verification in a Flask App]]></title>
+        <id>https://www.freecodecamp.org/news/setup-email-verification-in-flask-app/</id>
+        <link href="https://www.freecodecamp.org/news/setup-email-verification-in-flask-app/"/>
+        <updated>2023-01-09T17:56:18.000Z</updated>
+        <summary type="html"><![CDATA[Email verification is a crucial aspect of creating a new user account or signing up for a service. It helps confirm that the email address provided is valid and belongs to the intended user. In this article, we will explore the process of handling email verification in Flask. The topic]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Google Like a Pro]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-google-like-a-pro/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-google-like-a-pro/"/>
+        <updated>2023-01-09T15:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Are you tired of sifting through pages of irrelevant search results? Do you want to become more efficient at finding the information you need on the web? If so, this course is for you. We just published a video course on the freeCodeCamp.org YouTube channel that will teach you how]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Delete a File in Python – And Remove a Directory, Too]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-delete-a-file-in-python-and-remove-a-directory-too/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-delete-a-file-in-python-and-remove-a-directory-too/"/>
+        <updated>2023-01-09T15:24:57.000Z</updated>
+        <summary type="html"><![CDATA[Python offers many standard utility modules which enable several functions in the applications we build. In this article, we'll learn about the modules for deleting files and directories. One of the most popular modules exposed in Python is the os module. This is one of the standard utility modules. This]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iferror Function in Excel]]></title>
+        <id>https://www.freecodecamp.org/news/iferror-function-in-excel-example/</id>
+        <link href="https://www.freecodecamp.org/news/iferror-function-in-excel-example/"/>
+        <updated>2023-01-09T15:21:52.000Z</updated>
+        <summary type="html"><![CDATA[You can use the IFERROR function to catch errors in Excel. Using the function's parameters, you can return a custom value when specific errors occur.  In this article, you'll learn how to use the IFERROR function to evaluate and handle errors in Excel. You can use the IFERROR function]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Algorithm Closes Quantum Supremacy Window]]></title>
+        <id>https://www.quantamagazine.org/?p=121982</id>
+        <link href="https://www.quantamagazine.org/new-algorithm-closes-quantum-supremacy-window-20230109/"/>
+        <updated>2023-01-09T14:50:33.000Z</updated>
+        <summary type="html"><![CDATA[Random circuit sampling, a popular technique for showing the power of quantum computers, doesn’t scale up if errors go unchecked.             
+The post New Algorithm Closes Quantum Supremacy Window first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Ben Brubaker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — 🧄 Garlic expressions]]></title>
         <id>63b344b0c2cc9537c970afee</id>
@@ -1220,23 +1321,6 @@ The post She Turns Fluids Into ‘Black Holes’ and ‘Inflating Universes’ f
         <summary type="html"><![CDATA[This week we erase some data, swipe the card, pit algorithms against each other, and show up early to our flight.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #88 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-88/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-88/"/>
-        <updated>2022-12-10T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag!
-
-Do you know how to create fancy effects with CSS masking? Or what resolved CSS values are? Or that you can await objects with a then property?
-All the answers and much more are included in this week's Web Weekly. 🫣
-Correction time: last week, I highlighted that it's prime time for the translate, rotate and scale properties because they're cross-browser supported.
-And while this is true for Safari, Chrome, Edge and Firefox, I should have noticed something! Samsung Internet uses Chromium but is usually behind the main branch. And it doesn't yet support these properties. 😢
-caniuse.com states a global market share of 1.5%, and while that's not huge, it must be considered. A big thanks goes to Fynn who pointed that out.
-On another note: last week, I enabled double opt-in for Web W…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
