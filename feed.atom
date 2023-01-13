@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T01:35:44.685Z</updated>
+    <updated>2023-01-13T01:37:30.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is SQL? Database Definition for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-sql-database-definition-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-sql-database-definition-for-beginners/"/>
+        <updated>2023-01-12T18:23:07.000Z</updated>
+        <summary type="html"><![CDATA[Data is a powerful tool that drives everything you see and interact with on the internet. It facilitates research and powers today's technology. It is the driving force behind today's artificial intelligence and robotics. And so much more. Previously, these data were stored on paper, in physical files within cabinets.]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Grid-to-List Layout Toggle using Flexbox and JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/flexbox-grid-to-list-toggle-using-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/flexbox-grid-to-list-toggle-using-javascript/"/>
+        <updated>2023-01-12T17:57:06.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I will show you how to create a toggle to display items in a grid from a list. We'll do this using basic JavaScript skills with no external code or libraries. We will be using Flexbox to help us accomplish this. What We Will Be Creating Here's]]></summary>
+        <author>
+            <name>Jennifer Bland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software System Design for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/software-system-design-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/software-system-design-for-beginners/"/>
+        <updated>2023-01-12T15:47:53.000Z</updated>
+        <summary type="html"><![CDATA[Building large-scale distributed systems like Google, Facebook, Amazon, and Twitter requires an in-depth understanding of computer science principles. This allows systems to handle millions of users concurrently despite hardware failures. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to design software systems. This]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Probability and Number Theory Collide — in a Moment]]></title>
+        <id>https://www.quantamagazine.org/?p=122102</id>
+        <link href="https://www.quantamagazine.org/in-a-moment-mathematicians-merge-probability-and-number-theory-20230112/"/>
+        <updated>2023-01-12T15:37:40.000Z</updated>
+        <summary type="html"><![CDATA[Mathematicians are taking ideas developed to study random numbers and applying them to a broad range of categories.            
+The post Probability and Number Theory Collide — in a Moment first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Leila Sloman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matplotlib Figure Size – How to Change Plot Size in Python with plt.figsize()]]></title>
+        <id>https://www.freecodecamp.org/news/matplotlib-figure-size-change-plot-size-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/matplotlib-figure-size-change-plot-size-in-python/"/>
+        <updated>2023-01-12T15:29:17.000Z</updated>
+        <summary type="html"><![CDATA[When creating plots using Matplotlib, you get a default figure size of 6.4 for the width and 4.8 for the height (in inches). In this article, you'll learn how to change the plot size using the following:   * The figsize() attribute.   * The set_figwidth() method.]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[var, let, and const in JavaScript – the Differences Between These Keywords Explained]]></title>
         <id>https://www.freecodecamp.org/news/differences-between-var-let-const-javascript/</id>
@@ -1381,37 +1432,6 @@ Here's a share button you can try (don't worry, it won't post anything]]></summa
 The post How the Brain Distinguishes Memories From Perceptions first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Yasemin Saplakoglu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Shells for Beginners – Bash, Zsh, and Fish Explained]]></title>
-        <id>https://www.freecodecamp.org/news/linux-shells-explained/</id>
-        <link href="https://www.freecodecamp.org/news/linux-shells-explained/"/>
-        <updated>2022-12-13T21:55:05.000Z</updated>
-        <summary type="html"><![CDATA[When you open up your terminal, chances are that it uses Bash as its UNIX shell environment. But other "shell" environments exist. There are other environments such as the C Shell, Korn Shell, Z Shell, and even the Fish Shell. All of these different shell environments have their own pros]]></summary>
-        <author>
-            <name>Anthony Behery</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Calculate Percentage Differences Between Two Numbers in Excel - Cell Percentage Change Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-calculate-percentage-differences-between-two-numbers-in-excel-cell-percentage-change-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-calculate-percentage-differences-between-two-numbers-in-excel-cell-percentage-change-tutorial/"/>
-        <updated>2022-12-13T21:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Spreadsheets are powerful and awesome. 💪  In this tutorial I will show you four ways to find the percentage difference between two numbers in Excel. I'll also show you how to use custom functions in Google Sheets. 👍 The four techniques (and one bonus) we'll use are:  1.]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does It Mean to Align AI With Human Values?]]></title>
-        <id>https://www.quantamagazine.org/?p=121378</id>
-        <link href="https://www.quantamagazine.org/what-does-it-mean-to-align-ai-with-human-values-20221213/"/>
-        <updated>2022-12-13T14:39:58.000Z</updated>
-        <summary type="html"><![CDATA[Making sure our machines understand the intent behind our instructions is an important problem that requires understanding intelligence itself.            
-The post What Does It Mean to Align AI With Human Values? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Melanie Mitchell</name>
         </author>
     </entry>
 </feed>
