@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-14T01:23:18.907Z</updated>
+    <updated>2023-01-15T01:39:43.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -1339,123 +1339,6 @@ And that's it!
         <summary type="html"><![CDATA[ROM stands for Rough Order of Magnitude. It is a project management guideline to determine the estimated range of costs for a project. This article will explain:  1. Who should use a ROM  2. When to use a ROM  3. How to calculate a ROM  4.]]></summary>
         <author>
             <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The best of the Go newsletter in 2022]]></title>
-        <id>https://golangweekly.com/issues/441</id>
-        <link href="https://golangweekly.com/issues/441"/>
-        <updated>2022-12-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​441 — December 16, 2022
-
-
-Unsub  |  Web Version
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-The Best of the Go Newsletter in 2022
-This is the final issue of the year (we're back on January 6, 2023) so we're revisiting the most popular links (and releases) from this year. There'll be a few useful resources that escaped your attention or that you've since forgotten about so enjoy! 😁
-Have a fantastic holiday season.
-____
-Peter Cooper, your editor
-
-
-
-
-
-  
-  
-1: Effective Error Handling in Go — The most popular item of the year came in the very first issue of 2022 and presaged what would be a common concern this year: error handling. Brandon covered the basics, as well as some simple strategies you can follow to ensure your programs are more robust and easier to debug.
-Brandon Schurman 
-
-
-  
-  
-…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS display:none and visibility:hidden – What's the Difference?]]></title>
-        <id>https://www.freecodecamp.org/news/css-display-none-and-visibility-hidden-the-difference/</id>
-        <link href="https://www.freecodecamp.org/news/css-display-none-and-visibility-hidden-the-difference/"/>
-        <updated>2022-12-15T23:13:53.000Z</updated>
-        <summary type="html"><![CDATA[display:none and visibility:hidden are two style declarations you can use to hide elements on the screen with CSS. But what are the differences between them? When building applications, there are times that you want to hide elements visually (not deleting them from the DOM, just the screen). You can do]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Select the Right EC2 Instance – A Guide to EC2 Instances and Their Capabilities]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-select-the-right-ec2-instance/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-select-the-right-ec2-instance/"/>
-        <updated>2022-12-15T19:08:27.000Z</updated>
-        <summary type="html"><![CDATA[EC2 (Elastic Compute Cloud) is the most widely-used compute service from AWS. It's also one of the oldest services launched by AWS, as it was started in 2006.  In this article, I will go through some things you should consider when selecting an EC2 instance.  You can think]]></summary>
-        <author>
-            <name>Daniel Adetunji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Get Request – How to Make an HTTP Request in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-get-request-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-get-request-tutorial/"/>
-        <updated>2022-12-15T19:05:24.000Z</updated>
-        <summary type="html"><![CDATA[When building applications, you will have to interact between the backend and frontend to get, store, and manipulate data. This interaction between your frontend application and the backend server is possible through HTTP requests. There are five popular HTTP methods you can use to make requests and interact with your]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI for Two-Player Turn-based Games]]></title>
-        <id>https://www.freecodecamp.org/news/build-an-ai-for-two-player-turn-based-games/</id>
-        <link href="https://www.freecodecamp.org/news/build-an-ai-for-two-player-turn-based-games/"/>
-        <updated>2022-12-15T18:24:15.000Z</updated>
-        <summary type="html"><![CDATA[Two-player turn-based games are games where two players play against each other, turn after turn, until one of them wins. Examples of these types of games are Tic-Tac-Toe, Backgammon, Mancala, Chess, and Connect 4. In this tutorial we will learn about the Minimax algorithm. It is a backtracking algorithm that]]></summary>
-        <author>
-            <name>Houssein Badra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Solve Math Equations in the Linux Terminal]]></title>
-        <id>https://www.freecodecamp.org/news/solve-your-math-equation-on-terminal/</id>
-        <link href="https://www.freecodecamp.org/news/solve-your-math-equation-on-terminal/"/>
-        <updated>2022-12-15T17:40:54.000Z</updated>
-        <summary type="html"><![CDATA[Can you solve the below math expression on your own without using any device? Take as much time as you need – but no tools allowed: ( ( 11 + 97 ) + ( 2 * 63 ) - ( 7 / 93 ) * ( 8 - 25 )]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the Difference Between an Independent Variable and a Dependent Variable?]]></title>
-        <id>https://www.freecodecamp.org/news/independent-variable-vs-dependent-variable/</id>
-        <link href="https://www.freecodecamp.org/news/independent-variable-vs-dependent-variable/"/>
-        <updated>2022-12-15T17:32:36.000Z</updated>
-        <summary type="html"><![CDATA[The meaning of the word "variable" depends on the field where it's being used. In programming, a variable is a particular piece of data that holds a value. Depending on the configuration, that value can change or remain fixed. For instance, in JavaScript, you can implement a variable to change]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Nasty’ Geometry Breaks Decades-Old Tiling Conjecture]]></title>
-        <id>https://www.quantamagazine.org/?p=121467</id>
-        <link href="https://www.quantamagazine.org/nasty-geometry-breaks-decades-old-tiling-conjecture-20221215/"/>
-        <updated>2022-12-15T16:32:23.000Z</updated>
-        <summary type="html"><![CDATA[Mathematicians predicted that if they imposed enough restrictions on how a shape might tile space, they could force a periodic pattern to emerge. But they were wrong.            
-The post ‘Nasty’ Geometry Breaks Decades-Old Tiling Conjecture first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Jordana Cepelewicz</name>
         </author>
     </entry>
 </feed>

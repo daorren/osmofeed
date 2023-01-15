@@ -950,66 +950,6 @@
           "wordCount": 1151,
           "title": "What is a ROM? ROM Price and Cost Estimate",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/12.15.22-What-is-a-ROM.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/css-display-none-and-visibility-hidden-the-difference/",
-          "author": "Dillion Megida",
-          "description": "display:none and visibility:hidden are two style declarations you can use to hide elements on the screen with CSS. But what are the differences between them? When building applications, there are times that you want to hide elements visually (not deleting them from the DOM, just the screen). You can do",
-          "link": "https://www.freecodecamp.org/news/css-display-none-and-visibility-hidden-the-difference/",
-          "publishedOn": "2022-12-15T23:13:53.000Z",
-          "wordCount": 1707,
-          "title": "CSS display:none and visibility:hidden – What's the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/11.-display-visibility-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-select-the-right-ec2-instance/",
-          "author": "Daniel Adetunji",
-          "description": "EC2 (Elastic Compute Cloud) is the most widely-used compute service from AWS. It's also one of the oldest services launched by AWS, as it was started in 2006.  In this article, I will go through some things you should consider when selecting an EC2 instance.  You can think",
-          "link": "https://www.freecodecamp.org/news/how-to-select-the-right-ec2-instance/",
-          "publishedOn": "2022-12-15T19:08:27.000Z",
-          "wordCount": 2720,
-          "title": "How to Select the Right EC2 Instance – A Guide to EC2 Instances and Their Capabilities",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-photo.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-get-request-tutorial/",
-          "author": "Joel Olawanle",
-          "description": "When building applications, you will have to interact between the backend and frontend to get, store, and manipulate data. This interaction between your frontend application and the backend server is possible through HTTP requests. There are five popular HTTP methods you can use to make requests and interact with your",
-          "link": "https://www.freecodecamp.org/news/javascript-get-request-tutorial/",
-          "publishedOn": "2022-12-15T19:05:24.000Z",
-          "wordCount": 1593,
-          "title": "JavaScript Get Request – How to Make an HTTP Request in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-template--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-an-ai-for-two-player-turn-based-games/",
-          "author": "Houssein Badra",
-          "description": "Two-player turn-based games are games where two players play against each other, turn after turn, until one of them wins. Examples of these types of games are Tic-Tac-Toe, Backgammon, Mancala, Chess, and Connect 4. In this tutorial we will learn about the Minimax algorithm. It is a backtracking algorithm that",
-          "link": "https://www.freecodecamp.org/news/build-an-ai-for-two-player-turn-based-games/",
-          "publishedOn": "2022-12-15T18:24:15.000Z",
-          "wordCount": 2369,
-          "title": "How to Build an AI for Two-Player Turn-based Games",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/2825132-637490944552534550-16x9-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/solve-your-math-equation-on-terminal/",
-          "author": "Arunachalam B",
-          "description": "Can you solve the below math expression on your own without using any device? Take as much time as you need – but no tools allowed: ( ( 11 + 97 ) + ( 2 * 63 ) - ( 7 / 93 ) * ( 8 - 25 )",
-          "link": "https://www.freecodecamp.org/news/solve-your-math-equation-on-terminal/",
-          "publishedOn": "2022-12-15T17:40:54.000Z",
-          "wordCount": 2273,
-          "title": "How to Solve Math Equations in the Linux Terminal",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/FreeCodeCamp---Evaluate-expression-on-Terminal.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/independent-variable-vs-dependent-variable/",
-          "author": "Kolade Chris",
-          "description": "The meaning of the word \"variable\" depends on the field where it's being used. In programming, a variable is a particular piece of data that holds a value. Depending on the configuration, that value can change or remain fixed. For instance, in JavaScript, you can implement a variable to change",
-          "link": "https://www.freecodecamp.org/news/independent-variable-vs-dependent-variable/",
-          "publishedOn": "2022-12-15T17:32:36.000Z",
-          "wordCount": 1461,
-          "title": "What is the Difference Between an Independent Variable and a Dependent Variable?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/snowy-4689675_1280.jpg"
         }
       ]
     },
@@ -1157,16 +1097,6 @@
           "wordCount": 9093,
           "title": "She Finds Keys to Ecology in Cells That Steal From Others",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/12/HollyMoeller_byMonicAlmeida-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=121467",
-          "author": "Jordana Cepelewicz",
-          "description": "Mathematicians predicted that if they imposed enough restrictions on how a shape might tile space, they could force a periodic pattern to emerge. But they were wrong.            \nThe post ‘Nasty’ Geometry Breaks Decades-Old Tiling Conjecture first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/nasty-geometry-breaks-decades-old-tiling-conjecture-20221215/",
-          "publishedOn": "2022-12-15T16:32:23.000Z",
-          "wordCount": 8015,
-          "title": "‘Nasty’ Geometry Breaks Decades-Old Tiling Conjecture",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/12/PeriodicTiling-byDVDP-Social.webp"
         }
       ]
     },
@@ -1297,16 +1227,6 @@
           "publishedOn": "2023-01-06T00:00:00.000Z",
           "wordCount": 770,
           "title": "Better Go concurrency for 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/441",
-          "author": null,
-          "description": "#​441 — December 16, 2022\n\n\nUnsub  |  Web Version\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\nThe Best of the Go Newsletter in 2022\nThis is the final issue of the year (we're back on January 6, 2023) so we're revisiting the most popular links (and releases) from this year. There'll be a few useful resources that escaped your attention or that you've since forgotten about so enjoy! 😁\nHave a fantastic holiday season.\n____\nPeter Cooper, your editor\n\n\n\n\n\n  \n  \n1: Effective Error Handling in Go — The most popular item of the year came in the very first issue of 2022 and presaged what would be a common concern this year: error handling. Brandon covered the basics, as well as some simple strategies you can follow to ensure your programs are more robust and easier to debug.\nBrandon Schurman \n\n\n  \n  \n…",
-          "link": "https://golangweekly.com/issues/441",
-          "publishedOn": "2022-12-16T00:00:00.000Z",
-          "wordCount": 1100,
-          "title": "The best of the Go newsletter in 2022",
           "imageUrl": null
         }
       ]
