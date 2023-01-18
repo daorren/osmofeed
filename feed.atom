@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-17T01:27:01.148Z</updated>
+    <updated>2023-01-18T01:36:15.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Grep Command in Linux – Usage, Options, and Syntax Examples]]></title>
+        <id>https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/</id>
+        <link href="https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/"/>
+        <updated>2023-01-17T22:40:13.000Z</updated>
+        <summary type="html"><![CDATA[Grep is a useful command to search for matching patterns in a file. grep is short for "global regular expression print".  If you are a system admin who needs to scrape through log files or a developer trying to find certain occurrences in the code file, then grep is]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use JavaScript for Data Analysis – A Beginner's Guide]]></title>
+        <id>https://www.freecodecamp.org/news/basics-of-data-analysis-with-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/basics-of-data-analysis-with-javascript/"/>
+        <updated>2023-01-17T21:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Data analysis involves taking data you have and extracting useful information from them. During the process, you need to clean the data, present them in a useful way, and draw conclusions that can help companies make important decisions. Data analysis is commonly done with languages like Python and R. Very]]></summary>
+        <author>
+            <name>Zubair Idris Aweda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Use rem to Set Font Size in CSS]]></title>
+        <id>https://www.freecodecamp.org/news/why-use-rem-to-set-font-size-in-css/</id>
+        <link href="https://www.freecodecamp.org/news/why-use-rem-to-set-font-size-in-css/"/>
+        <updated>2023-01-17T21:33:17.000Z</updated>
+        <summary type="html"><![CDATA[Setting font sizes is something you'll do often as a web developer. But sometimes, especially for beginners, this can get a bit tricky.  In this article, I'll explain why I think you should always use rem over em for setting the font-size of an element. What are Relative]]></summary>
+        <author>
+            <name>Vinod Mathew Sebastian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure User Authentication Methods – 2FA, Biometric, and Passwordless Login Explained]]></title>
+        <id>https://www.freecodecamp.org/news/user-authentication-methods-explained/</id>
+        <link href="https://www.freecodecamp.org/news/user-authentication-methods-explained/"/>
+        <updated>2023-01-17T18:05:56.000Z</updated>
+        <summary type="html"><![CDATA[In today's digital world, user authentication is essential in ensuring secure access to online accounts and resources. With the rise of cyber-threats, companies need to ensure that their users are authenticated before accessing any sensitive information. This helps protect the online safety of both parties. In the past, the most]]></summary>
+        <author>
+            <name>Hillary Nyakundi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why a Ternary Operator is not a Conditional Operator in JS]]></title>
+        <id>https://www.freecodecamp.org/news/why-a-ternary-operator-is-not-a-conditional-operator-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/why-a-ternary-operator-is-not-a-conditional-operator-in-js/"/>
+        <updated>2023-01-17T17:17:44.000Z</updated>
+        <summary type="html"><![CDATA[Until recently, I called a ternary operator a conditional operator in JavaScript. But I just learned that this isn't correct. In this tutorial, I will explain how I learned this, and hopefully it teaches you something new. I have a video version on this topic [https://youtu.be/vcNlFKzZTq4] you can watch as]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unary, Binary, and Ternary Operators in JavaScript – Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/unary-binary-ternary-operators-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/unary-binary-ternary-operators-javascript/"/>
+        <updated>2023-01-17T16:58:24.000Z</updated>
+        <summary type="html"><![CDATA[There are many operators in JavaScript that let you carry out different operations. These operators can be categorized based on the number of operands they require, and I'll be using examples to explain these categories in this tutorial. The three categories of operators based on the number of operands they]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript 2D Array – Two Dimensional Arrays in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-2d-arrays/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-2d-arrays/"/>
+        <updated>2023-01-17T16:47:25.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript programming, we are all used to creating and working with one-dimensional arrays. These are arrays that contain elements (elements of similar data types or multiple data types). But it’s also good to know that two-dimensional arrays (2D arrays) exist in JS. In this article, you will learn what]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile Genes From the Mother Shape the Baby’s Microbiome]]></title>
+        <id>https://www.quantamagazine.org/?p=122139</id>
+        <link href="https://www.quantamagazine.org/mobile-genes-from-the-mother-shape-the-babys-microbiome-20230117/"/>
+        <updated>2023-01-17T16:43:17.000Z</updated>
+        <summary type="html"><![CDATA[Tiny genetic sequences in a mother’s bacteria seem to hop into the infant's bacteria, perhaps ensuring a healthy microbiome later in life.            
+The post Mobile Genes From the Mother Shape the Baby’s Microbiome first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Yasemin Saplakoglu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Burp Suite to Audit Web Applications – Pentesting and Bug Bounty Tool Overview]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-audit-web-apps-with-burpsuite/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-audit-web-apps-with-burpsuite/"/>
+        <updated>2023-01-17T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What is Burp Suite? Burp Suite is a powerful and widely-used web application testing platform. It helps security engineers identify potential risks in web applications. Burp Suite is also widely used by bug-bounty hunters. Since Burp Suite is a fully featured web-auditing platform, it comes with many tools to help]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use React Hooks – Full Tutorial for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/full-guide-to-react-hooks/</id>
+        <link href="https://www.freecodecamp.org/news/full-guide-to-react-hooks/"/>
+        <updated>2023-01-17T01:04:42.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! Hooks are one of the main features of modern React code and one of the first concepts you should get comfortable with when learning about this library.  In this article I'm going to explain some of the most useful hooks React provides us with, how they work,]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Format Output You Send to the Console]]></title>
         <id>https://www.freecodecamp.org/news/formatting-output-to-the-console/</id>
@@ -1309,46 +1410,6 @@ The post ‘Fullertubes’ Join the Family of Carbon Crystals first appeared on 
 The post She Finds Keys to Ecology in Cells That Steal From Others first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Veronique Greenwood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #89 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-89/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-89/"/>
-        <updated>2022-12-18T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Frohe Feiertage!
-
-Would you animate the display property if you could? Have you heard of the new renderblockingstatus webperf property? Or did you already inject DOM elements with before() and after()?
-All the answers and much more are included in this week's Web Weekly. 🫣
-Before we go into this week's favorites...
-Last week I asked for a reply to this email to signal email providers that I'm not spamming and well... I DOS'ed myself. Way more of you replied to the email, and it was a good challenge to reply to all the emails. 🫣
-Sending this newsletter sometimes feels a little lonely, but I'm humbled that so many people are reading along! And I can't tell you how much getting all these kind words and replies motivate me.
-I'm all ears when you have something to share or want to provide fee…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to use Raycast snippet auto expansion (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/how-to-use-raycast-snippet-auto-expansion/</id>
-        <link href="https://www.stefanjudis.com/blog/how-to-use-raycast-snippet-auto-expansion/"/>
-        <updated>2022-12-18T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I plugged that I use Raycast for automatic snippet expansion in my weekly newsletter. If you don't know Raycast, it's a macOS Spotlight replacement and the OS-level command bar is very good!
-I use Raycast primarily to navigate all the apps on my machine, place windows on different monitors and expand snippets. ;es for example, expands automatically to my email address. Whether in my browser, mail app or Slack, my email address or often used phrases are automagically expanded to save some keystrokes.
-But I must admit, the docs on auto-expansion could be better, and someone asked me how I set this functionality up. So here we go!
-The native snippet extension
-
-Raycast comes with a native snippet extension to create and search all your snippets from within Raycast itself.
-I'm not using it to search my snippets, because I primarily auto-expand things. And to enable auto-expansion, you must look at the overall snippet configuration.
-"Enable Snippet Expansion" is the magic trick. After you enable this setting, use the "Create Snippet" or "Edit snippet" command via the Raycast command bar and define a name, the expansion and the character combination triggering it (Keyword).
-And that's it!
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
