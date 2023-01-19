@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-18T01:36:15.771Z</updated>
+    <updated>2023-01-19T01:37:49.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Job Description Generator with NextJS and ChatGPT]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-job-description-generator-with-nextjs-and-chatgpt/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-job-description-generator-with-nextjs-and-chatgpt/"/>
+        <updated>2023-01-18T23:50:19.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will discuss how to build a Job Description Generator with  Next.js [https://nextjs.org/], and ChatGPT [https://openai.com/blog/chatgpt/], a powerful language generation model developed by OpenAI. We will also use TailwindCSS [https://tailwindcss.com/], a utility-first CSS framework, to style our Next.js app. Check out the GitHub Repo here [https://github.com/lelouchB/ai-job-description]]]></summary>
+        <author>
+            <name>ASHUTOSH K SINGH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Julia Programming Applications – What is Julia Used For?]]></title>
+        <id>https://www.freecodecamp.org/news/applications-of-julia/</id>
+        <link href="https://www.freecodecamp.org/news/applications-of-julia/"/>
+        <updated>2023-01-18T21:50:42.000Z</updated>
+        <summary type="html"><![CDATA[Julia [https://julialang.org/] is a high-level, high-performance dynamic programming language. It combines the ease of use of scripting languages like Python with the speed and efficiency of compiled languages like C/C++.  Julia has been gaining traction due to its speed, intuitive syntax, and ability to quickly and efficiently solve complex]]></summary>
+        <author>
+            <name>Ifihanagbara Olusheye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Style Your React Apps with CSS Like a Pro]]></title>
+        <id>https://www.freecodecamp.org/news/style-react-apps-with-css/</id>
+        <link href="https://www.freecodecamp.org/news/style-react-apps-with-css/"/>
+        <updated>2023-01-18T20:55:27.000Z</updated>
+        <summary type="html"><![CDATA[React is a JavaScript library for building user interfaces. And it's gained a lot of popularity in the front-end development community.  One of the benefits of using React is its integration with CSS, which allows developers to apply styles to their components in a modular and reusable way.]]></summary>
+        <author>
+            <name>Valentine Gatwiri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1000+ Free Developer Certifications]]></title>
+        <id>https://www.freecodecamp.org/news/free-certificates/</id>
+        <link href="https://www.freecodecamp.org/news/free-certificates/"/>
+        <updated>2023-01-18T18:01:25.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that organizations such as freeCodeCamp, Google, and Harvard offer online courses to help you learn software development? And that many of these include free certificates and badges?  To help you choose one that's right for you, I've created a full list. As avid online learners, my]]></summary>
+        <author>
+            <name>Dhawal Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For Loops in Python – For Loop Syntax Example]]></title>
+        <id>https://www.freecodecamp.org/news/for-loops-in-python-with-example-code/</id>
+        <link href="https://www.freecodecamp.org/news/for-loops-in-python-with-example-code/"/>
+        <updated>2023-01-18T17:25:16.000Z</updated>
+        <summary type="html"><![CDATA[While coding in Python, you may need to repeat the same code several times. Writing the same lines of code again and again repeatedly throughout your program is considered a bad practice in programming – this is where loops come in handy. With loops, you can execute a sequence of]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finally, a Fast Algorithm for Shortest Paths on Negative Graphs]]></title>
+        <id>https://www.quantamagazine.org/?p=122171</id>
+        <link href="https://www.quantamagazine.org/finally-a-fast-algorithm-for-shortest-paths-on-negative-graphs-20230118/"/>
+        <updated>2023-01-18T17:02:40.000Z</updated>
+        <summary type="html"><![CDATA[Researchers can now find the shortest route through a network nearly as fast as theoretically possible, even when some steps can cancel out others.            
+The post Finally, a Fast Algorithm for Shortest Paths on Negative Graphs first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Ben Brubaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Errors in Computer Networks]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-handle-errors-in-computer-networks/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-handle-errors-in-computer-networks/"/>
+        <updated>2023-01-18T16:05:43.000Z</updated>
+        <summary type="html"><![CDATA[There are some magical things about the Internet, and one thing in particular is that it works. In spite of so many obstacles, we can deliver our packets over the globe, and do so fast. Even more specifically, one amazing thing about the Internet is its ability to handle errors.]]></summary>
+        <author>
+            <name>Omer Rosenbaum</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grep Command in Linux – Usage, Options, and Syntax Examples]]></title>
         <id>https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/</id>
@@ -1349,67 +1420,6 @@ The post ‘Fullertubes’ Join the Family of Carbon Crystals first appeared on 
         <summary type="html"><![CDATA[One of the best ways to learn software development is to create a slimmed-down version of software you use every day to get a better understanding of how it might work. This process helps you understand the problem space constraints and techniques required to build a real-world use-case. We just]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Your First Job in InfoSec]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-get-your-first-job-in-infosec/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-your-first-job-in-infosec/"/>
-        <updated>2022-12-19T23:32:44.000Z</updated>
-        <summary type="html"><![CDATA[Getting your first job in information security (infosec, or cybersecurity) can be tough.  It's (still) a relatively new industry, and job roles and descriptions aren't always consistent. Plus, it can be hard to figure out where to get started, what skills you need, and how you can acquire them.]]></summary>
-        <author>
-            <name>Megan Kaczanowski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — 👋 Friend of John]]></title>
-        <id>6396477892a0bb4700d50e0c</id>
-        <link href="https://labnotes.org/weekend-reading-friend-of-john/"/>
-        <updated>2022-12-19T21:58:11.000Z</updated>
-        <summary type="html"><![CDATA[This week we discover the legendary software entrepreneur J.Mastodon, punch holes in cards, choose a new timezone, and worry about dark chocolate.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Have Fun Building React Apps]]></title>
-        <id>https://www.freecodecamp.org/news/have-fun-building-react-apps/</id>
-        <link href="https://www.freecodecamp.org/news/have-fun-building-react-apps/"/>
-        <updated>2022-12-19T21:41:26.000Z</updated>
-        <summary type="html"><![CDATA[Building React apps can either be a very fun experience or a very difficult and tedious one, based off of the tools you choose. React is a JavaScript library that, unlike frameworks like Angular, leave us to making a lot of decisions on our own. You have to choose which]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your Own Wireguard VPN in Five Minutes]]></title>
-        <id>https://www.freecodecamp.org/news/build-your-own-wireguard-vpn-in-five-minutes/</id>
-        <link href="https://www.freecodecamp.org/news/build-your-own-wireguard-vpn-in-five-minutes/"/>
-        <updated>2022-12-19T20:46:15.000Z</updated>
-        <summary type="html"><![CDATA[You may already understand how important a good VPN can be for maintaining the security and privacy of your mobile communications.  Whether you need to use your phone for banking over a public airport or coffee shop WiFi connection, or you're worried about the wrong people listening in on]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Speed up Your Software Development Pipeline]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-speed-up-your-software-development-pipeline/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-speed-up-your-software-development-pipeline/"/>
-        <updated>2022-12-19T17:51:06.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever managed a software development pipeline—or have plans to do so—there's one thing you'll need to prioritize above almost all else: speed.  No matter the type of software you're working on, you'll always be under pressure to speed up your team's deliverables. Some of that pressure might]]></summary>
-        <author>
-            <name>Andrej Kovacevic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[She Finds Keys to Ecology in Cells That Steal From Others]]></title>
-        <id>https://www.quantamagazine.org/?p=121543</id>
-        <link href="https://www.quantamagazine.org/holly-moeller-finds-keys-to-ecology-in-cells-that-steal-20221219/"/>
-        <updated>2022-12-19T14:53:13.000Z</updated>
-        <summary type="html"><![CDATA[The ecologist Holly Moeller studies microorganisms that expand their range by absorbing organelles and gaining new metabolic talents from their prey.            
-The post She Finds Keys to Ecology in Cells That Steal From Others first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Veronique Greenwood</name>
         </author>
     </entry>
 </feed>
