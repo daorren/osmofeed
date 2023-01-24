@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-23T01:26:15.166Z</updated>
+    <updated>2023-01-24T01:36:01.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Wireshark – Computer Networking Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/learn-wireshark-computer-networking/</id>
+        <link href="https://www.freecodecamp.org/news/learn-wireshark-computer-networking/"/>
+        <updated>2023-01-23T23:35:33.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you will learn about the single most important and useful tool in Computer Networks – Wireshark. This post relies on basic knowledge of computer networks. Be sure to check my  previous post about the five layers model [/news/the-five-layers-model-explained/] if you need a refresher. What is Wireshark?]]></summary>
+        <author>
+            <name>Omer Rosenbaum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 👌 Ctrl-Salt-Delete]]></title>
+        <id>63c35d869749e73dab57f109</id>
+        <link href="https://labnotes.org/weekend-reading-ctrl-salt-delete/"/>
+        <updated>2023-01-23T22:26:22.000Z</updated>
+        <summary type="html"><![CDATA[This week we load up on SVG, pay back tech debt, fight name complexity, learn how to build ChatGPT, and go in search of SF/Mission super burrito.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free College Algebra Course (with Python Code!)]]></title>
+        <id>https://www.freecodecamp.org/news/college-algebra-course-with-python-code/</id>
+        <link href="https://www.freecodecamp.org/news/college-algebra-course-with-python-code/"/>
+        <updated>2023-01-23T17:00:26.000Z</updated>
+        <summary type="html"><![CDATA[College Algebra is an important course for a wide variety of professions and University programs. It is especially important for computer science students. We just published a full and comprehensive college Algebra course on the freeCodeCamp.org YouTube channel. This course is designed as a full one-semester college course. This course]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Basic Algebra Behind Secret Codes and Space Communication]]></title>
+        <id>https://www.quantamagazine.org/?p=122342</id>
+        <link href="https://www.quantamagazine.org/the-basic-algebra-behind-secret-codes-and-space-communication-20230123/"/>
+        <updated>2023-01-23T16:01:22.000Z</updated>
+        <summary type="html"><![CDATA[Whether you’re passing secret notes in class or downloading images from a space probe, Reed-Solomon codes offer an ingenious way to embed information and correct for errors.            
+The post The Basic Algebra Behind Secret Codes and Space Communication first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Patrick Honner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Unit Tests in React]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react/"/>
+        <updated>2023-01-23T15:35:25.000Z</updated>
+        <summary type="html"><![CDATA[When you're building a website and coding all the cool features you had planned, you'll want to test if everything works as expected. Now, you can’t do that just by going through the website yourself – you need to check if each unit of your code is working as you]]></summary>
+        <author>
+            <name>Kunal Nalawade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Visualize Confusing Git Commands with Git-Sim]]></title>
+        <id>https://www.freecodecamp.org/news/git-sim/</id>
+        <link href="https://www.freecodecamp.org/news/git-sim/"/>
+        <updated>2023-01-23T14:57:06.000Z</updated>
+        <summary type="html"><![CDATA[Git is an essential tool for developers to learn in order to effectively collaborate on source code. But certain Git concepts and commands are notoriously difficult for devs to learn. Not only that, but Git commands often have nuances that lead to varying results on the state of your local]]></summary>
+        <author>
+            <name>Jacob Stopak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are CSS Pseudo-Classes?]]></title>
+        <id>https://www.freecodecamp.org/news/what-are-pseudo-classes-css/</id>
+        <link href="https://www.freecodecamp.org/news/what-are-pseudo-classes-css/"/>
+        <updated>2023-01-23T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To make sense of CSS pseudo-classes, we need to understand state. In this context, the word state means a situation or condition that something is in at a particular point in time. Take the state of a stoplight, for example. At any point in time it has one of three]]></summary>
+        <author>
+            <name>Deborah Kurata</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Submit a Form with JavaScript – JS Submit Button Example]]></title>
         <id>https://www.freecodecamp.org/news/how-to-submit-a-form-with-javascript/</id>

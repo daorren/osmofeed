@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/learn-wireshark-computer-networking/",
+          "author": "Omer Rosenbaum",
+          "description": "In this post, you will learn about the single most important and useful tool in Computer Networks – Wireshark. This post relies on basic knowledge of computer networks. Be sure to check my  previous post about the five layers model [/news/the-five-layers-model-explained/] if you need a refresher. What is Wireshark?",
+          "link": "https://www.freecodecamp.org/news/learn-wireshark-computer-networking/",
+          "publishedOn": "2023-01-23T23:35:33.000Z",
+          "wordCount": 2757,
+          "title": "Learn Wireshark – Computer Networking Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Computer-Networks-Ethernet--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/college-algebra-course-with-python-code/",
+          "author": "Beau Carnes",
+          "description": "College Algebra is an important course for a wide variety of professions and University programs. It is especially important for computer science students. We just published a full and comprehensive college Algebra course on the freeCodeCamp.org YouTube channel. This course is designed as a full one-semester college course. This course",
+          "link": "https://www.freecodecamp.org/news/college-algebra-course-with-python-code/",
+          "publishedOn": "2023-01-23T17:00:26.000Z",
+          "wordCount": 1502,
+          "title": "Free College Algebra Course (with Python Code!)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/algebra.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react/",
+          "author": "Kunal Nalawade",
+          "description": "When you're building a website and coding all the cool features you had planned, you'll want to test if everything works as expected. Now, you can’t do that just by going through the website yourself – you need to check if each unit of your code is working as you",
+          "link": "https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react/",
+          "publishedOn": "2023-01-23T15:35:25.000Z",
+          "wordCount": 3673,
+          "title": "How to Write Unit Tests in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/unit-testing-in-react-image.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/git-sim/",
+          "author": "Jacob Stopak",
+          "description": "Git is an essential tool for developers to learn in order to effectively collaborate on source code. But certain Git concepts and commands are notoriously difficult for devs to learn. Not only that, but Git commands often have nuances that lead to varying results on the state of your local",
+          "link": "https://www.freecodecamp.org/news/git-sim/",
+          "publishedOn": "2023-01-23T14:57:06.000Z",
+          "wordCount": 2728,
+          "title": "How to Visualize Confusing Git Commands with Git-Sim",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/git-sim-merge_01-05-23_09-44-46-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-are-pseudo-classes-css/",
+          "author": "Deborah Kurata",
+          "description": "To make sense of CSS pseudo-classes, we need to understand state. In this context, the word state means a situation or condition that something is in at a particular point in time. Take the state of a stoplight, for example. At any point in time it has one of three",
+          "link": "https://www.freecodecamp.org/news/what-are-pseudo-classes-css/",
+          "publishedOn": "2023-01-23T14:00:00.000Z",
+          "wordCount": 1449,
+          "title": "What Are CSS Pseudo-Classes?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pseudo-classes-thumbnail.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-submit-a-form-with-javascript/",
           "author": "Joel Olawanle",
           "description": "When building applications and websites on the internet, you’ll sometimes need your users to supply information by filling out a form. But then you might wonder – how do you get this data from the form? Well, you can do this with JavaScript. In this article, you will learn how",
@@ -1069,6 +1119,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=122342",
+          "author": "Patrick Honner",
+          "description": "Whether you’re passing secret notes in class or downloading images from a space probe, Reed-Solomon codes offer an ingenious way to embed information and correct for errors.            \nThe post The Basic Algebra Behind Secret Codes and Space Communication first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-basic-algebra-behind-secret-codes-and-space-communication-20230123/",
+          "publishedOn": "2023-01-23T16:01:22.000Z",
+          "wordCount": 8128,
+          "title": "The Basic Algebra Behind Secret Codes and Space Communication",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/Jan23Academy-byRobertNeubecker-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=122280",
           "author": "Rebecca Boyle",
           "description": "Reports that the James Webb Space Telescope killed the reigning cosmological model turn out to have been exaggerated. But astronomers still have much to learn from distant galaxies glimpsed by Webb.            \nThe post Standard Model of Cosmology Survives a Telescope’s Surprising Finds first appeared on Quanta Magazine",
@@ -1185,6 +1245,16 @@
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
+        {
+          "id": "63c35d869749e73dab57f109",
+          "author": "Assaf Arkin",
+          "description": "This week we load up on SVG, pay back tech debt, fight name complexity, learn how to build ChatGPT, and go in search of SF/Mission super burrito.",
+          "link": "https://labnotes.org/weekend-reading-ctrl-salt-delete/",
+          "publishedOn": "2023-01-23T22:26:22.000Z",
+          "wordCount": 1698,
+          "title": "Weekend Reading — 👌 Ctrl-Salt-Delete",
+          "imageUrl": "https://labnotes.org/content/images/2023/01/image-40-1.png"
+        },
         {
           "id": "63bb549ad539c067d0635ec5",
           "author": "Assaf Arkin",
