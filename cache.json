@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-use-open-policy-agent-and-apache-apisix-opa-plugin/",
+          "author": "Njoku Samson Ebere",
+          "description": "One common thing in every organisation is policy [https://www.openpolicyagent.org/docs/latest/philosophy/#policy]. Policies define how an organisation operates.  They are essential to the long-term success of an organisation. They preserve significant knowledge about how to comply with matters such as legal requirements, work within technical constraints, and avoid repeating mistakes.  Softwares",
+          "link": "https://www.freecodecamp.org/news/how-to-use-open-policy-agent-and-apache-apisix-opa-plugin/",
+          "publishedOn": "2023-01-24T19:28:56.000Z",
+          "wordCount": 2838,
+          "title": "How to Create Better Policy with Open Policy Agent and the Apache APISIX OPA Plugin",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-357514.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-sort-a-list-in-java/",
+          "author": "Edeh Israel Chidera",
+          "description": "Sometimes data needs to be arranged in a specific order so it's easier to understand, search, and process.  We call this process sorting. Sorting refers to arranging data in a specific order using certain criteria. You can sort different types of data, including numbers, strings, and objects. Java provides",
+          "link": "https://www.freecodecamp.org/news/how-to-sort-a-list-in-java/",
+          "publishedOn": "2023-01-24T19:22:58.000Z",
+          "wordCount": 1707,
+          "title": "How to Sort a List in Java – Java List Sorting Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/kelly-sikkema-ABkfxGoB-RE-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-set-smart-goals-you-can-achieve/",
+          "author": "Shruti Kapoor",
+          "description": "As we start the new year, it is a good time to reflect back on how the past 12 months went, and gear up for the next 12.  I like to spend a few hours in the beginning of the year doing a reflection of the past year, and",
+          "link": "https://www.freecodecamp.org/news/how-to-set-smart-goals-you-can-achieve/",
+          "publishedOn": "2023-01-24T17:45:02.000Z",
+          "wordCount": 3541,
+          "title": "How to Set Smart Goals You Can Actually Achieve",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-skitterphoto-15812.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/digital-connectivity-internet-and-iot-explained/",
+          "author": "David Clinton",
+          "description": "Telephones changed the way we all talked to each other and went about our work (well, the way our great-grandparents did, at any rate). Information could now be communicated instantly, rather than being sent over slow, overland routes.  But that's hardly news to anyone these days. The modern network",
+          "link": "https://www.freecodecamp.org/news/digital-connectivity-internet-and-iot-explained/",
+          "publishedOn": "2023-01-24T17:08:41.000Z",
+          "wordCount": 3047,
+          "title": "Digital Connectivity – How We Connect to the Internet and IoT Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-andrea-piacquadio-935743.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-does-a-vpn-work/",
+          "author": "Tejan Singh",
+          "description": "Do you worry about online security while using public Wi-Fi? Or has someone told you that you might get hacked when using an insecure connection and someone will steal all your details? Well, you might have also heard that you should use a VPN to protect your online privacy. But",
+          "link": "https://www.freecodecamp.org/news/how-does-a-vpn-work/",
+          "publishedOn": "2023-01-24T00:08:44.000Z",
+          "wordCount": 2750,
+          "title": "How Does a VPN Work? Tutorial for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/privecstasy-CXlqHmQy3MY-unsplash.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/learn-wireshark-computer-networking/",
           "author": "Omer Rosenbaum",
           "description": "In this post, you will learn about the single most important and useful tool in Computer Networks – Wireshark. This post relies on basic knowledge of computer networks. Be sure to check my  previous post about the five layers model [/news/the-five-layers-model-explained/] if you need a refresher. What is Wireshark?",
@@ -1119,6 +1169,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=122537",
+          "author": "Steve Nadis",
+          "description": "In three-dimensional space, the surface of a black hole must be a sphere. But a new result shows that in higher dimensions, an infinite number of configurations are possible.            \nThe post Mathematicians Find an Infinity of Possible Black Hole Shapes first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/mathematicians-find-an-infinity-of-possible-black-hole-shapes-20230124/",
+          "publishedOn": "2023-01-24T14:57:45.000Z",
+          "wordCount": 7040,
+          "title": "Mathematicians Find an Infinity of Possible Black Hole Shapes",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/BlackHoleShapes-byKristinaArmitage-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=122342",
           "author": "Patrick Honner",
           "description": "Whether you’re passing secret notes in class or downloading images from a space probe, Reed-Solomon codes offer an ingenious way to embed information and correct for errors.            \nThe post The Basic Algebra Behind Secret Codes and Space Communication first appeared on Quanta Magazine",
@@ -1302,6 +1362,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/a-css-based-background-grid-generator/",
+          "author": null,
+          "description": "A month ago, I was searching for a CSS generator to create a CSS grid background for a blog post component. 👇\nI knew creating this CSS effect wouldn't be too hard, but fiddling with CSS gradients is not my strong suit. Unfortunately, my Google foo failed me. And if your search terms include \"CSS\" and \"grid\" you'll get only tutorials to use and create \"CSS grids\".  🤦‍♂️\nThe only solution was to tweak random Codepens, and I spent a good half an hour creating vertical and horizontal lines in CSS.\nSo! If you, dear reader, are on the hunt for a quick CSS background grid generator, you reached your final destination!\nHere's my contribution to the internet. 👇\n[Interactive component: visit the article to see it...]\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/blog/a-css-based-background-grid-generator/",
+          "publishedOn": "2023-01-23T23:00:00.000Z",
+          "wordCount": 1277,
+          "title": "A CSS-based background grid generator (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20CSS-based%20background%20grid%20generator/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/today-i-learned/how-to-disable-google-sign-in-prompts/",
           "author": null,
