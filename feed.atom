@@ -2,10 +2,103 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-25T01:25:36.901Z</updated>
+    <updated>2023-01-26T01:27:22.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Pandas DataFrame Groupby Method]]></title>
+        <id>https://www.freecodecamp.org/news/pandas-dataframe-groupby-method/</id>
+        <link href="https://www.freecodecamp.org/news/pandas-dataframe-groupby-method/"/>
+        <updated>2023-01-25T21:32:38.000Z</updated>
+        <summary type="html"><![CDATA[Pandas is a fast and approachable open-source library in Python built for analyzing and manipulating data.  This library has a lot of functions and methods to expedite the data analysis process. One of my favorites is the groupby method, mainly because it lets you get quick insights into your]]></summary>
+        <author>
+            <name>Faith Oyama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Comparison Operators – How to Compare Objects for Equality in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-comparison-operators-how-to-compare-objects-for-equality-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-comparison-operators-how-to-compare-objects-for-equality-in-js/"/>
+        <updated>2023-01-25T18:47:40.000Z</updated>
+        <summary type="html"><![CDATA[While coding in JavaScript, there may be times when you need to compare objects for equality. The thing is, comparing objects in JavaScript is not that straightforward. In this article, you learn three ways to compare objects for equality in JavaScript. Let's get into it! What's the Difference Between Comparing]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate PayPal into Your HTML, CSS, and JS Product Pages]]></title>
+        <id>https://www.freecodecamp.org/news/integrate-paypal-into-html-css-js-product-pages/</id>
+        <link href="https://www.freecodecamp.org/news/integrate-paypal-into-html-css-js-product-pages/"/>
+        <updated>2023-01-25T17:35:10.000Z</updated>
+        <summary type="html"><![CDATA[Imagine if you had an amazing product landing page, with customers lined up to make a purchase. But your manual JavaScript payment processing with server-side scripts, Authorize.net, or 2Checkout failed you. Frustrated by being unable to make the purchase, your customer leaves to go to your competitors. I imagine that]]></summary>
+        <author>
+            <name>Shane Duggan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Computer Scientist Who Finds Life Lessons in Games]]></title>
+        <id>https://www.quantamagazine.org/?p=122568</id>
+        <link href="https://www.quantamagazine.org/the-computer-scientist-who-finds-life-lessons-in-board-games-20230125/"/>
+        <updated>2023-01-25T17:34:30.000Z</updated>
+        <summary type="html"><![CDATA[In Shang-Hua Teng’s work, theoretical and practical questions have long been intertwined. Now he’s turning his focus to the impractical.            
+The post The Computer Scientist Who Finds Life Lessons in Games first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Ben Brubaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL Date Functions – Explained with Example Queries]]></title>
+        <id>https://www.freecodecamp.org/news/mysql-date-functions/</id>
+        <link href="https://www.freecodecamp.org/news/mysql-date-functions/"/>
+        <updated>2023-01-25T17:15:13.000Z</updated>
+        <summary type="html"><![CDATA[SQL is a programming language we use to interact with relational databases. SQL databases contain tables, which contain rows of data. These tables can contain a wide range of data types. In this article, you'll learn how MySQL functions help make date management very easy.  These functions help perform]]></summary>
+        <author>
+            <name>Zubair Idris Aweda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code a Reddit Clone with React and Firebase]]></title>
+        <id>https://www.freecodecamp.org/news/code-a-reddit-clone-with-react-and-firebase/</id>
+        <link href="https://www.freecodecamp.org/news/code-a-reddit-clone-with-react-and-firebase/"/>
+        <updated>2023-01-25T15:18:14.000Z</updated>
+        <summary type="html"><![CDATA[Coding a Reddit clone is a great project to help you learn a bunch of different programming skills and technologies. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code a Reddit clone using React, Firebase, Next.js, Chakra UI, and TypeScript. Shadee Merhi]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KNN Algorithm – K-Nearest Neighbors Classifiers and Model Example]]></title>
+        <id>https://www.freecodecamp.org/news/k-nearest-neighbors-algorithm-classifiers-and-model-example/</id>
+        <link href="https://www.freecodecamp.org/news/k-nearest-neighbors-algorithm-classifiers-and-model-example/"/>
+        <updated>2023-01-25T15:17:54.000Z</updated>
+        <summary type="html"><![CDATA[The K-Nearest Neighbors (K-NN) algorithm is a popular Machine Learning algorithm used mostly for solving classification problems.  In this article, you'll learn how the K-NN algorithm works with practical examples. We'll use diagrams, as well sample data to show how you can classify data using the K-NN algorithm. We'll]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why doesn't JSON support comments? (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/why-doesnt-json-support-comments/</id>
+        <link href="https://www.stefanjudis.com/notes/why-doesnt-json-support-comments/"/>
+        <updated>2023-01-24T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Did you ever curse the JSON data format for not allowing comments and wondered what the heck? Yeah, same here.
+Surprisingly, JSON, in its initial spec, did allow comments, but comment support was removed for three reasons:
+People put parsing instructions into comments breaking portability across platforms and languages.
+Comments introduced complexity that might not be needed for a data format.
+The JSON creators wanted it to be compatible with early YAML versions.
+It's a bummer because JSON outgrew its serial data use case, and it's widespread to have JSON config files these days. :/
+Pawel Grzybek pointed out that the lack of comments and other features led to the JSON5 spec, which aimed to be a JSON extension suitable for config files and was adopted by VS Code and many other software products today.
+If you want to learn more, here's why comments were removed on YouTube.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create Better Policy with Open Policy Agent and the Apache APISIX OPA Plugin]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-open-policy-agent-and-apache-apisix-opa-plugin/</id>
@@ -1498,16 +1591,6 @@ Thank goodness — less pop-ups are more fun!
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — 👋 2-3 levels max]]></title>
-        <id>63a8b308387fff68fb190974</id>
-        <link href="https://labnotes.org/weekend-reading-2-3-levels-max/"/>
-        <updated>2022-12-26T21:38:19.000Z</updated>
-        <summary type="html"><![CDATA[This week our train leaves every 5 minutes, we capture some packets, zoom through meetings, and buy bubble wrap in bulk.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>

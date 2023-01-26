@@ -12,6 +12,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/pandas-dataframe-groupby-method/",
+          "author": "Faith Oyama",
+          "description": "Pandas is a fast and approachable open-source library in Python built for analyzing and manipulating data.  This library has a lot of functions and methods to expedite the data analysis process. One of my favorites is the groupby method, mainly because it lets you get quick insights into your",
+          "link": "https://www.freecodecamp.org/news/pandas-dataframe-groupby-method/",
+          "publishedOn": "2023-01-25T21:32:38.000Z",
+          "wordCount": 1656,
+          "title": "How to Use the Pandas DataFrame Groupby Method",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Pandas-Groupby---1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-comparison-operators-how-to-compare-objects-for-equality-in-js/",
+          "author": "Dionysia Lemonaki",
+          "description": "While coding in JavaScript, there may be times when you need to compare objects for equality. The thing is, comparing objects in JavaScript is not that straightforward. In this article, you learn three ways to compare objects for equality in JavaScript. Let's get into it! What's the Difference Between Comparing",
+          "link": "https://www.freecodecamp.org/news/javascript-comparison-operators-how-to-compare-objects-for-equality-in-js/",
+          "publishedOn": "2023-01-25T18:47:40.000Z",
+          "wordCount": 1697,
+          "title": "JavaScript Comparison Operators – How to Compare Objects for Equality in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-christina-morillo-1181675.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/integrate-paypal-into-html-css-js-product-pages/",
+          "author": "Shane Duggan",
+          "description": "Imagine if you had an amazing product landing page, with customers lined up to make a purchase. But your manual JavaScript payment processing with server-side scripts, Authorize.net, or 2Checkout failed you. Frustrated by being unable to make the purchase, your customer leaves to go to your competitors. I imagine that",
+          "link": "https://www.freecodecamp.org/news/integrate-paypal-into-html-css-js-product-pages/",
+          "publishedOn": "2023-01-25T17:35:10.000Z",
+          "wordCount": 3867,
+          "title": "How to Integrate PayPal into Your HTML, CSS, and JS Product Pages",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/PayPalHTMLCSSJSCoverImage.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/mysql-date-functions/",
+          "author": "Zubair Idris Aweda",
+          "description": "SQL is a programming language we use to interact with relational databases. SQL databases contain tables, which contain rows of data. These tables can contain a wide range of data types. In this article, you'll learn how MySQL functions help make date management very easy.  These functions help perform",
+          "link": "https://www.freecodecamp.org/news/mysql-date-functions/",
+          "publishedOn": "2023-01-25T17:15:13.000Z",
+          "wordCount": 1793,
+          "title": "MySQL Date Functions – Explained with Example Queries",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/image-162-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/code-a-reddit-clone-with-react-and-firebase/",
+          "author": "Beau Carnes",
+          "description": "Coding a Reddit clone is a great project to help you learn a bunch of different programming skills and technologies. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code a Reddit clone using React, Firebase, Next.js, Chakra UI, and TypeScript. Shadee Merhi",
+          "link": "https://www.freecodecamp.org/news/code-a-reddit-clone-with-react-and-firebase/",
+          "publishedOn": "2023-01-25T15:18:14.000Z",
+          "wordCount": 936,
+          "title": "Code a Reddit Clone with React and Firebase",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/redditclone.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/k-nearest-neighbors-algorithm-classifiers-and-model-example/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "The K-Nearest Neighbors (K-NN) algorithm is a popular Machine Learning algorithm used mostly for solving classification problems.  In this article, you'll learn how the K-NN algorithm works with practical examples. We'll use diagrams, as well sample data to show how you can classify data using the K-NN algorithm. We'll",
+          "link": "https://www.freecodecamp.org/news/k-nearest-neighbors-algorithm-classifiers-and-model-example/",
+          "publishedOn": "2023-01-25T15:17:54.000Z",
+          "wordCount": 1860,
+          "title": "KNN Algorithm – K-Nearest Neighbors Classifiers and Model Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/tim-mossholder-8R-mXppeakM-unsplash.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-use-open-policy-agent-and-apache-apisix-opa-plugin/",
           "author": "Njoku Samson Ebere",
           "description": "One common thing in every organisation is policy [https://www.openpolicyagent.org/docs/latest/philosophy/#policy]. Policies define how an organisation operates.  They are essential to the long-term success of an organisation. They preserve significant knowledge about how to comply with matters such as legal requirements, work within technical constraints, and avoid repeating mistakes.  Softwares",
@@ -1169,6 +1229,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=122568",
+          "author": "Ben Brubaker",
+          "description": "In Shang-Hua Teng’s work, theoretical and practical questions have long been intertwined. Now he’s turning his focus to the impractical.            \nThe post The Computer Scientist Who Finds Life Lessons in Games first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-computer-scientist-who-finds-life-lessons-in-board-games-20230125/",
+          "publishedOn": "2023-01-25T17:34:30.000Z",
+          "wordCount": 7233,
+          "title": "The Computer Scientist Who Finds Life Lessons in Games",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/Shang-Hua-Teng-byEmilioFlores-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=122537",
           "author": "Steve Nadis",
           "description": "In three-dimensional space, the surface of a black hole must be a sphere. But a new result shows that in higher dimensions, an infinite number of configurations are possible.            \nThe post Mathematicians Find an Infinity of Possible Black Hole Shapes first appeared on Quanta Magazine",
@@ -1344,16 +1414,6 @@
           "wordCount": 1543,
           "title": "Weekend Reading — 👋 Happy new year!",
           "imageUrl": "https://labnotes.org/content/images/2023/01/6c78fa96f403bd84558109f0278cc344d8159fe26f1846485afcf1e63783f8b8-1.jpg"
-        },
-        {
-          "id": "63a8b308387fff68fb190974",
-          "author": "Assaf Arkin",
-          "description": "This week our train leaves every 5 minutes, we capture some packets, zoom through meetings, and buy bubble wrap in bulk.",
-          "link": "https://labnotes.org/weekend-reading-2-3-levels-max/",
-          "publishedOn": "2022-12-26T21:38:19.000Z",
-          "wordCount": 1648,
-          "title": "Weekend Reading — 👋 2-3 levels max",
-          "imageUrl": "https://labnotes.org/content/images/2022/12/21106765fd22f52e06879bddb9fa053ad4140e3560079fea468bdd23862f5706-1.jpeg"
         }
       ]
     },
@@ -1362,6 +1422,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/notes/why-doesnt-json-support-comments/",
+          "author": null,
+          "description": "Did you ever curse the JSON data format for not allowing comments and wondered what the heck? Yeah, same here.\nSurprisingly, JSON, in its initial spec, did allow comments, but comment support was removed for three reasons:\nPeople put parsing instructions into comments breaking portability across platforms and languages.\nComments introduced complexity that might not be needed for a data format.\nThe JSON creators wanted it to be compatible with early YAML versions.\nIt's a bummer because JSON outgrew its serial data use case, and it's widespread to have JSON config files these days. :/\nPawel Grzybek pointed out that the lack of comments and other features led to the JSON5 spec, which aimed to be a JSON extension suitable for config files and was adopted by VS Code and many other software products today.\nIf you want to learn more, here's why comments were removed on YouTube.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/notes/why-doesnt-json-support-comments/",
+          "publishedOn": "2023-01-24T23:00:00.000Z",
+          "wordCount": 1212,
+          "title": "Why doesn't JSON support comments? (#note)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Why%20doesn't%20JSON%20support%20comments%253F/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/a-css-based-background-grid-generator/",
           "author": null,
