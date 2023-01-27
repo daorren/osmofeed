@@ -12,6 +12,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/database-migration-golang-migrate/",
+          "author": "Rwitesh Bera",
+          "description": "Since its introduction, the programming language Go (also known as Golang) has become increasingly popular. It is known for its simplicity and efficient performance, similar to that of a lower-level language such as C++.  While working with a database, schema migration is one of the most important tasks that",
+          "link": "https://www.freecodecamp.org/news/database-migration-golang-migrate/",
+          "publishedOn": "2023-01-26T23:17:14.000Z",
+          "wordCount": 1573,
+          "title": "How to Perform Database Migrations using Go Migrate",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Blue-and-Pink-3D-Elements-Student-Part-Time-Graphic-Designer-Video-Resume-Talking-Presentation.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-switch-blockchains-on-metamask-with-javascript/",
+          "author": "Joshua Omobola",
+          "description": "With over 10,000 blockchains currently operating, there are endless possibilities for deploying your smart contracts.  For anybody to be able to use your Decentralized Application (DApp), they need to be connected to the blockchain where you've deployed your smart contract. This article will show you how to prompt your",
+          "link": "https://www.freecodecamp.org/news/how-to-switch-blockchains-on-metamask-with-javascript/",
+          "publishedOn": "2023-01-26T23:15:48.000Z",
+          "wordCount": 1357,
+          "title": "How to Switch Blockchains on MetaMask with JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Custom-Network--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/polymorphic-association-ruby-on-rails/",
+          "author": "Sampurna Chapagain",
+          "description": "Polymorphic association in Ruby on Rails refers to the type of active record association. From the Rails Guide [https://guides.rubyonrails.org/association_basics.html#polymorphic-associations] , it allows a single model to belong to more than one other model on a single association. This tutorial assumes that you have some knowledge of a few associations in",
+          "link": "https://www.freecodecamp.org/news/polymorphic-association-ruby-on-rails/",
+          "publishedOn": "2023-01-26T18:40:39.000Z",
+          "wordCount": 1320,
+          "title": "How to Use Polymorphic Associations in Ruby on Rails",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Add-a-subheading--2-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/",
+          "author": "Dhawal Shah",
+          "description": "The 8 Ivy League schools [https://en.wikipedia.org/wiki/Ivy_League] are among the most prestigious universities in the world. They consist of Harvard, Yale, Princeton, Columbia, Cornell, Dartmouth, Brown, and the University of Pennsylvania. In 2023, all 8 Ivy League schools are ranked in the top-20 of the U.S. News & World Report national",
+          "link": "https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/",
+          "publishedOn": "2023-01-26T03:51:00.000Z",
+          "wordCount": 10304,
+          "title": "Here are 850+ Ivy League Courses You Can Take Right Now for Free",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/01/collection-ivy-league-moocs-social-2.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/pandas-dataframe-groupby-method/",
           "author": "Faith Oyama",
           "description": "Pandas is a fast and approachable open-source library in Python built for analyzing and manipulating data.  This library has a lot of functions and methods to expedite the data analysis process. One of my favorites is the groupby method, mainly because it lets you get quick insights into your",
@@ -1228,6 +1268,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=122614",
+          "author": "Joanna Thompson",
+          "description": "Depression has often been blamed on low levels of serotonin in the brain. That answer is insufficient, but alternatives are coming into view and changing our understanding of the disease.            \nThe post The Cause of Depression Is Probably Not What You Think first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-cause-of-depression-is-probably-not-what-you-think-20230126/",
+          "publishedOn": "2023-01-26T15:29:18.000Z",
+          "wordCount": 8830,
+          "title": "The Cause of Depression Is Probably Not What You Think",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/DepressionTheories-byHarolBuston-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=122568",
           "author": "Ben Brubaker",
