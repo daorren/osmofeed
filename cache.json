@@ -1269,6 +1269,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=122661",
+          "author": "Charlie Wood",
+          "description": "Two teams have made photons act as if time were simultaneously flowing in two directions. The experiments demonstrate a way to potentially boost the performance of quantum devices.            \nThe post How Quantum Physicists ‘Flipped Time’ (and How They Didn’t) first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-quantum-physicists-flipped-time-and-how-they-didnt-20230127/",
+          "publishedOn": "2023-01-27T15:34:32.000Z",
+          "wordCount": 5426,
+          "title": "How Quantum Physicists ‘Flipped Time’ (and How They Didn’t)",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/QuantumTimeFlip-byKristinaArmitage-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=122614",
           "author": "Joanna Thompson",
           "description": "Depression has often been blamed on low levels of serotonin in the brain. That answer is insufficient, but alternatives are coming into view and changing our understanding of the disease.            \nThe post The Cause of Depression Is Probably Not What You Think first appeared on Quanta Magazine",
@@ -1491,16 +1501,6 @@
           "wordCount": 1277,
           "title": "A CSS-based background grid generator (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20CSS-based%20background%20grid%20generator/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/how-to-disable-google-sign-in-prompts/",
-          "author": null,
-          "description": "Suppose you're using Google Services like Gmail; you can log into other services with Google Sign-In. That's great if you're logged in all the time and don't mind Google watching every one of your moves.\nIf you're using Gmail and Chrome, privacy's a lost cause anyways, but let's not get into this topic.\nNow, even though I use Gmail, I prefer to sign in with Email/Password combinations and let my password manager do its magic. And with this setup, I don't need yet another modal begging for attention. 👇\nThanks to Ricky Mondello, today I learned you can disable Google's Sign-In nudges in your account settings!\nThank goodness — less pop-ups are more fun!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/how-to-disable-google-sign-in-prompts/",
-          "publishedOn": "2022-12-28T23:00:00.000Z",
-          "wordCount": 1185,
-          "title": "How to disable Google sign-in prompts on other sites (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20disable%20Google%20sign-in%20prompts%20on%20other%20sites/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
@@ -1509,6 +1509,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/445",
+          "author": null,
+          "description": "#​445 — January 27, 2023\n\n\nUnsub  |  Web Version\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nMocktail: A Tasty, Strongly Typed Mock Generator — A nifty tool that could potentially save you hours of frustration manually creating mocks, even if you’re using something like Testify.\nLudovic Fernandez (Traefik Labs) \n\n\n  \n  \n▶  Ten Things I Hate About Go — These sorts of things are always popular but Jonathan has clearly put some thought into these, and demonstrates the issues in detail. (30 minutes.)\nJonathan Hall (Boldly Go) \n\n\n  \n  \nGophers - Opportunity is Knocking — We’re a premier software engineering firm looking for mid to senior level engineers to help us develop advanced software solutions and applications in Go. Got at least 1 year of professional Go experience and located in the A…",
+          "link": "https://golangweekly.com/issues/445",
+          "publishedOn": "2023-01-27T00:00:00.000Z",
+          "wordCount": 780,
+          "title": "Grab yourself a Go-flavored mocktail",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/444",
           "author": null,
