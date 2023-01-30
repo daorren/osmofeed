@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-29T01:40:02.430Z</updated>
+    <updated>2023-01-30T01:24:58.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #90 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-90/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-90/"/>
+        <updated>2023-01-28T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag!
+
+Do you know that you can use CSS Grid to animate an element's height? Have you heard of the new scrollend JavaScript event? Or do you use rel="tag" somewhere?
+All the answers and much more are included in this week's Web Weekly. 🫣
+Regarding forms, you should rely on the native form elements because they provide the best user experience, right?
+I remember being overly excited when Safari finally started supporting date inputs two years ago.
+But are these native elements really always the best choice?
+Robin Thomas shared multiple reasons why the iOS date picker sucks. And I can relate — filling in a date on mobile sometimes feels like this CodePen.
+But what about the other elements? Number inputs also come with quirks and different behavior across browsers. 😢
+It seems the input…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Quantum Physicists ‘Flipped Time’ (and How They Didn’t)]]></title>
         <id>https://www.quantamagazine.org/?p=122661</id>

@@ -1483,6 +1483,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-90/",
+          "author": null,
+          "description": "Guten Tag!\n\nDo you know that you can use CSS Grid to animate an element's height? Have you heard of the new scrollend JavaScript event? Or do you use rel=\"tag\" somewhere?\nAll the answers and much more are included in this week's Web Weekly. 🫣\nRegarding forms, you should rely on the native form elements because they provide the best user experience, right?\nI remember being overly excited when Safari finally started supporting date inputs two years ago.\nBut are these native elements really always the best choice?\nRobin Thomas shared multiple reasons why the iOS date picker sucks. And I can relate — filling in a date on mobile sometimes feels like this CodePen.\nBut what about the other elements? Number inputs also come with quirks and different behavior across browsers. 😢\nIt seems the input…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-90/",
+          "publishedOn": "2023-01-28T23:00:00.000Z",
+          "wordCount": 2046,
+          "title": "Web Weekly #90 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
           "id": "https://www.stefanjudis.com/notes/why-doesnt-json-support-comments/",
           "author": null,
           "description": "Did you ever curse the JSON data format for not allowing comments and wondered what the heck? Yeah, same here.\nSurprisingly, JSON, in its initial spec, did allow comments, but comment support was removed for three reasons:\nPeople put parsing instructions into comments breaking portability across platforms and languages.\nComments introduced complexity that might not be needed for a data format.\nThe JSON creators wanted it to be compatible with early YAML versions.\nIt's a bummer because JSON outgrew its serial data use case, and it's widespread to have JSON config files these days. :/\nPawel Grzybek pointed out that the lack of comments and other features led to the JSON5 spec, which aimed to be a JSON extension suitable for config files and was adopted by VS Code and many other software products today.\nIf you want to learn more, here's why comments were removed on YouTube.\n\n\n          \n          \n            Reply to Stefan",
