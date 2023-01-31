@@ -12,6 +12,96 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-dockerize-an-adonisjs-application/",
+          "author": "Solomon Eseme",
+          "description": "Creating software is hard. So you want to build it once and run it everywhere without adjusting configurations for different operating systems and machines every time. Well, this is one problem that dockerizing your application can help solve. Here's what we'll cover in this tutorial:  * What is Docker?",
+          "link": "https://www.freecodecamp.org/news/how-to-dockerize-an-adonisjs-application/",
+          "publishedOn": "2023-01-31T00:00:41.000Z",
+          "wordCount": 2461,
+          "title": "How to Dockerize an AdonisJS Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-163726--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/usereducer-hook-react/",
+          "author": "Kunal Nalawade",
+          "description": "State is an important part of a React application. Most functionalities involve making state updates in your component.  But as your application grows, state updates become more and more complex. These complex state updates might get overwhelming when you revisit your code. There is a different way of handling",
+          "link": "https://www.freecodecamp.org/news/usereducer-hook-react/",
+          "publishedOn": "2023-01-30T23:15:08.000Z",
+          "wordCount": 1587,
+          "title": "React Hooks Tutorial – How to Use the useReducer Hook",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/photo-1672309046475-4cce2039f342.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-get-a-remote-developer-job/",
+          "author": "George Field",
+          "description": "As the world continues to adapt to the new normal of remote work, the demand for remote developers has never been higher.  Companies are now realizing the benefits of hiring remote workers, including cost savings and access to a wider pool of talent.  If you're looking for a",
+          "link": "https://www.freecodecamp.org/news/how-to-get-a-remote-developer-job/",
+          "publishedOn": "2023-01-30T22:09:18.000Z",
+          "wordCount": 1974,
+          "title": "How to Find a Remote Developer Job in 2023",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-ekaterina-bolovtsova-4049459.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-lists-work-in-java/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use the Java List interface to store objects/elements in a an ordered collection. It extends the Collection interface.  TheList interface provides us with various methods for inserting, accessing, and deleting elements in a collection. In this article, you'll learn how to extend and implement the List interface",
+          "link": "https://www.freecodecamp.org/news/how-lists-work-in-java/",
+          "publishedOn": "2023-01-30T18:09:11.000Z",
+          "wordCount": 1310,
+          "title": "Java List – Example Lists in Java",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/java-list-interface-cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/google-sheets-multiple-data-validation-selections/",
+          "author": "Eamonn Cottrell",
+          "description": "In this article I will show you how to allow for multiple items to be selected using the drop-down data validation feature in Google Sheets. Here's the Google Sheet [https://docs.google.com/spreadsheets/d/1yxc4k1x5idcS_moQ1Bq8LnHGZF2nm9dpARglY7Rv0UI/edit#gid=390071620]  we'll use for the example. You can make a copy of this to edit yourself by clicking File ->",
+          "link": "https://www.freecodecamp.org/news/google-sheets-multiple-data-validation-selections/",
+          "publishedOn": "2023-01-30T17:30:58.000Z",
+          "wordCount": 2261,
+          "title": "Google Sheets Tutorial – How to Enable Multiple Selection Data Validation Using Apps Script",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/multiple-selection-data-validation.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/where-hot-tech-trends-go-to-die/",
+          "author": "David Clinton",
+          "description": "If you're interested in technology, you may also have an active interest in learning about hot technology trends.  But you don't want to take every last one of these gadgets and business fads too seriously: some are bound to disappoint.  (Although don't think you can hold me personally",
+          "link": "https://www.freecodecamp.org/news/where-hot-tech-trends-go-to-die/",
+          "publishedOn": "2023-01-30T17:17:50.000Z",
+          "wordCount": 2343,
+          "title": "Where Hot Trends Go to Die – What We Can Learn from Failed Tech Products",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-francesco-ungaro-998646.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/using-typescript-in-react-apps/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! A while ago I wrote an article about TypeScript [/news/an-introduction-to-typescript/], explaining its main features and why it's a good idea to use it in large projects.  Today we're going to take a quick look at how we can use TypeScript in a React app, so you can",
+          "link": "https://www.freecodecamp.org/news/using-typescript-in-react-apps/",
+          "publishedOn": "2023-01-30T16:59:27.000Z",
+          "wordCount": 1856,
+          "title": "How to Use TypeScript in React Apps",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/bruno-martins-OhJmwB4XWLE-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/http-networking-protocol-course/",
+          "author": "Beau Carnes",
+          "description": "HTTP (Hypertext Transfer Protocol) is the foundation of data communication on the World Wide Web. It is used to transfer data from the client (web browser) to the server (web host) and vice versa. Understanding the basics of HTTP networking is crucial for anyone who wants to pursue a career",
+          "link": "https://www.freecodecamp.org/news/http-networking-protocol-course/",
+          "publishedOn": "2023-01-30T16:54:31.000Z",
+          "wordCount": 952,
+          "title": "Master the HTTP Networking Protocol",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/httpnetworking.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/vim-beginners-guide/",
+          "author": "Arunachalam B",
+          "description": "Vim is one of the most popular text editors among Linux users. Linux System Administrators especially often prefer it to other editors.  In this article, you'll learn a lot about Vim and see how you can quickly start using Vim as a developer. What is Vim?  Vim is",
+          "link": "https://www.freecodecamp.org/news/vim-beginners-guide/",
+          "publishedOn": "2023-01-30T16:08:32.000Z",
+          "wordCount": 2900,
+          "title": "How to Use Vim – Tutorial for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/BB---Vim---A-Quick-Beginner-s-Guide.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/database-migration-golang-migrate/",
           "author": "Rwitesh Bera",
           "description": "Since its introduction, the programming language Go (also known as Golang) has become increasingly popular. It is known for its simplicity and efficient performance, similar to that of a lower-level language such as C++.  While working with a database, schema migration is one of the most important tasks that",
@@ -1269,6 +1359,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=122689",
+          "author": "Jonathan O'Callaghan",
+          "description": "Theory has it that “Population III” stars brought light to the cosmos. The James Webb Space Telescope may have just glimpsed them.            \nThe post Astronomers Say They Have Spotted the Universe’s First Stars first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/astronomers-say-they-have-spotted-the-universes-first-stars-20230130/",
+          "publishedOn": "2023-01-30T15:00:39.000Z",
+          "wordCount": 6680,
+          "title": "Astronomers Say They Have Spotted the Universe’s First Stars",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/POPULATION-III-STARSbyMerrillSherman_1200x630.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=122661",
           "author": "Charlie Wood",
           "description": "Two teams have made photons act as if time were simultaneously flowing in two directions. The experiments demonstrate a way to potentially boost the performance of quantum devices.            \nThe post How Quantum Physicists ‘Flipped Time’ (and How They Didn’t) first appeared on Quanta Magazine",
@@ -1436,6 +1536,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "63cf0a3cc070322ba80e93af",
+          "author": "Assaf Arkin",
+          "description": "This week is loaded with AI. We use it to summarize and de-summarize, help us SQL, spoken words, and handwritten notes. We also settle a semantic debate and cure our Python envy.",
+          "link": "https://labnotes.org/weekend-reading-software-is-believing/",
+          "publishedOn": "2023-01-30T02:10:06.000Z",
+          "wordCount": 1697,
+          "title": "Weekend Reading — 😎 Software is believing",
+          "imageUrl": "https://labnotes.org/content/images/2023/01/code_lifespan_2x.png"
+        },
+        {
           "id": "63c35d869749e73dab57f109",
           "author": "Assaf Arkin",
           "description": "This week we load up on SVG, pay back tech debt, fight name complexity, learn how to build ChatGPT, and go in search of SF/Mission super burrito.",
@@ -1482,6 +1592,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/snippets/how-to-fail-function-calls-with-undefined-arguments-with-a-one-liner-sorta/",
+          "author": null,
+          "description": "I've been writing JavaScript for so long that I sometimes don't see its quirks. To be fair, there are fewer quirks than ten years ago, but some things would still make great language additions. One thing that would make a lot of sense is required function parameters.\nAssume you have a function that defines required arguments. And you really really want to make sure the function is called with the correct arguments by throwing an error.\nHere's what you might do:\nfunction doSomethingWithAThing(theThing) {\n  if (typeof theThing === \"undefined\") {\n    throw new Error(\"theThing is required\");\n  }\n}\n\nThat's quite a bit of code for such a simple thing.\nUnfortunately, you can't do something like this in JavaScript ...\nfunction doSomethingWithAThing(\n  theThing = throw new Error(\"theThing Is Undefined\")\n) {\n  // ...\n}\n\n... because JavaScript doesn't like it.\nPeter Kröner published a handy snippet that he carries around from project to project. The post is in German, so here's the English gist of it.\nFirst, define a fail function.\nfunction fail(reason, ErrorConstructor = Error) {\n  throw new ErrorConstructor(reason);\n}\n\nAnd second... use it. 🫣\nBy restructuring the code and transforming the error throwing portion into an expression, you can immediately throw in case a function is called without the required parameters.\nfunction doSomethingWithAThing(\n  theThing = fail('theThing Is Undefined')\n) {\n  // ...\n}\n\nWhat a beautiful sort of one-line workaround.\nThanks Peter!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/snippets/how-to-fail-function-calls-with-undefined-arguments-with-a-one-liner-sorta/",
+          "publishedOn": "2023-01-29T23:00:00.000Z",
+          "wordCount": 1289,
+          "title": "How to fail function calls with undefined arguments with a one-liner (sorta) (#snippet)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20fail%20function%20calls%20with%20undefined%20arguments%20with%20a%20one-liner%20(sorta)/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-90/",
           "author": null,
