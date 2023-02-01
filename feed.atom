@@ -2,10 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-31T01:39:18.487Z</updated>
+    <updated>2023-02-01T01:46:34.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use the "this" Keyword in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/the-this-keyword-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/the-this-keyword-in-javascript/"/>
+        <updated>2023-01-31T23:40:14.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! In this article we're going to talk about the THIS keyword in Javascript.  This used to be a concept that confused me a little bit, so I'll try to break it down for you so you can understand its uses and in what situations can it be]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asynchronous Programming in JavaScript – Guide for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/"/>
+        <updated>2023-01-31T23:17:27.000Z</updated>
+        <summary type="html"><![CDATA[To understand what asynchronous programming means, think about multiple people working on a project simultaneously, each on a different task. In traditional (synchronous) programming, each person would have to wait for the person before them to finish their task before starting their own.  But with asynchronous programming, everyone can]]></summary>
+        <author>
+            <name>Dickson Boateng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio vs Visual Studio Code – What's The Difference Between These IDE Code Editors?]]></title>
+        <id>https://www.freecodecamp.org/news/visual-studio-vs-visual-studio-code/</id>
+        <link href="https://www.freecodecamp.org/news/visual-studio-vs-visual-studio-code/"/>
+        <updated>2023-01-31T19:17:31.000Z</updated>
+        <summary type="html"><![CDATA[The first time I heard about “Visual Studio”, I thought it was the same as “Visual Studio Code”. I don’t know why Microsoft decided to confuse everyone with the names of those two development tools. But that’s a story for another day. “Visual Studio” and “Visual Studio Code” are not]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chart.js Tutorial – How to Make Pie and Doughnut Charts in Angular]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-make-pie-and-doughnut-charts-using-chartjs-in-angular/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-pie-and-doughnut-charts-using-chartjs-in-angular/"/>
+        <updated>2023-01-31T17:03:23.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial we will learn how to create a simple pie and doughnut chart using the Chart.js library in an Angular application. What is Chart.js? Chart.js is a JavaScript library for building charts. It's designed to be intuitive and simple, but it's powerful enough to build complex visualizations.]]></summary>
+        <author>
+            <name>Swatej Patil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Length of List – How to Find the Size of a List]]></title>
+        <id>https://www.freecodecamp.org/news/python-length-of-list-how-to-find-the-size-of-a-list/</id>
+        <link href="https://www.freecodecamp.org/news/python-length-of-list-how-to-find-the-size-of-a-list/"/>
+        <updated>2023-01-31T16:56:55.000Z</updated>
+        <summary type="html"><![CDATA[A list is a data structure in Python that contains multiple elements in a particular order. And sometimes you might need to get the size of a list. I'll show you how to do that in this article. How to Create a List in Python You can create lists in]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Does the Brain Operate at Peak Performance?]]></title>
+        <id>https://www.quantamagazine.org/?p=122741</id>
+        <link href="https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-best-20230131/"/>
+        <updated>2023-01-31T15:53:00.000Z</updated>
+        <summary type="html"><![CDATA[The critical brain hypothesis suggests that neural networks do their best work when connections are not too weak or too strong.            
+The post When Does the Brain Operate at Peak Performance? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>John M. Beggs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Scraping in JavaScript – How to Use Puppeteer to Scrape Web Pages]]></title>
+        <id>https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/</id>
+        <link href="https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/"/>
+        <updated>2023-01-31T15:26:55.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the world of web scraping! Have you ever needed data from a website but found it hard to access it in a structured format? This is where web scraping comes in. Using scripts, we can extract the data we need from a website for various purposes, such as]]></summary>
+        <author>
+            <name>Gaël Thomas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Unit Tests for Instance Methods in Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-write-unit-tests-for-instance-methods-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-unit-tests-for-instance-methods-in-python/"/>
+        <updated>2023-01-31T00:13:54.000Z</updated>
+        <summary type="html"><![CDATA[This tutorial will teach you how to write unit tests for instance methods in Python. In a previous tutorial [/news/how-to-write-unit-tests-for-python-functions/], we covered how to write unit tests for Python functions. While unit testing for instance methods works similarly, you may have some challenges creating and managing objects (instances of a]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Require – How to Use the require() Function in JS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-the-javascript-require-function/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-javascript-require-function/"/>
+        <updated>2023-01-31T00:07:43.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, modules refer to a file that holds JavaScript code which performs a specific purpose. Modules are self-contained, making it easy to add, remove, and update functionalities without affecting your entire code because they are decoupled from other pieces of code. When you have these modules in separate JavaScript]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Dockerize an AdonisJS Application]]></title>
         <id>https://www.freecodecamp.org/news/how-to-dockerize-an-adonisjs-application/</id>

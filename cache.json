@@ -12,6 +12,86 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/the-this-keyword-in-javascript/",
+          "author": "Germán Cocca",
+          "description": "Hey everyone! In this article we're going to talk about the THIS keyword in Javascript.  This used to be a concept that confused me a little bit, so I'll try to break it down for you so you can understand its uses and in what situations can it be",
+          "link": "https://www.freecodecamp.org/news/the-this-keyword-in-javascript/",
+          "publishedOn": "2023-01-31T23:40:14.000Z",
+          "wordCount": 1869,
+          "title": "How to Use the \"this\" Keyword in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/brad-_Js9c6w_FDk-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/",
+          "author": "Dickson Boateng",
+          "description": "To understand what asynchronous programming means, think about multiple people working on a project simultaneously, each on a different task. In traditional (synchronous) programming, each person would have to wait for the person before them to finish their task before starting their own.  But with asynchronous programming, everyone can",
+          "link": "https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/",
+          "publishedOn": "2023-01-31T23:17:27.000Z",
+          "wordCount": 3925,
+          "title": "Asynchronous Programming in JavaScript – Guide for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Asynchronous-programming.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/visual-studio-vs-visual-studio-code/",
+          "author": "Kolade Chris",
+          "description": "The first time I heard about “Visual Studio”, I thought it was the same as “Visual Studio Code”. I don’t know why Microsoft decided to confuse everyone with the names of those two development tools. But that’s a story for another day. “Visual Studio” and “Visual Studio Code” are not",
+          "link": "https://www.freecodecamp.org/news/visual-studio-vs-visual-studio-code/",
+          "publishedOn": "2023-01-31T19:17:31.000Z",
+          "wordCount": 1676,
+          "title": "Visual Studio vs Visual Studio Code – What's The Difference Between These IDE Code Editors?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/VSvVSC.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-make-pie-and-doughnut-charts-using-chartjs-in-angular/",
+          "author": "Swatej Patil",
+          "description": "In this tutorial we will learn how to create a simple pie and doughnut chart using the Chart.js library in an Angular application. What is Chart.js? Chart.js is a JavaScript library for building charts. It's designed to be intuitive and simple, but it's powerful enough to build complex visualizations.",
+          "link": "https://www.freecodecamp.org/news/how-to-make-pie-and-doughnut-charts-using-chartjs-in-angular/",
+          "publishedOn": "2023-01-31T17:03:23.000Z",
+          "wordCount": 1730,
+          "title": "Chart.js Tutorial – How to Make Pie and Doughnut Charts in Angular",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/piechart-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-length-of-list-how-to-find-the-size-of-a-list/",
+          "author": "Dillion Megida",
+          "description": "A list is a data structure in Python that contains multiple elements in a particular order. And sometimes you might need to get the size of a list. I'll show you how to do that in this article. How to Create a List in Python You can create lists in",
+          "link": "https://www.freecodecamp.org/news/python-length-of-list-how-to-find-the-size-of-a-list/",
+          "publishedOn": "2023-01-31T16:56:55.000Z",
+          "wordCount": 1163,
+          "title": "Python Length of List – How to Find the Size of a List",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/18.-length-of-list.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/",
+          "author": "Gaël Thomas",
+          "description": "Welcome to the world of web scraping! Have you ever needed data from a website but found it hard to access it in a structured format? This is where web scraping comes in. Using scripts, we can extract the data we need from a website for various purposes, such as",
+          "link": "https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/",
+          "publishedOn": "2023-01-31T15:26:55.000Z",
+          "wordCount": 3239,
+          "title": "Web Scraping in JavaScript – How to Use Puppeteer to Scrape Web Pages",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/web-scraping-in-javascript-with-puppeteer.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-write-unit-tests-for-instance-methods-in-python/",
+          "author": "Bala Priya C",
+          "description": "This tutorial will teach you how to write unit tests for instance methods in Python. In a previous tutorial [/news/how-to-write-unit-tests-for-python-functions/], we covered how to write unit tests for Python functions. While unit testing for instance methods works similarly, you may have some challenges creating and managing objects (instances of a",
+          "link": "https://www.freecodecamp.org/news/how-to-write-unit-tests-for-instance-methods-in-python/",
+          "publishedOn": "2023-01-31T00:13:54.000Z",
+          "wordCount": 1705,
+          "title": "How to Write Unit Tests for Instance Methods in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/instance-methods-python.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-the-javascript-require-function/",
+          "author": "Joel Olawanle",
+          "description": "In JavaScript, modules refer to a file that holds JavaScript code which performs a specific purpose. Modules are self-contained, making it easy to add, remove, and update functionalities without affecting your entire code because they are decoupled from other pieces of code. When you have these modules in separate JavaScript",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-javascript-require-function/",
+          "publishedOn": "2023-01-31T00:07:43.000Z",
+          "wordCount": 1239,
+          "title": "JavaScript Require – How to Use the require() Function in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/cover-template--11-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-dockerize-an-adonisjs-application/",
           "author": "Solomon Eseme",
           "description": "Creating software is hard. So you want to build it once and run it everywhere without adjusting configurations for different operating systems and machines every time. Well, this is one problem that dockerizing your application can help solve. Here's what we'll cover in this tutorial:  * What is Docker?",
@@ -1358,6 +1438,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=122741",
+          "author": "John M. Beggs",
+          "description": "The critical brain hypothesis suggests that neural networks do their best work when connections are not too weak or too strong.            \nThe post When Does the Brain Operate at Peak Performance? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-best-20230131/",
+          "publishedOn": "2023-01-31T15:53:00.000Z",
+          "wordCount": 5469,
+          "title": "When Does the Brain Operate at Peak Performance?",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/CriticalityVide-byMyriamWares-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=122689",
           "author": "Jonathan O'Callaghan",
