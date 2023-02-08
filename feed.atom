@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-07T01:34:29.951Z</updated>
+    <updated>2023-02-08T01:37:54.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Hide API Keys in Frontend Apps using Netlify Functions]]></title>
+        <id>https://www.freecodecamp.org/news/hide-api-keys-in-frontend-apps-using-netlify-functions/</id>
+        <link href="https://www.freecodecamp.org/news/hide-api-keys-in-frontend-apps-using-netlify-functions/"/>
+        <updated>2023-02-07T23:46:43.000Z</updated>
+        <summary type="html"><![CDATA[Netlify is a popular web development platform that makes it easier to build, deploy, and manage websites.  You can use Netlify to host websites, and it helps you update and release new changes. It also provides additional features such as security, user authentication and authorization services, and more. This]]></summary>
+        <author>
+            <name>Franklin Ohaegbulam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LOOKUP Functions in Google Sheets and Excel – VLOOKUP, XLOOKUP, and More]]></title>
+        <id>https://www.freecodecamp.org/news/lookup-functions-in-excel-google-sheets/</id>
+        <link href="https://www.freecodecamp.org/news/lookup-functions-in-excel-google-sheets/"/>
+        <updated>2023-02-07T20:47:26.000Z</updated>
+        <summary type="html"><![CDATA[There are several ways to lookup data in a spreadsheet. If you're building a dashboard, you'll find this very useful.  The =XLOOKUP() function is my new favorite way to lookup data. It's discussed in the last section 👇. We'll look at four of the built in lookup functions in]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Modern Compute Platforms Work]]></title>
+        <id>https://www.freecodecamp.org/news/modern-compute-platforms/</id>
+        <link href="https://www.freecodecamp.org/news/modern-compute-platforms/"/>
+        <updated>2023-02-07T20:22:32.000Z</updated>
+        <summary type="html"><![CDATA[The way things sit now, if you were somehow allergic to computers, you'd be hard pressed to really banish them from your life, no matter where you found yourself.  Taking a quiet walk in the woods? What about the smartphone in your pocket. Left the phone in the car?]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java For Loop Example]]></title>
+        <id>https://www.freecodecamp.org/news/java-for-loop-example/</id>
+        <link href="https://www.freecodecamp.org/news/java-for-loop-example/"/>
+        <updated>2023-02-07T17:41:44.000Z</updated>
+        <summary type="html"><![CDATA[You can use loops in programming to carry out a set of instructions repeatedly until a certain condition is met. There are three types of loops in Java:   * for loop.  * while loop.   * do...while loop. In this article, we'll focus on the for]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Discover a More Flexible Approach to Machine Learning]]></title>
+        <id>https://www.quantamagazine.org/?p=122883</id>
+        <link href="https://www.quantamagazine.org/researchers-discover-a-more-flexible-approach-to-machine-learning-20230207/"/>
+        <updated>2023-02-07T16:10:14.000Z</updated>
+        <summary type="html"><![CDATA[“Liquid” neural nets, based on a worm’s nervous system, can transform their underlying algorithms on the fly, giving them unprecedented speed and adaptability.            
+The post Researchers Discover a More Flexible Approach to Machine Learning first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steve Nadis</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #91 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-91/</id>
@@ -1816,16 +1867,6 @@ The post Ants Live 10 Times Longer by Altering Their Insulin Responses first app
 The post New Algorithm Closes Quantum Supremacy Window first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Ben Brubaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — 🧄 Garlic expressions]]></title>
-        <id>63b344b0c2cc9537c970afee</id>
-        <link href="https://labnotes.org/weekend-reading-garlic-expressions/"/>
-        <updated>2023-01-08T23:36:58.000Z</updated>
-        <summary type="html"><![CDATA[This week we draw with SVG, learn garlic expressions, watch an epic battle unfold, explore AI as assistive technology, replace .env with 1P, and bake an octopie.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>

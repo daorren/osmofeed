@@ -12,6 +12,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/hide-api-keys-in-frontend-apps-using-netlify-functions/",
+          "author": "Franklin Ohaegbulam",
+          "description": "Netlify is a popular web development platform that makes it easier to build, deploy, and manage websites.  You can use Netlify to host websites, and it helps you update and release new changes. It also provides additional features such as security, user authentication and authorization services, and more. This",
+          "link": "https://www.freecodecamp.org/news/hide-api-keys-in-frontend-apps-using-netlify-functions/",
+          "publishedOn": "2023-02-07T23:46:43.000Z",
+          "wordCount": 3762,
+          "title": "How to Hide API Keys in Frontend Apps using Netlify Functions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/FCC-hide-API-keys-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/lookup-functions-in-excel-google-sheets/",
+          "author": "Eamonn Cottrell",
+          "description": "There are several ways to lookup data in a spreadsheet. If you're building a dashboard, you'll find this very useful.  The =XLOOKUP() function is my new favorite way to lookup data. It's discussed in the last section 👇. We'll look at four of the built in lookup functions in",
+          "link": "https://www.freecodecamp.org/news/lookup-functions-in-excel-google-sheets/",
+          "publishedOn": "2023-02-07T20:47:26.000Z",
+          "wordCount": 1997,
+          "title": "LOOKUP Functions in Google Sheets and Excel – VLOOKUP, XLOOKUP, and More",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/lookupFCC.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/modern-compute-platforms/",
+          "author": "David Clinton",
+          "description": "The way things sit now, if you were somehow allergic to computers, you'd be hard pressed to really banish them from your life, no matter where you found yourself.  Taking a quiet walk in the woods? What about the smartphone in your pocket. Left the phone in the car?",
+          "link": "https://www.freecodecamp.org/news/modern-compute-platforms/",
+          "publishedOn": "2023-02-07T20:22:32.000Z",
+          "wordCount": 3938,
+          "title": "How Modern Compute Platforms Work",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-panumas-nikhomkhai-1148820--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/java-for-loop-example/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use loops in programming to carry out a set of instructions repeatedly until a certain condition is met. There are three types of loops in Java:   * for loop.  * while loop.   * do...while loop. In this article, we'll focus on the for",
+          "link": "https://www.freecodecamp.org/news/java-for-loop-example/",
+          "publishedOn": "2023-02-07T17:41:44.000Z",
+          "wordCount": 1230,
+          "title": "Java For Loop Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/java-for-loop.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/apis-for-beginners/",
           "author": "Beau Carnes",
           "description": "APIs, or Application Programming Interfaces, are a critical component of web development and programming. They provide a way for different applications and systems to communicate with each other, exchanging data and enabling functionalities. We just published an API basics course on the freeCodeCamp.org YouTube channel. This is an updated version",
@@ -1279,6 +1319,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=122883",
+          "author": "Steve Nadis",
+          "description": "“Liquid” neural nets, based on a worm’s nervous system, can transform their underlying algorithms on the fly, giving them unprecedented speed and adaptability.            \nThe post Researchers Discover a More Flexible Approach to Machine Learning first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/researchers-discover-a-more-flexible-approach-to-machine-learning-20230207/",
+          "publishedOn": "2023-02-07T16:10:14.000Z",
+          "wordCount": 5591,
+          "title": "Researchers Discover a More Flexible Approach to Machine Learning",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/LiquidNeuralNets-byKristinaArmitage-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=122851",
           "author": "Charlie Wood",
           "description": "Richard Feynman’s path integral is both a powerful prediction machine and a philosophy about how the world is. But physicists are still struggling to figure out how to use it, and what it means.             \nThe post How Our Reality May Be a Sum of All Possible Realities first appeared on Quanta Magazine",
@@ -1504,16 +1554,6 @@
           "wordCount": 1685,
           "title": "Weekend Reading — 👋 Shut the front door",
           "imageUrl": "https://labnotes.org/content/images/2023/01/SCR-20230114-ofb.png"
-        },
-        {
-          "id": "63b344b0c2cc9537c970afee",
-          "author": "Assaf Arkin",
-          "description": "This week we draw with SVG, learn garlic expressions, watch an epic battle unfold, explore AI as assistive technology, replace .env with 1P, and bake an octopie.",
-          "link": "https://labnotes.org/weekend-reading-garlic-expressions/",
-          "publishedOn": "2023-01-08T23:36:58.000Z",
-          "wordCount": 1558,
-          "title": "Weekend Reading — 🧄 Garlic expressions",
-          "imageUrl": "https://labnotes.org/content/images/2023/01/1b0d189f648e62142603457d035effc57bea85fb44f5cdccab41f2048cbf0d6c-1.jpg"
         }
       ]
     },
