@@ -12,6 +12,86 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/z-index-property-and-stacking-order-css/",
+          "author": "Franklin Okolie",
+          "description": "Frontend engineers can testify that they sometimes face weird z-index bugs and end up spending hours trying to fix them.  Change one property here and you have your header flying away from where it was meant to be.  Well, we can attribute this to the fact that debugging",
+          "link": "https://www.freecodecamp.org/news/z-index-property-and-stacking-order-css/",
+          "publishedOn": "2023-02-09T22:48:03.000Z",
+          "wordCount": 5367,
+          "title": "How the Z-index Property Works – Stacking Order of Elements in CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/stacked-books-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-search-files-in-the-linux-terminal/",
+          "author": "Arunachalam B",
+          "description": "Have you ever felt frustrated searching for files manually on your computer? If you’re a developer or DevOps engineer working on GUI-less Linux servers, it'll be hard navigating back and forth to find files. Many people are unaware of the power of Linux terminals. Linux has an incredibly powerful command",
+          "link": "https://www.freecodecamp.org/news/how-to-search-files-in-the-linux-terminal/",
+          "publishedOn": "2023-02-09T22:45:05.000Z",
+          "wordCount": 2279,
+          "title": "How to Search Files Effectively in the Linux Terminal",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/BB---How-to-search-files-effectively-in-linux.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/java-for-backend-web-development/",
+          "author": "David Fagbuyiro",
+          "description": "Java is a well-established and widely-used programming language. You can use it to create desktop and mobile applications, for massive data processing, for backend development, to program embedded devices, and more.  Oracle, the company that owns Java, claims that Java is used on 3 billion devices worldwide, making it",
+          "link": "https://www.freecodecamp.org/news/java-for-backend-web-development/",
+          "publishedOn": "2023-02-09T21:54:09.000Z",
+          "wordCount": 2190,
+          "title": "Why You Should Use Java for Backend Development",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-realtoughcandycom-11035547.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/window-functions-in-sql/",
+          "author": "Ibrahim Abayomi Ogunbiyi",
+          "description": "Window functions are an advanced type of function in SQL. They let you work with observations more easily.  Window functions give you access to features like advanced analytics and data manipulation without the need to write complex queries. In this lesson you will learn about what window functions are",
+          "link": "https://www.freecodecamp.org/news/window-functions-in-sql/",
+          "publishedOn": "2023-02-09T21:47:41.000Z",
+          "wordCount": 3408,
+          "title": "How to Use Window Functions in SQL – with Example Queries",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/windows-image.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-work-with-branches-in-git/",
+          "author": "Deborah Kurata",
+          "description": "One of the things we fell in love with when we saw our future backyard was the tree. The valley oak is the largest North American oak. It can grow to be 600 years old and 100 feet tall. It's known for its irregular, spreading branches. Speaking of branches...a key",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-branches-in-git/",
+          "publishedOn": "2023-02-09T21:42:10.000Z",
+          "wordCount": 1894,
+          "title": "How to Work with Branches in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/git-thumbnail.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-git-and-github-in-spanish-course-for-beginners/",
+          "author": "Estefania Cassingena Navone",
+          "description": "Hi! If you speak Spanish and you want to learn Git and GitHub, you are in the right place. In this article, you will find a brief introduction to Git and GitHub. You will learn why they are very powerful tools and why you should learn them if your goal",
+          "link": "https://www.freecodecamp.org/news/learn-git-and-github-in-spanish-course-for-beginners/",
+          "publishedOn": "2023-02-09T15:25:52.000Z",
+          "wordCount": 2559,
+          "title": "Learn Git and GitHub in Spanish – Course for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/thumbnail-v4.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/object-oriented-programming-javascript/",
+          "author": "Kedar Makode",
+          "description": "Object-Oriented Programming is a programming style based on classes and objects. These group data (properties) and methods (actions) inside a box.  OOP was developed to make code more flexible and easier to maintain. JavaScript is prototype-based procedural language, which means it supports both functional and object-oriented programming. What are",
+          "link": "https://www.freecodecamp.org/news/object-oriented-programming-javascript/",
+          "publishedOn": "2023-02-09T02:04:37.000Z",
+          "wordCount": 3772,
+          "title": "Object-Oriented Programming in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Frame-389.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-list-pop-how-to-pop-an-element-from-a-array/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Python has various built-in methods you can use to interact with elements stored in a list [/news/how-to-make-a-list-in-python-declare-lists-in-python-example/]. These methods let you add, access, modify, and remove elements.  In this article, you'll learn how to remove elements in a Python list using:  * The pop() method.  * The",
+          "link": "https://www.freecodecamp.org/news/python-list-pop-how-to-pop-an-element-from-a-array/",
+          "publishedOn": "2023-02-09T01:31:22.000Z",
+          "wordCount": 1174,
+          "title": "Python list.pop() – How to Pop an Element from a Array",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/kelly-sikkema--1_RZL8BGBM-unsplash.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/objects-in-javascript/",
           "author": "Kamaldeen Lawal",
           "description": "Objects are important data structures in JavaScript. This is partly because arrays are objects in JavaScript, and you'll use them all the time. Objects are super important for grouping data and functionalities, so you can do a lot with an object in JavaScript. The DOM node, and any DOM node",
@@ -1180,76 +1260,6 @@
           "wordCount": 1826,
           "title": "Developing Games Using Unreal Engine 5",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/ue3.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-css-create-the-git-logo/",
-          "author": "Jennifer Bland",
-          "description": "One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS items by creating the Git logo:  * Transform to rotate an image  * position relative and absolute  * pseudo classes ::before",
-          "link": "https://www.freecodecamp.org/news/learn-css-create-the-git-logo/",
-          "publishedOn": "2023-01-10T18:54:59.000Z",
-          "wordCount": 1420,
-          "title": "Learn CSS by Building the Git Logo in Pure CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Learn-CSS-Create-The-Git-Logo.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/sql-convert-the-date-to-string-or-datetime-function-2/",
-          "author": "Kolade Chris",
-          "description": "When you're working with SQL, you'll need to learn how to format dates properly. This is because dates are an important aspect of any SQL and other software-related activities. You need to be able to work with dates to add timestamps to entries and keep track of when things happen,",
-          "link": "https://www.freecodecamp.org/news/sql-convert-the-date-to-string-or-datetime-function-2/",
-          "publishedOn": "2023-01-10T18:30:50.000Z",
-          "wordCount": 1249,
-          "title": "SQL CONVERT – The DATE to String or DATETIME Function",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/dateToString.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/understanding-sql-joins/",
-          "author": "Zubair Idris Aweda",
-          "description": "SQL is a programming language we use to interact with relational databases. SQL databases contain tables, which contain rows of data. These tables usually contain similar or related data. In an office management web application database, you would have tables for  employees, their departments, their managers, the projects they",
-          "link": "https://www.freecodecamp.org/news/understanding-sql-joins/",
-          "publishedOn": "2023-01-10T18:23:24.000Z",
-          "wordCount": 3144,
-          "title": "SQL Joins – LEFT Join, RIGHT Join, and INNER Join Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/JOIN-s.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-performance-async-defer/",
-          "author": "TAPAS ADHIKARY",
-          "description": "In web programming, JavaScript brings interactiveness and dynamic behaviour to your web pages. While HTML and CSS take care of the structure and aesthetics of the pages, they will be merely usable without JavaScript doing its job in the background. You can include JavaScript code in the HTML file in",
-          "link": "https://www.freecodecamp.org/news/javascript-performance-async-defer/",
-          "publishedOn": "2023-01-10T18:18:31.000Z",
-          "wordCount": 2898,
-          "title": "JavaScript Performance – How to Improve Page Speed with async and defer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/freeCodeCamp-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-projects-for-beginners-easy-ideas-with-code/",
-          "author": "Reed Barger",
-          "description": "You're ready to start making simple projects with React, but you don't know what to make. Where should you start? I have created seven unique and fun React projects for you to make, all of which will teach you essential React concepts that you need to know in 2023.",
-          "link": "https://www.freecodecamp.org/news/react-projects-for-beginners-easy-ideas-with-code/",
-          "publishedOn": "2023-01-10T17:53:44.000Z",
-          "wordCount": 1985,
-          "title": "React Projects for Beginners in 2023 – Fun Ideas with Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/7-react-projects-beginners.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/beginners-guide-to-digital-privacy/",
-          "author": "David Clinton",
-          "description": "For all the many benefits we enjoy from technology – and particularly the technologies that make up the public internet – there are plenty of costs, too.  Figuring out how you want to balance the benefits against the costs can take some careful thinking. Here's a concise and effective",
-          "link": "https://www.freecodecamp.org/news/beginners-guide-to-digital-privacy/",
-          "publishedOn": "2023-01-10T17:45:33.000Z",
-          "wordCount": 3963,
-          "title": "What Is Digital Privacy? A Beginner's Guide to Protecting Your Data",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-kevin-paster-1901388.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/props-in-react/",
-          "author": "Tooba Jamal",
-          "description": "When you're first learning React, props are often one of the most difficult topics to understand – especially when it comes to passing props across components. And when you need similar props in more than one component, things can get really tricky. In this guide, we will start by understanding",
-          "link": "https://www.freecodecamp.org/news/props-in-react/",
-          "publishedOn": "2023-01-10T16:01:03.000Z",
-          "wordCount": 3049,
-          "title": "How to Use Props in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/all-about-props-in-react-1.png"
         }
       ]
     },
@@ -1258,6 +1268,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=122908",
+          "author": "Polly Stryker",
+          "description": "As The Joy of Why podcast returns for a second season, producer Polly Stryker and host Steven Strogatz invite listeners to join them and their brilliant new guests on another voyage of discovery.            \nThe post The Joy of Asking About Infinity, Jellyfish and the End of the Universe first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-joy-of-asking-about-infinity-jellyfish-and-the-end-of-the-universe-20230209/",
+          "publishedOn": "2023-02-09T15:16:50.000Z",
+          "wordCount": 4554,
+          "title": "The Joy of Asking About Infinity, Jellyfish and the End of the Universe",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/JoY-OpeningEssay-byPeterGreenwood-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=122916",
           "author": "Lyndie Chiou",
@@ -1437,16 +1457,6 @@
           "wordCount": 8199,
           "title": "Starfish Whisperer Develops a Physical Language of Life",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/Nikta-Fakhri-byKatherineTaylor-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=122007",
-          "author": "Viviane Callier",
-          "description": "Queen ants live far longer than genetically identical workers. Researchers are learning what their longevity secrets could mean for aging in other species.            \nThe post Ants Live 10 Times Longer by Altering Their Insulin Responses first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/ants-live-10-times-longer-by-altering-their-insulin-responses-20230110/",
-          "publishedOn": "2023-01-10T16:46:31.000Z",
-          "wordCount": 7907,
-          "title": "Ants Live 10 Times Longer by Altering Their Insulin Responses",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/AntsLifespan-byDanielKronauer-Social.jpg"
         }
       ]
     },
