@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-use-mysql-transactions/",
+          "author": "Aisha Bukar",
+          "description": "What is a Database Transaction and Why is it Important? A database transaction is a single area of the database where multiple data operations are carried out and written as a whole.  These operations can be create, read, update, or delete operations.  During the process of a transaction,",
+          "link": "https://www.freecodecamp.org/news/how-to-use-mysql-transactions/",
+          "publishedOn": "2023-02-10T21:35:03.000Z",
+          "wordCount": 2805,
+          "title": "How to Use MySQL Transactions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/White-Minimalist-Dental-Clinic-Facebook-Cover--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-modulo-operator-how-to-use-the-modulus-in-js/",
+          "author": "Joel Olawanle",
+          "description": "In JavaScript, you may need to perform mathematical calculations such as determining if a number is even or odd, wrapping values within a range, and converting between degrees and radians in trigonometry. To help you perform all these mathematical calculations, the modulo operator can be extremely useful. This article will",
+          "link": "https://www.freecodecamp.org/news/javascript-modulo-operator-how-to-use-the-modulus-in-js/",
+          "publishedOn": "2023-02-10T19:35:28.000Z",
+          "wordCount": 1278,
+          "title": "JavaScript Modulo Operator – How to Use the Modulus in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/cover-template--1--1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-get-github-pro-and-replit-hacker-for-free-as-a-student/",
+          "author": "Eesa Zahed",
+          "description": "If you are in high school or college/university and are interested in coding, you should consider signing up for GitHub Education.  This allows you to use GitHub Pro, as well as having many other benefits.  In this quick guide, I'll show you the steps to sign up for",
+          "link": "https://www.freecodecamp.org/news/how-to-get-github-pro-and-replit-hacker-for-free-as-a-student/",
+          "publishedOn": "2023-02-10T17:47:17.000Z",
+          "wordCount": 1276,
+          "title": "How to Get GitHub Pro and Replit Hacker for Free as a Student",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/coderr.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-a-rest-api/",
+          "author": "Dionysia Lemonaki",
+          "description": "An API (short for Application Programming Interface) allows for two or more applications to communicate with one another and send data back and forth. APIs operated based on a standardized set of rules and they're an integral component of modern-day software development. There are different API styles, and each one",
+          "link": "https://www.freecodecamp.org/news/what-is-a-rest-api/",
+          "publishedOn": "2023-02-10T16:39:44.000Z",
+          "wordCount": 2012,
+          "title": "What is a REST API? API Endpoint Request Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-life-of-pix-42408.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/set-and-map-in-javascript/",
+          "author": "Kamaldeen Lawal",
+          "description": "There are three major iterables available in JavaScript: Arrays, Maps, and Sets.  In this article, we will cover the following topics:   * What is an Array?  * What is a Set?  * What is a Map?  * How to Create a Set",
+          "link": "https://www.freecodecamp.org/news/set-and-map-in-javascript/",
+          "publishedOn": "2023-02-10T15:29:36.000Z",
+          "wordCount": 3352,
+          "title": "How to Use Set and Map in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/kamaldeenlawal94@gmail.com--1-.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/z-index-property-and-stacking-order-css/",
           "author": "Franklin Okolie",
           "description": "Frontend engineers can testify that they sometimes face weird z-index bugs and end up spending hours trying to fix them.  Change one property here and you have your header flying away from where it was meant to be.  Well, we can attribute this to the fact that debugging",
@@ -1200,66 +1250,6 @@
           "wordCount": 1322,
           "title": "Matplotlib Figure Size – How to Change Plot Size in Python with plt.figsize()",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/isaac-smith-6EnTPvPPL6I-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/differences-between-var-let-const-javascript/",
-          "author": "Dillion Megida",
-          "description": "In JavaScript, you can declare variables with the var, let, and const keywords. But what are the differences between them? That's what I'll explain in this tutorial. I have a video version of this topic [https://youtu.be/Gd_JG3e1g4A] you can check out as well. 😇 If you're just starting out using JavaScript,",
-          "link": "https://www.freecodecamp.org/news/differences-between-var-let-const-javascript/",
-          "publishedOn": "2023-01-11T22:48:17.000Z",
-          "wordCount": 2702,
-          "title": "var, let, and const in JavaScript – the Differences Between These Keywords Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/15.-var-let-const.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/web-accessibility-common-aria-mistakes-to-avoid/",
-          "author": "Ilknur Eren",
-          "description": "Accessible Rich Internet Applications – or ARIA – is a set of attributes and roles defined by the Web Accessibility Initiative [https://www.w3.org/WAI/]. These make the web more accessible to people with disabilities.  ARIA is extremely important for building accessible web applications. But it's very easy to misuse ARIA and",
-          "link": "https://www.freecodecamp.org/news/web-accessibility-common-aria-mistakes-to-avoid/",
-          "publishedOn": "2023-01-11T21:58:45.000Z",
-          "wordCount": 1643,
-          "title": "Web Accessibility – Common ARIA Mistakes to Avoid",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/a11y-image.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-css-create-the-google-logo/",
-          "author": "Jennifer Bland",
-          "description": "One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS items by creating the Google logo:  * position relative and absolute  * pseudo classes ::before and ::after  * positioning an element",
-          "link": "https://www.freecodecamp.org/news/learn-css-create-the-google-logo/",
-          "publishedOn": "2023-01-11T19:15:17.000Z",
-          "wordCount": 1446,
-          "title": "Learn CSS by Building the Google Logo in Pure CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Learn-CSS-Create-The-Google-Logo.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-react-dev-tools/",
-          "author": "Aman Kalra",
-          "description": "When you're working on a React project, one of the easiest ways to debug your code is using the React Dev Tools. React Dev Tools is an extension created by the React team. It enables developers to debug their code inside their Developer Tools. Once you add the extension, you",
-          "link": "https://www.freecodecamp.org/news/how-to-use-react-dev-tools/",
-          "publishedOn": "2023-01-11T18:18:53.000Z",
-          "wordCount": 1734,
-          "title": "How to Use React Dev Tools – With Example Code and Videos",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/thumbnail.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/accounting-number-format-in-excel-how-to-apply-it-to-selected-cells/",
-          "author": "Eamonn Cottrell",
-          "description": "In this article I will show you how to format cells in Microsoft Excel. We'll be looking particularly at the Accounting format for cells with numbers.  At the end of the article I'll give you two bonuses: a short video walkthrough of the methods we go over, as well",
-          "link": "https://www.freecodecamp.org/news/accounting-number-format-in-excel-how-to-apply-it-to-selected-cells/",
-          "publishedOn": "2023-01-11T18:11:38.000Z",
-          "wordCount": 1316,
-          "title": "Accounting Number Format in Excel – How to Apply it to Selected Cells",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/currency-vs-accounting-fcc-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/developing-games-using-unreal-engine-5/",
-          "author": "Beau Carnes",
-          "description": "Unreal Engine 5 is a powerful game engine that has been used to create some of the most popular and critically acclaimed games in recent years.  We just published an 11-hour Unreal Engine course for beginners on the freeCodeCamp.org YouTube channel. Sourav created this coruse. He has 7 years",
-          "link": "https://www.freecodecamp.org/news/developing-games-using-unreal-engine-5/",
-          "publishedOn": "2023-01-11T15:27:28.000Z",
-          "wordCount": 1826,
-          "title": "Developing Games Using Unreal Engine 5",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/ue3.png"
         }
       ]
     },
@@ -1268,6 +1258,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=122987",
+          "author": "Jordana Cepelewicz",
+          "description": "Is it possible to fill space “cubically” with shapes that act like spheres? A proof at the intersection of geometry and theoretical computer science says yes.            \nThe post Mathematicians Complete Quest to Build ‘Spherical Cubes’ first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/mathematicians-complete-quest-to-build-spherical-cubes-20230210/",
+          "publishedOn": "2023-02-10T15:10:34.000Z",
+          "wordCount": 9605,
+          "title": "Mathematicians Complete Quest to Build ‘Spherical Cubes’",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/SphericalCubes-byDVDP-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=122908",
           "author": "Polly Stryker",
@@ -1447,16 +1447,6 @@
           "wordCount": 7236,
           "title": "Probability and Number Theory Collide — in a Moment",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/ProbabilityTheory-byKristinaArmitage-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=122062",
-          "author": "Charlie Wood",
-          "description": "Nikta Fakhri is adapting and extending concepts from physics to describe how tiny biological components give rise to living organisms.             \nThe post Starfish Whisperer Develops a Physical Language of Life first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/starfish-whisperer-develops-a-physical-language-of-life-20230111/",
-          "publishedOn": "2023-01-11T15:21:41.000Z",
-          "wordCount": 8199,
-          "title": "Starfish Whisperer Develops a Physical Language of Life",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/Nikta-Fakhri-byKatherineTaylor-Social.webp"
         }
       ]
     },
@@ -1579,6 +1569,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/447",
+          "author": null,
+          "description": "#​447 — February 10, 2023\n\n\nUnsub  |  Web Version\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nAn Introduction to Go's Profile-Guided Optimization — What if the Go compiler could improve how it compiles software based upon real-world profiling? Profile-Guided Optimization (PGO) feeds runtime profiles to the compiler to optimize the binary based on usage. Go 1.20 includes initial support for this, so try this with your apps and (hopefully) see some perf gains.\nMichael Pratt \n\n\n  \n  \nTransparent Telemetry for Open Source Projects — It's an emotive topic, but Russ puts forth a concept of ‘transparent telemetry’, a privacy-sensitive approach to gathering usage data in the Go toolchain to help Go library devs, the core team, and others. There’s a lot to unpack and there's a a GitHub discussion…",
+          "link": "https://golangweekly.com/issues/447",
+          "publishedOn": "2023-02-10T00:00:00.000Z",
+          "wordCount": 938,
+          "title": "Should the Go toolchain collect usage data?",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/446",
           "author": null,
