@@ -1210,46 +1210,6 @@
           "wordCount": 2544,
           "title": "File Permissions in Linux – How to Use the chown and chgrp Commands",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/BB---Manage-Users-and-Groups-in-Linux.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-sql-database-definition-for-beginners/",
-          "author": "Joel Olawanle",
-          "description": "Data is a powerful tool that drives everything you see and interact with on the internet. It facilitates research and powers today's technology. It is the driving force behind today's artificial intelligence and robotics. And so much more. Previously, these data were stored on paper, in physical files within cabinets.",
-          "link": "https://www.freecodecamp.org/news/what-is-sql-database-definition-for-beginners/",
-          "publishedOn": "2023-01-12T18:23:07.000Z",
-          "wordCount": 1268,
-          "title": "What is SQL? Database Definition for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/cover-template--8-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/flexbox-grid-to-list-toggle-using-javascript/",
-          "author": "Jennifer Bland",
-          "description": "In this article, I will show you how to create a toggle to display items in a grid from a list. We'll do this using basic JavaScript skills with no external code or libraries. We will be using Flexbox to help us accomplish this. What We Will Be Creating Here's",
-          "link": "https://www.freecodecamp.org/news/flexbox-grid-to-list-toggle-using-javascript/",
-          "publishedOn": "2023-01-12T17:57:06.000Z",
-          "wordCount": 2062,
-          "title": "How to Create a Grid-to-List Layout Toggle using Flexbox and JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Grid-to-list-toggle-using-JavaScript-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/software-system-design-for-beginners/",
-          "author": "Beau Carnes",
-          "description": "Building large-scale distributed systems like Google, Facebook, Amazon, and Twitter requires an in-depth understanding of computer science principles. This allows systems to handle millions of users concurrently despite hardware failures. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to design software systems. This",
-          "link": "https://www.freecodecamp.org/news/software-system-design-for-beginners/",
-          "publishedOn": "2023-01-12T15:47:53.000Z",
-          "wordCount": 1009,
-          "title": "Software System Design for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/systemdesign.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/matplotlib-figure-size-change-plot-size-in-python/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When creating plots using Matplotlib, you get a default figure size of 6.4 for the width and 4.8 for the height (in inches). In this article, you'll learn how to change the plot size using the following:   * The figsize() attribute.   * The set_figwidth() method.",
-          "link": "https://www.freecodecamp.org/news/matplotlib-figure-size-change-plot-size-in-python/",
-          "publishedOn": "2023-01-12T15:29:17.000Z",
-          "wordCount": 1322,
-          "title": "Matplotlib Figure Size – How to Change Plot Size in Python with plt.figsize()",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/isaac-smith-6EnTPvPPL6I-unsplash.jpg"
         }
       ]
     },
@@ -1437,16 +1397,6 @@
           "wordCount": 5839,
           "title": "Mobile Genes From the Mother Shape the Baby’s Microbiome",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/MaternalMicrobiome-byKristinaArmitage-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=122102",
-          "author": "Leila Sloman",
-          "description": "Mathematicians are taking ideas developed to study random numbers and applying them to a broad range of categories.            \nThe post Probability and Number Theory Collide — in a Moment first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/in-a-moment-mathematicians-merge-probability-and-number-theory-20230112/",
-          "publishedOn": "2023-01-12T15:37:40.000Z",
-          "wordCount": 7236,
-          "title": "Probability and Number Theory Collide — in a Moment",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/ProbabilityTheory-byKristinaArmitage-Social.webp"
         }
       ]
     },
@@ -1502,6 +1452,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/how-to-narrow-and-secure-types-with-const-assertions/",
+          "author": null,
+          "description": "I'm continuing my journey of learning TypeScript, and it's a wild ride. Sometimes I feel like I have things under control, but other times, I'm looking at a type definition at work, and all I can do is scratch my head in confusion. It'll be a long journey!\nToday I discovered a somewhat basic but very useful feature that's in TS since 3.4 (released in 2019). That's a century in web development, but hey, I'm still starting out!\nHow to narrow types with const assertions\n\nLet's look at a trivial example.\nconst resource = {id: '123'};\n\nif (resource.id === '234') {\n  console.log('yay!');\n}\n\nIf you look at it, you'll probably see that there's no way this code logs out yay! because the resource.id isn't changed to 234. But TypeScript doesn't know that, and if you inspect the resulting type, you'll find that resource.id is just a string. And that does make sense because it doesn't matter if you declare an object with the const keyword; you can still change the properties as you like.\nBut what if you want to treat the object as truly immutable? Turns out, you can narrow types and explicitly tell TypeScript that resource won't change with two words — as const.\nconst resource = {id: '123'} as const;\n\nif (resource.id === '234') {\n  console.log('yay');\n}\n\nAnd voilà — look at this extra level of type safety! 👏\nNow that TypeScript knows that resource is immutable, it narrows the property type from string to 123, and it complains if you're trying to alter the constant object. That's pretty handy for all sorts of operations!\nThe TypeScript docs are a quick read if you want to learn more.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/how-to-narrow-and-secure-types-with-const-assertions/",
+          "publishedOn": "2023-02-10T23:00:00.000Z",
+          "wordCount": 1323,
+          "title": "How to narrow and secure types with const assertions (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20narrow%20and%20secure%20types%20with%20const%20assertions/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-91/",
           "author": null,
@@ -1607,16 +1567,6 @@
           "publishedOn": "2023-01-20T00:00:00.000Z",
           "wordCount": 858,
           "title": "Some problems with integers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/443",
-          "author": null,
-          "description": "#​443 — January 13, 2023\n\n\nUnsub  |  Web Version\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n\n  \n  \nWhat’s New in Go 1.20: Language Changes — The first in a (scheduled) three-part series, this post discusses tweaks to interfaces, generics, unsafe, as well as a new slice to array conversion technique.\nCarl M. Johnson \n\n\nIn related news, Go 1.20 release candidate 3 has just been released – its main fix is for this macOS bug so Mac users are particularly encouraged to test against it. Go 1.19.5 and 1.18.10 have also been released this week.\n\n\n\n\n\n  \n  \nEmbedding Our New React UI in Go — Flipt serves its web application from a single Go binary, embedding the static assets therein. Go 1.16’s native embedding set them on a journey that led to React and it works pretty well - no Next.js needed.\nGeorge MacRori…",
-          "link": "https://golangweekly.com/issues/443",
-          "publishedOn": "2023-01-13T00:00:00.000Z",
-          "wordCount": 807,
-          "title": "Block Mirror",
           "imageUrl": null
         }
       ]

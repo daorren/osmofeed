@@ -22,11 +22,71 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-02-10 datetime="2023-02-10T21:35:03.000Z">2023-02-10</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-02-10 datetime="2023-02-10T21:35:03.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-02-10 datetime="2023-02-10T23:00:00.000Z">2023-02-10</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-02-10 datetime="2023-02-10T23:00:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/today-i-learned/how-to-narrow-and-secure-types-with-const-assertions/"
+                        open
+                      >
+                        <summary class="article-expander__title">How to narrow and secure types with const assertions (#tilPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/how-to-narrow-and-secure-types-with-const-assertions/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20narrow%20and%20secure%20types%20with%20const%20assertions/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>I&#x27;m continuing my journey of learning TypeScript, and it&#x27;s a wild ride. Sometimes I feel like I have things under control, but other times, I&#x27;m looking at a type definition at work, and all I can do is scratch my head in confusion. It&#x27;ll be a long journey!
+Today I discovered a somewhat basic but very useful feature that&#x27;s in TS since 3.4 (released in 2019). That&#x27;s a century in web development, but hey, I&#x27;m still starting out!
+How to narrow types with const assertions
+
+Let&#x27;s look at a trivial example.
+const resource &#x3D; {id: &#x27;123&#x27;};
+
+if (resource.id &#x3D;&#x3D;&#x3D; &#x27;234&#x27;) {
+  console.log(&#x27;yay!&#x27;);
+}
+
+If you look at it, you&#x27;ll probably see that there&#x27;s no way this code logs out yay! because the resource.id isn&#x27;t changed to 234. But TypeScript doesn&#x27;t know that, and if you inspect the resulting type, you&#x27;ll find that resource.id is just a string. And that does make sense because it doesn&#x27;t matter if you declare an object with the const keyword; you can still change the properties as you like.
+But what if you want to treat the object as truly immutable? Turns out, you can narrow types and explicitly tell TypeScript that resource won&#x27;t change with two words — as const.
+const resource &#x3D; {id: &#x27;123&#x27;} as const;
+
+if (resource.id &#x3D;&#x3D;&#x3D; &#x27;234&#x27;) {
+  console.log(&#x27;yay&#x27;);
+}
+
+And voilà — look at this extra level of type safety! 👏
+Now that TypeScript knows that resource is immutable, it narrows the property type from string to 123, and it complains if you&#x27;re trying to alter the constant object. That&#x27;s pretty handy for all sorts of operations!
+The TypeScript docs are a quick read if you want to learn more.
+
+
+          
+          
+            Reply to Stefan</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -4357,216 +4417,12 @@ The post Mobile Genes From the Mother Shape the Baby’s Microbiome first appear
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Golang Weekly</button>
-                  <a class="source-heading__link" href="https://golangweekly.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://golangweekly.com/issues/443"
-                        open
-                      >
-                        <summary class="article-expander__title">Block Mirror</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://golangweekly.com/issues/443">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>#​443 — January 13, 2023
-
-
-Unsub  |  Web Version
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-
-  
-  
-What’s New in Go 1.20: Language Changes — The first in a (scheduled) three-part series, this post discusses tweaks to interfaces, generics, unsafe, as well as a new slice to array conversion technique.
-Carl M. Johnson 
-
-
-In related news, Go 1.20 release candidate 3 has just been released – its main fix is for this macOS bug so Mac users are particularly encouraged to test against it. Go 1.19.5 and 1.18.10 have also been released this week.
-
-
-
-
-
-  
-  
-Embedding Our New React UI in Go — Flipt serves its web application from a single Go binary, embedding the static assets therein. Go 1.16’s native embedding set them on a journey that led to React and it works pretty well - no Next.js needed.
-George MacRori…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-01-12 datetime="2023-01-12T18:23:07.000Z">2023-01-12</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-01-12 datetime="2023-01-12T18:23:07.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >freeCodeCamp.org</button>
-                  <a class="source-heading__link" href="https://www.freecodecamp.org/news/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/what-is-sql-database-definition-for-beginners/"
-                        open
-                      >
-                        <summary class="article-expander__title">What is SQL? Database Definition for Beginners</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/what-is-sql-database-definition-for-beginners/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2023/01/cover-template--8-.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Data is a powerful tool that drives everything you see and interact with on the internet. It facilitates research and powers today&#x27;s technology. It is the driving force behind today&#x27;s artificial intelligence and robotics. And so much more. Previously, these data were stored on paper, in physical files within cabinets.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/flexbox-grid-to-list-toggle-using-javascript/"
-                        open
-                      >
-                        <summary class="article-expander__title">How to Create a Grid-to-List Layout Toggle using Flexbox and JavaScript</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/flexbox-grid-to-list-toggle-using-javascript/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2023/01/Grid-to-list-toggle-using-JavaScript-1.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>In this article, I will show you how to create a toggle to display items in a grid from a list. We&#x27;ll do this using basic JavaScript skills with no external code or libraries. We will be using Flexbox to help us accomplish this. What We Will Be Creating Here&#x27;s</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/software-system-design-for-beginners/"
-                        open
-                      >
-                        <summary class="article-expander__title">Software System Design for Beginners</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/software-system-design-for-beginners/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2023/01/systemdesign.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Building large-scale distributed systems like Google, Facebook, Amazon, and Twitter requires an in-depth understanding of computer science principles. This allows systems to handle millions of users concurrently despite hardware failures. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to design software systems. This</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/matplotlib-figure-size-change-plot-size-in-python/"
-                        open
-                      >
-                        <summary class="article-expander__title">Matplotlib Figure Size – How to Change Plot Size in Python with plt.figsize()</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/matplotlib-figure-size-change-plot-size-in-python/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2023/01/isaac-smith-6EnTPvPPL6I-unsplash.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>When creating plots using Matplotlib, you get a default figure size of 6.4 for the width and 4.8 for the height (in inches). In this article, you&#x27;ll learn how to change the plot size using the following:   * The figsize() attribute.   * The set_figwidth() method.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Quanta Magazine</button>
-                  <a class="source-heading__link" href="https://www.quantamagazine.org">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.quantamagazine.org/?p&#x3D;122102"
-                        open
-                      >
-                        <summary class="article-expander__title">Probability and Number Theory Collide — in a Moment</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.quantamagazine.org/in-a-moment-mathematicians-merge-probability-and-number-theory-20230112/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/ProbabilityTheory-byKristinaArmitage-Social.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Mathematicians are taking ideas developed to study random numbers and applying them to a broad range of categories.            
-The post Probability and Number Theory Collide — in a Moment first appeared on Quanta Magazine</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;24
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/4149036755">
-        <time id="build-timestamp" datetime="2023-02-11T01:24:59.454Z">2023-02-11T01:24:59.454Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/4154108899">
+        <time id="build-timestamp" datetime="2023-02-12T01:40:02.689Z">2023-02-12T01:40:02.689Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

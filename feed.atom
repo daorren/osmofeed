@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-11T01:24:59.480Z</updated>
+    <updated>2023-02-12T01:40:02.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to narrow and secure types with const assertions (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/how-to-narrow-and-secure-types-with-const-assertions/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/how-to-narrow-and-secure-types-with-const-assertions/"/>
+        <updated>2023-02-10T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I'm continuing my journey of learning TypeScript, and it's a wild ride. Sometimes I feel like I have things under control, but other times, I'm looking at a type definition at work, and all I can do is scratch my head in confusion. It'll be a long journey!
+Today I discovered a somewhat basic but very useful feature that's in TS since 3.4 (released in 2019). That's a century in web development, but hey, I'm still starting out!
+How to narrow types with const assertions
+
+Let's look at a trivial example.
+const resource = {id: '123'};
+
+if (resource.id === '234') {
+  console.log('yay!');
+}
+
+If you look at it, you'll probably see that there's no way this code logs out yay! because the resource.id isn't changed to 234. But TypeScript doesn't know that, and if you inspect the resulting type, you'll find that resource.id is just a string. And that does make sense because it doesn't matter if you declare an object with the const keyword; you can still change the properties as you like.
+But what if you want to treat the object as truly immutable? Turns out, you can narrow types and explicitly tell TypeScript that resource won't change with two words — as const.
+const resource = {id: '123'} as const;
+
+if (resource.id === '234') {
+  console.log('yay');
+}
+
+And voilà — look at this extra level of type safety! 👏
+Now that TypeScript knows that resource is immutable, it narrows the property type from string to 123, and it complains if you're trying to alter the constant object. That's pretty handy for all sorts of operations!
+The TypeScript docs are a quick read if you want to learn more.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use MySQL Transactions]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-mysql-transactions/</id>
@@ -1754,95 +1790,6 @@ The post Mobile Genes From the Mother Shape the Baby’s Microbiome first appear
         <summary type="html"><![CDATA[When it comes to large organizations, Users and Groups in Linux play an important role in helping keep systems secure and properly functioning.  There can be different levels of users in an organization with different roles and permissions. And you'll need a good understanding Linux permissions to manage and/or]]></summary>
         <author>
             <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Block Mirror]]></title>
-        <id>https://golangweekly.com/issues/443</id>
-        <link href="https://golangweekly.com/issues/443"/>
-        <updated>2023-01-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​443 — January 13, 2023
-
-
-Unsub  |  Web Version
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-
-  
-  
-What’s New in Go 1.20: Language Changes — The first in a (scheduled) three-part series, this post discusses tweaks to interfaces, generics, unsafe, as well as a new slice to array conversion technique.
-Carl M. Johnson 
-
-
-In related news, Go 1.20 release candidate 3 has just been released – its main fix is for this macOS bug so Mac users are particularly encouraged to test against it. Go 1.19.5 and 1.18.10 have also been released this week.
-
-
-
-
-
-  
-  
-Embedding Our New React UI in Go — Flipt serves its web application from a single Go binary, embedding the static assets therein. Go 1.16’s native embedding set them on a journey that led to React and it works pretty well - no Next.js needed.
-George MacRori…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is SQL? Database Definition for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-sql-database-definition-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-sql-database-definition-for-beginners/"/>
-        <updated>2023-01-12T18:23:07.000Z</updated>
-        <summary type="html"><![CDATA[Data is a powerful tool that drives everything you see and interact with on the internet. It facilitates research and powers today's technology. It is the driving force behind today's artificial intelligence and robotics. And so much more. Previously, these data were stored on paper, in physical files within cabinets.]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Grid-to-List Layout Toggle using Flexbox and JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/flexbox-grid-to-list-toggle-using-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/flexbox-grid-to-list-toggle-using-javascript/"/>
-        <updated>2023-01-12T17:57:06.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I will show you how to create a toggle to display items in a grid from a list. We'll do this using basic JavaScript skills with no external code or libraries. We will be using Flexbox to help us accomplish this. What We Will Be Creating Here's]]></summary>
-        <author>
-            <name>Jennifer Bland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software System Design for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/software-system-design-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/software-system-design-for-beginners/"/>
-        <updated>2023-01-12T15:47:53.000Z</updated>
-        <summary type="html"><![CDATA[Building large-scale distributed systems like Google, Facebook, Amazon, and Twitter requires an in-depth understanding of computer science principles. This allows systems to handle millions of users concurrently despite hardware failures. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to design software systems. This]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Probability and Number Theory Collide — in a Moment]]></title>
-        <id>https://www.quantamagazine.org/?p=122102</id>
-        <link href="https://www.quantamagazine.org/in-a-moment-mathematicians-merge-probability-and-number-theory-20230112/"/>
-        <updated>2023-01-12T15:37:40.000Z</updated>
-        <summary type="html"><![CDATA[Mathematicians are taking ideas developed to study random numbers and applying them to a broad range of categories.            
-The post Probability and Number Theory Collide — in a Moment first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Leila Sloman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matplotlib Figure Size – How to Change Plot Size in Python with plt.figsize()]]></title>
-        <id>https://www.freecodecamp.org/news/matplotlib-figure-size-change-plot-size-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/matplotlib-figure-size-change-plot-size-in-python/"/>
-        <updated>2023-01-12T15:29:17.000Z</updated>
-        <summary type="html"><![CDATA[When creating plots using Matplotlib, you get a default figure size of 6.4 for the width and 4.8 for the height (in inches). In this article, you'll learn how to change the plot size using the following:   * The figsize() attribute.   * The set_figwidth() method.]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
         </author>
     </entry>
 </feed>
