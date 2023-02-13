@@ -22,6 +22,96 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-02-11 datetime="2023-02-11T23:00:00.000Z">2023-02-11</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-02-11 datetime="2023-02-11T23:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/blog/web-weekly-92/"
+                        open
+                      >
+                        <summary class="article-expander__title">Web Weekly #92 (#blogPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/blog/web-weekly-92/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.stefanjudis.com/newsletter-social.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Guten Tag! 👋
+
+Do you know that the new media query range syntax is almost cross-browser supported? Or that client-side navigation has hard-to-ignore accessibility impacts? Or that native CSS nesting shipped in Safari?
+All the answers and much more are included in this week&#x27;s Web Weekly. 🫣
+One of the Arc browser&#x27;s features is &quot;Boosts&quot; which allow you to inject custom CSS and JavaScript into sites. The idea is not new, but the feature is built into the browser.
+BTW: I still have five Arc invites hit reply if you want to try it.
+I always wonder if people really change sites because the chances are high that things break with a site update. Is that worth it?
+Apparently, many people tweak the web to their liking.
+Rach Smith hides shorts from her YT timeline.
+@hi__mayank disables GitHub&#x27;s wonk…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/notes/git-based-dotfile-management-without-symlinks/"
+                        open
+                      >
+                        <summary class="article-expander__title">Git-based dotfile management without symlinks (#note)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/notes/git-based-dotfile-management-without-symlinks/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Git-based%20dotfile%20management%20without%20symlinks/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>My dotfiles are powering multiple machines, and overall I&#x27;ve been happy with them. They include hand-written shell scripts to create symlinks, download all desktop apps and CLI tools, and get my preferred system settings in place. But overall, they&#x27;ve become a Frankenstein over time because many random scripts are doing random things. And obviously, I failed to document what&#x27;s going on properly.
+Sure, scripts have to run to install stuff, but for config file management, most solutions I&#x27;ve seen seemed too complicated to keep some files in sync. And I really don&#x27;t want to use a dotfile framework to pull some configuration files.
+What if there is a way to tweak Git and track all the .*rc and config files?
+&quot;Dotfiles management&quot; describes Git magic to track all files somewhere on your machine from a single .git repository. Yes, your read that right. Any file and anywhere.
+alias dotfiles&#x3D;&#x27;git --git-dir&#x3D;/home/mx/.dotfiles --work-tree&#x3D;/&#x27;
+
+That&#x27;s right; there&#x27;s a .git folder somewhere on your machine (/home/mx/.dotfiles in the example), and it&#x27;ll track all the files no matter where they&#x27;re located, thanks to the --work-tree argument. Then there&#x27;s no symlink dance!
+With some additional configuration, you can add and sync files across machines without scripts using dotfiles add or dotfiles commit. It&#x27;s all just plain Git.
+This dotfiles approach is by far the smartest I&#x27;ve seen, and I&#x27;ll definitely give it a shot when I fiddle with my system config the next time.
+
+
+          
+          
+            Reply to Stefan</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-02-10 datetime="2023-02-10T23:00:00.000Z">2023-02-10</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-02-10 datetime="2023-02-10T23:00:00.000Z"></time>
           </button>
@@ -4271,158 +4361,10 @@ The post Mobile Genes From the Mother Shape the Baby’s Microbiome first appear
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-01-13 datetime="2023-01-13T22:26:07.000Z">2023-01-13</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-01-13 datetime="2023-01-13T22:26:07.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >freeCodeCamp.org</button>
-                  <a class="source-heading__link" href="https://www.freecodecamp.org/news/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/building-a-real-time-chat-app-with-reactjs-and-firebase/"
-                        open
-                      >
-                        <summary class="article-expander__title">How to Build a Real-time Chat App with ReactJS and Firebase</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/building-a-real-time-chat-app-with-reactjs-and-firebase/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2023/01/Cover-Images-freeCodeCamp.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>In this article, I&#x27;m going to show you how to build a real-time chat app using React.js and Firebase.  In the app, we will allow the user to log in with their Google account using Firebase&#x27;s Google sign-in Authentication. We will also store and retrieve all the chatroom messages</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;14
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/how-to-add-search-to-ruby-on-rails-app/"
-                        open
-                      >
-                        <summary class="article-expander__title">How to Add Search Functionality to a Ruby on Rails Application</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/how-to-add-search-to-ruby-on-rails-app/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2023/01/markus-winkler-afW1hht0NSs-unsplash.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Nowadays, most web applications have a search feature. Users can use the search feature in order to navigate websites more easily. Implementing a search feature in Ruby on Rails is very easy. By using only a few lines of code you can set it up. This tutorial assumes that you</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;5
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/how-to-rename-a-column-in-pandas/"
-                        open
-                      >
-                        <summary class="article-expander__title">How to Rename a Column in Pandas – Python Pandas Dataframe Renaming Tutorial</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/how-to-rename-a-column-in-pandas/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2023/01/how-to-rename-column-in-pandas.svg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>A Pandas Dataframe is a 2-dimensional data structure that displays data in tables with rows and columns.  In this article, you&#x27;ll learn how to rename columns in a Pandas Dataframe by using:   * The rename() function.  * A List.  * The set_axis() function. How to</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/coalesce-sql-example-postgresql-and-sql-server-functions/"
-                        open
-                      >
-                        <summary class="article-expander__title">Coalesce SQL – Example PostgreSQL and SQL Server Functions</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/coalesce-sql-example-postgresql-and-sql-server-functions/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2023/01/coalesce.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>In SQL, the COALESCE() function returns the first non-null value in an entry. It evaluates the values of the entries one by one, ignores the null values, then returns the first value that is not null. It works in PostgreSQL, SQL server, and MySQL. In this article, I will show</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/coding-best-practices-in-c-sharp/"
-                        open
-                      >
-                        <summary class="article-expander__title">C# Coding Best Practices – Coding Conventions with Examples</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/coding-best-practices-in-c-sharp/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2023/01/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Coding conventions ensure that your code is consistent, readable, understandable, and maintainable.  When it comes to writing clean and quality code, there are conventions developers should follow to make this possible.  There are a few things you should keep in mind while writing your code. In this article,</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/file-permissions-in-linux-how-to-use-the-chown-chgrp-command-s/"
-                        open
-                      >
-                        <summary class="article-expander__title">File Permissions in Linux – How to Use the chown and chgrp Commands</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/file-permissions-in-linux-how-to-use-the-chown-chgrp-command-s/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2023/01/BB---Manage-Users-and-Groups-in-Linux.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>When it comes to large organizations, Users and Groups in Linux play an important role in helping keep systems secure and properly functioning.  There can be different levels of users in an organization with different roles and permissions. And you&#x27;ll need a good understanding Linux permissions to manage and/or</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/4154108899">
-        <time id="build-timestamp" datetime="2023-02-12T01:40:02.689Z">2023-02-12T01:40:02.689Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/4159292062">
+        <time id="build-timestamp" datetime="2023-02-13T01:40:43.776Z">2023-02-13T01:40:43.776Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
