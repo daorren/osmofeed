@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-13T01:40:43.802Z</updated>
+    <updated>2023-02-14T01:40:44.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OWASP Top 10 Vulnerabilities – A Guide for Pen-Testers & Bug Bounty Hunters]]></title>
+        <id>https://www.freecodecamp.org/news/owasp-top-10-vulnerabilities/</id>
+        <link href="https://www.freecodecamp.org/news/owasp-top-10-vulnerabilities/"/>
+        <updated>2023-02-13T23:44:49.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will look at OWASP and the top 10 web application vulnerabilities they've identified. This is a useful topic for both web app pen-testers and bug bounty hunters. What do web app pen-testers and bug bounty hunters have in common? They are both hunting for bugs, but]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Cognito for Web Applications]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-cognito-for-web-applications/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-cognito-for-web-applications/"/>
+        <updated>2023-02-13T22:06:41.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Cognito [https://aws.amazon.com/cognito/] is a cloud-based, serverless solution for identity and access management. It provides capabilities similar to  Auth0 [https://aws.amazon.com/cognito/] and Okta [https://aws.amazon.com/cognito/].  Cognito is part of the AWS suite of services so you can easily incorporate it if you are already using AWS in other parts of]]></summary>
+        <author>
+            <name>Max Rohde</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asynchronous Programming in JavaScript for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/asynchronism-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/asynchronism-in-javascript/"/>
+        <updated>2023-02-13T16:15:45.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we're going to take a look at a key topic when it comes to programming: managing asynchronism. We'll start by giving a theoretical foundation about what asynchronism is, and how it relates to key components of JavasScript: The execution thread, the call stack and the]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[She Studies Growing Arteries to Aid Heart Attack Recovery]]></title>
+        <id>https://www.quantamagazine.org/?p=123042</id>
+        <link href="https://www.quantamagazine.org/she-studies-growing-arteries-to-aid-heart-attack-recovery-20230213/"/>
+        <updated>2023-02-13T15:42:16.000Z</updated>
+        <summary type="html"><![CDATA[Regenerative medicine researcher Kristy Red Horse’s discoveries may someday help damaged hearts heal better. Her stewardship of her Native American heritage may advance science in other ways too.
+            
+The post She Studies Growing Arteries to Aid Heart Attack Recovery first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Claudia Dreifus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #92 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-92/</id>
@@ -1762,16 +1804,6 @@ The post Mobile Genes From the Mother Shape the Baby’s Microbiome first appear
         <summary type="html"><![CDATA[In this article, I will show you how to create a toggle to display items in a grid from a list. This will be using basic JavaScript skills with no external code or libraries. We will be using CSS Grid. What We Will Be Creating How to Create Our Starter]]></summary>
         <author>
             <name>Jennifer Bland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — 👋 Shut the front door]]></title>
-        <id>63bb549ad539c067d0635ec5</id>
-        <link href="https://labnotes.org/weekend-reading-shut-the-front-door/"/>
-        <updated>2023-01-15T01:55:35.000Z</updated>
-        <summary type="html"><![CDATA[This week we compare JS component libraries, steer clear of YAML, impressed by text-to-draw tech, and dream of a giant dog bed.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>

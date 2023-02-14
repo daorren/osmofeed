@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/owasp-top-10-vulnerabilities/",
+          "author": "Manish Shivanandhan",
+          "description": "In this article, we will look at OWASP and the top 10 web application vulnerabilities they've identified. This is a useful topic for both web app pen-testers and bug bounty hunters. What do web app pen-testers and bug bounty hunters have in common? They are both hunting for bugs, but",
+          "link": "https://www.freecodecamp.org/news/owasp-top-10-vulnerabilities/",
+          "publishedOn": "2023-02-13T23:44:49.000Z",
+          "wordCount": 2304,
+          "title": "OWASP Top 10 Vulnerabilities – A Guide for Pen-Testers & Bug Bounty Hunters",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/image-39-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-cognito-for-web-applications/",
+          "author": "Max Rohde",
+          "description": "Amazon Cognito [https://aws.amazon.com/cognito/] is a cloud-based, serverless solution for identity and access management. It provides capabilities similar to  Auth0 [https://aws.amazon.com/cognito/] and Okta [https://aws.amazon.com/cognito/].  Cognito is part of the AWS suite of services so you can easily incorporate it if you are already using AWS in other parts of",
+          "link": "https://www.freecodecamp.org/news/how-to-use-cognito-for-web-applications/",
+          "publishedOn": "2023-02-13T22:06:41.000Z",
+          "wordCount": 4061,
+          "title": "How to Use Cognito for Web Applications",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Cognito-Title-Picture.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/asynchronism-in-javascript/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article we're going to take a look at a key topic when it comes to programming: managing asynchronism. We'll start by giving a theoretical foundation about what asynchronism is, and how it relates to key components of JavasScript: The execution thread, the call stack and the",
+          "link": "https://www.freecodecamp.org/news/asynchronism-in-javascript/",
+          "publishedOn": "2023-02-13T16:15:45.000Z",
+          "wordCount": 3718,
+          "title": "Asynchronous Programming in JavaScript for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-giallo-859895.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-use-mysql-transactions/",
           "author": "Aisha Bukar",
           "description": "What is a Database Transaction and Why is it Important? A database transaction is a single area of the database where multiple data operations are carried out and written as a whole.  These operations can be create, read, update, or delete operations.  During the process of a transaction,",
@@ -1159,6 +1189,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=123042",
+          "author": "Claudia Dreifus",
+          "description": "Regenerative medicine researcher Kristy Red Horse’s discoveries may someday help damaged hearts heal better. Her stewardship of her Native American heritage may advance science in other ways too.\r\n            \nThe post She Studies Growing Arteries to Aid Heart Attack Recovery first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/she-studies-growing-arteries-to-aid-heart-attack-recovery-20230213/",
+          "publishedOn": "2023-02-13T15:42:16.000Z",
+          "wordCount": 9312,
+          "title": "She Studies Growing Arteries to Aid Heart Attack Recovery",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/KristyRedHorse-byRachelBujalski-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=122987",
           "author": "Jordana Cepelewicz",
           "description": "Is it possible to fill space “cubically” with shapes that act like spheres? A proof at the intersection of geometry and theoretical computer science says yes.            \nThe post Mathematicians Complete Quest to Build ‘Spherical Cubes’ first appeared on Quanta Magazine",
@@ -1374,16 +1414,6 @@
           "wordCount": 1698,
           "title": "Weekend Reading — 👌 Ctrl-Salt-Delete",
           "imageUrl": "https://labnotes.org/content/images/2023/01/image-40-1.png"
-        },
-        {
-          "id": "63bb549ad539c067d0635ec5",
-          "author": "Assaf Arkin",
-          "description": "This week we compare JS component libraries, steer clear of YAML, impressed by text-to-draw tech, and dream of a giant dog bed.",
-          "link": "https://labnotes.org/weekend-reading-shut-the-front-door/",
-          "publishedOn": "2023-01-15T01:55:35.000Z",
-          "wordCount": 1685,
-          "title": "Weekend Reading — 👋 Shut the front door",
-          "imageUrl": "https://labnotes.org/content/images/2023/01/SCR-20230114-ofb.png"
         }
       ]
     },
