@@ -2,10 +2,131 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T01:40:44.898Z</updated>
+    <updated>2023-02-15T01:40:09.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use TensorFlow for Deep Learning – Basics for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/tensorflow-basics/</id>
+        <link href="https://www.freecodecamp.org/news/tensorflow-basics/"/>
+        <updated>2023-02-14T23:46:51.000Z</updated>
+        <summary type="html"><![CDATA[TensorFlow is a library that helps engineers build and train deep learning models. It provides all the tools we need to create neural networks. We can use TensorFlow to train simple to complex neural networks using large sets of data. TensorFlow is used in a variety of applications, from image]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 🎈 BRB, went ballooning]]></title>
+        <id>63e04575e64b7d3edc1d7e74</id>
+        <link href="https://labnotes.org/weekend-reading-brb-went-ballooning/"/>
+        <updated>2023-02-14T23:27:45.000Z</updated>
+        <summary type="html"><![CDATA[This week we have a cheat sheet for using React, we learn how to use negative prompts, and FaceID-lock our iPhone apps.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prim's Algorithm – Explained with a Pseudocode Example]]></title>
+        <id>https://www.freecodecamp.org/news/prims-algorithm-explained-with-pseudocode/</id>
+        <link href="https://www.freecodecamp.org/news/prims-algorithm-explained-with-pseudocode/"/>
+        <updated>2023-02-14T22:12:43.000Z</updated>
+        <summary type="html"><![CDATA[In Computer Science, Prim’s algorithm helps you find the minimum spanning tree of a graph. It is a greedy algorithm – meaning it selects the option available at the moment. In this article, I’ll show you the pseudocode representation of Prim’s algorithm. But before that, let’s take a deeper look]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Vim Is More than Just an Editor – Vim Language, Motions, and Modes Explained]]></title>
+        <id>https://www.freecodecamp.org/news/vim-language-and-motions-explained/</id>
+        <link href="https://www.freecodecamp.org/news/vim-language-and-motions-explained/"/>
+        <updated>2023-02-14T19:52:55.000Z</updated>
+        <summary type="html"><![CDATA[Throughout my time as a developer, I've used VS Code, Sublime, Notepad++, TextMate, and others. But shortcuts like cmd(+shift)+end and jumping with  option+arrow-keys from word to word needed to be faster at some point.  I was hitting my limits. Everything I was doing I did decently fast, but]]></summary>
+        <author>
+            <name>Simon Späti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Scrape Multiple Web Pages Using Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-scrape-multiple-web-pages-using-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-scrape-multiple-web-pages-using-python/"/>
+        <updated>2023-02-14T19:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Data is all around us. Every website you visit includes data in a readable format that you can utilize for a project.  And although you can easily copy and paste the data, the best approach for big amounts of data is to perform web scraping. Learning web scraping can]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manage Data Storage]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-manage-data-storage/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-manage-data-storage/"/>
+        <updated>2023-02-14T19:44:28.000Z</updated>
+        <summary type="html"><![CDATA[We've all been at this 21st Century thing for a while. And by now it's pretty clear that data is the big driver of, well, of everything.  Governments build their policies around economic and population data. Scientists build their theories around environmental, physical, and biological data. Businesses build their]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create an Animated Physics Game with JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/create-an-animated-physics-game-with-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/create-an-animated-physics-game-with-javascript/"/>
+        <updated>2023-02-14T18:54:11.000Z</updated>
+        <summary type="html"><![CDATA[Are you interested in game development but don't know where to start? Do you want to create a unique and engaging game with interesting physics and artificial intelligence mechanics? If so, then our new video course is just what you need! We just published a full course on the freeCodeCamp.org]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How is == Different from === in JavaScript? Strict vs Loose Equality Explained]]></title>
+        <id>https://www.freecodecamp.org/news/loose-vs-strict-equality-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/loose-vs-strict-equality-in-javascript/"/>
+        <updated>2023-02-14T18:09:26.000Z</updated>
+        <summary type="html"><![CDATA[If you are reading this blog, you're probably learning JavaScript – and that's awesome. Double equals (==) and triple equals (===) in JavaScript often make beginners scratch their heads. This doesn't mean that you should fear JavaScript, in fact jargon like this makes JavaScript even more beautiful once you know]]></summary>
+        <author>
+            <name>Sobit Prasad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exponent in Python – Power Function and Exponents Using a Loop]]></title>
+        <id>https://www.freecodecamp.org/news/python-bytes-to-string-how-to-convert-a-str-to-bytes-and-back-again/</id>
+        <link href="https://www.freecodecamp.org/news/python-bytes-to-string-how-to-convert-a-str-to-bytes-and-back-again/"/>
+        <updated>2023-02-14T17:54:02.000Z</updated>
+        <summary type="html"><![CDATA[The exponent of a number refers to the power to which that number should be raised. In this article, I'll show you how to find exponents using two ways: the power function and a loop. Exponents are usually written like this: Baseexponent Take an example like 103. This means, "10,]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gene Expression in Neurons Solves a Brain Evolution Puzzle]]></title>
+        <id>https://www.quantamagazine.org/?p=123074</id>
+        <link href="https://www.quantamagazine.org/gene-expression-in-neurons-solves-a-brain-evolution-puzzle-20230214/"/>
+        <updated>2023-02-14T15:00:21.000Z</updated>
+        <summary type="html"><![CDATA[The neocortex of our brain is the seat of our intellect. New data suggests that mammals created it with new types of cells that they developed only after their evolutionary split from reptiles.            
+The post Gene Expression in Neurons Solves a Brain Evolution Puzzle first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Allison Whitten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Configure a Laravel Project with a Custom Domain Name on Windows with XAMPP]]></title>
+        <id>https://www.freecodecamp.org/news/configure-a-laravel-project-with-custom-domain-name/</id>
+        <link href="https://www.freecodecamp.org/news/configure-a-laravel-project-with-custom-domain-name/"/>
+        <updated>2023-02-14T02:58:05.000Z</updated>
+        <summary type="html"><![CDATA[Laravel's simplicity and MVC architecture make it an ideal PHP framework for building web applications.  In this article, I will show you how to set up Laravel on your Windows machine and configure it to run on a custom domain name. This guide is best suited for a beginner]]></summary>
+        <author>
+            <name>Abdulwahab Ashimi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP Networking in JavaScript –Handbook for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/http-full-course/</id>
+        <link href="https://www.freecodecamp.org/news/http-full-course/"/>
+        <updated>2023-02-14T00:42:39.000Z</updated>
+        <summary type="html"><![CDATA[HTTP is the backbone of the modern internet. In this text-based course, you'll learn how the HTTP protocol works and how it's used in real-world web development. All the code samples for this course are in JavaScript, but the networking concepts you'll learn here apply generally to all coding languages.]]></summary>
+        <author>
+            <name>Lane Wagner</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OWASP Top 10 Vulnerabilities – A Guide for Pen-Testers & Bug Bounty Hunters]]></title>
         <id>https://www.freecodecamp.org/news/owasp-top-10-vulnerabilities/</id>

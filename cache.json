@@ -12,6 +12,106 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/tensorflow-basics/",
+          "author": "Manish Shivanandhan",
+          "description": "TensorFlow is a library that helps engineers build and train deep learning models. It provides all the tools we need to create neural networks. We can use TensorFlow to train simple to complex neural networks using large sets of data. TensorFlow is used in a variety of applications, from image",
+          "link": "https://www.freecodecamp.org/news/tensorflow-basics/",
+          "publishedOn": "2023-02-14T23:46:51.000Z",
+          "wordCount": 2955,
+          "title": "How to Use TensorFlow for Deep Learning – Basics for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/tensorflow.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/prims-algorithm-explained-with-pseudocode/",
+          "author": "Kolade Chris",
+          "description": "In Computer Science, Prim’s algorithm helps you find the minimum spanning tree of a graph. It is a greedy algorithm – meaning it selects the option available at the moment. In this article, I’ll show you the pseudocode representation of Prim’s algorithm. But before that, let’s take a deeper look",
+          "link": "https://www.freecodecamp.org/news/prims-algorithm-explained-with-pseudocode/",
+          "publishedOn": "2023-02-14T22:12:43.000Z",
+          "wordCount": 2009,
+          "title": "Prim's Algorithm – Explained with a Pseudocode Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/prim-cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/vim-language-and-motions-explained/",
+          "author": "Simon Späti",
+          "description": "Throughout my time as a developer, I've used VS Code, Sublime, Notepad++, TextMate, and others. But shortcuts like cmd(+shift)+end and jumping with  option+arrow-keys from word to word needed to be faster at some point.  I was hitting my limits. Everything I was doing I did decently fast, but",
+          "link": "https://www.freecodecamp.org/news/vim-language-and-motions-explained/",
+          "publishedOn": "2023-02-14T19:52:55.000Z",
+          "wordCount": 3642,
+          "title": "Why Vim Is More than Just an Editor – Vim Language, Motions, and Modes Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/using-neo-vim-feature-freecode-3.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-scrape-multiple-web-pages-using-python/",
+          "author": "Shittu Olumide",
+          "description": "Data is all around us. Every website you visit includes data in a readable format that you can utilize for a project.  And although you can easily copy and paste the data, the best approach for big amounts of data is to perform web scraping. Learning web scraping can",
+          "link": "https://www.freecodecamp.org/news/how-to-scrape-multiple-web-pages-using-python/",
+          "publishedOn": "2023-02-14T19:48:00.000Z",
+          "wordCount": 2199,
+          "title": "How to Scrape Multiple Web Pages Using Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/How-to-Scrape-Multiple-Web-Pages-Using-Python-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-manage-data-storage/",
+          "author": "David Clinton",
+          "description": "We've all been at this 21st Century thing for a while. And by now it's pretty clear that data is the big driver of, well, of everything.  Governments build their policies around economic and population data. Scientists build their theories around environmental, physical, and biological data. Businesses build their",
+          "link": "https://www.freecodecamp.org/news/how-to-manage-data-storage/",
+          "publishedOn": "2023-02-14T19:44:28.000Z",
+          "wordCount": 3085,
+          "title": "How to Manage Data Storage",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-tima-miroshnichenko-6549629.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-an-animated-physics-game-with-javascript/",
+          "author": "Beau Carnes",
+          "description": "Are you interested in game development but don't know where to start? Do you want to create a unique and engaging game with interesting physics and artificial intelligence mechanics? If so, then our new video course is just what you need! We just published a full course on the freeCodeCamp.org",
+          "link": "https://www.freecodecamp.org/news/create-an-animated-physics-game-with-javascript/",
+          "publishedOn": "2023-02-14T18:54:11.000Z",
+          "wordCount": 993,
+          "title": "Create an Animated Physics Game with JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/jsgame.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/loose-vs-strict-equality-in-javascript/",
+          "author": "Sobit Prasad",
+          "description": "If you are reading this blog, you're probably learning JavaScript – and that's awesome. Double equals (==) and triple equals (===) in JavaScript often make beginners scratch their heads. This doesn't mean that you should fear JavaScript, in fact jargon like this makes JavaScript even more beautiful once you know",
+          "link": "https://www.freecodecamp.org/news/loose-vs-strict-equality-in-javascript/",
+          "publishedOn": "2023-02-14T18:09:26.000Z",
+          "wordCount": 1590,
+          "title": "How is == Different from === in JavaScript? Strict vs Loose Equality Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/shapes--1--1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-bytes-to-string-how-to-convert-a-str-to-bytes-and-back-again/",
+          "author": "Dillion Megida",
+          "description": "The exponent of a number refers to the power to which that number should be raised. In this article, I'll show you how to find exponents using two ways: the power function and a loop. Exponents are usually written like this: Baseexponent Take an example like 103. This means, \"10,",
+          "link": "https://www.freecodecamp.org/news/python-bytes-to-string-how-to-convert-a-str-to-bytes-and-back-again/",
+          "publishedOn": "2023-02-14T17:54:02.000Z",
+          "wordCount": 1256,
+          "title": "Exponent in Python – Power Function and Exponents Using a Loop",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/21.-exponents.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/configure-a-laravel-project-with-custom-domain-name/",
+          "author": "Abdulwahab Ashimi",
+          "description": "Laravel's simplicity and MVC architecture make it an ideal PHP framework for building web applications.  In this article, I will show you how to set up Laravel on your Windows machine and configure it to run on a custom domain name. This guide is best suited for a beginner",
+          "link": "https://www.freecodecamp.org/news/configure-a-laravel-project-with-custom-domain-name/",
+          "publishedOn": "2023-02-14T02:58:05.000Z",
+          "wordCount": 1177,
+          "title": "How to Configure a Laravel Project with a Custom Domain Name on Windows with XAMPP",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/cover--2-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/http-full-course/",
+          "author": "Lane Wagner",
+          "description": "HTTP is the backbone of the modern internet. In this text-based course, you'll learn how the HTTP protocol works and how it's used in real-world web development. All the code samples for this course are in JavaScript, but the networking concepts you'll learn here apply generally to all coding languages.",
+          "link": "https://www.freecodecamp.org/news/http-full-course/",
+          "publishedOn": "2023-02-14T00:42:39.000Z",
+          "wordCount": 8765,
+          "title": "HTTP Networking in JavaScript –Handbook for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/CUAP2IZ.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/owasp-top-10-vulnerabilities/",
           "author": "Manish Shivanandhan",
           "description": "In this article, we will look at OWASP and the top 10 web application vulnerabilities they've identified. This is a useful topic for both web app pen-testers and bug bounty hunters. What do web app pen-testers and bug bounty hunters have in common? They are both hunting for bugs, but",
@@ -1189,6 +1289,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=123074",
+          "author": "Allison Whitten",
+          "description": "The neocortex of our brain is the seat of our intellect. New data suggests that mammals created it with new types of cells that they developed only after their evolutionary split from reptiles.            \nThe post Gene Expression in Neurons Solves a Brain Evolution Puzzle first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/gene-expression-in-neurons-solves-a-brain-evolution-puzzle-20230214/",
+          "publishedOn": "2023-02-14T15:00:21.000Z",
+          "wordCount": 7997,
+          "title": "Gene Expression in Neurons Solves a Brain Evolution Puzzle",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/BrainEvolutionModules-bySamuelVelasco-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=123042",
           "author": "Claudia Dreifus",
           "description": "Regenerative medicine researcher Kristy Red Horse’s discoveries may someday help damaged hearts heal better. Her stewardship of her Native American heritage may advance science in other ways too.\r\n            \nThe post She Studies Growing Arteries to Aid Heart Attack Recovery first appeared on Quanta Magazine",
@@ -1385,6 +1495,16 @@
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
+        {
+          "id": "63e04575e64b7d3edc1d7e74",
+          "author": "Assaf Arkin",
+          "description": "This week we have a cheat sheet for using React, we learn how to use negative prompts, and FaceID-lock our iPhone apps.",
+          "link": "https://labnotes.org/weekend-reading-brb-went-ballooning/",
+          "publishedOn": "2023-02-14T23:27:45.000Z",
+          "wordCount": 1495,
+          "title": "Weekend Reading — 🎈 BRB, went ballooning",
+          "imageUrl": "https://labnotes.org/content/images/2023/02/nvinkpunkmainframecomputer_64909524.png"
+        },
         {
           "id": "63d727b197813f2f433a6ed7",
           "author": "Assaf Arkin",
