@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/",
+          "author": "TAPAS ADHIKARY",
+          "description": "JavaScript is a widely used programming language that has ruled the software development technology stack for over a decade.  You can find JavaScript in web applications, mobile applications, or apps for your desktop. According to a survey done by Statista in 2022, JavaScript developer communities worldwide have about 17.4",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/",
+          "publishedOn": "2023-02-15T17:21:13.000Z",
+          "wordCount": 2819,
+          "title": "How to Learn JavaScript Effectively – Tips and Learning Strategies",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/freeCodeCamp-Cover-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-lambda-functions-in-python/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use functions in programming to store a piece of code that can be invoked when needed. This prevents you from retyping the same logic every time you need that code. In this article, you'll learn how to create and use anonymous functions in Python. They are also called",
+          "link": "https://www.freecodecamp.org/news/how-to-use-lambda-functions-in-python/",
+          "publishedOn": "2023-02-15T17:17:35.000Z",
+          "wordCount": 1547,
+          "title": "Python Anonymous Function – How to Use Lambda Functions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/lambda-functions-in-python.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/type-error-vs-reference-error-javascript/",
+          "author": "Tejan Singh",
+          "description": "As a JavaScript developer, you've likely encountered different types of errors while coding. Most of the time these will be type errors or reference errors. But have you ever wondered what they mean? Have you ever tried reading about the error type specified by the interpreter before solving these errors?",
+          "link": "https://www.freecodecamp.org/news/type-error-vs-reference-error-javascript/",
+          "publishedOn": "2023-02-15T17:12:30.000Z",
+          "wordCount": 1660,
+          "title": "Type Error vs Reference Error in JavaScript – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-kim-stiver-909256.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/tensorflow-basics/",
           "author": "Manish Shivanandhan",
           "description": "TensorFlow is a library that helps engineers build and train deep learning models. It provides all the tools we need to create neural networks. We can use TensorFlow to train simple to complex neural networks using large sets of data. TensorFlow is used in a variety of applications, from image",
@@ -1220,66 +1250,6 @@
           "wordCount": 1538,
           "title": "How to Use Burp Suite to Audit Web Applications – Pentesting and Bug Bounty Tool Overview",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/burpsuite-article-image.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/full-guide-to-react-hooks/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! Hooks are one of the main features of modern React code and one of the first concepts you should get comfortable with when learning about this library.  In this article I'm going to explain some of the most useful hooks React provides us with, how they work,",
-          "link": "https://www.freecodecamp.org/news/full-guide-to-react-hooks/",
-          "publishedOn": "2023-01-17T01:04:42.000Z",
-          "wordCount": 5133,
-          "title": "How to Use React Hooks – Full Tutorial for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/steve-johnson-6sB8gMRlEAU-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/formatting-output-to-the-console/",
-          "author": "Jennifer Bland",
-          "description": "If you have been a programmer for a while, then you have likely used a  console.log to display data.  You may want to see the value of data while your program is running, or you may be trying to troubleshoot a problem.  Sometimes the data displayed in",
-          "link": "https://www.freecodecamp.org/news/formatting-output-to-the-console/",
-          "publishedOn": "2023-01-16T21:46:19.000Z",
-          "wordCount": 1055,
-          "title": "How to Format Output You Send to the Console",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Formatting-Output-To-The-Console.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/hide-your-api-keys-in-android/",
-          "author": "Tomer Ben Rachel",
-          "description": "Let's say that you are using a version control system and your project uses services that require API keys. Everything is all good when they're on your local machine, but you don’t want to share these API keys with the world. So how can you still preserve your API keys",
-          "link": "https://www.freecodecamp.org/news/hide-your-api-keys-in-android/",
-          "publishedOn": "2023-01-16T21:03:19.000Z",
-          "wordCount": 1083,
-          "title": "How to Hide Your API Keys in an Android Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/oleg-didenko-lMNo9SwBN_o-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-cloud-computing-beginners-guide/",
-          "author": "David Clinton",
-          "description": "You may not always be aware of it, but you're enjoying the many fruits of the cloud just about every hour of every day. Many of the joys (and horrors) of modern life would be impossible without it.  Before we talk about what it does and where it's taking",
-          "link": "https://www.freecodecamp.org/news/what-is-cloud-computing-beginners-guide/",
-          "publishedOn": "2023-01-16T19:03:48.000Z",
-          "wordCount": 3764,
-          "title": "What is Cloud Computing? Explained for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-210158--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-run-your-own-decentralized-authentication-service-using-authn/",
-          "author": "Andrew Brown",
-          "description": "The old authentication systems from monolithic applications don't work well in modern applications. When you build a web-application, you need a way to handle user authentication (the ability for a user to log in to your web-application). Traditionally, web-applications were built as monoliths and authentication systems were installed via a",
-          "link": "https://www.freecodecamp.org/news/how-to-run-your-own-decentralized-authentication-service-using-authn/",
-          "publishedOn": "2023-01-16T18:32:55.000Z",
-          "wordCount": 2451,
-          "title": "How to Run Your Own Decentralized Authentication Service Using AuthN",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-39624--2-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/grid-to-list-toggle-using-css-grid/",
-          "author": "Jennifer Bland",
-          "description": "In this article, I will show you how to create a toggle to display items in a grid from a list. This will be using basic JavaScript skills with no external code or libraries. We will be using CSS Grid. What We Will Be Creating How to Create Our Starter",
-          "link": "https://www.freecodecamp.org/news/grid-to-list-toggle-using-css-grid/",
-          "publishedOn": "2023-01-16T17:13:21.000Z",
-          "wordCount": 1488,
-          "title": "How to Build a Grid to List Toggle using CSS Grid and JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Grid-To-List-Toggle-Using-CSS-Grid.png"
         }
       ]
     },
@@ -1288,6 +1258,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=123112",
+          "author": "Kevin Hartnett",
+          "description": "Large language models still struggle with basic reasoning tasks. Two new papers that apply machine learning to math provide a blueprint for how that could change.            \nThe post To Teach Computers Math, Researchers Merge AI Approaches first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/to-teach-computers-math-researchers-merge-ai-approaches-20230215/",
+          "publishedOn": "2023-02-15T15:32:10.000Z",
+          "wordCount": 6862,
+          "title": "To Teach Computers Math, Researchers Merge AI Approaches",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/QuantitativeLLMs-byValentinTkach-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=123074",
           "author": "Allison Whitten",
