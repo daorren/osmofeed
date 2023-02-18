@@ -12,6 +12,96 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-create-your-own-command-in-linux/",
+          "author": "Arunachalam B",
+          "description": "In this article, let's learn about creating your own commands in Linux. Yes – we're going to talk about creating an alias command.  Before we begin, I want to tell you how the idea for this tutorial came about.  One of the followers of my blog asked me,",
+          "link": "https://www.freecodecamp.org/news/how-to-create-your-own-command-in-linux/",
+          "publishedOn": "2023-02-17T23:04:51.000Z",
+          "wordCount": 2606,
+          "title": "How to Create Your Own Commands in Linux",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/BB---Alias-Commands---Brief.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/decentralized-identity-build-a-profile-with-ethereum-ceramic-and-reactjs/",
+          "author": "Idris Olubisi",
+          "description": "Long-standing centralized intermediaries, like the government or big companies, are the ones who make and keep your ID information in traditional systems that manage who you are.  But this implies that you have no control over the information relating to your identification, who has access to personally identifiable information",
+          "link": "https://www.freecodecamp.org/news/decentralized-identity-build-a-profile-with-ethereum-ceramic-and-reactjs/",
+          "publishedOn": "2023-02-17T22:44:56.000Z",
+          "wordCount": 3286,
+          "title": "Decentralized Identity – Build a Profile with Next.js, Ethereum & Ceramic Network",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Decentralized-Identity--Build-a-Profile-with-NextJs--Ethereum---Ceramic-Network.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/machine-learning-using-julia/",
+          "author": "Andrey Germanov",
+          "description": "Julia [https://julialang.org/] is a general purpose programming language well suited for numerical analysis and computational science. Some consider it the future of machine learning and the most natural replacement for Python in this field. This article introduces the Julia language and its ecosystem. You'll learn how to use it to",
+          "link": "https://www.freecodecamp.org/news/machine-learning-using-julia/",
+          "publishedOn": "2023-02-17T22:33:02.000Z",
+          "wordCount": 7033,
+          "title": "Machine learning with Julia – How to Build and Deploy a Trained AI Model as a Web Service",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/cover-3.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/asynchronous-javascript/",
+          "author": "Kedar Makode",
+          "description": "In this tutorial, you'll learn all about Asynchronous JavaScript.  But before we dive into that, we need to make sure you understand what Synchronous code is and how it works. What is Synchronous Code? When we write a program in JavaScript, it executes line by line. When a line",
+          "link": "https://www.freecodecamp.org/news/asynchronous-javascript/",
+          "publishedOn": "2023-02-17T18:37:03.000Z",
+          "wordCount": 3671,
+          "title": "How Asynchronous JavaScript Works",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-zhang-kaiyv-1168940.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-full-stack-app-with-nextjs13-and-firebase/",
+          "author": "Spruce Emmanuel",
+          "description": "Next.js is a React framework that makes building powerful full stack (front end + back end) applications a lot easier.  The team behind Next.js recently released Next.js 13 [https://nextjs.org/blog/next-13] which has a whole lot of futures like a new  app Directory, server and client components, and more. In",
+          "link": "https://www.freecodecamp.org/news/create-full-stack-app-with-nextjs13-and-firebase/",
+          "publishedOn": "2023-02-17T17:38:20.000Z",
+          "wordCount": 2695,
+          "title": "How to Build a Full Stack App with Next.js 13 and Firebase",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-sevenstorm-juhaszimrus-443383--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/dot-notation-vs-square-brackets-javascript/",
+          "author": "Dillion Megida",
+          "description": "There are multiple ways to access object properties in JavaScript. But two common ones are dot notation and bracket notation. I'll explain the difference between these two approaches in this article. With dot and bracket notation, you can:  * access the value of a property by its key",
+          "link": "https://www.freecodecamp.org/news/dot-notation-vs-square-brackets-javascript/",
+          "publishedOn": "2023-02-17T16:55:10.000Z",
+          "wordCount": 2044,
+          "title": "Dot Notation vs Bracket Notation for Object Properties – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/19.-dot-vs-bracket-notation.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-set-dynamic-object-properties-using-computed-property-names/",
+          "author": "Dillion Megida",
+          "description": "When declaring objects before ES6, you had to use static keys for properties. But since the release of ES6, you can use dynamic keys. I'll show you how they work in this article. What are Static and Dynamic Keys? What do I mean by static keys? Take a look at",
+          "link": "https://www.freecodecamp.org/news/how-to-set-dynamic-object-properties-using-computed-property-names/",
+          "publishedOn": "2023-02-17T16:53:48.000Z",
+          "wordCount": 1425,
+          "title": "How to Set Dynamic Object Properties using Computed Property Names",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/20.-dynamic-object-properties-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/filter-arrays-in-javascript/",
+          "author": "Joel Olawanle",
+          "description": "When building a dynamic and interactive program, you may need to add some interactive features. For example, where a user clicks a button to filter through a long list of items. You may also need to manipulate a large array of data to return only items that match your specified",
+          "link": "https://www.freecodecamp.org/news/filter-arrays-in-javascript/",
+          "publishedOn": "2023-02-17T01:13:56.000Z",
+          "wordCount": 1704,
+          "title": "How to Filter an Array in JavaScript – JS Filtering for Arrays and Objects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/cover-template--2-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/enhanced-for-loops-in-java-how-to-use-foreach-loops-on-arrays/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use enhanced loops in Java to achieve the same results as a for loop [/news/java-for-loop-example/]. An enhanced loop is also known as a for-each  loop in Java.  Enhanced loops simplify the way you create for loops. They are mostly used to iterate through an array or",
+          "link": "https://www.freecodecamp.org/news/enhanced-for-loops-in-java-how-to-use-foreach-loops-on-arrays/",
+          "publishedOn": "2023-02-17T00:55:10.000Z",
+          "wordCount": 1216,
+          "title": "Enhanced For Loops in Java – How to Use ForEach Loops on Arrays",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/java-enhanced-loop.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-print-array-elements-in-given-order-with-and-without-function/",
           "author": "Md. Fahim Bin Amin",
           "description": "If you are learning to solve problems using a programming language, you've likely faced the problem of printing array elements in a given order or in reverse order. You might have also needed to do this by either using a user-defined function or not using any function at all. If",
@@ -1180,66 +1270,6 @@
           "wordCount": 1660,
           "title": "How to Fuzz Hidden Directories and Files with Ffuf",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-208849.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-job-description-generator-with-nextjs-and-chatgpt/",
-          "author": "ASHUTOSH K SINGH",
-          "description": "In this tutorial, we will discuss how to build a Job Description Generator with  Next.js [https://nextjs.org/], and ChatGPT [https://openai.com/blog/chatgpt/], a powerful language generation model developed by OpenAI. We will also use TailwindCSS [https://tailwindcss.com/], a utility-first CSS framework, to style our Next.js app. Check out the GitHub Repo here [https://github.com/lelouchB/ai-job-description]",
-          "link": "https://www.freecodecamp.org/news/build-a-job-description-generator-with-nextjs-and-chatgpt/",
-          "publishedOn": "2023-01-18T23:50:19.000Z",
-          "wordCount": 4420,
-          "title": "How to Build a Job Description Generator with NextJS and ChatGPT",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/m1ieud6fgxhqsgnec96n-1.gif"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/applications-of-julia/",
-          "author": "Ifihanagbara Olusheye",
-          "description": "Julia [https://julialang.org/] is a high-level, high-performance dynamic programming language. It combines the ease of use of scripting languages like Python with the speed and efficiency of compiled languages like C/C++.  Julia has been gaining traction due to its speed, intuitive syntax, and ability to quickly and efficiently solve complex",
-          "link": "https://www.freecodecamp.org/news/applications-of-julia/",
-          "publishedOn": "2023-01-18T21:50:42.000Z",
-          "wordCount": 2046,
-          "title": "Julia Programming Applications – What is Julia Used For?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Ifihan-article-cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/style-react-apps-with-css/",
-          "author": "Valentine Gatwiri",
-          "description": "React is a JavaScript library for building user interfaces. And it's gained a lot of popularity in the front-end development community.  One of the benefits of using React is its integration with CSS, which allows developers to apply styles to their components in a modular and reusable way.",
-          "link": "https://www.freecodecamp.org/news/style-react-apps-with-css/",
-          "publishedOn": "2023-01-18T20:55:27.000Z",
-          "wordCount": 2732,
-          "title": "How to Style Your React Apps with CSS Like a Pro",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-tyler-hendy-52062.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/free-certificates/",
-          "author": "Dhawal Shah",
-          "description": "Did you know that organizations such as freeCodeCamp, Google, and Harvard offer online courses to help you learn software development? And that many of these include free certificates and badges?  To help you choose one that's right for you, I've created a full list. As avid online learners, my",
-          "link": "https://www.freecodecamp.org/news/free-certificates/",
-          "publishedOn": "2023-01-18T18:01:25.000Z",
-          "wordCount": 2535,
-          "title": "1000+ Free Developer Certifications",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/free-developer-certificates-banner.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/for-loops-in-python-with-example-code/",
-          "author": "Dionysia Lemonaki",
-          "description": "While coding in Python, you may need to repeat the same code several times. Writing the same lines of code again and again repeatedly throughout your program is considered a bad practice in programming – this is where loops come in handy. With loops, you can execute a sequence of",
-          "link": "https://www.freecodecamp.org/news/for-loops-in-python-with-example-code/",
-          "publishedOn": "2023-01-18T17:25:16.000Z",
-          "wordCount": 2754,
-          "title": "For Loops in Python – For Loop Syntax Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-106155.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-handle-errors-in-computer-networks/",
-          "author": "Omer Rosenbaum",
-          "description": "There are some magical things about the Internet, and one thing in particular is that it works. In spite of so many obstacles, we can deliver our packets over the globe, and do so fast. Even more specifically, one amazing thing about the Internet is its ability to handle errors.",
-          "link": "https://www.freecodecamp.org/news/how-to-handle-errors-in-computer-networks/",
-          "publishedOn": "2023-01-18T16:05:43.000Z",
-          "wordCount": 3030,
-          "title": "How to Handle Errors in Computer Networks",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Copy-of-Computer-Networks-Hub-Switch.png"
         }
       ]
     },
@@ -1447,16 +1477,6 @@
           "wordCount": 5598,
           "title": "Mathematicians Roll Dice and Get Rock-Paper-Scissors",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/IntransitiveDice-byKristinaArmitage-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=122171",
-          "author": "Ben Brubaker",
-          "description": "Researchers can now find the shortest route through a network nearly as fast as theoretically possible, even when some steps can cancel out others.            \nThe post Finally, a Fast Algorithm for Shortest Paths on Negative Graphs first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/finally-a-fast-algorithm-for-shortest-paths-on-negative-graphs-20230118/",
-          "publishedOn": "2023-01-18T17:02:40.000Z",
-          "wordCount": 7218,
-          "title": "Finally, a Fast Algorithm for Shortest Paths on Negative Graphs",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/ShortestPaths-bySamuelVelasco-Social3.webp"
         }
       ]
     },
@@ -1609,6 +1629,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/448",
+          "author": null,
+          "description": "#​448 — February 17, 2023\n\n\nUnsub  |  Web Version\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nPurego: A Dynamic Way to Call C Functions from Go Without Cgo — No C means you can build for other platforms easily without a target C compiler/toolchain. No wrapper functions either. One of the contributors noted on HN: \"It uses the same mechanisms that Cgo does to switch to the system stack and then call the C code. Purego just avoids having to need a C toolchain to cross compile code that calls into C from Go.\"\nEbitengine \n\n\n  \n  \nGo Quirks and Intermediate Tricks — This isn’t the best formatted post, but you might pick up a few things from this list (which, handily, has code examples for each item).\nEfron Licht \n\n\n  \n  \nFree from O’Reilly: Build Resilient Apps in Go — Learn to build cloud-na…",
+          "link": "https://golangweekly.com/issues/448",
+          "publishedOn": "2023-02-17T00:00:00.000Z",
+          "wordCount": 814,
+          "title": "Go quirks and intermediate tricks",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/447",
           "author": null,
