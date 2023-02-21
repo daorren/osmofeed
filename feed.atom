@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-20T01:40:15.580Z</updated>
+    <updated>2023-02-21T01:41:51.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 🦅 Fly smarter, not harder]]></title>
+        <id>63ec194643f2a90609bc0234</id>
+        <link href="https://labnotes.org/weekend-reading-fly-smarter-not-harder/"/>
+        <updated>2023-02-20T21:11:15.000Z</updated>
+        <summary type="html"><![CDATA[This week we talk software architecture: YAGNI, 80% ready, bad vibes, and LFI. We have some opinions about GPT, and 3 tools to screenshot and video demo your product.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #93 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-93/</id>
