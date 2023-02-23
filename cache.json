@@ -12,6 +12,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-3d-tilting-card-in-react-native/",
+          "author": "Kingsley Ubah",
+          "description": "Recently, I came across a tutorial about how to create a 3D tilting card effect (with mouse tracking functionality) on Kevin Powell's YouTube channel [https://www.youtube.com/@KevinPowell]. Kevin used HTML, CSS, and JavaScript to create the markup, style the card, and implement the mouse tracking functionality, respectively. In this tutorial, we'll take",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-3d-tilting-card-in-react-native/",
+          "publishedOn": "2023-02-22T16:35:15.000Z",
+          "wordCount": 2016,
+          "title": "How to Create a 3D Tilting Card Effect in React Native",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Untitled-design--14--1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/remote-branches-in-git/",
+          "author": "Dionysia Lemonaki",
+          "description": "Git is a free and open-source tool. Specifically, it is the most popular version control system used in software development today. Git allows you to keep track of and maintain different versions of a coding project. With Git, developers and technical teams can collaborate and work together on a project.",
+          "link": "https://www.freecodecamp.org/news/remote-branches-in-git/",
+          "publishedOn": "2023-02-22T16:22:30.000Z",
+          "wordCount": 1437,
+          "title": "What is a Remote Branch in Git? How to Check out Remote Branches from GitHub",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-antonio-borriello-1297611.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/valueerror-python-math-domain-error-solved/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In mathematics, there are certain operations that are considered to be mathematically undefined operations.  Some examples of these undefined operations are:  * The square root of a negative number (√-2).   * A divisor with a value of zero (20/0).  The \"ValueError: math domain error\" error",
+          "link": "https://www.freecodecamp.org/news/valueerror-python-math-domain-error-solved/",
+          "publishedOn": "2023-02-22T16:11:13.000Z",
+          "wordCount": 1307,
+          "title": "ValueError: math domain error [Solved Python Error]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/python-math-domain-error.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/open-closed-principle-solid-architecture-concept-explained/",
+          "author": "Kolade Chris",
+          "description": "The Open-Closed principle (OCP) is one the 5 SOLID design principles. It was popularized by the American computer scientist and instructor, Robert C. Martin (aka Uncle Bob) in a paper he published in 2000. The other 4 SOLID design principles are:  * Single Responsibility Principle (SRP)  * Liskov",
+          "link": "https://www.freecodecamp.org/news/open-closed-principle-solid-architecture-concept-explained/",
+          "publishedOn": "2023-02-22T15:50:42.000Z",
+          "wordCount": 1757,
+          "title": "Open-Closed Principle – SOLID Architecture Concept Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/chests-34153_1280.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/why-build-your-own-open-source-project/",
+          "author": "Prakhar Tiwari",
+          "description": "After starting to learn about Open Source and making some good contributions during my first Hacktoberfest, I was moving ahead in my OSS journey.  I wanted to have a big project of my own to which others could contribute. Fortunately, I had an idea for a project, and decided",
+          "link": "https://www.freecodecamp.org/news/why-build-your-own-open-source-project/",
+          "publishedOn": "2023-02-22T15:41:31.000Z",
+          "wordCount": 2783,
+          "title": "Why You Should Build Your Own Open-Source Project",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/My-experience-as-an-Open-Source-Project-Maintainer-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-remove-key-from-dictionary/",
+          "author": "Shittu Olumide",
+          "description": "Dictionaries are a useful data type in Python for storing data in a key-value format. And there are times when you might need to remove a particular key-value pair from a dictionary.  You'll learn some dictionary basics, as well as how to delete keys, in this tutorial. How to",
+          "link": "https://www.freecodecamp.org/news/python-remove-key-from-dictionary/",
+          "publishedOn": "2023-02-22T15:36:57.000Z",
+          "wordCount": 1319,
+          "title": "Python Remove Key from Dictionary – How to Delete Keys from a Dict",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Python-Remove-Key-from-Dictionary---How-to-Delete-Keys-from-a-Dict-by-Shittu-Olumide-1.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/data-driven-reality/",
           "author": "David Clinton",
           "description": "By now it's no secret that digital data is generated by the truckload and that it can be worth its weight in gold.  But that knowledge isn't half as important as understanding how you can tame the data beast and then wring out every drop of its value. Naturally,",
@@ -1150,66 +1210,6 @@
           "wordCount": 3047,
           "title": "Digital Connectivity – How We Connect to the Internet and IoT Explained",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-andrea-piacquadio-935743.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-does-a-vpn-work/",
-          "author": "Tejan Singh",
-          "description": "Do you worry about online security while using public Wi-Fi? Or has someone told you that you might get hacked when using an insecure connection and someone will steal all your details? Well, you might have also heard that you should use a VPN to protect your online privacy. But",
-          "link": "https://www.freecodecamp.org/news/how-does-a-vpn-work/",
-          "publishedOn": "2023-01-24T00:08:44.000Z",
-          "wordCount": 2750,
-          "title": "How Does a VPN Work? Tutorial for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/privecstasy-CXlqHmQy3MY-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-wireshark-computer-networking/",
-          "author": "Omer Rosenbaum",
-          "description": "In this post, you will learn about the single most important and useful tool in Computer Networks – Wireshark. This post relies on basic knowledge of computer networks. Be sure to check my  previous post about the five layers model [/news/the-five-layers-model-explained/] if you need a refresher. What is Wireshark?",
-          "link": "https://www.freecodecamp.org/news/learn-wireshark-computer-networking/",
-          "publishedOn": "2023-01-23T23:35:33.000Z",
-          "wordCount": 2757,
-          "title": "Learn Wireshark – Computer Networking Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Computer-Networks-Ethernet--3-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/college-algebra-course-with-python-code/",
-          "author": "Beau Carnes",
-          "description": "College Algebra is an important course for a wide variety of professions and University programs. It is especially important for computer science students. We just published a full and comprehensive college Algebra course on the freeCodeCamp.org YouTube channel. This course is designed as a full one-semester college course. This course",
-          "link": "https://www.freecodecamp.org/news/college-algebra-course-with-python-code/",
-          "publishedOn": "2023-01-23T17:00:26.000Z",
-          "wordCount": 1502,
-          "title": "Free College Algebra Course (with Python Code!)",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/algebra.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react/",
-          "author": "Kunal Nalawade",
-          "description": "When you're building a website and coding all the cool features you had planned, you'll want to test if everything works as expected. Now, you can’t do that just by going through the website yourself – you need to check if each unit of your code is working as you",
-          "link": "https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react/",
-          "publishedOn": "2023-01-23T15:35:25.000Z",
-          "wordCount": 3673,
-          "title": "How to Write Unit Tests in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/unit-testing-in-react-image.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-sim/",
-          "author": "Jacob Stopak",
-          "description": "Git is an essential tool for developers to learn in order to effectively collaborate on source code. But certain Git concepts and commands are notoriously difficult for devs to learn. Not only that, but Git commands often have nuances that lead to varying results on the state of your local",
-          "link": "https://www.freecodecamp.org/news/git-sim/",
-          "publishedOn": "2023-01-23T14:57:06.000Z",
-          "wordCount": 2728,
-          "title": "How to Visualize Confusing Git Commands with Git-Sim",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/git-sim-merge_01-05-23_09-44-46-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-are-pseudo-classes-css/",
-          "author": "Deborah Kurata",
-          "description": "To make sense of CSS pseudo-classes, we need to understand state. In this context, the word state means a situation or condition that something is in at a particular point in time. Take the state of a stoplight, for example. At any point in time it has one of three",
-          "link": "https://www.freecodecamp.org/news/what-are-pseudo-classes-css/",
-          "publishedOn": "2023-01-23T14:00:00.000Z",
-          "wordCount": 1449,
-          "title": "What Are CSS Pseudo-Classes?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pseudo-classes-thumbnail.png"
         }
       ]
     },
@@ -1218,6 +1218,26 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=123247",
+          "author": "Charlie Wood",
+          "description": "The quantum energy teleportation protocol was proposed in 2008 and largely ignored. Now two independent experiments have shown that it works.            \nThe post Physicists Use Quantum Mechanics to Pull Energy out of Nothing first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/physicists-use-quantum-mechanics-to-pull-energy-out-of-nothing-20230222/",
+          "publishedOn": "2023-02-22T14:57:22.000Z",
+          "wordCount": 7833,
+          "title": "Physicists Use Quantum Mechanics to Pull Energy out of Nothing",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/QuantumEnergyTeleportation-byKristinaArmitage-Social.webp"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=123303",
+          "author": "Steven Strogatz",
+          "description": "Big Freeze, Big Rip, Big Crunch, Bounce or vacuum decay? Steven Strogatz speaks with theoretical cosmologist Katie Mack about the five ways that scientists think the universe could come to an end.            \nThe post How Will the Universe End? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-will-the-universe-end-20230222/",
+          "publishedOn": "2023-02-22T07:32:32.000Z",
+          "wordCount": 20183,
+          "title": "How Will the Universe End?",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/JoY-S2P1-End_of_Everything-byPeterGreenwood-Social-Logo.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=123224",
           "author": "Yasemin Saplakoglu",
@@ -1397,16 +1417,6 @@
           "wordCount": 7040,
           "title": "Mathematicians Find an Infinity of Possible Black Hole Shapes",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/BlackHoleShapes-byKristinaArmitage-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=122342",
-          "author": "Patrick Honner",
-          "description": "Whether you’re passing secret notes in class or downloading images from a space probe, Reed-Solomon codes offer an ingenious way to embed information and correct for errors.            \nThe post The Basic Algebra Behind Secret Codes and Space Communication first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/the-basic-algebra-behind-secret-codes-and-space-communication-20230123/",
-          "publishedOn": "2023-01-23T16:01:22.000Z",
-          "wordCount": 8128,
-          "title": "The Basic Algebra Behind Secret Codes and Space Communication",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/Jan23Academy-byRobertNeubecker-Social.webp"
         }
       ]
     },
@@ -1454,16 +1464,6 @@
           "wordCount": 1697,
           "title": "Weekend Reading — 😎 Software is believing",
           "imageUrl": "https://labnotes.org/content/images/2023/01/code_lifespan_2x.png"
-        },
-        {
-          "id": "63c35d869749e73dab57f109",
-          "author": "Assaf Arkin",
-          "description": "This week we load up on SVG, pay back tech debt, fight name complexity, learn how to build ChatGPT, and go in search of SF/Mission super burrito.",
-          "link": "https://labnotes.org/weekend-reading-ctrl-salt-delete/",
-          "publishedOn": "2023-01-23T22:26:22.000Z",
-          "wordCount": 1698,
-          "title": "Weekend Reading — 👌 Ctrl-Salt-Delete",
-          "imageUrl": "https://labnotes.org/content/images/2023/01/image-40-1.png"
         }
       ]
     },
@@ -1571,16 +1571,6 @@
           "wordCount": 1212,
           "title": "Why doesn't JSON support comments? (#note)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Why%20doesn't%20JSON%20support%20comments%253F/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/a-css-based-background-grid-generator/",
-          "author": null,
-          "description": "A month ago, I was searching for a CSS generator to create a CSS grid background for a blog post component. 👇\nI knew creating this CSS effect wouldn't be too hard, but fiddling with CSS gradients is not my strong suit. Unfortunately, my Google foo failed me. And if your search terms include \"CSS\" and \"grid\" you'll get only tutorials to use and create \"CSS grids\".  🤦‍♂️\nThe only solution was to tweak random Codepens, and I spent a good half an hour creating vertical and horizontal lines in CSS.\nSo! If you, dear reader, are on the hunt for a quick CSS background grid generator, you reached your final destination!\nHere's my contribution to the internet. 👇\n[Interactive component: visit the article to see it...]\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/blog/a-css-based-background-grid-generator/",
-          "publishedOn": "2023-01-23T23:00:00.000Z",
-          "wordCount": 1277,
-          "title": "A CSS-based background grid generator (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20CSS-based%20background%20grid%20generator/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },

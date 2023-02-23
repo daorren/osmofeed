@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-22T01:38:24.202Z</updated>
+    <updated>2023-02-23T01:35:14.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create a 3D Tilting Card Effect in React Native]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-a-3d-tilting-card-in-react-native/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-3d-tilting-card-in-react-native/"/>
+        <updated>2023-02-22T16:35:15.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I came across a tutorial about how to create a 3D tilting card effect (with mouse tracking functionality) on Kevin Powell's YouTube channel [https://www.youtube.com/@KevinPowell]. Kevin used HTML, CSS, and JavaScript to create the markup, style the card, and implement the mouse tracking functionality, respectively. In this tutorial, we'll take]]></summary>
+        <author>
+            <name>Kingsley Ubah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Remote Branch in Git? How to Check out Remote Branches from GitHub]]></title>
+        <id>https://www.freecodecamp.org/news/remote-branches-in-git/</id>
+        <link href="https://www.freecodecamp.org/news/remote-branches-in-git/"/>
+        <updated>2023-02-22T16:22:30.000Z</updated>
+        <summary type="html"><![CDATA[Git is a free and open-source tool. Specifically, it is the most popular version control system used in software development today. Git allows you to keep track of and maintain different versions of a coding project. With Git, developers and technical teams can collaborate and work together on a project.]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ValueError: math domain error [Solved Python Error]]]></title>
+        <id>https://www.freecodecamp.org/news/valueerror-python-math-domain-error-solved/</id>
+        <link href="https://www.freecodecamp.org/news/valueerror-python-math-domain-error-solved/"/>
+        <updated>2023-02-22T16:11:13.000Z</updated>
+        <summary type="html"><![CDATA[In mathematics, there are certain operations that are considered to be mathematically undefined operations.  Some examples of these undefined operations are:  * The square root of a negative number (√-2).   * A divisor with a value of zero (20/0).  The "ValueError: math domain error" error]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open-Closed Principle – SOLID Architecture Concept Explained]]></title>
+        <id>https://www.freecodecamp.org/news/open-closed-principle-solid-architecture-concept-explained/</id>
+        <link href="https://www.freecodecamp.org/news/open-closed-principle-solid-architecture-concept-explained/"/>
+        <updated>2023-02-22T15:50:42.000Z</updated>
+        <summary type="html"><![CDATA[The Open-Closed principle (OCP) is one the 5 SOLID design principles. It was popularized by the American computer scientist and instructor, Robert C. Martin (aka Uncle Bob) in a paper he published in 2000. The other 4 SOLID design principles are:  * Single Responsibility Principle (SRP)  * Liskov]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Build Your Own Open-Source Project]]></title>
+        <id>https://www.freecodecamp.org/news/why-build-your-own-open-source-project/</id>
+        <link href="https://www.freecodecamp.org/news/why-build-your-own-open-source-project/"/>
+        <updated>2023-02-22T15:41:31.000Z</updated>
+        <summary type="html"><![CDATA[After starting to learn about Open Source and making some good contributions during my first Hacktoberfest, I was moving ahead in my OSS journey.  I wanted to have a big project of my own to which others could contribute. Fortunately, I had an idea for a project, and decided]]></summary>
+        <author>
+            <name>Prakhar Tiwari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Remove Key from Dictionary – How to Delete Keys from a Dict]]></title>
+        <id>https://www.freecodecamp.org/news/python-remove-key-from-dictionary/</id>
+        <link href="https://www.freecodecamp.org/news/python-remove-key-from-dictionary/"/>
+        <updated>2023-02-22T15:36:57.000Z</updated>
+        <summary type="html"><![CDATA[Dictionaries are a useful data type in Python for storing data in a key-value format. And there are times when you might need to remove a particular key-value pair from a dictionary.  You'll learn some dictionary basics, as well as how to delete keys, in this tutorial. How to]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physicists Use Quantum Mechanics to Pull Energy out of Nothing]]></title>
+        <id>https://www.quantamagazine.org/?p=123247</id>
+        <link href="https://www.quantamagazine.org/physicists-use-quantum-mechanics-to-pull-energy-out-of-nothing-20230222/"/>
+        <updated>2023-02-22T14:57:22.000Z</updated>
+        <summary type="html"><![CDATA[The quantum energy teleportation protocol was proposed in 2008 and largely ignored. Now two independent experiments have shown that it works.            
+The post Physicists Use Quantum Mechanics to Pull Energy out of Nothing first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Charlie Wood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Will the Universe End?]]></title>
+        <id>https://www.quantamagazine.org/?p=123303</id>
+        <link href="https://www.quantamagazine.org/how-will-the-universe-end-20230222/"/>
+        <updated>2023-02-22T07:32:32.000Z</updated>
+        <summary type="html"><![CDATA[Big Freeze, Big Rip, Big Crunch, Bounce or vacuum decay? Steven Strogatz speaks with theoretical cosmologist Katie Mack about the five ways that scientists think the universe could come to an end.            
+The post How Will the Universe End? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steven Strogatz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data-Driven Reality – Exploring the Power of AI, ML, Virtual and Augmented Reality]]></title>
         <id>https://www.freecodecamp.org/news/data-driven-reality/</id>
@@ -1824,107 +1906,6 @@ If you want to learn more, here's why comments were removed on YouTube.
 The post Mathematicians Find an Infinity of Possible Black Hole Shapes first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Steve Nadis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does a VPN Work? Tutorial for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/how-does-a-vpn-work/</id>
-        <link href="https://www.freecodecamp.org/news/how-does-a-vpn-work/"/>
-        <updated>2023-01-24T00:08:44.000Z</updated>
-        <summary type="html"><![CDATA[Do you worry about online security while using public Wi-Fi? Or has someone told you that you might get hacked when using an insecure connection and someone will steal all your details? Well, you might have also heard that you should use a VPN to protect your online privacy. But]]></summary>
-        <author>
-            <name>Tejan Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Wireshark – Computer Networking Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/learn-wireshark-computer-networking/</id>
-        <link href="https://www.freecodecamp.org/news/learn-wireshark-computer-networking/"/>
-        <updated>2023-01-23T23:35:33.000Z</updated>
-        <summary type="html"><![CDATA[In this post, you will learn about the single most important and useful tool in Computer Networks – Wireshark. This post relies on basic knowledge of computer networks. Be sure to check my  previous post about the five layers model [/news/the-five-layers-model-explained/] if you need a refresher. What is Wireshark?]]></summary>
-        <author>
-            <name>Omer Rosenbaum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A CSS-based background grid generator (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/a-css-based-background-grid-generator/</id>
-        <link href="https://www.stefanjudis.com/blog/a-css-based-background-grid-generator/"/>
-        <updated>2023-01-23T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A month ago, I was searching for a CSS generator to create a CSS grid background for a blog post component. 👇
-I knew creating this CSS effect wouldn't be too hard, but fiddling with CSS gradients is not my strong suit. Unfortunately, my Google foo failed me. And if your search terms include "CSS" and "grid" you'll get only tutorials to use and create "CSS grids".  🤦‍♂️
-The only solution was to tweak random Codepens, and I spent a good half an hour creating vertical and horizontal lines in CSS.
-So! If you, dear reader, are on the hunt for a quick CSS background grid generator, you reached your final destination!
-Here's my contribution to the internet. 👇
-[Interactive component: visit the article to see it...]
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — 👌 Ctrl-Salt-Delete]]></title>
-        <id>63c35d869749e73dab57f109</id>
-        <link href="https://labnotes.org/weekend-reading-ctrl-salt-delete/"/>
-        <updated>2023-01-23T22:26:22.000Z</updated>
-        <summary type="html"><![CDATA[This week we load up on SVG, pay back tech debt, fight name complexity, learn how to build ChatGPT, and go in search of SF/Mission super burrito.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free College Algebra Course (with Python Code!)]]></title>
-        <id>https://www.freecodecamp.org/news/college-algebra-course-with-python-code/</id>
-        <link href="https://www.freecodecamp.org/news/college-algebra-course-with-python-code/"/>
-        <updated>2023-01-23T17:00:26.000Z</updated>
-        <summary type="html"><![CDATA[College Algebra is an important course for a wide variety of professions and University programs. It is especially important for computer science students. We just published a full and comprehensive college Algebra course on the freeCodeCamp.org YouTube channel. This course is designed as a full one-semester college course. This course]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Basic Algebra Behind Secret Codes and Space Communication]]></title>
-        <id>https://www.quantamagazine.org/?p=122342</id>
-        <link href="https://www.quantamagazine.org/the-basic-algebra-behind-secret-codes-and-space-communication-20230123/"/>
-        <updated>2023-01-23T16:01:22.000Z</updated>
-        <summary type="html"><![CDATA[Whether you’re passing secret notes in class or downloading images from a space probe, Reed-Solomon codes offer an ingenious way to embed information and correct for errors.            
-The post The Basic Algebra Behind Secret Codes and Space Communication first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Patrick Honner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Unit Tests in React]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react/"/>
-        <updated>2023-01-23T15:35:25.000Z</updated>
-        <summary type="html"><![CDATA[When you're building a website and coding all the cool features you had planned, you'll want to test if everything works as expected. Now, you can’t do that just by going through the website yourself – you need to check if each unit of your code is working as you]]></summary>
-        <author>
-            <name>Kunal Nalawade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Visualize Confusing Git Commands with Git-Sim]]></title>
-        <id>https://www.freecodecamp.org/news/git-sim/</id>
-        <link href="https://www.freecodecamp.org/news/git-sim/"/>
-        <updated>2023-01-23T14:57:06.000Z</updated>
-        <summary type="html"><![CDATA[Git is an essential tool for developers to learn in order to effectively collaborate on source code. But certain Git concepts and commands are notoriously difficult for devs to learn. Not only that, but Git commands often have nuances that lead to varying results on the state of your local]]></summary>
-        <author>
-            <name>Jacob Stopak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are CSS Pseudo-Classes?]]></title>
-        <id>https://www.freecodecamp.org/news/what-are-pseudo-classes-css/</id>
-        <link href="https://www.freecodecamp.org/news/what-are-pseudo-classes-css/"/>
-        <updated>2023-01-23T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To make sense of CSS pseudo-classes, we need to understand state. In this context, the word state means a situation or condition that something is in at a particular point in time. Take the state of a stoplight, for example. At any point in time it has one of three]]></summary>
-        <author>
-            <name>Deborah Kurata</name>
         </author>
     </entry>
 </feed>
