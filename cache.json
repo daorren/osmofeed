@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/oss-security-best-practices/",
+          "author": "Sonya Moisset",
+          "description": "Christine Peterson coined the term \"Open Source software\" or OSS in 1998. It refers to software that is freely available for anyone to use, modify, and distribute.  The source code of OSS is openly available and anyone can modify it who has the necessary technical skills. This allows for",
+          "link": "https://www.freecodecamp.org/news/oss-security-best-practices/",
+          "publishedOn": "2023-02-27T22:19:21.000Z",
+          "wordCount": 10096,
+          "title": "Open Source Software Security Handbook – Best Practices for Securing Your Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/2021-annoucment-PR2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-the-ternary-operator-in-javascript/",
+          "author": "Dionysia Lemonaki",
+          "description": "The ternary operator is a helpful feature in JavaScript that allows you to write concise and readable expressions that perform conditional operations on only one line. In this article, you will learn why you may want to use the ternary operator, and you will see an example of how to",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-ternary-operator-in-javascript/",
+          "publishedOn": "2023-02-27T18:40:47.000Z",
+          "wordCount": 1578,
+          "title": "How to Use the Ternary Operator in JavaScript – JS Conditional Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-ken-tomita-389818.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/save-a-base64-string-as-pdf-on-client-side-in-javascript/",
+          "author": "Vikram Aruchamy",
+          "description": "Base64 strings represent binary objects in textual format. They are designed to transmit binary data between channels that only support a textual format. Sometimes, you might receive PDF files from various services as a Base64 string, and you may need to convert them to a PDF file on the client",
+          "link": "https://www.freecodecamp.org/news/save-a-base64-string-as-pdf-on-client-side-in-javascript/",
+          "publishedOn": "2023-02-27T18:20:44.000Z",
+          "wordCount": 1407,
+          "title": "How to Save a Base64 String as a PDF File on the Client Side in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/How-to-check-if-a-String-is-URL-in-Javascript.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-your-own-e-commerce-site-with-medusa/",
+          "author": "Ashutosh Krishna",
+          "description": "In today's digital age, having an online presence is crucial for businesses of all sizes.  Whether you're an established retailer or an aspiring entrepreneur, an ecommerce site can provide you with a platform to reach a global audience and sell your products or services around the clock. Building an",
+          "link": "https://www.freecodecamp.org/news/how-to-build-your-own-e-commerce-site-with-medusa/",
+          "publishedOn": "2023-02-27T15:36:21.000Z",
+          "wordCount": 2363,
+          "title": "How to Build Your Own E-Commerce Site with Medusa",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/medusa.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-debug-errors-in-your-source-code/",
+          "author": "Maybell Obadoni",
+          "description": "The process of handling errors is known as debugging. It involves identifying and removing errors from your program.  If you want to be an efficient programmer, you'll want to cultivate your ability to debug code. It's one of the main skills you'll need as a software developer or programmer.",
+          "link": "https://www.freecodecamp.org/news/how-to-debug-errors-in-your-source-code/",
+          "publishedOn": "2023-02-24T23:37:18.000Z",
+          "wordCount": 2722,
+          "title": "How to Debug Errors in Your Source Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Errors.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/python-lambda-functions/",
           "author": "Ashutosh Krishna",
           "description": "Lambda functions, also known as anonymous functions, are small, one-time-use functions in Python.  You can define them using the lambda keyword followed by the function's inputs, a colon, and the function's expression. The output of a lambda function is returned as the result of the expression, rather than a",
@@ -1189,6 +1239,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=123360",
+          "author": "Katie McCormick",
+          "description": "There appear to be too many gamma rays coming from the sun. New higher-energy measurements reveal that this excess continues for a bit, then disappears — a cutoff that could help clarify what’s going on.            \nThe post Strange Solar Gamma Rays Discovered at Even Higher Energies first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/strange-solar-gamma-rays-discovered-at-even-higher-energies-20230227/",
+          "publishedOn": "2023-02-27T14:55:47.000Z",
+          "wordCount": 4978,
+          "title": "Strange Solar Gamma Rays Discovered at Even Higher Energies",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/SolarGammaRays-byKristinaArmitage-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=123333",
           "author": "Tara C. Smith",
           "description": "Several real-life pathogens can change a host’s behavior against their will. Here’s what we know about these zombie-like infections.            \nThe post Can Our Brains Be Taken Over? first appeared on Quanta Magazine",
@@ -1501,16 +1561,6 @@
           "wordCount": 1289,
           "title": "How to fail function calls with undefined arguments with a one-liner (sorta) (#snippet)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20fail%20function%20calls%20with%20undefined%20arguments%20with%20a%20one-liner%20(sorta)/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-90/",
-          "author": null,
-          "description": "Guten Tag!\n\nDo you know that you can use CSS Grid to animate an element's height? Have you heard of the new scrollend JavaScript event? Or do you use rel=\"tag\" somewhere?\nAll the answers and much more are included in this week's Web Weekly. 🫣\nRegarding forms, you should rely on the native form elements because they provide the best user experience, right?\nI remember being overly excited when Safari finally started supporting date inputs two years ago.\nBut are these native elements really always the best choice?\nRobin Thomas shared multiple reasons why the iOS date picker sucks. And I can relate — filling in a date on mobile sometimes feels like this CodePen.\nBut what about the other elements? Number inputs also come with quirks and different behavior across browsers. 😢\nIt seems the input…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-90/",
-          "publishedOn": "2023-01-28T23:00:00.000Z",
-          "wordCount": 2046,
-          "title": "Web Weekly #90 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
     },

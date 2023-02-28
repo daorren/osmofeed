@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-27T01:39:50.701Z</updated>
+    <updated>2023-02-28T01:39:47.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open Source Software Security Handbook – Best Practices for Securing Your Projects]]></title>
+        <id>https://www.freecodecamp.org/news/oss-security-best-practices/</id>
+        <link href="https://www.freecodecamp.org/news/oss-security-best-practices/"/>
+        <updated>2023-02-27T22:19:21.000Z</updated>
+        <summary type="html"><![CDATA[Christine Peterson coined the term "Open Source software" or OSS in 1998. It refers to software that is freely available for anyone to use, modify, and distribute.  The source code of OSS is openly available and anyone can modify it who has the necessary technical skills. This allows for]]></summary>
+        <author>
+            <name>Sonya Moisset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Ternary Operator in JavaScript – JS Conditional Example]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-the-ternary-operator-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-ternary-operator-in-javascript/"/>
+        <updated>2023-02-27T18:40:47.000Z</updated>
+        <summary type="html"><![CDATA[The ternary operator is a helpful feature in JavaScript that allows you to write concise and readable expressions that perform conditional operations on only one line. In this article, you will learn why you may want to use the ternary operator, and you will see an example of how to]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Save a Base64 String as a PDF File on the Client Side in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/save-a-base64-string-as-pdf-on-client-side-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/save-a-base64-string-as-pdf-on-client-side-in-javascript/"/>
+        <updated>2023-02-27T18:20:44.000Z</updated>
+        <summary type="html"><![CDATA[Base64 strings represent binary objects in textual format. They are designed to transmit binary data between channels that only support a textual format. Sometimes, you might receive PDF files from various services as a Base64 string, and you may need to convert them to a PDF file on the client]]></summary>
+        <author>
+            <name>Vikram Aruchamy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own E-Commerce Site with Medusa]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-your-own-e-commerce-site-with-medusa/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-your-own-e-commerce-site-with-medusa/"/>
+        <updated>2023-02-27T15:36:21.000Z</updated>
+        <summary type="html"><![CDATA[In today's digital age, having an online presence is crucial for businesses of all sizes.  Whether you're an established retailer or an aspiring entrepreneur, an ecommerce site can provide you with a platform to reach a global audience and sell your products or services around the clock. Building an]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strange Solar Gamma Rays Discovered at Even Higher Energies]]></title>
+        <id>https://www.quantamagazine.org/?p=123360</id>
+        <link href="https://www.quantamagazine.org/strange-solar-gamma-rays-discovered-at-even-higher-energies-20230227/"/>
+        <updated>2023-02-27T14:55:47.000Z</updated>
+        <summary type="html"><![CDATA[There appear to be too many gamma rays coming from the sun. New higher-energy measurements reveal that this excess continues for a bit, then disappears — a cutoff that could help clarify what’s going on.            
+The post Strange Solar Gamma Rays Discovered at Even Higher Energies first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Katie McCormick</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — 👌 6-finger deniability]]></title>
         <id>63f3e239911ffd0389fdeb8b</id>
@@ -14,6 +65,16 @@
         <summary type="html"><![CDATA[This week we have a new search engine we’re actually excited about, the results from the 4-day workweek trial are in, and we have questions about craters.]]></summary>
         <author>
             <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Debug Errors in Your Source Code]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-debug-errors-in-your-source-code/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-debug-errors-in-your-source-code/"/>
+        <updated>2023-02-24T23:37:18.000Z</updated>
+        <summary type="html"><![CDATA[The process of handling errors is known as debugging. It involves identifying and removing errors from your program.  If you want to be an efficient programmer, you'll want to cultivate your ability to debug code. It's one of the main skills you'll need as a software developer or programmer.]]></summary>
+        <author>
+            <name>Maybell Obadoni</name>
         </author>
     </entry>
     <entry>
@@ -1812,25 +1873,6 @@ Thanks Peter!
           
           
             Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #90 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-90/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-90/"/>
-        <updated>2023-01-28T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag!
-
-Do you know that you can use CSS Grid to animate an element's height? Have you heard of the new scrollend JavaScript event? Or do you use rel="tag" somewhere?
-All the answers and much more are included in this week's Web Weekly. 🫣
-Regarding forms, you should rely on the native form elements because they provide the best user experience, right?
-I remember being overly excited when Safari finally started supporting date inputs two years ago.
-But are these native elements really always the best choice?
-Robin Thomas shared multiple reasons why the iOS date picker sucks. And I can relate — filling in a date on mobile sometimes feels like this CodePen.
-But what about the other elements? Number inputs also come with quirks and different behavior across browsers. 😢
-It seems the input…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>
