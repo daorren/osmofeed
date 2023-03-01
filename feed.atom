@@ -2,10 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-28T01:39:47.139Z</updated>
+    <updated>2023-03-01T01:48:20.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Server Tutorial – How to Login, Communicate, and Transfer Files]]></title>
+        <id>https://www.freecodecamp.org/news/linux-server-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/linux-server-tutorial/"/>
+        <updated>2023-02-28T23:55:22.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that 96% of the top 1 million web servers [https://www.zdnet.com/home-and-office/networking/can-the-internet-exist-without-linux/]  are running Linux?  Yes. You heard that right. So being able to work with Linux servers is a great skill to have. In this article, you'll learn how to connect to a Linux server using]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Callbacks Work in Node.js]]></title>
+        <id>https://www.freecodecamp.org/news/nodejs-callbacks/</id>
+        <link href="https://www.freecodecamp.org/news/nodejs-callbacks/"/>
+        <updated>2023-02-28T22:53:02.000Z</updated>
+        <summary type="html"><![CDATA[Node.js callbacks are a special type of function passed as an argument to another function.  They're called when the function that contains the callback as an argument completes its execution, and allows the code in the callback to run in the meantime. Callbacks help us make asynchronous calls. Even]]></summary>
+        <author>
+            <name>Aditya Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Modules – How to Create, Import, and Export a Module in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-modules/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-modules/"/>
+        <updated>2023-02-28T20:42:29.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript, like most programming languages, was initially used for small tasks. But as its popularity grew, so did the amount of code that needed to be written.  Having a large amount of code in a single file can be problematic, so it's helpful to split the code into multiple]]></summary>
+        <author>
+            <name>Dapo Adedire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Tabs in Jetpack Compose]]></title>
+        <id>https://www.freecodecamp.org/news/tabs-in-jetpack-compose/</id>
+        <link href="https://www.freecodecamp.org/news/tabs-in-jetpack-compose/"/>
+        <updated>2023-02-28T19:09:07.000Z</updated>
+        <summary type="html"><![CDATA[We’ve all seen it. We’ve all done it. Ain’t nothing like good ol’ tabs to organize content in a complex application. So how do we go about creating a tab layout in Jetpack Compose?  In this tutorial, we’ll go over all of the basics, but also show some things]]></summary>
+        <author>
+            <name>Tomer Ben Rachel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code an AlphaZero Machine Learning Algorithm to Play Games]]></title>
+        <id>https://www.freecodecamp.org/news/code-alphazero-machine-learning-algorithm/</id>
+        <link href="https://www.freecodecamp.org/news/code-alphazero-machine-learning-algorithm/"/>
+        <updated>2023-02-28T16:04:29.000Z</updated>
+        <summary type="html"><![CDATA[AlphaZero is a game-playing algorithm that uses artificial intelligence and machine learning techniques to learn how to play board games at a superhuman level. We just published a machine learning course on the freeCodeCamp.org channel that will teach you how  to build AlphaZero from scratch. Robert Förster created this course.]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Loneliness Reshapes the Brain]]></title>
+        <id>https://www.quantamagazine.org/?p=123394</id>
+        <link href="https://www.quantamagazine.org/how-loneliness-reshapes-the-brain-20230228/"/>
+        <updated>2023-02-28T15:59:07.000Z</updated>
+        <summary type="html"><![CDATA[Feelings of loneliness prompt changes in the brain that further isolate people from social contact.            
+The post How Loneliness Reshapes the Brain first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Marta Zaraska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Replace – How to Replace a String or Substring in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-replace-how-to-replace-a-string-or-substring-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-replace-how-to-replace-a-string-or-substring-in-js/"/>
+        <updated>2023-02-28T02:24:34.000Z</updated>
+        <summary type="html"><![CDATA[When working with JavaScript, you might need to replace a string or substring with a new one. For example, you might want to replace a certain string (like "color” — American English) or substring in a larger text or document with a different string (“colour” — British English). You may]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TailwindCSS vs NextUI – How to Choose a UI Framework]]></title>
+        <id>https://www.freecodecamp.org/news/tailwindcss-vs-nextui-how-to-choose-a-ui-framework/</id>
+        <link href="https://www.freecodecamp.org/news/tailwindcss-vs-nextui-how-to-choose-a-ui-framework/"/>
+        <updated>2023-02-28T01:20:44.000Z</updated>
+        <summary type="html"><![CDATA[If you're a developer, choosing the proper UI framework can be tough. This is partly because there are so many options to choose from, each with its strengths and weaknesses.  In this guide, I will discuss the differences between two popular frameworks: Tailwind CSS and NextUI.  Tailwind CSS]]></summary>
+        <author>
+            <name>Sophia Iroegbu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Mobile Apps with Flutter]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-mobile-apps-with-flutter/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-mobile-apps-with-flutter/"/>
+        <updated>2023-02-28T01:10:15.000Z</updated>
+        <summary type="html"><![CDATA[Flutter is a mobile app development framework from Google that lets you build beautiful, high-performance iOS and Android applications.  In this article, let’s look at what Flutter is and how to work with it. What is Flutter? Flutter is an open-source mobile application development framework created by Google. It]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is RTLO in Hacking? How to Use Right-to-Left Override and Defend Against it]]></title>
+        <id>https://www.freecodecamp.org/news/rtlo-in-hacking/</id>
+        <link href="https://www.freecodecamp.org/news/rtlo-in-hacking/"/>
+        <updated>2023-02-28T00:36:36.000Z</updated>
+        <summary type="html"><![CDATA[Let’s play a lovely game of hide your malware in plain sight. 🐴 Malicious hackers look for all kinds of underhanded tricks to make everyday users victims as a result of common mistakes. They might get someone to click the wrong link, open the wrong website, or execute the wrong]]></summary>
+        <author>
+            <name>Daniel Iwugo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Revert – How to Reset a File or Commit]]></title>
+        <id>https://www.freecodecamp.org/news/git-revert-how-to-reset-a-file-or-commit/</id>
+        <link href="https://www.freecodecamp.org/news/git-revert-how-to-reset-a-file-or-commit/"/>
+        <updated>2023-02-28T00:21:11.000Z</updated>
+        <summary type="html"><![CDATA[When working on a project with a team or by yourself, it's important to track changes in the code base through version control.  Git provides you with different commands for tracking file changes. These commands will enable you to collaborate with other developers, access file history, manage code, and]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open Source Software Security Handbook – Best Practices for Securing Your Projects]]></title>
         <id>https://www.freecodecamp.org/news/oss-security-best-practices/</id>
@@ -1817,64 +1928,6 @@ The post When Does the Brain Operate at Peak Performance? first appeared on Quan
 The post Astronomers Say They Have Spotted the Universe’s First Stars first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Jonathan O'Callaghan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — 😎 Software is believing]]></title>
-        <id>63cf0a3cc070322ba80e93af</id>
-        <link href="https://labnotes.org/weekend-reading-software-is-believing/"/>
-        <updated>2023-01-30T02:10:06.000Z</updated>
-        <summary type="html"><![CDATA[This week is loaded with AI. We use it to summarize and de-summarize, help us SQL, spoken words, and handwritten notes. We also settle a semantic debate and cure our Python envy.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to fail function calls with undefined arguments with a one-liner (sorta) (#snippet)]]></title>
-        <id>https://www.stefanjudis.com/snippets/how-to-fail-function-calls-with-undefined-arguments-with-a-one-liner-sorta/</id>
-        <link href="https://www.stefanjudis.com/snippets/how-to-fail-function-calls-with-undefined-arguments-with-a-one-liner-sorta/"/>
-        <updated>2023-01-29T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I've been writing JavaScript for so long that I sometimes don't see its quirks. To be fair, there are fewer quirks than ten years ago, but some things would still make great language additions. One thing that would make a lot of sense is required function parameters.
-Assume you have a function that defines required arguments. And you really really want to make sure the function is called with the correct arguments by throwing an error.
-Here's what you might do:
-function doSomethingWithAThing(theThing) {
-  if (typeof theThing === "undefined") {
-    throw new Error("theThing is required");
-  }
-}
-
-That's quite a bit of code for such a simple thing.
-Unfortunately, you can't do something like this in JavaScript ...
-function doSomethingWithAThing(
-  theThing = throw new Error("theThing Is Undefined")
-) {
-  // ...
-}
-
-... because JavaScript doesn't like it.
-Peter Kröner published a handy snippet that he carries around from project to project. The post is in German, so here's the English gist of it.
-First, define a fail function.
-function fail(reason, ErrorConstructor = Error) {
-  throw new ErrorConstructor(reason);
-}
-
-And second... use it. 🫣
-By restructuring the code and transforming the error throwing portion into an expression, you can immediately throw in case a function is called without the required parameters.
-function doSomethingWithAThing(
-  theThing = fail('theThing Is Undefined')
-) {
-  // ...
-}
-
-What a beautiful sort of one-line workaround.
-Thanks Peter!
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

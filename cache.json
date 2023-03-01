@@ -12,6 +12,106 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/linux-server-tutorial/",
+          "author": "Arunachalam B",
+          "description": "Did you know that 96% of the top 1 million web servers [https://www.zdnet.com/home-and-office/networking/can-the-internet-exist-without-linux/]  are running Linux?  Yes. You heard that right. So being able to work with Linux servers is a great skill to have. In this article, you'll learn how to connect to a Linux server using",
+          "link": "https://www.freecodecamp.org/news/linux-server-tutorial/",
+          "publishedOn": "2023-02-28T23:55:22.000Z",
+          "wordCount": 2392,
+          "title": "Linux Server Tutorial – How to Login, Communicate, and Transfer Files",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Server-Commands---Brief-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/nodejs-callbacks/",
+          "author": "Aditya Gupta",
+          "description": "Node.js callbacks are a special type of function passed as an argument to another function.  They're called when the function that contains the callback as an argument completes its execution, and allows the code in the callback to run in the meantime. Callbacks help us make asynchronous calls. Even",
+          "link": "https://www.freecodecamp.org/news/nodejs-callbacks/",
+          "publishedOn": "2023-02-28T22:53:02.000Z",
+          "wordCount": 1239,
+          "title": "How Callbacks Work in Node.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-chepte--cormani-1416530.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-modules/",
+          "author": "Dapo Adedire",
+          "description": "JavaScript, like most programming languages, was initially used for small tasks. But as its popularity grew, so did the amount of code that needed to be written.  Having a large amount of code in a single file can be problematic, so it's helpful to split the code into multiple",
+          "link": "https://www.freecodecamp.org/news/javascript-modules/",
+          "publishedOn": "2023-02-28T20:42:29.000Z",
+          "wordCount": 1621,
+          "title": "JavaScript Modules – How to Create, Import, and Export a Module in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Add-a-subheading--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/tabs-in-jetpack-compose/",
+          "author": "Tomer Ben Rachel",
+          "description": "We’ve all seen it. We’ve all done it. Ain’t nothing like good ol’ tabs to organize content in a complex application. So how do we go about creating a tab layout in Jetpack Compose?  In this tutorial, we’ll go over all of the basics, but also show some things",
+          "link": "https://www.freecodecamp.org/news/tabs-in-jetpack-compose/",
+          "publishedOn": "2023-02-28T19:09:07.000Z",
+          "wordCount": 2831,
+          "title": "How to Create Tabs in Jetpack Compose",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/chiara-f-MI8He1NWPWg-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/code-alphazero-machine-learning-algorithm/",
+          "author": "Beau Carnes",
+          "description": "AlphaZero is a game-playing algorithm that uses artificial intelligence and machine learning techniques to learn how to play board games at a superhuman level. We just published a machine learning course on the freeCodeCamp.org channel that will teach you how  to build AlphaZero from scratch. Robert Förster created this course.",
+          "link": "https://www.freecodecamp.org/news/code-alphazero-machine-learning-algorithm/",
+          "publishedOn": "2023-02-28T16:04:29.000Z",
+          "wordCount": 957,
+          "title": "Code an AlphaZero Machine Learning Algorithm to Play Games",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/alphazero.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-replace-how-to-replace-a-string-or-substring-in-js/",
+          "author": "Joel Olawanle",
+          "description": "When working with JavaScript, you might need to replace a string or substring with a new one. For example, you might want to replace a certain string (like \"color” — American English) or substring in a larger text or document with a different string (“colour” — British English). You may",
+          "link": "https://www.freecodecamp.org/news/javascript-replace-how-to-replace-a-string-or-substring-in-js/",
+          "publishedOn": "2023-02-28T02:24:34.000Z",
+          "wordCount": 1552,
+          "title": "JavaScript Replace – How to Replace a String or Substring in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/cover-template--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/tailwindcss-vs-nextui-how-to-choose-a-ui-framework/",
+          "author": "Sophia Iroegbu",
+          "description": "If you're a developer, choosing the proper UI framework can be tough. This is partly because there are so many options to choose from, each with its strengths and weaknesses.  In this guide, I will discuss the differences between two popular frameworks: Tailwind CSS and NextUI.  Tailwind CSS",
+          "link": "https://www.freecodecamp.org/news/tailwindcss-vs-nextui-how-to-choose-a-ui-framework/",
+          "publishedOn": "2023-02-28T01:20:44.000Z",
+          "wordCount": 1858,
+          "title": "TailwindCSS vs NextUI – How to Choose a UI Framework",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-xxss-is-back-777001--2-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-mobile-apps-with-flutter/",
+          "author": "Manish Shivanandhan",
+          "description": "Flutter is a mobile app development framework from Google that lets you build beautiful, high-performance iOS and Android applications.  In this article, let’s look at what Flutter is and how to work with it. What is Flutter? Flutter is an open-source mobile application development framework created by Google. It",
+          "link": "https://www.freecodecamp.org/news/how-to-build-mobile-apps-with-flutter/",
+          "publishedOn": "2023-02-28T01:10:15.000Z",
+          "wordCount": 1908,
+          "title": "How to Build Mobile Apps with Flutter",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/flutter.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/rtlo-in-hacking/",
+          "author": "Daniel Iwugo",
+          "description": "Let’s play a lovely game of hide your malware in plain sight. 🐴 Malicious hackers look for all kinds of underhanded tricks to make everyday users victims as a result of common mistakes. They might get someone to click the wrong link, open the wrong website, or execute the wrong",
+          "link": "https://www.freecodecamp.org/news/rtlo-in-hacking/",
+          "publishedOn": "2023-02-28T00:36:36.000Z",
+          "wordCount": 2327,
+          "title": "What is RTLO in Hacking? How to Use Right-to-Left Override and Defend Against it",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/image-249-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/git-revert-how-to-reset-a-file-or-commit/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When working on a project with a team or by yourself, it's important to track changes in the code base through version control.  Git provides you with different commands for tracking file changes. These commands will enable you to collaborate with other developers, access file history, manage code, and",
+          "link": "https://www.freecodecamp.org/news/git-revert-how-to-reset-a-file-or-commit/",
+          "publishedOn": "2023-02-28T00:21:11.000Z",
+          "wordCount": 1382,
+          "title": "Git Revert – How to Reset a File or Commit",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/roman-synkevych-wX2L8L-fGeA-unsplash--1-.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/oss-security-best-practices/",
           "author": "Sonya Moisset",
           "description": "Christine Peterson coined the term \"Open Source software\" or OSS in 1998. It refers to software that is freely available for anyone to use, modify, and distribute.  The source code of OSS is openly available and anyone can modify it who has the necessary technical skills. This allows for",
@@ -1239,6 +1339,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=123394",
+          "author": "Marta Zaraska",
+          "description": "Feelings of loneliness prompt changes in the brain that further isolate people from social contact.            \nThe post How Loneliness Reshapes the Brain first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-loneliness-reshapes-the-brain-20230228/",
+          "publishedOn": "2023-02-28T15:59:07.000Z",
+          "wordCount": 7762,
+          "title": "How Loneliness Reshapes the Brain",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/NeuroLoneliness-byKouzouSakai-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=123360",
           "author": "Katie McCormick",
           "description": "There appear to be too many gamma rays coming from the sun. New higher-energy measurements reveal that this excess continues for a bit, then disappears — a cutoff that could help clarify what’s going on.            \nThe post Strange Solar Gamma Rays Discovered at Even Higher Energies first appeared on Quanta Magazine",
@@ -1464,16 +1574,6 @@
           "wordCount": 1720,
           "title": "Weekend Reading — 👋 How many fingers to a hand?",
           "imageUrl": "https://labnotes.org/content/images/2023/02/SCR-20230205-lxp.png"
-        },
-        {
-          "id": "63cf0a3cc070322ba80e93af",
-          "author": "Assaf Arkin",
-          "description": "This week is loaded with AI. We use it to summarize and de-summarize, help us SQL, spoken words, and handwritten notes. We also settle a semantic debate and cure our Python envy.",
-          "link": "https://labnotes.org/weekend-reading-software-is-believing/",
-          "publishedOn": "2023-01-30T02:10:06.000Z",
-          "wordCount": 1697,
-          "title": "Weekend Reading — 😎 Software is believing",
-          "imageUrl": "https://labnotes.org/content/images/2023/01/code_lifespan_2x.png"
         }
       ]
     },
@@ -1551,16 +1651,6 @@
           "wordCount": 1228,
           "title": "macOS offers a tool to remove backgrounds from images (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:macOS%20offers%20a%20tool%20to%20remove%20backgrounds%20from%20images/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/how-to-fail-function-calls-with-undefined-arguments-with-a-one-liner-sorta/",
-          "author": null,
-          "description": "I've been writing JavaScript for so long that I sometimes don't see its quirks. To be fair, there are fewer quirks than ten years ago, but some things would still make great language additions. One thing that would make a lot of sense is required function parameters.\nAssume you have a function that defines required arguments. And you really really want to make sure the function is called with the correct arguments by throwing an error.\nHere's what you might do:\nfunction doSomethingWithAThing(theThing) {\n  if (typeof theThing === \"undefined\") {\n    throw new Error(\"theThing is required\");\n  }\n}\n\nThat's quite a bit of code for such a simple thing.\nUnfortunately, you can't do something like this in JavaScript ...\nfunction doSomethingWithAThing(\n  theThing = throw new Error(\"theThing Is Undefined\")\n) {\n  // ...\n}\n\n... because JavaScript doesn't like it.\nPeter Kröner published a handy snippet that he carries around from project to project. The post is in German, so here's the English gist of it.\nFirst, define a fail function.\nfunction fail(reason, ErrorConstructor = Error) {\n  throw new ErrorConstructor(reason);\n}\n\nAnd second... use it. 🫣\nBy restructuring the code and transforming the error throwing portion into an expression, you can immediately throw in case a function is called without the required parameters.\nfunction doSomethingWithAThing(\n  theThing = fail('theThing Is Undefined')\n) {\n  // ...\n}\n\nWhat a beautiful sort of one-line workaround.\nThanks Peter!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/snippets/how-to-fail-function-calls-with-undefined-arguments-with-a-one-liner-sorta/",
-          "publishedOn": "2023-01-29T23:00:00.000Z",
-          "wordCount": 1289,
-          "title": "How to fail function calls with undefined arguments with a one-liner (sorta) (#snippet)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20fail%20function%20calls%20with%20undefined%20arguments%20with%20a%20one-liner%20(sorta)/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
