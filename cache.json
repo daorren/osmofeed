@@ -1220,96 +1220,6 @@
           "wordCount": 1720,
           "title": "Python Automation Scripts You Should Know",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Python-Automation-Scripts-You-Should-Know.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-manage-linux-processes/",
-          "author": "Arunachalam B",
-          "description": "We all follow certain processes to achieve our goals. Similarly, every system has its own processes to accomplish tasks.  Every program or command that executes in a Linux system is called a process. In this tutorial, let's explore processes and how we can manage them in Linux. What is",
-          "link": "https://www.freecodecamp.org/news/how-to-manage-linux-processes/",
-          "publishedOn": "2023-02-03T00:07:38.000Z",
-          "wordCount": 2271,
-          "title": "How to Manage Linux Processes",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/BB---How-to-manage-processes-in-Linux-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/",
-          "author": "Kolade Chris",
-          "description": "Data structures and algorithms (DSA) are an important aspect of any programming language. Every language has its own data structures and its way of handling different types of algorithms. So, as a programmer, no matter what programming language you are working with, data structures and algorithms have to be an",
-          "link": "https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/",
-          "publishedOn": "2023-02-02T23:51:50.000Z",
-          "wordCount": 2224,
-          "title": "Learn Data Structures and Algorithms – Introduction and Learning Resources",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-david-gallie-15128598.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/responsive-layout-react-native/",
-          "author": "Kingsley Ubah",
-          "description": "Having a responsive layout is an important component of user interface (UI) design. It enables a website or application to automatically adjust its size and layout based on the size of the user's device and screen. This provides an optimal viewing experience.  Responsive layouts also give the user a",
-          "link": "https://www.freecodecamp.org/news/responsive-layout-react-native/",
-          "publishedOn": "2023-02-02T23:50:26.000Z",
-          "wordCount": 1514,
-          "title": "React Native Tutorial – How to Create a Simple Responsive Layout for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-luna-lovegood-4087468.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-calculator-app-using-react-native-a-step-by-step-tutorial/",
-          "author": "Muhammad Adam",
-          "description": "A calculator application is a simple application that is always available on every Android, iOS, and desktop device.  In this article, we will build a calculator application using React Native and Expo. So why are we using these tools?  React Native is a JavaScript-based framework you can use",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-calculator-app-using-react-native-a-step-by-step-tutorial/",
-          "publishedOn": "2023-02-02T19:29:15.000Z",
-          "wordCount": 2248,
-          "title": "How to Build a Calculator App Using React Native – A Step-by-Step Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/banner---how-to-build-calculator-app-using-react-native-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-django-by-building-a-marketplace/",
-          "author": "Beau Carnes",
-          "description": "Django is a powerful and popular web framework for Python. It is used to build robust and scalable web applications with ease. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn Django through building your own online marketplace. Stein from Code with Stein teaches",
-          "link": "https://www.freecodecamp.org/news/learn-django-by-building-a-marketplace/",
-          "publishedOn": "2023-02-02T19:28:19.000Z",
-          "wordCount": 972,
-          "title": "Learn Django by Building a Marketplace",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/vue-django.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/computer-basics-beginners/",
-          "author": "Beau Carnes",
-          "description": "You have to start somewhere when learning about computers. We just published a comprehensive video course on the freeCodeCamp.org channel designed to help you develop a solid foundation in computer and technology skills. This course is for anyone who is brand new to working with computers or for those who",
-          "link": "https://www.freecodecamp.org/news/computer-basics-beginners/",
-          "publishedOn": "2023-02-02T19:21:25.000Z",
-          "wordCount": 945,
-          "title": "Computer Basics for Absolute Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/maxresdefault.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-escape-strings-in-javascript/",
-          "author": "Joel Olawanle",
-          "description": "In JavaScript, a string is a data type representing a sequence of characters that may consist of letters, numbers, symbols, words, or sentences. Strings are used to represent text-based data and are mostly defined using either single quotes (') or double quotes (\"). let name1 = 'John Doe'; let name2",
-          "link": "https://www.freecodecamp.org/news/how-to-escape-strings-in-javascript/",
-          "publishedOn": "2023-02-02T19:05:19.000Z",
-          "wordCount": 1176,
-          "title": "How to Escape a String in JavaScript – JS Escaping Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/cover-template.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/fall-through-in-javascript-switch-statements/",
-          "author": "Dillion Megida",
-          "description": "Switch statements in JavaScript have a behavior called fall-through which can cause unexpected results. I will explain what this behavior is, how to avoid it, and use cases for it. Switch statements allow you to create conditional statements in JavaScript. You have a conditional expression, and depending on the returned",
-          "link": "https://www.freecodecamp.org/news/fall-through-in-javascript-switch-statements/",
-          "publishedOn": "2023-02-02T17:42:59.000Z",
-          "wordCount": 2184,
-          "title": "Fall-Through in JavaScript Switch Statements – Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/14.-fall-through-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-string-to-datetime-how-to-convert-an-str-to-a-date-time-with-strptime/",
-          "author": "Dionysia Lemonaki",
-          "description": "Python offers a variety of built-in modules that you can include in your program. A module is a Python file containing the necessary code to execute an individual functionality. This file is imported into your application to help you perform a specific task. One of those modules is the datetime",
-          "link": "https://www.freecodecamp.org/news/python-string-to-datetime-how-to-convert-an-str-to-a-date-time-with-strptime/",
-          "publishedOn": "2023-02-02T15:57:55.000Z",
-          "wordCount": 1826,
-          "title": "Python String to Datetime – How to Convert an Str to a Date Time with Strptime",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-marko-klaric-6408282.jpg"
         }
       ]
     },
@@ -1497,16 +1407,6 @@
           "wordCount": 7114,
           "title": "How Our Reality May Be a Sum of All Possible Realities",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/PathIntegralExplainer-byKristinaArmitage-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=122811",
-          "author": "Leila Sloman",
-          "description": "A new proof shows that a knot some thought would contradict the famed slice-ribbon conjecture doesn’t.            \nThe post Mathematicians Eliminate Long-Standing Threat to Knot Conjecture first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/mathematicians-prove-this-knot-cannot-solve-major-problem-20230202/",
-          "publishedOn": "2023-02-02T15:00:28.000Z",
-          "wordCount": 6079,
-          "title": "Mathematicians Eliminate Long-Standing Threat to Knot Conjecture",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/SliceRibbonConjecture-byKristinaArmitage-Social.webp"
         }
       ]
     },
@@ -1562,6 +1462,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/how-to-safely-remove-untracked-files-from-git-repos/",
+          "author": null,
+          "description": "The great thing about Git is that almost all actions are reversible! But there's one command that isn't, and it can cause real headaches — git clean.\n# remove all untracked files\ngit clean .\n\nThe clean command removes untracked files from your Git working tree, and while that's sometimes exactly what you want, you should really run the command with caution.\nYou're probably frustrated when you want to start over, but you should be sure you want to throw away everything. Some files might still be valuable. If you run git clean, they're gone — end of story.\nBy default, Git will not allow you to clean up a repository unless you have clean.requireForce set to false. But you know how it is: an innocent -f is quickly added.\nI learned today that git clean (and other commands) support a --dry-run option.\ngit clean --dry-run .\nWould remove not-important.js\nWould remove untracked-but-very-important.js\n\nIf you want a shorter command line option, use the very intuitive (not!) -n argument.\ngit clean -n .\nWould remove not-important.js\nWould remove untracked-but-very-important.js\n\nThe command prints out what it would remove without doing any damage. Handy! It also comes with a useful interactive mode to handle many untracked files.\ngit clean -i\nWould remove the following items:\n  not-important.js   untracked-but-very-important.js\n  \n*** Commands ***\n  1: clean   2: filter by pattern   3: select by numbers   4: ask each   5: quit   6: help\nWhat now> 4\nRemove not-important.js [y/N]? y\nRemove untracked-but-very-important.js [y/N]? N\nRemoving not-important.js\n\nYou can choose between pattern matching or checking each file one by one in the interactive mode. Nice one, Git! 💪\nBut what about other Git commands? Most of the other dry runs don't seem very exciting to me because, as said, most of the Git operations are reversible. But one that I could see come in handy is a git remote prune dry run to avoid removing remote branches. But that's about it. 🤷‍♂️\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/how-to-safely-remove-untracked-files-from-git-repos/",
+          "publishedOn": "2023-03-03T23:00:00.000Z",
+          "wordCount": 1391,
+          "title": "How to safely remove untracked files from Git repos (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20safely%20remove%20untracked%20files%20from%20Git%20repos/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-93/",
           "author": null,
@@ -1677,16 +1587,6 @@
           "publishedOn": "2023-02-10T00:00:00.000Z",
           "wordCount": 938,
           "title": "Should the Go toolchain collect usage data?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/446",
-          "author": null,
-          "description": "#​446 — February 3, 2023\n\n\nUnsub  |  Web Version\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nGo 1.20 Released — Hurrah – exactly six months after Go 1.19 comes the latest significant release of Go. Here’s some of what’s new:\n    \nProfile-guided optimization (PGO) is a new (in preview) feature using profile runs of your app to optimize its future compilation.\nDirect slice to array conversion.\nPerf improvements in the garbage collector.\nErrors can now wrap multiple other errors.\nA new crypto/ecdh package implementing Elliptic Curve Diffie-Hellman key exchanges.\n1.20 is the final release that will run on macOS 10.13/10.14 or Windows 7/8.\nAnd a lot more.. see the Go 1.20 release notes for the full roundup.\nRobert Griesemer and the Go Team \n\n\n  \n  \nSecurely Access Internal Resources With Tail…",
-          "link": "https://golangweekly.com/issues/446",
-          "publishedOn": "2023-02-03T00:00:00.000Z",
-          "wordCount": 732,
-          "title": "The one with Go 1.20",
           "imageUrl": null
         }
       ]

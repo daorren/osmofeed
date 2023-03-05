@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-04T01:37:06.772Z</updated>
+    <updated>2023-03-05T01:51:15.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to safely remove untracked files from Git repos (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/how-to-safely-remove-untracked-files-from-git-repos/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/how-to-safely-remove-untracked-files-from-git-repos/"/>
+        <updated>2023-03-03T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The great thing about Git is that almost all actions are reversible! But there's one command that isn't, and it can cause real headaches — git clean.
+# remove all untracked files
+git clean .
+
+The clean command removes untracked files from your Git working tree, and while that's sometimes exactly what you want, you should really run the command with caution.
+You're probably frustrated when you want to start over, but you should be sure you want to throw away everything. Some files might still be valuable. If you run git clean, they're gone — end of story.
+By default, Git will not allow you to clean up a repository unless you have clean.requireForce set to false. But you know how it is: an innocent -f is quickly added.
+I learned today that git clean (and other commands) support a --dry-run option.
+git clean --dry-run .
+Would remove not-important.js
+Would remove untracked-but-very-important.js
+
+If you want a shorter command line option, use the very intuitive (not!) -n argument.
+git clean -n .
+Would remove not-important.js
+Would remove untracked-but-very-important.js
+
+The command prints out what it would remove without doing any damage. Handy! It also comes with a useful interactive mode to handle many untracked files.
+git clean -i
+Would remove the following items:
+  not-important.js   untracked-but-very-important.js
+  
+*** Commands ***
+  1: clean   2: filter by pattern   3: select by numbers   4: ask each   5: quit   6: help
+What now> 4
+Remove not-important.js [y/N]? y
+Remove untracked-but-very-important.js [y/N]? N
+Removing not-important.js
+
+You can choose between pattern matching or checking each file one by one in the interactive mode. Nice one, Git! 💪
+But what about other Git commands? Most of the other dry runs don't seem very exciting to me because, as said, most of the Git operations are reversible. But one that I could see come in handy is a git remote prune dry run to avoid removing remote branches. But that's about it. 🤷‍♂️
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Define And Call Functions in Python]]></title>
         <id>https://www.freecodecamp.org/news/how-to-define-and-call-functions-in-python/</id>
@@ -1798,151 +1843,6 @@ I didn't check when this feature was added to macOS, but the video shows Ventura
         <summary type="html"><![CDATA[We all have those same old boring tasks that we do over and over again. Fortunately, we can automate some of these processes so that we can focus on doing other things that really need our energy and attention. In this article, we will talk about some Python automation scripts]]></summary>
         <author>
             <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Manage Linux Processes]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-manage-linux-processes/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-manage-linux-processes/"/>
-        <updated>2023-02-03T00:07:38.000Z</updated>
-        <summary type="html"><![CDATA[We all follow certain processes to achieve our goals. Similarly, every system has its own processes to accomplish tasks.  Every program or command that executes in a Linux system is called a process. In this tutorial, let's explore processes and how we can manage them in Linux. What is]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The one with Go 1.20]]></title>
-        <id>https://golangweekly.com/issues/446</id>
-        <link href="https://golangweekly.com/issues/446"/>
-        <updated>2023-02-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​446 — February 3, 2023
-
-
-Unsub  |  Web Version
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-Go 1.20 Released — Hurrah – exactly six months after Go 1.19 comes the latest significant release of Go. Here’s some of what’s new:
-    
-Profile-guided optimization (PGO) is a new (in preview) feature using profile runs of your app to optimize its future compilation.
-Direct slice to array conversion.
-Perf improvements in the garbage collector.
-Errors can now wrap multiple other errors.
-A new crypto/ecdh package implementing Elliptic Curve Diffie-Hellman key exchanges.
-1.20 is the final release that will run on macOS 10.13/10.14 or Windows 7/8.
-And a lot more.. see the Go 1.20 release notes for the full roundup.
-Robert Griesemer and the Go Team 
-
-
-  
-  
-Securely Access Internal Resources With Tail…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Data Structures and Algorithms – Introduction and Learning Resources]]></title>
-        <id>https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/</id>
-        <link href="https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/"/>
-        <updated>2023-02-02T23:51:50.000Z</updated>
-        <summary type="html"><![CDATA[Data structures and algorithms (DSA) are an important aspect of any programming language. Every language has its own data structures and its way of handling different types of algorithms. So, as a programmer, no matter what programming language you are working with, data structures and algorithms have to be an]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Native Tutorial – How to Create a Simple Responsive Layout for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/responsive-layout-react-native/</id>
-        <link href="https://www.freecodecamp.org/news/responsive-layout-react-native/"/>
-        <updated>2023-02-02T23:50:26.000Z</updated>
-        <summary type="html"><![CDATA[Having a responsive layout is an important component of user interface (UI) design. It enables a website or application to automatically adjust its size and layout based on the size of the user's device and screen. This provides an optimal viewing experience.  Responsive layouts also give the user a]]></summary>
-        <author>
-            <name>Kingsley Ubah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Calculator App Using React Native – A Step-by-Step Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-calculator-app-using-react-native-a-step-by-step-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-calculator-app-using-react-native-a-step-by-step-tutorial/"/>
-        <updated>2023-02-02T19:29:15.000Z</updated>
-        <summary type="html"><![CDATA[A calculator application is a simple application that is always available on every Android, iOS, and desktop device.  In this article, we will build a calculator application using React Native and Expo. So why are we using these tools?  React Native is a JavaScript-based framework you can use]]></summary>
-        <author>
-            <name>Muhammad Adam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Django by Building a Marketplace]]></title>
-        <id>https://www.freecodecamp.org/news/learn-django-by-building-a-marketplace/</id>
-        <link href="https://www.freecodecamp.org/news/learn-django-by-building-a-marketplace/"/>
-        <updated>2023-02-02T19:28:19.000Z</updated>
-        <summary type="html"><![CDATA[Django is a powerful and popular web framework for Python. It is used to build robust and scalable web applications with ease. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn Django through building your own online marketplace. Stein from Code with Stein teaches]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computer Basics for Absolute Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/computer-basics-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/computer-basics-beginners/"/>
-        <updated>2023-02-02T19:21:25.000Z</updated>
-        <summary type="html"><![CDATA[You have to start somewhere when learning about computers. We just published a comprehensive video course on the freeCodeCamp.org channel designed to help you develop a solid foundation in computer and technology skills. This course is for anyone who is brand new to working with computers or for those who]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Escape a String in JavaScript – JS Escaping Example]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-escape-strings-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-escape-strings-in-javascript/"/>
-        <updated>2023-02-02T19:05:19.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, a string is a data type representing a sequence of characters that may consist of letters, numbers, symbols, words, or sentences. Strings are used to represent text-based data and are mostly defined using either single quotes (') or double quotes ("). let name1 = 'John Doe'; let name2]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fall-Through in JavaScript Switch Statements – Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/fall-through-in-javascript-switch-statements/</id>
-        <link href="https://www.freecodecamp.org/news/fall-through-in-javascript-switch-statements/"/>
-        <updated>2023-02-02T17:42:59.000Z</updated>
-        <summary type="html"><![CDATA[Switch statements in JavaScript have a behavior called fall-through which can cause unexpected results. I will explain what this behavior is, how to avoid it, and use cases for it. Switch statements allow you to create conditional statements in JavaScript. You have a conditional expression, and depending on the returned]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python String to Datetime – How to Convert an Str to a Date Time with Strptime]]></title>
-        <id>https://www.freecodecamp.org/news/python-string-to-datetime-how-to-convert-an-str-to-a-date-time-with-strptime/</id>
-        <link href="https://www.freecodecamp.org/news/python-string-to-datetime-how-to-convert-an-str-to-a-date-time-with-strptime/"/>
-        <updated>2023-02-02T15:57:55.000Z</updated>
-        <summary type="html"><![CDATA[Python offers a variety of built-in modules that you can include in your program. A module is a Python file containing the necessary code to execute an individual functionality. This file is imported into your application to help you perform a specific task. One of those modules is the datetime]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematicians Eliminate Long-Standing Threat to Knot Conjecture]]></title>
-        <id>https://www.quantamagazine.org/?p=122811</id>
-        <link href="https://www.quantamagazine.org/mathematicians-prove-this-knot-cannot-solve-major-problem-20230202/"/>
-        <updated>2023-02-02T15:00:28.000Z</updated>
-        <summary type="html"><![CDATA[A new proof shows that a knot some thought would contradict the famed slice-ribbon conjecture doesn’t.            
-The post Mathematicians Eliminate Long-Standing Threat to Knot Conjecture first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Leila Sloman</name>
         </author>
     </entry>
 </feed>
