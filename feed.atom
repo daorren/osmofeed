@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-05T01:51:15.417Z</updated>
+    <updated>2023-03-06T01:41:31.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 🧼 That well-worn look …]]></title>
+        <id>63fb05bcc7f86a7c9ca5a6e4</id>
+        <link href="https://labnotes.org/weekend-reading-that-well-worn-look/"/>
+        <updated>2023-03-05T22:31:31.000Z</updated>
+        <summary type="html"><![CDATA[This week we celebrate cleaning products, a new timezone, predictive coding, Yiddish slang, and techno-linguistic chaos.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to safely remove untracked files from Git repos (#tilPost)]]></title>
         <id>https://www.stefanjudis.com/today-i-learned/how-to-safely-remove-untracked-files-from-git-repos/</id>
@@ -1803,46 +1813,6 @@ I didn't check when this feature was added to macOS, but the video shows Ventura
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Apache Kafka Handbook – How to Get Started Using Kafka]]></title>
-        <id>https://www.freecodecamp.org/news/apache-kafka-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/apache-kafka-handbook/"/>
-        <updated>2023-02-03T23:48:22.000Z</updated>
-        <summary type="html"><![CDATA[Apache Kafka is an open-source event streaming platform that can transport huge volumes of data at very low latency.  Companies like LinkedIn, Uber, and Netflix use Kafka to process trillions of events and petabtyes of data each day. Kafka was originally developed at LinkedIn [https://engineering.linkedin.com/27/project-kafka-distributed-publish-subscribe-messaging-system-reaches-v06] , to help handle]]></summary>
-        <author>
-            <name>Gerard Hynes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a React Admin Panel with Refine]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-an-react-admin-panel-with-refine/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-react-admin-panel-with-refine/"/>
-        <updated>2023-02-03T23:46:01.000Z</updated>
-        <summary type="html"><![CDATA[React is a popular front-end framework for building interactive user interfaces. It has helped revolutionize the development of data-intensive front-end applications. React's declarative nature makes building user interfaces intuitive. And reusable React components increase development speed and reduce time to production. To further improve the development experience when building user]]></summary>
-        <author>
-            <name>Joseph Mawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a String in JS? The JavaScript String Variable Explained]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-a-string-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-string-in-javascript/"/>
-        <updated>2023-02-03T19:26:12.000Z</updated>
-        <summary type="html"><![CDATA[When learning JaveScript or any programming language, you'll encounter the keyword or term string. A string represents textual data, which is a fundamental part of many applications. You can also use strings to interact with users through prompts, alerts, and other forms of user input and output. In this article,]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Automation Scripts You Should Know]]></title>
-        <id>https://www.freecodecamp.org/news/python-automation-scripts/</id>
-        <link href="https://www.freecodecamp.org/news/python-automation-scripts/"/>
-        <updated>2023-02-03T18:36:39.000Z</updated>
-        <summary type="html"><![CDATA[We all have those same old boring tasks that we do over and over again. Fortunately, we can automate some of these processes so that we can focus on doing other things that really need our energy and attention. In this article, we will talk about some Python automation scripts]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
         </author>
     </entry>
 </feed>
