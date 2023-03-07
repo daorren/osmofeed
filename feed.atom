@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-06T01:41:31.458Z</updated>
+    <updated>2023-03-07T01:46:33.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Test and Debug SQL Queries with Python]]></title>
+        <id>https://www.freecodecamp.org/news/testing-and-debugging-sql-queries-with-python/</id>
+        <link href="https://www.freecodecamp.org/news/testing-and-debugging-sql-queries-with-python/"/>
+        <updated>2023-03-06T22:20:45.000Z</updated>
+        <summary type="html"><![CDATA[SQL is a powerful language that allows you to extract, manipulate and analyze data from relational databases. But writing and debugging SQL queries can be a challenging task.  Testing and debugging SQL queries is crucial to ensure that they produce accurate and efficient results. And you can use Python]]></summary>
+        <author>
+            <name>Oluseye Jeremiah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use scanf( ) in C to Read and Store User Input]]></title>
+        <id>https://www.freecodecamp.org/news/using-scanf-in-c/</id>
+        <link href="https://www.freecodecamp.org/news/using-scanf-in-c/"/>
+        <updated>2023-03-06T21:59:30.000Z</updated>
+        <summary type="html"><![CDATA[The scanf() function is a commonly used input function in the C programming language. It allows you to read input from the user or from a file and store that input in variables of different data types.  Input is an essential part of most programs, and the scanf() function]]></summary>
+        <author>
+            <name>Valentine Gatwiri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rendering Patterns for Web Apps – Server-Side, Client-Side, and SSG Explained]]></title>
+        <id>https://www.freecodecamp.org/news/rendering-patterns/</id>
+        <link href="https://www.freecodecamp.org/news/rendering-patterns/"/>
+        <updated>2023-03-06T18:22:40.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we're going to take a look at the different rendering pattern options available nowadays for web applications. I'll start by explaining what a rendering pattern is, then go through each of the main options available. Finally we'll compare them, explaining the pros and cons and]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Extract Data from PDF Files with Python]]></title>
+        <id>https://www.freecodecamp.org/news/extract-data-from-pdf-files-with-python/</id>
+        <link href="https://www.freecodecamp.org/news/extract-data-from-pdf-files-with-python/"/>
+        <updated>2023-03-06T17:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Data is present in all areas of the modern digital world, and it takes many different forms.  One of the most common formats for data is PDF. Invoices, reports, and other forms are frequently stored in Portable Document Format (PDF) files by businesses and institutions.  It can be]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Excel – How to Use Data Validation and Conditional Formatting to Prevent Errors]]></title>
+        <id>https://www.freecodecamp.org/news/excel-use-data-validation-and-conditional-formatting-to-prevent-errors/</id>
+        <link href="https://www.freecodecamp.org/news/excel-use-data-validation-and-conditional-formatting-to-prevent-errors/"/>
+        <updated>2023-03-06T16:41:05.000Z</updated>
+        <summary type="html"><![CDATA[I've been using Microsoft Excel and Google Sheets in my business for over a decade. And as I've learned better ways to clean and validate data, it's increased productivity, decreased human errors, and generally caused a lot of joy! 🥳 In this article, we'll look at two ways to validate]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simpler Math Predicts How Close Ecosystems Are to Collapse]]></title>
+        <id>https://www.quantamagazine.org/?p=123572</id>
+        <link href="https://www.quantamagazine.org/simpler-math-predicts-how-close-ecosystems-are-to-collapse-20230306/"/>
+        <updated>2023-03-06T15:00:09.000Z</updated>
+        <summary type="html"><![CDATA[By replacing thousands of equations with just one, ecology modelers can more accurately assess how close fragile environments are to a disastrous “tipping point.”            
+The post Simpler Math Predicts How Close Ecosystems Are to Collapse first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Anna Gibbs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Search Files Effectively in the Linux Terminal – Advanced Guide]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-search-files-effectively-in-linux/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-search-files-effectively-in-linux/"/>
+        <updated>2023-03-06T14:58:04.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone! Thanks for your great feedback on my tutorial about the basics of the find command [/news/how-to-search-files-in-the-linux-terminal/]. After reading it, many people requested that I write a more advanced version about the  find command.  Well, here it is! Now, it's time to take your skills to the]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can ChatGPT Ensure Secure Coding Practices?]]></title>
+        <id>https://www.freecodecamp.org/news/chat-gpt-and-secure-coding/</id>
+        <link href="https://www.freecodecamp.org/news/chat-gpt-and-secure-coding/"/>
+        <updated>2023-03-06T14:56:56.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT has been in the news a lot recently. The hype around it continues, and many are concerned that this AI service might put many out of work.  Developers in particular feel threatened by this AI bot’s ability to write code on the fly. The general consensus is, however,]]></summary>
+        <author>
+            <name>Andrej Kovacevic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — 🧼 That well-worn look …]]></title>
         <id>63fb05bcc7f86a7c9ca5a6e4</id>
@@ -1791,28 +1872,6 @@ The post How Our Reality May Be a Sum of All Possible Realities first appeared o
         <summary type="html"><![CDATA[This week we ask who’s responsible for technical decisions, dig into the origins of spaghetti code, discover a new dopamine loop, talk a lot (too much?) about generative AI, and wrap it up with a better chat UI.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS offers a tool to remove backgrounds from images (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/macos-offers-a-tool-to-remove-backgrounds-from-images/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/macos-offers-a-tool-to-remove-backgrounds-from-images/"/>
-        <updated>2023-02-04T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The following discovery passed my social feed, and I'm still super excited about this hidden macOS gem.
-I do a lot of YT thumbnails these days and usually use remove.bg to remove backgrounds from pictures. But this feature is natively included in macOS these days! 😲
-macOS background removal via Quick Actions
-      
-    
-I don't follow all the new OS features because I'm not entirely bought into the Apple universe and am very happy with all my workflows.
-But removing backgrounds is a super handy feature! It's a little odd to have this functionality on an operating system level, though. What will be next? Removing background noise from audio files? Cut prepare images for social sharing? I have no clue, but I'd be game for all of these. ;)
-I didn't check when this feature was added to macOS, but the video shows Ventura 13.1.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
