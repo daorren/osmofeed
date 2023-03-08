@@ -12,6 +12,106 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/rest-vs-graphql-apis/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article we're going to take a good look at APIs, a core concept in modern software development. We're going to talk about the main kinds of APIs used nowadays (SOAP, REST and GraphQL), their characteristics, pros and cons, and situations in which each of them might",
+          "link": "https://www.freecodecamp.org/news/rest-vs-graphql-apis/",
+          "publishedOn": "2023-03-07T23:24:27.000Z",
+          "wordCount": 4305,
+          "title": "Different Types of APIs – SOAP vs REST vs GraphQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/john-towner-p-rN-n6Miag-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/generate-colors-in-javascript/",
+          "author": "Rufai Mustapha",
+          "description": "In this article, we'll use build a random color generator in JavaScript. Along the way, we will explore general topics in programming like functions and randomization.  We will build a project called Change The Background Color to illustrate these concepts. You can see the demo here [http://rufai.github.io/buildingx/random_bg_color.html].  In",
+          "link": "https://www.freecodecamp.org/news/generate-colors-in-javascript/",
+          "publishedOn": "2023-03-07T22:11:32.000Z",
+          "wordCount": 2396,
+          "title": "How to Generate Colors in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/colotd--2-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/circular-reference-in-javascript-explained/",
+          "author": "Dillion Megida",
+          "description": "Have you ever encountered a \"circular reference\" error when working with JSON? In this tutorial, I'll explain what this error means as well as how to fix it. This error, in my experience, occurs when you try to convert an object with circular references to JSON. You may have experienced",
+          "link": "https://www.freecodecamp.org/news/circular-reference-in-javascript-explained/",
+          "publishedOn": "2023-03-07T21:52:14.000Z",
+          "wordCount": 1811,
+          "title": "Circular Reference Error in JavaScript – Meaning and How to Fix It",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/22.-circular-reference-error.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-loops-in-python/",
+          "author": "Oluseye Jeremiah",
+          "description": "Loops are an essential concept in programming. They allow you to execute a block of code repeatedly based on certain conditions.  Python offers two types of loops: for and while loops. In this article, we will explore both of these loop types and provide examples of how to use",
+          "link": "https://www.freecodecamp.org/news/how-to-use-loops-in-python/",
+          "publishedOn": "2023-03-07T21:36:52.000Z",
+          "wordCount": 1452,
+          "title": "How to Use Loops in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Loops.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/deep-learning-with-julia/",
+          "author": "Andrey Germanov",
+          "description": "Julia [https://julialang.org/] is a general purpose programming language well suited for numerical analysis and computational science. Some consider it the future of machine learning and the most natural replacement for Python in this field. In the previous post \"Machine learning with Julia – How to Build and Deploy a Trained",
+          "link": "https://www.freecodecamp.org/news/deep-learning-with-julia/",
+          "publishedOn": "2023-03-07T21:34:07.000Z",
+          "wordCount": 8443,
+          "title": "Deep Learning with Julia – How to Build and Train a Model using a Neural Network",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-business-of-technology-research-5-10/",
+          "author": "David Clinton",
+          "description": "Getting a new technology out to consumers will usually require good people and boat loads of resources – including money. Generally, lots of money.  A lot of that money will be spent on research. And, more often than not, the hard research needed to translate a great idea into",
+          "link": "https://www.freecodecamp.org/news/the-business-of-technology-research-5-10/",
+          "publishedOn": "2023-03-07T17:07:38.000Z",
+          "wordCount": 3027,
+          "title": "The Business of Technology Research – Who Funds It, And What's Being Done",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-pixabay-2156.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/variable-data-types-explained/",
+          "author": "Deborah Kurata",
+          "description": "Walking into a hardware store, it's not enough to say: \"I need a tool\". You need to be specific about the type of tool you need.  Each tool type has its particular purpose: A hammer to drive a nail into wood, a paint brush to paint, and a wrench",
+          "link": "https://www.freecodecamp.org/news/variable-data-types-explained/",
+          "publishedOn": "2023-03-07T16:54:47.000Z",
+          "wordCount": 2180,
+          "title": "Variable Data Types Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/data-types-thumbnail2.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-conditional-statements-if-else-elif-in-python/",
+          "author": "Oluseye Jeremiah",
+          "description": "Conditional statements are an essential part of programming in Python. They allow you to make decisions based on the values of variables or the result of comparisons.  In this article, we'll explore how to use if, else, and elif statements in Python, along with some examples of how to",
+          "link": "https://www.freecodecamp.org/news/how-to-use-conditional-statements-if-else-elif-in-python/",
+          "publishedOn": "2023-03-07T16:03:51.000Z",
+          "wordCount": 1997,
+          "title": "How to Use Conditional Statements in Python – Examples of if, else, and elif",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Conditional.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/static-variables-in-java/",
+          "author": "Edeh Israel Chidera",
+          "description": "Static variables and static methods are two important concepts in Java.  Whenever a variable is declared as static, this means there is only one copy of it for the entire class, rather than each instance having its own copy. A static method means it can be called without creating",
+          "link": "https://www.freecodecamp.org/news/static-variables-in-java/",
+          "publishedOn": "2023-03-07T15:57:36.000Z",
+          "wordCount": 1545,
+          "title": "Static Variables in Java – Why and How to Use Static Methods",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/markus-spiske-AaEQmoufHLk-unsplash--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-does-s-in-regex-mean-space-and-negated-space-metacharacters/",
+          "author": "Kolade Chris",
+          "description": "In regular expressions, “S” is a metacharacter that represents space. The small letter “s” metacharacter stands for space, and the capital letter “S” stands for non-space. That's how the pattern for most metacharacters works. For instance, the small letter “d” is the metacharacter for a digit, and the capital letter",
+          "link": "https://www.freecodecamp.org/news/what-does-s-in-regex-mean-space-and-negated-space-metacharacters/",
+          "publishedOn": "2023-03-07T14:09:22.000Z",
+          "wordCount": 1038,
+          "title": "What does \\S in Regex Mean? Space and Negated Space Metacharacters",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/start-graph--3-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/testing-and-debugging-sql-queries-with-python/",
           "author": "Oluseye Jeremiah",
           "description": "SQL is a powerful language that allows you to extract, manipulate and analyze data from relational databases. But writing and debugging SQL queries can be a challenging task.  Testing and debugging SQL queries is crucial to ensure that they produce accurate and efficient results. And you can use Python",
@@ -1259,6 +1359,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=123606",
+          "author": "Thomas Lewton",
+          "description": "New calculations suggest that the event horizons around black holes will ‘decohere’ quantum possibilities — even those that are far away.            \nThe post Black Holes Will Eventually Destroy All Quantum States, Researchers Argue first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/black-holes-will-destroy-all-quantum-states-researchers-argue-20230307/",
+          "publishedOn": "2023-03-07T15:00:25.000Z",
+          "wordCount": 7969,
+          "title": "Black Holes Will Eventually Destroy All Quantum States, Researchers Argue",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/03/KillingHorizons-byKristinaArmitage-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=123572",
           "author": "Anna Gibbs",
           "description": "By replacing thousands of equations with just one, ecology modelers can more accurately assess how close fragile environments are to a disastrous “tipping point.”            \nThe post Simpler Math Predicts How Close Ecosystems Are to Collapse first appeared on Quanta Magazine",
@@ -1494,16 +1604,6 @@
           "wordCount": 1495,
           "title": "Weekend Reading — 🎈 BRB, went ballooning",
           "imageUrl": "https://labnotes.org/content/images/2023/02/nvinkpunkmainframecomputer_64909524.png"
-        },
-        {
-          "id": "63d727b197813f2f433a6ed7",
-          "author": "Assaf Arkin",
-          "description": "This week we ask who’s responsible for technical decisions, dig into the origins of spaghetti code, discover a new dopamine loop, talk a lot (too much?) about generative AI, and wrap it up with a better chat UI.",
-          "link": "https://labnotes.org/weekend-reading-how-many-fingers-to-a-hand/",
-          "publishedOn": "2023-02-06T00:08:03.000Z",
-          "wordCount": 1720,
-          "title": "Weekend Reading — 👋 How many fingers to a hand?",
-          "imageUrl": "https://labnotes.org/content/images/2023/02/SCR-20230205-lxp.png"
         }
       ]
     },
@@ -1512,6 +1612,26 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/the-problem-of-breaking-changes-and-version-numbers/",
+          "author": null,
+          "description": "We were discussing version numbers at work the other day, and, as always, things are complicated. How do you version a beta release? Should projects start with 1.0.0, 0.1.0 or 0.0.1? And do you follow proper semantic versioning or not?\nI don't hold strong opinions here, but I do care about setting expectations appropriately. When I update a dependency, I'd like to know if there are expected breaking changes or if it's supposed to be a smooth ride.\nThe idea of a breaking change is by itself very complicated. Let's say there's a bug in your software; when people already use your code there's a slight chance that a bug fix could also be a breaking change.\nBut I'll leave this topic for another day...\nIt really doesn't matter what numbers you slap onto your package, but folks depending on your …",
+          "link": "https://www.stefanjudis.com/blog/the-problem-of-breaking-changes-and-version-numbers/",
+          "publishedOn": "2023-03-06T23:00:00.000Z",
+          "wordCount": 1458,
+          "title": "The problem of breaking changes and version numbers (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:The%20problem%20of%20breaking%20changes%20and%20version%20numbers/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-94/",
+          "author": null,
+          "description": "Guten Tag! 👋\n\nShould the web provide native functionality to hide elements visually? What features will Node.js ship to compete with Deno and Bun? And how much code is necessary to say \"Hello world\" using current frameworks?\nAll the answers and much more are included in this week's Web Weekly. 😊\nYeah... I had to skip a week with Web Weekly. 😢 The last two weeks were just way too busy. Busy but good because I've become a Google Developer Expert. Yay! It's so cool to connect and learn from all these smart people in the program. I'll keep you posted about it!\nAnd secondly, we had another launch week a Checkly (this is where I work 🫣). If you're into testing, monitoring or Playwright automation stuff to ship excellent software, check out all the live sessions we had on YouTube.\nBut let's g…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-94/",
+          "publishedOn": "2023-03-06T23:00:00.000Z",
+          "wordCount": 2303,
+          "title": "Web Weekly #94 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
         {
           "id": "https://www.stefanjudis.com/today-i-learned/how-to-safely-remove-untracked-files-from-git-repos/",
           "author": null,
