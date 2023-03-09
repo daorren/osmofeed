@@ -12,6 +12,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/binary-search-in-java-algorithm-example/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Algorithms provide step by step instructions on solving specific problems. They help you solve problems using efficient, standard, and reusable steps.  The binary search algorithm is one of the commonly used algorithms in programming. It is used to search and find an element in a sorted array.  The",
+          "link": "https://www.freecodecamp.org/news/binary-search-in-java-algorithm-example/",
+          "publishedOn": "2023-03-08T22:26:22.000Z",
+          "wordCount": 1710,
+          "title": "Binary Search in Java – Algorithm Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/binary-search-algorithm.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-convert-arabic-numbers-to-roman-numerals-with-solidjs/",
+          "author": "Mihail Gaberov",
+          "description": "Have you heard about the Romans? Who hasn’t, right 🙂 They used their own numeric system, which was a bit of a mouthful, especially when it came to writing. It looks like this: I, II, III, IV, V, VI and so on. Maybe that’s one of the reasons that people",
+          "link": "https://www.freecodecamp.org/news/how-to-convert-arabic-numbers-to-roman-numerals-with-solidjs/",
+          "publishedOn": "2023-03-08T20:52:17.000Z",
+          "wordCount": 2634,
+          "title": "How to Convert Arabic Numbers to Roman Numerals with SolidJS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Arabic_to_Roman_Converter_-_Mihail_Gaberov.gif"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-read-and-write-data-to-a-sql-database-using-python/",
+          "author": "Oluseye Jeremiah",
+          "description": "Databases are a crucial component of modern-day software systems. And SQL databases are one of the most widely used types of databases.  They are ideal for managing data in a structured and organized way, and they are widely used in various applications, including e-commerce, healthcare, finance, and more.",
+          "link": "https://www.freecodecamp.org/news/how-to-read-and-write-data-to-a-sql-database-using-python/",
+          "publishedOn": "2023-03-08T19:27:07.000Z",
+          "wordCount": 1671,
+          "title": "How to Read and Write Data to a SQL Database Using Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/SQL-Queries.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/automate-mern-app-deployment-with-jenkins-and-aws/",
+          "author": "Rakesh Potnuru",
+          "description": "As you continue to develop your software, you must also continue to integrate it with previous code and deploy it to servers.  Manually doing this is a time-consuming process that can occasionally result in errors. So we need to do this in a continuous and automated manner – which",
+          "link": "https://www.freecodecamp.org/news/automate-mern-app-deployment-with-jenkins-and-aws/",
+          "publishedOn": "2023-03-08T17:42:07.000Z",
+          "wordCount": 3026,
+          "title": "MERN App Development – How to Build a CI/CD Pipeline with Jenkins",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/CICD-Pipeline-with-Jenkins.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/c-operator-logic-operators-in-c-programming/",
+          "author": "Dionysia Lemonaki",
+          "description": "In this article, you will learn about the three logical operators in C. I will first explain what operators are in programming and list the different types of operators available in C. Then, you will learn the role logical operators have and how to use them with the help of",
+          "link": "https://www.freecodecamp.org/news/c-operator-logic-operators-in-c-programming/",
+          "publishedOn": "2023-03-08T15:25:21.000Z",
+          "wordCount": 1989,
+          "title": "C Operator – Logic Operators in C Programming",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-mikael-blomkvist-6476587.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-does-b-in-regex-mean-word-boundary-and-non-word-boundary-metacharacters/",
+          "author": "Kolade Chris",
+          "description": "In regular expressions, “B” is a metacharacter for specifying word boundary. It could be in two forms – the capital letter “B” and the small letter “b”. Since B (and b) is a metacharacter, you need to escape it to make it work (\\b  and \\B). Otherwise, b or",
+          "link": "https://www.freecodecamp.org/news/what-does-b-in-regex-mean-word-boundary-and-non-word-boundary-metacharacters/",
+          "publishedOn": "2023-03-08T14:10:22.000Z",
+          "wordCount": 1246,
+          "title": "What Does B in RegEx Mean? Word Boundary and Non-word Boundary Metacharacters",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/start-graph--4-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/rest-vs-graphql-apis/",
           "author": "Germán Cocca",
           "description": "Hi everyone! In this article we're going to take a good look at APIs, a core concept in modern software development. We're going to talk about the main kinds of APIs used nowadays (SOAP, REST and GraphQL), their characteristics, pros and cons, and situations in which each of them might",
@@ -1330,26 +1390,6 @@
           "wordCount": 1230,
           "title": "Java For Loop Example",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/java-for-loop.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/apis-for-beginners/",
-          "author": "Beau Carnes",
-          "description": "APIs, or Application Programming Interfaces, are a critical component of web development and programming. They provide a way for different applications and systems to communicate with each other, exchanging data and enabling functionalities. We just published an API basics course on the freeCodeCamp.org YouTube channel. This is an updated version",
-          "link": "https://www.freecodecamp.org/news/apis-for-beginners/",
-          "publishedOn": "2023-02-06T17:57:37.000Z",
-          "wordCount": 882,
-          "title": "APIs for Beginners Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/apinew.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-command-line-application-with-nodejs/",
-          "author": "Njoku Samson Ebere",
-          "description": "If you're looking for a tutorial to teach you the basics of Nodejs [https://nodejs.org/en/] and the command line, you're in the right place. You can use JavaScript to build almost any software (web, mobile, bots, and so on). The reason is that computers no longer depend on browsers only to",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-command-line-application-with-nodejs/",
-          "publishedOn": "2023-02-06T15:59:59.000Z",
-          "wordCount": 3926,
-          "title": "How to Build a CRUD Command Line Application With Node.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-hitesh-choudhary-1261427.jpg"
         }
       ]
     },
@@ -1358,6 +1398,26 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=123698",
+          "author": "Steven Strogatz",
+          "description": "By genetically instructing cells to perform tasks that they wouldn’t in nature, synthetic biologists can learn deep secrets about how life works. Steven Strogatz discusses the potential of this young field with researcher Michael Elowitz.            \nThe post Can We Program Our Cells? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/can-we-program-our-cells-20230308/",
+          "publishedOn": "2023-03-08T21:41:58.000Z",
+          "wordCount": 20875,
+          "title": "Can We Program Our Cells?",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/03/JoY-S2P2-Synthetic_Biology-byPeterGreenwood-Social-Logo.webp"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=123663",
+          "author": "Charlie Wood and Zack Savitsky",
+          "description": "A paper in Nature reports the discovery of a superconductor that operates at room temperatures and near-room pressures. The claim has divided the research community.             \nThe post Room-Temperature Superconductor Discovery Meets With Resistance first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/room-temperature-superconductor-discovery-meets-with-resistance-20230308/",
+          "publishedOn": "2023-03-08T16:00:37.000Z",
+          "wordCount": 7756,
+          "title": "Room-Temperature Superconductor Discovery Meets With Resistance",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/03/RoomTempSuperconductivity-JAdamFenster_UniversityOfRochester-Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=123606",
           "author": "Thomas Lewton",
@@ -1547,16 +1607,6 @@
           "wordCount": 5591,
           "title": "Researchers Discover a More Flexible Approach to Machine Learning",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/LiquidNeuralNets-byKristinaArmitage-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=122851",
-          "author": "Charlie Wood",
-          "description": "Richard Feynman’s path integral is both a powerful prediction machine and a philosophy about how the world is. But physicists are still struggling to figure out how to use it, and what it means.             \nThe post How Our Reality May Be a Sum of All Possible Realities first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-our-reality-may-be-a-sum-of-all-possible-realities-20230206/",
-          "publishedOn": "2023-02-06T15:00:05.000Z",
-          "wordCount": 7114,
-          "title": "How Our Reality May Be a Sum of All Possible Realities",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/PathIntegralExplainer-byKristinaArmitage-Social.webp"
         }
       ]
     },
@@ -1612,6 +1662,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/yaml-provides-9-ways-to-handle-strings/",
+          "author": null,
+          "description": "I use YAML sparingly, but occasionally I have to fiddle with GitHub actions that use it as their configuration format. After defining some CI/CD commands, I started looking into multi-line strings, and oh boy...\nMultiline strings are annoying in any configuration format, but YAML reaches another level. There are nine (!) different ways to handle strings:  , ', \", |, |+, |-, >, >+ and >-. Nine! 🤯\nCheck the YAML Playground or this StackOverflow answer. Big kudos to the person taking the time to write a novel describing string handling. 🙇‍♂️\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/yaml-provides-9-ways-to-handle-strings/",
+          "publishedOn": "2023-03-07T23:00:00.000Z",
+          "wordCount": 1165,
+          "title": "YAML provides 9 ways to handle strings (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:YAML%20provides%209%20ways%20to%20handle%20strings/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/the-problem-of-breaking-changes-and-version-numbers/",
           "author": null,
@@ -1691,16 +1751,6 @@
           "wordCount": 1323,
           "title": "How to narrow and secure types with const assertions (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20narrow%20and%20secure%20types%20with%20const%20assertions/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-91/",
-          "author": null,
-          "description": "Guten Tag!\n\nDo you know what's coming to JavaScript? Or struggle to debug and hand edit your SVGs? Or want to level up your VS Code game?\nAll the answers and much more are included in this week's Web Weekly. 🫣\nBefore we start, I want to thank the people supporting my tiny indie newsletter on Patreon. Since last week, I've been able to cover the cost of sending almost 3.5k emails every week. Thank you, Benjamin, Leanne, Leon, Daniel and Paul! You rock!\nBut let's get to some web stuff!\nThe biggest news last week was the announcement of Interop 2023. If you haven't heard of the initiative: Apple, Bocoup, Igalia, Microsoft, Mozilla and Google collaborate on pushing the web platform forward and aim to resolve the most pressing compatibility issues across browsers.\nAnd this year's focus list is…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-91/",
-          "publishedOn": "2023-02-06T23:00:00.000Z",
-          "wordCount": 2074,
-          "title": "Web Weekly #91 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
     },
