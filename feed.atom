@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-11T01:22:45.580Z</updated>
+    <updated>2023-03-12T01:41:17.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 🤗 Hug a CFO]]></title>
+        <id>640b728854aa81be6ff9e3e7</id>
+        <link href="https://labnotes.org/weekend-reading-hug-a-cfo/"/>
+        <updated>2023-03-12T01:23:17.000Z</updated>
+        <summary type="html"><![CDATA[This week we talk about React hooks, CloudFlare caching, SVB’s fall from grace, AI winter, generated AI aesthetics, non-linear workdays, and how to leave work early.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VS Code extensions to ease navigating code (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/vs-code-extensions-to-ease-navigating-code/</id>
+        <link href="https://www.stefanjudis.com/blog/vs-code-extensions-to-ease-navigating-code/"/>
+        <updated>2023-03-10T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I've stumbled upon a relatively new VS Code extension (more about it in a second) and just went on a journey to clean up VS Code. I removed ten extensions and am now with 25 that I use actively, more or less.
+The best extensions blend in so well that you'll be surprised that VS Code doesn't offer certain functionality natively. It's the ones "fixing" the editor that stand out!
+And I have a hunch that "Better Folding" created by Mohammad Baqer will be one of them. Let me quickly share three extensions I forgot I installed but don't want to miss.
+The newbie first: Better Folding
+
+The Better Folding extension was released in 2023 and only has a few downloads yet, but after looking at it, I immediately realized that code folding in VS Code could be better.
+VS Code's folding is somehow standing in my way, and that's why I'm not using it that often...
+Check out "Better Folding's" improvements!
+Everything's nicely configurable, too! I bet VS Code will adopt all these folding features when the extension takes off!
+HTML End Tag Labels
+
+And speaking of code folding: to navigate nested HTML structures, I used to collapse certain areas to keep an overview. The HTML End Tag Labels extension makes HTML editing so much easier.
+Better Comments
+
+And if a code base comes with lots of comments, Better Comments' TODO highlighting makes it easier to grasp what's essential!
+That's all for today's VS Code spring cleaning. If you use extensions that blend in as nicely as these three, shoot them my way!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Remove Duplicate Data 
 in SQL]]></title>
@@ -2035,113 +2075,6 @@ The TypeScript docs are a quick read if you want to learn more.
 The post Mathematicians Complete Quest to Build ‘Spherical Cubes’ first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Jordana Cepelewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should the Go toolchain collect usage data?]]></title>
-        <id>https://golangweekly.com/issues/447</id>
-        <link href="https://golangweekly.com/issues/447"/>
-        <updated>2023-02-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​447 — February 10, 2023
-
-
-Unsub  |  Web Version
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-An Introduction to Go's Profile-Guided Optimization — What if the Go compiler could improve how it compiles software based upon real-world profiling? Profile-Guided Optimization (PGO) feeds runtime profiles to the compiler to optimize the binary based on usage. Go 1.20 includes initial support for this, so try this with your apps and (hopefully) see some perf gains.
-Michael Pratt 
-
-
-  
-  
-Transparent Telemetry for Open Source Projects — It's an emotive topic, but Russ puts forth a concept of ‘transparent telemetry’, a privacy-sensitive approach to gathering usage data in the Go toolchain to help Go library devs, the core team, and others. There’s a lot to unpack and there's a a GitHub discussion…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Z-index Property Works – Stacking Order of Elements in CSS]]></title>
-        <id>https://www.freecodecamp.org/news/z-index-property-and-stacking-order-css/</id>
-        <link href="https://www.freecodecamp.org/news/z-index-property-and-stacking-order-css/"/>
-        <updated>2023-02-09T22:48:03.000Z</updated>
-        <summary type="html"><![CDATA[Frontend engineers can testify that they sometimes face weird z-index bugs and end up spending hours trying to fix them.  Change one property here and you have your header flying away from where it was meant to be.  Well, we can attribute this to the fact that debugging]]></summary>
-        <author>
-            <name>Franklin Okolie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Search Files Effectively in the Linux Terminal]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-search-files-in-the-linux-terminal/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-search-files-in-the-linux-terminal/"/>
-        <updated>2023-02-09T22:45:05.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever felt frustrated searching for files manually on your computer? If you’re a developer or DevOps engineer working on GUI-less Linux servers, it'll be hard navigating back and forth to find files. Many people are unaware of the power of Linux terminals. Linux has an incredibly powerful command]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Use Java for Backend Development]]></title>
-        <id>https://www.freecodecamp.org/news/java-for-backend-web-development/</id>
-        <link href="https://www.freecodecamp.org/news/java-for-backend-web-development/"/>
-        <updated>2023-02-09T21:54:09.000Z</updated>
-        <summary type="html"><![CDATA[Java is a well-established and widely-used programming language. You can use it to create desktop and mobile applications, for massive data processing, for backend development, to program embedded devices, and more.  Oracle, the company that owns Java, claims that Java is used on 3 billion devices worldwide, making it]]></summary>
-        <author>
-            <name>David Fagbuyiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Window Functions in SQL – with Example Queries]]></title>
-        <id>https://www.freecodecamp.org/news/window-functions-in-sql/</id>
-        <link href="https://www.freecodecamp.org/news/window-functions-in-sql/"/>
-        <updated>2023-02-09T21:47:41.000Z</updated>
-        <summary type="html"><![CDATA[Window functions are an advanced type of function in SQL. They let you work with observations more easily.  Window functions give you access to features like advanced analytics and data manipulation without the need to write complex queries. In this lesson you will learn about what window functions are]]></summary>
-        <author>
-            <name>Ibrahim Abayomi Ogunbiyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with Branches in Git]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-work-with-branches-in-git/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-branches-in-git/"/>
-        <updated>2023-02-09T21:42:10.000Z</updated>
-        <summary type="html"><![CDATA[One of the things we fell in love with when we saw our future backyard was the tree. The valley oak is the largest North American oak. It can grow to be 600 years old and 100 feet tall. It's known for its irregular, spreading branches. Speaking of branches...a key]]></summary>
-        <author>
-            <name>Deborah Kurata</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Git and GitHub in Spanish – Course for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/learn-git-and-github-in-spanish-course-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/learn-git-and-github-in-spanish-course-for-beginners/"/>
-        <updated>2023-02-09T15:25:52.000Z</updated>
-        <summary type="html"><![CDATA[Hi! If you speak Spanish and you want to learn Git and GitHub, you are in the right place. In this article, you will find a brief introduction to Git and GitHub. You will learn why they are very powerful tools and why you should learn them if your goal]]></summary>
-        <author>
-            <name>Estefania Cassingena Navone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Joy of Asking About Infinity, Jellyfish and the End of the Universe]]></title>
-        <id>https://www.quantamagazine.org/?p=122908</id>
-        <link href="https://www.quantamagazine.org/the-joy-of-asking-about-infinity-jellyfish-and-the-end-of-the-universe-20230209/"/>
-        <updated>2023-02-09T15:16:50.000Z</updated>
-        <summary type="html"><![CDATA[As The Joy of Why podcast returns for a second season, producer Polly Stryker and host Steven Strogatz invite listeners to join them and their brilliant new guests on another voyage of discovery.            
-The post The Joy of Asking About Infinity, Jellyfish and the End of the Universe first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Polly Stryker</name>
         </author>
     </entry>
 </feed>
