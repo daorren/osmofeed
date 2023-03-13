@@ -1310,56 +1310,6 @@
           "wordCount": 3718,
           "title": "Asynchronous Programming in JavaScript for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-giallo-859895.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-mysql-transactions/",
-          "author": "Aisha Bukar",
-          "description": "What is a Database Transaction and Why is it Important? A database transaction is a single area of the database where multiple data operations are carried out and written as a whole.  These operations can be create, read, update, or delete operations.  During the process of a transaction,",
-          "link": "https://www.freecodecamp.org/news/how-to-use-mysql-transactions/",
-          "publishedOn": "2023-02-10T21:35:03.000Z",
-          "wordCount": 2805,
-          "title": "How to Use MySQL Transactions",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/White-Minimalist-Dental-Clinic-Facebook-Cover--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-modulo-operator-how-to-use-the-modulus-in-js/",
-          "author": "Joel Olawanle",
-          "description": "In JavaScript, you may need to perform mathematical calculations such as determining if a number is even or odd, wrapping values within a range, and converting between degrees and radians in trigonometry. To help you perform all these mathematical calculations, the modulo operator can be extremely useful. This article will",
-          "link": "https://www.freecodecamp.org/news/javascript-modulo-operator-how-to-use-the-modulus-in-js/",
-          "publishedOn": "2023-02-10T19:35:28.000Z",
-          "wordCount": 1278,
-          "title": "JavaScript Modulo Operator – How to Use the Modulus in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/cover-template--1--1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-get-github-pro-and-replit-hacker-for-free-as-a-student/",
-          "author": "Eesa Zahed",
-          "description": "If you are in high school or college/university and are interested in coding, you should consider signing up for GitHub Education.  This allows you to use GitHub Pro, as well as having many other benefits.  In this quick guide, I'll show you the steps to sign up for",
-          "link": "https://www.freecodecamp.org/news/how-to-get-github-pro-and-replit-hacker-for-free-as-a-student/",
-          "publishedOn": "2023-02-10T17:47:17.000Z",
-          "wordCount": 1276,
-          "title": "How to Get GitHub Pro and Replit Hacker for Free as a Student",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/coderr.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-a-rest-api/",
-          "author": "Dionysia Lemonaki",
-          "description": "An API (short for Application Programming Interface) allows for two or more applications to communicate with one another and send data back and forth. APIs operated based on a standardized set of rules and they're an integral component of modern-day software development. There are different API styles, and each one",
-          "link": "https://www.freecodecamp.org/news/what-is-a-rest-api/",
-          "publishedOn": "2023-02-10T16:39:44.000Z",
-          "wordCount": 2012,
-          "title": "What is a REST API? API Endpoint Request Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-life-of-pix-42408.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/set-and-map-in-javascript/",
-          "author": "Kamaldeen Lawal",
-          "description": "There are three major iterables available in JavaScript: Arrays, Maps, and Sets.  In this article, we will cover the following topics:   * What is an Array?  * What is a Set?  * What is a Map?  * How to Create a Set",
-          "link": "https://www.freecodecamp.org/news/set-and-map-in-javascript/",
-          "publishedOn": "2023-02-10T15:29:36.000Z",
-          "wordCount": 3352,
-          "title": "How to Use Set and Map in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/kamaldeenlawal94@gmail.com--1-.jpg"
         }
       ]
     },
@@ -1557,16 +1507,6 @@
           "wordCount": 9312,
           "title": "She Studies Growing Arteries to Aid Heart Attack Recovery",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/KristyRedHorse-byRachelBujalski-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=122987",
-          "author": "Jordana Cepelewicz",
-          "description": "Is it possible to fill space “cubically” with shapes that act like spheres? A proof at the intersection of geometry and theoretical computer science says yes.            \nThe post Mathematicians Complete Quest to Build ‘Spherical Cubes’ first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/mathematicians-complete-quest-to-build-spherical-cubes-20230210/",
-          "publishedOn": "2023-02-10T15:10:34.000Z",
-          "wordCount": 9605,
-          "title": "Mathematicians Complete Quest to Build ‘Spherical Cubes’",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/SphericalCubes-byDVDP-Social.webp"
         }
       ]
     },
@@ -1731,16 +1671,6 @@
           "wordCount": 1299,
           "title": "Git-based dotfile management without symlinks (#note)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Git-based%20dotfile%20management%20without%20symlinks/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/how-to-narrow-and-secure-types-with-const-assertions/",
-          "author": null,
-          "description": "I'm continuing my journey of learning TypeScript, and it's a wild ride. Sometimes I feel like I have things under control, but other times, I'm looking at a type definition at work, and all I can do is scratch my head in confusion. It'll be a long journey!\nToday I discovered a somewhat basic but very useful feature that's in TS since 3.4 (released in 2019). That's a century in web development, but hey, I'm still starting out!\nHow to narrow types with const assertions\n\nLet's look at a trivial example.\nconst resource = {id: '123'};\n\nif (resource.id === '234') {\n  console.log('yay!');\n}\n\nIf you look at it, you'll probably see that there's no way this code logs out yay! because the resource.id isn't changed to 234. But TypeScript doesn't know that, and if you inspect the resulting type, you'll find that resource.id is just a string. And that does make sense because it doesn't matter if you declare an object with the const keyword; you can still change the properties as you like.\nBut what if you want to treat the object as truly immutable? Turns out, you can narrow types and explicitly tell TypeScript that resource won't change with two words — as const.\nconst resource = {id: '123'} as const;\n\nif (resource.id === '234') {\n  console.log('yay');\n}\n\nAnd voilà — look at this extra level of type safety! 👏\nNow that TypeScript knows that resource is immutable, it narrows the property type from string to 123, and it complains if you're trying to alter the constant object. That's pretty handy for all sorts of operations!\nThe TypeScript docs are a quick read if you want to learn more.\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/how-to-narrow-and-secure-types-with-const-assertions/",
-          "publishedOn": "2023-02-10T23:00:00.000Z",
-          "wordCount": 1323,
-          "title": "How to narrow and secure types with const assertions (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20narrow%20and%20secure%20types%20with%20const%20assertions/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },

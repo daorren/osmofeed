@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-12T01:41:17.675Z</updated>
+    <updated>2023-03-13T01:34:11.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -1978,103 +1978,6 @@ This dotfiles approach is by far the smartest I've seen, and I'll definitely giv
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to narrow and secure types with const assertions (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/how-to-narrow-and-secure-types-with-const-assertions/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/how-to-narrow-and-secure-types-with-const-assertions/"/>
-        <updated>2023-02-10T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I'm continuing my journey of learning TypeScript, and it's a wild ride. Sometimes I feel like I have things under control, but other times, I'm looking at a type definition at work, and all I can do is scratch my head in confusion. It'll be a long journey!
-Today I discovered a somewhat basic but very useful feature that's in TS since 3.4 (released in 2019). That's a century in web development, but hey, I'm still starting out!
-How to narrow types with const assertions
-
-Let's look at a trivial example.
-const resource = {id: '123'};
-
-if (resource.id === '234') {
-  console.log('yay!');
-}
-
-If you look at it, you'll probably see that there's no way this code logs out yay! because the resource.id isn't changed to 234. But TypeScript doesn't know that, and if you inspect the resulting type, you'll find that resource.id is just a string. And that does make sense because it doesn't matter if you declare an object with the const keyword; you can still change the properties as you like.
-But what if you want to treat the object as truly immutable? Turns out, you can narrow types and explicitly tell TypeScript that resource won't change with two words — as const.
-const resource = {id: '123'} as const;
-
-if (resource.id === '234') {
-  console.log('yay');
-}
-
-And voilà — look at this extra level of type safety! 👏
-Now that TypeScript knows that resource is immutable, it narrows the property type from string to 123, and it complains if you're trying to alter the constant object. That's pretty handy for all sorts of operations!
-The TypeScript docs are a quick read if you want to learn more.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use MySQL Transactions]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-mysql-transactions/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-mysql-transactions/"/>
-        <updated>2023-02-10T21:35:03.000Z</updated>
-        <summary type="html"><![CDATA[What is a Database Transaction and Why is it Important? A database transaction is a single area of the database where multiple data operations are carried out and written as a whole.  These operations can be create, read, update, or delete operations.  During the process of a transaction,]]></summary>
-        <author>
-            <name>Aisha Bukar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Modulo Operator – How to Use the Modulus in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-modulo-operator-how-to-use-the-modulus-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-modulo-operator-how-to-use-the-modulus-in-js/"/>
-        <updated>2023-02-10T19:35:28.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, you may need to perform mathematical calculations such as determining if a number is even or odd, wrapping values within a range, and converting between degrees and radians in trigonometry. To help you perform all these mathematical calculations, the modulo operator can be extremely useful. This article will]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get GitHub Pro and Replit Hacker for Free as a Student]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-get-github-pro-and-replit-hacker-for-free-as-a-student/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-github-pro-and-replit-hacker-for-free-as-a-student/"/>
-        <updated>2023-02-10T17:47:17.000Z</updated>
-        <summary type="html"><![CDATA[If you are in high school or college/university and are interested in coding, you should consider signing up for GitHub Education.  This allows you to use GitHub Pro, as well as having many other benefits.  In this quick guide, I'll show you the steps to sign up for]]></summary>
-        <author>
-            <name>Eesa Zahed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a REST API? API Endpoint Request Example]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-a-rest-api/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-rest-api/"/>
-        <updated>2023-02-10T16:39:44.000Z</updated>
-        <summary type="html"><![CDATA[An API (short for Application Programming Interface) allows for two or more applications to communicate with one another and send data back and forth. APIs operated based on a standardized set of rules and they're an integral component of modern-day software development. There are different API styles, and each one]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Set and Map in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/set-and-map-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/set-and-map-in-javascript/"/>
-        <updated>2023-02-10T15:29:36.000Z</updated>
-        <summary type="html"><![CDATA[There are three major iterables available in JavaScript: Arrays, Maps, and Sets.  In this article, we will cover the following topics:   * What is an Array?  * What is a Set?  * What is a Map?  * How to Create a Set]]></summary>
-        <author>
-            <name>Kamaldeen Lawal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematicians Complete Quest to Build ‘Spherical Cubes’]]></title>
-        <id>https://www.quantamagazine.org/?p=122987</id>
-        <link href="https://www.quantamagazine.org/mathematicians-complete-quest-to-build-spherical-cubes-20230210/"/>
-        <updated>2023-02-10T15:10:34.000Z</updated>
-        <summary type="html"><![CDATA[Is it possible to fill space “cubically” with shapes that act like spheres? A proof at the intersection of geometry and theoretical computer science says yes.            
-The post Mathematicians Complete Quest to Build ‘Spherical Cubes’ first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Jordana Cepelewicz</name>
         </author>
     </entry>
 </feed>
