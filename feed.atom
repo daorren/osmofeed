@@ -2,10 +2,182 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-17T01:26:00.166Z</updated>
+    <updated>2023-03-18T01:25:07.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Method Overloading vs Method Overriding in Java – What's the Difference?]]></title>
+        <id>https://www.freecodecamp.org/news/method-overloading-and-overriding-in-java/</id>
+        <link href="https://www.freecodecamp.org/news/method-overloading-and-overriding-in-java/"/>
+        <updated>2023-03-17T17:26:47.000Z</updated>
+        <summary type="html"><![CDATA[In Java, method overloading and method overriding both refer to creating different methods that share the same name.  While the two concepts share some similarities, they are distinct notions with markedly different use cases. Having a firm grasp of them is important in building strong foundational Java skills.]]></summary>
+        <author>
+            <name>Mikael Lassa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Program Examples – Simple Code Examples for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/python-program-examples-simple-code-examples-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/python-program-examples-simple-code-examples-for-beginners/"/>
+        <updated>2023-03-17T17:09:25.000Z</updated>
+        <summary type="html"><![CDATA[Mark Twain said that the secret of getting ahead is getting started. Programming can seem daunting for beginners, but the best way to get started is to dive right in and start writing code.  Simple code examples are a great way for beginners to get their feet wet and]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binary Search in C++ – Algorithm Example]]></title>
+        <id>https://www.freecodecamp.org/news/binary-search-in-c-algorithm-example/</id>
+        <link href="https://www.freecodecamp.org/news/binary-search-in-c-algorithm-example/"/>
+        <updated>2023-03-17T16:52:22.000Z</updated>
+        <summary type="html"><![CDATA[The binary search algorithm is a divide and conquer algorithm that you can use to search for and find elements in a sorted array.  The algorithm is fast in searching for elements because it removes half of the array every time the search iteration happens.  So instead of]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python range() Function Example]]></title>
+        <id>https://www.freecodecamp.org/news/python-range-function-example/</id>
+        <link href="https://www.freecodecamp.org/news/python-range-function-example/"/>
+        <updated>2023-03-17T11:55:33.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how to use the range() function in Python with some code examples along the way. What is the range() Function in Python? range() Function Syntax Breakdown Python's built-in range() function is mainly used when working with for loops – you can use it to]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python RegEx Tutorial – How to use RegEx inside lambda Expression]]></title>
+        <id>https://www.freecodecamp.org/news/python-regex-tutorial-how-to-use-regex-inside-lambda-expression/</id>
+        <link href="https://www.freecodecamp.org/news/python-regex-tutorial-how-to-use-regex-inside-lambda-expression/"/>
+        <updated>2023-03-17T09:31:41.000Z</updated>
+        <summary type="html"><![CDATA[It’s possible to use RegEx inside a lambda function in Python. You can apply this to any Python method or function that takes a function as a parameter. Such functions and methods include filter(), map(), any(), sort(), and more. Keep reading as I show you how to use regular expressions]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Structured logging is a go]]></title>
+        <id>https://golangweekly.com/issues/452</id>
+        <link href="https://golangweekly.com/issues/452"/>
+        <updated>2023-03-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#​452 — March 17, 2023
+
+
+Unsub  |  Web Version
+
+
+
+The Go Weekly Newsletter
+
+
+
+
+  
+
+
+
+
+
+  
+  
+FlameScope: Visualize CPU Samples from Go Execution Traces — FlameScope is a performance visualization tool from Netflix using flame graphs that can now be used with Go 1.19 thanks to a patch and this work from Felix. “Please note that this is still relatively experimental..”
+Felix Geisendörfer 
+
+
+  
+  
+The slog / Structured Logging Proposal is Accepted — Russ Cox has marked the structured logging with levels proposal (a.k.a. ‘slog’) as accepted – nonetheless, discussion continues.
+Russ Cox 
+
+
+In other proposal related news, Russ also ticked the WebAssembly System Interface / WASI target proposal.
+
+
+
+
+
+  
+  
+Don’t Let Your Issue Tracker Be a Four-Letter Word. Use Shortcut — The best issue tracking …]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Size container queries can detect landscape / portrait orientation (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/size-container-queries-can-detect-landscape-portrait-orientation/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/size-container-queries-can-detect-landscape-portrait-orientation/"/>
+        <updated>2023-03-16T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I'm still wrapping my head around container size queries. The concept is clear (I think), but now that they're there, I'm finally catching up.
+
+        
+MDN Compat Data (source)
+Browser support info for @container 
+              
+                
+
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                
+
+                        
+                        105
+                        
+                      
+                        
+                        …]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make a PDF look like it was manually scanned (#snippet)]]></title>
+        <id>https://www.stefanjudis.com/snippets/make-a-pdf-look-like-it-was-manually-scanned/</id>
+        <link href="https://www.stefanjudis.com/snippets/make-a-pdf-look-like-it-was-manually-scanned/"/>
+        <updated>2023-03-16T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I live in Germany, and while many think we have things in order here, we still need to sort out bureaucracy. It's a clu**fu** at best because German officials rely on paper – paper and handwritten signatures.
+It can go so far that a scanned document image is preferred over a nice and sharp PDF. I don't own a printer, let alone a scanner, so occasionally, I drag myself to the local copy shop to do official business.
+Until now! I've been browsing Hacker News, and the shell script below takes a PDF and makes it look like it's been scanned.
+#!/bin/sh
+ROTATION=$(shuf -n 1 -e '-' '')$(shuf -n 1 -e $(seq 0.05 .5))
+
+convert -density 150 $1 \
+  -linear-stretch '1.5%x2%' \
+  -rotate ${ROTATION} \
+  -attenuate '0.01' \
+  +noise  Multiplicative \
+  -colorspace 'gray' $2
+  
+
+Suppose you called the scrip index.sh you can now run the following command...
+./index.sh original.pdf scanned.pdf
+
+... to scan your PDFs without a physical scanner.
+Side note: the convert command is part of the imagemagick tools and wasn't available on my machine. You might have to install it first. A brew install imagemagick did the trick for me, though.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Generate Automated Reports from a SQL Database Using Python]]></title>
         <id>https://www.freecodecamp.org/news/automating-report-generation-from-sql-databases-using-python/</id>
@@ -2023,47 +2195,6 @@ The post Quantum Field Theory Pries Open Mathematical Puzzle first appeared on Q
         <summary type="html"><![CDATA[Are you ready to take your web development skills to the next level? Do you want to learn how to build dynamic database-driven web applications with Python, Flask, and MySQL?  We just published a comprehensive video course on the freeCodeCamp.org YouTube channel that is designed to teach you how]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Learn JavaScript Effectively – Tips and Learning Strategies]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/"/>
-        <updated>2023-02-15T17:21:13.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is a widely used programming language that has ruled the software development technology stack for over a decade.  You can find JavaScript in web applications, mobile applications, or apps for your desktop. According to a survey done by Statista in 2022, JavaScript developer communities worldwide have about 17.4]]></summary>
-        <author>
-            <name>TAPAS ADHIKARY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Anonymous Function – How to Use Lambda Functions]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-lambda-functions-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-lambda-functions-in-python/"/>
-        <updated>2023-02-15T17:17:35.000Z</updated>
-        <summary type="html"><![CDATA[You can use functions in programming to store a piece of code that can be invoked when needed. This prevents you from retyping the same logic every time you need that code. In this article, you'll learn how to create and use anonymous functions in Python. They are also called]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Type Error vs Reference Error in JavaScript – What's the Difference?]]></title>
-        <id>https://www.freecodecamp.org/news/type-error-vs-reference-error-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/type-error-vs-reference-error-javascript/"/>
-        <updated>2023-02-15T17:12:30.000Z</updated>
-        <summary type="html"><![CDATA[As a JavaScript developer, you've likely encountered different types of errors while coding. Most of the time these will be type errors or reference errors. But have you ever wondered what they mean? Have you ever tried reading about the error type specified by the interpreter before solving these errors?]]></summary>
-        <author>
-            <name>Tejan Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To Teach Computers Math, Researchers Merge AI Approaches]]></title>
-        <id>https://www.quantamagazine.org/?p=123112</id>
-        <link href="https://www.quantamagazine.org/to-teach-computers-math-researchers-merge-ai-approaches-20230215/"/>
-        <updated>2023-02-15T15:32:10.000Z</updated>
-        <summary type="html"><![CDATA[Large language models still struggle with basic reasoning tasks. Two new papers that apply machine learning to math provide a blueprint for how that could change.            
-The post To Teach Computers Math, Researchers Merge AI Approaches first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Kevin Hartnett</name>
         </author>
     </entry>
 </feed>

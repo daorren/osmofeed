@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/method-overloading-and-overriding-in-java/",
+          "author": "Mikael Lassa",
+          "description": "In Java, method overloading and method overriding both refer to creating different methods that share the same name.  While the two concepts share some similarities, they are distinct notions with markedly different use cases. Having a firm grasp of them is important in building strong foundational Java skills.",
+          "link": "https://www.freecodecamp.org/news/method-overloading-and-overriding-in-java/",
+          "publishedOn": "2023-03-17T17:26:47.000Z",
+          "wordCount": 1711,
+          "title": "Method Overloading vs Method Overriding in Java – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Method-Overloading-and-Overriding-in-Java-copy.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-program-examples-simple-code-examples-for-beginners/",
+          "author": "Shittu Olumide",
+          "description": "Mark Twain said that the secret of getting ahead is getting started. Programming can seem daunting for beginners, but the best way to get started is to dive right in and start writing code.  Simple code examples are a great way for beginners to get their feet wet and",
+          "link": "https://www.freecodecamp.org/news/python-program-examples-simple-code-examples-for-beginners/",
+          "publishedOn": "2023-03-17T17:09:25.000Z",
+          "wordCount": 2414,
+          "title": "Python Program Examples – Simple Code Examples for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/python-program-examples-image.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/binary-search-in-c-algorithm-example/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "The binary search algorithm is a divide and conquer algorithm that you can use to search for and find elements in a sorted array.  The algorithm is fast in searching for elements because it removes half of the array every time the search iteration happens.  So instead of",
+          "link": "https://www.freecodecamp.org/news/binary-search-in-c-algorithm-example/",
+          "publishedOn": "2023-03-17T16:52:22.000Z",
+          "wordCount": 1452,
+          "title": "Binary Search in C++ – Algorithm Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/binary-search-algorithm-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-range-function-example/",
+          "author": "Dionysia Lemonaki",
+          "description": "In this article, you will learn how to use the range() function in Python with some code examples along the way. What is the range() Function in Python? range() Function Syntax Breakdown Python's built-in range() function is mainly used when working with for loops – you can use it to",
+          "link": "https://www.freecodecamp.org/news/python-range-function-example/",
+          "publishedOn": "2023-03-17T11:55:33.000Z",
+          "wordCount": 1541,
+          "title": "Python range() Function Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-christina-morillo-1181671.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-regex-tutorial-how-to-use-regex-inside-lambda-expression/",
+          "author": "Kolade Chris",
+          "description": "It’s possible to use RegEx inside a lambda function in Python. You can apply this to any Python method or function that takes a function as a parameter. Such functions and methods include filter(), map(), any(), sort(), and more. Keep reading as I show you how to use regular expressions",
+          "link": "https://www.freecodecamp.org/news/python-regex-tutorial-how-to-use-regex-inside-lambda-expression/",
+          "publishedOn": "2023-03-17T09:31:41.000Z",
+          "wordCount": 1260,
+          "title": "Python RegEx Tutorial – How to use RegEx inside lambda Expression",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/regexinlambda.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/automating-report-generation-from-sql-databases-using-python/",
           "author": "Oluseye Jeremiah",
           "description": "Generating reports from SQL databases is a common task in many organizations. But the process can be time-consuming and error-prone, especially if it involves manual data extraction, transformation, and formatting.  In this article, we will explore how to use Python to automate the process of generating reports from SQL",
@@ -1380,36 +1430,6 @@
           "wordCount": 1002,
           "title": "Develop Database-Driven Web Apps with Python, Flask, and MySQL",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pyweb.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/",
-          "author": "TAPAS ADHIKARY",
-          "description": "JavaScript is a widely used programming language that has ruled the software development technology stack for over a decade.  You can find JavaScript in web applications, mobile applications, or apps for your desktop. According to a survey done by Statista in 2022, JavaScript developer communities worldwide have about 17.4",
-          "link": "https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/",
-          "publishedOn": "2023-02-15T17:21:13.000Z",
-          "wordCount": 2819,
-          "title": "How to Learn JavaScript Effectively – Tips and Learning Strategies",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/freeCodeCamp-Cover-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-lambda-functions-in-python/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can use functions in programming to store a piece of code that can be invoked when needed. This prevents you from retyping the same logic every time you need that code. In this article, you'll learn how to create and use anonymous functions in Python. They are also called",
-          "link": "https://www.freecodecamp.org/news/how-to-use-lambda-functions-in-python/",
-          "publishedOn": "2023-02-15T17:17:35.000Z",
-          "wordCount": 1547,
-          "title": "Python Anonymous Function – How to Use Lambda Functions",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/lambda-functions-in-python.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/type-error-vs-reference-error-javascript/",
-          "author": "Tejan Singh",
-          "description": "As a JavaScript developer, you've likely encountered different types of errors while coding. Most of the time these will be type errors or reference errors. But have you ever wondered what they mean? Have you ever tried reading about the error type specified by the interpreter before solving these errors?",
-          "link": "https://www.freecodecamp.org/news/type-error-vs-reference-error-javascript/",
-          "publishedOn": "2023-02-15T17:12:30.000Z",
-          "wordCount": 1660,
-          "title": "Type Error vs Reference Error in JavaScript – What's the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-kim-stiver-909256.jpg"
         }
       ]
     },
@@ -1617,16 +1637,6 @@
           "wordCount": 5200,
           "title": "Quantum Field Theory Pries Open Mathematical Puzzle",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/ExponentialCohomologies-byKristinaArmitage-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=123112",
-          "author": "Kevin Hartnett",
-          "description": "Large language models still struggle with basic reasoning tasks. Two new papers that apply machine learning to math provide a blueprint for how that could change.            \nThe post To Teach Computers Math, Researchers Merge AI Approaches first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/to-teach-computers-math-researchers-merge-ai-approaches-20230215/",
-          "publishedOn": "2023-02-15T15:32:10.000Z",
-          "wordCount": 6862,
-          "title": "To Teach Computers Math, Researchers Merge AI Approaches",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/QuantitativeLLMs-byValentinTkach-Social.webp"
         }
       ]
     },
@@ -1682,6 +1692,26 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/size-container-queries-can-detect-landscape-portrait-orientation/",
+          "author": null,
+          "description": "I'm still wrapping my head around container size queries. The concept is clear (I think), but now that they're there, I'm finally catching up.\n\n        \nMDN Compat Data (source)\nBrowser support info for @container \n              \n                \n\n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                \n\n                        \n                        105\n                        \n                      \n                        \n                        …",
+          "link": "https://www.stefanjudis.com/today-i-learned/size-container-queries-can-detect-landscape-portrait-orientation/",
+          "publishedOn": "2023-03-16T23:00:00.000Z",
+          "wordCount": 1541,
+          "title": "Size container queries can detect landscape / portrait orientation (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Size%20container%20queries%20can%20detect%20landscape%20%252F%20portrait%20orientation/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
+          "id": "https://www.stefanjudis.com/snippets/make-a-pdf-look-like-it-was-manually-scanned/",
+          "author": null,
+          "description": "I live in Germany, and while many think we have things in order here, we still need to sort out bureaucracy. It's a clu**fu** at best because German officials rely on paper – paper and handwritten signatures.\nIt can go so far that a scanned document image is preferred over a nice and sharp PDF. I don't own a printer, let alone a scanner, so occasionally, I drag myself to the local copy shop to do official business.\nUntil now! I've been browsing Hacker News, and the shell script below takes a PDF and makes it look like it's been scanned.\n#!/bin/sh\nROTATION=$(shuf -n 1 -e '-' '')$(shuf -n 1 -e $(seq 0.05 .5))\n\nconvert -density 150 $1 \\\n  -linear-stretch '1.5%x2%' \\\n  -rotate ${ROTATION} \\\n  -attenuate '0.01' \\\n  +noise  Multiplicative \\\n  -colorspace 'gray' $2\n  \n\nSuppose you called the scrip index.sh you can now run the following command...\n./index.sh original.pdf scanned.pdf\n\n... to scan your PDFs without a physical scanner.\nSide note: the convert command is part of the imagemagick tools and wasn't available on my machine. You might have to install it first. A brew install imagemagick did the trick for me, though.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/snippets/make-a-pdf-look-like-it-was-manually-scanned/",
+          "publishedOn": "2023-03-16T23:00:00.000Z",
+          "wordCount": 1226,
+          "title": "Make a PDF look like it was manually scanned (#snippet)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Make%20a%20PDF%20look%20like%20it%20was%20manually%20scanned/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-95/",
           "author": null,
@@ -1779,6 +1809,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/452",
+          "author": null,
+          "description": "#​452 — March 17, 2023\n\n\nUnsub  |  Web Version\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nFlameScope: Visualize CPU Samples from Go Execution Traces — FlameScope is a performance visualization tool from Netflix using flame graphs that can now be used with Go 1.19 thanks to a patch and this work from Felix. “Please note that this is still relatively experimental..”\nFelix Geisendörfer \n\n\n  \n  \nThe slog / Structured Logging Proposal is Accepted — Russ Cox has marked the structured logging with levels proposal (a.k.a. ‘slog’) as accepted – nonetheless, discussion continues.\nRuss Cox \n\n\nIn other proposal related news, Russ also ticked the WebAssembly System Interface / WASI target proposal.\n\n\n\n\n\n  \n  \nDon’t Let Your Issue Tracker Be a Four-Letter Word. Use Shortcut — The best issue tracking …",
+          "link": "https://golangweekly.com/issues/452",
+          "publishedOn": "2023-03-17T00:00:00.000Z",
+          "wordCount": 845,
+          "title": "Structured logging is a go",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/451",
           "author": null,
