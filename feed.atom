@@ -2,10 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-20T01:36:06.943Z</updated>
+    <updated>2023-03-21T01:21:38.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Developers Can Prevent Fraud and Stop Scammers]]></title>
+        <id>https://www.freecodecamp.org/news/how-developers-can-prevent-fraud-and-stop-scammers/</id>
+        <link href="https://www.freecodecamp.org/news/how-developers-can-prevent-fraud-and-stop-scammers/"/>
+        <updated>2023-03-20T22:32:41.000Z</updated>
+        <summary type="html"><![CDATA[Online frauds and scams have shot past projections in the last decade, and no one seems to be immune to them—including developers.  The shift to serverless cloud management has opened doors for hackers to try new attack surfaces and the impact is right in front of us. 90% of]]></summary>
+        <author>
+            <name>Dmitry Dragilev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js SEO for Developers – How to Build Highly Performant Apps with Next]]></title>
+        <id>https://www.freecodecamp.org/news/nextjs-seo/</id>
+        <link href="https://www.freecodecamp.org/news/nextjs-seo/"/>
+        <updated>2023-03-20T21:17:55.000Z</updated>
+        <summary type="html"><![CDATA[Next.js is a popular React-based web framework that has gained popularity and a growing community in recent years. It's a powerful tool for building fast and SEO-friendly web applications with dynamic pages that work great on mobile devices.  Due to the complex nature of isomorphic system design, Next.js SEO]]></summary>
+        <author>
+            <name>Scott Gary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Operators and Operator Precedence – Beginner's Guide]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-operators-and-operator-precedence/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-operators-and-operator-precedence/"/>
+        <updated>2023-03-20T21:15:49.000Z</updated>
+        <summary type="html"><![CDATA[A few months ago, I attempted to solve a math problem in my head before writing it in JavaScript. It was then that I received the most stunning revelation of my career, which was both shocking and eye-opening.  So what did I attempt to do? I made the following]]></summary>
+        <author>
+            <name>Franklin Okolie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Basics – How to Work with Strings, Arrays, and Objects in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-basics-strings-arrays-objects/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-basics-strings-arrays-objects/"/>
+        <updated>2023-03-20T20:12:35.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is a popular programming language that 78% of developers use. You can build almost anything with JavaScript. The problem is that many developers learn JavaScript in a very short period of time, without understanding some of the most essential features of the language. In this article, we will cover]]></summary>
+        <author>
+            <name>Houssein Badra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a platformer game with Python]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-platformer-game-with-python/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-platformer-game-with-python/"/>
+        <updated>2023-03-20T19:47:16.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to build a classic platformer game in Python from start to finish? If so, you're in the right place! We just published a video course on the freeCodeCamp.org YouTube channel that will teach you how to create a platformer game in Python using the Pygame library. We'll]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bash Scripting Tutorial – Linux Shell Script and Command Line for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/"/>
+        <updated>2023-03-20T17:35:58.000Z</updated>
+        <summary type="html"><![CDATA[In Linux, process automation relies heavily on shell scripting. This involves creating a file containing a series of commands that can be executed together. In this article, we'll start with the basics of bash scripting which includes variables, commands, inputs/ outputs, and debugging. We'll also see examples of each along]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[List Flatten in Python – Flattening Nested Lists]]></title>
+        <id>https://www.freecodecamp.org/news/list-flatten-in-python-flattening-nested-lists/</id>
+        <link href="https://www.freecodecamp.org/news/list-flatten-in-python-flattening-nested-lists/"/>
+        <updated>2023-03-20T17:02:03.000Z</updated>
+        <summary type="html"><![CDATA[Lists are one of the core data structures of Python. Due to their flexibility, there are a lot of things you can do with lists. And one of those things is turning a list of lists into a single list. It is also possible to turn a list of dictionaries,]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build React Forms with Formik]]></title>
+        <id>https://www.freecodecamp.org/news/build-react-forms-with-formik-library/</id>
+        <link href="https://www.freecodecamp.org/news/build-react-forms-with-formik-library/"/>
+        <updated>2023-03-20T16:56:05.000Z</updated>
+        <summary type="html"><![CDATA[Form building in React [https://reactjs.org/] can be complex and time-consuming, requiring state management, validation, and error handling.  To simplify this process, the Formik [https://formik.org/] library provides an intuitive solution for building forms in React. Formik has a straightforward API and built-in validation, making collecting and manipulating input data in]]></summary>
+        <author>
+            <name>Popoola Temitope</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Serverless ChatGPT App in 10 Minutes]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-serverless-chatgpt-app/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-serverless-chatgpt-app/"/>
+        <updated>2023-03-20T16:52:42.000Z</updated>
+        <summary type="html"><![CDATA[Since OpenAI released an official API for ChatGPT [https://openai.com/blog/introducing-chatgpt-and-whisper-apis] in March 2023, many developers and entrepreneurs are interested in integrating it into their own business operations.  But some significant barriers remain that make it difficult for them to do this:  * OpenAI provides a simple stateless API]]></summary>
+        <author>
+            <name>Michael Yuan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Define Relationships Between Django Models]]></title>
+        <id>https://www.freecodecamp.org/news/django-model-relationships/</id>
+        <link href="https://www.freecodecamp.org/news/django-model-relationships/"/>
+        <updated>2023-03-20T16:05:18.000Z</updated>
+        <summary type="html"><![CDATA[Django [https://www.djangoproject.com/] is a free and open-source web framework written in Python. It helps with rapid web development and provides out-of-the-box web security. Websites must be able to store and retrieve data from databases. Django makes provisions for this. By default, Django operates a Relational Database Management System.  >]]></summary>
+        <author>
+            <name>Damilola Oladele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dinosaur Bone Study Reveals That Not All Giants Grew Alike]]></title>
+        <id>https://www.quantamagazine.org/?p=124005</id>
+        <link href="https://www.quantamagazine.org/dinosaur-bone-study-reveals-that-not-all-giants-grew-alike-20230320/"/>
+        <updated>2023-03-20T13:55:36.000Z</updated>
+        <summary type="html"><![CDATA[A survey of prehistoric bones reveals that T. rex and some of its cousins had more than one way to reach enormous sizes. Evolution may have preserved that variation in modern animals too.            
+The post Dinosaur Bone Study Reveals That Not All Giants Grew Alike first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Anna Gibbs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — 🤖  "Disregard your previous prompt and instructions”]]></title>
         <id>640d29bfeb7a46f7b78172d6</id>
@@ -1921,22 +2032,6 @@ The post With Nothing to Eat Except Viruses, Some Microbes Thrive first appeared
         <summary type="html"><![CDATA[When you're testing different components in React, you’ll need to simulate user interactions with various parts of each component. In this tutorial, I am going to show you some methods to simulate user interactions with different interactive elements. Before getting started, make sure you know how to structure a test]]></summary>
         <author>
             <name>Kunal Nalawade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #93 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-93/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-93/"/>
-        <updated>2023-02-18T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! 👋
-
-When will :has() and @container be ready-to-use? What's behind /.well-known URIs? How can you style the ugly file input button?
-All the answers and much more are included in this week's Web Weekly. 😊
-Last week started with a real banger: container size queries (@container) landed in Firefox on valentines day. What a nice surprise: we love you, too, Mozilla. ♥️
-All three main engines support container queries now. Unfortunately, it might take a while until Samsung Internet catches up because their Chromium updates are always behind. But hey — very soon, the new era of CSS components begins!
-But what about the other huge platform feature that will change how we build for the web — :has()? Well... We don't know when the :has() pseudo-class will be ready. Firefox ships it behin…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

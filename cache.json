@@ -12,6 +12,106 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-developers-can-prevent-fraud-and-stop-scammers/",
+          "author": "Dmitry Dragilev",
+          "description": "Online frauds and scams have shot past projections in the last decade, and no one seems to be immune to them—including developers.  The shift to serverless cloud management has opened doors for hackers to try new attack surfaces and the impact is right in front of us. 90% of",
+          "link": "https://www.freecodecamp.org/news/how-developers-can-prevent-fraud-and-stop-scammers/",
+          "publishedOn": "2023-03-20T22:32:41.000Z",
+          "wordCount": 2873,
+          "title": "How Developers Can Prevent Fraud and Stop Scammers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/48332996261_4f1a1657fc_b.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/nextjs-seo/",
+          "author": "Scott Gary",
+          "description": "Next.js is a popular React-based web framework that has gained popularity and a growing community in recent years. It's a powerful tool for building fast and SEO-friendly web applications with dynamic pages that work great on mobile devices.  Due to the complex nature of isomorphic system design, Next.js SEO",
+          "link": "https://www.freecodecamp.org/news/nextjs-seo/",
+          "publishedOn": "2023-03-20T21:17:55.000Z",
+          "wordCount": 3508,
+          "title": "Next.js SEO for Developers – How to Build Highly Performant Apps with Next",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-andrei-photo-2127783.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-operators-and-operator-precedence/",
+          "author": "Franklin Okolie",
+          "description": "A few months ago, I attempted to solve a math problem in my head before writing it in JavaScript. It was then that I received the most stunning revelation of my career, which was both shocking and eye-opening.  So what did I attempt to do? I made the following",
+          "link": "https://www.freecodecamp.org/news/javascript-operators-and-operator-precedence/",
+          "publishedOn": "2023-03-20T21:15:49.000Z",
+          "wordCount": 3505,
+          "title": "JavaScript Operators and Operator Precedence – Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/JavaScript_Operator_precedence.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-basics-strings-arrays-objects/",
+          "author": "Houssein Badra",
+          "description": "JavaScript is a popular programming language that 78% of developers use. You can build almost anything with JavaScript. The problem is that many developers learn JavaScript in a very short period of time, without understanding some of the most essential features of the language. In this article, we will cover",
+          "link": "https://www.freecodecamp.org/news/javascript-basics-strings-arrays-objects/",
+          "publishedOn": "2023-03-20T20:12:35.000Z",
+          "wordCount": 3139,
+          "title": "JavaScript Basics – How to Work with Strings, Arrays, and Objects in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/js.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-platformer-game-with-python/",
+          "author": "Beau Carnes",
+          "description": "Are you ready to build a classic platformer game in Python from start to finish? If so, you're in the right place! We just published a video course on the freeCodeCamp.org YouTube channel that will teach you how to create a platformer game in Python using the Pygame library. We'll",
+          "link": "https://www.freecodecamp.org/news/create-a-platformer-game-with-python/",
+          "publishedOn": "2023-03-20T19:47:16.000Z",
+          "wordCount": 850,
+          "title": "Create a platformer game with Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/python-game.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/",
+          "author": "Zaira Hira",
+          "description": "In Linux, process automation relies heavily on shell scripting. This involves creating a file containing a series of commands that can be executed together. In this article, we'll start with the basics of bash scripting which includes variables, commands, inputs/ outputs, and debugging. We'll also see examples of each along",
+          "link": "https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/",
+          "publishedOn": "2023-03-20T17:35:58.000Z",
+          "wordCount": 4156,
+          "title": "Bash Scripting Tutorial – Linux Shell Script and Command Line for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Copy-of-Cast-a-Function-in-SQL---Convert-Char-to-Int-SQL-Server-Example.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/list-flatten-in-python-flattening-nested-lists/",
+          "author": "Kolade Chris",
+          "description": "Lists are one of the core data structures of Python. Due to their flexibility, there are a lot of things you can do with lists. And one of those things is turning a list of lists into a single list. It is also possible to turn a list of dictionaries,",
+          "link": "https://www.freecodecamp.org/news/list-flatten-in-python-flattening-nested-lists/",
+          "publishedOn": "2023-03-20T17:02:03.000Z",
+          "wordCount": 1681,
+          "title": "List Flatten in Python – Flattening Nested Lists",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/flattenList.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-react-forms-with-formik-library/",
+          "author": "Popoola Temitope",
+          "description": "Form building in React [https://reactjs.org/] can be complex and time-consuming, requiring state management, validation, and error handling.  To simplify this process, the Formik [https://formik.org/] library provides an intuitive solution for building forms in React. Formik has a straightforward API and built-in validation, making collecting and manipulating input data in",
+          "link": "https://www.freecodecamp.org/news/build-react-forms-with-formik-library/",
+          "publishedOn": "2023-03-20T16:56:05.000Z",
+          "wordCount": 1598,
+          "title": "How to Build React Forms with Formik",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Group-1--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-serverless-chatgpt-app/",
+          "author": "Michael Yuan",
+          "description": "Since OpenAI released an official API for ChatGPT [https://openai.com/blog/introducing-chatgpt-and-whisper-apis] in March 2023, many developers and entrepreneurs are interested in integrating it into their own business operations.  But some significant barriers remain that make it difficult for them to do this:  * OpenAI provides a simple stateless API",
+          "link": "https://www.freecodecamp.org/news/create-a-serverless-chatgpt-app/",
+          "publishedOn": "2023-03-20T16:52:42.000Z",
+          "wordCount": 1923,
+          "title": "How to Create a Serverless ChatGPT App in 10 Minutes",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/c0fd422e-f234-49e2-85a6-24f91b0b9991-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/django-model-relationships/",
+          "author": "Damilola Oladele",
+          "description": "Django [https://www.djangoproject.com/] is a free and open-source web framework written in Python. It helps with rapid web development and provides out-of-the-box web security. Websites must be able to store and retrieve data from databases. Django makes provisions for this. By default, Django operates a Relational Database Management System.  >",
+          "link": "https://www.freecodecamp.org/news/django-model-relationships/",
+          "publishedOn": "2023-03-20T16:05:18.000Z",
+          "wordCount": 1582,
+          "title": "How to Define Relationships Between Django Models",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Blog-Banner-560x315-px-1.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/method-overloading-and-overriding-in-java/",
           "author": "Mikael Lassa",
           "description": "In Java, method overloading and method overriding both refer to creating different methods that share the same name.  While the two concepts share some similarities, they are distinct notions with markedly different use cases. Having a firm grasp of them is important in building strong foundational Java skills.",
@@ -1279,6 +1379,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=124005",
+          "author": "Anna Gibbs",
+          "description": "A survey of prehistoric bones reveals that T. rex and some of its cousins had more than one way to reach enormous sizes. Evolution may have preserved that variation in modern animals too.            \nThe post Dinosaur Bone Study Reveals That Not All Giants Grew Alike first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/dinosaur-bone-study-reveals-that-not-all-giants-grew-alike-20230320/",
+          "publishedOn": "2023-03-20T13:55:36.000Z",
+          "wordCount": 5869,
+          "title": "Dinosaur Bone Study Reveals That Not All Giants Grew Alike",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/03/DinosaurSize-byKristinaArmitage-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=123962",
           "author": "Stephen Ornes",
           "description": "Large language models like ChatGPT are now big enough that they’ve started to display startling, unpredictable behaviors.            \nThe post The Unpredictable Abilities Emerging From Large AI Models first appeared on Quanta Magazine",
@@ -1621,16 +1731,6 @@
           "wordCount": 1391,
           "title": "How to safely remove untracked files from Git repos (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20safely%20remove%20untracked%20files%20from%20Git%20repos/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-93/",
-          "author": null,
-          "description": "Guten Tag! 👋\n\nWhen will :has() and @container be ready-to-use? What's behind /.well-known URIs? How can you style the ugly file input button?\nAll the answers and much more are included in this week's Web Weekly. 😊\nLast week started with a real banger: container size queries (@container) landed in Firefox on valentines day. What a nice surprise: we love you, too, Mozilla. ♥️\nAll three main engines support container queries now. Unfortunately, it might take a while until Samsung Internet catches up because their Chromium updates are always behind. But hey — very soon, the new era of CSS components begins!\nBut what about the other huge platform feature that will change how we build for the web — :has()? Well... We don't know when the :has() pseudo-class will be ready. Firefox ships it behin…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-93/",
-          "publishedOn": "2023-02-18T23:00:00.000Z",
-          "wordCount": 2187,
-          "title": "Web Weekly #93 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
     },
