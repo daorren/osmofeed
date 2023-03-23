@@ -12,6 +12,76 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/git-squash-commits/",
+          "author": "Kolade Chris",
+          "description": "If you are working on a project and trying to implement a new feature, you might commit your code a few times to test things out. This lets you see how the code works or looks. While doing this, things might get messy because you now have several commits, even",
+          "link": "https://www.freecodecamp.org/news/git-squash-commits/",
+          "publishedOn": "2023-03-22T23:16:43.000Z",
+          "wordCount": 1464,
+          "title": "Git Squash Commits – Squashing the Last N Commits into One Commit",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/squashCommits.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql/",
+          "author": "Beau Carnes",
+          "description": "Are you interested in learning how to build a customer relationship management (CRM) app with Django, Python, and MySQL? We just published a course on the freeCodeCamp.org YouTube channel that will guide you step-by-step on how to build a fully-functional CRM application using Django, Python, and MySQL. John Elder developed",
+          "link": "https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql/",
+          "publishedOn": "2023-03-22T19:58:56.000Z",
+          "wordCount": 997,
+          "title": "CRM App Development with Django, Python, and MySQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/crmdjango.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/print-newline-in-python/",
+          "author": "Shittu Olumide",
+          "description": "Working with strings or text data in programming frequently involves printing a newline. The end of a line is indicated by a newline character, which also advances the cursor to the start of the following line. Using the escape character \"\\n,\" we can print a newline in Python. Other programming",
+          "link": "https://www.freecodecamp.org/news/print-newline-in-python/",
+          "publishedOn": "2023-03-22T19:17:24.000Z",
+          "wordCount": 1323,
+          "title": "Print Newline in Python – Printing a New Line",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Print-Newline-in-Python---Printing-a-New-Line-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-variables/",
+          "author": "Reed Barger",
+          "description": "Variables are an essential part of Python. They allow us to easily store, manipulate, and reference data throughout our projects. This article will give you all the understanding of Python variables you need to use them effectively in your projects. If you want the most convenient way to review all",
+          "link": "https://www.freecodecamp.org/news/python-variables/",
+          "publishedOn": "2023-03-22T18:30:52.000Z",
+          "wordCount": 1741,
+          "title": "Python Variables – The Complete Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/mugshotbot.com_customize_color-yellow-image-9820e115-mode-light-pattern-texture-theme-two_up-url-https___gifcoins.io.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-prevent-account-loss-when-using-two-factor-authentication/",
+          "author": "Obumuneme Nwabude",
+          "description": "If someone gains unauthorized access to your passwords, two-factor authentication (2FA) can prevent them from accessing your account.  But if you ever lose access to all your 2FA methods, you have lost your account. How do you prevent such loss? In this article, we will look at two-factor authentication",
+          "link": "https://www.freecodecamp.org/news/how-to-prevent-account-loss-when-using-two-factor-authentication/",
+          "publishedOn": "2023-03-22T16:28:07.000Z",
+          "wordCount": 3306,
+          "title": "How to Prevent Account Loss When using Two-Factor Authentication",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-karolina-grabowska-4467737.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/incorporate-cybersecurity-audits-into-your-workflow/",
+          "author": "David Clinton",
+          "description": "The word \"audit\" describes any process designed to review and assess a system's current state, capacity, and integrity.  An internal audit is a review process initiated and carried out by an organization itself. External audits are often performed by or on behalf of banking entities or government regulatory bodies",
+          "link": "https://www.freecodecamp.org/news/incorporate-cybersecurity-audits-into-your-workflow/",
+          "publishedOn": "2023-03-22T16:25:10.000Z",
+          "wordCount": 1593,
+          "title": "How to Incorporate Cybersecurity Audits into Your Workflow",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-pixabay-39584.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-mobile-app-curriculum-update/",
+          "author": "Sem Bauke",
+          "description": "I am happy to announce that the freeCodeCamp mobile app is finally ready for you to download. 🎊 The mobile development team just pushed a big update with many helpful improvements, including the much-awaited /learn user experience. You can now code your way through the Responsive Web Design curriculum and",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-mobile-app-curriculum-update/",
+          "publishedOn": "2023-03-22T12:23:00.000Z",
+          "wordCount": 1125,
+          "title": "The freeCodeCamp Mobile App – Learn to Code Right On Your Phone",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/michal-soukup-hDOskFirs-c-unsplash.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/what-does-the-hashrocket-symbol-mean-in-javascript/",
           "author": "Edeh Israel Chidera",
           "description": "Prior to the introduction of arrow functions, function expressions in JavaScript had a verbose syntax that often made code harder to read and understand.  As a more concise way of writing function expressions in JavaScript, arrow functions were introduced in ECMAScript 6 (ES6). They quickly gained popularity among developers",
@@ -1400,36 +1470,6 @@
           "wordCount": 898,
           "title": "HTML & Coding Introduction – Course for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/htmlania.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-code-pong-in-python/",
-          "author": "Shane Duggan",
-          "description": "Pong is a classic video game that has stood the test of time. It's a crowd favorite that many among you might recognise.  For the programmers out there, coding Pong in Python is a fun and challenging way to learn the language and basic concepts of game development. But",
-          "link": "https://www.freecodecamp.org/news/how-to-code-pong-in-python/",
-          "publishedOn": "2023-02-20T21:01:47.000Z",
-          "wordCount": 3380,
-          "title": "How to Code Pong in Python – a Step-By-Step Tutorial with Turtle",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Brown-Colorful-Mental-Health-Blog-Banner--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/mongodb-in-rust/",
-          "author": "Chigozie Oduah",
-          "description": "MongoDB is a popular NoSQL database that has been gaining increasing popularity in recent years. It offers developers a flexible, scalable, and high-performance database solution, which can be used for a wide range of applications.  For Rust programmers, MongoDB provides an excellent option for storing and retrieving data in",
-          "link": "https://www.freecodecamp.org/news/mongodb-in-rust/",
-          "publishedOn": "2023-02-20T20:41:19.000Z",
-          "wordCount": 2882,
-          "title": "How to Get Started with MongoDB in Rust",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-ulucas-dube-cantin-10325707.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-test-user-interactions-in-react/",
-          "author": "Kunal Nalawade",
-          "description": "When you're testing different components in React, you’ll need to simulate user interactions with various parts of each component. In this tutorial, I am going to show you some methods to simulate user interactions with different interactive elements. Before getting started, make sure you know how to structure a test",
-          "link": "https://www.freecodecamp.org/news/how-to-test-user-interactions-in-react/",
-          "publishedOn": "2023-02-20T19:12:24.000Z",
-          "wordCount": 2353,
-          "title": "How to Test User Interactions Using the React Testing Library",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/0_cba5BsaMWpgBXzGK.jpeg"
         }
       ]
     },
@@ -1438,6 +1478,26 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=124113",
+          "author": "Ben Brubaker",
+          "description": "The American researcher was recognized for his central role in inventing, standardizing and commercializing the ubiquitous networking technology.            \nThe post Bob Metcalfe, Ethernet Pioneer, Wins Turing Award first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/bob-metcalfe-ethernet-pioneer-wins-turing-award-20230322/",
+          "publishedOn": "2023-03-22T08:57:37.000Z",
+          "wordCount": 5749,
+          "title": "Bob Metcalfe, Ethernet Pioneer, Wins Turing Award",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/03/Metcalfe-byBillMcCullough-Social.webp"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=124125",
+          "author": "Steven Strogatz",
+          "description": "Can mathematics handle things that are essentially the same without being exactly equal? Category theorist Eugenia Cheng and host Steven Strogatz discuss the power and pleasures of abstraction.            \nThe post Is There Math Beyond the Equal Sign? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/is-there-math-beyond-the-equal-sign-20230322/",
+          "publishedOn": "2023-03-22T06:53:03.000Z",
+          "wordCount": 22380,
+          "title": "Is There Math Beyond the Equal Sign?",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/03/JoY-S2P3-CategoryTheory-byPeterGreenwood-Social-Logo.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=124058",
           "author": "Leila Sloman",
@@ -1694,16 +1754,6 @@
           "wordCount": 1779,
           "title": "Weekend Reading — 👌 6-finger deniability",
           "imageUrl": "https://labnotes.org/content/images/2023/02/x57ikf824lja1.webp"
-        },
-        {
-          "id": "63ec194643f2a90609bc0234",
-          "author": "Assaf Arkin",
-          "description": "This week we talk software architecture: YAGNI, 80% ready, bad vibes, and LFI. We have some opinions about GPT, and 3 tools to screenshot and video demo your product.",
-          "link": "https://labnotes.org/weekend-reading-fly-smarter-not-harder/",
-          "publishedOn": "2023-02-20T21:11:15.000Z",
-          "wordCount": 1830,
-          "title": "Weekend Reading — 🦅 Fly smarter, not harder",
-          "imageUrl": "https://labnotes.org/content/images/2023/02/image-65-1.png"
         }
       ]
     },
