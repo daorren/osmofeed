@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-26T01:34:58.015Z</updated>
+    <updated>2023-03-27T01:21:34.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 🙄 Be someone's reason to roll their eyes]]></title>
+        <id>641781c06d1e07805afc58cb</id>
+        <link href="https://labnotes.org/weekend-reading-be-someones-reason-to-roll-their-eyes/"/>
+        <updated>2023-03-26T22:03:35.000Z</updated>
+        <summary type="html"><![CDATA[This week we test Remix streaming SSR, use GPT for scraping, design for ADHD, plug into ChatGPT, and visit the video game museum.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Learn Different Tech Stacks IRL]]></title>
         <id>https://www.freecodecamp.org/news/how-to-learn-different-tech-stacks/</id>
@@ -1981,36 +1991,6 @@ The post Strange Solar Gamma Rays Discovered at Even Higher Energies first appea
         <summary type="html"><![CDATA[This week we have a new search engine we’re actually excited about, the results from the 4-day workweek trial are in, and we have questions about craters.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Debug Errors in Your Source Code]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-debug-errors-in-your-source-code/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-debug-errors-in-your-source-code/"/>
-        <updated>2023-02-24T23:37:18.000Z</updated>
-        <summary type="html"><![CDATA[The process of handling errors is known as debugging. It involves identifying and removing errors from your program.  If you want to be an efficient programmer, you'll want to cultivate your ability to debug code. It's one of the main skills you'll need as a software developer or programmer.]]></summary>
-        <author>
-            <name>Maybell Obadoni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Lambda Functions – How to Use Anonymous Functions with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/python-lambda-functions/</id>
-        <link href="https://www.freecodecamp.org/news/python-lambda-functions/"/>
-        <updated>2023-02-24T17:25:28.000Z</updated>
-        <summary type="html"><![CDATA[Lambda functions, also known as anonymous functions, are small, one-time-use functions in Python.  You can define them using the lambda keyword followed by the function's inputs, a colon, and the function's expression. The output of a lambda function is returned as the result of the expression, rather than a]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Sorted List – And How to Sort or Reverse an Array in Python]]></title>
-        <id>https://www.freecodecamp.org/news/python-sort-lists-and-reverse-arrays/</id>
-        <link href="https://www.freecodecamp.org/news/python-sort-lists-and-reverse-arrays/"/>
-        <updated>2023-02-24T17:24:10.000Z</updated>
-        <summary type="html"><![CDATA[Arrays and lists in Python are very interesting data structures.  Both lists and arrays consist of ordered, mutable items – but arrays contain items of the same type, while lists can store multiple types of items.  In this article, we will learn how to reverse an array using]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
         </author>
     </entry>
 </feed>
