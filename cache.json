@@ -12,6 +12,86 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/react-mortgage-calculator-tutorial-for-beginners/",
+          "author": "Joy Shaheb",
+          "description": "Today we will learn and practice ReactJs by building a mortgage calculator step by step. This is the project that we will build today 👇  * Heres a live demo of the project    [https://mortgage-calculator-tutorial.vercel.app/]  * And here's the Github Repo Link    [https://github.com/JoyShaheb/mortgage-calculator-tutorial]",
+          "link": "https://www.freecodecamp.org/news/react-mortgage-calculator-tutorial-for-beginners/",
+          "publishedOn": "2023-03-27T22:56:14.000Z",
+          "wordCount": 3589,
+          "title": "Learn React by Building a Mortgage Calculator",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/thumbnail_EN--2-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ci-cd-pipeline-for-nextjs-app-with-aws/",
+          "author": "Arunachalam B",
+          "description": "Hello Everyone! Deploying a web application is a challenging task (at least for me), especially when it comes to keeping it updated. It can take up a lot of time and energy if it has to be deployed manually every time you make a change.  But I recently discovered",
+          "link": "https://www.freecodecamp.org/news/ci-cd-pipeline-for-nextjs-app-with-aws/",
+          "publishedOn": "2023-03-27T21:53:46.000Z",
+          "wordCount": 3197,
+          "title": "How to Setup a CI/CD Pipeline for a Next.js App using AWS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Deploy-Next.js-using-AWS--1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-array-tutorial-array-methods-in-js/",
+          "author": "Dario Di Cillo",
+          "description": "Arrays are data structures that are extremely useful and versatile. They're present in many programming languages, and they allow you to store multiple values in a single variable. In this tutorial, we will explore how arrays work in JavaScript, their characteristics, and how to manipulate them using the most common",
+          "link": "https://www.freecodecamp.org/news/javascript-array-tutorial-array-methods-in-js/",
+          "publishedOn": "2023-03-27T19:45:43.000Z",
+          "wordCount": 6799,
+          "title": "JavaScript Array Tutorial – Array Methods in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/tom-wilson-Em2hPK55o8g-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/dataframe-drop-column-in-pandas-how-to-remove-columns-from-dataframes/",
+          "author": "Shittu Olumide",
+          "description": "In Pandas, sometimes you'll need to remove columns from a DataFrame for various reasons, such as cleaning data, reducing memory usage, or simplifying analysis. And in this article, I'll show you how to do it. I'll start by introducing the .drop() method, which is the primary method for removing columns",
+          "link": "https://www.freecodecamp.org/news/dataframe-drop-column-in-pandas-how-to-remove-columns-from-dataframes/",
+          "publishedOn": "2023-03-27T18:03:48.000Z",
+          "wordCount": 1577,
+          "title": "Dataframe Drop Column in Pandas – How to Remove Columns from Dataframes",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Dataframe-Drop-Column-in-Pandas---How-to-Remove-Columns-from-Dataframes.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-and-sync-git-and-github-repositories/",
+          "author": "Deborah Kurata",
+          "description": "Working with Git and GitHub is often an essential part of your daily programming tasks. In many cases, you'll want both a local Git repository and a remote GitHub repository for a project.  * With the local repository, you work on your own copy of the project. You make",
+          "link": "https://www.freecodecamp.org/news/create-and-sync-git-and-github-repositories/",
+          "publishedOn": "2023-03-27T17:50:47.000Z",
+          "wordCount": 4693,
+          "title": "How to Create and Sync Git and GitHub Repositories",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/thumbnail-4.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/install-chatgpt-in-vscode/",
+          "author": "Ijeoma Igboagu",
+          "description": "ChatGPT – or Chat Generative Pre-Training Transformer – has been making waves in the tech industry recently.  It was first launched in November 2022 and upgraded to ChatGPT-4 in March 2023. In this tutorial, I will explain how you can use ChatGPT to become more productive. Then I'll walk",
+          "link": "https://www.freecodecamp.org/news/install-chatgpt-in-vscode/",
+          "publishedOn": "2023-03-27T17:50:01.000Z",
+          "wordCount": 1331,
+          "title": "How to Instal ChatGPT in VSCode",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/coverchaat.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/measure-and-improve-performance-of-react-apps/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! React is a popular JavaScript library for building user interfaces. As applications built with React become more complex, their performance can start to degrade.  Poor performance can lead to a frustrating user experience and a negative impact on user engagement. So in this article, we will discuss",
+          "link": "https://www.freecodecamp.org/news/measure-and-improve-performance-of-react-apps/",
+          "publishedOn": "2023-03-27T17:18:19.000Z",
+          "wordCount": 2468,
+          "title": "How to Measure and Improve the Performance of a React App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/nicolas-hoizey-poa-Ycw1W8U-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/set-up-aws-simple-email-service/",
+          "author": "Sophia Iroegbu",
+          "description": "If you're looking for a reliable and cost-effective way to send emails, AWS Simple Email Service (SES) is a great option. It's a cloud-based email platform that helps you send and receive emails quickly and easily.  With SES, you don't have to worry about managing your mail server, and",
+          "link": "https://www.freecodecamp.org/news/set-up-aws-simple-email-service/",
+          "publishedOn": "2023-03-27T15:44:03.000Z",
+          "wordCount": 1247,
+          "title": "How to Set Up AWS Simple Email Service",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Blog-Banner---Template--3-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-learn-different-tech-stacks/",
           "author": "Liz Johnson",
           "description": "Over the last couple years, I've learned that being a consultant means you have to be able to learn new things quickly. At first, this was really scary to me. Now, as someone who has had to learn several new tech stacks over the last year, it’s still a little",
@@ -1329,6 +1409,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=124271",
+          "author": "Erica Klarreich",
+          "description": "The prize-winning geometer feels most fulfilled when exploring the fertile ground where constraint meets creation.            \nThe post Emmy Murphy Is a Mathematician Who Finds Beauty in Flexibility first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/emmy-murphy-is-a-mathematician-who-finds-beauty-in-flexibility-20230327/",
+          "publishedOn": "2023-03-27T14:03:43.000Z",
+          "wordCount": 7638,
+          "title": "Emmy Murphy Is a Mathematician Who Finds Beauty in Flexibility",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/03/EmmyMurphy-byCarolineGutman-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=123940",
           "author": "Patrick Honner",
           "description": "Learn why the quadratic formula works and why quadratics are easier to solve than cubics.            \nThe post The Symmetry That Makes Solving Math Equations Easy first appeared on Quanta Magazine",
@@ -1584,16 +1674,6 @@
           "wordCount": 1600,
           "title": "Weekend Reading — 🧼 That well-worn look …",
           "imageUrl": "https://labnotes.org/content/images/2023/03/IMG_1525.jpeg"
-        },
-        {
-          "id": "63f3e239911ffd0389fdeb8b",
-          "author": "Assaf Arkin",
-          "description": "This week we have a new search engine we’re actually excited about, the results from the 4-day workweek trial are in, and we have questions about craters.",
-          "link": "https://labnotes.org/weekend-reading-6-finger-deniability/",
-          "publishedOn": "2023-02-26T07:09:32.000Z",
-          "wordCount": 1779,
-          "title": "Weekend Reading — 👌 6-finger deniability",
-          "imageUrl": "https://labnotes.org/content/images/2023/02/x57ikf824lja1.webp"
         }
       ]
     },
@@ -1602,6 +1682,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-96/",
+          "author": null,
+          "description": "Guten Tag! 👋\n\nHave you ever used the @counter-style CSS at-rule? Or did you know that there's a new HTML element in town? Or that align-items: last baseline is a thing now?\nAll the answers and much more are included in this week's Web Weekly. 🫣\nHow many HTML elements are out there today? A while ago, folks were playing this little game, and it's surprisingly hard to name the 114 possible answers.\nAnd now there's one more! My friend, let me introduce you to the search element! 👏\nI still need to look into the specifics, and it's implemented nowhere yet, but if you want to get ready, here's the updated spec, and Scott O'Hara also explains what it's about.\nYay, HTML just got better! 👏\nSomething that made me smile this week\n\nWhat would you do when you discover that a frog lives in your fenc…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-96/",
+          "publishedOn": "2023-03-26T22:00:00.000Z",
+          "wordCount": 1964,
+          "title": "Web Weekly #96 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
         {
           "id": "https://www.stefanjudis.com/today-i-learned/size-container-queries-can-detect-landscape-portrait-orientation/",
           "author": null,
