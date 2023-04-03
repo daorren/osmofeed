@@ -22,6 +22,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-04-02 datetime="2023-04-02T21:15:02.000Z">2023-04-02</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-04-02 datetime="2023-04-02T21:15:02.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Labnotes (by Assaf Arkin)</button>
+                  <a class="source-heading__link" href="https://labnotes.org/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="6420c1ca6d1e07805afc7304"
+                        open
+                      >
+                        <summary class="article-expander__title">Weekend Reading — Everybody so creative</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://labnotes.org/weekend-reading-everybody-so-creative/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://labnotes.org/content/images/2023/04/Untitled-7.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>This week a special section all about bicycles, John Wick on npm, LED regret, AI writes our regular expressions, and what high-tech sector protest looks like.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-03-31 datetime="2023-03-31T20:21:28.000Z">2023-03-31</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-03-31 datetime="2023-03-31T20:21:28.000Z"></time>
           </button>
@@ -4810,242 +4858,10 @@ The post Simpler Math Predicts How Close Ecosystems Are to Collapse first appear
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-03-03 datetime="2023-03-03T23:00:00.000Z">2023-03-03</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-03-03 datetime="2023-03-03T23:00:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Stefan Judis Web Development</button>
-                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.stefanjudis.com/today-i-learned/how-to-safely-remove-untracked-files-from-git-repos/"
-                        open
-                      >
-                        <summary class="article-expander__title">How to safely remove untracked files from Git repos (#tilPost)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/how-to-safely-remove-untracked-files-from-git-repos/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20safely%20remove%20untracked%20files%20from%20Git%20repos/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The great thing about Git is that almost all actions are reversible! But there&#x27;s one command that isn&#x27;t, and it can cause real headaches — git clean.
-# remove all untracked files
-git clean .
-
-The clean command removes untracked files from your Git working tree, and while that&#x27;s sometimes exactly what you want, you should really run the command with caution.
-You&#x27;re probably frustrated when you want to start over, but you should be sure you want to throw away everything. Some files might still be valuable. If you run git clean, they&#x27;re gone — end of story.
-By default, Git will not allow you to clean up a repository unless you have clean.requireForce set to false. But you know how it is: an innocent -f is quickly added.
-I learned today that git clean (and other commands) support a --dry-run option.
-git clean --dry-run .
-Would remove not-important.js
-Would remove untracked-but-very-important.js
-
-If you want a shorter command line option, use the very intuitive (not!) -n argument.
-git clean -n .
-Would remove not-important.js
-Would remove untracked-but-very-important.js
-
-The command prints out what it would remove without doing any damage. Handy! It also comes with a useful interactive mode to handle many untracked files.
-git clean -i
-Would remove the following items:
-  not-important.js   untracked-but-very-important.js
-  
-*** Commands ***
-  1: clean   2: filter by pattern   3: select by numbers   4: ask each   5: quit   6: help
-What now&gt; 4
-Remove not-important.js [y/N]? y
-Remove untracked-but-very-important.js [y/N]? N
-Removing not-important.js
-
-You can choose between pattern matching or checking each file one by one in the interactive mode. Nice one, Git! 💪
-But what about other Git commands? Most of the other dry runs don&#x27;t seem very exciting to me because, as said, most of the Git operations are reversible. But one that I could see come in handy is a git remote prune dry run to avoid removing remote branches. But that&#x27;s about it. 🤷‍♂️
-
-
-          
-          
-            Reply to Stefan</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;5
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >freeCodeCamp.org</button>
-                  <a class="source-heading__link" href="https://www.freecodecamp.org/news/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/how-to-define-and-call-functions-in-python/"
-                        open
-                      >
-                        <summary class="article-expander__title">How to Define And Call Functions in Python</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/how-to-define-and-call-functions-in-python/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2023/03/CD.JPG" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Python is a powerful and versatile programming language that offers a wide range of functionalities for developers.  One of the most essential features of Python is the ability to define and call functions.  A function is a block of code that performs a specific task. In Python, defining</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/how-to-market-your-new-project-incorporate-design-create-a-landing-page-and-get-your-users-97812fd9dd4d/"
-                        open
-                      >
-                        <summary class="article-expander__title">How to Market a New Project –Incorporate Design, Create a Landing Page, and Get Users</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/how-to-market-your-new-project-incorporate-design-create-a-landing-page-and-get-your-users-97812fd9dd4d/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn-media-1.freecodecamp.org/images/1*RlD_EebvaZt--pxPDmc0rQ.jpeg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Only a few of us come naturally to self-marketing. Most of us prefer making the thing and enjoy showing it off (at least a little!), but hope it’ll be appreciated on its own merits – or that someone else will champion it.  Deliberate marketing and sales makes people uncomfortable,</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;25
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/how-to-strip-trailing-whitespace-in-python/"
-                        open
-                      >
-                        <summary class="article-expander__title">Trim a String in Python – How to Strip Trailing Whitespace</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/how-to-strip-trailing-whitespace-in-python/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2023/02/pexels-christina-morillo-1181359.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Python has three built-in methods for trimming leading and trailing whitespace and characters from strings: strip(), lstrip(), and rstrip(). In this article, I will explain how to remove trailing whitespace in Python using the rstrip() method. Let&#x27;s get into it! How To Trim Whitespace From A String in Python To</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/how-to-build-a-table-of-contents-component/"
-                        open
-                      >
-                        <summary class="article-expander__title">How to Build a Table of Contents Component for Your Blog</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/how-to-build-a-table-of-contents-component/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2023/02/toc.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>When you visit documentation sites, you&#x27;ll notice that many of them have a common component: the  component. The idea behind it is to give the reader a &quot;heads-up&quot; about the information they&#x27;re trying to consume. This feature, in turn, helps the reader go directly to the section that</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;10
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/sql-tips-save-time-write-simpler-queries/"
-                        open
-                      >
-                        <summary class="article-expander__title">SQL Tips to Help You Save Time and Write Simpler Queries</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/sql-tips-save-time-write-simpler-queries/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2023/03/SQL-TIPS.JPG" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>As a data analyst, you&#x27;ll want to be as efficient and and effective as possible when working with databases.  SQL is one of the most widely used languages for managing and manipulating data stored in a relational database. In this article, we&#x27;ll cover some SQL cheat codes that can</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Quanta Magazine</button>
-                  <a class="source-heading__link" href="https://www.quantamagazine.org">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.quantamagazine.org/?p&#x3D;123544"
-                        open
-                      >
-                        <summary class="article-expander__title">How Many Exoplanets Can You Visit in Quanta’s New Math Game?</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.quantamagazine.org/introducing-quantas-new-math-game-hyperjumps-20230303/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/03/Hyperjumps-bySamuelVelasco-Social.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Explore a universe of numbers and arithmetic in our new interactive math game, Hyperjumps!            
-The post How Many Exoplanets Can You Visit in Quanta’s New Math Game? first appeared on Quanta Magazine</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;14
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/4586192690">
-        <time id="build-timestamp" datetime="2023-04-02T01:23:58.193Z">2023-04-02T01:23:58.193Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/4591883200">
+        <time id="build-timestamp" datetime="2023-04-03T01:18:31.357Z">2023-04-03T01:18:31.357Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
