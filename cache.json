@@ -1430,36 +1430,6 @@
           "wordCount": 3730,
           "title": "How to Build Forms in React",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-rodnae-productions-7821577.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/",
-          "author": "Rufai Mustapha",
-          "description": "Tour Afrique",
-          "link": "https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/",
-          "publishedOn": "2023-03-09T19:43:56.000Z",
-          "wordCount": 1993,
-          "title": "How to Make a Clickable SVG Map With HTML and CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/amy-youtube--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/machine-learning-with-python-and-sql/",
-          "author": "Oluseye Jeremiah",
-          "description": "Machine learning has become a popular field in recent years, with various applications in data analysis, computer vision, natural language processing, and more.  Python is one of the most widely used programming languages for machine learning, thanks to its rich ecosystem of libraries, frameworks, and tools.  But to",
-          "link": "https://www.freecodecamp.org/news/machine-learning-with-python-and-sql/",
-          "publishedOn": "2023-03-09T17:57:45.000Z",
-          "wordCount": 1484,
-          "title": "How to Perform Machine Learning Tasks with Python and SQL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/just.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/exploiting-cors-guide-to-pentesting/",
-          "author": "Nairuz Abulhul",
-          "description": "All web browsers implement a security model known as the Same-Origin Policy (SOP). It restricts domains from accessing and retrieving data from other domains’ resources.  The SOP policy helps protect users from malicious scripts that could access their sensitive data or perform unauthorized actions on their behalf. For example,",
-          "link": "https://www.freecodecamp.org/news/exploiting-cors-guide-to-pentesting/",
-          "publishedOn": "2023-03-09T16:25:31.000Z",
-          "wordCount": 3048,
-          "title": "Exploiting CORS – How to Pentest Cross-Origin Resource Sharing Vulnerabilities",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/possessed-photography-_E1PQXKUkMw-unsplash--4-.jpg"
         }
       ]
     },
@@ -1667,16 +1637,6 @@
           "wordCount": 7144,
           "title": "The Researcher Who Would Teach Machines to Be Fair",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/03/Arvind_Narayanan-byCarolineGutman-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=123704",
-          "author": "Jordana Cepelewicz",
-          "description": "Using “refreshingly old” tools, mathematicians resolved a 50-year-old conjecture about how to categorize important functions called modular forms, with consequences for number theory and theoretical physics.            \nThe post New Proof Distinguishes Mysterious and Powerful ‘Modular Forms’ first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/long-sought-math-proof-unlocks-more-mysterious-modular-forms-20230309/",
-          "publishedOn": "2023-03-09T15:30:08.000Z",
-          "wordCount": 8996,
-          "title": "New Proof Distinguishes Mysterious and Powerful ‘Modular Forms’",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/03/UnboundedDenominators-byDavidLowryDuda-Social.jpg"
         }
       ]
     },
@@ -1685,6 +1645,16 @@
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
+        {
+          "id": "6429f0db8c2a0f39be3e45ce",
+          "author": "Assaf Arkin",
+          "description": "This week we look at why prompts won’t replace developers, reasons to not use GraphQL, minimum viable design, and proof of human in recruiting.",
+          "link": "https://labnotes.org/weekend-reading-minium-viable-design/",
+          "publishedOn": "2023-04-08T23:30:19.000Z",
+          "wordCount": 1924,
+          "title": "Weekend Reading — 🧑‍🎨 Minium viable design",
+          "imageUrl": "https://labnotes.org/content/images/2023/04/wargames_chess_request-transformed.jpeg"
+        },
         {
           "id": "6420c1ca6d1e07805afc7304",
           "author": "Assaf Arkin",
@@ -1801,16 +1771,6 @@
           "wordCount": 1292,
           "title": "VS Code extensions to ease navigating code (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:VS%20Code%20extensions%20to%20ease%20navigating%20code/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/cool-uris-dont-change/",
-          "author": null,
-          "description": "Years ago, I took over a small freelance project for an art gallery. They've been running on a homegrown CMS, and I ported things to WordPress. Guess what happened after releasing the rebuilt site?\nWithin a day, a furious gallery owner told me I had broken Google. What? Google doesn't work anymore? What happened? Well... I didn't care about the URLs and changed everything to WordPress's default schema.\nThe lesson: Cool URIs don't change. And I've just read an article by Tim Berners-Lee (the inventor of the World Wide Web) written in 1998.\nThat was fifteen years ago, and yet it holds much wisdom.\nWhen you change a URI on your server, you can never completely tell who will have links to the old URI.\nLet it be search engines, other sites or people storing your resources in their bookmarks — c…",
-          "link": "https://www.stefanjudis.com/notes/cool-uris-dont-change/",
-          "publishedOn": "2023-03-09T23:00:00.000Z",
-          "wordCount": 1482,
-          "title": "Cool URIs don't change (#note)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Cool%20URIs%20don't%20change/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
@@ -1847,16 +1807,6 @@
           "publishedOn": "2023-03-17T00:00:00.000Z",
           "wordCount": 845,
           "title": "Structured logging is a go",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/451",
-          "author": null,
-          "description": "#​451 — March 10, 2023\n\n\nUnsub  |  Web Version\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nWhy Turborepo is Migrating From Go to Rust — Turborepo is a high performance JavaScript build system built upon Go but.. perhaps not for much longer. Why? It mostly seems subjective, but you might find their arguments interesting.\nVercel Engineering Team \n\n\n  \n  \nCode Coverage for Go Integration Tests — While Go has had coverage support at the package test level for almost ten years, coverage for integration tests run outside of the go test mechanism has been non-existent. With Go 1.20, it’s possible to instrument a binary and generate coverage files for both the module code and dependent packages.\nThan Macintosh \n\n\n  \n  \nGo! Experts at Your Service — Do you need help filling skill gaps, speeding u…",
-          "link": "https://golangweekly.com/issues/451",
-          "publishedOn": "2023-03-10T00:00:00.000Z",
-          "wordCount": 878,
-          "title": "The journey to faster JSON parsing",
           "imageUrl": null
         }
       ]

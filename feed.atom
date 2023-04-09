@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-08T01:16:54.068Z</updated>
+    <updated>2023-04-09T01:22:03.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 🧑‍🎨 Minium viable design]]></title>
+        <id>6429f0db8c2a0f39be3e45ce</id>
+        <link href="https://labnotes.org/weekend-reading-minium-viable-design/"/>
+        <updated>2023-04-08T23:30:19.000Z</updated>
+        <summary type="html"><![CDATA[This week we look at why prompts won’t replace developers, reasons to not use GraphQL, minimum viable design, and proof of human in recruiting.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Data Analytics with New Advanced Certifications from Google]]></title>
         <id>https://www.freecodecamp.org/news/starting-and-excelling-in-data-analytics/</id>
@@ -1993,104 +2003,6 @@ in SQL]]></title>
 The post The Researcher Who Would Teach Machines to Be Fair first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Sheon Han</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The journey to faster JSON parsing]]></title>
-        <id>https://golangweekly.com/issues/451</id>
-        <link href="https://golangweekly.com/issues/451"/>
-        <updated>2023-03-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​451 — March 10, 2023
-
-
-Unsub  |  Web Version
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-Why Turborepo is Migrating From Go to Rust — Turborepo is a high performance JavaScript build system built upon Go but.. perhaps not for much longer. Why? It mostly seems subjective, but you might find their arguments interesting.
-Vercel Engineering Team 
-
-
-  
-  
-Code Coverage for Go Integration Tests — While Go has had coverage support at the package test level for almost ten years, coverage for integration tests run outside of the go test mechanism has been non-existent. With Go 1.20, it’s possible to instrument a binary and generate coverage files for both the module code and dependent packages.
-Than Macintosh 
-
-
-  
-  
-Go! Experts at Your Service — Do you need help filling skill gaps, speeding u…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cool URIs don't change (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/cool-uris-dont-change/</id>
-        <link href="https://www.stefanjudis.com/notes/cool-uris-dont-change/"/>
-        <updated>2023-03-09T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Years ago, I took over a small freelance project for an art gallery. They've been running on a homegrown CMS, and I ported things to WordPress. Guess what happened after releasing the rebuilt site?
-Within a day, a furious gallery owner told me I had broken Google. What? Google doesn't work anymore? What happened? Well... I didn't care about the URLs and changed everything to WordPress's default schema.
-The lesson: Cool URIs don't change. And I've just read an article by Tim Berners-Lee (the inventor of the World Wide Web) written in 1998.
-That was fifteen years ago, and yet it holds much wisdom.
-When you change a URI on your server, you can never completely tell who will have links to the old URI.
-Let it be search engines, other sites or people storing your resources in their bookmarks — c…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Clickable SVG Map With HTML and CSS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/"/>
-        <updated>2023-03-09T19:43:56.000Z</updated>
-        <summary type="html"><![CDATA[Tour Afrique]]></summary>
-        <author>
-            <name>Rufai Mustapha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Perform Machine Learning Tasks with Python and SQL]]></title>
-        <id>https://www.freecodecamp.org/news/machine-learning-with-python-and-sql/</id>
-        <link href="https://www.freecodecamp.org/news/machine-learning-with-python-and-sql/"/>
-        <updated>2023-03-09T17:57:45.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning has become a popular field in recent years, with various applications in data analysis, computer vision, natural language processing, and more.  Python is one of the most widely used programming languages for machine learning, thanks to its rich ecosystem of libraries, frameworks, and tools.  But to]]></summary>
-        <author>
-            <name>Oluseye Jeremiah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploiting CORS – How to Pentest Cross-Origin Resource Sharing Vulnerabilities]]></title>
-        <id>https://www.freecodecamp.org/news/exploiting-cors-guide-to-pentesting/</id>
-        <link href="https://www.freecodecamp.org/news/exploiting-cors-guide-to-pentesting/"/>
-        <updated>2023-03-09T16:25:31.000Z</updated>
-        <summary type="html"><![CDATA[All web browsers implement a security model known as the Same-Origin Policy (SOP). It restricts domains from accessing and retrieving data from other domains’ resources.  The SOP policy helps protect users from malicious scripts that could access their sensitive data or perform unauthorized actions on their behalf. For example,]]></summary>
-        <author>
-            <name>Nairuz Abulhul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Proof Distinguishes Mysterious and Powerful ‘Modular Forms’]]></title>
-        <id>https://www.quantamagazine.org/?p=123704</id>
-        <link href="https://www.quantamagazine.org/long-sought-math-proof-unlocks-more-mysterious-modular-forms-20230309/"/>
-        <updated>2023-03-09T15:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Using “refreshingly old” tools, mathematicians resolved a 50-year-old conjecture about how to categorize important functions called modular forms, with consequences for number theory and theoretical physics.            
-The post New Proof Distinguishes Mysterious and Powerful ‘Modular Forms’ first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Jordana Cepelewicz</name>
         </author>
     </entry>
 </feed>
