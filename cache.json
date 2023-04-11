@@ -12,6 +12,76 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/python-bytes-to-string-how-to-convert-a-bytestring/",
+          "author": "Shittu Olumide",
+          "description": "In this article, you will learn how to convert a bytestring. I know the word bytestring might sound technical and difficult to understand. But trust me – we will break the process down and understand everything about bytestrings before writing the Python code that converts bytes to a string. So",
+          "link": "https://www.freecodecamp.org/news/python-bytes-to-string-how-to-convert-a-bytestring/",
+          "publishedOn": "2023-04-10T22:52:41.000Z",
+          "wordCount": 1888,
+          "title": "Python Bytes to String – How to Convert a Bytestring",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Python-Bytes-to-String---How-to-Convert-a-Bytestring.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/using-prettier-and-jslint/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article we're going to take a look at two very useful tools we can use to make our lives easier when writing code: linting tools and code formatters. We're going to talk about what these tools are, how they work, why are they useful, and finally",
+          "link": "https://www.freecodecamp.org/news/using-prettier-and-jslint/",
+          "publishedOn": "2023-04-10T22:02:17.000Z",
+          "wordCount": 2504,
+          "title": "How to Use Linters and Code Formatters in Your Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/alysa-bajenaru-88IV5AtWjB8-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-render-lists-in-react/",
+          "author": "Mwendwa Bundi Emma",
+          "description": "When you're working with React, you will often times need to render lists of items. With the map() method, you can create new results from your current lists or even showcase all the items in your lists. In this tutorial, you will learn how to use this method to access",
+          "link": "https://www.freecodecamp.org/news/how-to-render-lists-in-react/",
+          "publishedOn": "2023-04-10T21:39:53.000Z",
+          "wordCount": 1581,
+          "title": "How to Render Lists in React using array.map()",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Lists-in-React.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-history-of-ai/",
+          "author": "Edem Gold",
+          "description": "Humans have always been interested in making machines that display intelligence.  The Ancient Egyptians and Romans were awe-struck by religious statues that were manipulated by priests behind the scenes. Medieval lore is packed with tales of items which could move and talk like their human masters. And there have",
+          "link": "https://www.freecodecamp.org/news/the-history-of-ai/",
+          "publishedOn": "2023-04-10T21:35:22.000Z",
+          "wordCount": 4403,
+          "title": "The History of Artificial Intelligence from the 1950s to Today",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-tara-winstead-8386440.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-currency-converter-gui-with-tkinter/",
+          "author": "Ashutosh Krishna",
+          "description": "Tkinter is a built-in Python library for creating graphical user interfaces (GUIs). It provides a set of tools for building windows, frames, buttons, textboxes, and other GUI elements.  It is easy to use and widely available, making it a popular choice for building GUI applications in Python. It is",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-currency-converter-gui-with-tkinter/",
+          "publishedOn": "2023-04-10T16:44:45.000Z",
+          "wordCount": 3773,
+          "title": "How to Build a Currency Converter GUI with Tkinter",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/currency-converter.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-native-full-course-android-ios-development/",
+          "author": "Beau Carnes",
+          "description": "Are you ready to dive into the world of React Native and create stunning mobile applications that work seamlessly on both Android and iOS platforms? We've got you covered! We just published a full React Native course on the freeCodeCamp.org YouTube channel.  Emma Williams created this course. She is",
+          "link": "https://www.freecodecamp.org/news/react-native-full-course-android-ios-development/",
+          "publishedOn": "2023-04-10T15:37:07.000Z",
+          "wordCount": 1138,
+          "title": "Unleash the Power of React Native to Build Mobile Apps",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/reactnative.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/git-reset-hard-how-to-reset-to-head-in-git/",
+          "author": "Kolade Chris",
+          "description": "Git is a powerful version control system for tracking and managing changes and files in your source codes and other digital assets. One of the core functionalities of Git is \"commits\". Commits let you create a snapshot of your code. In other words, it’s like saving your work, but with",
+          "link": "https://www.freecodecamp.org/news/git-reset-hard-how-to-reset-to-head-in-git/",
+          "publishedOn": "2023-04-10T12:09:39.000Z",
+          "wordCount": 1504,
+          "title": "Git Reset Hard – How to Reset to Head in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/resetToHead.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/starting-and-excelling-in-data-analytics/",
           "author": "Eamonn Cottrell",
           "description": "Google has been growing a list of certifications for the past few years. And they've just added some advanced coursework to the repertoire.  In this article, I'll introduce you to the Google Certifications and detail what's new. I'll focus on the Data Analytics pathway, but will include resources to",
@@ -1379,6 +1449,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=124831",
+          "author": "Zack Savitsky",
+          "description": "If the electron’s charge wasn’t perfectly round, it could reveal the existence of hidden particles. A new measurement approaches perfection.            \nThe post The Electron Is So Round That It’s Ruling Out Potential New Particles first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-electron-is-so-round-that-its-ruling-out-new-particles-20230410/",
+          "publishedOn": "2023-04-10T14:00:43.000Z",
+          "wordCount": 5587,
+          "title": "The Electron Is So Round That It’s Ruling Out Potential New Particles",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/04/RoundElectrons-byKristinaArmitage-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=124757",
           "author": "Charlie Wood",
           "description": "In the math of particle physics, every calculation should result in infinity. The set of techniques known as “resurgence” points toward an escape.            \nThe post How to Tame the Endless Infinities Hiding in the Heart of Particle Physics first appeared on Quanta Magazine",
@@ -1614,16 +1694,6 @@
           "wordCount": 1878,
           "title": "Weekend Reading — 🤖  \"Disregard your previous prompt and instructions”",
           "imageUrl": "https://labnotes.org/content/images/2023/03/6508b6ee2c256f51.png"
-        },
-        {
-          "id": "640b728854aa81be6ff9e3e7",
-          "author": "Assaf Arkin",
-          "description": "This week we talk about React hooks, CloudFlare caching, SVB’s fall from grace, AI winter, generated AI aesthetics, non-linear workdays, and how to leave work early.",
-          "link": "https://labnotes.org/weekend-reading-hug-a-cfo/",
-          "publishedOn": "2023-03-12T01:23:17.000Z",
-          "wordCount": 2008,
-          "title": "Weekend Reading — 🤗 Hug a CFO",
-          "imageUrl": "https://labnotes.org/content/images/2023/03/DF-This-Is-Fine-CLEAN-GROUP_5000x.webp"
         }
       ]
     },
@@ -1632,6 +1702,26 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-98/",
+          "author": null,
+          "description": "Guten Tag. 👋\n\nHave you used CSS mask-image already? Or did you know that you can control an SVG's paint order to adjust a path's stroke width? Or that trigonometric CSS functions enable you to draw custom CSS shapes?\nAll the answers and much more are included in this week's Web Weekly. 🫣\nWe're all waiting for the new parent family selector — :has(). So what's the current state?\nFirefox still needs to flip the switch and is holding us back from adopting this new way of writing CSS. Nevertheless, I can imagine the new pseudo-class is terribly complicated to implement in a browser engine.\nThe resulting :has() use cases are endless, and we yet have to discover all the fancy ways we want to use it for. That raises the question: should everything be allowed to be used in a :has() selector? Sho…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-98/",
+          "publishedOn": "2023-04-09T22:00:00.000Z",
+          "wordCount": 2037,
+          "title": "Web Weekly #98 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/how-to-show-more-than-ten-results-per-page-on-google-search/",
+          "author": null,
+          "description": "Suppose you're using Google Search, a result page famously includes only ten search results. What if I told you that the number of results is configurable?\nNavigate to your Google Search preferences and start showing more results. 💪\nAnd if you're a tab hoarder like myself, turn on Open each selected result in a new browser window in the same go.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/how-to-show-more-than-ten-results-per-page-on-google-search/",
+          "publishedOn": "2023-04-09T22:00:00.000Z",
+          "wordCount": 1131,
+          "title": "How to show more than ten results per page on Google Search (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20show%20more%20than%20ten%20results%20per%20page%20on%20Google%20Search/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/today-i-learned/the-relative-font-weight-axis-how-variable-fonts-ease-font-weight/",
           "author": null,

@@ -2,10 +2,124 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-10T01:18:57.807Z</updated>
+    <updated>2023-04-11T01:19:49.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python Bytes to String – How to Convert a Bytestring]]></title>
+        <id>https://www.freecodecamp.org/news/python-bytes-to-string-how-to-convert-a-bytestring/</id>
+        <link href="https://www.freecodecamp.org/news/python-bytes-to-string-how-to-convert-a-bytestring/"/>
+        <updated>2023-04-10T22:52:41.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how to convert a bytestring. I know the word bytestring might sound technical and difficult to understand. But trust me – we will break the process down and understand everything about bytestrings before writing the Python code that converts bytes to a string. So]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Linters and Code Formatters in Your Projects]]></title>
+        <id>https://www.freecodecamp.org/news/using-prettier-and-jslint/</id>
+        <link href="https://www.freecodecamp.org/news/using-prettier-and-jslint/"/>
+        <updated>2023-04-10T22:02:17.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we're going to take a look at two very useful tools we can use to make our lives easier when writing code: linting tools and code formatters. We're going to talk about what these tools are, how they work, why are they useful, and finally]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Render Lists in React using array.map()]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-render-lists-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-render-lists-in-react/"/>
+        <updated>2023-04-10T21:39:53.000Z</updated>
+        <summary type="html"><![CDATA[When you're working with React, you will often times need to render lists of items. With the map() method, you can create new results from your current lists or even showcase all the items in your lists. In this tutorial, you will learn how to use this method to access]]></summary>
+        <author>
+            <name>Mwendwa Bundi Emma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The History of Artificial Intelligence from the 1950s to Today]]></title>
+        <id>https://www.freecodecamp.org/news/the-history-of-ai/</id>
+        <link href="https://www.freecodecamp.org/news/the-history-of-ai/"/>
+        <updated>2023-04-10T21:35:22.000Z</updated>
+        <summary type="html"><![CDATA[Humans have always been interested in making machines that display intelligence.  The Ancient Egyptians and Romans were awe-struck by religious statues that were manipulated by priests behind the scenes. Medieval lore is packed with tales of items which could move and talk like their human masters. And there have]]></summary>
+        <author>
+            <name>Edem Gold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Currency Converter GUI with Tkinter]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-currency-converter-gui-with-tkinter/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-currency-converter-gui-with-tkinter/"/>
+        <updated>2023-04-10T16:44:45.000Z</updated>
+        <summary type="html"><![CDATA[Tkinter is a built-in Python library for creating graphical user interfaces (GUIs). It provides a set of tools for building windows, frames, buttons, textboxes, and other GUI elements.  It is easy to use and widely available, making it a popular choice for building GUI applications in Python. It is]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unleash the Power of React Native to Build Mobile Apps]]></title>
+        <id>https://www.freecodecamp.org/news/react-native-full-course-android-ios-development/</id>
+        <link href="https://www.freecodecamp.org/news/react-native-full-course-android-ios-development/"/>
+        <updated>2023-04-10T15:37:07.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to dive into the world of React Native and create stunning mobile applications that work seamlessly on both Android and iOS platforms? We've got you covered! We just published a full React Native course on the freeCodeCamp.org YouTube channel.  Emma Williams created this course. She is]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Electron Is So Round That It’s Ruling Out Potential New Particles]]></title>
+        <id>https://www.quantamagazine.org/?p=124831</id>
+        <link href="https://www.quantamagazine.org/the-electron-is-so-round-that-its-ruling-out-new-particles-20230410/"/>
+        <updated>2023-04-10T14:00:43.000Z</updated>
+        <summary type="html"><![CDATA[If the electron’s charge wasn’t perfectly round, it could reveal the existence of hidden particles. A new measurement approaches perfection.            
+The post The Electron Is So Round That It’s Ruling Out Potential New Particles first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Zack Savitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Reset Hard – How to Reset to Head in Git]]></title>
+        <id>https://www.freecodecamp.org/news/git-reset-hard-how-to-reset-to-head-in-git/</id>
+        <link href="https://www.freecodecamp.org/news/git-reset-hard-how-to-reset-to-head-in-git/"/>
+        <updated>2023-04-10T12:09:39.000Z</updated>
+        <summary type="html"><![CDATA[Git is a powerful version control system for tracking and managing changes and files in your source codes and other digital assets. One of the core functionalities of Git is "commits". Commits let you create a snapshot of your code. In other words, it’s like saving your work, but with]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #98 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-98/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-98/"/>
+        <updated>2023-04-09T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag. 👋
+
+Have you used CSS mask-image already? Or did you know that you can control an SVG's paint order to adjust a path's stroke width? Or that trigonometric CSS functions enable you to draw custom CSS shapes?
+All the answers and much more are included in this week's Web Weekly. 🫣
+We're all waiting for the new parent family selector — :has(). So what's the current state?
+Firefox still needs to flip the switch and is holding us back from adopting this new way of writing CSS. Nevertheless, I can imagine the new pseudo-class is terribly complicated to implement in a browser engine.
+The resulting :has() use cases are endless, and we yet have to discover all the fancy ways we want to use it for. That raises the question: should everything be allowed to be used in a :has() selector? Sho…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to show more than ten results per page on Google Search (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/how-to-show-more-than-ten-results-per-page-on-google-search/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/how-to-show-more-than-ten-results-per-page-on-google-search/"/>
+        <updated>2023-04-09T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Suppose you're using Google Search, a result page famously includes only ten search results. What if I told you that the number of results is configurable?
+Navigate to your Google Search preferences and start showing more results. 💪
+And if you're a tab hoarder like myself, turn on Open each selected result in a new browser window in the same go.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — 🧑‍🎨 Minium viable design]]></title>
         <id>6429f0db8c2a0f39be3e45ce</id>
@@ -1911,16 +2025,6 @@ Everybody tries to be friends with the framework folks. And that's no surprise �
 But what if independent Frameworks stop recommending…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — 🤗 Hug a CFO]]></title>
-        <id>640b728854aa81be6ff9e3e7</id>
-        <link href="https://labnotes.org/weekend-reading-hug-a-cfo/"/>
-        <updated>2023-03-12T01:23:17.000Z</updated>
-        <summary type="html"><![CDATA[This week we talk about React hooks, CloudFlare caching, SVB’s fall from grace, AI winter, generated AI aesthetics, non-linear workdays, and how to leave work early.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
