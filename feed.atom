@@ -2,10 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-11T01:19:49.379Z</updated>
+    <updated>2023-04-12T01:20:22.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Validate Forms in React – A Step-By-Step Tutorial for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-validate-forms-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-validate-forms-in-react/"/>
+        <updated>2023-04-11T19:08:00.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever worked with form validation in React, you know that it can quickly become messy and overwhelming. This is especially the case if you're just starting out with React.  In this tutorial, I will show you how to create reusable React components that allow you to build]]></summary>
+        <author>
+            <name>Yazdun Fadali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Network Architecture Basics]]></title>
+        <id>https://www.freecodecamp.org/news/network-architecture-basics/</id>
+        <link href="https://www.freecodecamp.org/news/network-architecture-basics/"/>
+        <updated>2023-04-11T19:05:27.000Z</updated>
+        <summary type="html"><![CDATA[Networking is engineering, magic, and skilled trade all rolled into one. Getting all the countless pieces to talk nicely – and reliably – to each other is complicated. Troubleshooting unexpected outages is worse.  But, once you've got it all running nicely, well that's when you should really be worried:]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn JavaScript Object-Oriented Programming by Building a Timer Application]]></title>
+        <id>https://www.freecodecamp.org/news/learn-javascript-object-oriented-programming/</id>
+        <link href="https://www.freecodecamp.org/news/learn-javascript-object-oriented-programming/"/>
+        <updated>2023-04-11T17:06:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn JavaScript object-oriented programming by creating a simple timer application. Object-oriented programming is an important programming paradigm. It organizes code into objects which makes it easier to manage and maintain your applications. Many articles explain in detail the benefits of object-oriented programming and how you]]></summary>
+        <author>
+            <name>Miya Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Primitive Asgard Cells Show Life on the Brink of Complexity]]></title>
+        <id>https://www.quantamagazine.org/?p=124855</id>
+        <link href="https://www.quantamagazine.org/primitive-asgard-cells-show-life-on-the-brink-of-complexity-20230411/"/>
+        <updated>2023-04-11T14:22:43.000Z</updated>
+        <summary type="html"><![CDATA[As researchers race to cultivate more of the intriguing cells from the deep seafloor, the few cells now growing in labs are giving us our best glimpses of the forerunners of all complex life.            
+The post Primitive Asgard Cells Show Life on the Brink of Complexity first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Joshua Sokol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The smallest Go binary]]></title>
+        <id>https://golangweekly.com/issues/455</id>
+        <link href="https://golangweekly.com/issues/455"/>
+        <updated>2023-04-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#​455 — April 11, 2023
+
+
+Unsub  |  Web Version
+
+
+
+ℹ️ As mentioned last time, Go Weekly is now sent on Tuesdays, so if you missed us at all, we're now back on schedule 😄
+__
+Peter Cooper, your editor
+
+
+    
+    
+
+The Go Weekly Newsletter
+
+
+
+
+  
+
+
+
+
+
+  
+  
+The Smallest Go Binary - 5KB? — I thought this sounded a bit silly at first, especially dated April 1st, but the author (also the main maintainer of purego) had an interesting use case: they wanted to use Go’s assembler but not Go’s runtime. Turns out it’s possible, with a lot of fiddling around. Note: You will almost certainly never need to do this yourself, but it's fun to see the parts involved in doing so.
+Over Engineered 
+
+
+  
+  
+Developing a RESTful API with Go and Gin — It’s neat to see a tutorial like this pop up on the official Go…]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python Bytes to String – How to Convert a Bytestring]]></title>
         <id>https://www.freecodecamp.org/news/python-bytes-to-string-how-to-convert-a-bytestring/</id>
@@ -2008,23 +2093,6 @@ The post Global Microbiome Study Gives New View of Shared Health Risks first app
 The post Shadows in the Big Bang Afterglow Reveal Invisible Cosmic Structures first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Zack Savitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #95 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-95/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-95/"/>
-        <updated>2023-03-12T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! 👋
-
-Did you see that View Transitions shipped in Chrome stable? Have you used the relatedTarget JS event property? Or do you know what content: no-close-quote does in CSS?
-All the answers and much more are included in this week's Web Weekly. 🫣
-You might have noticed that hosting providers are keen on supporting (employing) framework maintainers. Netlify sponsors 11ty and Solid development and even bought Gatsby.
-Vercel, on the other hand, obviously develops Next.js, but also hired Svelte lead developer Rich Harris.
-Everybody tries to be friends with the framework folks. And that's no surprise – if a trending framework recommends a hoster, chances are high that users will try things out there. No complicated math here... 🤷‍♂️
-But what if independent Frameworks stop recommending…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

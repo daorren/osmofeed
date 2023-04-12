@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-validate-forms-in-react/",
+          "author": "Yazdun Fadali",
+          "description": "If you've ever worked with form validation in React, you know that it can quickly become messy and overwhelming. This is especially the case if you're just starting out with React.  In this tutorial, I will show you how to create reusable React components that allow you to build",
+          "link": "https://www.freecodecamp.org/news/how-to-validate-forms-in-react/",
+          "publishedOn": "2023-04-11T19:08:00.000Z",
+          "wordCount": 4761,
+          "title": "How to Validate Forms in React – A Step-By-Step Tutorial for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/thumbnail.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/network-architecture-basics/",
+          "author": "David Clinton",
+          "description": "Networking is engineering, magic, and skilled trade all rolled into one. Getting all the countless pieces to talk nicely – and reliably – to each other is complicated. Troubleshooting unexpected outages is worse.  But, once you've got it all running nicely, well that's when you should really be worried:",
+          "link": "https://www.freecodecamp.org/news/network-architecture-basics/",
+          "publishedOn": "2023-04-11T19:05:27.000Z",
+          "wordCount": 1447,
+          "title": "Network Architecture Basics",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-brett-sayles-2881232.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-javascript-object-oriented-programming/",
+          "author": "Miya Liu",
+          "description": "In this article, you will learn JavaScript object-oriented programming by creating a simple timer application. Object-oriented programming is an important programming paradigm. It organizes code into objects which makes it easier to manage and maintain your applications. Many articles explain in detail the benefits of object-oriented programming and how you",
+          "link": "https://www.freecodecamp.org/news/learn-javascript-object-oriented-programming/",
+          "publishedOn": "2023-04-11T17:06:00.000Z",
+          "wordCount": 5592,
+          "title": "Learn JavaScript Object-Oriented Programming by Building a Timer Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/---.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/python-bytes-to-string-how-to-convert-a-bytestring/",
           "author": "Shittu Olumide",
           "description": "In this article, you will learn how to convert a bytestring. I know the word bytestring might sound technical and difficult to understand. But trust me – we will break the process down and understand everything about bytestrings before writing the Python code that converts bytes to a string. So",
@@ -1449,6 +1479,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=124855",
+          "author": "Joshua Sokol",
+          "description": "As researchers race to cultivate more of the intriguing cells from the deep seafloor, the few cells now growing in labs are giving us our best glimpses of the forerunners of all complex life.            \nThe post Primitive Asgard Cells Show Life on the Brink of Complexity first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/primitive-asgard-cells-show-life-on-the-brink-of-complexity-20230411/",
+          "publishedOn": "2023-04-11T14:22:43.000Z",
+          "wordCount": 9748,
+          "title": "Primitive Asgard Cells Show Life on the Brink of Complexity",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/04/NewArchaea-byAndreasKlingl_LudwigMaximilianUniversity-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=124831",
           "author": "Zack Savitsky",
           "description": "If the electron’s charge wasn’t perfectly round, it could reveal the existence of hidden particles. A new measurement approaches perfection.            \nThe post The Electron Is So Round That It’s Ruling Out Potential New Particles first appeared on Quanta Magazine",
@@ -1781,16 +1821,6 @@
           "wordCount": 1226,
           "title": "Make a PDF look like it was manually scanned (#snippet)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Make%20a%20PDF%20look%20like%20it%20was%20manually%20scanned/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-95/",
-          "author": null,
-          "description": "Guten Tag! 👋\n\nDid you see that View Transitions shipped in Chrome stable? Have you used the relatedTarget JS event property? Or do you know what content: no-close-quote does in CSS?\nAll the answers and much more are included in this week's Web Weekly. 🫣\nYou might have noticed that hosting providers are keen on supporting (employing) framework maintainers. Netlify sponsors 11ty and Solid development and even bought Gatsby.\nVercel, on the other hand, obviously develops Next.js, but also hired Svelte lead developer Rich Harris.\nEverybody tries to be friends with the framework folks. And that's no surprise – if a trending framework recommends a hoster, chances are high that users will try things out there. No complicated math here... 🤷‍♂️\nBut what if independent Frameworks stop recommending…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-95/",
-          "publishedOn": "2023-03-12T23:00:00.000Z",
-          "wordCount": 2230,
-          "title": "Web Weekly #95 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
     },
@@ -1799,6 +1829,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/455",
+          "author": null,
+          "description": "#​455 — April 11, 2023\n\n\nUnsub  |  Web Version\n\n\n\nℹ️ As mentioned last time, Go Weekly is now sent on Tuesdays, so if you missed us at all, we're now back on schedule 😄\n__\nPeter Cooper, your editor\n\n\n    \n    \n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nThe Smallest Go Binary - 5KB? — I thought this sounded a bit silly at first, especially dated April 1st, but the author (also the main maintainer of purego) had an interesting use case: they wanted to use Go’s assembler but not Go’s runtime. Turns out it’s possible, with a lot of fiddling around. Note: You will almost certainly never need to do this yourself, but it's fun to see the parts involved in doing so.\nOver Engineered \n\n\n  \n  \nDeveloping a RESTful API with Go and Gin — It’s neat to see a tutorial like this pop up on the official Go…",
+          "link": "https://golangweekly.com/issues/455",
+          "publishedOn": "2023-04-11T00:00:00.000Z",
+          "wordCount": 954,
+          "title": "The smallest Go binary",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/454",
           "author": null,
