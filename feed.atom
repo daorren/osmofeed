@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-12T01:20:22.082Z</updated>
+    <updated>2023-04-13T01:18:32.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Use Bash Scripting to Enhance Your Productivity]]></title>
+        <id>https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/"/>
+        <updated>2023-04-12T20:52:38.000Z</updated>
+        <summary type="html"><![CDATA[Bash scripting is an essential skill for any developer, system administrator, or power user who wants to automate repetitive tasks and make their workflow more efficient. We just published a bash scripting for beginners course on the freeCodeCamp.org YouTube channel. Herbert from Herbertech created this course. In this course, you'll]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create Mobile Apps with Firebase]]></title>
+        <id>https://www.freecodecamp.org/news/firebase-course-html-css-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/firebase-course-html-css-javascript/"/>
+        <updated>2023-04-12T20:46:42.000Z</updated>
+        <summary type="html"><![CDATA[Firebase is an app development platform from Google that offers tools and services for building and scaling applications. It includes real-time databases, authentication, analytics, and hosting features. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build a mobile app with HTML, CSS,]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Apply Borders to Clip Paths with CSS]]></title>
+        <id>https://www.freecodecamp.org/news/apply-borders-to-clip-paths-with-css/</id>
+        <link href="https://www.freecodecamp.org/news/apply-borders-to-clip-paths-with-css/"/>
+        <updated>2023-04-12T17:46:38.000Z</updated>
+        <summary type="html"><![CDATA[Applying borders to non-rectangular shapes in CSS can be challenging. In this article, we will explore ways to apply different border types to trapezoidal shapes in CSS.  The final shape we aim to achieve is a golden dashed parallelogram border, as you can see in the screenshot below: Parallelogram]]></summary>
+        <author>
+            <name>Michael Frederick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematicians Find Hidden Structure in a Common Type of Space]]></title>
+        <id>https://www.quantamagazine.org/?p=124896</id>
+        <link href="https://www.quantamagazine.org/mathematicians-find-hidden-structure-in-a-common-type-of-space-20230412/"/>
+        <updated>2023-04-12T14:49:27.000Z</updated>
+        <summary type="html"><![CDATA[In 50 years of searching, mathematicians found only one example of a “subspace design” in a vector space. A new proof reveals that there are infinitely more out there.            
+The post Mathematicians Find Hidden Structure in a Common Type of Space first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Jordana Cepelewicz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conda Remove Package - How To Remove Matplotlib in Anaconda]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-remove-a-package-in-anaconda/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-remove-a-package-in-anaconda/"/>
+        <updated>2023-04-12T12:21:34.000Z</updated>
+        <summary type="html"><![CDATA[You can use Conda to create and manage different environments and their packages. It is mostly used for data science and machine learning projects.  In this article, you'll learn how to remove an environment's package using in built Conda commands.  You'll learn the following:   * How]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Convert a List to an Array and Back in Python]]></title>
+        <id>https://www.freecodecamp.org/news/convert-lists-to-arrays-and-back-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/convert-lists-to-arrays-and-back-in-python/"/>
+        <updated>2023-04-12T00:04:30.000Z</updated>
+        <summary type="html"><![CDATA[Arrays and lists are two of the most commonly used data structures in Python.  You can use both arrays and lists to store collections of values, but they have some key differences.  For example, arrays are more efficient than lists for certain operations, such as mathematical operations on]]></summary>
+        <author>
+            <name>Oluseye Jeremiah</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Validate Forms in React – A Step-By-Step Tutorial for Beginners]]></title>
         <id>https://www.freecodecamp.org/news/how-to-validate-forms-in-react/</id>
@@ -2072,27 +2133,6 @@ The post Coloring by Numbers Reveals Arithmetic Patterns in Fractions first appe
 The post Global Microbiome Study Gives New View of Shared Health Risks first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Yasemin Saplakoglu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hack Summit 2023 – Developer Conference Focused on Blockchain Development]]></title>
-        <id>https://www.freecodecamp.org/news/hack-summit-2023-developer-conference-focused-on-blockchain-development/</id>
-        <link href="https://www.freecodecamp.org/news/hack-summit-2023-developer-conference-focused-on-blockchain-development/"/>
-        <updated>2023-03-14T08:03:17.000Z</updated>
-        <summary type="html"><![CDATA[Hack Summit is one of the largest online developer conferences in history. Across its 5 events over the past decade, more than 130,000 developers have attended. And this year's event should be no different – filled with opportunities to learn from speakers and expand your professional network. This year, the]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shadows in the Big Bang Afterglow Reveal Invisible Cosmic Structures]]></title>
-        <id>https://www.quantamagazine.org/?p=123813</id>
-        <link href="https://www.quantamagazine.org/shadows-in-the-big-bang-afterglow-reveal-invisible-cosmic-structures-20230313/"/>
-        <updated>2023-03-13T13:51:05.000Z</updated>
-        <summary type="html"><![CDATA[Cosmologists are using secondary signatures from the cosmic microwave background to map the universe’s hidden matter.            
-The post Shadows in the Big Bang Afterglow Reveal Invisible Cosmic Structures first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Zack Savitsky</name>
         </author>
     </entry>
 </feed>
