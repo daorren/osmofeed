@@ -12,6 +12,76 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/what-is-a-channel-in-conda/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When you install a package in Conda, it is downloaded and extracted from a remote directory using the directory's URL. The directory where these packages are stored is known as a channel. In this article, you'll learn what a channel is, how to use default channels, and how add new",
+          "link": "https://www.freecodecamp.org/news/what-is-a-channel-in-conda/",
+          "publishedOn": "2023-04-14T16:36:11.000Z",
+          "wordCount": 1026,
+          "title": "Conda Channel - What Is a Channel in Conda?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/freestocks-11SgH7U6TmI-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-pretty-print-json-in-python/",
+          "author": "Shittu Olumide",
+          "description": "JSON (JavaScript Object Notation) is a popular data interchange format that is widely used in web applications, APIs, and databases. It is a lightweight and human-readable format that is easy to parse and generate.  But when dealing with large and complex JSON data, it can be difficult to read",
+          "link": "https://www.freecodecamp.org/news/how-to-pretty-print-json-in-python/",
+          "publishedOn": "2023-04-14T15:38:01.000Z",
+          "wordCount": 1452,
+          "title": "How to Pretty Print JSON in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Shittu-Olumide-How-to-Pretty-Print-JSON-in-Python.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-does-the-dollar-sign-mean-in-javascript/",
+          "author": "Joel Olawanle",
+          "description": "As you dive into JavaScript code, you may come across the use of a dollar sign ($) in various contexts. In this article, we will explore what the dollar sign means in JavaScript, commonly known as the \"dollar sign operator,\" and how it is used in JavaScript programming. Understanding the",
+          "link": "https://www.freecodecamp.org/news/what-does-the-dollar-sign-mean-in-javascript/",
+          "publishedOn": "2023-04-14T15:10:37.000Z",
+          "wordCount": 1265,
+          "title": "What Does $ Mean in JavaScript? Dollar Sign Operator in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/cover-template--9-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/jsonobject-tostring-how-to-convert-json-to-a-string-in-java/",
+          "author": "Shittu Olumide",
+          "description": "In the world of web applications and services, JSON (JavaScript Object Notation) has become a widely used data format for data exchange between different systems.  In Java, it's common to work with JSON data, and an operation you'll frequently perform is converting a JSON object to a string representation.",
+          "link": "https://www.freecodecamp.org/news/jsonobject-tostring-how-to-convert-json-to-a-string-in-java/",
+          "publishedOn": "2023-04-14T15:05:04.000Z",
+          "wordCount": 1363,
+          "title": "JSONObject.toString() – How to Convert JSON to a String in Java",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Shittu-Olumide-JSONObject.toString-----How-to-Convert-JSON-to-a-String-in-Java.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-refresh-page-how-to-reload-a-page-in-js/",
+          "author": "Joel Olawanle",
+          "description": "JavaScript is a versatile programming language that allows developers to create dynamic and interactive web applications. One common task in web development is to refresh or reload a web page, either to update its content or to trigger certain actions. In this article, we will explore different ways to refresh",
+          "link": "https://www.freecodecamp.org/news/javascript-refresh-page-how-to-reload-a-page-in-js/",
+          "publishedOn": "2023-04-14T15:01:42.000Z",
+          "wordCount": 1651,
+          "title": "JavaScript Refresh Page – How to Reload a Page in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/cover-template--8-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/a-deep-dive-into-access-control-lists/",
+          "author": "Chidiadi Anyanwu",
+          "description": "In computing, access control is the concept of limiting or regulating a person or machine's access to certain information or resources.  One of the major mechanisms you use to do that is an access control list (ACL). An ACL is a set of rules for allowing or denying access",
+          "link": "https://www.freecodecamp.org/news/a-deep-dive-into-access-control-lists/",
+          "publishedOn": "2023-04-14T14:43:14.000Z",
+          "wordCount": 2208,
+          "title": "What is An ACL? Access Control Lists Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/towfiqu-barbhuiya-FnA5pAzqhMM-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-initialize-a-java-list/",
+          "author": "Shittu Olumide",
+          "description": "Java is a popular programming language widely used for developing robust and scalable applications. One of the essential data structures in Java is a list, which allows developers to store and manipulate a collection of elements. Initializing a list in Java is a crucial step in the development process as",
+          "link": "https://www.freecodecamp.org/news/how-to-initialize-a-java-list/",
+          "publishedOn": "2023-04-14T14:30:36.000Z",
+          "wordCount": 1952,
+          "title": "How to Initialize a Java List – List of String Initialization in Java",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Shittu-Olumide-How-to-Initialize-a-Java-List---List-of-String-Initialization-in-Java.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/build-a-blog-website-with-ghost-api-and-nextjs/",
           "author": "Rajdeep Singh",
           "description": "Ghost CMS is a popular content management system that many devs and companies use to host their blogs.  It has many features and an editor that's highly optimized for writing. You can even build different themes using handlebars.js [https://handlebarsjs.com/]. But if you don't know Handlebars, learning it can be",
@@ -1450,36 +1520,6 @@
           "wordCount": 858,
           "title": "Create a SQL Database App with a Windows GUI",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/sqlapp.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-print-exception-how-to-try-except-print-an-error/",
-          "author": "Kolade Chris",
-          "description": "Every programming language has its way of handling exceptions and errors, and Python is no exception. Python comes with a built-in try…except syntax with which you can handle errors and stop them from interrupting the running of your program. In this article, you’ll learn how to use that try…except syntax",
-          "link": "https://www.freecodecamp.org/news/python-print-exception-how-to-try-except-print-an-error/",
-          "publishedOn": "2023-03-15T21:31:00.000Z",
-          "wordCount": 1386,
-          "title": "Python Print Exception – How to Try-Except-Print an Error",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pythonExceptionHandling.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/alternatives-to-prettier/",
-          "author": "Kamaldeen Lawal",
-          "description": "Many programmers hate code formatting because it is tedious and time-consuming. You can spend hours making sure everything is perfect and well-indented.  This is why code formatters are so useful. A code formatter is a tool that formats code according to certain standards. It makes it so you don't",
-          "link": "https://www.freecodecamp.org/news/alternatives-to-prettier/",
-          "publishedOn": "2023-03-15T17:43:50.000Z",
-          "wordCount": 3668,
-          "title": "Alternatives to Prettier – Popular Code Linting and Formatting Tools",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Alternatives-to-Prettier.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-react-18-with-redux-toolkit/",
-          "author": "Beau Carnes",
-          "description": "React is a popular JavaScript library that is widely used for building dynamic user interfaces. It has gained a lot of popularity over the years due to its flexibility, scalability, and ease of use. If you're a beginner looking to learn React 18 with Redux Toolkit, you're in luck. We",
-          "link": "https://www.freecodecamp.org/news/learn-react-18-with-redux-toolkit/",
-          "publishedOn": "2023-03-15T15:44:43.000Z",
-          "wordCount": 1029,
-          "title": "Learn React 18 with Redux Toolkit",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/react-full.png"
         }
       ]
     },
@@ -1687,16 +1727,6 @@
           "wordCount": 7061,
           "title": "The Unpredictable Abilities Emerging From Large AI Models",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/03/Emergence-LLM-byPaulChaikin-Default.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=123920",
-          "author": "Leila Sloman",
-          "description": "In a recent paper, two mathematicians showed that a particular pattern is unavoidable when fractions are categorized.            \nThe post Coloring by Numbers Reveals Arithmetic Patterns in Fractions first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/coloring-by-numbers-reveals-arithmetic-patterns-in-fractions-20230315/",
-          "publishedOn": "2023-03-15T13:55:27.000Z",
-          "wordCount": 5426,
-          "title": "Coloring by Numbers Reveals Arithmetic Patterns in Fractions",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/03/RationalColoring-byKristinaArmitage-Social.jpg"
         }
       ]
     },
@@ -1752,6 +1782,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/notes/glyphhanger-a-tool-subset-and-optimize-fonts/",
+          "author": null,
+          "description": "I've been playing with variable fonts the other day and got excited about transitioning font weights without layout shifts.\nBut in the end, I had to conclude that a 785kB heavy variable font is too much for my lightweight blog.\nNicolas Friedli pointed out that I can minimize the font's file size down to 322kB by using Glyphhanger — \"the web font utility belt\".\nThe Roboto font I've used includes 826 characters and 948 glyphs. My blog is in English, so I'd use less than 10% of these provided characters.\nGlyphhanger lets you remove all these unused characters and glyphs.\n# subset Roboto to Latin character set\nglyphhanger --subset=roboto.woff2 --format=woff2 --LATIN\n\nBy subsetting roboto.woff2 to the Latin character set, I cut the number of included font characters and the resulting file size …",
+          "link": "https://www.stefanjudis.com/notes/glyphhanger-a-tool-subset-and-optimize-fonts/",
+          "publishedOn": "2023-04-13T22:00:00.000Z",
+          "wordCount": 1452,
+          "title": "Glyphhanger — a tool to subset and optimize fonts (#note)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Glyphhanger%20%E2%80%94%20a%20tool%20to%20subset%20and%20optimize%20fonts/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-98/",
           "author": null,
