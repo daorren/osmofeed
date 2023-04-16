@@ -1420,106 +1420,6 @@
           "wordCount": 1452,
           "title": "Binary Search in C++ – Algorithm Example",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/binary-search-algorithm-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-range-function-example/",
-          "author": "Dionysia Lemonaki",
-          "description": "In this article, you will learn how to use the range() function in Python with some code examples along the way. What is the range() Function in Python? range() Function Syntax Breakdown Python's built-in range() function is mainly used when working with for loops – you can use it to",
-          "link": "https://www.freecodecamp.org/news/python-range-function-example/",
-          "publishedOn": "2023-03-17T11:55:33.000Z",
-          "wordCount": 1541,
-          "title": "Python range() Function Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-christina-morillo-1181671.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-regex-tutorial-how-to-use-regex-inside-lambda-expression/",
-          "author": "Kolade Chris",
-          "description": "It’s possible to use RegEx inside a lambda function in Python. You can apply this to any Python method or function that takes a function as a parameter. Such functions and methods include filter(), map(), any(), sort(), and more. Keep reading as I show you how to use regular expressions",
-          "link": "https://www.freecodecamp.org/news/python-regex-tutorial-how-to-use-regex-inside-lambda-expression/",
-          "publishedOn": "2023-03-17T09:31:41.000Z",
-          "wordCount": 1260,
-          "title": "Python RegEx Tutorial – How to use RegEx inside lambda Expression",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/regexinlambda.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/automating-report-generation-from-sql-databases-using-python/",
-          "author": "Oluseye Jeremiah",
-          "description": "Generating reports from SQL databases is a common task in many organizations. But the process can be time-consuming and error-prone, especially if it involves manual data extraction, transformation, and formatting.  In this article, we will explore how to use Python to automate the process of generating reports from SQL",
-          "link": "https://www.freecodecamp.org/news/automating-report-generation-from-sql-databases-using-python/",
-          "publishedOn": "2023-03-16T22:09:47.000Z",
-          "wordCount": 1262,
-          "title": "How to Generate Automated Reports from a SQL Database Using Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/coreet.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/data-visualization-in-google-sheets/",
-          "author": "Eamonn Cottrell",
-          "description": "Spreadsheets are the OG resource for visualizing data with charts and graphs...unless you count chalkboards, I suppose.  Spreadsheets are built to churn through tons of data. And by using a few simple built-in tools, you can glean valuable insights from large chunks of data. gif of \"OG\" graphicWhen dealing",
-          "link": "https://www.freecodecamp.org/news/data-visualization-in-google-sheets/",
-          "publishedOn": "2023-03-16T20:55:12.000Z",
-          "wordCount": 1591,
-          "title": "Data Visualization in Google Sheets for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/FCC-Data-Visualization-in-Google-Sheets---Bar-and-Pie-Charts.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-an-array-in-java/",
-          "author": "Shittu Olumide",
-          "description": "Creating and manipulating arrays is an essential skill for any Java programmer. Arrays provide a way to store and organize multiple values of the same type, making it easier to work with large sets of data. In this article, we will provide a step-by-step guide on how to create an",
-          "link": "https://www.freecodecamp.org/news/how-to-create-an-array-in-java/",
-          "publishedOn": "2023-03-16T19:48:12.000Z",
-          "wordCount": 2128,
-          "title": "How to Create an Array in Java – Array Declaration Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/array-declaration.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/lambda-sort-list-in-python/",
-          "author": "Kolade Chris",
-          "description": "The sort() method and the sorted() function let you sort iterable data like lists and tuples in ascending or descending order. They take parameters with which you can modify how they perform the sorting. And one of those parameters could be a function or even a lambda function. In this",
-          "link": "https://www.freecodecamp.org/news/lambda-sort-list-in-python/",
-          "publishedOn": "2023-03-16T19:37:09.000Z",
-          "wordCount": 2238,
-          "title": "Lambda Sorted in Python – How to Lambda Sort a List",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/lambdaSort.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/complete-guide-to-css-grid/",
-          "author": "Oluwatobi Sofela",
-          "description": "CSS Grid gives you the tools to create basic and advanced website layouts in responsive ways that look great on mobile, tablet, and desktop devices. This tutorial discusses everything you need to know to use CSS Grid like a pro. Table of Contents  1.  What Is CSS Grid?",
-          "link": "https://www.freecodecamp.org/news/complete-guide-to-css-grid/",
-          "publishedOn": "2023-03-16T18:19:27.000Z",
-          "wordCount": 6553,
-          "title": "CSS Grid Handbook – Complete Guide to Grid Containers and Grid Items",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/complete-css-grid-guide-codesweetly-pexels-steve-johnson-1283208.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/google-summer-of-code-guide/",
-          "author": "Abhisman Sarkar",
-          "description": "Google Summer of Code [https://summerofcode.withgoogle.com/] is an open source program that is managed by Google's Open Source team.  They invite developers to spend their summer contributing to the source code for various different organisations taking part in the program.  There are many organisations that list their project ideas",
-          "link": "https://www.freecodecamp.org/news/google-summer-of-code-guide/",
-          "publishedOn": "2023-03-16T17:04:36.000Z",
-          "wordCount": 3285,
-          "title": "GSoC 2023 Guide – How to Prepare for Google Summer of Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-prateek-katyal-2763246.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/automate-sql-database-backups-using-python/",
-          "author": "Oluseye Jeremiah",
-          "description": "You should back up your SQL database on a regular basis. It's a critical task that helps ensure that your data is always protected.  But manually backing up a database can be time-consuming and error-prone, especially if you have multiple databases to back up.  In this article, we",
-          "link": "https://www.freecodecamp.org/news/automate-sql-database-backups-using-python/",
-          "publishedOn": "2023-03-16T14:49:50.000Z",
-          "wordCount": 1447,
-          "title": "How to Automate SQL Database Backups Using Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/rere.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/sql-database-app-with-windows-gui/",
-          "author": "Beau Carnes",
-          "description": "Are you interested in learning how to design and use databases for Windows applications? We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to create a SQL database application with a Windows graphical interface. Led by Shad Sluiter, a Professor Of Computer Science",
-          "link": "https://www.freecodecamp.org/news/sql-database-app-with-windows-gui/",
-          "publishedOn": "2023-03-16T14:09:53.000Z",
-          "wordCount": 858,
-          "title": "Create a SQL Database App with a Windows GUI",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/sqlapp.png"
         }
       ]
     },
@@ -1717,16 +1617,6 @@
           "wordCount": 5869,
           "title": "Dinosaur Bone Study Reveals That Not All Giants Grew Alike",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/03/DinosaurSize-byKristinaArmitage-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=123962",
-          "author": "Stephen Ornes",
-          "description": "Large language models like ChatGPT are now big enough that they’ve started to display startling, unpredictable behaviors.            \nThe post The Unpredictable Abilities Emerging From Large AI Models first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/the-unpredictable-abilities-emerging-from-large-ai-models-20230316/",
-          "publishedOn": "2023-03-16T15:44:31.000Z",
-          "wordCount": 7061,
-          "title": "The Unpredictable Abilities Emerging From Large AI Models",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/03/Emergence-LLM-byPaulChaikin-Default.webp"
         }
       ]
     },
@@ -1851,26 +1741,6 @@
           "wordCount": 1964,
           "title": "Web Weekly #96 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/size-container-queries-can-detect-landscape-portrait-orientation/",
-          "author": null,
-          "description": "I'm still wrapping my head around container size queries. The concept is clear (I think), but now that they're there, I'm finally catching up.\n\n        \nMDN Compat Data (source)\nBrowser support info for @container \n              \n                \n\n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                \n\n                        \n                        105\n                        \n                      \n                        \n                        …",
-          "link": "https://www.stefanjudis.com/today-i-learned/size-container-queries-can-detect-landscape-portrait-orientation/",
-          "publishedOn": "2023-03-16T23:00:00.000Z",
-          "wordCount": 1541,
-          "title": "Size container queries can detect landscape / portrait orientation (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Size%20container%20queries%20can%20detect%20landscape%20%252F%20portrait%20orientation/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/make-a-pdf-look-like-it-was-manually-scanned/",
-          "author": null,
-          "description": "I live in Germany, and while many think we have things in order here, we still need to sort out bureaucracy. It's a clu**fu** at best because German officials rely on paper – paper and handwritten signatures.\nIt can go so far that a scanned document image is preferred over a nice and sharp PDF. I don't own a printer, let alone a scanner, so occasionally, I drag myself to the local copy shop to do official business.\nUntil now! I've been browsing Hacker News, and the shell script below takes a PDF and makes it look like it's been scanned.\n#!/bin/sh\nROTATION=$(shuf -n 1 -e '-' '')$(shuf -n 1 -e $(seq 0.05 .5))\n\nconvert -density 150 $1 \\\n  -linear-stretch '1.5%x2%' \\\n  -rotate ${ROTATION} \\\n  -attenuate '0.01' \\\n  +noise  Multiplicative \\\n  -colorspace 'gray' $2\n  \n\nSuppose you called the scrip index.sh you can now run the following command...\n./index.sh original.pdf scanned.pdf\n\n... to scan your PDFs without a physical scanner.\nSide note: the convert command is part of the imagemagick tools and wasn't available on my machine. You might have to install it first. A brew install imagemagick did the trick for me, though.\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/snippets/make-a-pdf-look-like-it-was-manually-scanned/",
-          "publishedOn": "2023-03-16T23:00:00.000Z",
-          "wordCount": 1226,
-          "title": "Make a PDF look like it was manually scanned (#snippet)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Make%20a%20PDF%20look%20like%20it%20was%20manually%20scanned/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
@@ -1907,16 +1777,6 @@
           "publishedOn": "2023-03-24T00:00:00.000Z",
           "wordCount": 970,
           "title": "Go on the Xbox?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/452",
-          "author": null,
-          "description": "#​452 — March 17, 2023\n\n\nUnsub  |  Web Version\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nFlameScope: Visualize CPU Samples from Go Execution Traces — FlameScope is a performance visualization tool from Netflix using flame graphs that can now be used with Go 1.19 thanks to a patch and this work from Felix. “Please note that this is still relatively experimental..”\nFelix Geisendörfer \n\n\n  \n  \nThe slog / Structured Logging Proposal is Accepted — Russ Cox has marked the structured logging with levels proposal (a.k.a. ‘slog’) as accepted – nonetheless, discussion continues.\nRuss Cox \n\n\nIn other proposal related news, Russ also ticked the WebAssembly System Interface / WASI target proposal.\n\n\n\n\n\n  \n  \nDon’t Let Your Issue Tracker Be a Four-Letter Word. Use Shortcut — The best issue tracking …",
-          "link": "https://golangweekly.com/issues/452",
-          "publishedOn": "2023-03-17T00:00:00.000Z",
-          "wordCount": 845,
-          "title": "Structured logging is a go",
           "imageUrl": null
         }
       ]
