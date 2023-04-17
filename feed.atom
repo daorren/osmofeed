@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-16T01:25:12.941Z</updated>
+    <updated>2023-04-17T01:21:05.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 🎩 Forms and background jobs]]></title>
+        <id>6431f86a816f7ee0ed3a94a1</id>
+        <link href="https://labnotes.org/weekend-reading-forms-and-background-jobs/"/>
+        <updated>2023-04-16T21:48:23.000Z</updated>
+        <summary type="html"><![CDATA[This week we attempt a real-life coding exercise, draw our own animations, contrast AI agents with the Semantic Web, fold like a pro, and learn an ancient form of writing.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slice — an app to remove variable font axes (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/slice-an-app-to-remove-variable-font-axes/</id>
+        <link href="https://www.stefanjudis.com/notes/slice-an-app-to-remove-variable-font-axes/"/>
+        <updated>2023-04-15T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On my font optimization journey, I've learned that subsetting is an invaluable approach to reducing font file sizes. I've been able to cut down Roboto's size from 785kB to 200kB by subsetting it to ASCII characters. And when going the extreme way, I could even bring it down to 58kB by aggressively limiting the included characters.
+But could one squeeze out even more bytes of the Roboto font?
+When you inspect Roboto with Wakamai Fondue, you'll discover that it ships 13(!) variable font axes.
+That's great, but I wonder if you need all these variable configuration parameters in production and argue that a good design defines only a few font variations. 13 configurable axes shouldn't be needed at all times.
+Thanks to Tobias Kunish, I learned you can also remove axes with some tooling! Does the removal of font axes affect the font size? Let's find out!
+Slice is an open-source application to create custom font design spaces from variable fonts. Unfortunately, I'm not enough font nerd to understand all of Slice's functionality, but what I get is that you can inspect a font's axes and limit their ranges or define a static value for each.
+For example, if you're not interested in including all the variations of the parametric figure height (YTFI), set a value and drop the axis from the font entirely.
+To test things out, I kept the opsz, wght, GRAD, wdth and slnt axis untouched and set a fixed value for the eight other axes to remove them from my local Roboto font.
+Font
+Size with 13 axes
+Size with 5 axes
+
+
+
+
+Roboto (all characters & glyphs)
+784kB
+710kB
+
+
+Roboto (Latin)
+322kB
+292kB
+
+
+Roboto (ASCII)
+202kB
+182kB
+
+
+Roboto (only a few characters)
+58kB
+52kB
+
+
+
+And indeed, removing font axes resulted in more saved bytes!
+So, if you're on the journey of optimizing your fonts, subsetting will give you massive results, but if you want to go the extra mile, you can also shave off some more bytes by limiting font axis range values or removing axes entirely. Happy optimizing!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Conda Channel - What Is a Channel in Conda?]]></title>
         <id>https://www.freecodecamp.org/news/what-is-a-channel-in-conda/</id>
@@ -1887,36 +1949,6 @@ The post Dinosaur Bone Study Reveals That Not All Giants Grew Alike first appear
         <summary type="html"><![CDATA[This week we look at Outerbase, Plato, Warp’s new AI, react.email, Superflare, Tremor 2.0, modern font stacks, Cloudflare’s URL scanner, and rapid fire through 11 AI announcements,]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Method Overloading vs Method Overriding in Java – What's the Difference?]]></title>
-        <id>https://www.freecodecamp.org/news/method-overloading-and-overriding-in-java/</id>
-        <link href="https://www.freecodecamp.org/news/method-overloading-and-overriding-in-java/"/>
-        <updated>2023-03-17T17:26:47.000Z</updated>
-        <summary type="html"><![CDATA[In Java, method overloading and method overriding both refer to creating different methods that share the same name.  While the two concepts share some similarities, they are distinct notions with markedly different use cases. Having a firm grasp of them is important in building strong foundational Java skills.]]></summary>
-        <author>
-            <name>Mikael Lassa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Program Examples – Simple Code Examples for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/python-program-examples-simple-code-examples-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/python-program-examples-simple-code-examples-for-beginners/"/>
-        <updated>2023-03-17T17:09:25.000Z</updated>
-        <summary type="html"><![CDATA[Mark Twain said that the secret of getting ahead is getting started. Programming can seem daunting for beginners, but the best way to get started is to dive right in and start writing code.  Simple code examples are a great way for beginners to get their feet wet and]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binary Search in C++ – Algorithm Example]]></title>
-        <id>https://www.freecodecamp.org/news/binary-search-in-c-algorithm-example/</id>
-        <link href="https://www.freecodecamp.org/news/binary-search-in-c-algorithm-example/"/>
-        <updated>2023-03-17T16:52:22.000Z</updated>
-        <summary type="html"><![CDATA[The binary search algorithm is a divide and conquer algorithm that you can use to search for and find elements in a sorted array.  The algorithm is fast in searching for elements because it removes half of the array every time the search iteration happens.  So instead of]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
         </author>
     </entry>
 </feed>
