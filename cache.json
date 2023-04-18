@@ -12,6 +12,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-protect-your-pwa/",
+          "author": "Rahul",
+          "description": "Hey, everybody! I'm Rahul [https://fueler.io/rahoool]. In today's world, web apps have become more prevalent because they work seamlessly on multiple devices. But as with any application, PWAs can be vulnerable to security threats, which can compromise user data and damage the reputation. It's natural to get excited about launching something",
+          "link": "https://www.freecodecamp.org/news/how-to-protect-your-pwa/",
+          "publishedOn": "2023-04-17T21:28:20.000Z",
+          "wordCount": 2132,
+          "title": "How to Protect Your PWA – Web App Security Best Practices",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pwa.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-machine-leaning-without-libraries-or-frameworks/",
+          "author": "Beau Carnes",
+          "description": "Are you ready to unravel the mysteries of machine learning algorithms and elevate your software development skills? Look no further!  We just published a machine learning course on the freeCodeCamp.org YouTube channel. This \"No Black Box\" Machine Learning Course in JavaScript offers a unique, hands-on approach to understanding machine",
+          "link": "https://www.freecodecamp.org/news/learn-machine-leaning-without-libraries-or-frameworks/",
+          "publishedOn": "2023-04-17T16:56:00.000Z",
+          "wordCount": 936,
+          "title": "Learn Machine Leaning without Libraries or Frameworks",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/radu.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/what-is-a-channel-in-conda/",
           "author": "Ihechikara Vincent Abba",
           "description": "When you install a package in Conda, it is downloaded and extracted from a remote directory using the directory's URL. The directory where these packages are stored is known as a channel. In this article, you'll learn what a channel is, how to use default channels, and how add new",
@@ -1398,6 +1418,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=124979",
+          "author": "Rachel Crowell",
+          "description": "On Mount Everest and in the Peruvian Andes, Tracie Seimon uses DNA to study how species and ecosystems respond to climate change, pathogens and other influences.            \nThe post She Tracks the DNA of Elusive Species That Hide in Harsh Places first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/she-tracks-the-dna-of-elusive-species-on-everest-and-in-the-andes-20230417/",
+          "publishedOn": "2023-04-17T15:00:27.000Z",
+          "wordCount": 9311,
+          "title": "She Tracks the DNA of Elusive Species That Hide in Harsh Places",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/04/TracieSeimon-bySashaMaslov-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=124937",
           "author": "Anil Ananthaswamy",

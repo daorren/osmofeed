@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-17T01:21:05.315Z</updated>
+    <updated>2023-04-18T01:19:41.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Protect Your PWA – Web App Security Best Practices]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-protect-your-pwa/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-protect-your-pwa/"/>
+        <updated>2023-04-17T21:28:20.000Z</updated>
+        <summary type="html"><![CDATA[Hey, everybody! I'm Rahul [https://fueler.io/rahoool]. In today's world, web apps have become more prevalent because they work seamlessly on multiple devices. But as with any application, PWAs can be vulnerable to security threats, which can compromise user data and damage the reputation. It's natural to get excited about launching something]]></summary>
+        <author>
+            <name>Rahul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Machine Leaning without Libraries or Frameworks]]></title>
+        <id>https://www.freecodecamp.org/news/learn-machine-leaning-without-libraries-or-frameworks/</id>
+        <link href="https://www.freecodecamp.org/news/learn-machine-leaning-without-libraries-or-frameworks/"/>
+        <updated>2023-04-17T16:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to unravel the mysteries of machine learning algorithms and elevate your software development skills? Look no further!  We just published a machine learning course on the freeCodeCamp.org YouTube channel. This "No Black Box" Machine Learning Course in JavaScript offers a unique, hands-on approach to understanding machine]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[She Tracks the DNA of Elusive Species That Hide in Harsh Places]]></title>
+        <id>https://www.quantamagazine.org/?p=124979</id>
+        <link href="https://www.quantamagazine.org/she-tracks-the-dna-of-elusive-species-on-everest-and-in-the-andes-20230417/"/>
+        <updated>2023-04-17T15:00:27.000Z</updated>
+        <summary type="html"><![CDATA[On Mount Everest and in the Peruvian Andes, Tracie Seimon uses DNA to study how species and ecosystems respond to climate change, pathogens and other influences.            
+The post She Tracks the DNA of Elusive Species That Hide in Harsh Places first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Rachel Crowell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — 🎩 Forms and background jobs]]></title>
         <id>6431f86a816f7ee0ed3a94a1</id>
