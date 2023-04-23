@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-22T01:21:09.950Z</updated>
+    <updated>2023-04-23T01:35:56.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -1919,109 +1919,6 @@ What would you do when you discover that a frog lives in your fenc…]]></summar
 The post The Symmetry That Makes Solving Math Equations Easy first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Patrick Honner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go on the Xbox?]]></title>
-        <id>https://golangweekly.com/issues/453</id>
-        <link href="https://golangweekly.com/issues/453"/>
-        <updated>2023-03-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​453 — March 24, 2023
-
-
-Unsub  |  Web Version
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-Make Your Go Programs Use Less Memory.. Maybe — betteralign is a tool to detect structs that would use less memory if their fields were sorted and to then, optionally, sort such fields. It’s a fork of Go’s own fieldalignment tool that skips generated or test files, skips specially marked structs, doesn’t drop comments, and similar DX enhancements.
-Dinko Korunic 
-
-
-  
-  
-Implementing a Generic Set Type — To celebrate the first anniversary of generics in Go (Go 1.18 was released in March 2022), John decided to build something useful with them: a generic Set type, complete with useful methods.
-John Arundel 
-
-
-  
-  
-Go! Experts at Your Service — Do you need help filling skill gaps, speeding up developm…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Where Contains String – Substring Query Example]]></title>
-        <id>https://www.freecodecamp.org/news/sql-where-contains-string-substring-query-example/</id>
-        <link href="https://www.freecodecamp.org/news/sql-where-contains-string-substring-query-example/"/>
-        <updated>2023-03-23T22:36:06.000Z</updated>
-        <summary type="html"><![CDATA[If you’re working with a database, whether large or small, there might be occasions when you need to search for some entries containing strings. In this article, I’ll show you how to locate strings and substrings in MySQL and SQL Server. I‘ll be using a table I call products_data in]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Reveal on Scroll in React using the Intersection Observer API]]></title>
-        <id>https://www.freecodecamp.org/news/reveal-on-scroll-in-react-using-the-intersection-observer-api/</id>
-        <link href="https://www.freecodecamp.org/news/reveal-on-scroll-in-react-using-the-intersection-observer-api/"/>
-        <updated>2023-03-23T22:20:44.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking for an elegant way to reveal content on your React website as users scroll down the page? Look no further than the Intersection Observer API. In this article, you’ll learn how to implement the reveal on scroll effect in React using Intersection Observer. This will allow you]]></summary>
-        <author>
-            <name>Jaja Ibifubara David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Remove from List – How to Remove an Item from a List in Python]]></title>
-        <id>https://www.freecodecamp.org/news/python-remove-from-list-how-to-remove-an-item-from-a-list-in-python-2/</id>
-        <link href="https://www.freecodecamp.org/news/python-remove-from-list-how-to-remove-an-item-from-a-list-in-python-2/"/>
-        <updated>2023-03-23T18:27:48.000Z</updated>
-        <summary type="html"><![CDATA[A list in Python is a collection of items that are ordered and changeable. It is one of the most versatile and frequently used data structures in Python.  A list can contain any type of data, such as integers, strings, floats, and even other lists. In Python, lists are]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Undo Git Add – How to Remove Added Files in Git]]></title>
-        <id>https://www.freecodecamp.org/news/undo-git-add-how-to-remove-added-files-in-git/</id>
-        <link href="https://www.freecodecamp.org/news/undo-git-add-how-to-remove-added-files-in-git/"/>
-        <updated>2023-03-23T18:27:08.000Z</updated>
-        <summary type="html"><![CDATA[Git is a powerful version control and collaboration tool. It allows developers to work together seamlessly on projects. But even the most experienced developers can make mistakes while using Git, such as accidentally adding files that were not meant to be committed. This can be a problem, especially if the]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wormhole Experiment Called Into Question]]></title>
-        <id>https://www.quantamagazine.org/?p=124189</id>
-        <link href="https://www.quantamagazine.org/wormhole-experiment-called-into-question-20230323/"/>
-        <updated>2023-03-23T14:27:36.000Z</updated>
-        <summary type="html"><![CDATA[Last fall, a team of physicists announced that they had teleported a qubit through a holographic wormhole in a quantum computer. Now another group suggests that’s not quite what happened.            
-The post Wormhole Experiment Called Into Question first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Charlie Wood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating a Directory in Python – How to Create a Folder]]></title>
-        <id>https://www.freecodecamp.org/news/creating-a-directory-in-python-how-to-create-a-folder/</id>
-        <link href="https://www.freecodecamp.org/news/creating-a-directory-in-python-how-to-create-a-folder/"/>
-        <updated>2023-03-23T13:39:03.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to create new directories (which is another name for folders) in Python. You will also learn how to create a nested directory structure. To work with directories in Python, you first need to include the os module in your project, which allows you]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
         </author>
     </entry>
 </feed>
