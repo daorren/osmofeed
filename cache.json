@@ -1350,26 +1350,6 @@
           "wordCount": 2584,
           "title": "How to Learn Different Tech Stacks IRL",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/ilya-pavlov-OqtafYT5kTw-unsplash-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/dataframe-to-csv-how-to-save-pandas-dataframes-by-exporting/",
-          "author": "Shittu Olumide",
-          "description": "Pandas is a widely used open-source library in Python for data manipulation and analysis. It provides a range of data structures and functions for working with data, one of which is the DataFrame.  DataFrames are a powerful tool for storing and analyzing large sets of data, but they can",
-          "link": "https://www.freecodecamp.org/news/dataframe-to-csv-how-to-save-pandas-dataframes-by-exporting/",
-          "publishedOn": "2023-03-24T18:06:00.000Z",
-          "wordCount": 1308,
-          "title": "Dataframe to CSV – How to Save Pandas Dataframes by Exporting",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Dataframe-to-CSV---How-to-Save-Pandas-Dataframes-by-Exporting.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/scroll-animations-with-javascript-intersection-observer-api/",
-          "author": "Mwendwa Bundi Emma",
-          "description": "Sometimes, when you visit a website, you'll notice that certain elements or a particular section gets revealed dynamically as you scroll.  It's like the contents of that particular section weren't available to view until you scrolled into the section – but now, because you're there, the website decides to",
-          "link": "https://www.freecodecamp.org/news/scroll-animations-with-javascript-intersection-observer-api/",
-          "publishedOn": "2023-03-24T17:42:18.000Z",
-          "wordCount": 1812,
-          "title": "How to Add Scroll Animations to a Page with JavaScript's Intersection Observer API",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/observer-api.png"
         }
       ]
     },
@@ -1557,16 +1537,6 @@
           "wordCount": 7638,
           "title": "Emmy Murphy Is a Mathematician Who Finds Beauty in Flexibility",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/03/EmmyMurphy-byCarolineGutman-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=123940",
-          "author": "Patrick Honner",
-          "description": "Learn why the quadratic formula works and why quadratics are easier to solve than cubics.            \nThe post The Symmetry That Makes Solving Math Equations Easy first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/the-symmetry-that-makes-solving-math-equations-easy-20230324/",
-          "publishedOn": "2023-03-24T14:54:29.000Z",
-          "wordCount": 7280,
-          "title": "The Symmetry That Makes Solving Math Equations Easy",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/03/Academy-March2023-byRobertNeubecker-Social.webp"
         }
       ]
     },
@@ -1575,6 +1545,16 @@
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
       "articles": [
+        {
+          "id": "643c6d922bf34910edc3aec5",
+          "author": "Assaf Arkin",
+          "description": "This week we prettify TS errors, go offline, celebrate 30 years of web browser, talk about trusts, experiment with 10 different GPTs, and travel up a space elevator.",
+          "link": "https://labnotes.org/weekend-reading-rapid-unscheduled-disassembly/",
+          "publishedOn": "2023-04-23T23:40:24.000Z",
+          "wordCount": 2012,
+          "title": "Weekend Reading — 🚀 Rapid unscheduled disassembly",
+          "imageUrl": "https://labnotes.org/content/images/2023/04/image-92-1.png"
+        },
         {
           "id": "6431f86a816f7ee0ed3a94a1",
           "author": "Assaf Arkin",
@@ -1622,6 +1602,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-99/",
+          "author": null,
+          "description": "Guten Tag! 👋\n\nDo you know what's new in ECMAScript 2023? Or are you still confused about all these CSS color spaces? Or want to learn how to shrink your custom web fonts?\nAll the answers and much more are included in this week's Web Weekly. 🫣\nThree weeks ago, I published a post getting into variable fonts, the Roboto font, and its GRAD axis that enables you to transition font weights without characters getting wider.\nThe post includes an interactive component to see the font feature in action. And this all worked perfectly, but I didn't feel great when I deployed it.\nWhy? Because I shipped a 780kB heavy Roboto font for a tiny demo component. That's five times my blog's overall page weight.\nSo I decided to squeeze out as many bytes of Roboto as possible, and guess what? I shrunk it down t…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-99/",
+          "publishedOn": "2023-04-22T22:00:00.000Z",
+          "wordCount": 2046,
+          "title": "Web Weekly #99 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
         {
           "id": "https://www.stefanjudis.com/notes/slice-an-app-to-remove-variable-font-axes/",
           "author": null,
