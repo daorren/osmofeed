@@ -12,6 +12,106 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-use-chatgpt-for-data-scientists/",
+          "author": "Shittu Olumide",
+          "description": "These days, many people are concerned with the way AI is evolving. They see it effortlessly solving problems, performing tasks quickly and accurately, and doing jobs easily and efficiently.  And while some people are scared, others are actually embracing it. I'm one of those people who are embracing it,",
+          "link": "https://www.freecodecamp.org/news/how-to-use-chatgpt-for-data-scientists/",
+          "publishedOn": "2023-04-24T23:01:14.000Z",
+          "wordCount": 2671,
+          "title": "How to Use ChatGPT – Prompts for Data Scientists",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Shittu-Olumide-How-to-use-ChatGPT-for-Data-Scientists.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/server-side-rendering-javascript/",
+          "author": "Scott Gary",
+          "description": "The concept of Server Side Rendering (SSR) is often misunderstood. So my aim in this article is to bring clarity to this process and how it works.  Here's what we'll cover in this guide:  1. What is server side rendering? What are its pros and cons when compared",
+          "link": "https://www.freecodecamp.org/news/server-side-rendering-javascript/",
+          "publishedOn": "2023-04-24T22:12:31.000Z",
+          "wordCount": 2573,
+          "title": "Server Side Rendering in JavaScript – SSR vs CSR Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-steve-johnson-12939554.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-are-pointers-in-go/",
+          "author": "Brian Barrow",
+          "description": "Coming from a language like JavaScript, pointers can be kind of confusing at first. Here I will break it down so that they are easier to understand. What Are Pointers in Go? Just like in JavaScript, Go has variables which are locations in memory that store a value.  In",
+          "link": "https://www.freecodecamp.org/news/what-are-pointers-in-go/",
+          "publishedOn": "2023-04-24T22:07:19.000Z",
+          "wordCount": 1192,
+          "title": "What are Pointers in Go? A Guide for JavaScript Devs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/kaleb-tapp-J59wWPn09BE-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/debugging-like-competitive-programmers/",
+          "author": "Alberto Gonzalez Rosales",
+          "description": "I've been a competitive programmer for many years. And during that time, I have faced the process of debugging on numerous occasions.  In this article, I will try to describe how debugging works in such environments, instead of depicting it in the regular software development activities we do every",
+          "link": "https://www.freecodecamp.org/news/debugging-like-competitive-programmers/",
+          "publishedOn": "2023-04-24T22:03:14.000Z",
+          "wordCount": 3195,
+          "title": "How to Debug Your Code Like a Competitive Programmer –Automate and Save Time",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/nathan-dumlao-Y3AqmbmtLQI-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-redux-toolkit-to-manage-state-in-react-apps/",
+          "author": "Quincy Oghenetejiri Ukumakube",
+          "description": "State management is one of the most important things you'll deal with in front end development.  You can manage state in React in various ways. Some examples include using state in class components, using React hooks such as useState and useEffect hook, using the Context API, or using Redux.",
+          "link": "https://www.freecodecamp.org/news/use-redux-toolkit-to-manage-state-in-react-apps/",
+          "publishedOn": "2023-04-24T21:38:24.000Z",
+          "wordCount": 2006,
+          "title": "How to Use Redux Toolkit to Manage State in Your React Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Freecodecamp-Banner.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-google-apps-script-build-a-paint-by-numbers-spreadsheet/",
+          "author": "Eamonn Cottrell",
+          "description": "Spreadsheets are great for financial modeling, but they're also capable of displaying pixel art.  In this Apps Script tutorial, we'll build a paint by numbers spreadsheet using conditional formatting and a script that \"paints\" a blank spreadsheet. You'll learn how to:  1. Import data  2. Apply proper",
+          "link": "https://www.freecodecamp.org/news/learn-google-apps-script-build-a-paint-by-numbers-spreadsheet/",
+          "publishedOn": "2023-04-24T21:12:07.000Z",
+          "wordCount": 2322,
+          "title": "Learn Google Apps Script – Build a Paint By Numbers Spreadsheet",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Google-Apps-Script-Paint-by-Numbers-Spreadsheet-final.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-react-router-6-3/",
+          "author": "Beau Carnes",
+          "description": "React Router is a powerful library that helps you build single-page applications with ease. It allows you to create multiple routes, nested routes, and handle transitions between them, all while maintaining a clean and organized codebase. We just published a course on the freeCodeCamp.org YouTube channel that will teach you",
+          "link": "https://www.freecodecamp.org/news/learn-react-router-6-3/",
+          "publishedOn": "2023-04-24T20:34:28.000Z",
+          "wordCount": 912,
+          "title": "Learn React Router 6 in Ten Hours",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/reactrouter.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-overcome-writers-block-and-boost-creativity/",
+          "author": "Ijeoma Igboagu",
+          "description": "Do you ever find yourself stuck when it comes to writing or unable to come up with creative solutions to a problem? Don’t worry—you are not alone. Everyone experiences writer's block or a lack of creativity at some point. At times, as writers, we may be really eager to write",
+          "link": "https://www.freecodecamp.org/news/how-to-overcome-writers-block-and-boost-creativity/",
+          "publishedOn": "2023-04-24T19:46:18.000Z",
+          "wordCount": 1937,
+          "title": "How to Boost Your Creativity – Strategies for Generating Ideas and Overcoming Writer's Block",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Boost-Your-Creativity-Tools-for-Generating-Ideas-and-Overcoming-Writer-s-Block---Presentation--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-access-and-read-ram-contents/",
+          "author": "Gursimar Singh",
+          "description": "This article is a comprehensive guide on how to read the contents of your computer's RAM.  Random Access Memory (RAM) is a crucial component of any computer system, and it is responsible for temporarily storing data that is required by the system to carry out its functions. But the",
+          "link": "https://www.freecodecamp.org/news/how-to-access-and-read-ram-contents/",
+          "publishedOn": "2023-04-24T19:31:18.000Z",
+          "wordCount": 3553,
+          "title": "What is RAM? How to Access Your Computer's RAM and Read the Contents",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/ram-article.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/introduction-to-data-vizualization-using-matplotlib/",
+          "author": "MENE-EJEGI OGBEMI",
+          "description": "SEE [https://tv.apple.com/us/show/see/umc.cmc.3s4mgg2y7h95fks9gnc4pw13m] is a beautiful Apple TV series that depicts a dystopia where humans have lost their sight. Hundreds of years later, it was considered a myth that people could ever see.  Jason Momoa is one of the leads and plays Baba Voss, an elite warrior. Jason's wife gives",
+          "link": "https://www.freecodecamp.org/news/introduction-to-data-vizualization-using-matplotlib/",
+          "publishedOn": "2023-04-24T18:32:32.000Z",
+          "wordCount": 2685,
+          "title": "Data Visualization with Matplotlib – a Step by Step Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/data-visualization-1.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/navigation-in-flutter/",
           "author": "Arunachalam B",
           "description": "Almost any app that you design or develop will use some type of navigation.  There are three types of navigation that are common to all apps – stack, tab, and drawer navigation. Flutter supports all three types, and implementing them is similar to how you do it in other",
@@ -1340,16 +1440,6 @@
           "wordCount": 1247,
           "title": "How to Set Up AWS Simple Email Service",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Blog-Banner---Template--3-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-learn-different-tech-stacks/",
-          "author": "Liz Johnson",
-          "description": "Over the last couple years, I've learned that being a consultant means you have to be able to learn new things quickly. At first, this was really scary to me. Now, as someone who has had to learn several new tech stacks over the last year, it’s still a little",
-          "link": "https://www.freecodecamp.org/news/how-to-learn-different-tech-stacks/",
-          "publishedOn": "2023-03-25T17:11:53.000Z",
-          "wordCount": 2584,
-          "title": "How to Learn Different Tech Stacks IRL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/ilya-pavlov-OqtafYT5kTw-unsplash-1.jpg"
         }
       ]
     },
@@ -1358,6 +1448,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=125213",
+          "author": "Theo Nicitopoulos",
+          "description": "A new analysis argues that ubiquitous eruptions in the sun’s corona explain the vast flow of charged particles seen streaming out through the solar system.            \nThe post Tiny Jets on the Sun Power the Colossal Solar Wind first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/tiny-jets-on-the-sun-power-the-colossal-solar-wind-20230424/",
+          "publishedOn": "2023-04-24T14:00:36.000Z",
+          "wordCount": 4555,
+          "title": "Tiny Jets on the Sun Power the Colossal Solar Wind",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/04/SolarWind-NASA-Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=125170",
           "author": "Kevin Hartnett",

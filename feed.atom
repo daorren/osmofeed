@@ -2,10 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-24T01:22:38.537Z</updated>
+    <updated>2023-04-25T01:22:12.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use ChatGPT – Prompts for Data Scientists]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-chatgpt-for-data-scientists/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-chatgpt-for-data-scientists/"/>
+        <updated>2023-04-24T23:01:14.000Z</updated>
+        <summary type="html"><![CDATA[These days, many people are concerned with the way AI is evolving. They see it effortlessly solving problems, performing tasks quickly and accurately, and doing jobs easily and efficiently.  And while some people are scared, others are actually embracing it. I'm one of those people who are embracing it,]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Server Side Rendering in JavaScript – SSR vs CSR Explained]]></title>
+        <id>https://www.freecodecamp.org/news/server-side-rendering-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/server-side-rendering-javascript/"/>
+        <updated>2023-04-24T22:12:31.000Z</updated>
+        <summary type="html"><![CDATA[The concept of Server Side Rendering (SSR) is often misunderstood. So my aim in this article is to bring clarity to this process and how it works.  Here's what we'll cover in this guide:  1. What is server side rendering? What are its pros and cons when compared]]></summary>
+        <author>
+            <name>Scott Gary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Pointers in Go? A Guide for JavaScript Devs]]></title>
+        <id>https://www.freecodecamp.org/news/what-are-pointers-in-go/</id>
+        <link href="https://www.freecodecamp.org/news/what-are-pointers-in-go/"/>
+        <updated>2023-04-24T22:07:19.000Z</updated>
+        <summary type="html"><![CDATA[Coming from a language like JavaScript, pointers can be kind of confusing at first. Here I will break it down so that they are easier to understand. What Are Pointers in Go? Just like in JavaScript, Go has variables which are locations in memory that store a value.  In]]></summary>
+        <author>
+            <name>Brian Barrow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Debug Your Code Like a Competitive Programmer –Automate and Save Time]]></title>
+        <id>https://www.freecodecamp.org/news/debugging-like-competitive-programmers/</id>
+        <link href="https://www.freecodecamp.org/news/debugging-like-competitive-programmers/"/>
+        <updated>2023-04-24T22:03:14.000Z</updated>
+        <summary type="html"><![CDATA[I've been a competitive programmer for many years. And during that time, I have faced the process of debugging on numerous occasions.  In this article, I will try to describe how debugging works in such environments, instead of depicting it in the regular software development activities we do every]]></summary>
+        <author>
+            <name>Alberto Gonzalez Rosales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Redux Toolkit to Manage State in Your React Application]]></title>
+        <id>https://www.freecodecamp.org/news/use-redux-toolkit-to-manage-state-in-react-apps/</id>
+        <link href="https://www.freecodecamp.org/news/use-redux-toolkit-to-manage-state-in-react-apps/"/>
+        <updated>2023-04-24T21:38:24.000Z</updated>
+        <summary type="html"><![CDATA[State management is one of the most important things you'll deal with in front end development.  You can manage state in React in various ways. Some examples include using state in class components, using React hooks such as useState and useEffect hook, using the Context API, or using Redux.]]></summary>
+        <author>
+            <name>Quincy Oghenetejiri Ukumakube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Google Apps Script – Build a Paint By Numbers Spreadsheet]]></title>
+        <id>https://www.freecodecamp.org/news/learn-google-apps-script-build-a-paint-by-numbers-spreadsheet/</id>
+        <link href="https://www.freecodecamp.org/news/learn-google-apps-script-build-a-paint-by-numbers-spreadsheet/"/>
+        <updated>2023-04-24T21:12:07.000Z</updated>
+        <summary type="html"><![CDATA[Spreadsheets are great for financial modeling, but they're also capable of displaying pixel art.  In this Apps Script tutorial, we'll build a paint by numbers spreadsheet using conditional formatting and a script that "paints" a blank spreadsheet. You'll learn how to:  1. Import data  2. Apply proper]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn React Router 6 in Ten Hours]]></title>
+        <id>https://www.freecodecamp.org/news/learn-react-router-6-3/</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-router-6-3/"/>
+        <updated>2023-04-24T20:34:28.000Z</updated>
+        <summary type="html"><![CDATA[React Router is a powerful library that helps you build single-page applications with ease. It allows you to create multiple routes, nested routes, and handle transitions between them, all while maintaining a clean and organized codebase. We just published a course on the freeCodeCamp.org YouTube channel that will teach you]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Boost Your Creativity – Strategies for Generating Ideas and Overcoming Writer's Block]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-overcome-writers-block-and-boost-creativity/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-overcome-writers-block-and-boost-creativity/"/>
+        <updated>2023-04-24T19:46:18.000Z</updated>
+        <summary type="html"><![CDATA[Do you ever find yourself stuck when it comes to writing or unable to come up with creative solutions to a problem? Don’t worry—you are not alone. Everyone experiences writer's block or a lack of creativity at some point. At times, as writers, we may be really eager to write]]></summary>
+        <author>
+            <name>Ijeoma Igboagu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is RAM? How to Access Your Computer's RAM and Read the Contents]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-access-and-read-ram-contents/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-access-and-read-ram-contents/"/>
+        <updated>2023-04-24T19:31:18.000Z</updated>
+        <summary type="html"><![CDATA[This article is a comprehensive guide on how to read the contents of your computer's RAM.  Random Access Memory (RAM) is a crucial component of any computer system, and it is responsible for temporarily storing data that is required by the system to carry out its functions. But the]]></summary>
+        <author>
+            <name>Gursimar Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Visualization with Matplotlib – a Step by Step Guide]]></title>
+        <id>https://www.freecodecamp.org/news/introduction-to-data-vizualization-using-matplotlib/</id>
+        <link href="https://www.freecodecamp.org/news/introduction-to-data-vizualization-using-matplotlib/"/>
+        <updated>2023-04-24T18:32:32.000Z</updated>
+        <summary type="html"><![CDATA[SEE [https://tv.apple.com/us/show/see/umc.cmc.3s4mgg2y7h95fks9gnc4pw13m] is a beautiful Apple TV series that depicts a dystopia where humans have lost their sight. Hundreds of years later, it was considered a myth that people could ever see.  Jason Momoa is one of the leads and plays Baba Voss, an elite warrior. Jason's wife gives]]></summary>
+        <author>
+            <name>MENE-EJEGI OGBEMI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiny Jets on the Sun Power the Colossal Solar Wind]]></title>
+        <id>https://www.quantamagazine.org/?p=125213</id>
+        <link href="https://www.quantamagazine.org/tiny-jets-on-the-sun-power-the-colossal-solar-wind-20230424/"/>
+        <updated>2023-04-24T14:00:36.000Z</updated>
+        <summary type="html"><![CDATA[A new analysis argues that ubiquitous eruptions in the sun’s corona explain the vast flow of charged particles seen streaming out through the solar system.            
+The post Tiny Jets on the Sun Power the Colossal Solar Wind first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Theo Nicitopoulos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — 🚀 Rapid unscheduled disassembly]]></title>
         <id>643c6d922bf34910edc3aec5</id>
@@ -1905,16 +2016,6 @@ Something that made me smile this week
 What would you do when you discover that a frog lives in your fenc…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Learn Different Tech Stacks IRL]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-learn-different-tech-stacks/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-learn-different-tech-stacks/"/>
-        <updated>2023-03-25T17:11:53.000Z</updated>
-        <summary type="html"><![CDATA[Over the last couple years, I've learned that being a consultant means you have to be able to learn new things quickly. At first, this was really scary to me. Now, as someone who has had to learn several new tech stacks over the last year, it’s still a little]]></summary>
-        <author>
-            <name>Liz Johnson</name>
         </author>
     </entry>
 </feed>
