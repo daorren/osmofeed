@@ -12,6 +12,86 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/what-is-java-used-for/",
+          "author": "Shittu Olumide",
+          "description": "Java is a very popular programming language you can use to create a variety of software applications. It's an object-oriented language that was made to be simple to read, write, and learn.  Millions of developers use Java to create everything from desktop programs to sophisticated web apps. This makes",
+          "link": "https://www.freecodecamp.org/news/what-is-java-used-for/",
+          "publishedOn": "2023-04-25T21:26:57.000Z",
+          "wordCount": 1579,
+          "title": "What is Java Used For in 2023? The Java Programming Language and Java Platform Strengths",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Shittu-Olumide-What-is-Java-Used-For-in-2022-The-Java-Programming-Language-and-Java-Platform-Strengths-3.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/supercharged-studying-with-python-anki-chatgpt/",
+          "author": "Otavio Ehrenberger",
+          "description": "You may have heard how students can use ChatGPT [https://chat.openai.com] to cheat on assignments. But we should also talk about what a fantastic study tool it can be.  In this article we'll discuss how you can use ChatGPT to help you study and learn new skills. You'll see how",
+          "link": "https://www.freecodecamp.org/news/supercharged-studying-with-python-anki-chatgpt/",
+          "publishedOn": "2023-04-25T20:35:46.000Z",
+          "wordCount": 2505,
+          "title": "How to Supercharge Your Studying with Python, Anki, and ChatGPT",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-pixabay-256302.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/insert-into-javascript-array-at-specific-index/",
+          "author": "Joel Olawanle",
+          "description": "JavaScript arrays are an important part of the language. They allow you to store and manipulate collections of data. Sometimes, you may need to insert a new element into an array at a specific index. To accomplish this task, you can use the push() method or the splice()  method.",
+          "link": "https://www.freecodecamp.org/news/insert-into-javascript-array-at-specific-index/",
+          "publishedOn": "2023-04-25T18:14:43.000Z",
+          "wordCount": 1488,
+          "title": "How to Insert into a JavaScript Array at a Specific Index – JS Push",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/cover-template--11-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/zustand-course-react-state-management/",
+          "author": "Beau Carnes",
+          "description": "Modern web applications demand efficient and easy-to-use state management solutions that don't compromise on flexibility or performance. Zustand, a minimalistic state management library for React, offers just that. We just released a course on the freeCodeCamp.org YouTube channel that will help you unlock the full potential of Zustand and create",
+          "link": "https://www.freecodecamp.org/news/zustand-course-react-state-management/",
+          "publishedOn": "2023-04-25T17:21:39.000Z",
+          "wordCount": 914,
+          "title": "Mastering Zustand: A Simple and Efficient State Management Library for React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/zustand.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-upload-files-to-aws-s3-with-node/",
+          "author": "Fiyinfoluwa Akinsiku",
+          "description": "File upload is a common feature in a lot of modern applications. These platforms accept different file formats, including jpeg, png, gif, pdf, txt, zip, and mp3.  Some applications will also restrict uploads to a specific file type. For example, when uploading your resume on LinkedIn, you will see",
+          "link": "https://www.freecodecamp.org/news/how-to-upload-files-to-aws-s3-with-node/",
+          "publishedOn": "2023-04-25T16:31:46.000Z",
+          "wordCount": 3276,
+          "title": "How to Upload Files to Amazon S3 with Node.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-cottonbro-studio-3584994.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-an-interactive-accordion-component-with-react-and-gsap/",
+          "author": "Jaja Ibifubara David",
+          "description": "As websites become more sophisticated and user expectations continue to rise, web developers must search for ways to create more engaging and interactive user interfaces.  One powerful tool in a developer's arsenal is the accordion component, a versatile and widely-used element found on nearly every website.  In this",
+          "link": "https://www.freecodecamp.org/news/build-an-interactive-accordion-component-with-react-and-gsap/",
+          "publishedOn": "2023-04-25T15:47:34.000Z",
+          "wordCount": 4778,
+          "title": "How to Build an Interactive Accordion Component with React and GSAP",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Cover-image-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/large-language-models-and-cybersecurity/",
+          "author": "Daniel Iwugo",
+          "description": "ChatGPT has had well over a billion visits since its release. Now, what happens when you combine the greatest language learning model of the decade with malicious hacking...what could go wrong? 💀 In this article, we'll explore what artificial intelligence is, its current state, how large language models like ChatGPT",
+          "link": "https://www.freecodecamp.org/news/large-language-models-and-cybersecurity/",
+          "publishedOn": "2023-04-25T01:03:55.000Z",
+          "wordCount": 3219,
+          "title": "Large Language Models and Cybersecurity – What You Should Know",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/image-228-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-get-the-current-url-with-javascript/",
+          "author": "Joel Olawanle",
+          "description": "If you're a web developer, you'll work with JavaScript when building dynamic and interactive web applications. One common task that you'll need to perform is getting the current URL of a web page. In this article, you will learn how to get the current URL using JavaScript's Location object. I'll",
+          "link": "https://www.freecodecamp.org/news/how-to-get-the-current-url-with-javascript/",
+          "publishedOn": "2023-04-25T00:34:45.000Z",
+          "wordCount": 1308,
+          "title": "How to Get the Current URL with JavaScript – JS Location Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/cover-template--10-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-use-chatgpt-for-data-scientists/",
           "author": "Shittu Olumide",
           "description": "These days, many people are concerned with the way AI is evolving. They see it effortlessly solving problems, performing tasks quickly and accurately, and doing jobs easily and efficiently.  And while some people are scared, others are actually embracing it. I'm one of those people who are embracing it,",
@@ -1449,6 +1529,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=125251",
+          "author": "Anna Funk",
+          "description": "A new, deeper understanding of how the breeding structure of species affects their genetic diversity is giving conservationists better tools for saving animals.            \nThe post How Pools of Genetic Diversity Affect a Species’ Fate first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-pools-of-genetic-diversity-affect-a-species-fate-20230425/",
+          "publishedOn": "2023-04-25T14:00:58.000Z",
+          "wordCount": 8414,
+          "title": "How Pools of Genetic Diversity Affect a Species’ Fate",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/04/Subspecies-bySamanthaMash-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=125213",
           "author": "Theo Nicitopoulos",
           "description": "A new analysis argues that ubiquitous eruptions in the sun’s corona explain the vast flow of charged particles seen streaming out through the solar system.            \nThe post Tiny Jets on the Sun Power the Colossal Solar Wind first appeared on Quanta Magazine",
@@ -1684,16 +1774,6 @@
           "wordCount": 1416,
           "title": "Weekend Reading — Everybody so creative",
           "imageUrl": "https://labnotes.org/content/images/2023/04/Untitled-7.png"
-        },
-        {
-          "id": "641781c06d1e07805afc58cb",
-          "author": "Assaf Arkin",
-          "description": "This week we test Remix streaming SSR, use GPT for scraping, design for ADHD, plug into ChatGPT, and visit the video game museum.",
-          "link": "https://labnotes.org/weekend-reading-be-someones-reason-to-roll-their-eyes/",
-          "publishedOn": "2023-03-26T22:03:35.000Z",
-          "wordCount": 2048,
-          "title": "Weekend Reading — 🙄 Be someone's reason to roll their eyes",
-          "imageUrl": "https://labnotes.org/content/images/2023/03/SCR-20230326-neym.png"
         }
       ]
     },
@@ -1781,16 +1861,6 @@
           "wordCount": 1561,
           "title": "New on the web: How to detect disabled JavaScript in CSS (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:New%20on%20the%20web%3A%20How%20to%20detect%20disabled%20JavaScript%20in%20CSS/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-96/",
-          "author": null,
-          "description": "Guten Tag! 👋\n\nHave you ever used the @counter-style CSS at-rule? Or did you know that there's a new HTML element in town? Or that align-items: last baseline is a thing now?\nAll the answers and much more are included in this week's Web Weekly. 🫣\nHow many HTML elements are out there today? A while ago, folks were playing this little game, and it's surprisingly hard to name the 114 possible answers.\nAnd now there's one more! My friend, let me introduce you to the search element! 👏\nI still need to look into the specifics, and it's implemented nowhere yet, but if you want to get ready, here's the updated spec, and Scott O'Hara also explains what it's about.\nYay, HTML just got better! 👏\nSomething that made me smile this week\n\nWhat would you do when you discover that a frog lives in your fenc…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-96/",
-          "publishedOn": "2023-03-26T22:00:00.000Z",
-          "wordCount": 1964,
-          "title": "Web Weekly #96 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
     },
@@ -1799,6 +1869,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/457",
+          "author": null,
+          "description": "#​457 — April 25, 2023\n\n\nUnsub  |  Web Version\n\n\n\nGo Weekly\n\n\n\n\n  \n\n\n\n\n\n  \n  \nHow to Troubleshoot Memory Leaks with Grafana Pyroscope — Explore common causes of memory leaks in Go and learn to use Pyroscope, an open source continuous profiling solution, itself written in Go, to find and fix such leaks.\nCyril Tovena (Grafana Labs) \n\n\n  \n  \nGo Integration Testing with Courage and Coverage — A tale of integrating test coverage tracking into an active Go project as part of pushing the overall coverage from a worrying 50% to a somewhat better 76%. Go 1.20’s new coverage profiling support is also showcased.\nVladimir Dementyev \n\n\n  \n  \nAdd a Full-Featured Notification Center to Your Go App in Minutes — With out-of-box user preferences and inbox, comprehensive API, web-based template designer, and…",
+          "link": "https://golangweekly.com/issues/457",
+          "publishedOn": "2023-04-25T00:00:00.000Z",
+          "wordCount": 820,
+          "title": "Test gains and memory drains",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/456",
           "author": null,
