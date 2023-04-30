@@ -1360,56 +1360,6 @@
           "wordCount": 1220,
           "title": "Comments Inside JSON – Commenting in a JSON File",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-template--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-include-empty-string-in-regex/",
-          "author": "Kolade Chris",
-          "description": "Regular expressions (RegEx or RegExp for short) are a sequence of characters that define a search pattern. You can use them to search, replace, and validate the strings of a text in a wide variety of applications, such as text editors, developer tools, and command line tools. RegEx is also",
-          "link": "https://www.freecodecamp.org/news/how-to-include-empty-string-in-regex/",
-          "publishedOn": "2023-03-31T11:50:00.000Z",
-          "wordCount": 1178,
-          "title": "How to Include an Empty String in RegEx",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/start-graph--7-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-email-validation-api-for-flask-user-authentication/",
-          "author": "Ashutosh Krishna",
-          "description": "In today's digital world, online security is really important, and user authentication is a key aspect of it.  Email-based authentication [https://ashutoshkrris.hashnode.dev/how-to-set-up-email-verification-in-a-flask-app]  is one of the most popular and widely used methods for user registration and login. But it's not always reliable, as users can enter fake or invalid",
-          "link": "https://www.freecodecamp.org/news/how-to-use-email-validation-api-for-flask-user-authentication/",
-          "publishedOn": "2023-03-30T22:22:39.000Z",
-          "wordCount": 2597,
-          "title": "How to Use an Email Validation Service for Flask User Authentication",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/email-validation-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-integrate-chart-js-in-angular-using-data-from-a-rest-api/",
-          "author": "Deji Adesoga",
-          "description": "Charts are a great way of visually displaying large sets of data in formats that are easy to understand and analyze. They are a great way of showing the relationship that exists between two or more data sets.  Different types of charts exist, some of which includes bar chart,",
-          "link": "https://www.freecodecamp.org/news/how-to-integrate-chart-js-in-angular-using-data-from-a-rest-api/",
-          "publishedOn": "2023-03-30T15:54:23.000Z",
-          "wordCount": 2379,
-          "title": "How to Integrate Chart.js in Angular Using Data from a REST API",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Copy-of-Copy-of-Orange-and-White-Vibrant-Food-YouTube-Thumbnail--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-implement-bubble-sort-algorithm-with-javascript/",
-          "author": "Joel Olawanle",
-          "description": "Sorting is an essential task in programming, and the bubble sort algorithm is one of the simplest and most commonly used methods. As a beginner in solving algorithm questions or preparing for an interview, you might wonder how to implement this algorithm effectively. Don't worry; in this article, I will",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-bubble-sort-algorithm-with-javascript/",
-          "publishedOn": "2023-03-30T15:34:25.000Z",
-          "wordCount": 1743,
-          "title": "How To Implement Bubble Sort Algorithm With JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-template--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-chatgpt-to-build-a-regex-generator/",
-          "author": "Beau Carnes",
-          "description": "Are you tired of spending hours writing complex Regular Expressions (RegEx) to manipulate strings? Do you want to learn how to build a RegEx generator quickly and easily? Then this course is for you! We just published a course on the freeCodeCamp.org YouTube channel that will teach you build a",
-          "link": "https://www.freecodecamp.org/news/use-chatgpt-to-build-a-regex-generator/",
-          "publishedOn": "2023-03-30T13:33:02.000Z",
-          "wordCount": 918,
-          "title": "Use ChatGPT to Build a Low Code RegEx Generator",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/maxresdefault.jpeg"
         }
       ]
     },
@@ -1597,16 +1547,6 @@
           "wordCount": 4898,
           "title": "How Randomness Improves Algorithms",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/04/RandomnessFollowUp-byKristinaArmitage-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=124466",
-          "author": "Jake Buehler",
-          "description": "A novel type of “jumping gene” may explain why the genomes of complex cells aren’t all equally stuffed with noncoding sequences.            \nThe post How a DNA ‘Parasite’ May Have Fragmented Our Genes first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-a-dna-parasite-may-have-fragmented-our-genes-20230330/",
-          "publishedOn": "2023-03-30T15:31:27.000Z",
-          "wordCount": 8079,
-          "title": "How a DNA ‘Parasite’ May Have Fragmented Our Genes",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/03/Introners-bySenorSalme-Social.webp"
         }
       ]
     },
@@ -1731,16 +1671,6 @@
           "wordCount": 2020,
           "title": "Web Weekly #97 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/how-to-detect-disabled-javascript-in-css/",
-          "author": null,
-          "description": "How many people actively disable JavaScript in their browsers? I couldn't find any recent stats to answer this question, but if my memory doesn't fail me, it's only a tiny fraction of the overall web traffic (below 1%).\nAnd that's no surprise. Have you tried using the web without JS? If so, I doubt you've come very far. JavaScript drives everything from small widgets and form validation to full-fledged all-in JS sites.\nKeep in mind that disabled JavaScript is not the primary reason why applications break. As the friends at GOV.UK rightfully say there are plenty of reasons why JavaScript fails. A browser extension could block it, the visitor might be on a flaky network, there could be a DNS issue, ... the possibilities are endless.\nThat's why progressive enhancement should be at the core of…",
-          "link": "https://www.stefanjudis.com/blog/how-to-detect-disabled-javascript-in-css/",
-          "publishedOn": "2023-03-30T22:00:00.000Z",
-          "wordCount": 1561,
-          "title": "New on the web: How to detect disabled JavaScript in CSS (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:New%20on%20the%20web%3A%20How%20to%20detect%20disabled%20JavaScript%20in%20CSS/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
@@ -1777,16 +1707,6 @@
           "publishedOn": "2023-04-11T00:00:00.000Z",
           "wordCount": 954,
           "title": "The smallest Go binary",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/454",
-          "author": null,
-          "description": "#​454 — March 31, 2023\n\n\nUnsub  |  Web Version\n\n\n\nℹ️ A quick scheduling note: The Go Weekly Newsletter is moving to Tuesdays. As such, the newsletter will be taking a break next week and we will be back in your inbox on Tuesday April 11, 2023. Thanks for reading, and we'll see you then.\n__\nPeter Cooper, Editor\n\n\n    \n    \n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nSwissMap: A Smaller, Faster Hash Table for Go — The creators of the DoltDB database have open-sourced SwissMap, a Go port of a hash map from Google’s Abseil library. It uses less memory than Go’s built-in map and is well-suited for performance-sensitive contexts where memory use for large hash tables is a concern – though, as always, there are tradeoffs to consider. (GitHub repo.)\nAndy Arthur (DoltHub) \n\n\n  \n  \n🎂  Go 1 Released…",
-          "link": "https://golangweekly.com/issues/454",
-          "publishedOn": "2023-03-31T00:00:00.000Z",
-          "wordCount": 938,
-          "title": "'Til Tuesday",
           "imageUrl": null
         }
       ]

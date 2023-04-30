@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-29T01:20:37.988Z</updated>
+    <updated>2023-04-30T01:25:48.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -1880,124 +1880,6 @@ From the category of absolute nonsense, here …]]></summary>
         <summary type="html"><![CDATA[JSON (JavaScript Object Notation) is a popular data interchange format used in web development and mobile applications due to its simplicity and flexibility. But JSON files do not officially support comments. This makes providing additional context or explanation for the data challenging. This article will show you how to include]]></summary>
         <author>
             <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Include an Empty String in RegEx]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-include-empty-string-in-regex/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-include-empty-string-in-regex/"/>
-        <updated>2023-03-31T11:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Regular expressions (RegEx or RegExp for short) are a sequence of characters that define a search pattern. You can use them to search, replace, and validate the strings of a text in a wide variety of applications, such as text editors, developer tools, and command line tools. RegEx is also]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Til Tuesday]]></title>
-        <id>https://golangweekly.com/issues/454</id>
-        <link href="https://golangweekly.com/issues/454"/>
-        <updated>2023-03-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​454 — March 31, 2023
-
-
-Unsub  |  Web Version
-
-
-
-ℹ️ A quick scheduling note: The Go Weekly Newsletter is moving to Tuesdays. As such, the newsletter will be taking a break next week and we will be back in your inbox on Tuesday April 11, 2023. Thanks for reading, and we'll see you then.
-__
-Peter Cooper, Editor
-
-
-    
-    
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-SwissMap: A Smaller, Faster Hash Table for Go — The creators of the DoltDB database have open-sourced SwissMap, a Go port of a hash map from Google’s Abseil library. It uses less memory than Go’s built-in map and is well-suited for performance-sensitive contexts where memory use for large hash tables is a concern – though, as always, there are tradeoffs to consider. (GitHub repo.)
-Andy Arthur (DoltHub) 
-
-
-  
-  
-🎂  Go 1 Released…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use an Email Validation Service for Flask User Authentication]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-email-validation-api-for-flask-user-authentication/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-email-validation-api-for-flask-user-authentication/"/>
-        <updated>2023-03-30T22:22:39.000Z</updated>
-        <summary type="html"><![CDATA[In today's digital world, online security is really important, and user authentication is a key aspect of it.  Email-based authentication [https://ashutoshkrris.hashnode.dev/how-to-set-up-email-verification-in-a-flask-app]  is one of the most popular and widely used methods for user registration and login. But it's not always reliable, as users can enter fake or invalid]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New on the web: How to detect disabled JavaScript in CSS (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/how-to-detect-disabled-javascript-in-css/</id>
-        <link href="https://www.stefanjudis.com/blog/how-to-detect-disabled-javascript-in-css/"/>
-        <updated>2023-03-30T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How many people actively disable JavaScript in their browsers? I couldn't find any recent stats to answer this question, but if my memory doesn't fail me, it's only a tiny fraction of the overall web traffic (below 1%).
-And that's no surprise. Have you tried using the web without JS? If so, I doubt you've come very far. JavaScript drives everything from small widgets and form validation to full-fledged all-in JS sites.
-Keep in mind that disabled JavaScript is not the primary reason why applications break. As the friends at GOV.UK rightfully say there are plenty of reasons why JavaScript fails. A browser extension could block it, the visitor might be on a flaky network, there could be a DNS issue, ... the possibilities are endless.
-That's why progressive enhancement should be at the core of…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Integrate Chart.js in Angular Using Data from a REST API]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-integrate-chart-js-in-angular-using-data-from-a-rest-api/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-integrate-chart-js-in-angular-using-data-from-a-rest-api/"/>
-        <updated>2023-03-30T15:54:23.000Z</updated>
-        <summary type="html"><![CDATA[Charts are a great way of visually displaying large sets of data in formats that are easy to understand and analyze. They are a great way of showing the relationship that exists between two or more data sets.  Different types of charts exist, some of which includes bar chart,]]></summary>
-        <author>
-            <name>Deji Adesoga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Implement Bubble Sort Algorithm With JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-implement-bubble-sort-algorithm-with-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-bubble-sort-algorithm-with-javascript/"/>
-        <updated>2023-03-30T15:34:25.000Z</updated>
-        <summary type="html"><![CDATA[Sorting is an essential task in programming, and the bubble sort algorithm is one of the simplest and most commonly used methods. As a beginner in solving algorithm questions or preparing for an interview, you might wonder how to implement this algorithm effectively. Don't worry; in this article, I will]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How a DNA ‘Parasite’ May Have Fragmented Our Genes]]></title>
-        <id>https://www.quantamagazine.org/?p=124466</id>
-        <link href="https://www.quantamagazine.org/how-a-dna-parasite-may-have-fragmented-our-genes-20230330/"/>
-        <updated>2023-03-30T15:31:27.000Z</updated>
-        <summary type="html"><![CDATA[A novel type of “jumping gene” may explain why the genomes of complex cells aren’t all equally stuffed with noncoding sequences.            
-The post How a DNA ‘Parasite’ May Have Fragmented Our Genes first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Jake Buehler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use ChatGPT to Build a Low Code RegEx Generator]]></title>
-        <id>https://www.freecodecamp.org/news/use-chatgpt-to-build-a-regex-generator/</id>
-        <link href="https://www.freecodecamp.org/news/use-chatgpt-to-build-a-regex-generator/"/>
-        <updated>2023-03-30T13:33:02.000Z</updated>
-        <summary type="html"><![CDATA[Are you tired of spending hours writing complex Regular Expressions (RegEx) to manipulate strings? Do you want to learn how to build a RegEx generator quickly and easily? Then this course is for you! We just published a course on the freeCodeCamp.org YouTube channel that will teach you build a]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
