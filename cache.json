@@ -12,6 +12,76 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/get-started-with-nodejs/",
+          "author": "Krish Jaiswal",
+          "description": "Hello folks! 👋 Over the past couple weeks, I have been learning about Node.js. So I decided to share my learnings with you here. 👨‍💻 In this tutorial, we'll take a high-level look at Node.js [https://twitter.com/nodejs] – what it is, and what can you do with it.  We will",
+          "link": "https://www.freecodecamp.org/news/get-started-with-nodejs/",
+          "publishedOn": "2023-05-02T18:25:47.000Z",
+          "wordCount": 9534,
+          "title": "How to Get Started with NodeJS – a Handbook for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/e5aa6e1c-fe02-4e17-bdb1-1622b97831e6.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/understanding-vpc-architecture-securing-aws-ec2-instances/",
+          "author": "David Clinton",
+          "description": "AWS Virtual Private Clouds (VPCs) are the organizing structure of most AWS network operations. Without a clear understanding of how they work, it'll be hard to get security and efficiency quite right.  But before talking about VPCs directly, I'm going to take a minute or two to refresh your",
+          "link": "https://www.freecodecamp.org/news/understanding-vpc-architecture-securing-aws-ec2-instances/",
+          "publishedOn": "2023-05-02T13:33:22.000Z",
+          "wordCount": 1792,
+          "title": "Understanding VPC Architecture – How to Secure AWS EC2 Instances",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-sevenstorm-juhaszimrus-425160.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ssh-meaning-in-linux/",
+          "author": "Shittu Olumide",
+          "description": "Secure Shell (SSH) is a widely used network protocol that provides a secure way to access remote servers and computers.  In Linux, SSH is an essential tool for remote administration and file transfer. In this article, we will go over the meaning of SSH in Linux, its history, features,",
+          "link": "https://www.freecodecamp.org/news/ssh-meaning-in-linux/",
+          "publishedOn": "2023-05-02T13:29:50.000Z",
+          "wordCount": 1665,
+          "title": "What is SSH? SSH Meaning in Linux",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Shittu-Olumide-What-is-SSH-SSH-Meaning-in-Linux.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/building-consuming-and-documenting-a-graphql-api/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this tutorial we're going to take a deep dive into GraphQL APIs. I recently wrote this article [/news/rest-vs-graphql-apis/] where I explained the main differences between common API types nowadays. And this tutorial aims to show you an example of how you can fully implement a GraphQL API.",
+          "link": "https://www.freecodecamp.org/news/building-consuming-and-documenting-a-graphql-api/",
+          "publishedOn": "2023-05-02T13:23:30.000Z",
+          "wordCount": 9114,
+          "title": "The GraphQL API Handbook – How to Build, Test, Consume and Document GraphQL APIs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/jj-ying-8bghKxNU1j0-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-stress-tester-debugging-tool/",
+          "author": "Alberto Gonzalez Rosales",
+          "description": "I recently wrote about how competitive programmers debug their solutions during competitions [/news/debugging-like-competitive-programmers/]. We take advantage of randomization and the computing power in the devices we use daily.  That article was selected as one of the winners of the DebuggingFeb Writeathon [https://townhall.hashnode.com/debuggingfeb-writeathon-winners] and got a lot of visibility from",
+          "link": "https://www.freecodecamp.org/news/build-a-stress-tester-debugging-tool/",
+          "publishedOn": "2023-05-02T08:57:35.000Z",
+          "wordCount": 3091,
+          "title": "How to Build a Stress Tester Tool for Debugging Your Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/nathan-dumlao-pMW4jzELQCw-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-routing-system-in-php/",
+          "author": "Abel Lifaefi Mbula",
+          "description": "If you’re just at the beginning of your journey in PHP development, chances are that you use complete file names in the URL to navigate your application, like  server/contact.php. No worries, we all started that way, and it’s how we learn. Today, I want to help you improve how",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-routing-system-in-php/",
+          "publishedOn": "2023-05-02T08:36:11.000Z",
+          "wordCount": 1838,
+          "title": "How to Build a Routing System for a PHP App from Scratch",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Pink-8-March-Happy-Woman-s-Day-Facebook-Post-1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/object-oriented-programming-basics-oop-classes-and-objects-in-java/",
+          "author": "Avdhoot Fulsundar",
+          "description": "Java is a powerful programming language to develop software in. And if you're trying to learn it, that's great. The first thing you'll need to know to develop software in Java is Object Oriented Programming, or OOP for short. Now if you're asking yourself, \"What is OOP?\" don't worry. We'll",
+          "link": "https://www.freecodecamp.org/news/object-oriented-programming-basics-oop-classes-and-objects-in-java/",
+          "publishedOn": "2023-05-02T07:33:30.000Z",
+          "wordCount": 1760,
+          "title": "Object Oriented Programming Basics – OOP, Classes, and Objects in Java",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Gradient-Modern-Digital-Marketing-Facebook-Cover--51-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-add-a-multiline-comment-in-yaml/",
           "author": "Ihechikara Vincent Abba",
           "description": "You can use a YAML file to store data in a format that can be easily read and understood by humans. It is a data serialization language [/news/what-is-yaml-the-yml-file-format/#intro:~:text=Serialization%20is%20a%20process%20where%20one%20application%20or%20service%20that%20has%20different%20data%20structures%20and%20is%20written%20in%20a%20different%20set%20of%20technologies%20can%20transfer%20data%20to%20another%20application%20using%20a%20standard%20format.]  that is often used for configurat",
@@ -1339,6 +1409,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=125423",
+          "author": "Leila Sloman",
+          "description": "Four mathematicians have found a new upper limit to the “Ramsey number,” a crucial property describing unavoidable structure in graphs.            \nThe post A Very Big Small Leap Forward in Graph Theory first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/after-nearly-a-century-a-new-limit-for-patterns-in-graphs-20230502/",
+          "publishedOn": "2023-05-02T14:05:10.000Z",
+          "wordCount": 9055,
+          "title": "A Very Big Small Leap Forward in Graph Theory",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/05/RamseyImprovement-byDVDP-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=125393",
           "author": "Wynne Parry",
           "description": "After decades of frustration, researchers have finally determined how an airborne scent molecule links to a human smell receptor.            \nThe post How a Human Smell Receptor Works Is Finally Revealed first appeared on Quanta Magazine",
@@ -1574,16 +1654,6 @@
           "wordCount": 1924,
           "title": "Weekend Reading — 🧑‍🎨 Minium viable design",
           "imageUrl": "https://labnotes.org/content/images/2023/04/wargames_chess_request-transformed.jpeg"
-        },
-        {
-          "id": "6420c1ca6d1e07805afc7304",
-          "author": "Assaf Arkin",
-          "description": "This week a special section all about bicycles, John Wick on npm, LED regret, AI writes our regular expressions, and what high-tech sector protest looks like.",
-          "link": "https://labnotes.org/weekend-reading-everybody-so-creative/",
-          "publishedOn": "2023-04-02T21:15:02.000Z",
-          "wordCount": 1416,
-          "title": "Weekend Reading — Everybody so creative",
-          "imageUrl": "https://labnotes.org/content/images/2023/04/Untitled-7.png"
         }
       ]
     },
@@ -1671,16 +1741,6 @@
           "wordCount": 2220,
           "title": "The relative font weight axis — how variable fonts ease font weight transitions (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:The%20relative%20font%20weight%20axis%20%E2%80%94%20how%20variable%20fonts%20ease%20font%20weight%20transitions/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-97/",
-          "author": null,
-          "description": "Guten Tag! 👋\n\nHave you ever used the box-decoration-break CSS property? Or did you know that there's a beforematch JavaScript event? Or that you can use TypeScript features in vanilla JavaScript?\nAll the answers and much more are included in this week's Web Weekly. 🫣\nBefore I get into my favorite web dev resources this week, I want to give a huge shoutout to my supporters on Patreon. I passed the threshold and am not paying for sending this newsletter anymore. 😅\nAnd a special thanks goes to Paul Kinlan and Eli Schei for supporting Web Weekly on a higher tier.\nBy now, 3.5k people get this email every week, which is almost a bit scary.\nThank you for reading along and being part of the Web Weekly crew! 💙\nSomething that made me smile this week\n\nFrom the category of absolute nonsense, here …",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-97/",
-          "publishedOn": "2023-04-02T22:00:00.000Z",
-          "wordCount": 2020,
-          "title": "Web Weekly #97 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
     },
@@ -1689,6 +1749,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/458",
+          "author": null,
+          "description": "#​458 — May 2, 2023\n\n\nUnsub  |  Web Version\n\n\n\nGo Weekly\n\n\n\n\n  \n\n\n\n\n\n  \n  \nRueidis 1.0: A Fast Redis Client with Caching — Endorsed enough to now be in the official Redis GitHub org at least, this is a Redis client focused on performance with auto-pipelining of non blocking commands, client-side caching implemented in the preferred way, and support for Redis’s official extensions. The only tricky part is how to pronounce it.\nRueian \n\n\n  \n  \nWriting an OS in Go: The Bootloader — Warning: Low-level gophers digging in the sandbox here :-) This is the self described ‘hello world’ of operating system development, and the first step in what promises to be a long but fascinating journey for the author.\nTotallyGamerJet \n\n\n  \n  \nHow to Add OpenTelemetry to Your Go Apps in Minutes — If you’ve consid…",
+          "link": "https://golangweekly.com/issues/458",
+          "publishedOn": "2023-05-02T00:00:00.000Z",
+          "wordCount": 766,
+          "title": "Writing an OS in Go?",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/457",
           "author": null,
