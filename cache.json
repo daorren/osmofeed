@@ -12,6 +12,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-use-elastic-beanstalk-to-deploy-node-js-app/",
+          "author": "Arunachalam B",
+          "description": "Building and managing applications on the cloud can be a daunting task. This is especially true when it comes to handling different environments, scaling, and deploying updates.  But there's a service in AWS that can simplify this. AWS Elastic Beanstalk is here to make your life easier. It provides",
+          "link": "https://www.freecodecamp.org/news/how-to-use-elastic-beanstalk-to-deploy-node-js-app/",
+          "publishedOn": "2023-05-09T21:34:49.000Z",
+          "wordCount": 1922,
+          "title": "How to Use Elastic Beanstalk to Deploy a Node.js App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Elastic-Beanstalk---Banner.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-beginner-friendly-javascript-application/",
+          "author": "TAPAS ADHIKARY",
+          "description": "JavaScript is a popular programming language for building web, mobile, and desktop applications.  There are many frameworks and libraries that have been built around JavaScript, with more likely being developed even as you are reading this article. If you plan to start learning JavaScript, some of them are worth",
+          "link": "https://www.freecodecamp.org/news/build-a-beginner-friendly-javascript-application/",
+          "publishedOn": "2023-05-09T16:05:03.000Z",
+          "wordCount": 2159,
+          "title": "How to Build a Beginner-Friendly JavaScript Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/freeCodeCamp-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/free-courses-top-cs-universities/",
+          "author": "Manoel Cortes Mendez",
+          "description": "In this article, I compiled 900 online courses offered by the 60 best universities in the world for studying computer science in 2023. I built the list using a data-driven approach. You can find my methodology below. But if you’d rather go straight to the course list, click here. Methodology",
+          "link": "https://www.freecodecamp.org/news/free-courses-top-cs-universities/",
+          "publishedOn": "2023-05-09T13:03:00.000Z",
+          "wordCount": 9870,
+          "title": "900 Free Computer Science Courses from the World’s Top Universities",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2020/04/cs-top-universities-banner.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-ethical-hacking/",
+          "author": "Hillary Nyakundi",
+          "description": "As technology continues to advance, cyber-threats are becoming the norm. Cyber-criminals are constantly trying to find ways to exploit systems and networks, all with the purpose of stealing sensitive information or causing damage. These challenges in the tech space have led to the emergence of the term ethical hacking. The",
+          "link": "https://www.freecodecamp.org/news/what-is-ethical-hacking/",
+          "publishedOn": "2023-05-09T00:06:39.000Z",
+          "wordCount": 2852,
+          "title": "What is Ethical Hacking? A Cybersecurity Definition of Ethical Hackers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Opensource--1-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/cybersecurity-professional-certificate-by-google/",
           "author": "Eamonn Cottrell",
           "description": "Google has released a new professional certificate in Cybersecurity. The  announcement [https://blog.google/outreach-initiatives/grow-with-google/google-cybersecurity-career-certificate/]  came on May 4th, 2023 and marks the 6th topical branch in their continually expanding certificate program. It follows five other successful entry-level certificate programs in IT Support, Data Analytics, Digital Marketing & E-commerce, Project Management",
@@ -1340,16 +1380,6 @@
           "wordCount": 1138,
           "title": "Unleash the Power of React Native to Build Mobile Apps",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/reactnative.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-reset-hard-how-to-reset-to-head-in-git/",
-          "author": "Kolade Chris",
-          "description": "Git is a powerful version control system for tracking and managing changes and files in your source codes and other digital assets. One of the core functionalities of Git is \"commits\". Commits let you create a snapshot of your code. In other words, it’s like saving your work, but with",
-          "link": "https://www.freecodecamp.org/news/git-reset-hard-how-to-reset-to-head-in-git/",
-          "publishedOn": "2023-04-10T12:09:39.000Z",
-          "wordCount": 1504,
-          "title": "Git Reset Hard – How to Reset to Head in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/resetToHead.png"
         }
       ]
     },
@@ -1358,6 +1388,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=125731",
+          "author": "Charlie Wood",
+          "description": "In two landmark experiments, researchers used quantum processors to engineer exotic particles that have captivated physicists for decades. The work is a step toward crash-proof quantum computers.            \nThe post Physicists Create Elusive Particles That Remember Their Pasts first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/physicists-create-elusive-particles-that-remember-their-pasts-20230509/",
+          "publishedOn": "2023-05-09T13:00:50.000Z",
+          "wordCount": 9396,
+          "title": "Physicists Create Elusive Particles That Remember Their Pasts",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/05/Topological-Quantum-Computing-byMerrillSherman-Still-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=125669",
           "author": "Viviane Callier",
@@ -1641,26 +1681,6 @@
           "wordCount": 1452,
           "title": "Glyphhanger — a tool to subset and optimize fonts (#note)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Glyphhanger%20%E2%80%94%20a%20tool%20to%20subset%20and%20optimize%20fonts/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-98/",
-          "author": null,
-          "description": "Guten Tag. 👋\n\nHave you used CSS mask-image already? Or did you know that you can control an SVG's paint order to adjust a path's stroke width? Or that trigonometric CSS functions enable you to draw custom CSS shapes?\nAll the answers and much more are included in this week's Web Weekly. 🫣\nWe're all waiting for the new parent family selector — :has(). So what's the current state?\nFirefox still needs to flip the switch and is holding us back from adopting this new way of writing CSS. Nevertheless, I can imagine the new pseudo-class is terribly complicated to implement in a browser engine.\nThe resulting :has() use cases are endless, and we yet have to discover all the fancy ways we want to use it for. That raises the question: should everything be allowed to be used in a :has() selector? Sho…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-98/",
-          "publishedOn": "2023-04-09T22:00:00.000Z",
-          "wordCount": 2037,
-          "title": "Web Weekly #98 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/how-to-show-more-than-ten-results-per-page-on-google-search/",
-          "author": null,
-          "description": "Suppose you're using Google Search, a result page famously includes only ten search results. What if I told you that the number of results is configurable?\nNavigate to your Google Search preferences and start showing more results. 💪\nAnd if you're a tab hoarder like myself, turn on Open each selected result in a new browser window in the same go.\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/how-to-show-more-than-ten-results-per-page-on-google-search/",
-          "publishedOn": "2023-04-09T22:00:00.000Z",
-          "wordCount": 1131,
-          "title": "How to show more than ten results per page on Google Search (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20show%20more%20than%20ten%20results%20per%20page%20on%20Google%20Search/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
@@ -1669,6 +1689,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/459",
+          "author": null,
+          "description": "#​459 — May 9, 2023\n\n\nUnsub  |  Web Version\n\n\n\nGo Weekly\n\n\n\n\n  \n\n\n\n\n\n  \n  \ngo-callvis: Visualize the Call Graph of Go Programs — We first linked to this project over six years ago, but it’s still going strong and has reached version 0.7. The idea is simple: turn the call graph of a Go program into a visual overview courtesy of Graphviz. You can also navigate the graph if you use its interactive viewer.\nOndrej Fabry \n\n\n  \n  \n👀 .ʕ◔ϖ◔ʔ As an Alternative to .go? — It’s nice to see Russ having some fun after the more serious telemetry proposal. Inspired by another language’s attempt to use an emoji as a filename extension, Russ considers an interesting alternative to .go that looks a little more gopher-y.\nRuss Cox \n\n\n  \n  \nKubernetes API Access Security Hardening — The control plane controls k…",
+          "link": "https://golangweekly.com/issues/459",
+          "publishedOn": "2023-05-09T00:00:00.000Z",
+          "wordCount": 880,
+          "title": "A modest proposal?",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/458",
           "author": null,
