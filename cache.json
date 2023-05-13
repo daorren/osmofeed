@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/postgresql-indexing-strategies/",
+          "author": "Faith Oyama",
+          "description": "Indexing in PostgreSQL is a process that involves creating data structures that are optimized to efficiently search and retrieve data from tables.  An index is a copy of a portion of a table, arranged in a way that enables PostgreSQL to quickly locate and retrieve rows that match a",
+          "link": "https://www.freecodecamp.org/news/postgresql-indexing-strategies/",
+          "publishedOn": "2023-05-12T20:46:41.000Z",
+          "wordCount": 2133,
+          "title": "Advanced Indexing Strategies in PostgreSQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/postresql-indexing.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/greedy-algorithms/",
+          "author": "Tantoluwa Heritage Alabi",
+          "description": "According to the Oxford English Dictionary, \"greedy\" means having excessive desire for something without considering the effect or damage done.  In computer science, a greedy algorithm is an algorithm that finds a solution to problems in the shortest time possible. It picks the path that seems optimal at the",
+          "link": "https://www.freecodecamp.org/news/greedy-algorithms/",
+          "publishedOn": "2023-05-12T17:57:48.000Z",
+          "wordCount": 4298,
+          "title": "What is a Greedy Algorithm? Examples of Greedy Algorithms",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-pixabay-206627.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-linked-lists-work/",
+          "author": "Palistha",
+          "description": "A Linked List is a linear data structure used for storing a collection of elements. Unlike arrays, linked lists use nodes to store elements which are not stored in contiguous memory locations.  In this article, you will learn what linked lists are, how they work, and how to build",
+          "link": "https://www.freecodecamp.org/news/how-linked-lists-work/",
+          "publishedOn": "2023-05-12T17:45:27.000Z",
+          "wordCount": 2730,
+          "title": "How Does a Linked List Work? A Beginner's Guide to Linked Lists",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-joey-kyber-119562.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/number-systems-in-java/",
           "author": "Mikael Lassa",
           "description": "Knowing how to work with numbers is essential in programming. Java supports four number systems that are used for various purposes – the decimal, binary, octal, and hexadecimal systems.  Understanding what these number systems are and when to use them is an important skill for any Java programmer.",
@@ -1350,46 +1380,6 @@
           "wordCount": 1944,
           "title": "Call vs Put vs Post – HTTP Request Methods Explained",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/cover-template--7-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-delete-file-how-to-remove-files-and-folders/",
-          "author": "Kolade Chris",
-          "description": "Many programming languages have built-in functionalities for working with files and folders. As a rich programming language with many exciting functionalities built into it, Python is not an exception to that. Python has the OS and Pathlib modules with which you can create files and folders, edit files and folders,",
-          "link": "https://www.freecodecamp.org/news/python-delete-file-how-to-remove-files-and-folders/",
-          "publishedOn": "2023-04-13T12:24:56.000Z",
-          "wordCount": 1419,
-          "title": "Python Delete File – How to Remove Files and Folders",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pyDeleteFilesAndFolders.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/",
-          "author": "Beau Carnes",
-          "description": "Bash scripting is an essential skill for any developer, system administrator, or power user who wants to automate repetitive tasks and make their workflow more efficient. We just published a bash scripting for beginners course on the freeCodeCamp.org YouTube channel. Herbert from Herbertech created this course. In this course, you'll",
-          "link": "https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/",
-          "publishedOn": "2023-04-12T20:52:38.000Z",
-          "wordCount": 835,
-          "title": "Use Bash Scripting to Enhance Your Productivity",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/bashscrippting.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/firebase-course-html-css-javascript/",
-          "author": "Beau Carnes",
-          "description": "Firebase is an app development platform from Google that offers tools and services for building and scaling applications. It includes real-time databases, authentication, analytics, and hosting features. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build a mobile app with HTML, CSS,",
-          "link": "https://www.freecodecamp.org/news/firebase-course-html-css-javascript/",
-          "publishedOn": "2023-04-12T20:46:42.000Z",
-          "wordCount": 962,
-          "title": "Create Mobile Apps with Firebase",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Slide-16_9---4.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/apply-borders-to-clip-paths-with-css/",
-          "author": "Michael Frederick",
-          "description": "Applying borders to non-rectangular shapes in CSS can be challenging. In this article, we will explore ways to apply different border types to trapezoidal shapes in CSS.  The final shape we aim to achieve is a golden dashed parallelogram border, as you can see in the screenshot below: Parallelogram",
-          "link": "https://www.freecodecamp.org/news/apply-borders-to-clip-paths-with-css/",
-          "publishedOn": "2023-04-12T17:46:38.000Z",
-          "wordCount": 1537,
-          "title": "How to Apply Borders to Clip Paths with CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Screen-Shot-2023-04-05-at-7.04.59-PM-1.png"
         }
       ]
     },
@@ -1398,6 +1388,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=125877",
+          "author": "Max G. Levy",
+          "description": "Today’s language models are more sophisticated than ever, but they still struggle with the concept of negation. That’s unlikely to change anytime soon.            \nThe post Chatbots Don’t Know What Stuff Isn’t first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/ai-like-chatgpt-are-no-good-at-not-20230512/",
+          "publishedOn": "2023-05-12T13:56:30.000Z",
+          "wordCount": 7248,
+          "title": "Chatbots Don’t Know What Stuff Isn’t",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/05/UnderstandingNegation-byKouzouSakai-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=125828",
           "author": "Kevin Hartnett",
@@ -1587,16 +1587,6 @@
           "wordCount": 7097,
           "title": "A New Approach to Computation Reimagines Artificial Intelligence",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/04/HyperDimensionalComputing-byMyriamWares-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=124896",
-          "author": "Jordana Cepelewicz",
-          "description": "In 50 years of searching, mathematicians found only one example of a “subspace design” in a vector space. A new proof reveals that there are infinitely more out there.            \nThe post Mathematicians Find Hidden Structure in a Common Type of Space first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/mathematicians-find-hidden-structure-in-a-common-type-of-space-20230412/",
-          "publishedOn": "2023-04-12T14:49:27.000Z",
-          "wordCount": 6189,
-          "title": "Mathematicians Find Hidden Structure in a Common Type of Space",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/04/SubspaceDesigns-byKristinaArmitage-Social.webp"
         }
       ]
     },
