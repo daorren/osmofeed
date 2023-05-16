@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-15T01:23:26.975Z</updated>
+    <updated>2023-05-16T01:22:34.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Networking in Flutter By Building a Simple App]]></title>
+        <id>https://www.freecodecamp.org/news/learn-networking-in-flutter/</id>
+        <link href="https://www.freecodecamp.org/news/learn-networking-in-flutter/"/>
+        <updated>2023-05-15T18:42:25.000Z</updated>
+        <summary type="html"><![CDATA[Almost all apps you use today run by accessing the internet. You can hardly find an app that runs without connecting to the internet.  The internet has become an integral part of our lives, as it solves one of the most critical problems we have to handle: data transfer.]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caching in React – How to Use the useMemo and useCallback Hooks]]></title>
+        <id>https://www.freecodecamp.org/news/caching-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/caching-in-react/"/>
+        <updated>2023-05-15T18:39:25.000Z</updated>
+        <summary type="html"><![CDATA[As React developers become more proficient with the library, the topic of performance becomes a major focal point in their development process.  As with any tool or programming methodology, caching plays a huge role when it comes to optimizing React applications. Caching in React typically goes by the term]]></summary>
+        <author>
+            <name>Scott Gary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the 60-30-10 Rule in Design? And How to Use it in Your Projects]]></title>
+        <id>https://www.freecodecamp.org/news/the-60-30-10-rule-in-design/</id>
+        <link href="https://www.freecodecamp.org/news/the-60-30-10-rule-in-design/"/>
+        <updated>2023-05-15T17:20:43.000Z</updated>
+        <summary type="html"><![CDATA[As designers, colour is a huge component of our work. But many of us struggle with the usage of colours in our designs.  In this article, you will learn about the 60-30-10 colour rule, how it's used, and see a practical example of it. What is the 60-30-10 rule?]]></summary>
+        <author>
+            <name>Ijelekhai Faith Olohijere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Secure Your MERN Stack App with JWT-Based User Authentication and Authorization]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-secure-your-mern-stack-application/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-secure-your-mern-stack-application/"/>
+        <updated>2023-05-15T17:15:14.000Z</updated>
+        <summary type="html"><![CDATA[MongoDB [https://www.mongodb.com/docs/], Express [https://expressjs.com/en/starter/installing.html], React [https://react.dev/learn], and Node.js [https://nodejs.org/en/docs] are the components of the MERN stack, one of the most widely used web development stacks out there today. The MERN stack enables programmers to create dependable web applications with strong capabilities. Yet, security should be a key concern with any]]></summary>
+        <author>
+            <name>FADAHUNSI SEYI SAMUEL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Method Overloading Works in PHP]]></title>
+        <id>https://www.freecodecamp.org/news/method-overloading-in-php/</id>
+        <link href="https://www.freecodecamp.org/news/method-overloading-in-php/"/>
+        <updated>2023-05-15T17:11:35.000Z</updated>
+        <summary type="html"><![CDATA[As software engineers, we sometimes have to perform certain tasks that can be achieved with a variable number of inputs.  To solve this problem, you can create multiple functions to solve for the different possible number of inputs. Or we can write a large function to solve this problem.]]></summary>
+        <author>
+            <name>Zubair Idris Aweda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Clean Code – Tips and Best Practices]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-write-clean-code/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-clean-code/"/>
+        <updated>2023-05-15T14:43:44.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we're going to talk about writing "clean" code. It's a topic that used to confuse me a bit when I was starting out as a programmer, and I find that it has many nuances and possible interpretations. So in this article we'll talk about what]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Tiny Physics Behind Immense Cosmic Eruptions]]></title>
+        <id>https://www.quantamagazine.org/?p=125916</id>
+        <link href="https://www.quantamagazine.org/the-tiny-physics-behind-immense-cosmic-eruptions-20230515/"/>
+        <updated>2023-05-15T13:58:29.000Z</updated>
+        <summary type="html"><![CDATA[A new theory describes how particle interactions fuel fast magnetic reconnection, the process behind solar flares and other astrophysical jets.            
+The post The Tiny Physics Behind Immense Cosmic Eruptions first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Zack Savitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[URL RegEx Pattern – How to Write a Regular Expression for a URL]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-write-a-regular-expression-for-a-url/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-a-regular-expression-for-a-url/"/>
+        <updated>2023-05-15T12:22:48.000Z</updated>
+        <summary type="html"><![CDATA[Regular expressions provide a powerful and flexible way to define patterns and match specific strings, be it usernames, passwords, phone numbers, or even URLs. In this article, I'll show you the fundamentals of crafting a regular expression for URLs. Whether you need to validate user input, extract components from URLs,]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #101 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-101/</id>
@@ -1722,58 +1803,6 @@ The post She Tracks the DNA of Elusive Species That Hide in Harsh Places first a
         <summary type="html"><![CDATA[This week we attempt a real-life coding exercise, draw our own animations, contrast AI agents with the Semantic Web, fold like a pro, and learn an ancient form of writing.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slice — an app to remove variable font axes (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/slice-an-app-to-remove-variable-font-axes/</id>
-        <link href="https://www.stefanjudis.com/notes/slice-an-app-to-remove-variable-font-axes/"/>
-        <updated>2023-04-15T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On my font optimization journey, I've learned that subsetting is an invaluable approach to reducing font file sizes. I've been able to cut down Roboto's size from 785kB to 200kB by subsetting it to ASCII characters. And when going the extreme way, I could even bring it down to 58kB by aggressively limiting the included characters.
-But could one squeeze out even more bytes of the Roboto font?
-When you inspect Roboto with Wakamai Fondue, you'll discover that it ships 13(!) variable font axes.
-That's great, but I wonder if you need all these variable configuration parameters in production and argue that a good design defines only a few font variations. 13 configurable axes shouldn't be needed at all times.
-Thanks to Tobias Kunish, I learned you can also remove axes with some tooling! Does the removal of font axes affect the font size? Let's find out!
-Slice is an open-source application to create custom font design spaces from variable fonts. Unfortunately, I'm not enough font nerd to understand all of Slice's functionality, but what I get is that you can inspect a font's axes and limit their ranges or define a static value for each.
-For example, if you're not interested in including all the variations of the parametric figure height (YTFI), set a value and drop the axis from the font entirely.
-To test things out, I kept the opsz, wght, GRAD, wdth and slnt axis untouched and set a fixed value for the eight other axes to remove them from my local Roboto font.
-Font
-Size with 13 axes
-Size with 5 axes
-
-
-
-
-Roboto (all characters & glyphs)
-784kB
-710kB
-
-
-Roboto (Latin)
-322kB
-292kB
-
-
-Roboto (ASCII)
-202kB
-182kB
-
-
-Roboto (only a few characters)
-58kB
-52kB
-
-
-
-And indeed, removing font axes resulted in more saved bytes!
-So, if you're on the journey of optimizing your fonts, subsetting will give you massive results, but if you want to go the extra mile, you can also shave off some more bytes by limiting font axis range values or removing axes entirely. Happy optimizing!
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
