@@ -12,6 +12,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/angular-upgrades-to-improve-developer-experience/",
+          "author": "Brenda Chepkorir",
+          "description": "When we talk about the Developer Experience [https://microsoft.github.io/code-with-engineering-playbook/developer-experience/] , we're referring to the level of difficulty a developer faces when completing essential tasks.  Factors like the complexity of a development framework or the absence of  syntactic sugar [https://www.techopedia.com/definition/10212/syntactic-sugar] in a programming language can negatively impact it. A robust",
+          "link": "https://www.freecodecamp.org/news/angular-upgrades-to-improve-developer-experience/",
+          "publishedOn": "2023-05-17T23:40:59.000Z",
+          "wordCount": 1482,
+          "title": "Angular Upgrades That Will Improve Your Developer Experience",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-thisisengineering-3861958.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/",
+          "author": "Kolade Chris",
+          "description": "YAML does not have built-in support for regular expressions. But you can still include regex patterns as part of a YAML file's contents, access those patterns, and create a regex out of them. You can do this, for example, with the JavaScript RegExp constructor. So, in YAML, regular expressions are",
+          "link": "https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/",
+          "publishedOn": "2023-05-17T14:48:51.000Z",
+          "wordCount": 1566,
+          "title": "How to Use Regular Expressions in YAML File – RegEx in YAML Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/yamlRe.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/interactive-heatmap-in-javascript/",
           "author": "Shachee Swadia",
           "description": "Data visualization is a powerful tool that helps us make sense of complex data. With it, we can spot patterns and trends that might take much more time to become obvious just by looking at raw numbers.  One particularly useful chart type is the heatmap, and I’m excited to",
@@ -1350,56 +1370,6 @@
           "wordCount": 2123,
           "title": "JavaScript Primitive Values vs Reference Values – Explained with Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-pedro-figueras-681447.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-module-not-found-error-solved/",
-          "author": "Shittu Olumide",
-          "description": "Errors are an inevitable part of programming, and every programmer will encounter them at some point in their career.  Errors in programming can take various forms, including syntax errors, logic errors, and runtime errors, and they can have a significant impact on the functioning of a program. Understanding the",
-          "link": "https://www.freecodecamp.org/news/python-module-not-found-error-solved/",
-          "publishedOn": "2023-04-17T23:55:53.000Z",
-          "wordCount": 1064,
-          "title": "ModuleNotFoundError: no module named 'requests' [Solved in Python Django]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Shittu-Olumide-ModuleNotFoundError-no-module-named--requests---Solved-in-Python-Django-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-devops-works/",
-          "author": "Satyam Tripathi",
-          "description": "When developers and operations teams work together, they can identify and solve problems more quickly. This helps them deliver software to users faster and with fewer errors.  This general practice is called DevOps. It involves using tools and techniques to automate tasks and make software development and deployment more",
-          "link": "https://www.freecodecamp.org/news/how-devops-works/",
-          "publishedOn": "2023-04-17T23:37:44.000Z",
-          "wordCount": 1782,
-          "title": "What is DevOps? How Development + Operations Helps Teams Work More Efficiently",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Getting-Started-With-DevOps--3--1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-git-rebase/",
-          "author": "Nick Abbene",
-          "description": "The software engineering landscape is constantly changing. Staying up to date on new technologies is absolutely critical. But as developers, sometimes we forget how important it is to dig a bit deeper into the tried and true technologies that are the backbone of software development – such as version control",
-          "link": "https://www.freecodecamp.org/news/how-to-use-git-rebase/",
-          "publishedOn": "2023-04-17T22:17:32.000Z",
-          "wordCount": 1384,
-          "title": "How to Use Git Rebase – Tutorial for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Screenshot-2023-04-15-at-10.58.48-PM.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-protect-your-pwa/",
-          "author": "Rahul",
-          "description": "Hey, everybody! I'm Rahul [https://fueler.io/rahoool]. In today's world, web apps have become more prevalent because they work seamlessly on multiple devices. But as with any application, PWAs can be vulnerable to security threats, which can compromise user data and damage the reputation. It's natural to get excited about launching something",
-          "link": "https://www.freecodecamp.org/news/how-to-protect-your-pwa/",
-          "publishedOn": "2023-04-17T21:28:20.000Z",
-          "wordCount": 2132,
-          "title": "How to Protect Your PWA – Web App Security Best Practices",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pwa.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-machine-leaning-without-libraries-or-frameworks/",
-          "author": "Beau Carnes",
-          "description": "Are you ready to unravel the mysteries of machine learning algorithms and elevate your software development skills? Look no further!  We just published a machine learning course on the freeCodeCamp.org YouTube channel. This \"No Black Box\" Machine Learning Course in JavaScript offers a unique, hands-on approach to understanding machine",
-          "link": "https://www.freecodecamp.org/news/learn-machine-leaning-without-libraries-or-frameworks/",
-          "publishedOn": "2023-04-17T16:56:00.000Z",
-          "wordCount": 936,
-          "title": "Learn Machine Leaning without Libraries or Frameworks",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/radu.png"
         }
       ]
     },
@@ -1408,6 +1378,26 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=126041",
+          "author": "Steven Strogatz",
+          "description": "Several areas of physics suggest reasons to think that unobservable universes with different natural laws could lie beyond ours. The theoretical physicist David Kaplan talks with Steven Strogatz about the mysteries that a multiverse would solve.            \nThe post Are There Reasons to Believe in a Multiverse? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/are-there-reasons-to-believe-in-a-multiverse-20230517/",
+          "publishedOn": "2023-05-17T18:40:14.000Z",
+          "wordCount": 19066,
+          "title": "Are There Reasons to Believe in a Multiverse?",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/05/JoY-S2E7-Multiverse-byPeterGreenwood-Social-LOGO.webp"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=126020",
+          "author": "Yasemin Saplakoglu",
+          "description": "Memories may affect how well the brain will learn about future events by shifting our perceptions of the world.             \nThe post Memories Help Brains Recognize New Events Worth Remembering first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/memories-help-brains-recognize-new-events-worth-remembering-20230517/",
+          "publishedOn": "2023-05-17T13:58:57.000Z",
+          "wordCount": 5734,
+          "title": "Memories Help Brains Recognize New Events Worth Remembering",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/05/PerceptionShiftsMemory-byKristinaArmitage-Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=125953",
           "author": "Jordana Cepelewicz",
@@ -1607,16 +1597,6 @@
           "wordCount": 8440,
           "title": "A New Kind of Symmetry Shakes Up Physics",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/04/HigherFormSymmetries-bySamuelVelasco-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=124979",
-          "author": "Rachel Crowell",
-          "description": "On Mount Everest and in the Peruvian Andes, Tracie Seimon uses DNA to study how species and ecosystems respond to climate change, pathogens and other influences.            \nThe post She Tracks the DNA of Elusive Species That Hide in Harsh Places first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/she-tracks-the-dna-of-elusive-species-on-everest-and-in-the-andes-20230417/",
-          "publishedOn": "2023-04-17T15:00:27.000Z",
-          "wordCount": 9311,
-          "title": "She Tracks the DNA of Elusive Species That Hide in Harsh Places",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/04/TracieSeimon-bySashaMaslov-Social.webp"
         }
       ]
     },
@@ -1737,16 +1717,6 @@
           "publishedOn": "2023-04-25T00:00:00.000Z",
           "wordCount": 820,
           "title": "Test gains and memory drains",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/456",
-          "author": null,
-          "description": "#​456 — April 18, 2023\n\n\nUnsub  |  Web Version\n\n\n\nThe Go Weekly Newsletter\n\n\n\n\n  \n\n\n\n\n\n  \n  \nGo's Error Handling is a Form of Storytelling — That’s probably one of the kindest ways I’ve heard Go’s approach to error handling described, but the author makes the argument that good error messages add up and tell a story.\nPreslav Rachev \n\n\nStaying on the theme of errors, Dolthub's Max Hoffman also wrote about where panics have their place, how panicking is faster than raising errors, and the tradeoffs you need to consider between the two.\n\n\n\n\n\n  \n  \nTry GoLand 2023.1! — This version introduces the vulnerability checker and better navigation through gRPC code. We’ve also updated the Code Vision feature so that GoLand now shows both the number of implementations for an interface and its method sp…",
-          "link": "https://golangweekly.com/issues/456",
-          "publishedOn": "2023-04-18T00:00:00.000Z",
-          "wordCount": 875,
-          "title": "What do you get when you cross a LLaMA with a Gopher?",
           "imageUrl": null
         }
       ]

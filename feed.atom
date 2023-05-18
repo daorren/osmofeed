@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-17T01:23:23.172Z</updated>
+    <updated>2023-05-18T01:21:35.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Angular Upgrades That Will Improve Your Developer Experience]]></title>
+        <id>https://www.freecodecamp.org/news/angular-upgrades-to-improve-developer-experience/</id>
+        <link href="https://www.freecodecamp.org/news/angular-upgrades-to-improve-developer-experience/"/>
+        <updated>2023-05-17T23:40:59.000Z</updated>
+        <summary type="html"><![CDATA[When we talk about the Developer Experience [https://microsoft.github.io/code-with-engineering-playbook/developer-experience/] , we're referring to the level of difficulty a developer faces when completing essential tasks.  Factors like the complexity of a development framework or the absence of  syntactic sugar [https://www.techopedia.com/definition/10212/syntactic-sugar] in a programming language can negatively impact it. A robust]]></summary>
+        <author>
+            <name>Brenda Chepkorir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are There Reasons to Believe in a Multiverse?]]></title>
+        <id>https://www.quantamagazine.org/?p=126041</id>
+        <link href="https://www.quantamagazine.org/are-there-reasons-to-believe-in-a-multiverse-20230517/"/>
+        <updated>2023-05-17T18:40:14.000Z</updated>
+        <summary type="html"><![CDATA[Several areas of physics suggest reasons to think that unobservable universes with different natural laws could lie beyond ours. The theoretical physicist David Kaplan talks with Steven Strogatz about the mysteries that a multiverse would solve.            
+The post Are There Reasons to Believe in a Multiverse? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steven Strogatz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Regular Expressions in YAML File – RegEx in YAML Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/"/>
+        <updated>2023-05-17T14:48:51.000Z</updated>
+        <summary type="html"><![CDATA[YAML does not have built-in support for regular expressions. But you can still include regex patterns as part of a YAML file's contents, access those patterns, and create a regex out of them. You can do this, for example, with the JavaScript RegExp constructor. So, in YAML, regular expressions are]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memories Help Brains Recognize New Events Worth Remembering]]></title>
+        <id>https://www.quantamagazine.org/?p=126020</id>
+        <link href="https://www.quantamagazine.org/memories-help-brains-recognize-new-events-worth-remembering-20230517/"/>
+        <updated>2023-05-17T13:58:57.000Z</updated>
+        <summary type="html"><![CDATA[Memories may affect how well the brain will learn about future events by shifting our perceptions of the world.             
+The post Memories Help Brains Recognize New Events Worth Remembering first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Yasemin Saplakoglu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create an Interactive Heatmap Using JavaScript]]></title>
         <id>https://www.freecodecamp.org/news/interactive-heatmap-in-javascript/</id>
@@ -1835,109 +1877,6 @@ The post How Can Some Infinities Be Bigger Than Others? first appeared on Quanta
 The post A New Kind of Symmetry Shakes Up Physics first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Kevin Hartnett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What do you get when you cross a LLaMA with a Gopher?]]></title>
-        <id>https://golangweekly.com/issues/456</id>
-        <link href="https://golangweekly.com/issues/456"/>
-        <updated>2023-04-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​456 — April 18, 2023
-
-
-Unsub  |  Web Version
-
-
-
-The Go Weekly Newsletter
-
-
-
-
-  
-
-
-
-
-
-  
-  
-Go's Error Handling is a Form of Storytelling — That’s probably one of the kindest ways I’ve heard Go’s approach to error handling described, but the author makes the argument that good error messages add up and tell a story.
-Preslav Rachev 
-
-
-Staying on the theme of errors, Dolthub's Max Hoffman also wrote about where panics have their place, how panicking is faster than raising errors, and the tradeoffs you need to consider between the two.
-
-
-
-
-
-  
-  
-Try GoLand 2023.1! — This version introduces the vulnerability checker and better navigation through gRPC code. We’ve also updated the Code Vision feature so that GoLand now shows both the number of implementations for an interface and its method sp…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ModuleNotFoundError: no module named 'requests' [Solved in Python Django]]]></title>
-        <id>https://www.freecodecamp.org/news/python-module-not-found-error-solved/</id>
-        <link href="https://www.freecodecamp.org/news/python-module-not-found-error-solved/"/>
-        <updated>2023-04-17T23:55:53.000Z</updated>
-        <summary type="html"><![CDATA[Errors are an inevitable part of programming, and every programmer will encounter them at some point in their career.  Errors in programming can take various forms, including syntax errors, logic errors, and runtime errors, and they can have a significant impact on the functioning of a program. Understanding the]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is DevOps? How Development + Operations Helps Teams Work More Efficiently]]></title>
-        <id>https://www.freecodecamp.org/news/how-devops-works/</id>
-        <link href="https://www.freecodecamp.org/news/how-devops-works/"/>
-        <updated>2023-04-17T23:37:44.000Z</updated>
-        <summary type="html"><![CDATA[When developers and operations teams work together, they can identify and solve problems more quickly. This helps them deliver software to users faster and with fewer errors.  This general practice is called DevOps. It involves using tools and techniques to automate tasks and make software development and deployment more]]></summary>
-        <author>
-            <name>Satyam Tripathi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Git Rebase – Tutorial for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-git-rebase/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-git-rebase/"/>
-        <updated>2023-04-17T22:17:32.000Z</updated>
-        <summary type="html"><![CDATA[The software engineering landscape is constantly changing. Staying up to date on new technologies is absolutely critical. But as developers, sometimes we forget how important it is to dig a bit deeper into the tried and true technologies that are the backbone of software development – such as version control]]></summary>
-        <author>
-            <name>Nick Abbene</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Protect Your PWA – Web App Security Best Practices]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-protect-your-pwa/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-protect-your-pwa/"/>
-        <updated>2023-04-17T21:28:20.000Z</updated>
-        <summary type="html"><![CDATA[Hey, everybody! I'm Rahul [https://fueler.io/rahoool]. In today's world, web apps have become more prevalent because they work seamlessly on multiple devices. But as with any application, PWAs can be vulnerable to security threats, which can compromise user data and damage the reputation. It's natural to get excited about launching something]]></summary>
-        <author>
-            <name>Rahul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Machine Leaning without Libraries or Frameworks]]></title>
-        <id>https://www.freecodecamp.org/news/learn-machine-leaning-without-libraries-or-frameworks/</id>
-        <link href="https://www.freecodecamp.org/news/learn-machine-leaning-without-libraries-or-frameworks/"/>
-        <updated>2023-04-17T16:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready to unravel the mysteries of machine learning algorithms and elevate your software development skills? Look no further!  We just published a machine learning course on the freeCodeCamp.org YouTube channel. This "No Black Box" Machine Learning Course in JavaScript offers a unique, hands-on approach to understanding machine]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[She Tracks the DNA of Elusive Species That Hide in Harsh Places]]></title>
-        <id>https://www.quantamagazine.org/?p=124979</id>
-        <link href="https://www.quantamagazine.org/she-tracks-the-dna-of-elusive-species-on-everest-and-in-the-andes-20230417/"/>
-        <updated>2023-04-17T15:00:27.000Z</updated>
-        <summary type="html"><![CDATA[On Mount Everest and in the Peruvian Andes, Tracie Seimon uses DNA to study how species and ecosystems respond to climate change, pathogens and other influences.            
-The post She Tracks the DNA of Elusive Species That Hide in Harsh Places first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Rachel Crowell</name>
         </author>
     </entry>
 </feed>
