@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-21T01:34:27.447Z</updated>
+    <updated>2023-05-22T01:25:53.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -1684,26 +1684,6 @@ Why? Because I shipped a 780kB heavy Roboto font for a tiny demo component. That
 So I decided to squeeze out as many bytes of Roboto as possible, and guess what? I shrunk it down t…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigation in Flutter – How to Add Stack, Tab, and Drawer Navigators to Your Apps]]></title>
-        <id>https://www.freecodecamp.org/news/navigation-in-flutter/</id>
-        <link href="https://www.freecodecamp.org/news/navigation-in-flutter/"/>
-        <updated>2023-04-21T18:10:23.000Z</updated>
-        <summary type="html"><![CDATA[Almost any app that you design or develop will use some type of navigation.  There are three types of navigation that are common to all apps – stack, tab, and drawer navigation. Flutter supports all three types, and implementing them is similar to how you do it in other]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Difference Between Pseudo-Classes and Pseudo-Elements in CSS]]></title>
-        <id>https://www.freecodecamp.org/news/the-difference-between-pseudo-classes-and-elements-in-css/</id>
-        <link href="https://www.freecodecamp.org/news/the-difference-between-pseudo-classes-and-elements-in-css/"/>
-        <updated>2023-04-21T17:34:29.000Z</updated>
-        <summary type="html"><![CDATA[In CSS, pseudo-classes and pseudo-elements are two types of keywords that you can combine with selectors. They are used to target the element's state or specific parts of an element.  In this article, we'll explore the differences between the two along with their history and best practices. Syntax]]></summary>
-        <author>
-            <name>Natalie Pina</name>
         </author>
     </entry>
 </feed>
