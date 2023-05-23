@@ -12,6 +12,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/full-stack-development-with-next-js-typescript-and-aws/",
+          "author": "Beau Carnes",
+          "description": "Learn how create a full stack app with Next.js, TypeScript, and AWS Amplify. We just publshed a new full stack app course on the freeCodeCamp.org YouTube channel. Brian H. Hough, a renowned software engineer and course creator, is your guide. He'll help you build an inspirational quote generator app. You'll",
+          "link": "https://www.freecodecamp.org/news/full-stack-development-with-next-js-typescript-and-aws/",
+          "publishedOn": "2023-05-22T18:06:08.000Z",
+          "wordCount": 964,
+          "title": "Full-Stack Development with Next.js, TypeScript, and AWS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/nextfullstack.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/container-queries-responsive-design-beyond-the-viewport/",
+          "author": "Favour C. Felix",
+          "description": "Before now, making your website responsive was limited to resizing HTML elements with media queries. This was, and still is, a brilliant innovation for web development in general.  But web development has evolved with the advent of JavaScript frameworks—particularly with the use of components as building blocks in developing",
+          "link": "https://www.freecodecamp.org/news/container-queries-responsive-design-beyond-the-viewport/",
+          "publishedOn": "2023-05-22T16:24:14.000Z",
+          "wordCount": 1413,
+          "title": "How to Use Container Queries – Responsive Design Beyond the Viewport",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/container-queries-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/delete-youtube-history-how-to-delete-youtube-search-and-watch-histories/",
+          "author": "Kolade Chris",
+          "description": "YouTube is the most popular platform for watching and discovering educational and entertainment-focused videos. But if you have a privacy concern and want to clear your YouTube history for a fresh start, deleting your YouTube search and watch histories can be an effective solution. In this article, I will guide",
+          "link": "https://www.freecodecamp.org/news/delete-youtube-history-how-to-delete-youtube-search-and-watch-histories/",
+          "publishedOn": "2023-05-22T14:55:02.000Z",
+          "wordCount": 1284,
+          "title": "Delete YouTube History – How to Delete YouTube Search and Watch Histories",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/deleteYtHistories.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-ai-to-improve-code-quality/",
+          "author": "Shane Duggan",
+          "description": "As a software developer, I've always tried to write flawless code. Great code is not just functional – it should also be elegant, efficient, and robust.  But let's be honest – the journey towards code perfection can sometimes feel like an uphill battle. Or more often than not, a",
+          "link": "https://www.freecodecamp.org/news/how-to-use-ai-to-improve-code-quality/",
+          "publishedOn": "2023-05-22T13:57:16.000Z",
+          "wordCount": 3094,
+          "title": "How You Can Use AI to Improve Your Code Quality",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/AICodeQuality--1-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/react-server-components-for-beginners/",
           "author": "Adwaith KS",
           "description": "React Server Components have been generating significant buzz and excitement lately. They've recently been adopted as the default option in Next.js 13, so now more and more developers are using them. React Server Components seamlessly blend server-side rendering with the interactivity of client-side JavaScript. And in this tutorial, you'll learn",
@@ -1219,6 +1259,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=126116",
+          "author": "Steve Nadis",
+          "description": "Researchers uncover striking parallels in the ways that humans and machine learning models acquire language skills.            \nThe post Some Neural Networks Learn Language Like Humans first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/some-neural-networks-learn-language-like-humans-20230522/",
+          "publishedOn": "2023-05-22T13:47:32.000Z",
+          "wordCount": 5133,
+          "title": "Some Neural Networks Learn Language Like Humans",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/05/GANBrainWaves-byKristinaArmitage-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=126078",
           "author": "Stephen Ornes",
           "description": "In steganography, an ordinary message masks the presence of a secret communication. Humans can never do it perfectly, but a new study shows it’s possible for machines.            \nThe post Secret Messages Can Hide in AI-Generated Media first appeared on Quanta Magazine",
@@ -1471,16 +1521,6 @@
           "wordCount": 1294,
           "title": "The lie of YouTube's privacy-enhanced embed mode (#note)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:The%20lie%20of%20YouTube's%20privacy-enhanced%20embed%20mode/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-99/",
-          "author": null,
-          "description": "Guten Tag! 👋\n\nDo you know what's new in ECMAScript 2023? Or are you still confused about all these CSS color spaces? Or want to learn how to shrink your custom web fonts?\nAll the answers and much more are included in this week's Web Weekly. 🫣\nThree weeks ago, I published a post getting into variable fonts, the Roboto font, and its GRAD axis that enables you to transition font weights without characters getting wider.\nThe post includes an interactive component to see the font feature in action. And this all worked perfectly, but I didn't feel great when I deployed it.\nWhy? Because I shipped a 780kB heavy Roboto font for a tiny demo component. That's five times my blog's overall page weight.\nSo I decided to squeeze out as many bytes of Roboto as possible, and guess what? I shrunk it down t…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-99/",
-          "publishedOn": "2023-04-22T22:00:00.000Z",
-          "wordCount": 2046,
-          "title": "Web Weekly #99 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
     },

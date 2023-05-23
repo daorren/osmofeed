@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-22T01:25:53.472Z</updated>
+    <updated>2023-05-23T01:22:20.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Full-Stack Development with Next.js, TypeScript, and AWS]]></title>
+        <id>https://www.freecodecamp.org/news/full-stack-development-with-next-js-typescript-and-aws/</id>
+        <link href="https://www.freecodecamp.org/news/full-stack-development-with-next-js-typescript-and-aws/"/>
+        <updated>2023-05-22T18:06:08.000Z</updated>
+        <summary type="html"><![CDATA[Learn how create a full stack app with Next.js, TypeScript, and AWS Amplify. We just publshed a new full stack app course on the freeCodeCamp.org YouTube channel. Brian H. Hough, a renowned software engineer and course creator, is your guide. He'll help you build an inspirational quote generator app. You'll]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Container Queries – Responsive Design Beyond the Viewport]]></title>
+        <id>https://www.freecodecamp.org/news/container-queries-responsive-design-beyond-the-viewport/</id>
+        <link href="https://www.freecodecamp.org/news/container-queries-responsive-design-beyond-the-viewport/"/>
+        <updated>2023-05-22T16:24:14.000Z</updated>
+        <summary type="html"><![CDATA[Before now, making your website responsive was limited to resizing HTML elements with media queries. This was, and still is, a brilliant innovation for web development in general.  But web development has evolved with the advent of JavaScript frameworks—particularly with the use of components as building blocks in developing]]></summary>
+        <author>
+            <name>Favour C. Felix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delete YouTube History – How to Delete YouTube Search and Watch Histories]]></title>
+        <id>https://www.freecodecamp.org/news/delete-youtube-history-how-to-delete-youtube-search-and-watch-histories/</id>
+        <link href="https://www.freecodecamp.org/news/delete-youtube-history-how-to-delete-youtube-search-and-watch-histories/"/>
+        <updated>2023-05-22T14:55:02.000Z</updated>
+        <summary type="html"><![CDATA[YouTube is the most popular platform for watching and discovering educational and entertainment-focused videos. But if you have a privacy concern and want to clear your YouTube history for a fresh start, deleting your YouTube search and watch histories can be an effective solution. In this article, I will guide]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How You Can Use AI to Improve Your Code Quality]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-ai-to-improve-code-quality/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-ai-to-improve-code-quality/"/>
+        <updated>2023-05-22T13:57:16.000Z</updated>
+        <summary type="html"><![CDATA[As a software developer, I've always tried to write flawless code. Great code is not just functional – it should also be elegant, efficient, and robust.  But let's be honest – the journey towards code perfection can sometimes feel like an uphill battle. Or more often than not, a]]></summary>
+        <author>
+            <name>Shane Duggan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Neural Networks Learn Language Like Humans]]></title>
+        <id>https://www.quantamagazine.org/?p=126116</id>
+        <link href="https://www.quantamagazine.org/some-neural-networks-learn-language-like-humans-20230522/"/>
+        <updated>2023-05-22T13:47:32.000Z</updated>
+        <summary type="html"><![CDATA[Researchers uncover striking parallels in the ways that humans and machine learning models acquire language skills.            
+The post Some Neural Networks Learn Language Like Humans first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steve Nadis</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use React Server Components – A Beginner's Guide]]></title>
         <id>https://www.freecodecamp.org/news/react-server-components-for-beginners/</id>
@@ -1667,23 +1718,6 @@ The post Tiny Jets on the Sun Power the Colossal Solar Wind first appeared on Qu
         <summary type="html"><![CDATA[This week we prettify TS errors, go offline, celebrate 30 years of web browser, talk about trusts, experiment with 10 different GPTs, and travel up a space elevator.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #99 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-99/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-99/"/>
-        <updated>2023-04-22T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! 👋
-
-Do you know what's new in ECMAScript 2023? Or are you still confused about all these CSS color spaces? Or want to learn how to shrink your custom web fonts?
-All the answers and much more are included in this week's Web Weekly. 🫣
-Three weeks ago, I published a post getting into variable fonts, the Roboto font, and its GRAD axis that enables you to transition font weights without characters getting wider.
-The post includes an interactive component to see the font feature in action. And this all worked perfectly, but I didn't feel great when I deployed it.
-Why? Because I shipped a 780kB heavy Roboto font for a tiny demo component. That's five times my blog's overall page weight.
-So I decided to squeeze out as many bytes of Roboto as possible, and guess what? I shrunk it down t…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
