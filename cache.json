@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/",
+          "author": "Manoel Cortes Mendez",
+          "description": "In this article, I compiled 120 free online courses offered by the 60 best universities in the world for studying math in 2023. I did so by combining popular university rankings to identify the best institutions, and then I used the Class Central database [https://www.classcentral.com/subjects] to find all their math",
+          "link": "https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/",
+          "publishedOn": "2023-05-23T22:12:28.000Z",
+          "wordCount": 2364,
+          "title": "120 Free Online Math Courses from the World’s Top Universities",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/mathematics-banner.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/stream-file-uploads-to-s3-object-storage-and-reduce-costs/",
+          "author": "Austin Gil",
+          "description": "To support file uploads in your application, you will have to learn how to send files from the frontend [https://austingil.com/uploading-files-with-html/] and  receive files on the backend [https://austingil.com/file-uploads-in-node/].  This tutorial is going to take a step back and explore architectural changes that'll help you reduce costs when adding file",
+          "link": "https://www.freecodecamp.org/news/stream-file-uploads-to-s3-object-storage-and-reduce-costs/",
+          "publishedOn": "2023-05-23T19:51:05.000Z",
+          "wordCount": 3784,
+          "title": "How to Stream File Uploads to S3 Object Storage and Reduce Costs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-pixabay-219717.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-rabbitmq-with-nodejs/",
+          "author": "Arunachalam B",
+          "description": "If you're exploring the world of distributed systems and real-time data pipelines, you've probably come across the concept of message queues.  There are a number of tools in this field, but RabbitMQ and Apache Kafka are two of the most popular. While both are robust and reliable, they have",
+          "link": "https://www.freecodecamp.org/news/how-to-use-rabbitmq-with-nodejs/",
+          "publishedOn": "2023-05-23T14:45:51.000Z",
+          "wordCount": 2319,
+          "title": "How to Use RabbitMQ with NodeJS to Send and Receive Messages",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/What-is-RabbitMQ-and-How-to-use-it-with-NodeJS_1.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/full-stack-development-with-next-js-typescript-and-aws/",
           "author": "Beau Carnes",
           "description": "Learn how create a full stack app with Next.js, TypeScript, and AWS Amplify. We just publshed a new full stack app course on the freeCodeCamp.org YouTube channel. Brian H. Hough, a renowned software engineer and course creator, is your guide. He'll help you build an inspirational quote generator app. You'll",
@@ -1259,6 +1289,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=126196",
+          "author": "Patrick Honner",
+          "description": "Simple math can help explain the complexities of the newly discovered aperiodic monotile.            \nThe post Math Patterns That Go On Forever but Never Repeat first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/math-that-goes-on-forever-but-never-repeats-20230523/",
+          "publishedOn": "2023-05-23T14:09:51.000Z",
+          "wordCount": 7209,
+          "title": "Math Patterns That Go On Forever but Never Repeat",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/05/MayAcademy-byRobertNeubecker-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=126116",
           "author": "Steve Nadis",
           "description": "Researchers uncover striking parallels in the ways that humans and machine learning models acquire language skills.            \nThe post Some Neural Networks Learn Language Like Humans first appeared on Quanta Magazine",
@@ -1474,16 +1514,6 @@
           "wordCount": 1471,
           "title": "Weekend Reading — So much distraction",
           "imageUrl": "https://labnotes.org/content/images/2023/05/bafkreiat66ddoj434zidl3juasqwsfk3nvflzcfp5zxszhl6cids633ekq.jpg"
-        },
-        {
-          "id": "643c6d922bf34910edc3aec5",
-          "author": "Assaf Arkin",
-          "description": "This week we prettify TS errors, go offline, celebrate 30 years of web browser, talk about trusts, experiment with 10 different GPTs, and travel up a space elevator.",
-          "link": "https://labnotes.org/weekend-reading-rapid-unscheduled-disassembly/",
-          "publishedOn": "2023-04-23T23:40:24.000Z",
-          "wordCount": 2012,
-          "title": "Weekend Reading — 🚀 Rapid unscheduled disassembly",
-          "imageUrl": "https://labnotes.org/content/images/2023/04/image-92-1.png"
         }
       ]
     },
@@ -1529,6 +1559,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/461",
+          "author": null,
+          "description": "#​461 — May 23, 2023\n\n\nUnsub  |  Web Version\n\n\n\nGo Weekly\n\n\n\n\n  \n\n\n\n\n\n  \n  \nHow to Start a Go Project in 2023 — The same author wrote a similar piece in 2018; a bit has changed since then. While this may be aimed at new gophers, experienced folks could find something to take away. “Older guides will mention setting up your $GOPATH. This is something you can comfortably ignore in 2023.” Quite!\nBen E. C. Boyter \n\n\n  \n  \nOn Adding a Reverse Operation to slices — The slices package defines several useful functions for working with slices, but there’s no way to reverse one in-place. This idea seems to be popular, though. There’s already a patch, and Russ Cox just recently put the idea forward to be reviewed at a proposal review meeting with the result being a 'likely accept.'\nAlan Donovan et al…",
+          "link": "https://golangweekly.com/issues/461",
+          "publishedOn": "2023-05-23T00:00:00.000Z",
+          "wordCount": 930,
+          "title": "1 million concurrent tasks",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/460",
           "author": null,
