@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-24T01:25:23.739Z</updated>
+    <updated>2023-05-25T01:21:41.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Copy a Directory in Linux with the cp Command]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-copy-a-directory-in-linux-with-the-cp-command/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-copy-a-directory-in-linux-with-the-cp-command/"/>
+        <updated>2023-05-24T22:21:19.000Z</updated>
+        <summary type="html"><![CDATA[Copying directories is an essential task in Linux. It allows you to duplicate directories, create backups, or transfer data between different locations.  One of the most commonly used commands for copying files and directories in Linux is cp. In this tutorial, we will explore how to copy directories effectively]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Sheets – How to Automatically Post Events to Google Calendar with Apps Script]]></title>
+        <id>https://www.freecodecamp.org/news/google-sheets-automatically-post-events-to-google-calendar-with-apps-script/</id>
+        <link href="https://www.freecodecamp.org/news/google-sheets-automatically-post-events-to-google-calendar-with-apps-script/"/>
+        <updated>2023-05-24T21:44:39.000Z</updated>
+        <summary type="html"><![CDATA[In this article we'll link two Google services -> Google Sheets and Google Calendar. By using a very short custom function in Google Apps Script, we can add a list of events from a Google Sheet to a Google Calendar. 🤯 And we'll even have it email our guests as]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Security Analysts Can Use Artificial Intelligence (AI) in Cybersecurity]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-artificial-intelligence-in-cybersecurity/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-artificial-intelligence-in-cybersecurity/"/>
+        <updated>2023-05-24T20:58:02.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence (AI) has been a game-changer in cybersecurity. It has revolutionized the approach to cybersecurity by providing advanced techniques to detect and mitigate cyber threats.  The use of AI in cybersecurity is increasing rapidly, with many companies adopting it as a key tool in their cybersecurity strategy.]]></summary>
+        <author>
+            <name>Sonya Moisset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Responsive Navigation Bar with a Dropdown Menu using JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-responsive-navigation-bar-with-dropdown-menu-using-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-responsive-navigation-bar-with-dropdown-menu-using-javascript/"/>
+        <updated>2023-05-24T20:52:51.000Z</updated>
+        <summary type="html"><![CDATA[Navigation bars are essential components used a lot in websites and web apps. As a web developer, you will need to be able to customize them, either for a client project or a basic portfolio site. In this guide, you'll learn how to build a navigation bas for yourself from]]></summary>
+        <author>
+            <name>Victor Eke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Django to Code a ChatGPT Clone]]></title>
+        <id>https://www.freecodecamp.org/news/use-django-to-code-a-chatgpt-clone/</id>
+        <link href="https://www.freecodecamp.org/news/use-django-to-code-a-chatgpt-clone/"/>
+        <updated>2023-05-24T18:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Creating an AI chatbot might seem like a daunting task, especially if you're not an experienced programmer. But we just launched a course on the freeCodeCamp.org YouTube channel that will demystify the process and walk you through it step-by-step. This course focuses on using Django, a high-level Python web framework,]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is It Real or Imagined? How Your Brain Tells the Difference.]]></title>
+        <id>https://www.quantamagazine.org/?p=126271</id>
+        <link href="https://www.quantamagazine.org/is-it-real-or-imagined-how-your-brain-tells-the-difference-20230524/"/>
+        <updated>2023-05-24T13:59:25.000Z</updated>
+        <summary type="html"><![CDATA[New experiments show that the brain distinguishes between perceived and imagined mental images by checking whether they cross a “reality threshold.”            
+The post Is It Real or Imagined? How Your Brain Tells the Difference. first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Yasemin Saplakoglu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[120 Free Online Math Courses from the World’s Top Universities]]></title>
         <id>https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/</id>
@@ -1613,179 +1674,6 @@ The post Why Mathematicians Re-Prove What They Already Know first appeared on Qu
 The post How Pools of Genetic Diversity Affect a Species’ Fate first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Anna Funk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Large Language Models and Cybersecurity – What You Should Know]]></title>
-        <id>https://www.freecodecamp.org/news/large-language-models-and-cybersecurity/</id>
-        <link href="https://www.freecodecamp.org/news/large-language-models-and-cybersecurity/"/>
-        <updated>2023-04-25T01:03:55.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT has had well over a billion visits since its release. Now, what happens when you combine the greatest language learning model of the decade with malicious hacking...what could go wrong? 💀 In this article, we'll explore what artificial intelligence is, its current state, how large language models like ChatGPT]]></summary>
-        <author>
-            <name>Daniel Iwugo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get the Current URL with JavaScript – JS Location Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-get-the-current-url-with-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-the-current-url-with-javascript/"/>
-        <updated>2023-04-25T00:34:45.000Z</updated>
-        <summary type="html"><![CDATA[If you're a web developer, you'll work with JavaScript when building dynamic and interactive web applications. One common task that you'll need to perform is getting the current URL of a web page. In this article, you will learn how to get the current URL using JavaScript's Location object. I'll]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Test gains and memory drains]]></title>
-        <id>https://golangweekly.com/issues/457</id>
-        <link href="https://golangweekly.com/issues/457"/>
-        <updated>2023-04-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​457 — April 25, 2023
-
-
-Unsub  |  Web Version
-
-
-
-Go Weekly
-
-
-
-
-  
-
-
-
-
-
-  
-  
-How to Troubleshoot Memory Leaks with Grafana Pyroscope — Explore common causes of memory leaks in Go and learn to use Pyroscope, an open source continuous profiling solution, itself written in Go, to find and fix such leaks.
-Cyril Tovena (Grafana Labs) 
-
-
-  
-  
-Go Integration Testing with Courage and Coverage — A tale of integrating test coverage tracking into an active Go project as part of pushing the overall coverage from a worrying 50% to a somewhat better 76%. Go 1.20’s new coverage profiling support is also showcased.
-Vladimir Dementyev 
-
-
-  
-  
-Add a Full-Featured Notification Center to Your Go App in Minutes — With out-of-box user preferences and inbox, comprehensive API, web-based template designer, and…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use ChatGPT – Prompts for Data Scientists]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-chatgpt-for-data-scientists/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-chatgpt-for-data-scientists/"/>
-        <updated>2023-04-24T23:01:14.000Z</updated>
-        <summary type="html"><![CDATA[These days, many people are concerned with the way AI is evolving. They see it effortlessly solving problems, performing tasks quickly and accurately, and doing jobs easily and efficiently.  And while some people are scared, others are actually embracing it. I'm one of those people who are embracing it,]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Server Side Rendering in JavaScript – SSR vs CSR Explained]]></title>
-        <id>https://www.freecodecamp.org/news/server-side-rendering-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/server-side-rendering-javascript/"/>
-        <updated>2023-04-24T22:12:31.000Z</updated>
-        <summary type="html"><![CDATA[The concept of Server Side Rendering (SSR) is often misunderstood. So my aim in this article is to bring clarity to this process and how it works.  Here's what we'll cover in this guide:  1. What is server side rendering? What are its pros and cons when compared]]></summary>
-        <author>
-            <name>Scott Gary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Pointers in Go? A Guide for JavaScript Devs]]></title>
-        <id>https://www.freecodecamp.org/news/what-are-pointers-in-go/</id>
-        <link href="https://www.freecodecamp.org/news/what-are-pointers-in-go/"/>
-        <updated>2023-04-24T22:07:19.000Z</updated>
-        <summary type="html"><![CDATA[Coming from a language like JavaScript, pointers can be kind of confusing at first. Here I will break it down so that they are easier to understand. What Are Pointers in Go? Just like in JavaScript, Go has variables which are locations in memory that store a value.  In]]></summary>
-        <author>
-            <name>Brian Barrow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Debug Your Code Like a Competitive Programmer –Automate and Save Time]]></title>
-        <id>https://www.freecodecamp.org/news/debugging-like-competitive-programmers/</id>
-        <link href="https://www.freecodecamp.org/news/debugging-like-competitive-programmers/"/>
-        <updated>2023-04-24T22:03:14.000Z</updated>
-        <summary type="html"><![CDATA[I've been a competitive programmer for many years. And during that time, I have faced the process of debugging on numerous occasions.  In this article, I will try to describe how debugging works in such environments, instead of depicting it in the regular software development activities we do every]]></summary>
-        <author>
-            <name>Alberto Gonzalez Rosales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Redux Toolkit to Manage State in Your React Application]]></title>
-        <id>https://www.freecodecamp.org/news/use-redux-toolkit-to-manage-state-in-react-apps/</id>
-        <link href="https://www.freecodecamp.org/news/use-redux-toolkit-to-manage-state-in-react-apps/"/>
-        <updated>2023-04-24T21:38:24.000Z</updated>
-        <summary type="html"><![CDATA[State management is one of the most important things you'll deal with in front end development.  You can manage state in React in various ways. Some examples include using state in class components, using React hooks such as useState and useEffect hook, using the Context API, or using Redux.]]></summary>
-        <author>
-            <name>Quincy Oghenetejiri Ukumakube</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Google Apps Script – Build a Paint By Numbers Spreadsheet]]></title>
-        <id>https://www.freecodecamp.org/news/learn-google-apps-script-build-a-paint-by-numbers-spreadsheet/</id>
-        <link href="https://www.freecodecamp.org/news/learn-google-apps-script-build-a-paint-by-numbers-spreadsheet/"/>
-        <updated>2023-04-24T21:12:07.000Z</updated>
-        <summary type="html"><![CDATA[Spreadsheets are great for financial modeling, but they're also capable of displaying pixel art.  In this Apps Script tutorial, we'll build a paint by numbers spreadsheet using conditional formatting and a script that "paints" a blank spreadsheet. You'll learn how to:  1. Import data  2. Apply proper]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn React Router 6 in Ten Hours]]></title>
-        <id>https://www.freecodecamp.org/news/learn-react-router-6-3/</id>
-        <link href="https://www.freecodecamp.org/news/learn-react-router-6-3/"/>
-        <updated>2023-04-24T20:34:28.000Z</updated>
-        <summary type="html"><![CDATA[React Router is a powerful library that helps you build single-page applications with ease. It allows you to create multiple routes, nested routes, and handle transitions between them, all while maintaining a clean and organized codebase. We just published a course on the freeCodeCamp.org YouTube channel that will teach you]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Boost Your Creativity – Strategies for Generating Ideas and Overcoming Writer's Block]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-overcome-writers-block-and-boost-creativity/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-overcome-writers-block-and-boost-creativity/"/>
-        <updated>2023-04-24T19:46:18.000Z</updated>
-        <summary type="html"><![CDATA[Do you ever find yourself stuck when it comes to writing or unable to come up with creative solutions to a problem? Don’t worry—you are not alone. Everyone experiences writer's block or a lack of creativity at some point. At times, as writers, we may be really eager to write]]></summary>
-        <author>
-            <name>Ijeoma Igboagu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is RAM? How to Access Your Computer's RAM and Read the Contents]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-access-and-read-ram-contents/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-access-and-read-ram-contents/"/>
-        <updated>2023-04-24T19:31:18.000Z</updated>
-        <summary type="html"><![CDATA[This article is a comprehensive guide on how to read the contents of your computer's RAM.  Random Access Memory (RAM) is a crucial component of any computer system, and it is responsible for temporarily storing data that is required by the system to carry out its functions. But the]]></summary>
-        <author>
-            <name>Gursimar Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Visualization with Matplotlib – a Step by Step Guide]]></title>
-        <id>https://www.freecodecamp.org/news/introduction-to-data-vizualization-using-matplotlib/</id>
-        <link href="https://www.freecodecamp.org/news/introduction-to-data-vizualization-using-matplotlib/"/>
-        <updated>2023-04-24T18:32:32.000Z</updated>
-        <summary type="html"><![CDATA[SEE [https://tv.apple.com/us/show/see/umc.cmc.3s4mgg2y7h95fks9gnc4pw13m] is a beautiful Apple TV series that depicts a dystopia where humans have lost their sight. Hundreds of years later, it was considered a myth that people could ever see.  Jason Momoa is one of the leads and plays Baba Voss, an elite warrior. Jason's wife gives]]></summary>
-        <author>
-            <name>MENE-EJEGI OGBEMI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tiny Jets on the Sun Power the Colossal Solar Wind]]></title>
-        <id>https://www.quantamagazine.org/?p=125213</id>
-        <link href="https://www.quantamagazine.org/tiny-jets-on-the-sun-power-the-colossal-solar-wind-20230424/"/>
-        <updated>2023-04-24T14:00:36.000Z</updated>
-        <summary type="html"><![CDATA[A new analysis argues that ubiquitous eruptions in the sun’s corona explain the vast flow of charged particles seen streaming out through the solar system.            
-The post Tiny Jets on the Sun Power the Colossal Solar Wind first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Theo Nicitopoulos</name>
         </author>
     </entry>
 </feed>
