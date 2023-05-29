@@ -1110,36 +1110,6 @@
           "wordCount": 981,
           "title": "Learn Python from Harvard University",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/cs50python.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-hoisting-in-javascript-3/",
-          "author": "Dillion Megida",
-          "description": "Hoisting is a concept or behavior in JavaScript where the declaration of a function, variable, or class goes to the top of the scope they were defined in. What does this mean? Hoisting is a concept you may find in some programming languages (such as JavaScript) and not in others.",
-          "link": "https://www.freecodecamp.org/news/what-is-hoisting-in-javascript-3/",
-          "publishedOn": "2023-04-28T14:54:11.000Z",
-          "wordCount": 2132,
-          "title": "What is Hoisting in JavaScript | Hoisting Functions, Variables and Classes",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/27-hoisting.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-pub-sub-in-redis/",
-          "author": "Mihail Gaberov",
-          "description": "When you're working on an application that needs to be easily maintainable, scalable, and performant, the Publish/Subscribe messaging pattern is a good choice. The idea behind it is simple, but powerful. We have senders called publishers.  Their sole role is to send or publish messages. They don’t care about",
-          "link": "https://www.freecodecamp.org/news/how-to-use-pub-sub-in-redis/",
-          "publishedOn": "2023-04-28T14:33:25.000Z",
-          "wordCount": 1925,
-          "title": "Pub/Sub in Redis – How to Use the Publish/Subscribe Messaging Pattern",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/image-332-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-hackers-can-breach-your-smartphones-security/",
-          "author": "Manish Shivanandhan",
-          "description": "Smartphones are integral to our lives, making them prime targets for hackers. In this article, we will go through 7 ways hackers can gain access to your smartphone and how to protect against these attacks. Smartphones have become an essential part of our daily lives with instant access to information",
-          "link": "https://www.freecodecamp.org/news/how-hackers-can-breach-your-smartphones-security/",
-          "publishedOn": "2023-04-28T14:16:33.000Z",
-          "wordCount": 1965,
-          "title": "Digital Intruders – Top Ways Hackers Can Breach Your Smartphone’s Security",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/0_oX7oKDWxr6bwRgXd.jpg"
         }
       ]
     },
@@ -1362,6 +1332,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/notes/resumability-compilers-and-event-delegation/",
+          "author": null,
+          "description": "Lately, there's been a lot of ground-breaking noise in the JavaScript ecosystem. Don't get me wrong, the \"let's invent the next big thing\" mantra in JS land isn't new, but for a year or so, it feels like fundamental interactivity patterns are shaken up.\nReact finally shipped a working implementation of Server Components in Next.js. I haven't played with them yet, but it seems they involve heavy bundler magic to make them feel like good old PHP.\n\n        \n\n        \nMark Dalgleish\n              @markdalgleish\n            \n\n334 retweets\n            1972 likes\n\n            Tweeted \n              \n                May 03 2020\n              \n            \n            Open Tweet\n          \n\nAll the new stuff is about bundling code differently to restructure function exports and using newly invented…",
+          "link": "https://www.stefanjudis.com/notes/resumability-compilers-and-event-delegation/",
+          "publishedOn": "2023-05-27T22:00:00.000Z",
+          "wordCount": 1662,
+          "title": "Resumability, compilers and event delegation (#note)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Resumability%252C%20compilers%20and%20event%20delegation/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-101/",
           "author": null,

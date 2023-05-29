@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-28T01:38:36.692Z</updated>
+    <updated>2023-05-29T01:25:38.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Resumability, compilers and event delegation (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/resumability-compilers-and-event-delegation/</id>
+        <link href="https://www.stefanjudis.com/notes/resumability-compilers-and-event-delegation/"/>
+        <updated>2023-05-27T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lately, there's been a lot of ground-breaking noise in the JavaScript ecosystem. Don't get me wrong, the "let's invent the next big thing" mantra in JS land isn't new, but for a year or so, it feels like fundamental interactivity patterns are shaken up.
+React finally shipped a working implementation of Server Components in Next.js. I haven't played with them yet, but it seems they involve heavy bundler magic to make them feel like good old PHP.
+
+        
+
+        
+Mark Dalgleish
+              @markdalgleish
+            
+
+334 retweets
+            1972 likes
+
+            Tweeted 
+              
+                May 03 2020
+              
+            
+            Open Tweet
+          
+
+All the new stuff is about bundling code differently to restructure function exports and using newly invented…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Strings in C# – What's New, Explained with Code Examples]]></title>
         <id>https://www.freecodecamp.org/news/new-ish-things-about-c-strings/</id>
@@ -1552,36 +1583,6 @@ So much about, "we won't store user info unless you play the video". Not cool, Y
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Hoisting in JavaScript | Hoisting Functions, Variables and Classes]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-hoisting-in-javascript-3/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-hoisting-in-javascript-3/"/>
-        <updated>2023-04-28T14:54:11.000Z</updated>
-        <summary type="html"><![CDATA[Hoisting is a concept or behavior in JavaScript where the declaration of a function, variable, or class goes to the top of the scope they were defined in. What does this mean? Hoisting is a concept you may find in some programming languages (such as JavaScript) and not in others.]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pub/Sub in Redis – How to Use the Publish/Subscribe Messaging Pattern]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-pub-sub-in-redis/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-pub-sub-in-redis/"/>
-        <updated>2023-04-28T14:33:25.000Z</updated>
-        <summary type="html"><![CDATA[When you're working on an application that needs to be easily maintainable, scalable, and performant, the Publish/Subscribe messaging pattern is a good choice. The idea behind it is simple, but powerful. We have senders called publishers.  Their sole role is to send or publish messages. They don’t care about]]></summary>
-        <author>
-            <name>Mihail Gaberov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Intruders – Top Ways Hackers Can Breach Your Smartphone’s Security]]></title>
-        <id>https://www.freecodecamp.org/news/how-hackers-can-breach-your-smartphones-security/</id>
-        <link href="https://www.freecodecamp.org/news/how-hackers-can-breach-your-smartphones-security/"/>
-        <updated>2023-04-28T14:16:33.000Z</updated>
-        <summary type="html"><![CDATA[Smartphones are integral to our lives, making them prime targets for hackers. In this article, we will go through 7 ways hackers can gain access to your smartphone and how to protect against these attacks. Smartphones have become an essential part of our daily lives with instant access to information]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
 </feed>
