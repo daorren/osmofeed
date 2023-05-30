@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-29T01:25:38.286Z</updated>
+    <updated>2023-05-30T01:27:05.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #102 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-102/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-102/"/>
+        <updated>2023-05-28T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! 👋
+
+Do you want to know why the new .zip domains are a security thread? Or what the passwordrules HTML attribute is about? Or want to see some stunning view transition examples?
+All the answers and much more are included in this week's Web Weekly. 🫣
+Let's kick things off with some web platform updates!
+Firefox 113 was released this month, and with it, two major web features went into cross-browser territory.
+First, the :nth-child() pseudo-class got an upgrade and now supports the fancy pany of syntax.
+The new syntax is on my long list to blog about, but until I get to it, Bramus has you covered on web.dev.
+And second, new colorspaces and CSS functions are entering the web:  color(), oklab(), oklch(), and color-mix().
+Your websites can now show colors redder than #FF0000. Sounds…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safari allows to configure password autofilling (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/safari-allows-to-configure-password-autofilling/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/safari-allows-to-configure-password-autofilling/"/>
+        <updated>2023-05-28T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Suppose you're using a password manager (if you don't, go and install one now — the internet is a scary place, and breaches happen all the time); you might have run into situations when your password manager comes up with a nicely cryptic and unique password that'll be rejected by a website because it's too long, uses not allowed characters or other nonsense.
+If that happens, you should evaluate if you really want to subscribe somewhere, but it's also poor UX. Wouldn't it be great if there was a declarative way to inform password managers about supported password combinations?
+It turns out there is — sort of. If you're in the Apple ecosystem and use the native password management tools, Safari supports a passwordrules HTML attribute to control its password autofill feature. 1Password also seems to pick up the attribute.
+<input type="password" 
+  passwordrules="minlength: 8; required: lower; required: upper; required: digit; required: [_];">
+
+If you want to play around with passwordrules, Apple provides a tool to generate rules and you can test it out in Safari. The feature worked for simple configurations but enforcing Unicode characters such as ⭐ didn't work for me. 😅
+As far as I can tell, there's no proper spec about the HTML attribute yet, but it's up for discussion since 2018 (thanks Dennis Schubert). And while digging deeper (thanks Thomas Broyer), I discovered that passwordrules probably won't go anywhere soon because Mozilla doesn't think it's a good idea.
+Let's see how this turns out!
+Multiple folks pointed out that passwort restrictions are useless because the only thing protecting against a brutforce attack is password length. I'm no security expert and might do some reading to update the post later.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Resumability, compilers and event delegation (#note)]]></title>
         <id>https://www.stefanjudis.com/notes/resumability-compilers-and-event-delegation/</id>
@@ -1554,33 +1597,6 @@ Something that made me smile this week
 Have some fun with this "adoorable" one-minute-long mini-game. It comes with a little surprise at the end. 😉
 Open the door
 Qu…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The lie of YouTube's privacy-enhanced embed mode (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/the-lie-of-youtubes-privacy-enhanced-embed-mode/</id>
-        <link href="https://www.stefanjudis.com/notes/the-lie-of-youtubes-privacy-enhanced-embed-mode/"/>
-        <updated>2023-04-29T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you remember Facebook's hugely popular like button? A quick-to-add JS snippet enabled site owners to implement Facebook functionality, and the social media giant started tracking people across the web.
-It's been wild times, and luckily, things are different today. People are more privacy aware, (some) browsers started blocking all these trackers, and I stopped using Facebook years ago.
-But I do watch many YouTube videos. And this made me think: how does YouTube treat privacy when you embed a video?
-I was delighted to learn about YouTube's privacy-enhanced embed mode!
-If you turn it on, the iframe source changes from youtube.com/embed/[ID] to youtube-nocookie.com/embed/[ID]. That's pretty cool!
-But unfortunately, I just stumbled upon Jason Grigsby's disappointment about the feature.
-So what's up?
-First, the domain youtube-nocookie.com seemed to have been a cute developer idea until the business decided that dropping all cookies isn't great for the ad monetization model. youtube-nocookie.com does not mean no cookies.
-"We won't store user info unless you interact with the embed".
-Ouch... but fair; YouTube doesn't hide what they're doing here. youtube-nocookie.com isn't more than an unfortunate domain choice, but hey, we've all bought silly domains at some point, right?
-But it's not okay that the explainer claims that the embed only starts storing user info after an interaction.
-I just tried it out, and look what I've found in my localstorage. 🤦‍♂️
-So much about, "we won't store user info unless you play the video". Not cool, YouTube. Really not cool!
-
-
-          
-          
-            Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>

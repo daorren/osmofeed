@@ -1333,6 +1333,26 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-102/",
+          "author": null,
+          "description": "Guten Tag! 👋\n\nDo you want to know why the new .zip domains are a security thread? Or what the passwordrules HTML attribute is about? Or want to see some stunning view transition examples?\nAll the answers and much more are included in this week's Web Weekly. 🫣\nLet's kick things off with some web platform updates!\nFirefox 113 was released this month, and with it, two major web features went into cross-browser territory.\nFirst, the :nth-child() pseudo-class got an upgrade and now supports the fancy pany of syntax.\nThe new syntax is on my long list to blog about, but until I get to it, Bramus has you covered on web.dev.\nAnd second, new colorspaces and CSS functions are entering the web:  color(), oklab(), oklch(), and color-mix().\nYour websites can now show colors redder than #FF0000. Sounds…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-102/",
+          "publishedOn": "2023-05-28T22:00:00.000Z",
+          "wordCount": 1948,
+          "title": "Web Weekly #102 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/safari-allows-to-configure-password-autofilling/",
+          "author": null,
+          "description": "Suppose you're using a password manager (if you don't, go and install one now — the internet is a scary place, and breaches happen all the time); you might have run into situations when your password manager comes up with a nicely cryptic and unique password that'll be rejected by a website because it's too long, uses not allowed characters or other nonsense.\nIf that happens, you should evaluate if you really want to subscribe somewhere, but it's also poor UX. Wouldn't it be great if there was a declarative way to inform password managers about supported password combinations?\nIt turns out there is — sort of. If you're in the Apple ecosystem and use the native password management tools, Safari supports a passwordrules HTML attribute to control its password autofill feature. 1Password also seems to pick up the attribute.\n<input type=\"password\" \n  passwordrules=\"minlength: 8; required: lower; required: upper; required: digit; required: [_];\">\n\nIf you want to play around with passwordrules, Apple provides a tool to generate rules and you can test it out in Safari. The feature worked for simple configurations but enforcing Unicode characters such as ⭐ didn't work for me. 😅\nAs far as I can tell, there's no proper spec about the HTML attribute yet, but it's up for discussion since 2018 (thanks Dennis Schubert). And while digging deeper (thanks Thomas Broyer), I discovered that passwordrules probably won't go anywhere soon because Mozilla doesn't think it's a good idea.\nLet's see how this turns out!\nMultiple folks pointed out that passwort restrictions are useless because the only thing protecting against a brutforce attack is password length. I'm no security expert and might do some reading to update the post later.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/safari-allows-to-configure-password-autofilling/",
+          "publishedOn": "2023-05-28T22:00:00.000Z",
+          "wordCount": 1332,
+          "title": "Safari allows to configure password autofilling (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Safari%20allows%20to%20configure%20password%20autofilling/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/notes/resumability-compilers-and-event-delegation/",
           "author": null,
           "description": "Lately, there's been a lot of ground-breaking noise in the JavaScript ecosystem. Don't get me wrong, the \"let's invent the next big thing\" mantra in JS land isn't new, but for a year or so, it feels like fundamental interactivity patterns are shaken up.\nReact finally shipped a working implementation of Server Components in Next.js. I haven't played with them yet, but it seems they involve heavy bundler magic to make them feel like good old PHP.\n\n        \n\n        \nMark Dalgleish\n              @markdalgleish\n            \n\n334 retweets\n            1972 likes\n\n            Tweeted \n              \n                May 03 2020\n              \n            \n            Open Tweet\n          \n\nAll the new stuff is about bundling code differently to restructure function exports and using newly invented…",
@@ -1361,16 +1381,6 @@
           "wordCount": 1783,
           "title": "Web Weekly #100 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/the-lie-of-youtubes-privacy-enhanced-embed-mode/",
-          "author": null,
-          "description": "Do you remember Facebook's hugely popular like button? A quick-to-add JS snippet enabled site owners to implement Facebook functionality, and the social media giant started tracking people across the web.\nIt's been wild times, and luckily, things are different today. People are more privacy aware, (some) browsers started blocking all these trackers, and I stopped using Facebook years ago.\nBut I do watch many YouTube videos. And this made me think: how does YouTube treat privacy when you embed a video?\nI was delighted to learn about YouTube's privacy-enhanced embed mode!\nIf you turn it on, the iframe source changes from youtube.com/embed/[ID] to youtube-nocookie.com/embed/[ID]. That's pretty cool!\nBut unfortunately, I just stumbled upon Jason Grigsby's disappointment about the feature.\nSo what's up?\nFirst, the domain youtube-nocookie.com seemed to have been a cute developer idea until the business decided that dropping all cookies isn't great for the ad monetization model. youtube-nocookie.com does not mean no cookies.\n\"We won't store user info unless you interact with the embed\".\nOuch... but fair; YouTube doesn't hide what they're doing here. youtube-nocookie.com isn't more than an unfortunate domain choice, but hey, we've all bought silly domains at some point, right?\nBut it's not okay that the explainer claims that the embed only starts storing user info after an interaction.\nI just tried it out, and look what I've found in my localstorage. 🤦‍♂️\nSo much about, \"we won't store user info unless you play the video\". Not cool, YouTube. Really not cool!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/notes/the-lie-of-youtubes-privacy-enhanced-embed-mode/",
-          "publishedOn": "2023-04-29T22:00:00.000Z",
-          "wordCount": 1294,
-          "title": "The lie of YouTube's privacy-enhanced embed mode (#note)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:The%20lie%20of%20YouTube's%20privacy-enhanced%20embed%20mode/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },

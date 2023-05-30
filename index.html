@@ -22,6 +22,96 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-05-28 datetime="2023-05-28T22:00:00.000Z">2023-05-28</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-05-28 datetime="2023-05-28T22:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/blog/web-weekly-102/"
+                        open
+                      >
+                        <summary class="article-expander__title">Web Weekly #102 (#blogPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/blog/web-weekly-102/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.stefanjudis.com/newsletter-social.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Guten Tag! 👋
+
+Do you want to know why the new .zip domains are a security thread? Or what the passwordrules HTML attribute is about? Or want to see some stunning view transition examples?
+All the answers and much more are included in this week&#x27;s Web Weekly. 🫣
+Let&#x27;s kick things off with some web platform updates!
+Firefox 113 was released this month, and with it, two major web features went into cross-browser territory.
+First, the :nth-child() pseudo-class got an upgrade and now supports the fancy pany of syntax.
+The new syntax is on my long list to blog about, but until I get to it, Bramus has you covered on web.dev.
+And second, new colorspaces and CSS functions are entering the web:  color(), oklab(), oklch(), and color-mix().
+Your websites can now show colors redder than #FF0000. Sounds…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/today-i-learned/safari-allows-to-configure-password-autofilling/"
+                        open
+                      >
+                        <summary class="article-expander__title">Safari allows to configure password autofilling (#tilPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/safari-allows-to-configure-password-autofilling/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Safari%20allows%20to%20configure%20password%20autofilling/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Suppose you&#x27;re using a password manager (if you don&#x27;t, go and install one now — the internet is a scary place, and breaches happen all the time); you might have run into situations when your password manager comes up with a nicely cryptic and unique password that&#x27;ll be rejected by a website because it&#x27;s too long, uses not allowed characters or other nonsense.
+If that happens, you should evaluate if you really want to subscribe somewhere, but it&#x27;s also poor UX. Wouldn&#x27;t it be great if there was a declarative way to inform password managers about supported password combinations?
+It turns out there is — sort of. If you&#x27;re in the Apple ecosystem and use the native password management tools, Safari supports a passwordrules HTML attribute to control its password autofill feature. 1Password also seems to pick up the attribute.
+
+
+If you want to play around with passwordrules, Apple provides a tool to generate rules and you can test it out in Safari. The feature worked for simple configurations but enforcing Unicode characters such as ⭐ didn&#x27;t work for me. 😅
+As far as I can tell, there&#x27;s no proper spec about the HTML attribute yet, but it&#x27;s up for discussion since 2018 (thanks Dennis Schubert). And while digging deeper (thanks Thomas Broyer), I discovered that passwordrules probably won&#x27;t go anywhere soon because Mozilla doesn&#x27;t think it&#x27;s a good idea.
+Let&#x27;s see how this turns out!
+Multiple folks pointed out that passwort restrictions are useless because the only thing protecting against a brutforce attack is password length. I&#x27;m no security expert and might do some reading to update the post later.
+
+
+          
+          
+            Reply to Stefan</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-05-27 datetime="2023-05-27T22:00:00.000Z">2023-05-27</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-05-27 datetime="2023-05-27T22:00:00.000Z"></time>
           </button>
@@ -3885,75 +3975,10 @@ Qu…</span>
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-04-29 datetime="2023-04-29T22:00:00.000Z">2023-04-29</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-04-29 datetime="2023-04-29T22:00:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Stefan Judis Web Development</button>
-                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.stefanjudis.com/notes/the-lie-of-youtubes-privacy-enhanced-embed-mode/"
-                        open
-                      >
-                        <summary class="article-expander__title">The lie of YouTube&#x27;s privacy-enhanced embed mode (#note)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/notes/the-lie-of-youtubes-privacy-enhanced-embed-mode/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:The%20lie%20of%20YouTube&#x27;s%20privacy-enhanced%20embed%20mode/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Do you remember Facebook&#x27;s hugely popular like button? A quick-to-add JS snippet enabled site owners to implement Facebook functionality, and the social media giant started tracking people across the web.
-It&#x27;s been wild times, and luckily, things are different today. People are more privacy aware, (some) browsers started blocking all these trackers, and I stopped using Facebook years ago.
-But I do watch many YouTube videos. And this made me think: how does YouTube treat privacy when you embed a video?
-I was delighted to learn about YouTube&#x27;s privacy-enhanced embed mode!
-If you turn it on, the iframe source changes from youtube.com/embed/[ID] to youtube-nocookie.com/embed/[ID]. That&#x27;s pretty cool!
-But unfortunately, I just stumbled upon Jason Grigsby&#x27;s disappointment about the feature.
-So what&#x27;s up?
-First, the domain youtube-nocookie.com seemed to have been a cute developer idea until the business decided that dropping all cookies isn&#x27;t great for the ad monetization model. youtube-nocookie.com does not mean no cookies.
-&quot;We won&#x27;t store user info unless you interact with the embed&quot;.
-Ouch... but fair; YouTube doesn&#x27;t hide what they&#x27;re doing here. youtube-nocookie.com isn&#x27;t more than an unfortunate domain choice, but hey, we&#x27;ve all bought silly domains at some point, right?
-But it&#x27;s not okay that the explainer claims that the embed only starts storing user info after an interaction.
-I just tried it out, and look what I&#x27;ve found in my localstorage. 🤦‍♂️
-So much about, &quot;we won&#x27;t store user info unless you play the video&quot;. Not cool, YouTube. Really not cool!
-
-
-          
-          
-            Reply to Stefan</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/5107469070">
-        <time id="build-timestamp" datetime="2023-05-29T01:25:38.258Z">2023-05-29T01:25:38.258Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/5116595170">
+        <time id="build-timestamp" datetime="2023-05-30T01:27:05.554Z">2023-05-30T01:27:05.554Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
