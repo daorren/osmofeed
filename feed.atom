@@ -2,10 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-06T01:46:25.381Z</updated>
+    <updated>2023-06-07T01:48:38.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python Decorators Explained For Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/python-decorators-explained/</id>
+        <link href="https://www.freecodecamp.org/news/python-decorators-explained/"/>
+        <updated>2023-06-06T18:50:33.000Z</updated>
+        <summary type="html"><![CDATA[In the world of Python programming, decorators can be an elegant and powerful tool in the hands of experienced developers.  Decorators give you the ability to modify the behavior of functions without altering their source code, providing a concise and flexible way to enhance and extend their functionality. In]]></summary>
+        <author>
+            <name>Roy Chng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Hackers Attack Social Media Accounts – And How to Defend Against Them]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-protect-social-media-accounts-from-attackers/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-protect-social-media-accounts-from-attackers/"/>
+        <updated>2023-06-06T16:42:11.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone, and welcome to the world of Social Media 📲. In this article, we will explore the famous (or infamous) sphere of social media, why it is critical to both you and hackers, and how you can avoid having your social media accounts attacked. Disclaimer: Hacking is a tool]]></summary>
+        <author>
+            <name>Daniel Iwugo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Custom Widget in Flutter]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-custom-widget-in-flutter/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-custom-widget-in-flutter/"/>
+        <updated>2023-06-06T15:12:48.000Z</updated>
+        <summary type="html"><![CDATA[Flutter has been getting more and more popular lately. You can use it to build complex applications that work smoothly on MacOS, Windows, and Linux.  But building these applications is not always a simple process. You often have to refactor your code to maintain the app’s performance.  One]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Computer Vision with Deep Learning and TensorFlow]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-implement-computer-vision-with-deep-learning-and-tensorflow/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-computer-vision-with-deep-learning-and-tensorflow/"/>
+        <updated>2023-06-06T15:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Computer vision is being used in more and more places. From enhancing security systems to improving healthcare diagnostics, computer vision techniques are revolutionizing multiple industries.  We just published a 37-hour course on the freeCodeCamp.org YouTube channel that will teach you about deep learning for computer vision using TensorFlow. The]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In New Paradox, Black Holes Appear to Evade Heat Death]]></title>
+        <id>https://www.quantamagazine.org/?p=126594</id>
+        <link href="https://www.quantamagazine.org/in-new-paradox-black-holes-appear-to-evade-heat-death-20230606/"/>
+        <updated>2023-06-06T13:56:42.000Z</updated>
+        <summary type="html"><![CDATA[The puzzling behavior of black hole interiors has led researchers to propose a new physical law: the second law of quantum complexity.            
+The post In New Paradox, Black Holes Appear to Evade Heat Death first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>George Musser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go's on IBM mainframes now]]></title>
+        <id>https://golangweekly.com/issues/463</id>
+        <link href="https://golangweekly.com/issues/463"/>
+        <updated>2023-06-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#​463 — June 6, 2023
+
+
+Unsub  |  Web Version
+
+
+
+Go Weekly
+
+
+
+
+  
+
+
+
+
+
+  
+  
+Goxygen 0.4: Quickly Generate a Go Backend for a JavaScript Project — A tool that sets up a new Go-based project with Angular, React, or Vue on the front-end, Go in the back, and Docker and Docker Compose files to spin it all up. It’s been around a few years, but has just added Vue 3.3 support and a Vite-based Vue template.
+Sasha Shpota 
+
+
+  
+  
+A Quick Crash Course on Go Generics — The generics fever around v1.18's release has quietened down a lot, and they're now a fundamental part of Go. If you’ve been waiting for things to calm down before jumping in, this brief, code-led post showing off the basic ideas provides an entry point.
+Jon Calhoun 
+
+
+Jon has also written about what tildes (~) mean in generics, as well…]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Shuffle an Array of Items Using JavaScript or TypeScript]]></title>
         <id>https://www.freecodecamp.org/news/how-to-shuffle-an-array-of-items-using-javascript-or-typescript/</id>
