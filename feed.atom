@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-07T01:48:38.231Z</updated>
+    <updated>2023-06-08T01:45:13.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Tailwind CSS with NextJS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-set-up-tailwind-css-with-next-js/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-tailwind-css-with-next-js/"/>
+        <updated>2023-06-07T21:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Tailwind CSS is a popular utility-first CSS framework that offers a unique approach to building modern and responsive user interfaces. Unlike traditional CSS frameworks that provide pre-designed components, Tailwind CSS focuses on providing a comprehensive set of utility classes that you can directly apply to your HTML elements. When combined]]></summary>
+        <author>
+            <name>Kelvin Moses</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Explorer of Abyssal Depths Looks to Oceans on Other Worlds]]></title>
+        <id>https://www.quantamagazine.org/?p=126643</id>
+        <link href="https://www.quantamagazine.org/ocean-vent-explorer-guides-nasas-look-at-icy-alien-worlds-20230607/"/>
+        <updated>2023-06-07T14:04:43.000Z</updated>
+        <summary type="html"><![CDATA[The marine geochemist Chris German brings decades of experience studying seafloor hydrothermal vents to NASA’s preparations for visits to other ocean worlds in our solar system.            
+The post An Explorer of Abyssal Depths Looks to Oceans on Other Worlds first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steve Nadis</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python Decorators Explained For Beginners]]></title>
         <id>https://www.freecodecamp.org/news/python-decorators-explained/</id>
@@ -1442,170 +1463,6 @@ The post What Causes Alzheimer’s? Scientists Are Rethinking the Answer. (Pt. 2
         <summary type="html"><![CDATA[JavaScript is a popular programming language for building web, mobile, and desktop applications.  There are many frameworks and libraries that have been built around JavaScript, with more likely being developed even as you are reading this article. If you plan to start learning JavaScript, some of them are worth]]></summary>
         <author>
             <name>TAPAS ADHIKARY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[900 Free Computer Science Courses from the World’s Top Universities]]></title>
-        <id>https://www.freecodecamp.org/news/free-courses-top-cs-universities/</id>
-        <link href="https://www.freecodecamp.org/news/free-courses-top-cs-universities/"/>
-        <updated>2023-05-09T13:03:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I compiled 900 online courses offered by the 60 best universities in the world for studying computer science in 2023. I built the list using a data-driven approach. You can find my methodology below. But if you’d rather go straight to the course list, click here. Methodology]]></summary>
-        <author>
-            <name>Manoel Cortes Mendez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physicists Create Elusive Particles That Remember Their Pasts]]></title>
-        <id>https://www.quantamagazine.org/?p=125731</id>
-        <link href="https://www.quantamagazine.org/physicists-create-elusive-particles-that-remember-their-pasts-20230509/"/>
-        <updated>2023-05-09T13:00:50.000Z</updated>
-        <summary type="html"><![CDATA[In two landmark experiments, researchers used quantum processors to engineer exotic particles that have captivated physicists for decades. The work is a step toward crash-proof quantum computers.            
-The post Physicists Create Elusive Particles That Remember Their Pasts first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Charlie Wood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Ethical Hacking? A Cybersecurity Definition of Ethical Hackers]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-ethical-hacking/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-ethical-hacking/"/>
-        <updated>2023-05-09T00:06:39.000Z</updated>
-        <summary type="html"><![CDATA[As technology continues to advance, cyber-threats are becoming the norm. Cyber-criminals are constantly trying to find ways to exploit systems and networks, all with the purpose of stealing sensitive information or causing damage. These challenges in the tech space have led to the emergence of the term ethical hacking. The]]></summary>
-        <author>
-            <name>Hillary Nyakundi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A modest proposal?]]></title>
-        <id>https://golangweekly.com/issues/459</id>
-        <link href="https://golangweekly.com/issues/459"/>
-        <updated>2023-05-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​459 — May 9, 2023
-
-
-Unsub  |  Web Version
-
-
-
-Go Weekly
-
-
-
-
-  
-
-
-
-
-
-  
-  
-go-callvis: Visualize the Call Graph of Go Programs — We first linked to this project over six years ago, but it’s still going strong and has reached version 0.7. The idea is simple: turn the call graph of a Go program into a visual overview courtesy of Graphviz. You can also navigate the graph if you use its interactive viewer.
-Ondrej Fabry 
-
-
-  
-  
-👀 .ʕ◔ϖ◔ʔ As an Alternative to .go? — It’s nice to see Russ having some fun after the more serious telemetry proposal. Inspired by another language’s attempt to use an emoji as a filename extension, Russ considers an interesting alternative to .go that looks a little more gopher-y.
-Russ Cox 
-
-
-  
-  
-Kubernetes API Access Security Hardening — The control plane controls k…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google's New Cybersecurity Professional Certificate Explained]]></title>
-        <id>https://www.freecodecamp.org/news/cybersecurity-professional-certificate-by-google/</id>
-        <link href="https://www.freecodecamp.org/news/cybersecurity-professional-certificate-by-google/"/>
-        <updated>2023-05-08T21:38:43.000Z</updated>
-        <summary type="html"><![CDATA[Google has released a new professional certificate in Cybersecurity. The  announcement [https://blog.google/outreach-initiatives/grow-with-google/google-cybersecurity-career-certificate/]  came on May 4th, 2023 and marks the 6th topical branch in their continually expanding certificate program. It follows five other successful entry-level certificate programs in IT Support, Data Analytics, Digital Marketing & E-commerce, Project Management]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Euclidean Algorithm Works – with Code Examples in Go]]></title>
-        <id>https://www.freecodecamp.org/news/euclidean-algorithm-in-golang/</id>
-        <link href="https://www.freecodecamp.org/news/euclidean-algorithm-in-golang/"/>
-        <updated>2023-05-08T20:18:08.000Z</updated>
-        <summary type="html"><![CDATA[The Euclidean Algorithm is a well-known and efficient method for finding the greatest common divisor (GCD) of two integers. The GCD is the largest number that can divide both integers without leaving a remainder.  The algorithm is named after the ancient Greek mathematician Euclid, who presented it in his]]></summary>
-        <author>
-            <name>Otavio Ehrenberger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Joining a Tech Community Can Help Grow Your Career]]></title>
-        <id>https://www.freecodecamp.org/news/tech-communities/</id>
-        <link href="https://www.freecodecamp.org/news/tech-communities/"/>
-        <updated>2023-05-08T20:09:52.000Z</updated>
-        <summary type="html"><![CDATA[In the tech industry, joining a community is one of the best ways to stay informed about the latest trends, connect with like-minded professionals, and stay up-to-date on the latest career opportunities.  Tech communities are groups of professionals with a common interest in technology and a shared passion for]]></summary>
-        <author>
-            <name>Pulkit Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xor.py – How the Python XOR Operator Works]]></title>
-        <id>https://www.freecodecamp.org/news/xor-py-how-the-python-xor-operator-works/</id>
-        <link href="https://www.freecodecamp.org/news/xor-py-how-the-python-xor-operator-works/"/>
-        <updated>2023-05-08T16:35:55.000Z</updated>
-        <summary type="html"><![CDATA[You can use bitwise operators in Python to perform different operations on the individual bits of an integer.  There are different bitwise operators like the bitwise AND (&), bitwise OR (|), bitwise XOR (^), and so on.  In this article, we'll focus on the bitwise XOR (^) operator.]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design Patterns for Modern Backend Development – with Example Use Cases]]></title>
-        <id>https://www.freecodecamp.org/news/design-pattern-for-modern-backend-development-and-use-cases/</id>
-        <link href="https://www.freecodecamp.org/news/design-pattern-for-modern-backend-development-and-use-cases/"/>
-        <updated>2023-05-08T15:44:00.000Z</updated>
-        <summary type="html"><![CDATA[In software development, design patterns are reusable solutions to common problems that developers encounter. These patterns provide a structure for organizing code that makes it more maintainable, modular, and scalable.  In modern backend development, design patterns are crucial for building robust and flexible systems that can adapt to changing]]></summary>
-        <author>
-            <name>Pacifique LINJANJA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Brain-Inspired Approach to AI – Explained for Developers]]></title>
-        <id>https://www.freecodecamp.org/news/the-brain-inspired-approach-to-ai/</id>
-        <link href="https://www.freecodecamp.org/news/the-brain-inspired-approach-to-ai/"/>
-        <updated>2023-05-08T15:43:38.000Z</updated>
-        <summary type="html"><![CDATA[> Our intelligence is what makes us human, and AI is an extension of that quality" – Yan LeCun Since the advent of Neural Networks (also known as artificial neural networks), the AI industry has enjoyed unparalleled success. Neural Networks are the driving force behind modern AI systems and they]]></summary>
-        <author>
-            <name>Edem Gold</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Mutation Turned Ants Into Parasites in One Generation]]></title>
-        <id>https://www.quantamagazine.org/?p=125669</id>
-        <link href="https://www.quantamagazine.org/a-mutation-turned-ants-into-parasites-in-one-generation-20230508/"/>
-        <updated>2023-05-08T14:49:21.000Z</updated>
-        <summary type="html"><![CDATA[A new genetics study of ant “social parasites” shows how complex sets of features can emerge rapidly and potentially split species.            
-The post A Mutation Turned Ants Into Parasites in One Generation first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Viviane Callier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the useState() Hook in React – Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/usestate-hook-3-different-examples/</id>
-        <link href="https://www.freecodecamp.org/news/usestate-hook-3-different-examples/"/>
-        <updated>2023-05-08T14:11:06.000Z</updated>
-        <summary type="html"><![CDATA[One of the most well-known React hooks is the useState() hook. It lets you add a state variable to your component. The useState() hook can conveniently hold strings, arrays, numbers, objects and much more. In this article, we are going to learn about the useState() hook and demonstrate its use]]></summary>
-        <author>
-            <name>Mwendwa Bundi Emma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kotlin VS Java – What's the Difference?]]></title>
-        <id>https://www.freecodecamp.org/news/kotlin-vs-java/</id>
-        <link href="https://www.freecodecamp.org/news/kotlin-vs-java/"/>
-        <updated>2023-05-08T13:48:47.000Z</updated>
-        <summary type="html"><![CDATA[Technology advances very quickly these days, and there's always a new programming language or tool to learn.  You may have heard developers discussing the merits of and differences between two popular programming languages – Java and Kotlin.  So what's the difference between them? Which one should you learn?]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
         </author>
     </entry>
 </feed>
