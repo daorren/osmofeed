@@ -880,36 +880,6 @@
           "wordCount": 1157,
           "title": "URL RegEx Pattern – How to Write a Regular Expression for a URL",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/urlRegEx.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/postgresql-indexing-strategies/",
-          "author": "Faith Oyama",
-          "description": "Indexing in PostgreSQL is a process that involves creating data structures that are optimized to efficiently search and retrieve data from tables.  An index is a copy of a portion of a table, arranged in a way that enables PostgreSQL to quickly locate and retrieve rows that match a",
-          "link": "https://www.freecodecamp.org/news/postgresql-indexing-strategies/",
-          "publishedOn": "2023-05-12T20:46:41.000Z",
-          "wordCount": 2133,
-          "title": "Advanced Indexing Strategies in PostgreSQL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/postresql-indexing.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/greedy-algorithms/",
-          "author": "Tantoluwa Heritage Alabi",
-          "description": "According to the Oxford English Dictionary, \"greedy\" means having excessive desire for something without considering the effect or damage done.  In computer science, a greedy algorithm is an algorithm that finds a solution to problems in the shortest time possible. It picks the path that seems optimal at the",
-          "link": "https://www.freecodecamp.org/news/greedy-algorithms/",
-          "publishedOn": "2023-05-12T17:57:48.000Z",
-          "wordCount": 4298,
-          "title": "What is a Greedy Algorithm? Examples of Greedy Algorithms",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-pixabay-206627.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-linked-lists-work/",
-          "author": "Palistha",
-          "description": "A Linked List is a linear data structure used for storing a collection of elements. Unlike arrays, linked lists use nodes to store elements which are not stored in contiguous memory locations.  In this article, you will learn what linked lists are, how they work, and how to build",
-          "link": "https://www.freecodecamp.org/news/how-linked-lists-work/",
-          "publishedOn": "2023-05-12T17:45:27.000Z",
-          "wordCount": 2730,
-          "title": "How Does a Linked List Work? A Beginner's Guide to Linked Lists",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-joey-kyber-119562.jpg"
         }
       ]
     },
@@ -1087,16 +1057,6 @@
           "wordCount": 5395,
           "title": "The Tiny Physics Behind Immense Cosmic Eruptions",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/05/MagneticReconnection-courtesyofAlisaGalishnikova-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=125877",
-          "author": "Max G. Levy",
-          "description": "Today’s language models are more sophisticated than ever, but they still struggle with the concept of negation. That’s unlikely to change anytime soon.            \nThe post Chatbots Don’t Know What Stuff Isn’t first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/ai-like-chatgpt-are-no-good-at-not-20230512/",
-          "publishedOn": "2023-05-12T13:56:30.000Z",
-          "wordCount": 7248,
-          "title": "Chatbots Don’t Know What Stuff Isn’t",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/05/UnderstandingNegation-byKouzouSakai-Social.webp"
         }
       ]
     },
@@ -1111,6 +1071,26 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/a-selection-web-compatibility-issue/",
+          "author": null,
+          "description": "There's a recent Twitter bug that's a real issue for me. Yeah, I know; there are countless bugs since Elmo fired half of the Twitter stuff. Still, this particular one is based on something other than the struggling engineering organization but a web compatibility issue.\nA ::selection compatibility issue\n\nHere is the bug in question in all its glory.\nTwitter Tweet box not showing selection styles in Chrome.\n      \n    \nSuppose you're writing a Tweet or DM in the Twitter UI using Chrome; the text selection is invisible. That's a pretty bad UX and an accessibility issue.\nMoritz Gießmann pointed out that this bug can be fixed by turning off Chrome's experimental web features. And indeed, it makes all browsers behave the same. I'm beyond confused and will update the post later. 😅\nSo what's hap…",
+          "link": "https://www.stefanjudis.com/blog/a-selection-web-compatibility-issue/",
+          "publishedOn": "2023-06-10T22:00:00.000Z",
+          "wordCount": 2273,
+          "title": "A ::selection web compatibility issue (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20%3A%3Aselection%20web%20compatibility%20issue/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-104/",
+          "author": null,
+          "description": "Guten Tag! 👋\n\nHave you checked the animation-timeline CSS property already? Or do you wonder how React server component really work? Or are you cursed with HTML emails and want to target specific mail clients with CSS?\nAll the answers and much more are included in this week's Web Weekly. 🫣\n\n      \nBefore we kick things off: if you live around Toronto, Canada, and want to join me at the Reactor DX conf on July 12/13, you can get a 50% discount with the code HOTSUMMER. 🤫\nI'm super duper excited about being part of this stellar line-up!\nSomething that made me smile this week\n\nThere's nothing to see here. 😆 It's just a penguin enjoying being tickled.\nTickle your fellow penguin\nQuick links\n\nI blogged that DevTools should show specificity values two years ago; it's shipping in Chrome now.\nTh…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-104/",
+          "publishedOn": "2023-06-10T22:00:00.000Z",
+          "wordCount": 1913,
+          "title": "Web Weekly #104 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-103/",
           "author": null,

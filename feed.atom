@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-11T01:52:28.831Z</updated>
+    <updated>2023-06-12T01:44:39.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A ::selection web compatibility issue (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/a-selection-web-compatibility-issue/</id>
+        <link href="https://www.stefanjudis.com/blog/a-selection-web-compatibility-issue/"/>
+        <updated>2023-06-10T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There's a recent Twitter bug that's a real issue for me. Yeah, I know; there are countless bugs since Elmo fired half of the Twitter stuff. Still, this particular one is based on something other than the struggling engineering organization but a web compatibility issue.
+A ::selection compatibility issue
+
+Here is the bug in question in all its glory.
+Twitter Tweet box not showing selection styles in Chrome.
+      
+    
+Suppose you're writing a Tweet or DM in the Twitter UI using Chrome; the text selection is invisible. That's a pretty bad UX and an accessibility issue.
+Moritz Gießmann pointed out that this bug can be fixed by turning off Chrome's experimental web features. And indeed, it makes all browsers behave the same. I'm beyond confused and will update the post later. 😅
+So what's hap…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #104 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-104/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-104/"/>
+        <updated>2023-06-10T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! 👋
+
+Have you checked the animation-timeline CSS property already? Or do you wonder how React server component really work? Or are you cursed with HTML emails and want to target specific mail clients with CSS?
+All the answers and much more are included in this week's Web Weekly. 🫣
+
+      
+Before we kick things off: if you live around Toronto, Canada, and want to join me at the Reactor DX conf on July 12/13, you can get a 50% discount with the code HOTSUMMER. 🤫
+I'm super duper excited about being part of this stellar line-up!
+Something that made me smile this week
+
+There's nothing to see here. 😆 It's just a penguin enjoying being tickled.
+Tickle your fellow penguin
+Quick links
+
+I blogged that DevTools should show specificity values two years ago; it's shipping in Chrome now.
+Th…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Git Change Commit Message – How to Edit Commit Messages with Git Amend]]></title>
         <id>https://www.freecodecamp.org/news/how-to-edit-git-commit-messages-with-git-amend/</id>
@@ -1331,47 +1375,6 @@ The baseline describes features supported in the current and previous versions o
 And the term isn't only a Google effort but a collaboration of Apple, Microsoft, and Mozilla. Get ready because we can expect many new baseline widgets like th…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Indexing Strategies in PostgreSQL]]></title>
-        <id>https://www.freecodecamp.org/news/postgresql-indexing-strategies/</id>
-        <link href="https://www.freecodecamp.org/news/postgresql-indexing-strategies/"/>
-        <updated>2023-05-12T20:46:41.000Z</updated>
-        <summary type="html"><![CDATA[Indexing in PostgreSQL is a process that involves creating data structures that are optimized to efficiently search and retrieve data from tables.  An index is a copy of a portion of a table, arranged in a way that enables PostgreSQL to quickly locate and retrieve rows that match a]]></summary>
-        <author>
-            <name>Faith Oyama</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Greedy Algorithm? Examples of Greedy Algorithms]]></title>
-        <id>https://www.freecodecamp.org/news/greedy-algorithms/</id>
-        <link href="https://www.freecodecamp.org/news/greedy-algorithms/"/>
-        <updated>2023-05-12T17:57:48.000Z</updated>
-        <summary type="html"><![CDATA[According to the Oxford English Dictionary, "greedy" means having excessive desire for something without considering the effect or damage done.  In computer science, a greedy algorithm is an algorithm that finds a solution to problems in the shortest time possible. It picks the path that seems optimal at the]]></summary>
-        <author>
-            <name>Tantoluwa Heritage Alabi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does a Linked List Work? A Beginner's Guide to Linked Lists]]></title>
-        <id>https://www.freecodecamp.org/news/how-linked-lists-work/</id>
-        <link href="https://www.freecodecamp.org/news/how-linked-lists-work/"/>
-        <updated>2023-05-12T17:45:27.000Z</updated>
-        <summary type="html"><![CDATA[A Linked List is a linear data structure used for storing a collection of elements. Unlike arrays, linked lists use nodes to store elements which are not stored in contiguous memory locations.  In this article, you will learn what linked lists are, how they work, and how to build]]></summary>
-        <author>
-            <name>Palistha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chatbots Don’t Know What Stuff Isn’t]]></title>
-        <id>https://www.quantamagazine.org/?p=125877</id>
-        <link href="https://www.quantamagazine.org/ai-like-chatgpt-are-no-good-at-not-20230512/"/>
-        <updated>2023-05-12T13:56:30.000Z</updated>
-        <summary type="html"><![CDATA[Today’s language models are more sophisticated than ever, but they still struggle with the concept of negation. That’s unlikely to change anytime soon.            
-The post Chatbots Don’t Know What Stuff Isn’t first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Max G. Levy</name>
         </author>
     </entry>
 </feed>
