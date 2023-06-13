@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-12T01:44:39.685Z</updated>
+    <updated>2023-06-13T01:39:15.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI in Google Sheets – How to Use GPT Copilot]]></title>
+        <id>https://www.freecodecamp.org/news/ai-in-google-sheets/</id>
+        <link href="https://www.freecodecamp.org/news/ai-in-google-sheets/"/>
+        <updated>2023-06-12T22:10:01.000Z</updated>
+        <summary type="html"><![CDATA[It seems to be the year of AI. And my favorite tool, Google Sheets, is not to be left out of the fun. 🎉 Coefficient [https://coefficient.io/gpt-google-sheets] produced a Google sheets extension with the ability to use OpenAI's GPT models from within a spreadsheet. It’s called GPT Copilot and it’s available]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use MySQL Stored Procedures to Simplify Database Operations]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-simplify-database-operations-using-mysql-stored-procedures/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-simplify-database-operations-using-mysql-stored-procedures/"/>
+        <updated>2023-06-12T22:05:52.000Z</updated>
+        <summary type="html"><![CDATA[In the realm of database management, MySQL has emerged as one of the most popular and reliable choices.  MySQL not only offers robust data storage capabilities but also provides a powerful feature called "procedures" that allows developers to streamline complex database operations.  In this tutorial, we will delve]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Upgrade Your React Skills with Three Helpful Tools]]></title>
+        <id>https://www.freecodecamp.org/news/upgrade-your-react-skills/</id>
+        <link href="https://www.freecodecamp.org/news/upgrade-your-react-skills/"/>
+        <updated>2023-06-12T21:12:01.000Z</updated>
+        <summary type="html"><![CDATA[Since its announcement in 2013, React.js continues to be one of the most widely used JavaScript tools, thanks to its unmatched versatility and efficiency.  Backed by its component-based architecture and virtual DOM implementation, React.js excels in building modern and dynamic web applications. It enables developers to create reusable UI]]></summary>
+        <author>
+            <name>Moyosore J Olaojo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Streamline Your File Upload Process in Express.js with Multer]]></title>
+        <id>https://www.freecodecamp.org/news/simplify-your-file-upload-process-in-express-js/</id>
+        <link href="https://www.freecodecamp.org/news/simplify-your-file-upload-process-in-express-js/"/>
+        <updated>2023-06-12T21:05:14.000Z</updated>
+        <summary type="html"><![CDATA[File uploading is a common requirement in web development projects. But handling file uploads in Node.js can be complex and time-consuming. That's where Multer comes in.  Multer is a powerful middleware for Node.js that simplifies the file upload process by handling multipart/form-data requests. In this tutorial, you will learn]]></summary>
+        <author>
+            <name>Kelvin Moses</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve Your Technical Writing Skills by Contributing to Open Source Projects]]></title>
+        <id>https://www.freecodecamp.org/news/improve-tech-writing-skills-by-contributing-to-open-source/</id>
+        <link href="https://www.freecodecamp.org/news/improve-tech-writing-skills-by-contributing-to-open-source/"/>
+        <updated>2023-06-12T18:15:16.000Z</updated>
+        <summary type="html"><![CDATA[Have you been writing your tech blog posts on Hashnode [https://hashnode.com/about] or Dev.to [http://dev.to/], but you're itching to try something new? If so, there is something that can quench your thirst: contributing to open source.  I know, I know, you’ve probably heard “Contribute to open source!” countless times in]]></summary>
+        <author>
+            <name>CHRISTINE T. BELZIE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Experiment Casts Doubt on the Leading Theory of the Nucleus]]></title>
+        <id>https://www.quantamagazine.org/?p=126732</id>
+        <link href="https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/"/>
+        <updated>2023-06-12T14:00:10.000Z</updated>
+        <summary type="html"><![CDATA[By measuring inflated helium nuclei, physicists have challenged our best understanding of the force that binds protons and neutrons.             
+The post A New Experiment Casts Doubt on the Leading Theory of the Nucleus first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Katie McCormick</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A ::selection web compatibility issue (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/a-selection-web-compatibility-issue/</id>
@@ -1359,22 +1420,6 @@ The post The Tiny Physics Behind Immense Cosmic Eruptions first appeared on Quan
         <summary type="html"><![CDATA[Regular expressions provide a powerful and flexible way to define patterns and match specific strings, be it usernames, passwords, phone numbers, or even URLs. In this article, I'll show you the fundamentals of crafting a regular expression for URLs. Whether you need to validate user input, extract components from URLs,]]></summary>
         <author>
             <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #101 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-101/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-101/"/>
-        <updated>2023-05-13T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! 👋
-
-Do you want to catch up with all the new CSS features? And then want to establish a strategy to use them in production? Or make a great impression when you onboard a new job?
-All the answers and much more are included in this week's Web Weekly!
-Our friends at Google released a new WebDev term at Google.io — "the baseline". Usually, I'm no fan of new tech lingo (MPA anyone? 😅), but I can get behind this one.
-The baseline describes features supported in the current and previous versions of all major browsers (Chrome, Edge, Firefox, and  Safari). So that it replaces the mouthful "feature ABC is cross-browser supported".
-And the term isn't only a Google effort but a collaboration of Apple, Microsoft, and Mozilla. Get ready because we can expect many new baseline widgets like th…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
