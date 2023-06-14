@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/html-page-elements/",
+          "author": "David Clinton",
+          "description": "HTML, which stands for Hypertext Markup Language, is the standard markup language used for creating web pages and structuring their content on the World Wide Web.  HTML serves as the backbone of web development and acts as a fundamental building block for creating web-based documents. Let's take a quick",
+          "link": "https://www.freecodecamp.org/news/html-page-elements/",
+          "publishedOn": "2023-06-13T21:01:13.000Z",
+          "wordCount": 1740,
+          "title": "HTML Page Elements – Explained for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pexels-joshua-135018.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/guide-to-javascript-promises/",
+          "author": "Amazing Enyichi Agu",
+          "description": "JavaScript has the ability to carry out asynchronous (or async) instructions. These instructions run in the background until they have finished processing.  Asynchronous instructions do not stop the JavaScript engine from actively accepting and processing more instructions. This is why JavaScript is non-blocking in nature. There are a few",
+          "link": "https://www.freecodecamp.org/news/guide-to-javascript-promises/",
+          "publishedOn": "2023-06-13T16:35:33.000Z",
+          "wordCount": 5419,
+          "title": "How Promises Work in JavaScript – A Comprehensive Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/promises.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/microsoft-power-platform-fundamentals-certification-pl-900/",
+          "author": "Beau Carnes",
+          "description": "Certifications like the Microsoft Power Platform Fundamentals can help you advance in your career. You can learn everything you need to know to earn the Microsoft Power Platform Fundamentals Certification by completing this free 4-hour course that we just posted on the freeCodeCamp.org YouTube channel. Andrew Brown created this course.",
+          "link": "https://www.freecodecamp.org/news/microsoft-power-platform-fundamentals-certification-pl-900/",
+          "publishedOn": "2023-06-13T14:28:52.000Z",
+          "wordCount": 1520,
+          "title": "Microsoft Power Platform Fundamentals Certification (PL-900) – Pass the Exam With This Free 4-Hour Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/powerfund.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/ai-in-google-sheets/",
           "author": "Eamonn Cottrell",
           "description": "It seems to be the year of AI. And my favorite tool, Google Sheets, is not to be left out of the fun. 🎉 Coefficient [https://coefficient.io/gpt-google-sheets] produced a Google sheets extension with the ability to use OpenAI's GPT models from within a spreadsheet. It’s called GPT Copilot and it’s available",
@@ -920,16 +950,6 @@
           "wordCount": 5430,
           "title": "How to Write Clean Code – Tips and Best Practices",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-ken-tomita-389819.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-write-a-regular-expression-for-a-url/",
-          "author": "Kolade Chris",
-          "description": "Regular expressions provide a powerful and flexible way to define patterns and match specific strings, be it usernames, passwords, phone numbers, or even URLs. In this article, I'll show you the fundamentals of crafting a regular expression for URLs. Whether you need to validate user input, extract components from URLs,",
-          "link": "https://www.freecodecamp.org/news/how-to-write-a-regular-expression-for-a-url/",
-          "publishedOn": "2023-05-15T12:22:48.000Z",
-          "wordCount": 1157,
-          "title": "URL RegEx Pattern – How to Write a Regular Expression for a URL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/urlRegEx.png"
         }
       ]
     },
@@ -938,6 +958,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=126772",
+          "author": "Philip Ball",
+          "description": "With embryolike constructs built entirely from stem cells, researchers can revolutionize our understanding of development. But how close to an embryo is too close?            \nThe post ‘Embryo Models’ Challenge Legal, Ethical and Biological Concepts first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/embryo-models-challenge-legal-ethical-and-biological-concepts-20230613/",
+          "publishedOn": "2023-06-13T14:49:58.000Z",
+          "wordCount": 10985,
+          "title": "‘Embryo Models’ Challenge Legal, Ethical and Biological Concepts",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/06/SimulatedEmbryos-byUniversityofCambridge-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=126732",
           "author": "Katie McCormick",
@@ -1198,6 +1228,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/464",
+          "author": null,
+          "description": "#​464 — June 13, 2023\n\n\nUnsub  |  Web Version\n\n\n\n✍️ If you're intrigued about domain-driven design (DDD), we've got an interview with Matt Boyle, the author of Domain-Driven Design with Go – it's at the end of today's issue.\n__\nYour editor, Peter Cooper\n\n\n    \n    \n\nGo Weekly\n\n\n\n\n  \n\n\n\n\n\n  \n  \nAn Update on Go Toolchains — Russ Cox noted that “many people believe the go line in the go.mod file specifies which Go toolchain to use.” Not so.. but from Go 1.21 the go command will use its own bundled toolchain if that toolchain is at least as new as the go or toolchain lines in the module/workspace. If the toolchain is outdated, the newer version will be obtained. The official docs have been significantly extended to explain the situation.\nOfficial Go Site \n\n\n  \n  \n🎉  Ebitengine's Game Jam to C…",
+          "link": "https://golangweekly.com/issues/464",
+          "publishedOn": "2023-06-13T00:00:00.000Z",
+          "wordCount": 1580,
+          "title": "Go toolchain changes in Go 1.21+",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/463",
           "author": null,

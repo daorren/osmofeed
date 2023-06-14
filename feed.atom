@@ -2,10 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-13T01:39:15.571Z</updated>
+    <updated>2023-06-14T01:38:24.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HTML Page Elements – Explained for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/html-page-elements/</id>
+        <link href="https://www.freecodecamp.org/news/html-page-elements/"/>
+        <updated>2023-06-13T21:01:13.000Z</updated>
+        <summary type="html"><![CDATA[HTML, which stands for Hypertext Markup Language, is the standard markup language used for creating web pages and structuring their content on the World Wide Web.  HTML serves as the backbone of web development and acts as a fundamental building block for creating web-based documents. Let's take a quick]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Promises Work in JavaScript – A Comprehensive Beginner's Guide]]></title>
+        <id>https://www.freecodecamp.org/news/guide-to-javascript-promises/</id>
+        <link href="https://www.freecodecamp.org/news/guide-to-javascript-promises/"/>
+        <updated>2023-06-13T16:35:33.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript has the ability to carry out asynchronous (or async) instructions. These instructions run in the background until they have finished processing.  Asynchronous instructions do not stop the JavaScript engine from actively accepting and processing more instructions. This is why JavaScript is non-blocking in nature. There are a few]]></summary>
+        <author>
+            <name>Amazing Enyichi Agu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Embryo Models’ Challenge Legal, Ethical and Biological Concepts]]></title>
+        <id>https://www.quantamagazine.org/?p=126772</id>
+        <link href="https://www.quantamagazine.org/embryo-models-challenge-legal-ethical-and-biological-concepts-20230613/"/>
+        <updated>2023-06-13T14:49:58.000Z</updated>
+        <summary type="html"><![CDATA[With embryolike constructs built entirely from stem cells, researchers can revolutionize our understanding of development. But how close to an embryo is too close?            
+The post ‘Embryo Models’ Challenge Legal, Ethical and Biological Concepts first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Philip Ball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Power Platform Fundamentals Certification (PL-900) – Pass the Exam With This Free 4-Hour Course]]></title>
+        <id>https://www.freecodecamp.org/news/microsoft-power-platform-fundamentals-certification-pl-900/</id>
+        <link href="https://www.freecodecamp.org/news/microsoft-power-platform-fundamentals-certification-pl-900/"/>
+        <updated>2023-06-13T14:28:52.000Z</updated>
+        <summary type="html"><![CDATA[Certifications like the Microsoft Power Platform Fundamentals can help you advance in your career. You can learn everything you need to know to earn the Microsoft Power Platform Fundamentals Certification by completing this free 4-hour course that we just posted on the freeCodeCamp.org YouTube channel. Andrew Brown created this course.]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go toolchain changes in Go 1.21+]]></title>
+        <id>https://golangweekly.com/issues/464</id>
+        <link href="https://golangweekly.com/issues/464"/>
+        <updated>2023-06-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#​464 — June 13, 2023
+
+
+Unsub  |  Web Version
+
+
+
+✍️ If you're intrigued about domain-driven design (DDD), we've got an interview with Matt Boyle, the author of Domain-Driven Design with Go – it's at the end of today's issue.
+__
+Your editor, Peter Cooper
+
+
+    
+    
+
+Go Weekly
+
+
+
+
+  
+
+
+
+
+
+  
+  
+An Update on Go Toolchains — Russ Cox noted that “many people believe the go line in the go.mod file specifies which Go toolchain to use.” Not so.. but from Go 1.21 the go command will use its own bundled toolchain if that toolchain is at least as new as the go or toolchain lines in the module/workspace. If the toolchain is outdated, the newer version will be obtained. The official docs have been significantly extended to explain the situation.
+Official Go Site 
+
+
+  
+  
+🎉  Ebitengine's Game Jam to C…]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI in Google Sheets – How to Use GPT Copilot]]></title>
         <id>https://www.freecodecamp.org/news/ai-in-google-sheets/</id>
@@ -1410,16 +1495,6 @@ Go! Experts at Your Service — Do you need help filling skill gaps, speeding up
 The post The Tiny Physics Behind Immense Cosmic Eruptions first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Zack Savitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[URL RegEx Pattern – How to Write a Regular Expression for a URL]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-write-a-regular-expression-for-a-url/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-a-regular-expression-for-a-url/"/>
-        <updated>2023-05-15T12:22:48.000Z</updated>
-        <summary type="html"><![CDATA[Regular expressions provide a powerful and flexible way to define patterns and match specific strings, be it usernames, passwords, phone numbers, or even URLs. In this article, I'll show you the fundamentals of crafting a regular expression for URLs. Whether you need to validate user input, extract components from URLs,]]></summary>
-        <author>
-            <name>Kolade Chris</name>
         </author>
     </entry>
 </feed>
