@@ -890,66 +890,6 @@
           "wordCount": 2728,
           "title": "Cloud Computing Abstractions – IaaS, PaaS, FaaS, and SaaS Explained",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pictures-2.001-2.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-networking-in-flutter/",
-          "author": "Arunachalam B",
-          "description": "Almost all apps you use today run by accessing the internet. You can hardly find an app that runs without connecting to the internet.  The internet has become an integral part of our lives, as it solves one of the most critical problems we have to handle: data transfer.",
-          "link": "https://www.freecodecamp.org/news/learn-networking-in-flutter/",
-          "publishedOn": "2023-05-15T18:42:25.000Z",
-          "wordCount": 2122,
-          "title": "Learn Networking in Flutter By Building a Simple App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Networking-in-Flutter---Banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/caching-in-react/",
-          "author": "Scott Gary",
-          "description": "As React developers become more proficient with the library, the topic of performance becomes a major focal point in their development process.  As with any tool or programming methodology, caching plays a huge role when it comes to optimizing React applications. Caching in React typically goes by the term",
-          "link": "https://www.freecodecamp.org/news/caching-in-react/",
-          "publishedOn": "2023-05-15T18:39:25.000Z",
-          "wordCount": 1622,
-          "title": "Caching in React – How to Use the useMemo and useCallback Hooks",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/caching-react.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-60-30-10-rule-in-design/",
-          "author": "Ijelekhai Faith Olohijere",
-          "description": "As designers, colour is a huge component of our work. But many of us struggle with the usage of colours in our designs.  In this article, you will learn about the 60-30-10 colour rule, how it's used, and see a practical example of it. What is the 60-30-10 rule?",
-          "link": "https://www.freecodecamp.org/news/the-60-30-10-rule-in-design/",
-          "publishedOn": "2023-05-15T17:20:43.000Z",
-          "wordCount": 1457,
-          "title": "What is the 60-30-10 Rule in Design? And How to Use it in Your Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-pixabay-39828.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-secure-your-mern-stack-application/",
-          "author": "FADAHUNSI SEYI SAMUEL",
-          "description": "MongoDB [https://www.mongodb.com/docs/], Express [https://expressjs.com/en/starter/installing.html], React [https://react.dev/learn], and Node.js [https://nodejs.org/en/docs] are the components of the MERN stack, one of the most widely used web development stacks out there today. The MERN stack enables programmers to create dependable web applications with strong capabilities. Yet, security should be a key concern with any",
-          "link": "https://www.freecodecamp.org/news/how-to-secure-your-mern-stack-application/",
-          "publishedOn": "2023-05-15T17:15:14.000Z",
-          "wordCount": 4934,
-          "title": "How to Secure Your MERN Stack App with JWT-Based User Authentication and Authorization",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/trlyJUK.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/method-overloading-in-php/",
-          "author": "Zubair Idris Aweda",
-          "description": "As software engineers, we sometimes have to perform certain tasks that can be achieved with a variable number of inputs.  To solve this problem, you can create multiple functions to solve for the different possible number of inputs. Or we can write a large function to solve this problem.",
-          "link": "https://www.freecodecamp.org/news/method-overloading-in-php/",
-          "publishedOn": "2023-05-15T17:11:35.000Z",
-          "wordCount": 1551,
-          "title": "How Method Overloading Works in PHP",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/kisscc0-line-art-drawing-drum-cartoon-overload-5b74068a69e855.7493203415343305064338.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-write-clean-code/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we're going to talk about writing \"clean\" code. It's a topic that used to confuse me a bit when I was starting out as a programmer, and I find that it has many nuances and possible interpretations. So in this article we'll talk about what",
-          "link": "https://www.freecodecamp.org/news/how-to-write-clean-code/",
-          "publishedOn": "2023-05-15T14:43:44.000Z",
-          "wordCount": 5430,
-          "title": "How to Write Clean Code – Tips and Best Practices",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-ken-tomita-389819.jpg"
         }
       ]
     },
@@ -958,6 +898,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=126837",
+          "author": "Steven Strogatz",
+          "description": "Once dismissed as myths, monstrous rogue waves that tower over ships and appear without warning are real. Wave-science researcher Ton van den Bremer and Steven Strogatz discuss how rogue waves can form in relatively calm seas and whether their threat can be predicted.            \nThe post What Causes Giant Rogue Waves? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/what-causes-giant-rogue-waves-20230614/",
+          "publishedOn": "2023-06-14T18:36:20.000Z",
+          "wordCount": 19949,
+          "title": "What Causes Giant Rogue Waves?",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/06/JoY-S2E9-RogueWaves-byPeterGreenwood-Social-LOGO.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=126772",
           "author": "Philip Ball",
@@ -1137,16 +1087,6 @@
           "wordCount": 8149,
           "title": "New Proof Finds the ‘Ultimate Instability’ in a Solar System Model",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/05/EllipseStability-byHarolBustos-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=125916",
-          "author": "Zack Savitsky",
-          "description": "A new theory describes how particle interactions fuel fast magnetic reconnection, the process behind solar flares and other astrophysical jets.            \nThe post The Tiny Physics Behind Immense Cosmic Eruptions first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/the-tiny-physics-behind-immense-cosmic-eruptions-20230515/",
-          "publishedOn": "2023-05-15T13:58:29.000Z",
-          "wordCount": 5395,
-          "title": "The Tiny Physics Behind Immense Cosmic Eruptions",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/05/MagneticReconnection-courtesyofAlisaGalishnikova-Social.webp"
         }
       ]
     },
@@ -1266,16 +1206,6 @@
           "publishedOn": "2023-05-23T00:00:00.000Z",
           "wordCount": 930,
           "title": "1 million concurrent tasks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/460",
-          "author": null,
-          "description": "#​460 — May 16, 2023\n\n\nUnsub  |  Web Version\n\n\n\nGo Weekly\n\n\n\n\n  \n\n\n\n\n\n  \n  \nThe Go Developer Survey 2023 Q1 Results — Nearly 6,000 gophers took part in the latest developer survey, and now we have the results. Key takeaways include:\n\n\n92% of respondents are satisfied using Go.\nError handling is now folks' biggest pain point.\nKeeping dependencies up to date (if maintaining a module) is a challenge.\nVS Code remains the editor of choice, with GoLand a solid second.\nThe majority of Go devs work on either a Mac or Linux machine (tied in terms of popularity) but Windows is notably popular with newer devs.\nAlice Merrick / Go Team \n\n\n  \n  \nGo! Experts at Your Service — Do you need help filling skill gaps, speeding up development & creating high performing software with Go, Docker, K8s, Terraform a…",
-          "link": "https://golangweekly.com/issues/460",
-          "publishedOn": "2023-05-16T00:00:00.000Z",
-          "wordCount": 975,
-          "title": "The latest Go survey results",
           "imageUrl": null
         }
       ]
