@@ -12,6 +12,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/developer-productivity-with-github-copilot/",
+          "author": "Tim Kleier",
+          "description": "There are a number of AI tools for developers emerging on the market. But in my mind GitHub Copilot stands above the rest because of its usability, seamless IDE integration, and remarkable enhancements to developer productivity. Copilot offers a variety of AI tools that have radically streamlined my experience as",
+          "link": "https://www.freecodecamp.org/news/developer-productivity-with-github-copilot/",
+          "publishedOn": "2023-06-16T17:02:17.000Z",
+          "wordCount": 2747,
+          "title": "How to Use GitHub Copilot to Become a Happier and More Productive Developer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Screenshot-2023-06-14-at-12.42.04-PM.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/finally-understand-pointers-in-c/",
           "author": "Beau Carnes",
           "description": "There are few things in the programming universe that seem as daunting to beginners as pointers in C. Many new programmers shy away from tackling this essential component of the C programming language, which can leave a critical gap in their knowledge. We just posted a full course on the",
@@ -790,36 +800,6 @@
           "wordCount": 999,
           "title": "How to Build a Full Stack Application Using ChatGPT",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/chatdev.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/regex-for-date-formats-what-is-the-regular-expression-for-matching-dates/",
-          "author": "Kolade Chris",
-          "description": "Regular expressions let you match any string, be it in the form of various user inputs such as username, password, URL, and even different date formats. In this article, I’ll show you several ways you can match a date with regular expressions. In the programming world, there are always multiple",
-          "link": "https://www.freecodecamp.org/news/regex-for-date-formats-what-is-the-regular-expression-for-matching-dates/",
-          "publishedOn": "2023-05-18T12:41:17.000Z",
-          "wordCount": 1295,
-          "title": "RegEx for Date Formats – Regular Expressions for Matching Dates",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/dateRegEx.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/angular-upgrades-to-improve-developer-experience/",
-          "author": "Brenda Chepkorir",
-          "description": "When we talk about the Developer Experience [https://microsoft.github.io/code-with-engineering-playbook/developer-experience/] , we're referring to the level of difficulty a developer faces when completing essential tasks.  Factors like the complexity of a development framework or the absence of  syntactic sugar [https://www.techopedia.com/definition/10212/syntactic-sugar] in a programming language can negatively impact it. A robust",
-          "link": "https://www.freecodecamp.org/news/angular-upgrades-to-improve-developer-experience/",
-          "publishedOn": "2023-05-17T23:40:59.000Z",
-          "wordCount": 1482,
-          "title": "Angular Upgrades That Will Improve Your Developer Experience",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-thisisengineering-3861958.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/",
-          "author": "Kolade Chris",
-          "description": "YAML does not have built-in support for regular expressions. But you can still include regex patterns as part of a YAML file's contents, access those patterns, and create a regex out of them. You can do this, for example, with the JavaScript RegExp constructor. So, in YAML, regular expressions are",
-          "link": "https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/",
-          "publishedOn": "2023-05-17T14:48:51.000Z",
-          "wordCount": 1566,
-          "title": "How to Use Regular Expressions in YAML File – RegEx in YAML Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/yamlRe.png"
         }
       ]
     },
@@ -828,6 +808,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=126926",
+          "author": "Amos Zeeberg",
+          "description": "Real data can be hard to get, so researchers are turning to synthetic data to train their artificial intelligence systems.             \nThe post Neural Networks Need Data to Learn. Even If It’s Fake. first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/neural-networks-need-data-to-learn-even-if-its-fake-20230616/",
+          "publishedOn": "2023-06-16T14:16:49.000Z",
+          "wordCount": 5189,
+          "title": "Neural Networks Need Data to Learn. Even If It’s Fake.",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/06/SyntheticData-byKristinaArmitage-Social-1.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=126875",
           "author": "Jordana Cepelewicz",
@@ -997,26 +987,6 @@
           "wordCount": 7304,
           "title": "Secret Messages Can Hide in AI-Generated Media",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/05/Steganography-byCarlosArrojo-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=126041",
-          "author": "Steven Strogatz",
-          "description": "Several areas of physics suggest reasons to think that unobservable universes with different natural laws could lie beyond ours. The theoretical physicist David Kaplan talks with Steven Strogatz about the mysteries that a multiverse would solve.            \nThe post Are There Reasons to Believe in a Multiverse? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/are-there-reasons-to-believe-in-a-multiverse-20230517/",
-          "publishedOn": "2023-05-17T18:40:14.000Z",
-          "wordCount": 19066,
-          "title": "Are There Reasons to Believe in a Multiverse?",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/05/JoY-S2E7-Multiverse-byPeterGreenwood-Social-LOGO.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=126020",
-          "author": "Yasemin Saplakoglu",
-          "description": "Memories may affect how well the brain will learn about future events by shifting our perceptions of the world.             \nThe post Memories Help Brains Recognize New Events Worth Remembering first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/memories-help-brains-recognize-new-events-worth-remembering-20230517/",
-          "publishedOn": "2023-05-17T13:58:57.000Z",
-          "wordCount": 5734,
-          "title": "Memories Help Brains Recognize New Events Worth Remembering",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/05/PerceptionShiftsMemory-byKristinaArmitage-Social.jpg"
         }
       ]
     },

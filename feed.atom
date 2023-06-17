@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-16T01:37:54.494Z</updated>
+    <updated>2023-06-17T01:34:24.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use GitHub Copilot to Become a Happier and More Productive Developer]]></title>
+        <id>https://www.freecodecamp.org/news/developer-productivity-with-github-copilot/</id>
+        <link href="https://www.freecodecamp.org/news/developer-productivity-with-github-copilot/"/>
+        <updated>2023-06-16T17:02:17.000Z</updated>
+        <summary type="html"><![CDATA[There are a number of AI tools for developers emerging on the market. But in my mind GitHub Copilot stands above the rest because of its usability, seamless IDE integration, and remarkable enhancements to developer productivity. Copilot offers a variety of AI tools that have radically streamlined my experience as]]></summary>
+        <author>
+            <name>Tim Kleier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural Networks Need Data to Learn. Even If It’s Fake.]]></title>
+        <id>https://www.quantamagazine.org/?p=126926</id>
+        <link href="https://www.quantamagazine.org/neural-networks-need-data-to-learn-even-if-its-fake-20230616/"/>
+        <updated>2023-06-16T14:16:49.000Z</updated>
+        <summary type="html"><![CDATA[Real data can be hard to get, so researchers are turning to synthetic data to train their artificial intelligence systems.             
+The post Neural Networks Need Data to Learn. Even If It’s Fake. first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Amos Zeeberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unlock the Mysteries of Pointers in C]]></title>
         <id>https://www.freecodecamp.org/news/finally-understand-pointers-in-c/</id>
@@ -1269,58 +1290,6 @@ The post Some Neural Networks Learn Language Like Humans first appeared on Quant
 The post Secret Messages Can Hide in AI-Generated Media first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Stephen Ornes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RegEx for Date Formats – Regular Expressions for Matching Dates]]></title>
-        <id>https://www.freecodecamp.org/news/regex-for-date-formats-what-is-the-regular-expression-for-matching-dates/</id>
-        <link href="https://www.freecodecamp.org/news/regex-for-date-formats-what-is-the-regular-expression-for-matching-dates/"/>
-        <updated>2023-05-18T12:41:17.000Z</updated>
-        <summary type="html"><![CDATA[Regular expressions let you match any string, be it in the form of various user inputs such as username, password, URL, and even different date formats. In this article, I’ll show you several ways you can match a date with regular expressions. In the programming world, there are always multiple]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angular Upgrades That Will Improve Your Developer Experience]]></title>
-        <id>https://www.freecodecamp.org/news/angular-upgrades-to-improve-developer-experience/</id>
-        <link href="https://www.freecodecamp.org/news/angular-upgrades-to-improve-developer-experience/"/>
-        <updated>2023-05-17T23:40:59.000Z</updated>
-        <summary type="html"><![CDATA[When we talk about the Developer Experience [https://microsoft.github.io/code-with-engineering-playbook/developer-experience/] , we're referring to the level of difficulty a developer faces when completing essential tasks.  Factors like the complexity of a development framework or the absence of  syntactic sugar [https://www.techopedia.com/definition/10212/syntactic-sugar] in a programming language can negatively impact it. A robust]]></summary>
-        <author>
-            <name>Brenda Chepkorir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are There Reasons to Believe in a Multiverse?]]></title>
-        <id>https://www.quantamagazine.org/?p=126041</id>
-        <link href="https://www.quantamagazine.org/are-there-reasons-to-believe-in-a-multiverse-20230517/"/>
-        <updated>2023-05-17T18:40:14.000Z</updated>
-        <summary type="html"><![CDATA[Several areas of physics suggest reasons to think that unobservable universes with different natural laws could lie beyond ours. The theoretical physicist David Kaplan talks with Steven Strogatz about the mysteries that a multiverse would solve.            
-The post Are There Reasons to Believe in a Multiverse? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Steven Strogatz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Regular Expressions in YAML File – RegEx in YAML Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/"/>
-        <updated>2023-05-17T14:48:51.000Z</updated>
-        <summary type="html"><![CDATA[YAML does not have built-in support for regular expressions. But you can still include regex patterns as part of a YAML file's contents, access those patterns, and create a regex out of them. You can do this, for example, with the JavaScript RegExp constructor. So, in YAML, regular expressions are]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memories Help Brains Recognize New Events Worth Remembering]]></title>
-        <id>https://www.quantamagazine.org/?p=126020</id>
-        <link href="https://www.quantamagazine.org/memories-help-brains-recognize-new-events-worth-remembering-20230517/"/>
-        <updated>2023-05-17T13:58:57.000Z</updated>
-        <summary type="html"><![CDATA[Memories may affect how well the brain will learn about future events by shifting our perceptions of the world.             
-The post Memories Help Brains Recognize New Events Worth Remembering first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Yasemin Saplakoglu</name>
         </author>
     </entry>
 </feed>
