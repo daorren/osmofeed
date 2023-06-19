@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-18T01:51:04.500Z</updated>
+    <updated>2023-06-19T01:38:42.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -1219,36 +1219,6 @@ Alan Donovan et al…]]></summary>
 The post Some Neural Networks Learn Language Like Humans first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Steve Nadis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use React Server Components – A Beginner's Guide]]></title>
-        <id>https://www.freecodecamp.org/news/react-server-components-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/react-server-components-for-beginners/"/>
-        <updated>2023-05-19T20:31:21.000Z</updated>
-        <summary type="html"><![CDATA[React Server Components have been generating significant buzz and excitement lately. They've recently been adopted as the default option in Next.js 13, so now more and more developers are using them. React Server Components seamlessly blend server-side rendering with the interactivity of client-side JavaScript. And in this tutorial, you'll learn]]></summary>
-        <author>
-            <name>Adwaith KS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pandas Count Rows – How to Get the Number of Rows in a Dataframe]]></title>
-        <id>https://www.freecodecamp.org/news/pandas-count-rows-how-to-get-the-number-of-rows-in-a-dataframe/</id>
-        <link href="https://www.freecodecamp.org/news/pandas-count-rows-how-to-get-the-number-of-rows-in-a-dataframe/"/>
-        <updated>2023-05-19T15:11:58.000Z</updated>
-        <summary type="html"><![CDATA[Pandas is a library built on the Python programming language. You can use it to analyze and manipulate data. A dataframe is two-dimensional data structure in Pandas that organizes data in a tabular format with rows and columns.  In this article, you'll learn how to get the number of]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State Management in React –Props vs the Context API]]></title>
-        <id>https://www.freecodecamp.org/news/state-management-in-react-props-vs-context-api/</id>
-        <link href="https://www.freecodecamp.org/news/state-management-in-react-props-vs-context-api/"/>
-        <updated>2023-05-19T14:31:28.000Z</updated>
-        <summary type="html"><![CDATA[Figuring out state management in React applications can feel like trying to find your way through a labyrinth. You'll constantly be searching for the most efficient, scalable, and maintainable solution.  The journey often leads to two primary paths: Using Props or the Context API. As you embark on this]]></summary>
-        <author>
-            <name>Jaja Ibifubara David</name>
         </author>
     </entry>
 </feed>
