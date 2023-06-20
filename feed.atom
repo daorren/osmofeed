@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-19T01:38:42.649Z</updated>
+    <updated>2023-06-20T01:26:44.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Transform Handbook – Complete Guide to CSS Transform Functions and Properties]]></title>
+        <id>https://www.freecodecamp.org/news/complete-guide-to-css-transform-functions-and-properties/</id>
+        <link href="https://www.freecodecamp.org/news/complete-guide-to-css-transform-functions-and-properties/"/>
+        <updated>2023-06-19T21:13:33.000Z</updated>
+        <summary type="html"><![CDATA[CSS transform allows you to translate, rotate, skew, scale, or add perspective effects to HTML elements. This tutorial discusses everything you need to know to transform HTML elements like a pro. Table of Contents  1.  What is the CSS transform Property?  2.  What is the CSS]]></summary>
+        <author>
+            <name>Oluwatobi Sofela</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn JavaScript for DOM Manipulation in Spanish – Course for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/learn-javascript-for-dom-manipulation-in-spanish-course-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/learn-javascript-for-dom-manipulation-in-spanish-course-for-beginners/"/>
+        <updated>2023-06-19T15:12:59.000Z</updated>
+        <summary type="html"><![CDATA[Hi! If you speak Spanish and you want to learn JavaScript for DOM manipulation, you are in the right place. In this article, you will find a brief introduction to JavaScript for DOM manipulation. You will learn why this is a very powerful tool for developing interactive web applications and]]></summary>
+        <author>
+            <name>Estefania Cassingena Navone</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use GitHub Copilot to Become a Happier and More Productive Developer]]></title>
         <id>https://www.freecodecamp.org/news/developer-productivity-with-github-copilot/</id>
