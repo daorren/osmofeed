@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-20T01:26:44.105Z</updated>
+    <updated>2023-06-21T01:35:10.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Simple HTML and PHP Form]]></title>
+        <id>https://www.freecodecamp.org/news/creating-html-forms/</id>
+        <link href="https://www.freecodecamp.org/news/creating-html-forms/"/>
+        <updated>2023-06-20T22:17:13.000Z</updated>
+        <summary type="html"><![CDATA[If you have a website, it's only a matter of time before you feel the irrepressible urge to gather information about your site's users.  The most direct way to do that is to ask them some questions. And, in the HTML world, the best tool for recording the answers]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Hide Your Angular Properties – # vs private Explained]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-vs-typescript-private-in-angular-explained/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-vs-typescript-private-in-angular-explained/"/>
+        <updated>2023-06-20T20:39:45.000Z</updated>
+        <summary type="html"><![CDATA[Have you noticed a hash symbol showing up in Angular code samples? If not, you may see it soon. What is the purpose of the # and when should you use it? The # symbol was recently added to JavaScript to denote private class properties. Making a class variable private]]></summary>
+        <author>
+            <name>Deborah Kurata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Brain Protects Itself From Blood-Borne Threats]]></title>
+        <id>https://www.quantamagazine.org/?p=126966</id>
+        <link href="https://www.quantamagazine.org/how-the-brain-protects-itself-from-blood-borne-threats-20230620/"/>
+        <updated>2023-06-20T14:22:02.000Z</updated>
+        <summary type="html"><![CDATA[To buffer the brain against menaces in the blood, a dynamic, multi-tiered system of protection is built into the brain’s blood vessels.            
+The post How the Brain Protects Itself From Blood-Borne Threats first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Yasemin Saplakoglu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Random numbers in Go, version 2]]></title>
+        <id>https://golangweekly.com/issues/465</id>
+        <link href="https://golangweekly.com/issues/465"/>
+        <updated>2023-06-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#​465 — June 20, 2023
+
+
+Unsub  |  Web Version
+
+
+
+Go Weekly
+
+
+
+
+  
+
+
+
+
+
+  
+  
+Initializing Large Static Maps in Go — Dolt is an SQL database implemented in Go and it needed to bring a lot of static data tables into its binary for string collation purposes. The team's first approach hurt performance, so they worked through some alternative methods and compared them against each other.
+Aaron Son (DoltHub) 
+
+
+  
+  
+math/rand/v2: A New API for math/rand? — Russ suggests using the standard library’s math/rand as a starting point and extending it into a ‘v2’ variant with a variety of backwards incompatible changes like removing deprecated features and changing a couple of the RNG implementations.
+Russ Cox 
+
+
+  
+  
+Revolutionize User Engagement with a Notification Inbox: Go SDK — The ultimate noti…]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Transform Handbook – Complete Guide to CSS Transform Functions and Properties]]></title>
         <id>https://www.freecodecamp.org/news/complete-guide-to-css-transform-functions-and-properties/</id>

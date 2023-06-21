@@ -12,6 +12,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/creating-html-forms/",
+          "author": "David Clinton",
+          "description": "If you have a website, it's only a matter of time before you feel the irrepressible urge to gather information about your site's users.  The most direct way to do that is to ask them some questions. And, in the HTML world, the best tool for recording the answers",
+          "link": "https://www.freecodecamp.org/news/creating-html-forms/",
+          "publishedOn": "2023-06-20T22:17:13.000Z",
+          "wordCount": 1783,
+          "title": "How to Create a Simple HTML and PHP Form",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pexels-john-petalcurin-2115257.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-vs-typescript-private-in-angular-explained/",
+          "author": "Deborah Kurata",
+          "description": "Have you noticed a hash symbol showing up in Angular code samples? If not, you may see it soon. What is the purpose of the # and when should you use it? The # symbol was recently added to JavaScript to denote private class properties. Making a class variable private",
+          "link": "https://www.freecodecamp.org/news/javascript-vs-typescript-private-in-angular-explained/",
+          "publishedOn": "2023-06-20T20:39:45.000Z",
+          "wordCount": 1795,
+          "title": "How to Hide Your Angular Properties – # vs private Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/hash-v-private-thumbnail.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/complete-guide-to-css-transform-functions-and-properties/",
           "author": "Oluwatobi Sofela",
           "description": "CSS transform allows you to translate, rotate, skew, scale, or add perspective effects to HTML elements. This tutorial discusses everything you need to know to transform HTML elements like a pro. Table of Contents  1.  What is the CSS transform Property?  2.  What is the CSS",
@@ -769,6 +789,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=126966",
+          "author": "Yasemin Saplakoglu",
+          "description": "To buffer the brain against menaces in the blood, a dynamic, multi-tiered system of protection is built into the brain’s blood vessels.            \nThe post How the Brain Protects Itself From Blood-Borne Threats first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-the-brain-protects-itself-from-blood-borne-threats-20230620/",
+          "publishedOn": "2023-06-20T14:22:02.000Z",
+          "wordCount": 5878,
+          "title": "How the Brain Protects Itself From Blood-Borne Threats",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/06/BloodBrainBarrier-byKristinaArmitage-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=126926",
           "author": "Amos Zeeberg",
           "description": "Real data can be hard to get, so researchers are turning to synthetic data to train their artificial intelligence systems.             \nThe post Neural Networks Need Data to Learn. Even If It’s Fake. first appeared on Quanta Magazine",
@@ -1018,6 +1048,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/465",
+          "author": null,
+          "description": "#​465 — June 20, 2023\n\n\nUnsub  |  Web Version\n\n\n\nGo Weekly\n\n\n\n\n  \n\n\n\n\n\n  \n  \nInitializing Large Static Maps in Go — Dolt is an SQL database implemented in Go and it needed to bring a lot of static data tables into its binary for string collation purposes. The team's first approach hurt performance, so they worked through some alternative methods and compared them against each other.\nAaron Son (DoltHub) \n\n\n  \n  \nmath/rand/v2: A New API for math/rand? — Russ suggests using the standard library’s math/rand as a starting point and extending it into a ‘v2’ variant with a variety of backwards incompatible changes like removing deprecated features and changing a couple of the RNG implementations.\nRuss Cox \n\n\n  \n  \nRevolutionize User Engagement with a Notification Inbox: Go SDK — The ultimate noti…",
+          "link": "https://golangweekly.com/issues/465",
+          "publishedOn": "2023-06-20T00:00:00.000Z",
+          "wordCount": 888,
+          "title": "Random numbers in Go, version 2",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/464",
           "author": null,
