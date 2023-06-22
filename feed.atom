@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-21T01:35:10.747Z</updated>
+    <updated>2023-06-22T01:39:06.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create an API Proxy Gateway with AWS HTTP API]]></title>
+        <id>https://www.freecodecamp.org/news/create-an-api-proxy-gateway-with-aws-http-api/</id>
+        <link href="https://www.freecodecamp.org/news/create-an-api-proxy-gateway-with-aws-http-api/"/>
+        <updated>2023-06-21T16:43:47.000Z</updated>
+        <summary type="html"><![CDATA[In today's fast-paced world, seamless integration between various services and systems has become ever more important. Security is also equally important while stitching these services together. So it's crucial to design applications meaningfully so that there's minimal friction between various systems.  This article focuses on the communication between a]]></summary>
+        <author>
+            <name>Prajwal Kulkarni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Simple Geometry That Predicts Molecular Mosaics]]></title>
+        <id>https://www.quantamagazine.org/?p=127014</id>
+        <link href="https://www.quantamagazine.org/the-simple-geometry-that-predicts-molecular-mosaics-20230621/"/>
+        <updated>2023-06-21T15:01:49.000Z</updated>
+        <summary type="html"><![CDATA[By treating molecules as geometric tessellations, scientists devised a new way to forecast how 2D materials might self-assemble.            
+The post The Simple Geometry That Predicts Molecular Mosaics first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Elise Cutts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a ChatBot using the GPT-4 API – Full Project-Based Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/build-gpt-4-api-chatbot-turorial/</id>
+        <link href="https://www.freecodecamp.org/news/build-gpt-4-api-chatbot-turorial/"/>
+        <updated>2023-06-21T14:07:17.000Z</updated>
+        <summary type="html"><![CDATA[Chatbots are transforming the way we interact online. Thanks to the OpenAI API, crafting intelligent, context-aware chatbots is now well within the reach of any budding web developer.  In this tutorial, I will teach you everything you need to know to build your own chatbot using the GPT-4 API.]]></summary>
+        <author>
+            <name>Tom Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Offer Custom APIs to Your Users with AWS API Gateway]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-offer-custom-apis-to-your-users-aws-api-gateway/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-offer-custom-apis-to-your-users-aws-api-gateway/"/>
+        <updated>2023-06-21T13:56:00.000Z</updated>
+        <summary type="html"><![CDATA[In the world of cloud computing and serverless architecture, AWS API Gateway is a powerful tool that helps you build robust, secure, and scalable APIs.  In this tutorial, I'll introduce you to API Gateway and explain the benefits of using this helpful tool. Then I'll show you how to]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create a Simple HTML and PHP Form]]></title>
         <id>https://www.freecodecamp.org/news/creating-html-forms/</id>
@@ -1224,94 +1265,6 @@ The post Is It Real or Imagined? How Your Brain Tells the Difference. first appe
 The post Math Patterns That Go On Forever but Never Repeat first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Patrick Honner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1 million concurrent tasks]]></title>
-        <id>https://golangweekly.com/issues/461</id>
-        <link href="https://golangweekly.com/issues/461"/>
-        <updated>2023-05-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​461 — May 23, 2023
-
-
-Unsub  |  Web Version
-
-
-
-Go Weekly
-
-
-
-
-  
-
-
-
-
-
-  
-  
-How to Start a Go Project in 2023 — The same author wrote a similar piece in 2018; a bit has changed since then. While this may be aimed at new gophers, experienced folks could find something to take away. “Older guides will mention setting up your $GOPATH. This is something you can comfortably ignore in 2023.” Quite!
-Ben E. C. Boyter 
-
-
-  
-  
-On Adding a Reverse Operation to slices — The slices package defines several useful functions for working with slices, but there’s no way to reverse one in-place. This idea seems to be popular, though. There’s already a patch, and Russ Cox just recently put the idea forward to be reviewed at a proposal review meeting with the result being a 'likely accept.'
-Alan Donovan et al…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full-Stack Development with Next.js, TypeScript, and AWS]]></title>
-        <id>https://www.freecodecamp.org/news/full-stack-development-with-next-js-typescript-and-aws/</id>
-        <link href="https://www.freecodecamp.org/news/full-stack-development-with-next-js-typescript-and-aws/"/>
-        <updated>2023-05-22T18:06:08.000Z</updated>
-        <summary type="html"><![CDATA[Learn how create a full stack app with Next.js, TypeScript, and AWS Amplify. We just publshed a new full stack app course on the freeCodeCamp.org YouTube channel. Brian H. Hough, a renowned software engineer and course creator, is your guide. He'll help you build an inspirational quote generator app. You'll]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Container Queries – Responsive Design Beyond the Viewport]]></title>
-        <id>https://www.freecodecamp.org/news/container-queries-responsive-design-beyond-the-viewport/</id>
-        <link href="https://www.freecodecamp.org/news/container-queries-responsive-design-beyond-the-viewport/"/>
-        <updated>2023-05-22T16:24:14.000Z</updated>
-        <summary type="html"><![CDATA[Before now, making your website responsive was limited to resizing HTML elements with media queries. This was, and still is, a brilliant innovation for web development in general.  But web development has evolved with the advent of JavaScript frameworks—particularly with the use of components as building blocks in developing]]></summary>
-        <author>
-            <name>Favour C. Felix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delete YouTube History – How to Delete YouTube Search and Watch Histories]]></title>
-        <id>https://www.freecodecamp.org/news/delete-youtube-history-how-to-delete-youtube-search-and-watch-histories/</id>
-        <link href="https://www.freecodecamp.org/news/delete-youtube-history-how-to-delete-youtube-search-and-watch-histories/"/>
-        <updated>2023-05-22T14:55:02.000Z</updated>
-        <summary type="html"><![CDATA[YouTube is the most popular platform for watching and discovering educational and entertainment-focused videos. But if you have a privacy concern and want to clear your YouTube history for a fresh start, deleting your YouTube search and watch histories can be an effective solution. In this article, I will guide]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How You Can Use AI to Improve Your Code Quality]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-ai-to-improve-code-quality/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-ai-to-improve-code-quality/"/>
-        <updated>2023-05-22T13:57:16.000Z</updated>
-        <summary type="html"><![CDATA[As a software developer, I've always tried to write flawless code. Great code is not just functional – it should also be elegant, efficient, and robust.  But let's be honest – the journey towards code perfection can sometimes feel like an uphill battle. Or more often than not, a]]></summary>
-        <author>
-            <name>Shane Duggan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Neural Networks Learn Language Like Humans]]></title>
-        <id>https://www.quantamagazine.org/?p=126116</id>
-        <link href="https://www.quantamagazine.org/some-neural-networks-learn-language-like-humans-20230522/"/>
-        <updated>2023-05-22T13:47:32.000Z</updated>
-        <summary type="html"><![CDATA[Researchers uncover striking parallels in the ways that humans and machine learning models acquire language skills.            
-The post Some Neural Networks Learn Language Like Humans first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Steve Nadis</name>
         </author>
     </entry>
 </feed>

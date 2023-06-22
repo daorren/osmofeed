@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/create-an-api-proxy-gateway-with-aws-http-api/",
+          "author": "Prajwal Kulkarni",
+          "description": "In today's fast-paced world, seamless integration between various services and systems has become ever more important. Security is also equally important while stitching these services together. So it's crucial to design applications meaningfully so that there's minimal friction between various systems.  This article focuses on the communication between a",
+          "link": "https://www.freecodecamp.org/news/create-an-api-proxy-gateway-with-aws-http-api/",
+          "publishedOn": "2023-06-21T16:43:47.000Z",
+          "wordCount": 2213,
+          "title": "How to Create an API Proxy Gateway with AWS HTTP API",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/praneet-kumar-H8dcf-v98mA-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-gpt-4-api-chatbot-turorial/",
+          "author": "Tom Chant",
+          "description": "Chatbots are transforming the way we interact online. Thanks to the OpenAI API, crafting intelligent, context-aware chatbots is now well within the reach of any budding web developer.  In this tutorial, I will teach you everything you need to know to build your own chatbot using the GPT-4 API.",
+          "link": "https://www.freecodecamp.org/news/build-gpt-4-api-chatbot-turorial/",
+          "publishedOn": "2023-06-21T14:07:17.000Z",
+          "wordCount": 5118,
+          "title": "How to Build a ChatBot using the GPT-4 API – Full Project-Based Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Slide-16_9---15.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-offer-custom-apis-to-your-users-aws-api-gateway/",
+          "author": "Arunachalam B",
+          "description": "In the world of cloud computing and serverless architecture, AWS API Gateway is a powerful tool that helps you build robust, secure, and scalable APIs.  In this tutorial, I'll introduce you to API Gateway and explain the benefits of using this helpful tool. Then I'll show you how to",
+          "link": "https://www.freecodecamp.org/news/how-to-offer-custom-apis-to-your-users-aws-api-gateway/",
+          "publishedOn": "2023-06-21T13:56:00.000Z",
+          "wordCount": 2007,
+          "title": "How to Offer Custom APIs to Your Users with AWS API Gateway",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/AWS-API-Gateway-Banner.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/creating-html-forms/",
           "author": "David Clinton",
           "description": "If you have a website, it's only a matter of time before you feel the irrepressible urge to gather information about your site's users.  The most direct way to do that is to ask them some questions. And, in the HTML world, the best tool for recording the answers",
@@ -740,46 +770,6 @@
           "wordCount": 2319,
           "title": "How to Use RabbitMQ with NodeJS to Send and Receive Messages",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/What-is-RabbitMQ-and-How-to-use-it-with-NodeJS_1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/full-stack-development-with-next-js-typescript-and-aws/",
-          "author": "Beau Carnes",
-          "description": "Learn how create a full stack app with Next.js, TypeScript, and AWS Amplify. We just publshed a new full stack app course on the freeCodeCamp.org YouTube channel. Brian H. Hough, a renowned software engineer and course creator, is your guide. He'll help you build an inspirational quote generator app. You'll",
-          "link": "https://www.freecodecamp.org/news/full-stack-development-with-next-js-typescript-and-aws/",
-          "publishedOn": "2023-05-22T18:06:08.000Z",
-          "wordCount": 964,
-          "title": "Full-Stack Development with Next.js, TypeScript, and AWS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/nextfullstack.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/container-queries-responsive-design-beyond-the-viewport/",
-          "author": "Favour C. Felix",
-          "description": "Before now, making your website responsive was limited to resizing HTML elements with media queries. This was, and still is, a brilliant innovation for web development in general.  But web development has evolved with the advent of JavaScript frameworks—particularly with the use of components as building blocks in developing",
-          "link": "https://www.freecodecamp.org/news/container-queries-responsive-design-beyond-the-viewport/",
-          "publishedOn": "2023-05-22T16:24:14.000Z",
-          "wordCount": 1413,
-          "title": "How to Use Container Queries – Responsive Design Beyond the Viewport",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/container-queries-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/delete-youtube-history-how-to-delete-youtube-search-and-watch-histories/",
-          "author": "Kolade Chris",
-          "description": "YouTube is the most popular platform for watching and discovering educational and entertainment-focused videos. But if you have a privacy concern and want to clear your YouTube history for a fresh start, deleting your YouTube search and watch histories can be an effective solution. In this article, I will guide",
-          "link": "https://www.freecodecamp.org/news/delete-youtube-history-how-to-delete-youtube-search-and-watch-histories/",
-          "publishedOn": "2023-05-22T14:55:02.000Z",
-          "wordCount": 1284,
-          "title": "Delete YouTube History – How to Delete YouTube Search and Watch Histories",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/deleteYtHistories.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-ai-to-improve-code-quality/",
-          "author": "Shane Duggan",
-          "description": "As a software developer, I've always tried to write flawless code. Great code is not just functional – it should also be elegant, efficient, and robust.  But let's be honest – the journey towards code perfection can sometimes feel like an uphill battle. Or more often than not, a",
-          "link": "https://www.freecodecamp.org/news/how-to-use-ai-to-improve-code-quality/",
-          "publishedOn": "2023-05-22T13:57:16.000Z",
-          "wordCount": 3094,
-          "title": "How You Can Use AI to Improve Your Code Quality",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/AICodeQuality--1-.png"
         }
       ]
     },
@@ -788,6 +778,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=127014",
+          "author": "Elise Cutts",
+          "description": "By treating molecules as geometric tessellations, scientists devised a new way to forecast how 2D materials might self-assemble.            \nThe post The Simple Geometry That Predicts Molecular Mosaics first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-simple-geometry-that-predicts-molecular-mosaics-20230621/",
+          "publishedOn": "2023-06-21T15:01:49.000Z",
+          "wordCount": 7526,
+          "title": "The Simple Geometry That Predicts Molecular Mosaics",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/06/Tesselation-bySamuelVelasco-Sociall.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=126966",
           "author": "Yasemin Saplakoglu",
@@ -957,16 +957,6 @@
           "wordCount": 7209,
           "title": "Math Patterns That Go On Forever but Never Repeat",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/05/MayAcademy-byRobertNeubecker-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=126116",
-          "author": "Steve Nadis",
-          "description": "Researchers uncover striking parallels in the ways that humans and machine learning models acquire language skills.            \nThe post Some Neural Networks Learn Language Like Humans first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/some-neural-networks-learn-language-like-humans-20230522/",
-          "publishedOn": "2023-05-22T13:47:32.000Z",
-          "wordCount": 5133,
-          "title": "Some Neural Networks Learn Language Like Humans",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/05/GANBrainWaves-byKristinaArmitage-Social.jpg"
         }
       ]
     },
@@ -1086,16 +1076,6 @@
           "publishedOn": "2023-05-30T00:00:00.000Z",
           "wordCount": 787,
           "title": "Let's build a distributed K/V store in Go",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/461",
-          "author": null,
-          "description": "#​461 — May 23, 2023\n\n\nUnsub  |  Web Version\n\n\n\nGo Weekly\n\n\n\n\n  \n\n\n\n\n\n  \n  \nHow to Start a Go Project in 2023 — The same author wrote a similar piece in 2018; a bit has changed since then. While this may be aimed at new gophers, experienced folks could find something to take away. “Older guides will mention setting up your $GOPATH. This is something you can comfortably ignore in 2023.” Quite!\nBen E. C. Boyter \n\n\n  \n  \nOn Adding a Reverse Operation to slices — The slices package defines several useful functions for working with slices, but there’s no way to reverse one in-place. This idea seems to be popular, though. There’s already a patch, and Russ Cox just recently put the idea forward to be reviewed at a proposal review meeting with the result being a 'likely accept.'\nAlan Donovan et al…",
-          "link": "https://golangweekly.com/issues/461",
-          "publishedOn": "2023-05-23T00:00:00.000Z",
-          "wordCount": 930,
-          "title": "1 million concurrent tasks",
           "imageUrl": null
         }
       ]
