@@ -872,6 +872,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/today-i-learned/how-to-use-eventtarget-as-a-web-native-event-emitter/",
+          "author": null,
+          "description": "Suppose you want to implement a publish/subscribe pattern in your Frontend application to react to data changes and events. First, you might be looking for an event emitter library.\nI installed plenty of event emitter libraries over the years, and if I felt advanterous I wrote them from scratch as a quick coding exercise.\nToday I learned that vanilla JavaScript comes with a native event emitter, which I've been indirectly using forever. There's no need for extra code!\nThe EventTarget interface\n\nIt's right in front of us; every time you use addEventListener on a DOM element, you subscribe to events from it. That's a classical event emitter. Can you reuse this functionality somehow?\nI've always thought that addEventListener is part of the HTMLElement's prototype, but surprisingly it's not!\nW…",
+          "link": "https://www.stefanjudis.com/today-i-learned/how-to-use-eventtarget-as-a-web-native-event-emitter/",
+          "publishedOn": "2023-06-24T22:00:00.000Z",
+          "wordCount": 1524,
+          "title": "How to use EventTarget as a web-native event emitter (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20use%20EventTarget%20as%20a%20web-native%20event%20emitter/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/a-selection-web-compatibility-issue/",
           "author": null,
           "description": "There's a recent Twitter bug that's a real issue for me. Yeah, I know; there are countless bugs since Elmo fired half of the Twitter stuff. Still, this particular one is based on something other than the struggling engineering organization but a web compatibility issue.\nA ::selection compatibility issue\n\nHere is the bug in question in all its glory.\nTwitter Tweet box not showing selection styles in Chrome.\n      \n    \nSuppose you're writing a Tweet or DM in the Twitter UI using Chrome; the text selection is invisible. That's a pretty bad UX and an accessibility issue.\nMoritz Gießmann pointed out that this bug can be fixed by turning off Chrome's experimental web features. And indeed, it makes all browsers behave the same. I'm beyond confused and will update the post later. 😅\nSo what's hap…",

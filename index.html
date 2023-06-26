@@ -22,6 +22,61 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-06-24 datetime="2023-06-24T22:00:00.000Z">2023-06-24</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-06-24 datetime="2023-06-24T22:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/today-i-learned/how-to-use-eventtarget-as-a-web-native-event-emitter/"
+                        open
+                      >
+                        <summary class="article-expander__title">How to use EventTarget as a web-native event emitter (#tilPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/how-to-use-eventtarget-as-a-web-native-event-emitter/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20use%20EventTarget%20as%20a%20web-native%20event%20emitter/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Suppose you want to implement a publish/subscribe pattern in your Frontend application to react to data changes and events. First, you might be looking for an event emitter library.
+I installed plenty of event emitter libraries over the years, and if I felt advanterous I wrote them from scratch as a quick coding exercise.
+Today I learned that vanilla JavaScript comes with a native event emitter, which I&#x27;ve been indirectly using forever. There&#x27;s no need for extra code!
+The EventTarget interface
+
+It&#x27;s right in front of us; every time you use addEventListener on a DOM element, you subscribe to events from it. That&#x27;s a classical event emitter. Can you reuse this functionality somehow?
+I&#x27;ve always thought that addEventListener is part of the HTMLElement&#x27;s prototype, but surprisingly it&#x27;s not!
+W…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-06-23 datetime="2023-06-23T21:38:23.000Z">2023-06-23</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-06-23 datetime="2023-06-23T21:38:23.000Z"></time>
           </button>
@@ -3022,8 +3077,8 @@ All the new stuff is about bundling code differently to restructure function exp
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/5367248153">
-        <time id="build-timestamp" datetime="2023-06-25T01:59:32.890Z">2023-06-25T01:59:32.890Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/5372984953">
+        <time id="build-timestamp" datetime="2023-06-26T01:53:01.237Z">2023-06-26T01:53:01.237Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
