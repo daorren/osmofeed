@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-26T01:53:01.272Z</updated>
+    <updated>2023-06-27T01:50:52.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NLP using spaCy – How to Get Started with Natural Language Processing]]></title>
+        <id>https://www.freecodecamp.org/news/getting-started-with-nlp-using-spacy/</id>
+        <link href="https://www.freecodecamp.org/news/getting-started-with-nlp-using-spacy/"/>
+        <updated>2023-06-26T23:10:31.000Z</updated>
+        <summary type="html"><![CDATA[In today's data-driven world, vast amounts of unstructured text data are generated every day. And to help handle all that data, Natural Language Processing (NLP) has emerged as a transformative technology.  NLP is a sub-field of artificial intelligence. It focuses on enabling machines to understand, interpret, and generate human]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Key to Species Diversity May Be in Their Similarities]]></title>
+        <id>https://www.quantamagazine.org/?p=127197</id>
+        <link href="https://www.quantamagazine.org/the-key-to-species-diversity-may-be-in-their-similarities-20230626/"/>
+        <updated>2023-06-26T14:36:21.000Z</updated>
+        <summary type="html"><![CDATA[New modeling work suggests why nature is more diverse than niche-based ecological theory predicts.            
+The post The Key to Species Diversity May Be in Their Similarities first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Veronique Greenwood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #105 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-105/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-105/"/>
+        <updated>2023-06-25T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Happy Monday, party people! 👋
+
+Are you desperately waiting for CSS state queries? Do you wonder how to speed up your sites? Or do you want to know how to build web apps that work on flaky connections?
+This week's Web Weekly includes all the answers and much more. 🫣
+Roman Komarov published a real CSS custom property head-scratcher.
+I mean, look at it! 🤯
+The article describes how you can use cyclic CSS properties as value toggles. I'm amazed (and confused)!
+It's a good explainer of the custom property inner workings.
+And while being fancy, I wouldn't use this approach, because it's too clever. But hey, it's good to know about these tricks!
+Nevertheless, Roman's blog is worth a follow because it's full of these nerdy CSS techniques. Here's another post about fit-to-width text with pure CSS…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to use EventTarget as a web-native event emitter (#tilPost)]]></title>
         <id>https://www.stefanjudis.com/today-i-learned/how-to-use-eventtarget-as-a-web-native-event-emitter/</id>
@@ -1148,37 +1188,6 @@ Multiple folks pointed out that passwort restrictions are useless because the on
           
           
             Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resumability, compilers and event delegation (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/resumability-compilers-and-event-delegation/</id>
-        <link href="https://www.stefanjudis.com/notes/resumability-compilers-and-event-delegation/"/>
-        <updated>2023-05-27T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lately, there's been a lot of ground-breaking noise in the JavaScript ecosystem. Don't get me wrong, the "let's invent the next big thing" mantra in JS land isn't new, but for a year or so, it feels like fundamental interactivity patterns are shaken up.
-React finally shipped a working implementation of Server Components in Next.js. I haven't played with them yet, but it seems they involve heavy bundler magic to make them feel like good old PHP.
-
-        
-
-        
-Mark Dalgleish
-              @markdalgleish
-            
-
-334 retweets
-            1972 likes
-
-            Tweeted 
-              
-                May 03 2020
-              
-            
-            Open Tweet
-          
-
-All the new stuff is about bundling code differently to restructure function exports and using newly invented…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>
