@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-28T01:49:58.408Z</updated>
+    <updated>2023-06-29T01:45:25.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[An Enormous Gravity ‘Hum’ Moves Through the Universe]]></title>
+        <id>https://www.quantamagazine.org/?p=127323</id>
+        <link href="https://www.quantamagazine.org/an-enormous-gravity-hum-moves-through-the-universe-20230628/"/>
+        <updated>2023-06-29T00:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Astronomers have found a background din of exceptionally long-wavelength gravitational waves pervading the cosmos.            
+The post An Enormous Gravity ‘Hum’ Moves Through the Universe first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Jonathan O'Callaghan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use a Postman Mock Server with Angular]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-a-postman-mock-server-with-angular/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-a-postman-mock-server-with-angular/"/>
+        <updated>2023-06-28T21:47:41.000Z</updated>
+        <summary type="html"><![CDATA[New front end features often require back end data support – especially where new endpoints are concerned.  For example, an application that needs an authenticated user experience may need a new /authenticate endpoint. If for any reason endpoint development is stalled or lags behind, despite the sprint planning, you]]></summary>
+        <author>
+            <name>Brenda Chepkorir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Can Jellyfish Teach Us About Fluid Dynamics?]]></title>
+        <id>https://www.quantamagazine.org/?p=127308</id>
+        <link href="https://www.quantamagazine.org/what-can-jellyfish-teach-us-about-fluid-dynamics-20230628/"/>
+        <updated>2023-06-28T06:51:55.000Z</updated>
+        <summary type="html"><![CDATA[Jellyfish and other aquatic creatures embody solutions to diverse problems in engineering, medicine and mathematics. John Dabiri, a fluid dynamics expert, talks with Steven Strogatz about what jellyfish can teach us about going with the flow.            
+The post What Can Jellyfish Teach Us About Fluid Dynamics? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steven Strogatz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create a Simple Calculator App in Django]]></title>
         <id>https://www.freecodecamp.org/news/how-to-create-a-calculator-app-in-django/</id>
@@ -1230,69 +1262,6 @@ The post Data Compression Drives the Internet. Here’s How It Works. first appe
         <summary type="html"><![CDATA[Version control is a system that helps manage changes to files and directories over time. It allows multiple people to collaborate on a project, keep track of modifications, and revert to previous versions if needed.  One of the most popular version control systems is Git. Git [https://git-scm.com/] is a]]></summary>
         <author>
             <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How 3D Changes in the Genome Turned Sharks Into Skates]]></title>
-        <id>https://www.quantamagazine.org/?p=126374</id>
-        <link href="https://www.quantamagazine.org/how-3d-changes-in-the-genome-turned-sharks-into-skates-20230530/"/>
-        <updated>2023-05-30T13:44:50.000Z</updated>
-        <summary type="html"><![CDATA[Changes in the 3D structure of their genome gave skates and rays their distinctive winglike fins and pancake flatness.            
-The post How 3D Changes in the Genome Turned Sharks Into Skates first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Viviane Callier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What does the "Maximum call stack exceeded" error mean?]]></title>
-        <id>https://www.freecodecamp.org/news/what-does-the-maximum-call-stack-stack-exceeded-error-mean/</id>
-        <link href="https://www.freecodecamp.org/news/what-does-the-maximum-call-stack-stack-exceeded-error-mean/"/>
-        <updated>2023-05-30T07:56:07.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever gotten an error similar to this? This error occurs because the call stack has exceeded its limit. But what does this mean? First, let's understand what the call stack is. The Call Stack The call stack is a data structure in JavaScript that contains the function(s) being]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's build a distributed K/V store in Go]]></title>
-        <id>https://golangweekly.com/issues/462</id>
-        <link href="https://golangweekly.com/issues/462"/>
-        <updated>2023-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​462 — May 30, 2023
-
-
-Unsub  |  Web Version
-
-
-
-Go Weekly
-
-
-
-
-  
-
-
-
-
-
-  
-  
-Implementing a Distributed Key-Value Store in Go — Phil has spent many months getting up to speed with the Raft consensus algorithm and goes into serious depth on using it along with Go as the basis for a distributed key-value store. There’s much to enjoy here.
-Phil Eaton 
-
-
-  
-  
-Finding the Best Go Project Structure — Posts like this always do well because so many folks are uncertain about project structure. It paints the broad picture of how one team found peace with structuring their projects. Go Project Structure is a repo showing off their end result.
-Aviv Carmi 
-
-
-  
-  
-Go! Experts at Your Service — Do you need help filling skill gaps, speeding up development & creating high performing software with Go, Dock…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
         </author>
     </entry>
 </feed>

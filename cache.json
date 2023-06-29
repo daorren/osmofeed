@@ -12,6 +12,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-use-a-postman-mock-server-with-angular/",
+          "author": "Brenda Chepkorir",
+          "description": "New front end features often require back end data support – especially where new endpoints are concerned.  For example, an application that needs an authenticated user experience may need a new /authenticate endpoint. If for any reason endpoint development is stalled or lags behind, despite the sprint planning, you",
+          "link": "https://www.freecodecamp.org/news/how-to-use-a-postman-mock-server-with-angular/",
+          "publishedOn": "2023-06-28T21:47:41.000Z",
+          "wordCount": 2133,
+          "title": "How to Use a Postman Mock Server with Angular",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pexels-christina-morillo-1181247.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-create-a-calculator-app-in-django/",
           "author": "Sampurna Chapagain",
           "description": "Django is a free and open-source Python web framework that helps you quickly develop secure and maintainable web applications. In this tutorial, I will guide you step by step as we create a calculator app using django. This is a beginner-friendly tutorial, so if you are new to Django, you",
@@ -770,16 +780,6 @@
           "wordCount": 1825,
           "title": "Git Abort Merge – How to Cancel a Merge in Git",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Shittu-Olumide-Git-Abort-Merge---How-to-Cancel-a-Merge-in-Git.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-does-the-maximum-call-stack-stack-exceeded-error-mean/",
-          "author": "Dillion Megida",
-          "description": "Have you ever gotten an error similar to this? This error occurs because the call stack has exceeded its limit. But what does this mean? First, let's understand what the call stack is. The Call Stack The call stack is a data structure in JavaScript that contains the function(s) being",
-          "link": "https://www.freecodecamp.org/news/what-does-the-maximum-call-stack-stack-exceeded-error-mean/",
-          "publishedOn": "2023-05-30T07:56:07.000Z",
-          "wordCount": 1797,
-          "title": "What does the \"Maximum call stack exceeded\" error mean?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/29-maximum-call-stack-exceeded.png"
         }
       ]
     },
@@ -788,6 +788,26 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=127323",
+          "author": "Jonathan O'Callaghan",
+          "description": "Astronomers have found a background din of exceptionally long-wavelength gravitational waves pervading the cosmos.            \nThe post An Enormous Gravity ‘Hum’ Moves Through the Universe first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/an-enormous-gravity-hum-moves-through-the-universe-20230628/",
+          "publishedOn": "2023-06-29T00:00:08.000Z",
+          "wordCount": 7034,
+          "title": "An Enormous Gravity ‘Hum’ Moves Through the Universe",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/06/Nanograv-byJimHoover-Default.webp"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=127308",
+          "author": "Steven Strogatz",
+          "description": "Jellyfish and other aquatic creatures embody solutions to diverse problems in engineering, medicine and mathematics. John Dabiri, a fluid dynamics expert, talks with Steven Strogatz about what jellyfish can teach us about going with the flow.            \nThe post What Can Jellyfish Teach Us About Fluid Dynamics? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/what-can-jellyfish-teach-us-about-fluid-dynamics-20230628/",
+          "publishedOn": "2023-06-28T06:51:55.000Z",
+          "wordCount": 19440,
+          "title": "What Can Jellyfish Teach Us About Fluid Dynamics?",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/06/JoY-S2E10-JellyFish-byPeterGreenwood-Square-Social-LOGO.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=127235",
           "author": "David S. Richeson",
@@ -967,16 +987,6 @@
           "wordCount": 5555,
           "title": "Data Compression Drives the Internet. Here’s How It Works.",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/05/CompressionExplainer-byKristinaArmitage-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=126374",
-          "author": "Viviane Callier",
-          "description": "Changes in the 3D structure of their genome gave skates and rays their distinctive winglike fins and pancake flatness.            \nThe post How 3D Changes in the Genome Turned Sharks Into Skates first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-3d-changes-in-the-genome-turned-sharks-into-skates-20230530/",
-          "publishedOn": "2023-05-30T13:44:50.000Z",
-          "wordCount": 5933,
-          "title": "How 3D Changes in the Genome Turned Sharks Into Skates",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/05/SkateBodyPlan-byTeresaZgoda_ScienceSource-Social.webp"
         }
       ]
     },
@@ -1086,16 +1096,6 @@
           "publishedOn": "2023-06-06T00:00:00.000Z",
           "wordCount": 944,
           "title": "Go's on IBM mainframes now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/462",
-          "author": null,
-          "description": "#​462 — May 30, 2023\n\n\nUnsub  |  Web Version\n\n\n\nGo Weekly\n\n\n\n\n  \n\n\n\n\n\n  \n  \nImplementing a Distributed Key-Value Store in Go — Phil has spent many months getting up to speed with the Raft consensus algorithm and goes into serious depth on using it along with Go as the basis for a distributed key-value store. There’s much to enjoy here.\nPhil Eaton \n\n\n  \n  \nFinding the Best Go Project Structure — Posts like this always do well because so many folks are uncertain about project structure. It paints the broad picture of how one team found peace with structuring their projects. Go Project Structure is a repo showing off their end result.\nAviv Carmi \n\n\n  \n  \nGo! Experts at Your Service — Do you need help filling skill gaps, speeding up development & creating high performing software with Go, Dock…",
-          "link": "https://golangweekly.com/issues/462",
-          "publishedOn": "2023-05-30T00:00:00.000Z",
-          "wordCount": 787,
-          "title": "Let's build a distributed K/V store in Go",
           "imageUrl": null
         }
       ]
