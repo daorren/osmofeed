@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-30T01:44:24.170Z</updated>
+    <updated>2023-07-01T01:55:22.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Install MySQL and MySQL Workbench on Windows]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-install-mysql-workbench-on-windows/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-install-mysql-workbench-on-windows/"/>
+        <updated>2023-06-30T18:23:15.000Z</updated>
+        <summary type="html"><![CDATA[If you want to learn MySQL, starting with a good client is super helpful – especially when you are just beginning your journey. There are a lot of clients out there for your MySQL-based needs, like XAMPP, DataGrip, and others. Among all of them, I prefer the MySQL Workbench [https://www.mysql.com/products/workbench/].]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Work with CSS Style Sheets – the Basics for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/css-style-sheets-basics/</id>
+        <link href="https://www.freecodecamp.org/news/css-style-sheets-basics/"/>
+        <updated>2023-06-30T16:22:07.000Z</updated>
+        <summary type="html"><![CDATA[Using HTML tags like 
+, , and so on can help you organize your web page content nicely, but only up to a point.  HTML-only pages can be pleasant and easy to read – which is hugely important – but, after a while, they all do tend to look]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A New Map of the Universe, Painted With Cosmic Neutrinos]]></title>
         <id>https://www.quantamagazine.org/?p=121765</id>
@@ -1131,68 +1152,6 @@ I haven't adopted them entirely and mostly use them …]]></summary>
 The post How Math Has Changed the Shape of Gerrymandering first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Mike Orcutt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is the Nature of Consciousness?]]></title>
-        <id>https://www.quantamagazine.org/?p=126454</id>
-        <link href="https://www.quantamagazine.org/what-is-the-nature-of-consciousness-20230531/"/>
-        <updated>2023-05-31T19:32:26.000Z</updated>
-        <summary type="html"><![CDATA[Consciousness, our experience of being in the world, is one of the mind’s greatest mysteries, but as the neuroscientist Anil Seth explains to Steven Strogatz, research is making progress in understanding this elusive phenomenon.            
-The post What Is the Nature of Consciousness? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Steven Strogatz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Format a Date with JavaScript – Date Formatting in JS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-format-a-date-with-javascript-date-formatting-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-format-a-date-with-javascript-date-formatting-in-js/"/>
-        <updated>2023-05-31T17:48:04.000Z</updated>
-        <summary type="html"><![CDATA[Dates are a fundamental part of many JavaScript applications, whether it's displaying the current date on a webpage or handling user input for scheduling events. But displaying dates in a clear and consistent format is crucial for a positive user experience. In the past, I have written two articles on]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Simple Deployment Pipeline with Reusable Github Actions and Heroku]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-simple-deployment-pipeline-with-reuable-github-actions-and-heroku/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-simple-deployment-pipeline-with-reuable-github-actions-and-heroku/"/>
-        <updated>2023-05-31T17:25:11.000Z</updated>
-        <summary type="html"><![CDATA[If you've been using GitHub for a while, you've probably heard of or used GitHub actions.  If you haven't heard of Github Actions or used them before, you can use them for automating your build, test, or deployment pipelines. You can create workflows that will be triggered upon certain]]></summary>
-        <author>
-            <name>Liz Johnson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Temp Table – How to Create a Temporary SQL Table]]></title>
-        <id>https://www.freecodecamp.org/news/sql-temp-table-how-to-create-a-temporary-sql-table/</id>
-        <link href="https://www.freecodecamp.org/news/sql-temp-table-how-to-create-a-temporary-sql-table/"/>
-        <updated>2023-05-31T17:22:54.000Z</updated>
-        <summary type="html"><![CDATA[SQL, which stands for Structured Query Language, is a programming language specifically designed for managing and manipulating relational databases.  It provides a standardized way to interact with databases and perform tasks such as querying data, inserting, updating, and deleting records, creating and modifying database structures, and more. SQL is]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use AWS Cognito for User Authentication]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-aws-cognito-for-user-authentication/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-aws-cognito-for-user-authentication/"/>
-        <updated>2023-05-31T17:01:00.000Z</updated>
-        <summary type="html"><![CDATA[When you're building complex applications, one seemingly simple feature can be difficult to implement: user authentication.  Though some apps don't need it depending on their use case, many do. You might spend a ton of time building an authentication module to provide a secure experience to your users and]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Compression Drives the Internet. Here’s How It Works.]]></title>
-        <id>https://www.quantamagazine.org/?p=126408</id>
-        <link href="https://www.quantamagazine.org/how-lossless-data-compression-works-20230531/"/>
-        <updated>2023-05-31T14:33:28.000Z</updated>
-        <summary type="html"><![CDATA[One student’s desire to get out of a final exam led to the ubiquitous algorithm that shrinks data without sacrificing information.            
-The post Data Compression Drives the Internet. Here’s How It Works. first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Elliot Lichtman</name>
         </author>
     </entry>
 </feed>
