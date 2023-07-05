@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-04T01:49:46.227Z</updated>
+    <updated>2023-07-05T01:47:43.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Answering all the big questions]]></title>
+        <id>https://golangweekly.com/issues/467</id>
+        <link href="https://golangweekly.com/issues/467"/>
+        <updated>2023-07-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#​467 — July 4, 2023
+
+
+Unsub  |  Web Version
+
+
+
+Go Weekly
+
+
+
+
+  
+
+
+
+
+
+  
+  
+Frequently Asked Questions About Go — Did you know there's an official Go FAQ? It's been around forever, but somehow we’d not run into it it before.. 😅 It’s packed with interesting stuff and worth a flip through. Some of our favorites:
+
+
+What compiler technology is used to build the compilers?
+Is there an official Go style guide?
+Why does Go do garbage collection?
+What's the origin of the gopher mascot?
+The Go Team 
+
+
+  
+  
+How Grab Uses Its Own Go Module Proxy — The team behind Grab, a popular ‘super-app’ in Southeast Asia, relies on a large Go monorepo for its backend dev projects and they use the Athens Go module store and proxy to make their dev process smoother and, in particular, to reduce module fetching ti…]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The "DomInteractive" event and a browser metrics deep dive (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/the-dominteractive-event-and-a-browser-metrics-deep-dive/</id>
+        <link href="https://www.stefanjudis.com/notes/the-dominteractive-event-and-a-browser-metrics-deep-dive/"/>
+        <updated>2023-07-03T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are plenty of DOM events and web performance metrics to consider when monitoring your site's user experience. There's Load, the holy Speed Index or web vitals such as LCP (largest contentful paint).
+Harry just made a case for considering monitoring DomContentLoad, too! It's a good piece on browser events and how to get your hands on improving web performance.
+And while reading it, I discovered another browser event that I probably have known about but left my memory — DomInteractive.
+[DomInteractive] is the moment the browser has finished parsing all synchronous DOM work: your HTML and all blocking scripts it encountered on the way. Basically, the browser is now at the </html> tag. The browser is ready to run your deferred JavaScript.
+The DomInteractive event can come in handy when evaluating your JS payloads' execution time. But I won't repeat Harry's insights here, so head over to his blog. The post is a nice deep dive!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Helpful Linux Commands You Should Know]]></title>
         <id>https://www.freecodecamp.org/news/helpful-linux-commands-you-should-know/</id>

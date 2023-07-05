@@ -22,11 +22,134 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-07-03 datetime="2023-07-03T20:36:49.000Z">2023-07-03</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-07-03 datetime="2023-07-03T20:36:49.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-07-04 datetime="2023-07-04T00:00:00.000Z">2023-07-04</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-07-04 datetime="2023-07-04T00:00:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Golang Weekly</button>
+                  <a class="source-heading__link" href="https://golangweekly.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://golangweekly.com/issues/467"
+                        open
+                      >
+                        <summary class="article-expander__title">Answering all the big questions</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://golangweekly.com/issues/467">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>#​467 — July 4, 2023
+
+
+Unsub  |  Web Version
+
+
+
+Go Weekly
+
+
+
+
+  
+
+
+
+
+
+  
+  
+Frequently Asked Questions About Go — Did you know there&#x27;s an official Go FAQ? It&#x27;s been around forever, but somehow we’d not run into it it before.. 😅 It’s packed with interesting stuff and worth a flip through. Some of our favorites:
+
+
+What compiler technology is used to build the compilers?
+Is there an official Go style guide?
+Why does Go do garbage collection?
+What&#x27;s the origin of the gopher mascot?
+The Go Team 
+
+
+  
+  
+How Grab Uses Its Own Go Module Proxy — The team behind Grab, a popular ‘super-app’ in Southeast Asia, relies on a large Go monorepo for its backend dev projects and they use the Athens Go module store and proxy to make their dev process smoother and, in particular, to reduce module fetching ti…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-07-03 datetime="2023-07-03T22:00:00.000Z">2023-07-03</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-07-03 datetime="2023-07-03T22:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/notes/the-dominteractive-event-and-a-browser-metrics-deep-dive/"
+                        open
+                      >
+                        <summary class="article-expander__title">The &quot;DomInteractive&quot; event and a browser metrics deep dive (#note)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/notes/the-dominteractive-event-and-a-browser-metrics-deep-dive/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:The%20%22DomInteractive%22%20event%20and%20a%20browser%20metrics%20deep%20dive/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>There are plenty of DOM events and web performance metrics to consider when monitoring your site&#x27;s user experience. There&#x27;s Load, the holy Speed Index or web vitals such as LCP (largest contentful paint).
+Harry just made a case for considering monitoring DomContentLoad, too! It&#x27;s a good piece on browser events and how to get your hands on improving web performance.
+And while reading it, I discovered another browser event that I probably have known about but left my memory — DomInteractive.
+[DomInteractive] is the moment the browser has finished parsing all synchronous DOM work: your HTML and all blocking scripts it encountered on the way. Basically, the browser is now at the 
+ tag. The browser is ready to run your deferred JavaScript.
+The DomInteractive event can come in handy when evaluating your JS payloads&#x27; execution time. But I won&#x27;t repeat Harry&#x27;s insights here, so head over to his blog. The post is a nice deep dive!
+
+
+          
+          
+            Reply to Stefan</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -2995,8 +3118,8 @@ The post First-Year Graduate Student Finds Paradoxical Set first appeared on Qua
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/5449989323">
-        <time id="build-timestamp" datetime="2023-07-04T01:49:46.193Z">2023-07-04T01:49:46.193Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/5459681327">
+        <time id="build-timestamp" datetime="2023-07-05T01:47:43.928Z">2023-07-05T01:47:43.928Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
