@@ -12,6 +12,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/set-up-firebase-cloud-messaging-in-flutter/",
+          "author": "Arunachalam B",
+          "description": "In today's highly competitive mobile app landscape, effectively engaging your app's users and delivering timely information is key.  Firebase Cloud Messaging (FCM) is a powerful push notification service provided by Firebase. It offers a seamless way to connect with your app's users and keep them engaged.  In this",
+          "link": "https://www.freecodecamp.org/news/set-up-firebase-cloud-messaging-in-flutter/",
+          "publishedOn": "2023-07-05T16:38:21.000Z",
+          "wordCount": 1935,
+          "title": "How to Set Up Firebase Cloud Messaging in Flutter Using Firebase",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/A-Complete-Guide-to-FCM-Integration-in-Flutter-Using-Firebase.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/helpful-linux-commands-you-should-know/",
           "author": "Rahul",
           "description": "Ever feel like you’ve mastered the basics of Linux and are ready to level up your skills? Well, good news – there are many powerful commands that you might not know about. In this article, I'll introduce you to some lesser-known Linux commands that will help you become a more",
@@ -600,76 +610,6 @@
           "wordCount": 1182,
           "title": "How to Implement Computer Vision with Deep Learning and TensorFlow",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/computervision.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-shuffle-an-array-of-items-using-javascript-or-typescript/",
-          "author": "Grant Weatherston",
-          "description": "In this article we'll be exploring how we can shuffle an array of items in multiple different ways using TypeScript, or JavaScript should you prefer. Pre-Requisites:  * An understanding of TypeScript or JavaScript  * A basic understanding of For Loops and Arrays The following examples are written in",
-          "link": "https://www.freecodecamp.org/news/how-to-shuffle-an-array-of-items-using-javascript-or-typescript/",
-          "publishedOn": "2023-06-05T23:32:32.000Z",
-          "wordCount": 2177,
-          "title": "How to Shuffle an Array of Items Using JavaScript or TypeScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/shuffle.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/introduction-to-laravel-apis/",
-          "author": "Abdulwahab Ashimi",
-          "description": "Laravel is the most popular PHP framework, with its elegant syntax, extensive feature set, and developer-friendly environment. And it's gained significant traction in recent years. The Laravel ecosystem is constantly being updated with new features. Laravel 10 [https://laravel.com/docs/10.x/releases] is exciting! Among its many strengths is the robust support for APIs",
-          "link": "https://www.freecodecamp.org/news/introduction-to-laravel-apis/",
-          "publishedOn": "2023-06-05T23:27:24.000Z",
-          "wordCount": 1851,
-          "title": "Introduction to Laravel APIs – Security, Features, and More",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pexels-klas-tauberman-128362.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-the-json-module-in-python/",
-          "author": "Ashutosh Krishna",
-          "description": "JSON (JavaScript Object Notation) is a popular, lightweight data interchange standard. It represents data structures made up of key-value pairs that's quite straightforward and human-readable.  JSON has become the industry standard for data interchange between online services. And it's widely utilized in modern programming languages, including Python. JSON data",
-          "link": "https://www.freecodecamp.org/news/how-to-use-the-json-module-in-python/",
-          "publishedOn": "2023-06-05T22:51:24.000Z",
-          "wordCount": 2769,
-          "title": "How to Use the JSON Module in Python – A Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/json-module.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-style-a-react-app/",
-          "author": "Germán Cocca",
-          "description": "Styling plays a vital role in creating visually appealing and user-friendly web applications. When it comes to React applications, there are numerous ways to style components and UI elements.  In this article, we will explore several popular options, including pure CSS, CSS modules, CSS preprocessors, Tailwind CSS, CSS-in-JS libraries",
-          "link": "https://www.freecodecamp.org/news/how-to-style-a-react-app/",
-          "publishedOn": "2023-06-05T21:52:46.000Z",
-          "wordCount": 3323,
-          "title": "How to Style a React Application – Different Options Compared",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pawel-czerwinski-3k9PGKWt7ik-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/design-patterns-for-distributed-systems/",
-          "author": "Tamerlan Gudabayev",
-          "description": "When I first started my career as a backend engineer, I always worked with monolithic systems. The work was good but I always had this thought in the back of my mind: > \"Man, I want to work on big systems such as ones for Google, Netflix, etc...\" I was",
-          "link": "https://www.freecodecamp.org/news/design-patterns-for-distributed-systems/",
-          "publishedOn": "2023-06-05T20:49:03.000Z",
-          "wordCount": 10998,
-          "title": "Design Patterns for Distributed Systems – Key Concepts Every Developer Should Know",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/sigmund-HsTnjCVQ798-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-an-image-carousel-component/",
-          "author": "Keyur Paralkar",
-          "description": "In recent years, OTT (over-the-top) video streaming platforms have become more innovative and convenient to use. In their user interfaces, movies and series titles are arranged so that the titles are clearly visible. In this tutorial, I’ll guide you through the process of creating an image carousel component that looks",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-image-carousel-component/",
-          "publishedOn": "2023-06-05T17:28:08.000Z",
-          "wordCount": 3522,
-          "title": "How to Build an Image Carousel Component with TypeScript and Styled-Components",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/sunder-muthukumaran-I4eKHN1KaZ0-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-exit-how-to-use-an-exit-function-in-python-to-stop-a-program/",
-          "author": "Shittu Olumide",
-          "description": "The exit() function in Python is used to exit or terminate the current running script or program. You can use it to stop the execution of the program at any point. When the exit() function is called, the program will immediately stop running and exit. The syntax of the exit()",
-          "link": "https://www.freecodecamp.org/news/python-exit-how-to-use-an-exit-function-in-python-to-stop-a-program/",
-          "publishedOn": "2023-06-05T13:54:40.000Z",
-          "wordCount": 1471,
-          "title": "Python Exit – How to Use an Exit Function in Python to Stop a Program",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Shittu-Olumide-Python-Exit---How-to-Use-an-Exit-Function-in-Python-to-Stop-a-Program.png"
         }
       ]
     },
@@ -678,6 +618,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=127395",
+          "author": "Saugat Bolakhe",
+          "description": "New research reveals how marine microbes use an extra membrane that once had digestive functions to boost their yield from photosynthesis.            \nThe post Microbes Gained Photosynthesis Superpowers From a ‘Proton Pump’ first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/microbes-gained-photosynthesis-superpowers-from-a-proton-pump-20230705/",
+          "publishedOn": "2023-07-05T13:47:50.000Z",
+          "wordCount": 5247,
+          "title": "Microbes Gained Photosynthesis Superpowers From a ‘Proton Pump’",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/06/PhotosynthesisEnzyme-SteveGschmeissnerScienceSource_ModifiedByQuantaMagazine-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=121765",
           "author": "Thomas Lewton",
@@ -847,16 +797,6 @@
           "wordCount": 12215,
           "title": "In New Paradox, Black Holes Appear to Evade Heat Death",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/06/LifeAfterDeath-byOlenaShmahalo-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=126556",
-          "author": "Alex Stone",
-          "description": "No two pairs have the same sum; add three numbers together, and you can get any whole number.            \nThe post First-Year Graduate Student Finds Paradoxical Set first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/first-year-graduate-finds-paradoxical-number-set-20230605/",
-          "publishedOn": "2023-06-05T14:16:20.000Z",
-          "wordCount": 5541,
-          "title": "First-Year Graduate Student Finds Paradoxical Set",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/06/SidonBasis-byMaggieChiang-Default.webp"
         }
       ]
     },
@@ -966,16 +906,6 @@
           "publishedOn": "2023-06-13T00:00:00.000Z",
           "wordCount": 1580,
           "title": "Go toolchain changes in Go 1.21+",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/463",
-          "author": null,
-          "description": "#​463 — June 6, 2023\n\n\nUnsub  |  Web Version\n\n\n\nGo Weekly\n\n\n\n\n  \n\n\n\n\n\n  \n  \nGoxygen 0.4: Quickly Generate a Go Backend for a JavaScript Project — A tool that sets up a new Go-based project with Angular, React, or Vue on the front-end, Go in the back, and Docker and Docker Compose files to spin it all up. It’s been around a few years, but has just added Vue 3.3 support and a Vite-based Vue template.\nSasha Shpota \n\n\n  \n  \nA Quick Crash Course on Go Generics — The generics fever around v1.18's release has quietened down a lot, and they're now a fundamental part of Go. If you’ve been waiting for things to calm down before jumping in, this brief, code-led post showing off the basic ideas provides an entry point.\nJon Calhoun \n\n\nJon has also written about what tildes (~) mean in generics, as well…",
-          "link": "https://golangweekly.com/issues/463",
-          "publishedOn": "2023-06-06T00:00:00.000Z",
-          "wordCount": 944,
-          "title": "Go's on IBM mainframes now",
           "imageUrl": null
         }
       ]
