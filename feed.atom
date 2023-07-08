@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-07T01:48:55.375Z</updated>
+    <updated>2023-07-08T01:48:09.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Check Python Version – How to Check Py in Mac, Windows, and Linux]]></title>
+        <id>https://www.freecodecamp.org/news/check-python-version-how-to-check-py-in-mac-windows-and-linux/</id>
+        <link href="https://www.freecodecamp.org/news/check-python-version-how-to-check-py-in-mac-windows-and-linux/"/>
+        <updated>2023-07-07T22:31:51.000Z</updated>
+        <summary type="html"><![CDATA[Python is a versatile and widely used programming language known for its simplicity and readability.  With its ever-evolving nature, different versions of Python are often released, each offering new features, enhancements, and bug fixes.  As a Python developer, it is crucial to be aware of the Python version]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Tiered List Maker with Python]]></title>
+        <id>https://www.freecodecamp.org/news/python-tier-list-maker/</id>
+        <link href="https://www.freecodecamp.org/news/python-tier-list-maker/"/>
+        <updated>2023-07-07T20:48:16.000Z</updated>
+        <summary type="html"><![CDATA[Hello Pythonistas! Do you want to level up your Python and API skills while also building something really useful? Well, then you're in the right place. This hands-on tutorial showcases how to leverage Python's capabilities to code an interactive tiered list builder right within your terminal.  We'll use some]]></summary>
+        <author>
+            <name>Atharva Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python List to String – How to Convert Lists in Python]]></title>
+        <id>https://www.freecodecamp.org/news/python-list-to-string-how-to-convert-lists-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/python-list-to-string-how-to-convert-lists-in-python/"/>
+        <updated>2023-07-07T18:10:59.000Z</updated>
+        <summary type="html"><![CDATA[Whether you need to save a list as a text file, display it in a user-friendly format, or pass it as a parameter to a function, knowing how to convert a list to a string is essential. In this tutorial, we will explore various methods to convert Python lists to]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Avoid the N+1 Query Problem in GraphQL and REST APIs [with Benchmarks]]]></title>
+        <id>https://www.freecodecamp.org/news/n-plus-one-query-problem/</id>
+        <link href="https://www.freecodecamp.org/news/n-plus-one-query-problem/"/>
+        <updated>2023-07-07T17:59:59.000Z</updated>
+        <summary type="html"><![CDATA[The N+1 query problem is a performance issue you might face while building APIs, regardless of whether they're GraphQL or REST APIs. In fact, this problem occurs when your application needs to return a set of data that includes related nested data – for example, a post that includes comments.]]></summary>
+        <author>
+            <name>Mohamed Mayallo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Come Up With Good Coding Project Ideas]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-come-up-with-coding-project-ideas/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-come-up-with-coding-project-ideas/"/>
+        <updated>2023-07-07T17:57:52.000Z</updated>
+        <summary type="html"><![CDATA[If you're a developer looking to improve your coding skills, building projects is a great way to do that. But coming up with project ideas that actually make you eager to start can be tough. That's why I wrote this article: to help you learn how to come up with]]></summary>
+        <author>
+            <name>Erin Borders</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lawlessness of Large Numbers]]></title>
+        <id>https://www.quantamagazine.org/?p=127628</id>
+        <link href="https://www.quantamagazine.org/mathematical-tricks-for-taming-the-middle-distance-20230707/"/>
+        <updated>2023-07-07T13:20:38.000Z</updated>
+        <summary type="html"><![CDATA[Mathematicians can often figure out what happens as quantities grow infinitely large. What about when they are just a little big?            
+The post The Lawlessness of Large Numbers first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Leila Sloman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python Import from File – Importing Local Files in Python]]></title>
         <id>https://www.freecodecamp.org/news/python-import-from-file-importing-local-files-in-python/</id>
@@ -1084,37 +1145,6 @@ The post Sparse Networks Come to the Aid of Big Physics first appeared on Quanta
         <summary type="html"><![CDATA[Frontend frameworks are indispensable in web development. They provide structured approaches and pre-defined components to streamline the coding process.  These tools can also help boost productivity by offering reusable components and abstracting complex tasks like DOM manipulation and state management. This allows developers to focus on application logic rather]]></summary>
         <author>
             <name>Adekola Olawale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complete Rust Programming Course]]></title>
-        <id>https://www.freecodecamp.org/news/rust-programming-course-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/rust-programming-course-for-beginners/"/>
-        <updated>2023-06-08T12:43:38.000Z</updated>
-        <summary type="html"><![CDATA[Rust is a safe, concurrent, and practical language that guarantees memory safety and prevents runtime errors, making it increasingly popular among developers and big tech firms like Microsoft and Google. With its efficiency, growing industry demand, and robust features, learning Rust opens up exciting opportunities in systems programming and beyond.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Tailwind CSS with NextJS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-set-up-tailwind-css-with-next-js/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-tailwind-css-with-next-js/"/>
-        <updated>2023-06-07T21:37:50.000Z</updated>
-        <summary type="html"><![CDATA[Tailwind CSS is a popular utility-first CSS framework that offers a unique approach to building modern and responsive user interfaces. Unlike traditional CSS frameworks that provide pre-designed components, Tailwind CSS focuses on providing a comprehensive set of utility classes that you can directly apply to your HTML elements. When combined]]></summary>
-        <author>
-            <name>Kelvin Moses</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Explorer of Abyssal Depths Looks to Oceans on Other Worlds]]></title>
-        <id>https://www.quantamagazine.org/?p=126643</id>
-        <link href="https://www.quantamagazine.org/ocean-vent-explorer-guides-nasas-look-at-icy-alien-worlds-20230607/"/>
-        <updated>2023-06-07T14:04:43.000Z</updated>
-        <summary type="html"><![CDATA[The marine geochemist Chris German brings decades of experience studying seafloor hydrothermal vents to NASA’s preparations for visits to other ocean worlds in our solar system.            
-The post An Explorer of Abyssal Depths Looks to Oceans on Other Worlds first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Steve Nadis</name>
         </author>
     </entry>
 </feed>
