@@ -12,6 +12,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/python-env-vars-how-to-get-an-environment-variable-in-python/",
+          "author": "Shittu Olumide",
+          "description": "Environment variables play a crucial role in Python programming. They provide a way to store and access configuration values, system-specific information, and sensitive data.  In this article, we will explore various methods to retrieve environment variables in Python and discuss best practices for handling and managing them effectively. What",
+          "link": "https://www.freecodecamp.org/news/python-env-vars-how-to-get-an-environment-variable-in-python/",
+          "publishedOn": "2023-07-10T21:39:01.000Z",
+          "wordCount": 1548,
+          "title": "Python Env Vars – How to Get an Environment Variable in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Shittu-Olumide-Python-Env-Vars---How-to-get-an-Environment-Variable-in-Python.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-input-for-angular-route-parameters/",
+          "author": "Deborah Kurata",
+          "description": "One of the new features in Angular v16 is automatic route parameter mapping using the @Input() decorator. What does that mean? Well, you may have code that reads route parameters using the Activated Route service, like this:   private route = inject(ActivatedRoute);   ngOnInit(): void {",
+          "link": "https://www.freecodecamp.org/news/use-input-for-angular-route-parameters/",
+          "publishedOn": "2023-07-10T21:18:44.000Z",
+          "wordCount": 2156,
+          "title": "How to Use @Input() to Read Angular Route Parameters",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/thumbnail.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-the-javascript-fullscreen-api/",
+          "author": "Gideon Akinsanmi",
+          "description": "The Fullscreen API is a browser web API that allows you to enable fullscreen mode for HTML elements. It saves you the stress of using CSS and JavaScript to implement fullscreen functionality. The use cases of fullscreen API are numerous because of the increased complexity of today's websites. In this",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-javascript-fullscreen-api/",
+          "publishedOn": "2023-07-10T21:02:06.000Z",
+          "wordCount": 2029,
+          "title": "How to Use the JavaScript Fullscreen API",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/js_fullscreen_png.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/typescript-satisfies-operator/",
+          "author": "Satyam Tripathi",
+          "description": "In TypeScript, the satisfies operator is a very useful tool. It was introduced in TypeScript v4.9 [https://github.com/microsoft/TypeScript/issues/50457] as an effective way to ensure type safety. The satisfies operator tells you whether a given type satisfies a particular condition – and it provides this information before running your code. Also, when",
+          "link": "https://www.freecodecamp.org/news/typescript-satisfies-operator/",
+          "publishedOn": "2023-07-10T17:12:59.000Z",
+          "wordCount": 2526,
+          "title": "How to Use the TypeScript satisfies Operator",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Copy-of-Getting-Started-With-DevOps.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/check-python-version-how-to-check-py-in-mac-windows-and-linux/",
           "author": "Shittu Olumide",
           "description": "Python is a versatile and widely used programming language known for its simplicity and readability.  With its ever-evolving nature, different versions of Python are often released, each offering new features, enhancements, and bug fixes.  As a Python developer, it is crucial to be aware of the Python version",
@@ -639,6 +679,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=127672",
+          "author": "Thomas Lewton",
+          "description": "For decades, physicists have struggled to develop a quantum theory of gravity. But what if gravity — and space-time — are fundamentally classical?            \nThe post The Physicist Who’s Challenging the Quantum Orthodoxy first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-physicist-who-bets-that-gravity-cant-be-quantized-20230710/",
+          "publishedOn": "2023-07-10T14:47:37.000Z",
+          "wordCount": 7178,
+          "title": "The Physicist Who’s Challenging the Quantum Orthodoxy",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/07/JonathanOppenheim-byPhilippAmmon-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=127628",
           "author": "Leila Sloman",
           "description": "Mathematicians can often figure out what happens as quantities grow infinitely large. What about when they are just a little big?            \nThe post The Lawlessness of Large Numbers first appeared on Quanta Magazine",
@@ -850,26 +900,6 @@
           "wordCount": 1524,
           "title": "How to use EventTarget as a web-native event emitter (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20use%20EventTarget%20as%20a%20web-native%20event%20emitter/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/a-selection-web-compatibility-issue/",
-          "author": null,
-          "description": "There's a recent Twitter bug that's a real issue for me. Yeah, I know; there are countless bugs since Elmo fired half of the Twitter stuff. Still, this particular one is based on something other than the struggling engineering organization but a web compatibility issue.\nA ::selection compatibility issue\n\nHere is the bug in question in all its glory.\nTwitter Tweet box not showing selection styles in Chrome.\n      \n    \nSuppose you're writing a Tweet or DM in the Twitter UI using Chrome; the text selection is invisible. That's a pretty bad UX and an accessibility issue.\nMoritz Gießmann pointed out that this bug can be fixed by turning off Chrome's experimental web features. And indeed, it makes all browsers behave the same. I'm beyond confused and will update the post later. 😅\nSo what's hap…",
-          "link": "https://www.stefanjudis.com/blog/a-selection-web-compatibility-issue/",
-          "publishedOn": "2023-06-10T22:00:00.000Z",
-          "wordCount": 2273,
-          "title": "A ::selection web compatibility issue (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20%3A%3Aselection%20web%20compatibility%20issue/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-104/",
-          "author": null,
-          "description": "Guten Tag! 👋\n\nHave you checked the animation-timeline CSS property already? Or do you wonder how React server component really work? Or are you cursed with HTML emails and want to target specific mail clients with CSS?\nAll the answers and much more are included in this week's Web Weekly. 🫣\n\n      \nBefore we kick things off: if you live around Toronto, Canada, and want to join me at the Reactor DX conf on July 12/13, you can get a 50% discount with the code HOTSUMMER. 🤫\nI'm super duper excited about being part of this stellar line-up!\nSomething that made me smile this week\n\nThere's nothing to see here. 😆 It's just a penguin enjoying being tickled.\nTickle your fellow penguin\nQuick links\n\nI blogged that DevTools should show specificity values two years ago; it's shipping in Chrome now.\nTh…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-104/",
-          "publishedOn": "2023-06-10T22:00:00.000Z",
-          "wordCount": 1913,
-          "title": "Web Weekly #104 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
     },
