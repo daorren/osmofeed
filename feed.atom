@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-11T01:41:15.737Z</updated>
+    <updated>2023-07-12T01:49:36.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TypeScript Handbook for React Developers – How to Build a Type-Safe Todo App]]></title>
+        <id>https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers/</id>
+        <link href="https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers/"/>
+        <updated>2023-07-11T16:05:08.000Z</updated>
+        <summary type="html"><![CDATA[In today's JavaScript landscape, TypeScript is gaining more and more popularity. And React developers are starting to use it more and more. If you're a React developer looking to explore TypeScript or enhance your skills with it, this handbook is just for you. I'll guide you through using TypeScript in]]></summary>
+        <author>
+            <name>Yazdun Fadali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Proof Threads the Needle on a Sticky Geometry Problem]]></title>
+        <id>https://www.quantamagazine.org/?p=127713</id>
+        <link href="https://www.quantamagazine.org/new-proof-threads-the-needle-on-a-sticky-geometry-problem-20230711/"/>
+        <updated>2023-07-11T14:44:31.000Z</updated>
+        <summary type="html"><![CDATA[A new proof marks major progress toward solving the Kakeya conjecture, a deceptively simple question that underpins a tower of conjectures.            
+The post New Proof Threads the Needle on a Sticky Geometry Problem first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Jordana Cepelewicz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fine-Tune spaCy Models for NLP Use Cases]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-fine-tune-spacy-for-nlp-use-cases/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-fine-tune-spacy-for-nlp-use-cases/"/>
+        <updated>2023-07-11T14:11:02.000Z</updated>
+        <summary type="html"><![CDATA[spaCy is an open-source software library for advanced natural language processing. It's written in the programming languages Python and Cython, and is published under the MIT license.  spaCy excels at large-scale information extraction tasks. It's written from the ground up in carefully memory-managed Cython. spaCy is designed to help]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go, meet Python. Python, meet Go.]]></title>
+        <id>https://golangweekly.com/issues/468</id>
+        <link href="https://golangweekly.com/issues/468"/>
+        <updated>2023-07-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#​468 — July 11, 2023
+
+
+Unsub  |  Web Version
+
+
+
+Go Weekly
+
+
+
+
+  
+
+
+
+
+
+  
+  
+Finding Bugs with Fuzzing — The final post in a series about fuzz testing in Go (you can start here) wraps things up with a practical example of finding and fixing a subtle bug in Go code using the process.
+John Arundel 
+
+
+  
+  
+Some First Impressions of Go 1.21 — The impending 1.21 release feels more significant than other recent releases due to the items mentioned in this post, including new slice/map API functions (including many that take advantage of generics), structured logging, and the (experimental, opt-in only for now) tweak to loop variable capture.
+Jason Fulghum (DoltHub) 
+
+
+  
+  
+Certificate-Based MFA, RBAC, and SSO with Teleport — Implement industry best practices for Kubernetes access with minimal c…]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python Env Vars – How to Get an Environment Variable in Python]]></title>
         <id>https://www.freecodecamp.org/news/python-env-vars-how-to-get-an-environment-variable-in-python/</id>

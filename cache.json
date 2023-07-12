@@ -12,6 +12,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers/",
+          "author": "Yazdun Fadali",
+          "description": "In today's JavaScript landscape, TypeScript is gaining more and more popularity. And React developers are starting to use it more and more. If you're a React developer looking to explore TypeScript or enhance your skills with it, this handbook is just for you. I'll guide you through using TypeScript in",
+          "link": "https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers/",
+          "publishedOn": "2023-07-11T16:05:08.000Z",
+          "wordCount": 8744,
+          "title": "TypeScript Handbook for React Developers – How to Build a Type-Safe Todo App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/TypeScript-Handbook-for-React-Developers-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-fine-tune-spacy-for-nlp-use-cases/",
+          "author": "Arunachalam B",
+          "description": "spaCy is an open-source software library for advanced natural language processing. It's written in the programming languages Python and Cython, and is published under the MIT license.  spaCy excels at large-scale information extraction tasks. It's written from the ground up in carefully memory-managed Cython. spaCy is designed to help",
+          "link": "https://www.freecodecamp.org/news/how-to-fine-tune-spacy-for-nlp-use-cases/",
+          "publishedOn": "2023-07-11T14:11:02.000Z",
+          "wordCount": 2015,
+          "title": "How to Fine-Tune spaCy Models for NLP Use Cases",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Fine-tune-Spacy---Banner.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/python-env-vars-how-to-get-an-environment-variable-in-python/",
           "author": "Shittu Olumide",
           "description": "Environment variables play a crucial role in Python programming. They provide a way to store and access configuration values, system-specific information, and sensitive data.  In this article, we will explore various methods to retrieve environment variables in Python and discuss best practices for handling and managing them effectively. What",
@@ -679,6 +699,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=127713",
+          "author": "Jordana Cepelewicz",
+          "description": "A new proof marks major progress toward solving the Kakeya conjecture, a deceptively simple question that underpins a tower of conjectures.            \nThe post New Proof Threads the Needle on a Sticky Geometry Problem first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/new-proof-threads-the-needle-on-a-sticky-geometry-problem-20230711/",
+          "publishedOn": "2023-07-11T14:44:31.000Z",
+          "wordCount": 8080,
+          "title": "New Proof Threads the Needle on a Sticky Geometry Problem",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/07/StickyNeedle-bySamuelVelasco-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=127672",
           "author": "Thomas Lewton",
           "description": "For decades, physicists have struggled to develop a quantum theory of gravity. But what if gravity — and space-time — are fundamentally classical?            \nThe post The Physicist Who’s Challenging the Quantum Orthodoxy first appeared on Quanta Magazine",
@@ -908,6 +938,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/468",
+          "author": null,
+          "description": "#​468 — July 11, 2023\n\n\nUnsub  |  Web Version\n\n\n\nGo Weekly\n\n\n\n\n  \n\n\n\n\n\n  \n  \nFinding Bugs with Fuzzing — The final post in a series about fuzz testing in Go (you can start here) wraps things up with a practical example of finding and fixing a subtle bug in Go code using the process.\nJohn Arundel \n\n\n  \n  \nSome First Impressions of Go 1.21 — The impending 1.21 release feels more significant than other recent releases due to the items mentioned in this post, including new slice/map API functions (including many that take advantage of generics), structured logging, and the (experimental, opt-in only for now) tweak to loop variable capture.\nJason Fulghum (DoltHub) \n\n\n  \n  \nCertificate-Based MFA, RBAC, and SSO with Teleport — Implement industry best practices for Kubernetes access with minimal c…",
+          "link": "https://golangweekly.com/issues/468",
+          "publishedOn": "2023-07-11T00:00:00.000Z",
+          "wordCount": 882,
+          "title": "Go, meet Python. Python, meet Go.",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/467",
           "author": null,
