@@ -12,6 +12,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-podcast-season-2-developer-interviews/",
+          "author": "Quincy Larson",
+          "description": "We're bringing you a new season of insights from developers, entrepreneurs, and ambitious people getting into tech. I'm Quincy Larson, the teacher who founded freeCodeCamp.org. And I've been running around Dallas, San Francisco, and New York City interviewing fascinating people. And I'm excited to share these interviews with you. It's",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-podcast-season-2-developer-interviews/",
+          "publishedOn": "2023-07-12T23:21:41.000Z",
+          "wordCount": 1234,
+          "title": "The freeCodeCamp Podcast Season #2: Quincy's Back to Interview Devs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/venti-views-R64qgQ6rr_o-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-arrays-work-in-python/",
+          "author": "David Fagbuyiro",
+          "description": "In this tutorial, you'll learn what an array is in Python. You'll also learn some possible ways to add elements to an existing array.  In Python, there is no need to use a specific data type for arrays. You can simply use a list with all the attributes of",
+          "link": "https://www.freecodecamp.org/news/how-arrays-work-in-python/",
+          "publishedOn": "2023-07-12T22:19:23.000Z",
+          "wordCount": 2119,
+          "title": "How Arrays Work in Python – Array Methods Explained with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/pexels-andreas-fickl-4405941.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/automating-docker-image-builds-and-publishing-with-pack-cli/",
+          "author": "Destiny Erhabor",
+          "description": "Building and publishing Docker images is a crucial aspect of modern software development. The traditional approach often involves writing complex Dockerfiles and managing dependencies. But in this tutorial post, I'll show you a simpler way that uses the Pack CLI. PackCLI leverages Cloud Native Buildpacks to transform your application source",
+          "link": "https://www.freecodecamp.org/news/automating-docker-image-builds-and-publishing-with-pack-cli/",
+          "publishedOn": "2023-07-12T21:55:00.000Z",
+          "wordCount": 1667,
+          "title": "How to Automate Docker Image Building and Publishing with Pack CLI and GitHub Actions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/pexels-jiyoung-kim-4513940.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/",
+          "author": "Emmanuel Ohans",
+          "description": "Astro is a new UI framework that's designed for speed. And if you want to learn how to use it, you've come to the right place.  Table of Contents   1.  Introduction   2.  Chapter 1: Build your first Astro Application   3.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/",
+          "publishedOn": "2023-07-12T20:58:29.000Z",
+          "wordCount": 54606,
+          "title": "How to Use the Astro UI Framework [Full Book]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/large-heading.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/",
+          "author": "Hikmah Olawore",
+          "description": "Natural Language Processing (NLP) is a branch of Machine learning (ML) that is focused on making computers understand the human language. It is used to create language models, language translation apps like Google translate, and virtual assistants, among other things. This article takes you through one of the most basic",
+          "link": "https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/",
+          "publishedOn": "2023-07-12T14:31:24.000Z",
+          "wordCount": 2054,
+          "title": "NLP Tutorial – Text Pre-Processing Techniques for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/NLP-6.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/binary-search-algorithm-and-time-complexity-explained/",
+          "author": "Bala Priya C",
+          "description": "When working with arrays, you’ll often have to search through them to check if they contain a target element. You can always run a sequential search—scanning the array from the beginning to the end—on the array. But if the array is sorted, running the binary search algorithm is much more",
+          "link": "https://www.freecodecamp.org/news/binary-search-algorithm-and-time-complexity-explained/",
+          "publishedOn": "2023-07-12T14:26:58.000Z",
+          "wordCount": 1564,
+          "title": "Binary Search – Algorithm and Time Complexity Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/cover-img-search.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers/",
           "author": "Yazdun Fadali",
           "description": "In today's JavaScript landscape, TypeScript is gaining more and more popularity. And React developers are starting to use it more and more. If you're a React developer looking to explore TypeScript or enhance your skills with it, this handbook is just for you. I'll guide you through using TypeScript in",
@@ -640,56 +700,6 @@
           "wordCount": 1520,
           "title": "Microsoft Power Platform Fundamentals Certification (PL-900) – Pass the Exam With This Free 4-Hour Course",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/powerfund.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/ai-in-google-sheets/",
-          "author": "Eamonn Cottrell",
-          "description": "It seems to be the year of AI. And my favorite tool, Google Sheets, is not to be left out of the fun. 🎉 Coefficient [https://coefficient.io/gpt-google-sheets] produced a Google sheets extension with the ability to use OpenAI's GPT models from within a spreadsheet. It’s called GPT Copilot and it’s available",
-          "link": "https://www.freecodecamp.org/news/ai-in-google-sheets/",
-          "publishedOn": "2023-06-12T22:10:01.000Z",
-          "wordCount": 1919,
-          "title": "AI in Google Sheets – How to Use GPT Copilot",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/ai-in-google-sheets-thumb.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-simplify-database-operations-using-mysql-stored-procedures/",
-          "author": "Arunachalam B",
-          "description": "In the realm of database management, MySQL has emerged as one of the most popular and reliable choices.  MySQL not only offers robust data storage capabilities but also provides a powerful feature called \"procedures\" that allows developers to streamline complex database operations.  In this tutorial, we will delve",
-          "link": "https://www.freecodecamp.org/news/how-to-simplify-database-operations-using-mysql-stored-procedures/",
-          "publishedOn": "2023-06-12T22:05:52.000Z",
-          "wordCount": 2197,
-          "title": "How to Use MySQL Stored Procedures to Simplify Database Operations",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/How-to-use-Mysql-procedure-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/upgrade-your-react-skills/",
-          "author": "Moyosore J Olaojo",
-          "description": "Since its announcement in 2013, React.js continues to be one of the most widely used JavaScript tools, thanks to its unmatched versatility and efficiency.  Backed by its component-based architecture and virtual DOM implementation, React.js excels in building modern and dynamic web applications. It enables developers to create reusable UI",
-          "link": "https://www.freecodecamp.org/news/upgrade-your-react-skills/",
-          "publishedOn": "2023-06-12T21:12:01.000Z",
-          "wordCount": 2683,
-          "title": "How to Upgrade Your React Skills with Three Helpful Tools",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/image_6483441.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/simplify-your-file-upload-process-in-express-js/",
-          "author": "Kelvin Moses",
-          "description": "File uploading is a common requirement in web development projects. But handling file uploads in Node.js can be complex and time-consuming. That's where Multer comes in.  Multer is a powerful middleware for Node.js that simplifies the file upload process by handling multipart/form-data requests. In this tutorial, you will learn",
-          "link": "https://www.freecodecamp.org/news/simplify-your-file-upload-process-in-express-js/",
-          "publishedOn": "2023-06-12T21:05:14.000Z",
-          "wordCount": 1940,
-          "title": "How to Streamline Your File Upload Process in Express.js with Multer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/file-stream.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/improve-tech-writing-skills-by-contributing-to-open-source/",
-          "author": "CHRISTINE T. BELZIE",
-          "description": "Have you been writing your tech blog posts on Hashnode [https://hashnode.com/about] or Dev.to [http://dev.to/], but you're itching to try something new? If so, there is something that can quench your thirst: contributing to open source.  I know, I know, you’ve probably heard “Contribute to open source!” countless times in",
-          "link": "https://www.freecodecamp.org/news/improve-tech-writing-skills-by-contributing-to-open-source/",
-          "publishedOn": "2023-06-12T18:15:16.000Z",
-          "wordCount": 2157,
-          "title": "How to Improve Your Technical Writing Skills by Contributing to Open Source Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Cover-image--2-.png"
         }
       ]
     },
@@ -698,6 +708,26 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=127830",
+          "author": "Steven Strogatz",
+          "description": "Abnormal waves of electrical activity can cause a heart’s muscle cells to beat out of sync. In this episode, Flavio Fenton, an expert in cardiac dynamics, talks with Steve Strogatz about ways to treat heart arrhythmias without resorting to painful defibrillators.            \nThe post Can Math and Physics Save an Arrhythmic Heart? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/can-math-and-physics-save-an-arrhythmic-heart-20230712/",
+          "publishedOn": "2023-07-12T18:32:07.000Z",
+          "wordCount": 21642,
+          "title": "Can Math and Physics Save an Arrhythmic Heart?",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/07/JoY-S2E11-Arrythmia-byPeterGreenwood-Social-LOGO-v2.webp"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=127769",
+          "author": "Zack Savitsky",
+          "description": "Extreme microorganisms carpeting the Atacama Desert in Chile illuminate how life might have first taken hold on Earth’s surface.            \nThe post In a Fierce Desert, Microbe ‘Crusts’ Show How Life Tamed the Land first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/in-a-fierce-desert-microbe-crusts-show-how-life-tamed-the-land-20230712/",
+          "publishedOn": "2023-07-12T14:55:39.000Z",
+          "wordCount": 10183,
+          "title": "In a Fierce Desert, Microbe ‘Crusts’ Show How Life Tamed the Land",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/07/Biogrits-byZackSavitsky-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=127713",
           "author": "Jordana Cepelewicz",
@@ -877,16 +907,6 @@
           "wordCount": 10985,
           "title": "‘Embryo Models’ Challenge Legal, Ethical and Biological Concepts",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/06/SimulatedEmbryos-byUniversityofCambridge-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=126732",
-          "author": "Katie McCormick",
-          "description": "By measuring inflated helium nuclei, physicists have challenged our best understanding of the force that binds protons and neutrons.             \nThe post A New Experiment Casts Doubt on the Leading Theory of the Nucleus first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/",
-          "publishedOn": "2023-06-12T14:00:10.000Z",
-          "wordCount": 5666,
-          "title": "A New Experiment Casts Doubt on the Leading Theory of the Nucleus",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/06/HeliumNucleus-byKristinaArmitage-Default.webp"
         }
       ]
     },
@@ -976,16 +996,6 @@
           "publishedOn": "2023-06-20T00:00:00.000Z",
           "wordCount": 888,
           "title": "Random numbers in Go, version 2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/464",
-          "author": null,
-          "description": "#​464 — June 13, 2023\n\n\nUnsub  |  Web Version\n\n\n\n✍️ If you're intrigued about domain-driven design (DDD), we've got an interview with Matt Boyle, the author of Domain-Driven Design with Go – it's at the end of today's issue.\n__\nYour editor, Peter Cooper\n\n\n    \n    \n\nGo Weekly\n\n\n\n\n  \n\n\n\n\n\n  \n  \nAn Update on Go Toolchains — Russ Cox noted that “many people believe the go line in the go.mod file specifies which Go toolchain to use.” Not so.. but from Go 1.21 the go command will use its own bundled toolchain if that toolchain is at least as new as the go or toolchain lines in the module/workspace. If the toolchain is outdated, the newer version will be obtained. The official docs have been significantly extended to explain the situation.\nOfficial Go Site \n\n\n  \n  \n🎉  Ebitengine's Game Jam to C…",
-          "link": "https://golangweekly.com/issues/464",
-          "publishedOn": "2023-06-13T00:00:00.000Z",
-          "wordCount": 1580,
-          "title": "Go toolchain changes in Go 1.21+",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-12T01:49:36.840Z</updated>
+    <updated>2023-07-13T01:52:06.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The freeCodeCamp Podcast Season #2: Quincy's Back to Interview Devs]]></title>
+        <id>https://www.freecodecamp.org/news/freecodecamp-podcast-season-2-developer-interviews/</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-podcast-season-2-developer-interviews/"/>
+        <updated>2023-07-12T23:21:41.000Z</updated>
+        <summary type="html"><![CDATA[We're bringing you a new season of insights from developers, entrepreneurs, and ambitious people getting into tech. I'm Quincy Larson, the teacher who founded freeCodeCamp.org. And I've been running around Dallas, San Francisco, and New York City interviewing fascinating people. And I'm excited to share these interviews with you. It's]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Arrays Work in Python – Array Methods Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-arrays-work-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-arrays-work-in-python/"/>
+        <updated>2023-07-12T22:19:23.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll learn what an array is in Python. You'll also learn some possible ways to add elements to an existing array.  In Python, there is no need to use a specific data type for arrays. You can simply use a list with all the attributes of]]></summary>
+        <author>
+            <name>David Fagbuyiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Docker Image Building and Publishing with Pack CLI and GitHub Actions]]></title>
+        <id>https://www.freecodecamp.org/news/automating-docker-image-builds-and-publishing-with-pack-cli/</id>
+        <link href="https://www.freecodecamp.org/news/automating-docker-image-builds-and-publishing-with-pack-cli/"/>
+        <updated>2023-07-12T21:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Building and publishing Docker images is a crucial aspect of modern software development. The traditional approach often involves writing complex Dockerfiles and managing dependencies. But in this tutorial post, I'll show you a simpler way that uses the Pack CLI. PackCLI leverages Cloud Native Buildpacks to transform your application source]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Astro UI Framework [Full Book]]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/"/>
+        <updated>2023-07-12T20:58:29.000Z</updated>
+        <summary type="html"><![CDATA[Astro is a new UI framework that's designed for speed. And if you want to learn how to use it, you've come to the right place.  Table of Contents   1.  Introduction   2.  Chapter 1: Build your first Astro Application   3.]]></summary>
+        <author>
+            <name>Emmanuel Ohans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Math and Physics Save an Arrhythmic Heart?]]></title>
+        <id>https://www.quantamagazine.org/?p=127830</id>
+        <link href="https://www.quantamagazine.org/can-math-and-physics-save-an-arrhythmic-heart-20230712/"/>
+        <updated>2023-07-12T18:32:07.000Z</updated>
+        <summary type="html"><![CDATA[Abnormal waves of electrical activity can cause a heart’s muscle cells to beat out of sync. In this episode, Flavio Fenton, an expert in cardiac dynamics, talks with Steve Strogatz about ways to treat heart arrhythmias without resorting to painful defibrillators.            
+The post Can Math and Physics Save an Arrhythmic Heart? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steven Strogatz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In a Fierce Desert, Microbe ‘Crusts’ Show How Life Tamed the Land]]></title>
+        <id>https://www.quantamagazine.org/?p=127769</id>
+        <link href="https://www.quantamagazine.org/in-a-fierce-desert-microbe-crusts-show-how-life-tamed-the-land-20230712/"/>
+        <updated>2023-07-12T14:55:39.000Z</updated>
+        <summary type="html"><![CDATA[Extreme microorganisms carpeting the Atacama Desert in Chile illuminate how life might have first taken hold on Earth’s surface.            
+The post In a Fierce Desert, Microbe ‘Crusts’ Show How Life Tamed the Land first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Zack Savitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NLP Tutorial – Text Pre-Processing Techniques for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/"/>
+        <updated>2023-07-12T14:31:24.000Z</updated>
+        <summary type="html"><![CDATA[Natural Language Processing (NLP) is a branch of Machine learning (ML) that is focused on making computers understand the human language. It is used to create language models, language translation apps like Google translate, and virtual assistants, among other things. This article takes you through one of the most basic]]></summary>
+        <author>
+            <name>Hikmah Olawore</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binary Search – Algorithm and Time Complexity Explained]]></title>
+        <id>https://www.freecodecamp.org/news/binary-search-algorithm-and-time-complexity-explained/</id>
+        <link href="https://www.freecodecamp.org/news/binary-search-algorithm-and-time-complexity-explained/"/>
+        <updated>2023-07-12T14:26:58.000Z</updated>
+        <summary type="html"><![CDATA[When working with arrays, you’ll often have to search through them to check if they contain a target element. You can always run a sequential search—scanning the array from the beginning to the end—on the array. But if the array is sorted, running the binary search algorithm is much more]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript Handbook for React Developers – How to Build a Type-Safe Todo App]]></title>
         <id>https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers/</id>
@@ -1059,111 +1141,6 @@ The post ‘Embryo Models’ Challenge Legal, Ethical and Biological Concepts fi
         <summary type="html"><![CDATA[Certifications like the Microsoft Power Platform Fundamentals can help you advance in your career. You can learn everything you need to know to earn the Microsoft Power Platform Fundamentals Certification by completing this free 4-hour course that we just posted on the freeCodeCamp.org YouTube channel. Andrew Brown created this course.]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go toolchain changes in Go 1.21+]]></title>
-        <id>https://golangweekly.com/issues/464</id>
-        <link href="https://golangweekly.com/issues/464"/>
-        <updated>2023-06-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​464 — June 13, 2023
-
-
-Unsub  |  Web Version
-
-
-
-✍️ If you're intrigued about domain-driven design (DDD), we've got an interview with Matt Boyle, the author of Domain-Driven Design with Go – it's at the end of today's issue.
-__
-Your editor, Peter Cooper
-
-
-    
-    
-
-Go Weekly
-
-
-
-
-  
-
-
-
-
-
-  
-  
-An Update on Go Toolchains — Russ Cox noted that “many people believe the go line in the go.mod file specifies which Go toolchain to use.” Not so.. but from Go 1.21 the go command will use its own bundled toolchain if that toolchain is at least as new as the go or toolchain lines in the module/workspace. If the toolchain is outdated, the newer version will be obtained. The official docs have been significantly extended to explain the situation.
-Official Go Site 
-
-
-  
-  
-🎉  Ebitengine's Game Jam to C…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI in Google Sheets – How to Use GPT Copilot]]></title>
-        <id>https://www.freecodecamp.org/news/ai-in-google-sheets/</id>
-        <link href="https://www.freecodecamp.org/news/ai-in-google-sheets/"/>
-        <updated>2023-06-12T22:10:01.000Z</updated>
-        <summary type="html"><![CDATA[It seems to be the year of AI. And my favorite tool, Google Sheets, is not to be left out of the fun. 🎉 Coefficient [https://coefficient.io/gpt-google-sheets] produced a Google sheets extension with the ability to use OpenAI's GPT models from within a spreadsheet. It’s called GPT Copilot and it’s available]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use MySQL Stored Procedures to Simplify Database Operations]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-simplify-database-operations-using-mysql-stored-procedures/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-simplify-database-operations-using-mysql-stored-procedures/"/>
-        <updated>2023-06-12T22:05:52.000Z</updated>
-        <summary type="html"><![CDATA[In the realm of database management, MySQL has emerged as one of the most popular and reliable choices.  MySQL not only offers robust data storage capabilities but also provides a powerful feature called "procedures" that allows developers to streamline complex database operations.  In this tutorial, we will delve]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Upgrade Your React Skills with Three Helpful Tools]]></title>
-        <id>https://www.freecodecamp.org/news/upgrade-your-react-skills/</id>
-        <link href="https://www.freecodecamp.org/news/upgrade-your-react-skills/"/>
-        <updated>2023-06-12T21:12:01.000Z</updated>
-        <summary type="html"><![CDATA[Since its announcement in 2013, React.js continues to be one of the most widely used JavaScript tools, thanks to its unmatched versatility and efficiency.  Backed by its component-based architecture and virtual DOM implementation, React.js excels in building modern and dynamic web applications. It enables developers to create reusable UI]]></summary>
-        <author>
-            <name>Moyosore J Olaojo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Streamline Your File Upload Process in Express.js with Multer]]></title>
-        <id>https://www.freecodecamp.org/news/simplify-your-file-upload-process-in-express-js/</id>
-        <link href="https://www.freecodecamp.org/news/simplify-your-file-upload-process-in-express-js/"/>
-        <updated>2023-06-12T21:05:14.000Z</updated>
-        <summary type="html"><![CDATA[File uploading is a common requirement in web development projects. But handling file uploads in Node.js can be complex and time-consuming. That's where Multer comes in.  Multer is a powerful middleware for Node.js that simplifies the file upload process by handling multipart/form-data requests. In this tutorial, you will learn]]></summary>
-        <author>
-            <name>Kelvin Moses</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve Your Technical Writing Skills by Contributing to Open Source Projects]]></title>
-        <id>https://www.freecodecamp.org/news/improve-tech-writing-skills-by-contributing-to-open-source/</id>
-        <link href="https://www.freecodecamp.org/news/improve-tech-writing-skills-by-contributing-to-open-source/"/>
-        <updated>2023-06-12T18:15:16.000Z</updated>
-        <summary type="html"><![CDATA[Have you been writing your tech blog posts on Hashnode [https://hashnode.com/about] or Dev.to [http://dev.to/], but you're itching to try something new? If so, there is something that can quench your thirst: contributing to open source.  I know, I know, you’ve probably heard “Contribute to open source!” countless times in]]></summary>
-        <author>
-            <name>CHRISTINE T. BELZIE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Experiment Casts Doubt on the Leading Theory of the Nucleus]]></title>
-        <id>https://www.quantamagazine.org/?p=126732</id>
-        <link href="https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/"/>
-        <updated>2023-06-12T14:00:10.000Z</updated>
-        <summary type="html"><![CDATA[By measuring inflated helium nuclei, physicists have challenged our best understanding of the force that binds protons and neutrons.             
-The post A New Experiment Casts Doubt on the Leading Theory of the Nucleus first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Katie McCormick</name>
         </author>
     </entry>
 </feed>
