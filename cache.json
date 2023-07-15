@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/free-webdev-bootcamp/",
+          "author": "Jessica Rose",
+          "description": "Here's an exciting announcement that'll help make your summer a little busier and a lot more educational. Two developers and teachers are running a free, part time, remote bootcamp where you'll go through the freeCodeCamp Responsive Web Design Certification [https://www.freecodecamp.org/learn/2022/responsive-web-design/] together. You might be thinking that bootcamps are expensive, full",
+          "link": "https://www.freecodecamp.org/news/free-webdev-bootcamp/",
+          "publishedOn": "2023-07-14T19:37:00.000Z",
+          "wordCount": 1251,
+          "title": "Free WebDev Bootcamp for 2023 – Learn Responsive Web Design",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/web-dev-thumbnail.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/github-student-developer-pack/",
+          "author": "Salim Oyinlola",
+          "description": "For many students who are passionate about technology, limited access to crucial tools and resources is a common challenge.  Fortunately, the GitHub Student Developer Pack comes to the rescue. This pack provides students with exclusive access to a variety of top-notch developer tools, allowing them to learn through practical",
+          "link": "https://www.freecodecamp.org/news/github-student-developer-pack/",
+          "publishedOn": "2023-07-14T17:35:43.000Z",
+          "wordCount": 1616,
+          "title": "How to Get a Github Student Developer Pack",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/GitHub-Pack.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution/",
+          "author": "Aroboto Ife",
+          "description": "Making your first Open Source contribution, like any other first endeavor, can be difficult. Especially given the abundance of open-source projects out there. This article will help you to dip your toe into the open source community waters by making your first-ever open-source contribution. By exploring the world of open",
+          "link": "https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution/",
+          "publishedOn": "2023-07-14T17:25:03.000Z",
+          "wordCount": 1232,
+          "title": "How to Make Your First Open Source Code Contribution",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/IMG_6828-1.jpeg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-use-terraform-to-deploy-a-site-on-google-cloud-platform/",
           "author": "Beau Carnes",
           "description": "Modern cloud technologies have revolutionized the way we develop and deploy applications. But managing complex infrastructure can still be a daunting task, especially when working at scale. The solution? Infrastructure as Code (IaC) — an approach that brings programming paradigms to infrastructure management, thereby enhancing efficiency, repeatability, and agility. With",
@@ -927,16 +957,6 @@
           "wordCount": 9372,
           "title": "Flow Proof Helps Mathematicians Find Stability in Chaos",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/06/AsonovFlows-JosLeys_EtienneGhys_modifiedbyQuanta-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=126837",
-          "author": "Steven Strogatz",
-          "description": "Once dismissed as myths, monstrous rogue waves that tower over ships and appear without warning are real. Wave-science researcher Ton van den Bremer and Steven Strogatz discuss how rogue waves can form in relatively calm seas and whether their threat can be predicted.            \nThe post What Causes Giant Rogue Waves? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/what-causes-giant-rogue-waves-20230614/",
-          "publishedOn": "2023-06-14T18:36:20.000Z",
-          "wordCount": 19949,
-          "title": "What Causes Giant Rogue Waves?",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/06/JoY-S2E9-RogueWaves-byPeterGreenwood-Social-LOGO.webp"
         }
       ]
     },
