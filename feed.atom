@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-21T01:26:31.521Z</updated>
+    <updated>2023-07-22T01:25:03.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Math That Lets You Think Locally but Act Globally]]></title>
+        <id>https://www.quantamagazine.org/?p=128090</id>
+        <link href="https://www.quantamagazine.org/math-that-lets-you-think-locally-but-act-globally-20230721/"/>
+        <updated>2023-07-21T14:47:34.000Z</updated>
+        <summary type="html"><![CDATA[Knowing a little about the local connections on flight maps and other networks can reveal a lot about a system’s global structure.            
+The post Math That Lets You Think Locally but Act Globally first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Patrick Honner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-closing tags are mostly meaningless in HTML (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/self-closing-tags-are-mostly-meaningless-in-html/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/self-closing-tags-are-mostly-meaningless-in-html/"/>
+        <updated>2023-07-20T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here's a fun one: consider the following HTML in which the classes red, blue and green render the particular background color — what will be rendered?
+<div class="blue" />
+  Blue
+  <div class="red" />
+    Red
+    <div class="green" />
+      Green
+    </div>
+  </div>
+</div>
+
+Well... did you see the self-closing divs? That's tricky, right? Have a look at it below. 👇
+[Interactive component: visit the article to see it...]
+🤯 Jake Archibald published a real banger getting into the argument of self-closing HTML elements, and it's more than worth a read.
+Here's the tl;dr!
+Self-closing elements are mostly a relict from the XHTML era. XHTML was this unforgiving friend who made a massive scene about everything. It required developers to write 100% correct markup. Not cool — we all make mistakes, r…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why do visually hidden CSS classes define a size of 1x1? (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/why-do-visually-hidden-css-classes-define-a-size-of-1x1/</id>
+        <link href="https://www.stefanjudis.com/notes/why-do-visually-hidden-css-classes-define-a-size-of-1x1/"/>
+        <updated>2023-07-20T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Did you ever wonder why visually-hidden or sr-only classes have the dimensions of 1 by 1 pixel?
+.visually-hidden {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  /* Why this 👇? */
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+}
+
+Well, Manuel Matuzović investigated this topic and it's because of Safari. Safari isn't able to focus zero-size elements.
+That's a nice little fun fact! 😅 Thanks Manuel!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Integrate ChatGPT with Google Sheets Using Google Apps Script]]></title>
         <id>https://www.freecodecamp.org/news/create-chat-gpt-formulas-in-google-sheets/</id>
@@ -1224,67 +1288,6 @@ The post Computer Scientists Inch Closer to Major Algorithmic Goal first appeare
 The post Mathematicians Discover Novel Way to Predict Structure in Graphs first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Jordana Cepelewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Pandas & Python for Data Analysis [Full Course]]]></title>
-        <id>https://www.freecodecamp.org/news/learn-pandas-for-data-science/</id>
-        <link href="https://www.freecodecamp.org/news/learn-pandas-for-data-science/"/>
-        <updated>2023-06-22T12:50:51.000Z</updated>
-        <summary type="html"><![CDATA[Pandas is an open source data analysis and manipulation tool. It is important to learn if you are interested in data science. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Pandas through interactive projects. You will develop 7 projects ranging from]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Supabase, an Open-Source Firebase Alternative]]></title>
-        <id>https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative/</id>
-        <link href="https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative/"/>
-        <updated>2023-06-22T12:20:35.000Z</updated>
-        <summary type="html"><![CDATA[Supabase is an open-source Firebase alternative that is rapidly gaining popularity in the developer community. If you are looking to sharpen their backend skills, consider learning how to use Supabase. We just published a course on the freeCodeCamp.org channel that is designed to help you master Supabase. This course was]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create an API Proxy Gateway with AWS HTTP API]]></title>
-        <id>https://www.freecodecamp.org/news/create-an-api-proxy-gateway-with-aws-http-api/</id>
-        <link href="https://www.freecodecamp.org/news/create-an-api-proxy-gateway-with-aws-http-api/"/>
-        <updated>2023-06-21T16:43:47.000Z</updated>
-        <summary type="html"><![CDATA[In today's fast-paced world, seamless integration between various services and systems has become ever more important. Security is also equally important while stitching these services together. So it's crucial to design applications meaningfully so that there's minimal friction between various systems.  This article focuses on the communication between a]]></summary>
-        <author>
-            <name>Prajwal Kulkarni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Simple Geometry That Predicts Molecular Mosaics]]></title>
-        <id>https://www.quantamagazine.org/?p=127014</id>
-        <link href="https://www.quantamagazine.org/the-simple-geometry-that-predicts-molecular-mosaics-20230621/"/>
-        <updated>2023-06-21T15:01:49.000Z</updated>
-        <summary type="html"><![CDATA[By treating molecules as geometric tessellations, scientists devised a new way to forecast how 2D materials might self-assemble.            
-The post The Simple Geometry That Predicts Molecular Mosaics first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Elise Cutts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a ChatBot using the GPT-4 API – Full Project-Based Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/build-gpt-4-api-chatbot-turorial/</id>
-        <link href="https://www.freecodecamp.org/news/build-gpt-4-api-chatbot-turorial/"/>
-        <updated>2023-06-21T14:07:17.000Z</updated>
-        <summary type="html"><![CDATA[Chatbots are transforming the way we interact online. Thanks to the OpenAI API, crafting intelligent, context-aware chatbots is now well within the reach of any budding web developer.  In this tutorial, I will teach you everything you need to know to build your own chatbot using the GPT-4 API.]]></summary>
-        <author>
-            <name>Tom Chant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Offer Custom APIs to Your Users with AWS API Gateway]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-offer-custom-apis-to-your-users-aws-api-gateway/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-offer-custom-apis-to-your-users-aws-api-gateway/"/>
-        <updated>2023-06-21T13:56:00.000Z</updated>
-        <summary type="html"><![CDATA[In the world of cloud computing and serverless architecture, AWS API Gateway is a powerful tool that helps you build robust, secure, and scalable APIs.  In this tutorial, I'll introduce you to API Gateway and explain the benefits of using this helpful tool. Then I'll show you how to]]></summary>
-        <author>
-            <name>Arunachalam B</name>
         </author>
     </entry>
 </feed>
