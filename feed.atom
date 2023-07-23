@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-22T01:25:03.711Z</updated>
+    <updated>2023-07-23T01:37:27.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -1217,77 +1217,6 @@ W…]]></summary>
 The post Computer Scientists Inch Closer to Major Algorithmic Goal first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Kevin Hartnett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a ChatGPT Plugin – Case Study using PodcastAPI.com and Serverless Cloudflare Pages]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-chatgpt-plugin-case-study/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-chatgpt-plugin-case-study/"/>
-        <updated>2023-06-22T23:01:49.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT [https://chat.openai.com/] is a highly intelligent auto-completion tool. It takes instructions or questions in natural language and provides good enough text-based outputs.  But there’s a catch — ChatGPT’s knowledge only goes up until September 2021. So, as of writing this blog post (June 2023), the model itself is not aware of]]></summary>
-        <author>
-            <name>Wenbin Fang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Database Read-Only in MySQL]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-make-a-database-read-only-in-mysql/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-a-database-read-only-in-mysql/"/>
-        <updated>2023-06-22T22:49:49.000Z</updated>
-        <summary type="html"><![CDATA[If you are learning MySQL, then you are likely enjoying executing different commands and checking the results afterward.  But you may be working on a project where you have modified your database to an acceptable state and you're worried about altering it by mistake. This could happen when you're]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intro to Generative AI – 10 Free Courses by Google]]></title>
-        <id>https://www.freecodecamp.org/news/intro-to-generative-ai-10-free-courses-by-google/</id>
-        <link href="https://www.freecodecamp.org/news/intro-to-generative-ai-10-free-courses-by-google/"/>
-        <updated>2023-06-22T22:22:52.000Z</updated>
-        <summary type="html"><![CDATA[Are you tired of all the AI talk yet? I am too, but I'm also intrigued by the technology behind it. If you'd like to dive into some of the details behind how AI actually works and take a break from the many creepy AI examples on the internet, check]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Key Computer Science Concepts Every Software Engineer Should Know – and How to Learn Them]]></title>
-        <id>https://www.freecodecamp.org/news/what-every-software-engineer-should-know/</id>
-        <link href="https://www.freecodecamp.org/news/what-every-software-engineer-should-know/"/>
-        <updated>2023-06-22T22:06:46.000Z</updated>
-        <summary type="html"><![CDATA[If you're a software engineer, you may feel like you are in a bit of a rat race.  The rat race to learn the new technologies. A new frontend framework, a new database or even a new language which is a variation of another language. It's never ending and]]></summary>
-        <author>
-            <name>Tamerlan Gudabayev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Gnome Extensions For Developer Productivity]]></title>
-        <id>https://www.freecodecamp.org/news/the-best-gnome-extensions-for-developers/</id>
-        <link href="https://www.freecodecamp.org/news/the-best-gnome-extensions-for-developers/"/>
-        <updated>2023-06-22T22:02:31.000Z</updated>
-        <summary type="html"><![CDATA[If you're a beginner who's using a Gnome-based distro like Ubuntu, Fedora, Arch Linux, and so on, there are tons of extensions available from the Gnome community. Gnome is an open-source Linux-based distro desktop environment (operating system) maintained by a large number of developers. Choosing the right Gnome extension(s) can]]></summary>
-        <author>
-            <name>Rajdeep Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create an AI Tweet Generator Using LangChain]]></title>
-        <id>https://www.freecodecamp.org/news/create-an-ai-tweet-generator-openai-langchain/</id>
-        <link href="https://www.freecodecamp.org/news/create-an-ai-tweet-generator-openai-langchain/"/>
-        <updated>2023-06-22T20:20:04.000Z</updated>
-        <summary type="html"><![CDATA[I've got a fun tutorial for you today. If you've read my previous article on building custom-knowledge chatbots using LangChain [/news/langchain-how-to-create-custom-knowledge-chatbots/], then you must be bursting with ideas of great projects you can create. Well, I want to encourage your creativity and give a concrete example of what you can]]></summary>
-        <author>
-            <name>Shane Duggan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematicians Discover Novel Way to Predict Structure in Graphs]]></title>
-        <id>https://www.quantamagazine.org/?p=127094</id>
-        <link href="https://www.quantamagazine.org/mathematicians-discover-new-way-to-predict-structure-in-graphs-20230622/"/>
-        <updated>2023-06-22T14:35:33.000Z</updated>
-        <summary type="html"><![CDATA[Mathematicians probe the limits of randomness in new work estimating quantities called Ramsey numbers.             
-The post Mathematicians Discover Novel Way to Predict Structure in Graphs first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Jordana Cepelewicz</name>
         </author>
     </entry>
 </feed>
