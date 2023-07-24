@@ -720,26 +720,6 @@
           "wordCount": 2102,
           "title": "NLP using spaCy – How to Get Started with Natural Language Processing",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/NLP-using-Spacy---Banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/exception-filters-in-nestjs/",
-          "author": "Okoye Victor Chukwuebuka",
-          "description": "It's common to find errors and bugs in your code if you're a software developer. They might occur because of incorrect input, from passing the wrong data types, or because of delays or response timeouts.  And even though errors and bugs are a part of life, they can stress",
-          "link": "https://www.freecodecamp.org/news/exception-filters-in-nestjs/",
-          "publishedOn": "2023-06-23T21:38:23.000Z",
-          "wordCount": 1597,
-          "title": "How to Use Exception Filters to Catch Bugs in Nest.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/brett-jordan-XWar9MbNGUY-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-shopping-cart-with-react-and-typescript/",
-          "author": "Mihail Gaberov",
-          "description": "In this tutorial we are going to build a real-life shopping cart 🛒 application.  We'll talk about the technology stack and the features it will have in a minute. I'll also walk you through the process step-by-step. But first, let me show you what it's going to look like.",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-shopping-cart-with-react-and-typescript/",
-          "publishedOn": "2023-06-23T17:09:00.000Z",
-          "wordCount": 5635,
-          "title": "How to Build a Shopping Cart with React and TypeScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/shopping-cart-app-article.png"
         }
       ]
     },
@@ -927,16 +907,6 @@
           "wordCount": 6513,
           "title": "The Key to Species Diversity May Be in Their Similarities",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/06/EcologyHistoryModeling-byAllisonLi-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=127147",
-          "author": "Kevin Hartnett",
-          "description": "A new paper finds a faster method for determining when two mathematical groups are the same.            \nThe post Computer Scientists Inch Closer to Major Algorithmic Goal first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/computer-scientists-inch-closer-to-major-algorithmic-goal-20230623/",
-          "publishedOn": "2023-06-23T13:45:59.000Z",
-          "wordCount": 7036,
-          "title": "Computer Scientists Inch Closer to Major Algorithmic Goal",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/06/GroupIsomorphism-byKikiLjung-Social.webp"
         }
       ]
     },
@@ -951,6 +921,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-106/",
+          "author": null,
+          "description": "Guten Tag! 👋\n\nDo you notice the performance impact of inline SVGs and are looking for solutions? Do you wonder how to evaluate the performance impact of an npm package? Or are you confused about self-closing HTML tags such as <br> (or is it <br />?) and need to know when to use which?\nThis week's Web Weekly includes all the answers and much more. 🫣\nYou might have noticed that I took a three-week-long Web Weekly break. The main reason was that I traveled to Canada to give a new talk — Back to boring (part two). And I had such a blast with countless wonderful people! 💙\nDuring the talk prep, I finally made it to play around with view transitions. And this stuff is nothing but incredible. Only a bit of vanilla spaghetti JavaScript (example CodePen) is needed to transition elements from A to…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-106/",
+          "publishedOn": "2023-07-22T22:00:00.000Z",
+          "wordCount": 2056,
+          "title": "Web Weekly #106 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
         {
           "id": "https://www.stefanjudis.com/today-i-learned/self-closing-tags-are-mostly-meaningless-in-html/",
           "author": null,
