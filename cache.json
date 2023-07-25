@@ -12,6 +12,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-deploy-a-next-js-app-with-custom-domain-on-aws-using-sst/",
+          "author": "Arunachalam B",
+          "description": "Serverless architectures have transformed the way we build and deploy applications in the cloud, bringing in more efficiency and scalability. In this article, we'll dive into the Serverless Stack Toolkit (SST), a framework for building serverless applications. We'll deploy a Next.js application and set up a custom domain, all without",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-next-js-app-with-custom-domain-on-aws-using-sst/",
+          "publishedOn": "2023-07-24T07:18:19.000Z",
+          "wordCount": 2563,
+          "title": "How to Deploy a Next.js App with Custom Domain on AWS Using SST",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/AWS---SST---Banner.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/create-chat-gpt-formulas-in-google-sheets/",
           "author": "Nibesh Khadka",
           "description": "Welcome to this tutorial on how to integrate ChatGPT with Google Spreadsheets using the GPT API and Google Apps Script. We will create two custom formulas, GPT_SUMMARY and GPT_SIMPLIFY. You can use GPT_SUMMARY to summarize a large passage or text into a few bullet points for easy reading. And you",
@@ -729,6 +739,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=128181",
+          "author": "Leila Sloman",
+          "description": "The proof establishes new conditions that cause connected oscillators to sway in sync.            \nThe post New Proof Shows That ‘Expander’ Graphs Synchronize first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/new-proof-shows-that-expander-graphs-synchronize-20230724/",
+          "publishedOn": "2023-07-24T14:36:23.000Z",
+          "wordCount": 7070,
+          "title": "New Proof Shows That ‘Expander’ Graphs Synchronize",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/07/Synchronization-bySamuelVelasco-PaulChaikin-Social-1.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=128090",
           "author": "Patrick Honner",
           "description": "Knowing a little about the local connections on flight maps and other networks can reveal a lot about a system’s global structure.            \nThe post Math That Lets You Think Locally but Act Globally first appeared on Quanta Magazine",
@@ -970,16 +990,6 @@
           "wordCount": 2187,
           "title": "Web Weekly #105 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/how-to-use-eventtarget-as-a-web-native-event-emitter/",
-          "author": null,
-          "description": "Suppose you want to implement a publish/subscribe pattern in your Frontend application to react to data changes and events. First, you might be looking for an event emitter library.\nI installed plenty of event emitter libraries over the years, and if I felt advanterous I wrote them from scratch as a quick coding exercise.\nToday I learned that vanilla JavaScript comes with a native event emitter, which I've been indirectly using forever. There's no need for extra code!\nThe EventTarget interface\n\nIt's right in front of us; every time you use addEventListener on a DOM element, you subscribe to events from it. That's a classical event emitter. Can you reuse this functionality somehow?\nI've always thought that addEventListener is part of the HTMLElement's prototype, but surprisingly it's not!\nW…",
-          "link": "https://www.stefanjudis.com/today-i-learned/how-to-use-eventtarget-as-a-web-native-event-emitter/",
-          "publishedOn": "2023-06-24T22:00:00.000Z",
-          "wordCount": 1524,
-          "title": "How to use EventTarget as a web-native event emitter (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20use%20EventTarget%20as%20a%20web-native%20event%20emitter/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },

@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-24T01:26:23.528Z</updated>
+    <updated>2023-07-25T01:41:52.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Proof Shows That ‘Expander’ Graphs Synchronize]]></title>
+        <id>https://www.quantamagazine.org/?p=128181</id>
+        <link href="https://www.quantamagazine.org/new-proof-shows-that-expander-graphs-synchronize-20230724/"/>
+        <updated>2023-07-24T14:36:23.000Z</updated>
+        <summary type="html"><![CDATA[The proof establishes new conditions that cause connected oscillators to sway in sync.            
+The post New Proof Shows That ‘Expander’ Graphs Synchronize first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Leila Sloman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy a Next.js App with Custom Domain on AWS Using SST]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-deploy-a-next-js-app-with-custom-domain-on-aws-using-sst/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-a-next-js-app-with-custom-domain-on-aws-using-sst/"/>
+        <updated>2023-07-24T07:18:19.000Z</updated>
+        <summary type="html"><![CDATA[Serverless architectures have transformed the way we build and deploy applications in the cloud, bringing in more efficiency and scalability. In this article, we'll dive into the Serverless Stack Toolkit (SST), a framework for building serverless applications. We'll deploy a Next.js application and set up a custom domain, all without]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #106 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-106/</id>
@@ -1182,23 +1203,6 @@ The article describes how you can use cyclic CSS properties as value toggles. I'
 It's a good explainer of the custom property inner workings.
 And while being fancy, I wouldn't use this approach, because it's too clever. But hey, it's good to know about these tricks!
 Nevertheless, Roman's blog is worth a follow because it's full of these nerdy CSS techniques. Here's another post about fit-to-width text with pure CSS…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to use EventTarget as a web-native event emitter (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/how-to-use-eventtarget-as-a-web-native-event-emitter/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/how-to-use-eventtarget-as-a-web-native-event-emitter/"/>
-        <updated>2023-06-24T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Suppose you want to implement a publish/subscribe pattern in your Frontend application to react to data changes and events. First, you might be looking for an event emitter library.
-I installed plenty of event emitter libraries over the years, and if I felt advanterous I wrote them from scratch as a quick coding exercise.
-Today I learned that vanilla JavaScript comes with a native event emitter, which I've been indirectly using forever. There's no need for extra code!
-The EventTarget interface
-
-It's right in front of us; every time you use addEventListener on a DOM element, you subscribe to events from it. That's a classical event emitter. Can you reuse this functionality somehow?
-I've always thought that addEventListener is part of the HTMLElement's prototype, but surprisingly it's not!
-W…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>
