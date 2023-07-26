@@ -2,10 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-25T01:41:52.266Z</updated>
+    <updated>2023-07-26T01:26:52.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FastAPI Tutorial – How to Develop, Test, and Deploy APIs]]></title>
+        <id>https://www.freecodecamp.org/news/fastapi-quickstart/</id>
+        <link href="https://www.freecodecamp.org/news/fastapi-quickstart/"/>
+        <updated>2023-07-25T20:54:10.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the world of FastAPI, a sleek and high-performance web framework for constructing Python APIs. Don't worry if you're new to API programming – we'll start at the beginning.  An API (Application Programming Interface) connects several software programs allowing them to converse and exchange information. APIs are essential]]></summary>
+        <author>
+            <name>Atharva Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Node.js? Server-Side JavaScript Development Basics]]></title>
+        <id>https://www.freecodecamp.org/news/node-js-basics/</id>
+        <link href="https://www.freecodecamp.org/news/node-js-basics/"/>
+        <updated>2023-07-25T18:24:42.000Z</updated>
+        <summary type="html"><![CDATA[Node.js is a powerful runtime environment for executing JavaScript code outside  of a web browser. It brings the JavaScript language to the server-side, enabling developers to build scalable, high-performance, and event-driven applications. Let's discover how Node.js code works, and how that code can be integrated within your JavaScript and]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is DNS? Basics for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-dns-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-dns-for-beginners/"/>
+        <updated>2023-07-25T18:07:28.000Z</updated>
+        <summary type="html"><![CDATA[When you access a website like www.google.com [https://www.google.com/], would it surprise you to learn that the URL isn't really the website address?  There is some work "under the hood" to ensure that, when you type in a human friendly name like Google, it takes you to the website you're]]></summary>
+        <author>
+            <name>Kealan Parr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Google Sheets – A Beginner's Guide]]></title>
+        <id>https://www.freecodecamp.org/news/google-sheets-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/google-sheets-for-beginners/"/>
+        <updated>2023-07-25T17:53:57.000Z</updated>
+        <summary type="html"><![CDATA[Google Sheets is an online spreadsheet app with real-time collaboration features. It's like Microsoft Excel for regular people. 🙌 gif of guy saying aren't ordinary people adorableAnd, these days, it's actually giving Excel a run for its money. It's picked up a lot of features and processing power over the]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How (Nearly) Nothing Might Solve Cosmology’s Biggest Questions]]></title>
+        <id>https://www.quantamagazine.org/?p=128234</id>
+        <link href="https://www.quantamagazine.org/how-nearly-nothing-might-solve-cosmologys-biggest-questions-20230725/"/>
+        <updated>2023-07-25T14:09:53.000Z</updated>
+        <summary type="html"><![CDATA[By measuring the universe’s emptiest spaces, scientists can study how matter clumps together and how fast it flies apart.            
+The post How (Nearly) Nothing Might Solve Cosmology’s Biggest Questions first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Lyndie Chiou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The one where Go keeps getting better]]></title>
+        <id>https://golangweekly.com/issues/470</id>
+        <link href="https://golangweekly.com/issues/470"/>
+        <updated>2023-07-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#​470 — July 25, 2023
+
+
+Unsub  |  Web Version
+
+
+
+✍️ It feels like there's a particularly strong drive to improve Go lately, whether it's through the ever growing number of proposals from folks like Russ Cox, the development of tools like govulncheck, or folks writing articles about how to write better code. Go's a simple language with modest ambitions, but it's not resting on its laurels and is actively continuing to get better all the time – long may it last!
+__
+Your editor, Peter Cooper
+
+
+    
+    
+
+Go Weekly
+
+
+
+
+  
+
+
+
+
+
+  
+  
+An Overhaul of Inlining for Go 1.22 — Inlining is the concept of replacing a function call in a program with the contents of the function itself, thus avoiding the call. Go’s inliner has improved over the years, but the policies around when and what to inline have …]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Proof Shows That ‘Expander’ Graphs Synchronize]]></title>
         <id>https://www.quantamagazine.org/?p=128181</id>
@@ -1186,25 +1275,6 @@ Built-in Functions in Go 1.21 — Some new builtin functions in Go 1.21 caught A
 The post The Key to Species Diversity May Be in Their Similarities first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Veronique Greenwood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #105 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-105/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-105/"/>
-        <updated>2023-06-25T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Happy Monday, party people! 👋
-
-Are you desperately waiting for CSS state queries? Do you wonder how to speed up your sites? Or do you want to know how to build web apps that work on flaky connections?
-This week's Web Weekly includes all the answers and much more. 🫣
-Roman Komarov published a real CSS custom property head-scratcher.
-I mean, look at it! 🤯
-The article describes how you can use cyclic CSS properties as value toggles. I'm amazed (and confused)!
-It's a good explainer of the custom property inner workings.
-And while being fancy, I wouldn't use this approach, because it's too clever. But hey, it's good to know about these tricks!
-Nevertheless, Roman's blog is worth a follow because it's full of these nerdy CSS techniques. Here's another post about fit-to-width text with pure CSS…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
