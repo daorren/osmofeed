@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/typescript-generics-with-functional-react-components/",
+          "author": "Olasunkanmi Balogun",
+          "description": "In this article, we will explore the powerful synergy between TypeScript generics and functional React components. Generics allow you to define flexible components that can adapt to different data structures and enforce type safety throughout your codebase. By leveraging Generics in functional components, you can create highly reusable and adaptable",
+          "link": "https://www.freecodecamp.org/news/typescript-generics-with-functional-react-components/",
+          "publishedOn": "2023-07-27T18:53:32.000Z",
+          "wordCount": 2364,
+          "title": "How to Use TypeScript Generics with Functional React Components",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/federico-beccari-ahi73ZN5P0Y-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/take-your-first-steps-into-the-world-of-augmented-reality/",
+          "author": "Beau Carnes",
+          "description": "Imagine transforming your surroundings with interactive digital overlays, creating new experiences, and changing the way you interact with the world around you. Welcome to the future – the future of Augmented Reality (AR). The freeCodeCamp.org YouTube channel just launched a comprehensive new course that will teach you how to implement",
+          "link": "https://www.freecodecamp.org/news/take-your-first-steps-into-the-world-of-augmented-reality/",
+          "publishedOn": "2023-07-27T13:00:56.000Z",
+          "wordCount": 1093,
+          "title": "Augmented Reality Course – Take Your First Steps into the World of AR",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/augmented-reality.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/full-stack-with-nextjs-and-appwrite-course/",
+          "author": "Beau Carnes",
+          "description": "We're excited to announce the launch of a new course on the freeCodeCamp.org YouTube channel that will give you an in-depth understanding of how to build a custom API using Next.js and MongoDB. This course was created by Hitesh Choudhary. He is an an expert in the field and has",
+          "link": "https://www.freecodecamp.org/news/full-stack-with-nextjs-and-appwrite-course/",
+          "publishedOn": "2023-07-27T12:28:05.000Z",
+          "wordCount": 1204,
+          "title": "Learn Next.js by Building a Custom API with MongoDB",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/next.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-create-multiple-virtual-hosts-on-one-rabbitmq-instance/",
           "author": "Ridwan Yusuf",
           "description": "Hi, friends, and welcome to another tutorial. We'll be talking about RabbitMQ, a tool that is widely used as a message broker in distributed and Pub-Sub systems.  While multiple applications can share a single RabbitMQ instance, it's a great approach to configure it to have different virtual hosts for",
@@ -740,66 +770,6 @@
           "wordCount": 2133,
           "title": "How to Use a Postman Mock Server with Angular",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pexels-christina-morillo-1181247.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-calculator-app-in-django/",
-          "author": "Sampurna Chapagain",
-          "description": "Django is a free and open-source Python web framework that helps you quickly develop secure and maintainable web applications. In this tutorial, I will guide you step by step as we create a calculator app using django. This is a beginner-friendly tutorial, so if you are new to Django, you",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-calculator-app-in-django/",
-          "publishedOn": "2023-06-27T17:29:01.000Z",
-          "wordCount": 1882,
-          "title": "How to Create a Simple Calculator App in Django",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Add-a-subheading--3-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-promise-allsettled-in-javascript/",
-          "author": "Rahul",
-          "description": "Have you ever worked with promises in JavaScript and gotten frustrated when one rejects and ruins everything?  You write some promise-based code, everything is chugging along nicely, and then boom – one little promise rejects and the whole chain comes crashing down. Your code grinds to a halt and",
-          "link": "https://www.freecodecamp.org/news/how-to-use-promise-allsettled-in-javascript/",
-          "publishedOn": "2023-06-27T17:03:57.000Z",
-          "wordCount": 1605,
-          "title": "How to Use Promise.allSettled() in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/andrew-petrov-hopnkQoC0dg-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-check-if-a-key-exists-in-a-dictionary-in-python/",
-          "author": "Hillary Nyakundi",
-          "description": "Python is one of the most popular programming languages today. Its usage cuts across multiple fields, but the most common ones are data science, machine learning, and web development. When you're coding in Python, you'll use different data structures. In Python, among the most used is the dictionary. A dictionary",
-          "link": "https://www.freecodecamp.org/news/how-to-check-if-a-key-exists-in-a-dictionary-in-python/",
-          "publishedOn": "2023-06-27T16:59:26.000Z",
-          "wordCount": 1291,
-          "title": "How to Check if a Key Exists in a Dictionary in Python – Python Dict Has Key",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/CoverImage-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/java-data-types-and-variables/",
-          "author": "Isah Jacob",
-          "description": "As a beginner learning Java, one of the fundamental topics you'll need to understand is data types.  Every day in the life of every software engineer is about how to manipulate data, how to get data from users, the format of the data, and how this data is stored",
-          "link": "https://www.freecodecamp.org/news/java-data-types-and-variables/",
-          "publishedOn": "2023-06-27T16:59:18.000Z",
-          "wordCount": 2237,
-          "title": "Java Data Types And Variables – Explained for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/data-types-and-variables.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/importerror-cannot-import-name-force-text-from-django-utils-encoding-python-error-solved/",
-          "author": "Hillary Nyakundi",
-          "description": "Encountering errors is very common during software development, and when working with Python and Django one such error is ImportError: cannot import name 'force text' from 'django.utils.encoding'. This particular error indicates that there is a problem with importing the force text method from the django.utils.encoding module. The missing method is",
-          "link": "https://www.freecodecamp.org/news/importerror-cannot-import-name-force-text-from-django-utils-encoding-python-error-solved/",
-          "publishedOn": "2023-06-27T16:43:24.000Z",
-          "wordCount": 942,
-          "title": "ImportError: cannot import name 'force text' from 'django.utils.encoding' [Python Error Solved]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/CoverImage-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-advanced-c-concepts/",
-          "author": "Beau Carnes",
-          "description": "As a software developer, staying up-to-date with evolving technologies is a cornerstone of your career.  C# is a powerful language that has continued to evolve and transform the landscape of software development. If you are a programmer with some experience in C# and looking to deepen your knowledge, then",
-          "link": "https://www.freecodecamp.org/news/learn-advanced-c-concepts/",
-          "publishedOn": "2023-06-27T13:51:52.000Z",
-          "wordCount": 1027,
-          "title": "Learn Advanced C# Concepts",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/csharp.png"
         }
       ]
     },
@@ -808,6 +778,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=128337",
+          "author": "Allison Parshall",
+          "description": "Yael Tauman Kalai’s breakthroughs secure our digital world, from cloud computing to our quantum future.            \nThe post The Cryptographer Who Ensures We Can Trust Our Computers first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-cryptographer-who-ensures-we-can-trust-our-computers-20230727/",
+          "publishedOn": "2023-07-27T14:28:45.000Z",
+          "wordCount": 7212,
+          "title": "The Cryptographer Who Ensures We Can Trust Our Computers",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/07/YaelKalai-byKatherinaTaylor-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=128315",
           "author": "Steven Strogatz",
@@ -997,26 +977,6 @@
           "wordCount": 7034,
           "title": "An Enormous Gravity ‘Hum’ Moves Through the Universe",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/06/Nanograv-byJimHoover-Default.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=127308",
-          "author": "Steven Strogatz",
-          "description": "Jellyfish and other aquatic creatures embody solutions to diverse problems in engineering, medicine and mathematics. John Dabiri, a fluid dynamics expert, talks with Steven Strogatz about what jellyfish can teach us about going with the flow.            \nThe post What Can Jellyfish Teach Us About Fluid Dynamics? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/what-can-jellyfish-teach-us-about-fluid-dynamics-20230628/",
-          "publishedOn": "2023-06-28T06:51:55.000Z",
-          "wordCount": 19440,
-          "title": "What Can Jellyfish Teach Us About Fluid Dynamics?",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/06/JoY-S2E10-JellyFish-byPeterGreenwood-Square-Social-LOGO.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=127235",
-          "author": "David S. Richeson",
-          "description": "Transcendental numbers include famous examples like e and π, but it took mathematicians centuries to understand them.            \nThe post How Math Achieved Transcendence first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/recounting-the-history-of-maths-transcendental-numbers-20230627/",
-          "publishedOn": "2023-06-27T14:45:42.000Z",
-          "wordCount": 6446,
-          "title": "How Math Achieved Transcendence",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/06/TranscendentalNumbers-byJamesOBrien-Social.webp"
         }
       ]
     },
