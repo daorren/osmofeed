@@ -770,26 +770,6 @@
           "wordCount": 1525,
           "title": "How to Work with CSS Style Sheets – the Basics for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pexels-bibek-ghosh-14553706.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/supervised-vs-unsupervised-learning/",
-          "author": "Valentine Gatwiri",
-          "description": "In the field of machine learning, there are two approaches: supervised learning and unsupervised learning. And it all depends on whether your data is labeled or not. Labels shape the way models are trained and affect how we gather insights from them. In this article, we'll explore the concepts of",
-          "link": "https://www.freecodecamp.org/news/supervised-vs-unsupervised-learning/",
-          "publishedOn": "2023-06-29T16:10:36.000Z",
-          "wordCount": 2638,
-          "title": "Supervised vs Unsupervised Learning – What's the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Screenshot-from-2023-06-27-14-46-14.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-3d-rpg-game-with-godot/",
-          "author": "Beau Carnes",
-          "description": "Embark on a journey through the realms of 3D game development with a new video course on the freeCodeCamp.org YouTube channel. Designed by the experienced game developer Omar Zaki, this course will help you master the creation of a 3D Action Role-Playing Game (RPG) with the open source Godot engine.",
-          "link": "https://www.freecodecamp.org/news/create-a-3d-rpg-game-with-godot/",
-          "publishedOn": "2023-06-29T13:50:40.000Z",
-          "wordCount": 1019,
-          "title": "Create a 3D RPG Game with Godot",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/godot.png"
         }
       ]
     },
@@ -977,16 +957,6 @@
           "wordCount": 5247,
           "title": "Microbes Gained Photosynthesis Superpowers From a ‘Proton Pump’",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/06/PhotosynthesisEnzyme-SteveGschmeissnerScienceSource_ModifiedByQuantaMagazine-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=121765",
-          "author": "Thomas Lewton",
-          "description": "Physicists finally know where at least some of these high-energy particles come from, which helps make the neutrinos useful for exploring fundamental physics.            \nThe post A New Map of the Universe, Painted With Cosmic Neutrinos first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/a-new-map-of-the-universe-painted-with-cosmic-neutrinos-20230629/",
-          "publishedOn": "2023-06-29T18:00:20.000Z",
-          "wordCount": 6816,
-          "title": "A New Map of the Universe, Painted With Cosmic Neutrinos",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/06/NeutrinoMapOfTheUniverse-fromIceCubeCollaboration-Social.jpg"
         }
       ]
     },
@@ -1001,6 +971,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/how-to-prerender-tweets-without-using-the-official-twitter-apis/",
+          "author": null,
+          "description": "Vercel released a new React component the other day — react-tweet. And people seem to be excited!\n\n          \n\n          \nVercel\n                @vercel\n              \nIntroducing `react-tweet`:\n◆ 35x less client-side JavaScript than the Twitter <iframe>\n◆ React Server Components for built-in data fetching\n◆ Works with Next.js, Vite, CRA, and more\nvercel.com/blog/introduci…\n              \n1798 likes\n              67 replies\n\n              Tweeted \n                \n                  Jul 25 2023\n                \n              \n              Open Tweet\n            \n\nWhat's the deal?\nTwitter (or X or Dodge or whatever it's called tomorrow) has been an absolute mess since Elmo took over. And all the silly changes aside, the changes to the Twitter ecosystem are pretty bad. New API regulations an…",
+          "link": "https://www.stefanjudis.com/blog/how-to-prerender-tweets-without-using-the-official-twitter-apis/",
+          "publishedOn": "2023-07-28T22:00:00.000Z",
+          "wordCount": 1692,
+          "title": "How to prerender Tweets without using the official Twitter APIs (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20prerender%20Tweets%20without%20using%20the%20official%20Twitter%20APIs/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-106/",
           "author": null,
