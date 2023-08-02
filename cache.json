@@ -12,6 +12,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-use-react-server-components/",
+          "author": "TAPAS ADHIKARY",
+          "description": "In late 2020, the React team introduced the \"Zero-Bundle-Size React Server Components\" concept. Since then, the React developer community has been experimenting with and learning how to apply this forward-looking approach. React has changed how we think about building user interfaces. And the new model using React Server Components is",
+          "link": "https://www.freecodecamp.org/news/how-to-use-react-server-components/",
+          "publishedOn": "2023-08-01T14:52:33.000Z",
+          "wordCount": 4204,
+          "title": "React Server Components – How and Why You Should Use Them in Your Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/React-Server-Components-2.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/usestate-vs-redux-state-management/",
           "author": "Ijeoma Igboagu",
           "description": "State management is crucial for handling an application's data, how users interact with it, and how different parts of the app behave.  And it's not something you'll use only in React.js [https://react.dev/], but also in other popular tools like Angular.js, [https://angularjs.org/] Vue.js, [https://vuejs.org/] and Next.j [https://nextjs.org/]s. There are two",
@@ -770,16 +780,6 @@
           "wordCount": 5418,
           "title": "The Git Rebase Handbook – A Definitive Guide to Rebasing",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/The-Git-Rebase-Handbook-Book-Cover--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-an-image-carousel-with-react-and-framer-motion/",
-          "author": "Clinton Joy",
-          "description": "You've probably come across carousels in many modern-day applications. Known by various names such as sliders or rotators, these versatile web elements showcase content in a visually appealing, sliding, or rotating manner.  Carousels can help you save space as well as enhance your User Interface and provide a great",
-          "link": "https://www.freecodecamp.org/news/build-an-image-carousel-with-react-and-framer-motion/",
-          "publishedOn": "2023-07-03T09:47:00.000Z",
-          "wordCount": 3652,
-          "title": "How to Build an Image Carousel with React and Framer Motion",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Screenshot-2023-06-26-at-10.45.34.png"
         }
       ]
     },
@@ -788,6 +788,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=128439",
+          "author": "Rachel Crowell",
+          "description": "The numbers count a variety of seemingly unrelated mathematical structures.            \nThe post Ninth Dedekind Number Found by Two Independent Groups first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/ninth-dedekind-number-found-by-two-independent-groups-20230801/",
+          "publishedOn": "2023-08-01T14:36:19.000Z",
+          "wordCount": 5221,
+          "title": "Ninth Dedekind Number Found by Two Independent Groups",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/08/NewDedekindNumber-byAllisonLi-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=128423",
           "author": "C. Brandon Ogbunu",
@@ -1069,6 +1079,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/471",
+          "author": null,
+          "description": "#​471 — August 1, 2023\n\n\nUnsub  |  Web Version\n\n\n\nGo Weekly\n\n\n\n\n  \n\n\n\n\n\n  \n  \nExperimenting with Project Templates with gonew — The Go team has unveiled a new, experimental tool for creating new Go projects from predefined templates. Anyone can write these templates, which are then packaged and distributed as modules, using the Go module proxy and checksum database for better security and availability.\nCameron Balahan (Go Team) \n\n\n  \n  \nThe Go Developer Survey Is Back: Share Your Feedback — It’s that time again. The Go core team is calling upon the Gopher community for feedback on working and developing with Go. They really do pay attention to what you say, so you should take the 10(ish) minutes and give your perspective on what’s good and what needs changing. Submissions close on August 1…",
+          "link": "https://golangweekly.com/issues/471",
+          "publishedOn": "2023-08-01T00:00:00.000Z",
+          "wordCount": 851,
+          "title": "The Go team's new project templating tool",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/470",
           "author": null,
