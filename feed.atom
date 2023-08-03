@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-02T01:16:53.546Z</updated>
+    <updated>2023-08-03T01:18:37.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Quantum Complexity Shows How to Escape Hawking’s Black Hole Paradox]]></title>
+        <id>https://www.quantamagazine.org/?p=128507</id>
+        <link href="https://www.quantamagazine.org/new-calculations-show-how-to-escape-hawkings-black-hole-paradox-20230802/"/>
+        <updated>2023-08-02T14:51:35.000Z</updated>
+        <summary type="html"><![CDATA[Inside of a black hole, the two theoretical pillars of 20th-century physics appear to clash. Now a group of young physicists think they have resolved the conflict by appealing to the central pillar of the new century — the physics of quantum information.            
+The post Quantum Complexity Shows How to Escape Hawking’s Black Hole Paradox first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Charlie Wood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Got Accepted as an Author at freeCodeCamp]]></title>
+        <id>https://www.freecodecamp.org/news/how-i-got-accepted-as-an-author-at-freecodecamp/</id>
+        <link href="https://www.freecodecamp.org/news/how-i-got-accepted-as-an-author-at-freecodecamp/"/>
+        <updated>2023-08-01T21:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Life is full of surprises. Certain actions may lead to a chain of events and you find yourself in a completely different state.  One of my biggest achievements in 2021 was to get accepted as an author at freeCodeCamp. I have been writing articles on freeCodeCamp's community publication since]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Practical Guide to Regular Expressions – Learn RegEx with Real Life Examples]]></title>
+        <id>https://www.freecodecamp.org/news/practical-regex-guide-with-real-life-examples/</id>
+        <link href="https://www.freecodecamp.org/news/practical-regex-guide-with-real-life-examples/"/>
+        <updated>2023-08-01T20:42:27.000Z</updated>
+        <summary type="html"><![CDATA[What are Regular Expressions? Regular expressions, also known as regex, work by defining patterns that you can use to search for certain characters or words inside strings. Once you define the pattern you want to use, you can make edits, delete certain characters or words, substitute one thing for another,]]></summary>
+        <author>
+            <name>Tasnim Ferdous</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Two Numbers – The Machine Learning Way]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-add-two-numbers-using-machine-learning/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-two-numbers-using-machine-learning/"/>
+        <updated>2023-08-01T19:51:50.000Z</updated>
+        <summary type="html"><![CDATA[In the world of machine learning, we often encounter complex problems, from image recognition to natural language processing.  But let's take a step back and explore something more elementary yet equally intriguing: addition! Yes, you read that right – addition.  In this tutorial, we'll build a neural network]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[React Server Components – How and Why You Should Use Them in Your Code]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-react-server-components/</id>
@@ -1238,107 +1279,6 @@ The post Elliptic Curves Yield Their Secrets in a New Number System first appear
 The post Microbes Gained Photosynthesis Superpowers From a ‘Proton Pump’ first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Saugat Bolakhe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Answering all the big questions]]></title>
-        <id>https://golangweekly.com/issues/467</id>
-        <link href="https://golangweekly.com/issues/467"/>
-        <updated>2023-07-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​467 — July 4, 2023
-
-
-Unsub  |  Web Version
-
-
-
-Go Weekly
-
-
-
-
-  
-
-
-
-
-
-  
-  
-Frequently Asked Questions About Go — Did you know there's an official Go FAQ? It's been around forever, but somehow we’d not run into it it before.. 😅 It’s packed with interesting stuff and worth a flip through. Some of our favorites:
-
-
-What compiler technology is used to build the compilers?
-Is there an official Go style guide?
-Why does Go do garbage collection?
-What's the origin of the gopher mascot?
-The Go Team 
-
-
-  
-  
-How Grab Uses Its Own Go Module Proxy — The team behind Grab, a popular ‘super-app’ in Southeast Asia, relies on a large Go monorepo for its backend dev projects and they use the Athens Go module store and proxy to make their dev process smoother and, in particular, to reduce module fetching ti…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The "DomInteractive" event and a browser metrics deep dive (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/the-dominteractive-event-and-a-browser-metrics-deep-dive/</id>
-        <link href="https://www.stefanjudis.com/notes/the-dominteractive-event-and-a-browser-metrics-deep-dive/"/>
-        <updated>2023-07-03T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There are plenty of DOM events and web performance metrics to consider when monitoring your site's user experience. There's Load, the holy Speed Index or web vitals such as LCP (largest contentful paint).
-Harry just made a case for considering monitoring DomContentLoad, too! It's a good piece on browser events and how to get your hands on improving web performance.
-And while reading it, I discovered another browser event that I probably have known about but left my memory — DomInteractive.
-[DomInteractive] is the moment the browser has finished parsing all synchronous DOM work: your HTML and all blocking scripts it encountered on the way. Basically, the browser is now at the </html> tag. The browser is ready to run your deferred JavaScript.
-The DomInteractive event can come in handy when evaluating your JS payloads' execution time. But I won't repeat Harry's insights here, so head over to his blog. The post is a nice deep dive!
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helpful Linux Commands You Should Know]]></title>
-        <id>https://www.freecodecamp.org/news/helpful-linux-commands-you-should-know/</id>
-        <link href="https://www.freecodecamp.org/news/helpful-linux-commands-you-should-know/"/>
-        <updated>2023-07-03T20:36:49.000Z</updated>
-        <summary type="html"><![CDATA[Ever feel like you’ve mastered the basics of Linux and are ready to level up your skills? Well, good news – there are many powerful commands that you might not know about. In this article, I'll introduce you to some lesser-known Linux commands that will help you become a more]]></summary>
-        <author>
-            <name>Rahul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Authenticate Users in Next.js With NextAuth – App Router VS Pages Router]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-authenticate-users-with-nextauth-in-nextjs-app-and-pages-router/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-authenticate-users-with-nextauth-in-nextjs-app-and-pages-router/"/>
-        <updated>2023-07-03T19:32:37.000Z</updated>
-        <summary type="html"><![CDATA[Authentication is a key security feature of any application. But it can be complex to implement properly. This tutorial will show you an easy and secure way to handle authentication in your apps. It involves allowing trusted organizations (such as Google, Facebook, Github, and so on) to authenticate your users]]></summary>
-        <author>
-            <name>Njoku Samson Ebere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hot dog or not hot dog? Find out with Convolutional Neural Networks]]></title>
-        <id>https://www.freecodecamp.org/news/convolutional-neural-networks-course-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/convolutional-neural-networks-course-for-beginners/"/>
-        <updated>2023-07-03T15:13:35.000Z</updated>
-        <summary type="html"><![CDATA[Is this a hot dog? What about this image? We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about Convolutional Neural Networks. Then you will build a project that can determine if an image is a hot dog or not a hot dog! Kylie]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Git Rebase Handbook – A Definitive Guide to Rebasing]]></title>
-        <id>https://www.freecodecamp.org/news/git-rebase-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/git-rebase-handbook/"/>
-        <updated>2023-07-03T13:56:34.000Z</updated>
-        <summary type="html"><![CDATA[One of the most powerful tools a developer can have in their toolbox is git rebase. Yet it is notorious for being complex and misunderstood.  The truth is, if you understand what it actually does, git rebase is a very elegant, and straightforward tool to achieve so many different]]></summary>
-        <author>
-            <name>Omer Rosenbaum</name>
         </author>
     </entry>
 </feed>

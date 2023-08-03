@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-i-got-accepted-as-an-author-at-freecodecamp/",
+          "author": "Zaira Hira",
+          "description": "Life is full of surprises. Certain actions may lead to a chain of events and you find yourself in a completely different state.  One of my biggest achievements in 2021 was to get accepted as an author at freeCodeCamp. I have been writing articles on freeCodeCamp's community publication since",
+          "link": "https://www.freecodecamp.org/news/how-i-got-accepted-as-an-author-at-freecodecamp/",
+          "publishedOn": "2023-08-01T21:30:58.000Z",
+          "wordCount": 1530,
+          "title": "How I Got Accepted as an Author at freeCodeCamp",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/fcc-author-application.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/practical-regex-guide-with-real-life-examples/",
+          "author": "Tasnim Ferdous",
+          "description": "What are Regular Expressions? Regular expressions, also known as regex, work by defining patterns that you can use to search for certain characters or words inside strings. Once you define the pattern you want to use, you can make edits, delete certain characters or words, substitute one thing for another,",
+          "link": "https://www.freecodecamp.org/news/practical-regex-guide-with-real-life-examples/",
+          "publishedOn": "2023-08-01T20:42:27.000Z",
+          "wordCount": 4940,
+          "title": "A Practical Guide to Regular Expressions – Learn RegEx with Real Life Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/The-Most-concise-guide-with-real-life-examples.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-add-two-numbers-using-machine-learning/",
+          "author": "Arunachalam B",
+          "description": "In the world of machine learning, we often encounter complex problems, from image recognition to natural language processing.  But let's take a step back and explore something more elementary yet equally intriguing: addition! Yes, you read that right – addition.  In this tutorial, we'll build a neural network",
+          "link": "https://www.freecodecamp.org/news/how-to-add-two-numbers-using-machine-learning/",
+          "publishedOn": "2023-08-01T19:51:50.000Z",
+          "wordCount": 1636,
+          "title": "How to Add Two Numbers – The Machine Learning Way",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Sum-of-2-numbers-using-ML---Banner.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-use-react-server-components/",
           "author": "TAPAS ADHIKARY",
           "description": "In late 2020, the React team introduced the \"Zero-Bundle-Size React Server Components\" concept. Since then, the React developer community has been experimenting with and learning how to apply this forward-looking approach. React has changed how we think about building user interfaces. And the new model using React Server Components is",
@@ -740,46 +770,6 @@
           "wordCount": 1935,
           "title": "How to Set Up Firebase Cloud Messaging in Flutter Using Firebase",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/A-Complete-Guide-to-FCM-Integration-in-Flutter-Using-Firebase.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/helpful-linux-commands-you-should-know/",
-          "author": "Rahul",
-          "description": "Ever feel like you’ve mastered the basics of Linux and are ready to level up your skills? Well, good news – there are many powerful commands that you might not know about. In this article, I'll introduce you to some lesser-known Linux commands that will help you become a more",
-          "link": "https://www.freecodecamp.org/news/helpful-linux-commands-you-should-know/",
-          "publishedOn": "2023-07-03T20:36:49.000Z",
-          "wordCount": 3340,
-          "title": "Helpful Linux Commands You Should Know",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/gabriel-heinzer-4Mw7nkQDByk-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-authenticate-users-with-nextauth-in-nextjs-app-and-pages-router/",
-          "author": "Njoku Samson Ebere",
-          "description": "Authentication is a key security feature of any application. But it can be complex to implement properly. This tutorial will show you an easy and secure way to handle authentication in your apps. It involves allowing trusted organizations (such as Google, Facebook, Github, and so on) to authenticate your users",
-          "link": "https://www.freecodecamp.org/news/how-to-authenticate-users-with-nextauth-in-nextjs-app-and-pages-router/",
-          "publishedOn": "2023-07-03T19:32:37.000Z",
-          "wordCount": 3360,
-          "title": "How to Authenticate Users in Next.js With NextAuth – App Router VS Pages Router",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/pexels-isaque-pereira-394377--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/convolutional-neural-networks-course-for-beginners/",
-          "author": "Beau Carnes",
-          "description": "Is this a hot dog? What about this image? We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about Convolutional Neural Networks. Then you will build a project that can determine if an image is a hot dog or not a hot dog! Kylie",
-          "link": "https://www.freecodecamp.org/news/convolutional-neural-networks-course-for-beginners/",
-          "publishedOn": "2023-07-03T15:13:35.000Z",
-          "wordCount": 891,
-          "title": "Hot dog or not hot dog? Find out with Convolutional Neural Networks",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/hotdog.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-rebase-handbook/",
-          "author": "Omer Rosenbaum",
-          "description": "One of the most powerful tools a developer can have in their toolbox is git rebase. Yet it is notorious for being complex and misunderstood.  The truth is, if you understand what it actually does, git rebase is a very elegant, and straightforward tool to achieve so many different",
-          "link": "https://www.freecodecamp.org/news/git-rebase-handbook/",
-          "publishedOn": "2023-07-03T13:56:34.000Z",
-          "wordCount": 5418,
-          "title": "The Git Rebase Handbook – A Definitive Guide to Rebasing",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/The-Git-Rebase-Handbook-Book-Cover--1-.png"
         }
       ]
     },
@@ -788,6 +778,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=128507",
+          "author": "Charlie Wood",
+          "description": "Inside of a black hole, the two theoretical pillars of 20th-century physics appear to clash. Now a group of young physicists think they have resolved the conflict by appealing to the central pillar of the new century — the physics of quantum information.            \nThe post Quantum Complexity Shows How to Escape Hawking’s Black Hole Paradox first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/new-calculations-show-how-to-escape-hawkings-black-hole-paradox-20230802/",
+          "publishedOn": "2023-08-02T14:51:35.000Z",
+          "wordCount": 17717,
+          "title": "Quantum Complexity Shows How to Escape Hawking’s Black Hole Paradox",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/08/BlackholeComplexity-byKouzouSakai-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=128439",
           "author": "Rachel Crowell",
@@ -1061,16 +1061,6 @@
           "wordCount": 1180,
           "title": "Why do visually hidden CSS classes define a size of 1x1? (#note)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Why%20do%20visually%20hidden%20CSS%20classes%20define%20a%20size%20of%201x1%253F/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/the-dominteractive-event-and-a-browser-metrics-deep-dive/",
-          "author": null,
-          "description": "There are plenty of DOM events and web performance metrics to consider when monitoring your site's user experience. There's Load, the holy Speed Index or web vitals such as LCP (largest contentful paint).\nHarry just made a case for considering monitoring DomContentLoad, too! It's a good piece on browser events and how to get your hands on improving web performance.\nAnd while reading it, I discovered another browser event that I probably have known about but left my memory — DomInteractive.\n[DomInteractive] is the moment the browser has finished parsing all synchronous DOM work: your HTML and all blocking scripts it encountered on the way. Basically, the browser is now at the </html> tag. The browser is ready to run your deferred JavaScript.\nThe DomInteractive event can come in handy when evaluating your JS payloads' execution time. But I won't repeat Harry's insights here, so head over to his blog. The post is a nice deep dive!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/notes/the-dominteractive-event-and-a-browser-metrics-deep-dive/",
-          "publishedOn": "2023-07-03T22:00:00.000Z",
-          "wordCount": 1271,
-          "title": "The \"DomInteractive\" event and a browser metrics deep dive (#note)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:The%20%22DomInteractive%22%20event%20and%20a%20browser%20metrics%20deep%20dive/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
@@ -1117,16 +1107,6 @@
           "publishedOn": "2023-07-11T00:00:00.000Z",
           "wordCount": 882,
           "title": "Go, meet Python. Python, meet Go.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/467",
-          "author": null,
-          "description": "#​467 — July 4, 2023\n\n\nUnsub  |  Web Version\n\n\n\nGo Weekly\n\n\n\n\n  \n\n\n\n\n\n  \n  \nFrequently Asked Questions About Go — Did you know there's an official Go FAQ? It's been around forever, but somehow we’d not run into it it before.. 😅 It’s packed with interesting stuff and worth a flip through. Some of our favorites:\n\n\nWhat compiler technology is used to build the compilers?\nIs there an official Go style guide?\nWhy does Go do garbage collection?\nWhat's the origin of the gopher mascot?\nThe Go Team \n\n\n  \n  \nHow Grab Uses Its Own Go Module Proxy — The team behind Grab, a popular ‘super-app’ in Southeast Asia, relies on a large Go monorepo for its backend dev projects and they use the Athens Go module store and proxy to make their dev process smoother and, in particular, to reduce module fetching ti…",
-          "link": "https://golangweekly.com/issues/467",
-          "publishedOn": "2023-07-04T00:00:00.000Z",
-          "wordCount": 981,
-          "title": "Answering all the big questions",
           "imageUrl": null
         }
       ]
