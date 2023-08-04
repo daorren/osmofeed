@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/etl-vs-elt-which-data-integration-technique-should-you-choose/",
+          "author": "Bala Priya C",
+          "description": "These days, organizations are collecting large volumes of data from diverse sources. And their data teams need to harness the power of that data efficiently. Both ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform) pipelines play pivotal roles in integrating data from various sources into a centralized data repository.",
+          "link": "https://www.freecodecamp.org/news/etl-vs-elt-which-data-integration-technique-should-you-choose/",
+          "publishedOn": "2023-08-03T16:04:29.000Z",
+          "wordCount": 1702,
+          "title": "ETL vs ELT – Which Data Integration Technique Should You Choose?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/3.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-best-data-structure-for-storing-non-duplicate-items-in-python/",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you're coding in Python and you need to store non-duplicate items while ensuring each item is unique, which data structure should you use?  I'd recommend the set data structure. It's an unordered collection of unique elements, meaning it cannot contain any duplicate items.  When you add elements",
+          "link": "https://www.freecodecamp.org/news/the-best-data-structure-for-storing-non-duplicate-items-in-python/",
+          "publishedOn": "2023-08-03T15:08:47.000Z",
+          "wordCount": 1428,
+          "title": "The Best Data Structure For Storing Non-Duplicate Items In Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/The-Best-Data-Structure-For-Storing-Non-Duplicate-Items-In-Python.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/medical-ai-models-with-tensorflow-tutorial/",
+          "author": "Beau Carnes",
+          "description": "Machine learning is transforming many industries, including healthcare. Artificial intelligence is playing a pivotal role in saving lives and improving patient outcomes. And it is easier than you may think to start applying AI models to medical imaging. We just posted a course on the freeCodeCamp.org YouTube channel that will",
+          "link": "https://www.freecodecamp.org/news/medical-ai-models-with-tensorflow-tutorial/",
+          "publishedOn": "2023-08-03T13:20:47.000Z",
+          "wordCount": 906,
+          "title": "Medical AI Models with TensorFlow – Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/medicaltf2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/building-safe-ai-reducing-existential-risks-in-machine-learning/",
+          "author": "Beau Carnes",
+          "description": "As technology advances at an unprecedented pace, so does the development of Machine Learning (ML) and Artificial Intelligence (AI) systems. These systems have grown exponentially in size, capability, and are now being deployed in critical and high-stakes environments. As with any powerful technology, safety becomes an important concern. We just",
+          "link": "https://www.freecodecamp.org/news/building-safe-ai-reducing-existential-risks-in-machine-learning/",
+          "publishedOn": "2023-08-03T12:38:54.000Z",
+          "wordCount": 1039,
+          "title": "Building Safe AI – Reducing Existential Risks in Machine Learning",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/aisafety.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-whatsapp-dictionary-chatbot-using-twilio-fast-api-and-mongodb/",
+          "author": "Adejumo Ridwan Suleiman",
+          "description": "Sometimes you want to check what a word means while chatting with someone in WhatsApp. But you don't want to exit or minimize the app.  Well, how about building a WhatsApp bot that can give you the meaning of words you want to know? In this tutorial, you will",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-whatsapp-dictionary-chatbot-using-twilio-fast-api-and-mongodb/",
+          "publishedOn": "2023-08-02T23:47:11.000Z",
+          "wordCount": 3066,
+          "title": "How to Build a WhatsApp Dictionary Chatbot using Twilio, FastAPI, and MongoDB",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/WHATSAPP-DICTIONARY-CHATBOT.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-i-got-accepted-as-an-author-at-freecodecamp/",
           "author": "Zaira Hira",
           "description": "Life is full of surprises. Certain actions may lead to a chain of events and you find yourself in a completely different state.  One of my biggest achievements in 2021 was to get accepted as an author at freeCodeCamp. I have been writing articles on freeCodeCamp's community publication since",
@@ -778,6 +828,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=128639",
+          "author": "Saugat Bolakhe",
+          "description": "Genetic elements called Mavericks that have some viral features could be responsible for the large-scale smuggling of DNA between species.            \nThe post Selfish, Virus-Like DNA Can Carry Genes Between Species first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/selfish-virus-like-dna-can-carry-genes-between-species-20230803/",
+          "publishedOn": "2023-08-03T13:58:41.000Z",
+          "wordCount": 5700,
+          "title": "Selfish, Virus-Like DNA Can Carry Genes Between Species",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/08/MaverickGeneTransfer-byKristinaArmitage_srcRubenDuro_ScienceSource-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=128507",
           "author": "Charlie Wood",

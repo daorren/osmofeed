@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-03T01:18:37.532Z</updated>
+    <updated>2023-08-04T01:20:25.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ETL vs ELT – Which Data Integration Technique Should You Choose?]]></title>
+        <id>https://www.freecodecamp.org/news/etl-vs-elt-which-data-integration-technique-should-you-choose/</id>
+        <link href="https://www.freecodecamp.org/news/etl-vs-elt-which-data-integration-technique-should-you-choose/"/>
+        <updated>2023-08-03T16:04:29.000Z</updated>
+        <summary type="html"><![CDATA[These days, organizations are collecting large volumes of data from diverse sources. And their data teams need to harness the power of that data efficiently. Both ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform) pipelines play pivotal roles in integrating data from various sources into a centralized data repository.]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Data Structure For Storing Non-Duplicate Items In Python]]></title>
+        <id>https://www.freecodecamp.org/news/the-best-data-structure-for-storing-non-duplicate-items-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/the-best-data-structure-for-storing-non-duplicate-items-in-python/"/>
+        <updated>2023-08-03T15:08:47.000Z</updated>
+        <summary type="html"><![CDATA[If you're coding in Python and you need to store non-duplicate items while ensuring each item is unique, which data structure should you use?  I'd recommend the set data structure. It's an unordered collection of unique elements, meaning it cannot contain any duplicate items.  When you add elements]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selfish, Virus-Like DNA Can Carry Genes Between Species]]></title>
+        <id>https://www.quantamagazine.org/?p=128639</id>
+        <link href="https://www.quantamagazine.org/selfish-virus-like-dna-can-carry-genes-between-species-20230803/"/>
+        <updated>2023-08-03T13:58:41.000Z</updated>
+        <summary type="html"><![CDATA[Genetic elements called Mavericks that have some viral features could be responsible for the large-scale smuggling of DNA between species.            
+The post Selfish, Virus-Like DNA Can Carry Genes Between Species first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Saugat Bolakhe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Medical AI Models with TensorFlow – Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/medical-ai-models-with-tensorflow-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/medical-ai-models-with-tensorflow-tutorial/"/>
+        <updated>2023-08-03T13:20:47.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning is transforming many industries, including healthcare. Artificial intelligence is playing a pivotal role in saving lives and improving patient outcomes. And it is easier than you may think to start applying AI models to medical imaging. We just posted a course on the freeCodeCamp.org YouTube channel that will]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Safe AI – Reducing Existential Risks in Machine Learning]]></title>
+        <id>https://www.freecodecamp.org/news/building-safe-ai-reducing-existential-risks-in-machine-learning/</id>
+        <link href="https://www.freecodecamp.org/news/building-safe-ai-reducing-existential-risks-in-machine-learning/"/>
+        <updated>2023-08-03T12:38:54.000Z</updated>
+        <summary type="html"><![CDATA[As technology advances at an unprecedented pace, so does the development of Machine Learning (ML) and Artificial Intelligence (AI) systems. These systems have grown exponentially in size, capability, and are now being deployed in critical and high-stakes environments. As with any powerful technology, safety becomes an important concern. We just]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a WhatsApp Dictionary Chatbot using Twilio, FastAPI, and MongoDB]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-whatsapp-dictionary-chatbot-using-twilio-fast-api-and-mongodb/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-whatsapp-dictionary-chatbot-using-twilio-fast-api-and-mongodb/"/>
+        <updated>2023-08-02T23:47:11.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you want to check what a word means while chatting with someone in WhatsApp. But you don't want to exit or minimize the app.  Well, how about building a WhatsApp bot that can give you the meaning of words you want to know? In this tutorial, you will]]></summary>
+        <author>
+            <name>Adejumo Ridwan Suleiman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quantum Complexity Shows How to Escape Hawking’s Black Hole Paradox]]></title>
         <id>https://www.quantamagazine.org/?p=128507</id>
