@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-09T01:21:19.355Z</updated>
+    <updated>2023-08-10T01:21:11.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Minimum Stability In Composer?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-minimum-stability-in-composer/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-minimum-stability-in-composer/"/>
+        <updated>2023-08-09T17:31:49.000Z</updated>
+        <summary type="html"><![CDATA[Composer is a dependency management tool for projects running on PHP. PHP frameworks like Laravel, Symfony, and CodeIgniter use Composer to manage libraries and packages. In this tutorial, you’ll learn the following:  * Introduction to Composer.  * Minimum stability in Composer.  * Levels of stability, and the]]></summary>
+        <author>
+            <name>Sule-Balogun Olanrewaju Ganiu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn End-to-End Testing with Cypress for JavaScript Applications]]></title>
+        <id>https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/</id>
+        <link href="https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/"/>
+        <updated>2023-08-09T16:58:06.000Z</updated>
+        <summary type="html"><![CDATA[Ensuring the reliability and performance of your web applications is important. Testing is a key tool that will help with these things and more.  We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to use Cypress to create end-to-end tests for your JavaScript]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering JavaScript Functions for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/mastering-javascript-functions-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/mastering-javascript-functions-for-beginners/"/>
+        <updated>2023-08-09T16:40:40.000Z</updated>
+        <summary type="html"><![CDATA[Are you new to the world of programming? Are you eager to unlock the potential of JavaScript to create more readable and maintainable code? If so, we have an excellent course for you. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you everything you need]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy Your Websites and Apps – User-Friendly Deployment Strategies]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-deploy-websites-and-applications/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-websites-and-applications/"/>
+        <updated>2023-08-09T14:23:41.000Z</updated>
+        <summary type="html"><![CDATA[Deploying your application is a key aspect of software development. Typically, having an app on your local system isn't enough – it needs to be accessible online. So choosing a suitable and user-friendly hosting and deployment plan is vital. The key to making the right decision lies in understanding the]]></summary>
+        <author>
+            <name>Ijeoma Igboagu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Even Synthetic Life Forms With a Tiny Genome Can Evolve]]></title>
+        <id>https://www.quantamagazine.org/?p=128749</id>
+        <link href="https://www.quantamagazine.org/even-synthetic-life-forms-with-a-tiny-genome-can-evolve-20230809/"/>
+        <updated>2023-08-09T14:22:54.000Z</updated>
+        <summary type="html"><![CDATA[By watching “minimal” cells regain the fitness they lost, researchers are testing whether a genome can be too simple to evolve.            
+The post Even Synthetic Life Forms With a Tiny Genome Can Evolve first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Yasemin Saplakoglu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy a Django App on Render]]></title>
+        <id>https://www.freecodecamp.org/news/deploying-a-django-app-to-render/</id>
+        <link href="https://www.freecodecamp.org/news/deploying-a-django-app-to-render/"/>
+        <updated>2023-08-09T14:13:39.000Z</updated>
+        <summary type="html"><![CDATA[Render is a hosting platform that helps you deploy your apps easily. Whether you're building web servers, static websites, cron jobs, or containers, this tool can help you streamline the process. If you're a developer early in your career and you need to build a compelling CV, résumé, or portfolio,]]></summary>
+        <author>
+            <name>Sophia Iroegbu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Find Good First Issues On GitHub]]></title>
         <id>https://www.freecodecamp.org/news/how-to-find-good-first-issues-on-github/</id>
@@ -1228,99 +1289,6 @@ The post New Proof Threads the Needle on a Sticky Geometry Problem first appeare
         <summary type="html"><![CDATA[spaCy is an open-source software library for advanced natural language processing. It's written in the programming languages Python and Cython, and is published under the MIT license.  spaCy excels at large-scale information extraction tasks. It's written from the ground up in carefully memory-managed Cython. spaCy is designed to help]]></summary>
         <author>
             <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go, meet Python. Python, meet Go.]]></title>
-        <id>https://golangweekly.com/issues/468</id>
-        <link href="https://golangweekly.com/issues/468"/>
-        <updated>2023-07-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​468 — July 11, 2023
-
-
-Unsub  |  Web Version
-
-
-
-Go Weekly
-
-
-
-
-  
-
-
-
-
-
-  
-  
-Finding Bugs with Fuzzing — The final post in a series about fuzz testing in Go (you can start here) wraps things up with a practical example of finding and fixing a subtle bug in Go code using the process.
-John Arundel 
-
-
-  
-  
-Some First Impressions of Go 1.21 — The impending 1.21 release feels more significant than other recent releases due to the items mentioned in this post, including new slice/map API functions (including many that take advantage of generics), structured logging, and the (experimental, opt-in only for now) tweak to loop variable capture.
-Jason Fulghum (DoltHub) 
-
-
-  
-  
-Certificate-Based MFA, RBAC, and SSO with Teleport — Implement industry best practices for Kubernetes access with minimal c…]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Env Vars – How to Get an Environment Variable in Python]]></title>
-        <id>https://www.freecodecamp.org/news/python-env-vars-how-to-get-an-environment-variable-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/python-env-vars-how-to-get-an-environment-variable-in-python/"/>
-        <updated>2023-07-10T21:39:01.000Z</updated>
-        <summary type="html"><![CDATA[Environment variables play a crucial role in Python programming. They provide a way to store and access configuration values, system-specific information, and sensitive data.  In this article, we will explore various methods to retrieve environment variables in Python and discuss best practices for handling and managing them effectively. What]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use @Input() to Read Angular Route Parameters]]></title>
-        <id>https://www.freecodecamp.org/news/use-input-for-angular-route-parameters/</id>
-        <link href="https://www.freecodecamp.org/news/use-input-for-angular-route-parameters/"/>
-        <updated>2023-07-10T21:18:44.000Z</updated>
-        <summary type="html"><![CDATA[One of the new features in Angular v16 is automatic route parameter mapping using the @Input() decorator. What does that mean? Well, you may have code that reads route parameters using the Activated Route service, like this:   private route = inject(ActivatedRoute);   ngOnInit(): void {]]></summary>
-        <author>
-            <name>Deborah Kurata</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the JavaScript Fullscreen API]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-the-javascript-fullscreen-api/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-javascript-fullscreen-api/"/>
-        <updated>2023-07-10T21:02:06.000Z</updated>
-        <summary type="html"><![CDATA[The Fullscreen API is a browser web API that allows you to enable fullscreen mode for HTML elements. It saves you the stress of using CSS and JavaScript to implement fullscreen functionality. The use cases of fullscreen API are numerous because of the increased complexity of today's websites. In this]]></summary>
-        <author>
-            <name>Gideon Akinsanmi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the TypeScript satisfies Operator]]></title>
-        <id>https://www.freecodecamp.org/news/typescript-satisfies-operator/</id>
-        <link href="https://www.freecodecamp.org/news/typescript-satisfies-operator/"/>
-        <updated>2023-07-10T17:12:59.000Z</updated>
-        <summary type="html"><![CDATA[In TypeScript, the satisfies operator is a very useful tool. It was introduced in TypeScript v4.9 [https://github.com/microsoft/TypeScript/issues/50457] as an effective way to ensure type safety. The satisfies operator tells you whether a given type satisfies a particular condition – and it provides this information before running your code. Also, when]]></summary>
-        <author>
-            <name>Satyam Tripathi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Physicist Who’s Challenging the Quantum Orthodoxy]]></title>
-        <id>https://www.quantamagazine.org/?p=127672</id>
-        <link href="https://www.quantamagazine.org/the-physicist-who-bets-that-gravity-cant-be-quantized-20230710/"/>
-        <updated>2023-07-10T14:47:37.000Z</updated>
-        <summary type="html"><![CDATA[For decades, physicists have struggled to develop a quantum theory of gravity. But what if gravity — and space-time — are fundamentally classical?            
-The post The Physicist Who’s Challenging the Quantum Orthodoxy first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Thomas Lewton</name>
         </author>
     </entry>
 </feed>
