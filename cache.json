@@ -12,6 +12,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/tcp-and-udp-protocols/",
+          "author": "Tiago Monteiro",
+          "description": "Did you know that it's thanks to the TCP and UDP protocols that the internet works? But what do these acronyms mean? Well, TCP stands for Transmission Control Protocol and UDP stands for User Datagram Protocol Ok, but what are they? Why are they useful? Why is it thanks to",
+          "link": "https://www.freecodecamp.org/news/tcp-and-udp-protocols/",
+          "publishedOn": "2023-08-10T22:19:30.000Z",
+          "wordCount": 1118,
+          "title": "TCP and UDP Protocols – Explained in Plain English",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-pixabay-159304.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/wordpress-seo/",
+          "author": "Jim Campbell",
+          "description": "In today's digital landscape, where online presence is key to success, Search Engine Optimization (SEO) [/news/tag/seo/] plays a pivotal role in driving organic traffic to your website.  Among various content management systems, WordPress is a popular choice due to its user-friendly interface and flexibility.  But having a WordPress",
+          "link": "https://www.freecodecamp.org/news/wordpress-seo/",
+          "publishedOn": "2023-08-10T14:55:35.000Z",
+          "wordCount": 2755,
+          "title": "How to Optimize Your WordPress Site for Search Engine Visibility",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/seo-1.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/harvard-cs50s-ai-python-course/",
+          "author": "Beau Carnes",
+          "description": "Harvard University's CS50 is one of the most popular beginner computer science courses in the world. And Harvard also has versions of CS50 with different focusses, all perfect for beginners. We just released Harvard CS50's Introduction to Artificial Intelligence with Python on the freeCodeCamp.org YouTube channel. If you are new",
+          "link": "https://www.freecodecamp.org/news/harvard-cs50s-ai-python-course/",
+          "publishedOn": "2023-08-10T14:36:21.000Z",
+          "wordCount": 1070,
+          "title": "Harvard CS50's Introduction to Artificial Intelligence with Python – Free University Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/harvardai.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/tips-for-speaking-at-tech-conferences/",
+          "author": "Shruti Kapoor",
+          "description": "Have you ever wanted to share your expertise at conferences, but something inside you is holding you back?  Perhaps it's the fear of speaking in front of a large audience, the worry of forgetting your words, or the challenge of finding the perfect topic to discuss. You're not alone",
+          "link": "https://www.freecodecamp.org/news/tips-for-speaking-at-tech-conferences/",
+          "publishedOn": "2023-08-10T14:24:51.000Z",
+          "wordCount": 3231,
+          "title": "How to Deliver Powerful Tech Conference Talks",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Thumbnail1_SK.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/what-is-minimum-stability-in-composer/",
           "author": "Sule-Balogun Olanrewaju Ganiu",
           "description": "Composer is a dependency management tool for projects running on PHP. PHP frameworks like Laravel, Symfony, and CodeIgniter use Composer to manage libraries and packages. In this tutorial, you’ll learn the following:  * Introduction to Composer.  * Minimum stability in Composer.  * Levels of stability, and the",
@@ -750,26 +790,6 @@
           "wordCount": 1564,
           "title": "Binary Search – Algorithm and Time Complexity Explained",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/cover-img-search.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers/",
-          "author": "Yazdun Fadali",
-          "description": "In today's JavaScript landscape, TypeScript is gaining more and more popularity. And React developers are starting to use it more and more. If you're a React developer looking to explore TypeScript or enhance your skills with it, this handbook is just for you. I'll guide you through using TypeScript in",
-          "link": "https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers/",
-          "publishedOn": "2023-07-11T16:05:08.000Z",
-          "wordCount": 8744,
-          "title": "TypeScript Handbook for React Developers – How to Build a Type-Safe Todo App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/TypeScript-Handbook-for-React-Developers-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-fine-tune-spacy-for-nlp-use-cases/",
-          "author": "Arunachalam B",
-          "description": "spaCy is an open-source software library for advanced natural language processing. It's written in the programming languages Python and Cython, and is published under the MIT license.  spaCy excels at large-scale information extraction tasks. It's written from the ground up in carefully memory-managed Cython. spaCy is designed to help",
-          "link": "https://www.freecodecamp.org/news/how-to-fine-tune-spacy-for-nlp-use-cases/",
-          "publishedOn": "2023-07-11T14:11:02.000Z",
-          "wordCount": 2015,
-          "title": "How to Fine-Tune spaCy Models for NLP Use Cases",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Fine-tune-Spacy---Banner.png"
         }
       ]
     },
@@ -778,6 +798,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=128804",
+          "author": "Max G. Levy",
+          "description": "Mathematicians thought they were on the cusp of proving a conjecture about the ancient structures known as Apollonian circles. But a summer project would lead to its downfall.            \nThe post Two Students Unravel a Widely Believed Math Conjecture first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/two-students-unravel-a-widely-believed-math-conjecture-20230810/",
+          "publishedOn": "2023-08-10T14:49:03.000Z",
+          "wordCount": 7960,
+          "title": "Two Students Unravel a Widely Believed Math Conjecture",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/08/ApollonianCircles-bySamuelVelasco-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=128749",
           "author": "Yasemin Saplakoglu",
@@ -967,16 +997,6 @@
           "wordCount": 10183,
           "title": "In a Fierce Desert, Microbe ‘Crusts’ Show How Life Tamed the Land",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/07/Biogrits-byZackSavitsky-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=127713",
-          "author": "Jordana Cepelewicz",
-          "description": "A new proof marks major progress toward solving the Kakeya conjecture, a deceptively simple question that underpins a tower of conjectures.            \nThe post New Proof Threads the Needle on a Sticky Geometry Problem first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/new-proof-threads-the-needle-on-a-sticky-geometry-problem-20230711/",
-          "publishedOn": "2023-07-11T14:44:31.000Z",
-          "wordCount": 8080,
-          "title": "New Proof Threads the Needle on a Sticky Geometry Problem",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/07/StickyNeedle-bySamuelVelasco-Social.webp"
         }
       ]
     },
@@ -1002,6 +1022,26 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/notes/how-to-show-typescript-type-annotations-in-code-snippets/",
+          "author": null,
+          "description": "Sometimes, I blog about TypeScript, and I always wondered if it's possible to render type annotations in syntax-highlighted code snippets on this blog.\nPrevious Google searches didn't help me, so here's another contribution to the internet: I finally found a project that allows rendering type annotations in code snippets.\nSay hello to \"Shiki Twoslash\"\n\nTwoslash allows you to add TypeScript type information to your code snippets. In their words, Twoslash is:\nmarkdown code samples powered by the syntax engine of Visual Studio Code\nmixed with the TypeScript compiler’s information.\nAnd that's pretty incredible, because it's also able to validate your code and show possible Typescript errors.\nts\n\ninterface Person {\n  name: string\n}\n \ninterface Person {\n  age: number\n}\n \n// `Person` is now merged and expects `name` and `age`\nconst p: Person = {\nProperty 'name' is missing in type '{ age: number; }' but required in type 'Person'.2741Property 'name' is missing in type '{ age: number; }' but required in type 'Person'.\n  age: 99\n}\n\n\nYou can let Twoslash do its job; if your snippets aren't correct, it'll complain and error out (unless you tell it that you expect an error like above).\nAnd because it uses the VS Code type checker, it works for JavaScript snippets, too!\njs\n\nconst a = {\n  joo: 'test'\n};\n \nconsole.log(a.foo);\nProperty 'foo' does not exist on type '{ joo: string; }'.2339Property 'foo' does not exist on type '{ joo: string; }'.\n\nAnd then, you can use some fancy markdown syntax to inspect variables and even show possible auto-completion values.\njs\n\nconst a = {\n  test: 'test'\n  testTwo: 'test'\n  testThree: 'test'\n};\n \nconsole.log(a.te\n                \ntest\ntestThree\ntestTwo\n\n \n \nconsole.log(a);\n           \nconst a: {\n    test: string;\n    testTwo: string;\n    testThree: string;\n}\n\n\nWild! 🤯\nI'm not entirely convinced I'll use Twoslash for every code snippet on the blog, but for TypeScript snippets — heck yeah!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/notes/how-to-show-typescript-type-annotations-in-code-snippets/",
+          "publishedOn": "2023-08-09T22:00:00.000Z",
+          "wordCount": 1513,
+          "title": "How to show TypeScript type annotations in code snippets (#note)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20show%20TypeScript%20type%20annotations%20in%20code%20snippets/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
+          "id": "https://www.stefanjudis.com/snippets/copy-array-and-replace-one-element-at-index-javascript/",
+          "author": null,
+          "description": "How do you replace an array element at a given index?\nIs this a trick question? Not really.\nconst numbers = [1, 2, 3, 4, 5];\nnumbers[1] = 'new value';\nconsole.log(numbers); // [1, 'new value', 3, 4, 5]\n\nBut when you're using React or any framework betting on immutability, just changing an array entry will lead to subtle bugs because the array will still be the same object with the same reference. In an immutable world, data updates always have to result in a new object reference.\nHow can you change an array element via its index and spit out a new array in the same go then? A 12-years-old Stack Overflow question with 1.5m views has tons of advice, but because it's so old and has hundreds of upvotes, it's not showing the most modern solution in the top area.\nLet's have a quick look at creat…",
+          "link": "https://www.stefanjudis.com/snippets/copy-array-and-replace-one-element-at-index-javascript/",
+          "publishedOn": "2023-08-09T22:00:00.000Z",
+          "wordCount": 1697,
+          "title": "Copy an array and replace one element at a specific index with modern JavaScript (#snippet)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Copy%20an%20array%20and%20replace%20one%20element%20at%20a%20specific%20index%20with%20modern%20JavaScript/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-108/",
           "author": null,
