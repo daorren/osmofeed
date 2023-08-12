@@ -12,6 +12,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-use-wordpress-cli/",
+          "author": "Marco Venturi",
+          "description": "In the world of website development and content management, efficiency and automation are key. The WordPress Command Line Interface – or WP-CLI – is a powerful tool that can help you streamlines tasks and manage WordPress websites more effectively.  This article provides an overview of WP-CLI, focusing on its",
+          "link": "https://www.freecodecamp.org/news/how-to-use-wordpress-cli/",
+          "publishedOn": "2023-08-11T21:37:41.000Z",
+          "wordCount": 1526,
+          "title": "How to Use the WordPress Command Line Interface – WP-CLI Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/pexels-pixabay-207580.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-meteor-effect-with-react-and-tailwindcss/",
+          "author": "Manu Arora",
+          "description": "A while ago, I saw a post on Twitter that had some fancy beams of light emanating out from behind the main image. It looked like a meteor was blazing softly behind the card, and I thought it was a really cool UI component to have in a project.",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-meteor-effect-with-react-and-tailwindcss/",
+          "publishedOn": "2023-08-11T16:14:27.000Z",
+          "wordCount": 1989,
+          "title": "How to Create a Meteor Effect with React and TailwindCSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Screenshot-2023-08-11-at-9.20.20-PM.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/tcp-and-udp-protocols/",
           "author": "Tiago Monteiro",
           "description": "Did you know that it's thanks to the TCP and UDP protocols that the internet works? But what do these acronyms mean? Well, TCP stands for Transmission Control Protocol and UDP stands for User Datagram Protocol Ok, but what are they? Why are they useful? Why is it thanks to",
@@ -730,66 +750,6 @@
           "wordCount": 1007,
           "title": "Master API Testing with Postman",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/postman.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/freecodecamp-podcast-season-2-developer-interviews/",
-          "author": "Quincy Larson",
-          "description": "We're bringing you a new season of insights from developers, entrepreneurs, and ambitious people getting into tech. I'm Quincy Larson, the teacher who founded freeCodeCamp.org. And I've been running around Dallas, San Francisco, and New York City interviewing fascinating people. And I'm excited to share these interviews with you. It's",
-          "link": "https://www.freecodecamp.org/news/freecodecamp-podcast-season-2-developer-interviews/",
-          "publishedOn": "2023-07-12T23:21:41.000Z",
-          "wordCount": 1234,
-          "title": "The freeCodeCamp Podcast Season #2: Quincy's Back to Interview Devs",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/venti-views-R64qgQ6rr_o-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-arrays-work-in-python/",
-          "author": "David Fagbuyiro",
-          "description": "In this tutorial, you'll learn what an array is in Python. You'll also learn some possible ways to add elements to an existing array.  In Python, there is no need to use a specific data type for arrays. You can simply use a list with all the attributes of",
-          "link": "https://www.freecodecamp.org/news/how-arrays-work-in-python/",
-          "publishedOn": "2023-07-12T22:19:23.000Z",
-          "wordCount": 2119,
-          "title": "How Arrays Work in Python – Array Methods Explained with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/pexels-andreas-fickl-4405941.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/automating-docker-image-builds-and-publishing-with-pack-cli/",
-          "author": "Destiny Erhabor",
-          "description": "Building and publishing Docker images is a crucial aspect of modern software development. The traditional approach often involves writing complex Dockerfiles and managing dependencies. But in this tutorial post, I'll show you a simpler way that uses the Pack CLI. PackCLI leverages Cloud Native Buildpacks to transform your application source",
-          "link": "https://www.freecodecamp.org/news/automating-docker-image-builds-and-publishing-with-pack-cli/",
-          "publishedOn": "2023-07-12T21:55:00.000Z",
-          "wordCount": 1667,
-          "title": "How to Automate Docker Image Building and Publishing with Pack CLI and GitHub Actions",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/pexels-jiyoung-kim-4513940.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/",
-          "author": "Emmanuel Ohans",
-          "description": "Astro is a new UI framework that's designed for speed. And if you want to learn how to use it, you've come to the right place.  Table of Contents   1.  Introduction   2.  Chapter 1: Build your first Astro Application   3.",
-          "link": "https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/",
-          "publishedOn": "2023-07-12T20:58:29.000Z",
-          "wordCount": 54606,
-          "title": "How to Use the Astro UI Framework [Full Book]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/large-heading.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/",
-          "author": "Hikmah Olawore",
-          "description": "Natural Language Processing (NLP) is a branch of Machine learning (ML) that is focused on making computers understand the human language. It is used to create language models, language translation apps like Google translate, and virtual assistants, among other things. This article takes you through one of the most basic",
-          "link": "https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/",
-          "publishedOn": "2023-07-12T14:31:24.000Z",
-          "wordCount": 2054,
-          "title": "NLP Tutorial – Text Pre-Processing Techniques for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/NLP-6.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/binary-search-algorithm-and-time-complexity-explained/",
-          "author": "Bala Priya C",
-          "description": "When working with arrays, you’ll often have to search through them to check if they contain a target element. You can always run a sequential search—scanning the array from the beginning to the end—on the array. But if the array is sorted, running the binary search algorithm is much more",
-          "link": "https://www.freecodecamp.org/news/binary-search-algorithm-and-time-complexity-explained/",
-          "publishedOn": "2023-07-12T14:26:58.000Z",
-          "wordCount": 1564,
-          "title": "Binary Search – Algorithm and Time Complexity Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/cover-img-search.png"
         }
       ]
     },
@@ -798,6 +758,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=128853",
+          "author": "Allison Parshall",
+          "description": "New results break with decades of conventional wisdom for the gradient descent algorithm.            \nThe post Risky Giant Steps Can Solve Optimization Problems Faster first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/risky-giant-steps-can-solve-optimization-problems-faster-20230811/",
+          "publishedOn": "2023-08-11T13:49:26.000Z",
+          "wordCount": 5317,
+          "title": "Risky Giant Steps Can Solve Optimization Problems Faster",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/08/GradientDescent-byAllisonLi-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=128804",
           "author": "Max G. Levy",
@@ -977,26 +947,6 @@
           "wordCount": 5392,
           "title": "How to Build a Big Prime Number",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/07/PrimesAlgorithm-byKristinaArmitage-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=127830",
-          "author": "Steven Strogatz",
-          "description": "Abnormal waves of electrical activity can cause a heart’s muscle cells to beat out of sync. In this episode, Flavio Fenton, an expert in cardiac dynamics, talks with Steve Strogatz about ways to treat heart arrhythmias without resorting to painful defibrillators.            \nThe post Can Math and Physics Save an Arrhythmic Heart? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/can-math-and-physics-save-an-arrhythmic-heart-20230712/",
-          "publishedOn": "2023-07-12T18:32:07.000Z",
-          "wordCount": 21642,
-          "title": "Can Math and Physics Save an Arrhythmic Heart?",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/07/JoY-S2E11-Arrythmia-byPeterGreenwood-Social-LOGO-v2.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=127769",
-          "author": "Zack Savitsky",
-          "description": "Extreme microorganisms carpeting the Atacama Desert in Chile illuminate how life might have first taken hold on Earth’s surface.            \nThe post In a Fierce Desert, Microbe ‘Crusts’ Show How Life Tamed the Land first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/in-a-fierce-desert-microbe-crusts-show-how-life-tamed-the-land-20230712/",
-          "publishedOn": "2023-07-12T14:55:39.000Z",
-          "wordCount": 10183,
-          "title": "In a Fierce Desert, Microbe ‘Crusts’ Show How Life Tamed the Land",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/07/Biogrits-byZackSavitsky-Social.webp"
         }
       ]
     },
