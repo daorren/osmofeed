@@ -12,6 +12,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/difference-between-default-and-named-exports-in-javascript/",
+          "author": "Yazdun Fadali",
+          "description": "JavaScript is one of the most popular programming languages among web developers. And it offers multiple ways to organize and share code between different files.  When working with modules, you might come across two common ways of exporting: Default exports and Named exports.  Understanding the difference between these",
+          "link": "https://www.freecodecamp.org/news/difference-between-default-and-named-exports-in-javascript/",
+          "publishedOn": "2023-08-14T16:36:15.000Z",
+          "wordCount": 3290,
+          "title": "What's the Difference Between Default and Named Exports in JavaScript?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Frame-6-2.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-become-a-microsoft-learn-student-ambassador/",
+          "author": "Salim Oyinlola",
+          "description": "The Microsoft Learn Student Ambassadors [https://mvp.microsoft.com/studentambassadors] program is a student-focused program designed to empower students to become advocates and leaders in the tech ecosystem.  Microsoft Learn Student Ambassadors are student leaders who collaborate with Microsoft to help fellow students learn about technology and engage with various Microsoft technologies and",
+          "link": "https://www.freecodecamp.org/news/how-to-become-a-microsoft-learn-student-ambassador/",
+          "publishedOn": "2023-08-14T16:11:33.000Z",
+          "wordCount": 2238,
+          "title": "How to Become a Microsoft Learn Student Ambassador",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/asdfghjkl-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-operators/",
+          "author": "Nathan Sebhastian",
+          "description": "JavaScript has many operators that you can use to perform operations on values and variables (also called operands) Based on the types of operations these JS operators perform, we can divide them up into seven groups:  1. Arithmetic Operators  2. Assignment Operators  3. Comparison Operators  4.",
+          "link": "https://www.freecodecamp.org/news/javascript-operators/",
+          "publishedOn": "2023-08-14T15:44:58.000Z",
+          "wordCount": 4006,
+          "title": "Learn JavaScript Operators – Logical, Comparison, Ternary, and More JS Operators With Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/JS-EVERY-OPERATOR.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/stable-diffusion-crash-course/",
+          "author": "Lynn Zheng",
+          "description": "Learn how to make AI Art with Stable Diffusion",
+          "link": "https://www.freecodecamp.org/news/stable-diffusion-crash-course/",
+          "publishedOn": "2023-08-14T13:35:55.000Z",
+          "wordCount": 1034,
+          "title": "How to Make AI Art with Stable Diffusion",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/stableif.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-use-wordpress-cli/",
           "author": "Marco Venturi",
           "description": "In the world of website development and content management, efficiency and automation are key. The WordPress Command Line Interface – or WP-CLI – is a powerful tool that can help you streamlines tasks and manage WordPress websites more effectively.  This article provides an overview of WP-CLI, focusing on its",
@@ -668,6 +708,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=128888",
+          "author": "Charlie Wood",
+          "description": "Giant black holes were supposed to be bit players in the early cosmic story. But recent James Webb Space Telescope observations are finding an unexpected abundance of the beasts.            \nThe post JWST Spots Giant Black Holes All Over the Early Universe first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/jwst-spots-giant-black-holes-all-over-the-early-universe-20230814/",
+          "publishedOn": "2023-08-14T14:29:48.000Z",
+          "wordCount": 10204,
+          "title": "JWST Spots Giant Black Holes All Over the Early Universe",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/08/AGNs-NASA-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=128853",
           "author": "Allison Parshall",
