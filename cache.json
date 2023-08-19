@@ -640,36 +640,6 @@
           "wordCount": 1041,
           "title": "Learn Full Stack Development with Next.js and Supabase by Building a Twitter Clone.",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/twitter-clone.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/100-days-of-oss-challenge/",
-          "author": "BekahHW",
-          "description": "I made my first pull request (PR) to an open-source project six years ago. Technically, it was pre-work for a bootcamp that I would eventually complete, but it started my journey into open source.  It wasn’t until a couple of years later, after completing my bootcamp, that I saw",
-          "link": "https://www.freecodecamp.org/news/100-days-of-oss-challenge/",
-          "publishedOn": "2023-07-19T20:25:04.000Z",
-          "wordCount": 1551,
-          "title": "How to Join the #100daysofOSS Challenge and Embrace the Power of Open Source",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/OSS-pizza-169.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/convert-multiple-images-into-a-single-pdf-file-with-python/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "Creating projects is the best way to learn a programming language. It is fun and it's a creative way to learn new things.  Whenever I try to learn a new language or new technology, I try to create a project, whether it's a small byte-sized or big project.",
-          "link": "https://www.freecodecamp.org/news/convert-multiple-images-into-a-single-pdf-file-with-python/",
-          "publishedOn": "2023-07-19T20:13:36.000Z",
-          "wordCount": 3051,
-          "title": "Python Project – How to Convert Multiple Images into a Single PDF File",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/alvaro-reyes-fSWOVc3e06w-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/manipulate-html-and-css-using-javascript/",
-          "author": "David Clinton",
-          "description": "In JavaScript, the HTML DOM (Document Object Model) represents the structure and content of an HTML document as a tree-like structure. In it, each element, attribute, and text node in the HTML document is represented as a node in the DOM tree.  In this article you're going to learn",
-          "link": "https://www.freecodecamp.org/news/manipulate-html-and-css-using-javascript/",
-          "publishedOn": "2023-07-19T18:00:02.000Z",
-          "wordCount": 1639,
-          "title": "How to Manipulate HTML and CSS Using JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/pexels-pixabay-276205.jpg"
         }
       ]
     },
@@ -867,16 +837,6 @@
           "wordCount": 7808,
           "title": "To Move Fast, Quantum Maze Solvers Must Forget the Past",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/07/PowerOfForgetting-byTommyParker-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=128000",
-          "author": "Anna Kramer",
-          "description": "A new result shows how much of the plane can be colored by points that are never exactly one unit apart.            \nThe post Mathematicians Solve Long-Standing Coloring Problem first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/mathematicians-break-bounds-in-coloring-problem-20230719/",
-          "publishedOn": "2023-07-19T14:11:19.000Z",
-          "wordCount": 4927,
-          "title": "Mathematicians Solve Long-Standing Coloring Problem",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/07/UnitDiskDensity-byAllisonLi-Social.webp"
         }
       ]
     },
@@ -902,6 +862,26 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/how-to-use-headless-chrome-in-serverless-functions/",
+          "author": null,
+          "description": "I collect online web development tools on Tiny Helpers, and some parts of the site are automatic tool screenshots.\nThe site is deployed on Vercel, and screenshots are taken by a serverless function endpoint that spins up headless Chrome to take a picture. Here's an example screenshot URL: https://tiny-helpers.dev/api/screenshot/?url=https://css.land/lch/&ratio=1.\nAnd this setup worked great until Vercel announced Node 14 end of life. And with Node 16 or 18 my initial setup with puppeteer and chrome-aws-lambda broke. Google searches weren't very helpful, so let me share how I got it to run again.\nUsing headless Chrome in serverless functions and Node 16+\n\nAfter switching to Node 16 and later version 18, I was hitting the Vercel function bundle limit. I don't know why the exact same setup gr…",
+          "link": "https://www.stefanjudis.com/blog/how-to-use-headless-chrome-in-serverless-functions/",
+          "publishedOn": "2023-08-17T22:00:00.000Z",
+          "wordCount": 1734,
+          "title": "How to use headless Chrome in serverless functions with a 50MB limit (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20use%20headless%20Chrome%20in%20serverless%20functions%20with%20a%2050MB%20limit/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
+          "id": "https://www.stefanjudis.com/snippets/how-to-remove-all-event-listeners-from-a-dom-element/",
+          "author": null,
+          "description": "Removing event listeners from DOM elements is pretty annoying because you must have the registered event handler function at hand.\nfunction handleEvent() { /* ... */ }\n\n// add an event listener\ndocument.querySelector('button')\n  .addEventListener('click', handleEvent);\n\n// to remove an event listener, the event type ('click') \n// and the function ('handleEvent') have to match \n// the `addEventListener` call\ndocument.querySelector('button')\n  .removeEventListener('click', handleEvent);\n\nWith somewhat modern JavaScript, you could also use AbortSignals or the once config option to remove event listeners, but what if it isn't your source code that's adding event listeners? What if there's one annoying 3rd party script messing with your events and you have to keep it?\nToday I learned about a nuclear option to remove all existing event listeners.\nconst button = document.querySelector('button);\n\n// replace the element with a copy of itself\n// and nuke all the event listeners\nbutton.replaceWith(button.cloneNode(true));\n\nBoom! And that's it — replacing a DOM element with a cloned version of itself removes all previously registered event handlers. Pretty handy!\nIf you want to see this pattern in action, here we go. 👇\n[Interactive component: visit the article to see it...]\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/snippets/how-to-remove-all-event-listeners-from-a-dom-element/",
+          "publishedOn": "2023-08-17T22:00:00.000Z",
+          "wordCount": 1516,
+          "title": "How to remove all event listeners from a DOM element (#snippet)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20remove%20all%20event%20listeners%20from%20a%20DOM%20element/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/notes/how-to-show-typescript-type-annotations-in-code-snippets/",
           "author": null,

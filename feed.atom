@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-18T01:06:14.242Z</updated>
+    <updated>2023-08-19T01:04:28.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to use headless Chrome in serverless functions with a 50MB limit (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/how-to-use-headless-chrome-in-serverless-functions/</id>
+        <link href="https://www.stefanjudis.com/blog/how-to-use-headless-chrome-in-serverless-functions/"/>
+        <updated>2023-08-17T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I collect online web development tools on Tiny Helpers, and some parts of the site are automatic tool screenshots.
+The site is deployed on Vercel, and screenshots are taken by a serverless function endpoint that spins up headless Chrome to take a picture. Here's an example screenshot URL: https://tiny-helpers.dev/api/screenshot/?url=https://css.land/lch/&ratio=1.
+And this setup worked great until Vercel announced Node 14 end of life. And with Node 16 or 18 my initial setup with puppeteer and chrome-aws-lambda broke. Google searches weren't very helpful, so let me share how I got it to run again.
+Using headless Chrome in serverless functions and Node 16+
+
+After switching to Node 16 and later version 18, I was hitting the Vercel function bundle limit. I don't know why the exact same setup gr…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to remove all event listeners from a DOM element (#snippet)]]></title>
+        <id>https://www.stefanjudis.com/snippets/how-to-remove-all-event-listeners-from-a-dom-element/</id>
+        <link href="https://www.stefanjudis.com/snippets/how-to-remove-all-event-listeners-from-a-dom-element/"/>
+        <updated>2023-08-17T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Removing event listeners from DOM elements is pretty annoying because you must have the registered event handler function at hand.
+function handleEvent() { /* ... */ }
+
+// add an event listener
+document.querySelector('button')
+  .addEventListener('click', handleEvent);
+
+// to remove an event listener, the event type ('click') 
+// and the function ('handleEvent') have to match 
+// the `addEventListener` call
+document.querySelector('button')
+  .removeEventListener('click', handleEvent);
+
+With somewhat modern JavaScript, you could also use AbortSignals or the once config option to remove event listeners, but what if it isn't your source code that's adding event listeners? What if there's one annoying 3rd party script messing with your events and you have to keep it?
+Today I learned about a nuclear option to remove all existing event listeners.
+const button = document.querySelector('button);
+
+// replace the element with a copy of itself
+// and nuke all the event listeners
+button.replaceWith(button.cloneNode(true));
+
+Boom! And that's it — replacing a DOM element with a cloned version of itself removes all previously registered event handlers. Pretty handy!
+If you want to see this pattern in action, here we go. 👇
+[Interactive component: visit the article to see it...]
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is College Still Worth it? Tips from my 20 Years in Adult Education]]></title>
         <id>https://www.freecodecamp.org/news/is-college-worth-it/</id>
@@ -1208,47 +1261,6 @@ That's a nice little fun fact! 😅 Thanks Manuel!
 The post To Move Fast, Quantum Maze Solvers Must Forget the Past first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Ben Brubaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Join the #100daysofOSS Challenge and Embrace the Power of Open Source]]></title>
-        <id>https://www.freecodecamp.org/news/100-days-of-oss-challenge/</id>
-        <link href="https://www.freecodecamp.org/news/100-days-of-oss-challenge/"/>
-        <updated>2023-07-19T20:25:04.000Z</updated>
-        <summary type="html"><![CDATA[I made my first pull request (PR) to an open-source project six years ago. Technically, it was pre-work for a bootcamp that I would eventually complete, but it started my journey into open source.  It wasn’t until a couple of years later, after completing my bootcamp, that I saw]]></summary>
-        <author>
-            <name>BekahHW</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Project – How to Convert Multiple Images into a Single PDF File]]></title>
-        <id>https://www.freecodecamp.org/news/convert-multiple-images-into-a-single-pdf-file-with-python/</id>
-        <link href="https://www.freecodecamp.org/news/convert-multiple-images-into-a-single-pdf-file-with-python/"/>
-        <updated>2023-07-19T20:13:36.000Z</updated>
-        <summary type="html"><![CDATA[Creating projects is the best way to learn a programming language. It is fun and it's a creative way to learn new things.  Whenever I try to learn a new language or new technology, I try to create a project, whether it's a small byte-sized or big project.]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Manipulate HTML and CSS Using JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/manipulate-html-and-css-using-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/manipulate-html-and-css-using-javascript/"/>
-        <updated>2023-07-19T18:00:02.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, the HTML DOM (Document Object Model) represents the structure and content of an HTML document as a tree-like structure. In it, each element, attribute, and text node in the HTML document is represented as a node in the DOM tree.  In this article you're going to learn]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematicians Solve Long-Standing Coloring Problem]]></title>
-        <id>https://www.quantamagazine.org/?p=128000</id>
-        <link href="https://www.quantamagazine.org/mathematicians-break-bounds-in-coloring-problem-20230719/"/>
-        <updated>2023-07-19T14:11:19.000Z</updated>
-        <summary type="html"><![CDATA[A new result shows how much of the plane can be colored by points that are never exactly one unit apart.            
-The post Mathematicians Solve Long-Standing Coloring Problem first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Anna Kramer</name>
         </author>
     </entry>
 </feed>
