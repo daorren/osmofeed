@@ -620,26 +620,6 @@
           "wordCount": 2563,
           "title": "How to Deploy a Next.js App with Custom Domain on AWS Using SST",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/AWS---SST---Banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-chat-gpt-formulas-in-google-sheets/",
-          "author": "Nibesh Khadka",
-          "description": "Welcome to this tutorial on how to integrate ChatGPT with Google Spreadsheets using the GPT API and Google Apps Script. We will create two custom formulas, GPT_SUMMARY and GPT_SIMPLIFY. You can use GPT_SUMMARY to summarize a large passage or text into a few bullet points for easy reading. And you",
-          "link": "https://www.freecodecamp.org/news/create-chat-gpt-formulas-in-google-sheets/",
-          "publishedOn": "2023-07-20T16:06:35.000Z",
-          "wordCount": 2854,
-          "title": "How to Integrate ChatGPT with Google Sheets Using Google Apps Script",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/GPT-IN-SHeets.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-full-stack-development-with-next-js-and-supabase-by-building-a-twitter-clone/",
-          "author": "Beau Carnes",
-          "description": "Turn this: Into this: We just launched a course on the freeCodeCamp.org YouTube channel that will help you master full stack development with Next.js 13 and Supabase by building a Twitter clone. The course also uses Tailwind CSS and TypeScript. This intensive course has been expertly developed by Pranjal Soni,",
-          "link": "https://www.freecodecamp.org/news/learn-full-stack-development-with-next-js-and-supabase-by-building-a-twitter-clone/",
-          "publishedOn": "2023-07-20T15:49:43.000Z",
-          "wordCount": 1041,
-          "title": "Learn Full Stack Development with Next.js and Supabase by Building a Twitter Clone.",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/twitter-clone.png"
         }
       ]
     },
@@ -827,16 +807,6 @@
           "wordCount": 8454,
           "title": "Math That Lets You Think Locally but Act Globally",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/07/JulyAcademy-byRobertNeubecker-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=128037",
-          "author": "Ben Brubaker",
-          "description": "Quantum algorithms can find their way out of mazes exponentially faster than classical ones, at the cost of forgetting the path they took. A new result suggests that the trade-off may be inevitable.            \nThe post To Move Fast, Quantum Maze Solvers Must Forget the Past first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/to-move-fast-quantum-maze-solvers-must-forget-the-past-20230720/",
-          "publishedOn": "2023-07-20T14:22:39.000Z",
-          "wordCount": 7808,
-          "title": "To Move Fast, Quantum Maze Solvers Must Forget the Past",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/07/PowerOfForgetting-byTommyParker-Social.webp"
         }
       ]
     },
@@ -941,26 +911,6 @@
           "wordCount": 2056,
           "title": "Web Weekly #106 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/self-closing-tags-are-mostly-meaningless-in-html/",
-          "author": null,
-          "description": "Here's a fun one: consider the following HTML in which the classes red, blue and green render the particular background color — what will be rendered?\n<div class=\"blue\" />\n  Blue\n  <div class=\"red\" />\n    Red\n    <div class=\"green\" />\n      Green\n    </div>\n  </div>\n</div>\n\nWell... did you see the self-closing divs? That's tricky, right? Have a look at it below. 👇\n[Interactive component: visit the article to see it...]\n🤯 Jake Archibald published a real banger getting into the argument of self-closing HTML elements, and it's more than worth a read.\nHere's the tl;dr!\nSelf-closing elements are mostly a relict from the XHTML era. XHTML was this unforgiving friend who made a massive scene about everything. It required developers to write 100% correct markup. Not cool — we all make mistakes, r…",
-          "link": "https://www.stefanjudis.com/today-i-learned/self-closing-tags-are-mostly-meaningless-in-html/",
-          "publishedOn": "2023-07-20T22:00:00.000Z",
-          "wordCount": 1936,
-          "title": "Self-closing tags are mostly meaningless in HTML (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Self-closing%20tags%20are%20mostly%20meaningless%20in%20HTML/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/why-do-visually-hidden-css-classes-define-a-size-of-1x1/",
-          "author": null,
-          "description": "Did you ever wonder why visually-hidden or sr-only classes have the dimensions of 1 by 1 pixel?\n.visually-hidden {\n  clip: rect(0 0 0 0);\n  clip-path: inset(50%);\n  /* Why this 👇? */\n  width: 1px;\n  height: 1px;\n  overflow: hidden;\n  position: absolute;\n  white-space: nowrap;\n}\n\nWell, Manuel Matuzović investigated this topic and it's because of Safari. Safari isn't able to focus zero-size elements.\nThat's a nice little fun fact! 😅 Thanks Manuel!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/notes/why-do-visually-hidden-css-classes-define-a-size-of-1x1/",
-          "publishedOn": "2023-07-20T22:00:00.000Z",
-          "wordCount": 1180,
-          "title": "Why do visually hidden CSS classes define a size of 1x1? (#note)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Why%20do%20visually%20hidden%20CSS%20classes%20define%20a%20size%20of%201x1%253F/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
