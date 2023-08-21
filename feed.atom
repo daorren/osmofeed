@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-20T01:09:44.632Z</updated>
+    <updated>2023-08-21T01:06:56.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fancy SVG filters (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/fancy-svg-filters/</id>
+        <link href="https://www.stefanjudis.com/blog/fancy-svg-filters/"/>
+        <updated>2023-08-19T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The CSS filter property provides two hands full of handy filters.
+filter: blur(5px);
+filter: brightness(0.4);
+filter: contrast(200%);
+filter: drop-shadow(16px 16px 20px blue);
+filter: grayscale(50%);
+...
+
+And that's cool, but filter really shines when you apply custom SVG filters with the url() function.
+filter: url("filters.svg#filter-id");
+
+SVG is such a secret powerhouse for creating custom filters. This post is my SVG filter bookmark, which I'll extend over time.
+An SVG filter to cut out black pixels
+
+Artur Bień's post "Using HTML elements as CSS masks" triggered this post because he shared a very fancy SVG filter to mask out black pixels.
+[Interactive component: visit the article to see it...]
+If you play around with it, you'll discover that it only masks "real black" pixels. Still — it's a wild filter!
+A natural shadow SVG filter
+
+I love a good box-shadow, but one problem with CSS shadows is that they only displays a single color. Wouldn't it be nice if you could create shadows that pick up a DOM elements color?
+Guess what? SVG can do natural lighting shadows, too!
+[Interactive component: visit the article to see it...]
+Unfortunately, it looks like Safari still has issues with this filter, but hey... the world won't go down if Safari users won't see a colorful shadow. 🤷‍♂️
+
+      
+        
+          
+        
+      
+      
+A fancy noise / dither SVG filter
+
+I found this effect on Robin Rendle's blog, and I love the rough and artsy feeling of added SVG noise.
+[Interactive component: visit the article to see it...]
+Note that this effect combines three SVG filters that are rotated via a @keyframes animation.
+
+If you have other SVG in your toolbox, shoot them my way! I'd love to extend this list!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to use headless Chrome in serverless functions with a 50MB limit (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/how-to-use-headless-chrome-in-serverless-functions/</id>
@@ -1166,17 +1217,6 @@ You might have noticed that I took a three-week-long Web Weekly break. The main 
 During the talk prep, I finally made it to play around with view transitions. And this stuff is nothing but incredible. Only a bit of vanilla spaghetti JavaScript (example CodePen) is needed to transition elements from A to…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Math That Lets You Think Locally but Act Globally]]></title>
-        <id>https://www.quantamagazine.org/?p=128090</id>
-        <link href="https://www.quantamagazine.org/math-that-lets-you-think-locally-but-act-globally-20230721/"/>
-        <updated>2023-07-21T14:47:34.000Z</updated>
-        <summary type="html"><![CDATA[Knowing a little about the local connections on flight maps and other networks can reveal a lot about a system’s global structure.            
-The post Math That Lets You Think Locally but Act Globally first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Patrick Honner</name>
         </author>
     </entry>
 </feed>

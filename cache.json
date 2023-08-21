@@ -797,16 +797,6 @@
           "wordCount": 7070,
           "title": "New Proof Shows That ‘Expander’ Graphs Synchronize",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/07/Synchronization-bySamuelVelasco-PaulChaikin-Social-1.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=128090",
-          "author": "Patrick Honner",
-          "description": "Knowing a little about the local connections on flight maps and other networks can reveal a lot about a system’s global structure.            \nThe post Math That Lets You Think Locally but Act Globally first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/math-that-lets-you-think-locally-but-act-globally-20230721/",
-          "publishedOn": "2023-07-21T14:47:34.000Z",
-          "wordCount": 8454,
-          "title": "Math That Lets You Think Locally but Act Globally",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/07/JulyAcademy-byRobertNeubecker-Social.webp"
         }
       ]
     },
@@ -832,6 +822,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/fancy-svg-filters/",
+          "author": null,
+          "description": "The CSS filter property provides two hands full of handy filters.\nfilter: blur(5px);\nfilter: brightness(0.4);\nfilter: contrast(200%);\nfilter: drop-shadow(16px 16px 20px blue);\nfilter: grayscale(50%);\n...\n\nAnd that's cool, but filter really shines when you apply custom SVG filters with the url() function.\nfilter: url(\"filters.svg#filter-id\");\n\nSVG is such a secret powerhouse for creating custom filters. This post is my SVG filter bookmark, which I'll extend over time.\nAn SVG filter to cut out black pixels\n\nArtur Bień's post \"Using HTML elements as CSS masks\" triggered this post because he shared a very fancy SVG filter to mask out black pixels.\n[Interactive component: visit the article to see it...]\nIf you play around with it, you'll discover that it only masks \"real black\" pixels. Still — it's a wild filter!\nA natural shadow SVG filter\n\nI love a good box-shadow, but one problem with CSS shadows is that they only displays a single color. Wouldn't it be nice if you could create shadows that pick up a DOM elements color?\nGuess what? SVG can do natural lighting shadows, too!\n[Interactive component: visit the article to see it...]\nUnfortunately, it looks like Safari still has issues with this filter, but hey... the world won't go down if Safari users won't see a colorful shadow. 🤷‍♂️\n\n      \n        \n          \n        \n      \n      \nA fancy noise / dither SVG filter\n\nI found this effect on Robin Rendle's blog, and I love the rough and artsy feeling of added SVG noise.\n[Interactive component: visit the article to see it...]\nNote that this effect combines three SVG filters that are rotated via a @keyframes animation.\n\nIf you have other SVG in your toolbox, shoot them my way! I'd love to extend this list!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/blog/fancy-svg-filters/",
+          "publishedOn": "2023-08-19T22:00:00.000Z",
+          "wordCount": 2069,
+          "title": "Fancy SVG filters (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Fancy%20SVG%20filters/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/how-to-use-headless-chrome-in-serverless-functions/",
           "author": null,

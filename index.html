@@ -22,6 +22,95 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-08-19 datetime="2023-08-19T22:00:00.000Z">2023-08-19</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-08-19 datetime="2023-08-19T22:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/blog/fancy-svg-filters/"
+                        open
+                      >
+                        <summary class="article-expander__title">Fancy SVG filters (#blogPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/blog/fancy-svg-filters/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Fancy%20SVG%20filters/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The CSS filter property provides two hands full of handy filters.
+filter: blur(5px);
+filter: brightness(0.4);
+filter: contrast(200%);
+filter: drop-shadow(16px 16px 20px blue);
+filter: grayscale(50%);
+...
+
+And that&#x27;s cool, but filter really shines when you apply custom SVG filters with the url() function.
+filter: url(&quot;filters.svg#filter-id&quot;);
+
+SVG is such a secret powerhouse for creating custom filters. This post is my SVG filter bookmark, which I&#x27;ll extend over time.
+An SVG filter to cut out black pixels
+
+Artur Bień&#x27;s post &quot;Using HTML elements as CSS masks&quot; triggered this post because he shared a very fancy SVG filter to mask out black pixels.
+[Interactive component: visit the article to see it...]
+If you play around with it, you&#x27;ll discover that it only masks &quot;real black&quot; pixels. Still — it&#x27;s a wild filter!
+A natural shadow SVG filter
+
+I love a good box-shadow, but one problem with CSS shadows is that they only displays a single color. Wouldn&#x27;t it be nice if you could create shadows that pick up a DOM elements color?
+Guess what? SVG can do natural lighting shadows, too!
+[Interactive component: visit the article to see it...]
+Unfortunately, it looks like Safari still has issues with this filter, but hey... the world won&#x27;t go down if Safari users won&#x27;t see a colorful shadow. 🤷‍♂️
+
+      
+        
+          
+        
+      
+      
+A fancy noise / dither SVG filter
+
+I found this effect on Robin Rendle&#x27;s blog, and I love the rough and artsy feeling of added SVG noise.
+[Interactive component: visit the article to see it...]
+Note that this effect combines three SVG filters that are rotated via a @keyframes animation.
+
+If you have other SVG in your toolbox, shoot them my way! I&#x27;d love to extend this list!
+
+
+          
+          
+            Reply to Stefan</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-08-17 datetime="2023-08-17T22:00:00.000Z">2023-08-17</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-08-17 datetime="2023-08-17T22:00:00.000Z"></time>
           </button>
@@ -2958,59 +3047,10 @@ During the talk prep, I finally made it to play around with view transitions. An
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-07-21 datetime="2023-07-21T14:47:34.000Z">2023-07-21</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-07-21 datetime="2023-07-21T14:47:34.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Quanta Magazine</button>
-                  <a class="source-heading__link" href="https://www.quantamagazine.org">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.quantamagazine.org/?p&#x3D;128090"
-                        open
-                      >
-                        <summary class="article-expander__title">Math That Lets You Think Locally but Act Globally</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.quantamagazine.org/math-that-lets-you-think-locally-but-act-globally-20230721/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/07/JulyAcademy-byRobertNeubecker-Social.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Knowing a little about the local connections on flight maps and other networks can reveal a lot about a system’s global structure.            
-The post Math That Lets You Think Locally but Act Globally first appeared on Quanta Magazine</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;28
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/5914544189">
-        <time id="build-timestamp" datetime="2023-08-20T01:09:44.604Z">2023-08-20T01:09:44.604Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/5920747925">
+        <time id="build-timestamp" datetime="2023-08-21T01:06:56.501Z">2023-08-21T01:06:56.501Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
