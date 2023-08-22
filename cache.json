@@ -12,6 +12,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/development-with-large-language-models/",
+          "author": "Beau Carnes",
+          "description": "Large Language Models (LLMs) open up a wide range of capabilities for developers We just published a course on the freeCodeCamp.org YouTube channel that will equip you with the skills to use LLMs effectively for your projects. Developed by Akshath from Luup.ai, this course will help you unlock the potential",
+          "link": "https://www.freecodecamp.org/news/development-with-large-language-models/",
+          "publishedOn": "2023-08-21T16:13:43.000Z",
+          "wordCount": 785,
+          "title": "Development with Large Language Models",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/llmdev.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-google-drive-clone-with-laravel-php-vuejs/",
+          "author": "Beau Carnes",
+          "description": "Building file manager application is a great way to learn many important programming concepts. We just posted a 14-hour course on the freeCodeCamp.org YouTube channel that will teach you how to build and deploy a feature-rich file manager application using Laravel (the PHP framework), Inertia, and Vue.js. This comprehensive course",
+          "link": "https://www.freecodecamp.org/news/build-a-google-drive-clone-with-laravel-php-vuejs/",
+          "publishedOn": "2023-08-21T14:48:11.000Z",
+          "wordCount": 911,
+          "title": "Build a Google Drive Clone with Laravel, PHP, and Vue.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/googeldrive.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-at-method/",
+          "author": "Natalie Pina",
+          "description": "One of JavaScript's most exciting new features is the at() method. The at()  method is a new addition to the Array prototype in JavaScript. You can use this method to access elements in an array using a numeric index. The at() method takes an integer value and returns the",
+          "link": "https://www.freecodecamp.org/news/javascript-at-method/",
+          "publishedOn": "2023-08-21T14:41:05.000Z",
+          "wordCount": 1808,
+          "title": "How to Use the JavaScript at() Array Method",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Grey-Minimalist-Tips-Blog-Banner.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/json-server-for-frontend-development/",
+          "author": "Juliet Ofoegbu",
+          "description": "One of the most common responsibilities for front-end developers is handling the data in their front-end applications. You’ll need to be able to retrieve data from an API, manipulate it, and then render it on the screen in a modern web application for user interactions.  Efficient communication between the",
+          "link": "https://www.freecodecamp.org/news/json-server-for-frontend-development/",
+          "publishedOn": "2023-08-21T13:54:28.000Z",
+          "wordCount": 3837,
+          "title": "How to Use JSON Server for Front-end Development",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Cover-image-for-my-json-server-article-on-freecodecamp.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/is-college-worth-it/",
           "author": "Quincy Larson",
           "description": "So many people ask me each week: is college still worth it? In this 1-hour video I answer this question and other commonly asked questions about university. I've been in adult education for two decades at this point, and even though I'm not a labor market economist, I do feel",
@@ -629,6 +669,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=129327",
+          "author": "Jackson Ryan",
+          "description": "In their jiggles and shakes, red giant stars encode a record of the magnetic fields near their cores.            \nThe post Quaking Giants Might Solve the Mysteries of Stellar Magnetism first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/quaking-giants-might-solve-the-mysteries-of-stellar-magnetism-20230821/",
+          "publishedOn": "2023-08-21T13:58:11.000Z",
+          "wordCount": 5358,
+          "title": "Quaking Giants Might Solve the Mysteries of Stellar Magnetism",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/08/RedGiantInnards-byKristinaArmitage-Social-1.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=129009",
           "author": "Ben Brubaker",
           "description": "How hard is it to prove that problems are hard to solve? Meta-complexity theorists have been asking questions like this for decades. A string of recent results has started to deliver answers.            \nThe post Complexity Theory’s 50-Year Journey to the Limits of Knowledge first appeared on Quanta Magazine",
@@ -823,6 +873,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-109/",
+          "author": null,
+          "description": "Guten Tag! 👋\n\nWhen will we be able to animate the display property? What's CSS @starting-style? And when will the HTML search element hit the baseline?\nThis week's Web Weekly includes all the answers and much more. Enjoy!\nArtur Bień described how to use SVG filters to mask out a DOM element's black pixels. Wild!\nThe filter uses feColorMatrix, and oh boy... I've no idea how this works. 😅\nBut SVG filters aren't only about masking out pixels. My favorite SVG filter use case is making components naturally reflect their colors.\nAnd then there's fancy stuff, like Robin Rendle's SVG noise filter animation.\nThe filter's rough and artsy. I love it!\nI doubt I'll start creating these wild effects myself soon, but I started collecting beautiful SVG filter examples. Do you know any more fancy filters…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-109/",
+          "publishedOn": "2023-08-20T22:00:00.000Z",
+          "wordCount": 2205,
+          "title": "Web Weekly #109 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/fancy-svg-filters/",
           "author": null,
           "description": "The CSS filter property provides two hands full of handy filters.\nfilter: blur(5px);\nfilter: brightness(0.4);\nfilter: contrast(200%);\nfilter: drop-shadow(16px 16px 20px blue);\nfilter: grayscale(50%);\n...\n\nAnd that's cool, but filter really shines when you apply custom SVG filters with the url() function.\nfilter: url(\"filters.svg#filter-id\");\n\nSVG is such a secret powerhouse for creating custom filters. This post is my SVG filter bookmark, which I'll extend over time.\nAn SVG filter to cut out black pixels\n\nArtur Bień's post \"Using HTML elements as CSS masks\" triggered this post because he shared a very fancy SVG filter to mask out black pixels.\n[Interactive component: visit the article to see it...]\nIf you play around with it, you'll discover that it only masks \"real black\" pixels. Still — it's a wild filter!\nA natural shadow SVG filter\n\nI love a good box-shadow, but one problem with CSS shadows is that they only displays a single color. Wouldn't it be nice if you could create shadows that pick up a DOM elements color?\nGuess what? SVG can do natural lighting shadows, too!\n[Interactive component: visit the article to see it...]\nUnfortunately, it looks like Safari still has issues with this filter, but hey... the world won't go down if Safari users won't see a colorful shadow. 🤷‍♂️\n\n      \n        \n          \n        \n      \n      \nA fancy noise / dither SVG filter\n\nI found this effect on Robin Rendle's blog, and I love the rough and artsy feeling of added SVG noise.\n[Interactive component: visit the article to see it...]\nNote that this effect combines three SVG filters that are rotated via a @keyframes animation.\n\nIf you have other SVG in your toolbox, shoot them my way! I'd love to extend this list!\n\n\n          \n          \n            Reply to Stefan",
@@ -901,16 +961,6 @@
           "wordCount": 1692,
           "title": "How to prerender Tweets without using the official Twitter APIs (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20prerender%20Tweets%20without%20using%20the%20official%20Twitter%20APIs/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-106/",
-          "author": null,
-          "description": "Guten Tag! 👋\n\nDo you notice the performance impact of inline SVGs and are looking for solutions? Do you wonder how to evaluate the performance impact of an npm package? Or are you confused about self-closing HTML tags such as <br> (or is it <br />?) and need to know when to use which?\nThis week's Web Weekly includes all the answers and much more. 🫣\nYou might have noticed that I took a three-week-long Web Weekly break. The main reason was that I traveled to Canada to give a new talk — Back to boring (part two). And I had such a blast with countless wonderful people! 💙\nDuring the talk prep, I finally made it to play around with view transitions. And this stuff is nothing but incredible. Only a bit of vanilla spaghetti JavaScript (example CodePen) is needed to transition elements from A to…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-106/",
-          "publishedOn": "2023-07-22T22:00:00.000Z",
-          "wordCount": 2056,
-          "title": "Web Weekly #106 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
     },

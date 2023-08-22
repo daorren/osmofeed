@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-21T01:06:56.535Z</updated>
+    <updated>2023-08-22T01:07:35.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Development with Large Language Models]]></title>
+        <id>https://www.freecodecamp.org/news/development-with-large-language-models/</id>
+        <link href="https://www.freecodecamp.org/news/development-with-large-language-models/"/>
+        <updated>2023-08-21T16:13:43.000Z</updated>
+        <summary type="html"><![CDATA[Large Language Models (LLMs) open up a wide range of capabilities for developers We just published a course on the freeCodeCamp.org YouTube channel that will equip you with the skills to use LLMs effectively for your projects. Developed by Akshath from Luup.ai, this course will help you unlock the potential]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Google Drive Clone with Laravel, PHP, and Vue.js]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-google-drive-clone-with-laravel-php-vuejs/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-google-drive-clone-with-laravel-php-vuejs/"/>
+        <updated>2023-08-21T14:48:11.000Z</updated>
+        <summary type="html"><![CDATA[Building file manager application is a great way to learn many important programming concepts. We just posted a 14-hour course on the freeCodeCamp.org YouTube channel that will teach you how to build and deploy a feature-rich file manager application using Laravel (the PHP framework), Inertia, and Vue.js. This comprehensive course]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the JavaScript at() Array Method]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-at-method/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-at-method/"/>
+        <updated>2023-08-21T14:41:05.000Z</updated>
+        <summary type="html"><![CDATA[One of JavaScript's most exciting new features is the at() method. The at()  method is a new addition to the Array prototype in JavaScript. You can use this method to access elements in an array using a numeric index. The at() method takes an integer value and returns the]]></summary>
+        <author>
+            <name>Natalie Pina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quaking Giants Might Solve the Mysteries of Stellar Magnetism]]></title>
+        <id>https://www.quantamagazine.org/?p=129327</id>
+        <link href="https://www.quantamagazine.org/quaking-giants-might-solve-the-mysteries-of-stellar-magnetism-20230821/"/>
+        <updated>2023-08-21T13:58:11.000Z</updated>
+        <summary type="html"><![CDATA[In their jiggles and shakes, red giant stars encode a record of the magnetic fields near their cores.            
+The post Quaking Giants Might Solve the Mysteries of Stellar Magnetism first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Jackson Ryan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use JSON Server for Front-end Development]]></title>
+        <id>https://www.freecodecamp.org/news/json-server-for-frontend-development/</id>
+        <link href="https://www.freecodecamp.org/news/json-server-for-frontend-development/"/>
+        <updated>2023-08-21T13:54:28.000Z</updated>
+        <summary type="html"><![CDATA[One of the most common responsibilities for front-end developers is handling the data in their front-end applications. You’ll need to be able to retrieve data from an API, manipulate it, and then render it on the screen in a modern web application for user interactions.  Efficient communication between the]]></summary>
+        <author>
+            <name>Juliet Ofoegbu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #109 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-109/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-109/"/>
+        <updated>2023-08-20T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! 👋
+
+When will we be able to animate the display property? What's CSS @starting-style? And when will the HTML search element hit the baseline?
+This week's Web Weekly includes all the answers and much more. Enjoy!
+Artur Bień described how to use SVG filters to mask out a DOM element's black pixels. Wild!
+The filter uses feColorMatrix, and oh boy... I've no idea how this works. 😅
+But SVG filters aren't only about masking out pixels. My favorite SVG filter use case is making components naturally reflect their colors.
+And then there's fancy stuff, like Robin Rendle's SVG noise filter animation.
+The filter's rough and artsy. I love it!
+I doubt I'll start creating these wild effects myself soon, but I started collecting beautiful SVG filter examples. Do you know any more fancy filters…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fancy SVG filters (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/fancy-svg-filters/</id>
@@ -1202,21 +1272,6 @@ The post New Proof Shows That ‘Expander’ Graphs Synchronize first appeared o
         <summary type="html"><![CDATA[Serverless architectures have transformed the way we build and deploy applications in the cloud, bringing in more efficiency and scalability. In this article, we'll dive into the Serverless Stack Toolkit (SST), a framework for building serverless applications. We'll deploy a Next.js application and set up a custom domain, all without]]></summary>
         <author>
             <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #106 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-106/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-106/"/>
-        <updated>2023-07-22T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! 👋
-
-Do you notice the performance impact of inline SVGs and are looking for solutions? Do you wonder how to evaluate the performance impact of an npm package? Or are you confused about self-closing HTML tags such as <br> (or is it <br />?) and need to know when to use which?
-This week's Web Weekly includes all the answers and much more. 🫣
-You might have noticed that I took a three-week-long Web Weekly break. The main reason was that I traveled to Canada to give a new talk — Back to boring (part two). And I had such a blast with countless wonderful people! 💙
-During the talk prep, I finally made it to play around with view transitions. And this stuff is nothing but incredible. Only a bit of vanilla spaghetti JavaScript (example CodePen) is needed to transition elements from A to…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
