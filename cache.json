@@ -12,6 +12,96 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/",
+          "author": "Tasnim Ferdous",
+          "description": "What is Tampermonkey? Tampermonkey is a browser extension that lets you add custom scripts to websites, making them work or look the way you want. It's like giving websites a makeover or adding new features. These scripts are called userscripts and you can make tampermonkey run those scripts when you",
+          "link": "https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/",
+          "publishedOn": "2023-08-22T22:32:35.000Z",
+          "wordCount": 3908,
+          "title": "How to Use Tampermonkey to Improve a Website's UI – Example Using freeCodeCamp",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/cover_image.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-python-code-example-handbook/",
+          "author": "Farhan Hasin Chowdhury",
+          "description": "Very few programming languages are as universally loved as Python. The brainchild of Dutch programmer Guido van Rossum [https://en.wikipedia.org/wiki/Guido_van_Rossum], Python is easy to learn, powerful, and an utter joy to work with. Thanks to its popularity, video and written resources about Python are plentiful. This handbook, however, tries to be",
+          "link": "https://www.freecodecamp.org/news/the-python-code-example-handbook/",
+          "publishedOn": "2023-08-22T21:54:38.000Z",
+          "wordCount": 19330,
+          "title": "The Python Code Example Handbook",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Learn-Python-with-Code-Examples-Handbook-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/bundle-a-basic-react-application-using-esbuild/",
+          "author": "Valentine Gatwiri",
+          "description": "Bundling is an important phase in the web development process, particularly when dealing with JavaScript frameworks like React. It entails combining all the various JavaScript files and dependencies into a single file for faster browser loading and execution.  esbuild is a lightweight and efficient bundler for React apps. Here's",
+          "link": "https://www.freecodecamp.org/news/bundle-a-basic-react-application-using-esbuild/",
+          "publishedOn": "2023-08-22T20:56:13.000Z",
+          "wordCount": 1397,
+          "title": "How to Bundle a Simple React Application Using esbuild",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Screenshot-from-2023-08-21-16-04-04.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-validate-a-date-in-javascript/",
+          "author": "Nathan Sebhastian",
+          "description": "There are times when you need to validate a date input in your JavaScript applications. This article will show you how to perform the following date validations:  1. Check if a string is a valid date  2. Validate a string in the DD/MM/YYYY format  3. Check if",
+          "link": "https://www.freecodecamp.org/news/how-to-validate-a-date-in-javascript/",
+          "publishedOn": "2023-08-22T19:08:29.000Z",
+          "wordCount": 1582,
+          "title": "JS Date Validations – How To Validate a Date in JavaScript (With Examples)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/js-date-validations.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/deploy-docker-image-to-kubernetes/",
+          "author": "Kunal Nalawade",
+          "description": "In today's ever-changing technology landscape, companies are looking for reliable and scalable ways to run and manage software. And containers have transformed the way we deliver software. Container orchestration platforms have made it possible to deploy and manage containerised applications. Kubernetes is one such platform that has been a game-changer",
+          "link": "https://www.freecodecamp.org/news/deploy-docker-image-to-kubernetes/",
+          "publishedOn": "2023-08-22T16:34:30.000Z",
+          "wordCount": 3408,
+          "title": "How to Deploy an Application to a Kubernetes Cluster",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/deploy-app-to-k8s-cluster.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ensuring-website-security-collaborative-measures-for-cybersecurity-and-seo-experts-to-prevent-seo-poisoning/",
+          "author": "Isah Jacob",
+          "description": "In today's digital landscape, search engine optimization (SEO) is important for increasing online visibility and driving organic traffic to websites.  But cybersecurity threats, including SEO poisoning, pose a great risks to both website owners and SEO efforts.  To fight these risks and safeguard websites, cybersecurity experts and SEO",
+          "link": "https://www.freecodecamp.org/news/ensuring-website-security-collaborative-measures-for-cybersecurity-and-seo-experts-to-prevent-seo-poisoning/",
+          "publishedOn": "2023-08-22T16:20:41.000Z",
+          "wordCount": 3680,
+          "title": "How to Protect Your Website Against SEO Poisoning",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/How-to-Protect-Your-Website-Against-SEO-Poisoning.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-calculator-app-with-svelte/",
+          "author": "Adejumo Ridwan Suleiman",
+          "description": "Svelte is an open-source front-end JavaScript framework used for building web applications, designed to make developing interactive user interfaces more efficient and performant.  Compared to other front-end frameworks like React, Vue, or Angular, it focuses on a different approach by compiling components. In most traditional frameworks, you build components",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-calculator-app-with-svelte/",
+          "publishedOn": "2023-08-22T15:48:35.000Z",
+          "wordCount": 2775,
+          "title": "How to Build a Calculator App with Svelte",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/WHATSAPP-DICTIONARY-CHATBOT--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/stateful-vs-stateless-architectures-explained/",
+          "author": "Daniel Adetunji",
+          "description": "In programming, \"state\" refers to the condition of a system, component, or application at a particular point in time.  As a simple example, if you are shopping on amazon.com, whether you are currently logged into the site or if you have anything stored in your cart are some examples",
+          "link": "https://www.freecodecamp.org/news/stateful-vs-stateless-architectures-explained/",
+          "publishedOn": "2023-08-21T21:08:59.000Z",
+          "wordCount": 2217,
+          "title": "Stateful vs Stateless Architecture – Explained for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/cover-photo.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/practice-web-scraping-safely/",
+          "author": "Quincy Larson",
+          "description": "When I grew up in the 1990s, we skateboarded everywhere. If a parking lot had a ledge or a handrail, you'd better believe we waxed it and grinded our boards across it. Fast forward to the 2020s – many cities have built public skate parks. These are safe, legal",
+          "link": "https://www.freecodecamp.org/news/practice-web-scraping-safely/",
+          "publishedOn": "2023-08-21T19:50:15.000Z",
+          "wordCount": 999,
+          "title": "Introducing ScrapePark.org – Practice Web Scraping Without Hurting Anyone",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/shawn-henry-eK_aInAXydw-unsplash--1-.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/development-with-large-language-models/",
           "author": "Beau Carnes",
           "description": "Large Language Models (LLMs) open up a wide range of capabilities for developers We just published a course on the freeCodeCamp.org YouTube channel that will equip you with the skills to use LLMs effectively for your projects. Developed by Akshath from Luup.ai, this course will help you unlock the potential",
@@ -650,16 +740,6 @@
           "wordCount": 2384,
           "title": "How to Use Google Sheets – A Beginner's Guide",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/maxresdefault.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-deploy-a-next-js-app-with-custom-domain-on-aws-using-sst/",
-          "author": "Arunachalam B",
-          "description": "Serverless architectures have transformed the way we build and deploy applications in the cloud, bringing in more efficiency and scalability. In this article, we'll dive into the Serverless Stack Toolkit (SST), a framework for building serverless applications. We'll deploy a Next.js application and set up a custom domain, all without",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-next-js-app-with-custom-domain-on-aws-using-sst/",
-          "publishedOn": "2023-07-24T07:18:19.000Z",
-          "wordCount": 2563,
-          "title": "How to Deploy a Next.js App with Custom Domain on AWS Using SST",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/AWS---SST---Banner.png"
         }
       ]
     },
@@ -668,6 +748,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=129366",
+          "author": "Kevin Hartnett",
+          "description": "The telescope conjecture gave mathematicians a handle on ways to map one sphere to another. Now that it has been disproved, the universe of shapes has exploded.            \nThe post An Old Conjecture Falls, Making Spheres a Lot More Complicated first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/an-old-conjecture-falls-making-spheres-a-lot-more-complicated-20230822/",
+          "publishedOn": "2023-08-22T13:42:32.000Z",
+          "wordCount": 7031,
+          "title": "An Old Conjecture Falls, Making Spheres a Lot More Complicated",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/08/TelescopeConjecture-bySamuelVelasco-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=129327",
           "author": "Jackson Ryan",

@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-22T01:07:35.304Z</updated>
+    <updated>2023-08-23T01:06:46.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Tampermonkey to Improve a Website's UI – Example Using freeCodeCamp]]></title>
+        <id>https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/</id>
+        <link href="https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/"/>
+        <updated>2023-08-22T22:32:35.000Z</updated>
+        <summary type="html"><![CDATA[What is Tampermonkey? Tampermonkey is a browser extension that lets you add custom scripts to websites, making them work or look the way you want. It's like giving websites a makeover or adding new features. These scripts are called userscripts and you can make tampermonkey run those scripts when you]]></summary>
+        <author>
+            <name>Tasnim Ferdous</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Python Code Example Handbook]]></title>
+        <id>https://www.freecodecamp.org/news/the-python-code-example-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/the-python-code-example-handbook/"/>
+        <updated>2023-08-22T21:54:38.000Z</updated>
+        <summary type="html"><![CDATA[Very few programming languages are as universally loved as Python. The brainchild of Dutch programmer Guido van Rossum [https://en.wikipedia.org/wiki/Guido_van_Rossum], Python is easy to learn, powerful, and an utter joy to work with. Thanks to its popularity, video and written resources about Python are plentiful. This handbook, however, tries to be]]></summary>
+        <author>
+            <name>Farhan Hasin Chowdhury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Bundle a Simple React Application Using esbuild]]></title>
+        <id>https://www.freecodecamp.org/news/bundle-a-basic-react-application-using-esbuild/</id>
+        <link href="https://www.freecodecamp.org/news/bundle-a-basic-react-application-using-esbuild/"/>
+        <updated>2023-08-22T20:56:13.000Z</updated>
+        <summary type="html"><![CDATA[Bundling is an important phase in the web development process, particularly when dealing with JavaScript frameworks like React. It entails combining all the various JavaScript files and dependencies into a single file for faster browser loading and execution.  esbuild is a lightweight and efficient bundler for React apps. Here's]]></summary>
+        <author>
+            <name>Valentine Gatwiri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JS Date Validations – How To Validate a Date in JavaScript (With Examples)]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-validate-a-date-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-validate-a-date-in-javascript/"/>
+        <updated>2023-08-22T19:08:29.000Z</updated>
+        <summary type="html"><![CDATA[There are times when you need to validate a date input in your JavaScript applications. This article will show you how to perform the following date validations:  1. Check if a string is a valid date  2. Validate a string in the DD/MM/YYYY format  3. Check if]]></summary>
+        <author>
+            <name>Nathan Sebhastian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy an Application to a Kubernetes Cluster]]></title>
+        <id>https://www.freecodecamp.org/news/deploy-docker-image-to-kubernetes/</id>
+        <link href="https://www.freecodecamp.org/news/deploy-docker-image-to-kubernetes/"/>
+        <updated>2023-08-22T16:34:30.000Z</updated>
+        <summary type="html"><![CDATA[In today's ever-changing technology landscape, companies are looking for reliable and scalable ways to run and manage software. And containers have transformed the way we deliver software. Container orchestration platforms have made it possible to deploy and manage containerised applications. Kubernetes is one such platform that has been a game-changer]]></summary>
+        <author>
+            <name>Kunal Nalawade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Protect Your Website Against SEO Poisoning]]></title>
+        <id>https://www.freecodecamp.org/news/ensuring-website-security-collaborative-measures-for-cybersecurity-and-seo-experts-to-prevent-seo-poisoning/</id>
+        <link href="https://www.freecodecamp.org/news/ensuring-website-security-collaborative-measures-for-cybersecurity-and-seo-experts-to-prevent-seo-poisoning/"/>
+        <updated>2023-08-22T16:20:41.000Z</updated>
+        <summary type="html"><![CDATA[In today's digital landscape, search engine optimization (SEO) is important for increasing online visibility and driving organic traffic to websites.  But cybersecurity threats, including SEO poisoning, pose a great risks to both website owners and SEO efforts.  To fight these risks and safeguard websites, cybersecurity experts and SEO]]></summary>
+        <author>
+            <name>Isah Jacob</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Calculator App with Svelte]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-calculator-app-with-svelte/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-calculator-app-with-svelte/"/>
+        <updated>2023-08-22T15:48:35.000Z</updated>
+        <summary type="html"><![CDATA[Svelte is an open-source front-end JavaScript framework used for building web applications, designed to make developing interactive user interfaces more efficient and performant.  Compared to other front-end frameworks like React, Vue, or Angular, it focuses on a different approach by compiling components. In most traditional frameworks, you build components]]></summary>
+        <author>
+            <name>Adejumo Ridwan Suleiman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Old Conjecture Falls, Making Spheres a Lot More Complicated]]></title>
+        <id>https://www.quantamagazine.org/?p=129366</id>
+        <link href="https://www.quantamagazine.org/an-old-conjecture-falls-making-spheres-a-lot-more-complicated-20230822/"/>
+        <updated>2023-08-22T13:42:32.000Z</updated>
+        <summary type="html"><![CDATA[The telescope conjecture gave mathematicians a handle on ways to map one sphere to another. Now that it has been disproved, the universe of shapes has exploded.            
+The post An Old Conjecture Falls, Making Spheres a Lot More Complicated first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Kevin Hartnett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stateful vs Stateless Architecture – Explained for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/stateful-vs-stateless-architectures-explained/</id>
+        <link href="https://www.freecodecamp.org/news/stateful-vs-stateless-architectures-explained/"/>
+        <updated>2023-08-21T21:08:59.000Z</updated>
+        <summary type="html"><![CDATA[In programming, "state" refers to the condition of a system, component, or application at a particular point in time.  As a simple example, if you are shopping on amazon.com, whether you are currently logged into the site or if you have anything stored in your cart are some examples]]></summary>
+        <author>
+            <name>Daniel Adetunji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing ScrapePark.org – Practice Web Scraping Without Hurting Anyone]]></title>
+        <id>https://www.freecodecamp.org/news/practice-web-scraping-safely/</id>
+        <link href="https://www.freecodecamp.org/news/practice-web-scraping-safely/"/>
+        <updated>2023-08-21T19:50:15.000Z</updated>
+        <summary type="html"><![CDATA[When I grew up in the 1990s, we skateboarded everywhere. If a parking lot had a ledge or a handrail, you'd better believe we waxed it and grinded our boards across it. Fast forward to the 2020s – many cities have built public skate parks. These are safe, legal]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Development with Large Language Models]]></title>
         <id>https://www.freecodecamp.org/news/development-with-large-language-models/</id>
@@ -1262,16 +1363,6 @@ An Overhaul of Inlining for Go 1.22 — Inlining is the concept of replacing a f
 The post New Proof Shows That ‘Expander’ Graphs Synchronize first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Leila Sloman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy a Next.js App with Custom Domain on AWS Using SST]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-deploy-a-next-js-app-with-custom-domain-on-aws-using-sst/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-a-next-js-app-with-custom-domain-on-aws-using-sst/"/>
-        <updated>2023-07-24T07:18:19.000Z</updated>
-        <summary type="html"><![CDATA[Serverless architectures have transformed the way we build and deploy applications in the cloud, bringing in more efficiency and scalability. In this article, we'll dive into the Serverless Stack Toolkit (SST), a framework for building serverless applications. We'll deploy a Next.js application and set up a custom domain, all without]]></summary>
-        <author>
-            <name>Arunachalam B</name>
         </author>
     </entry>
 </feed>
