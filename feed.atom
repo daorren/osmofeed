@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-23T01:06:46.781Z</updated>
+    <updated>2023-08-24T01:06:33.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Photo Encryption App using Steganography]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-photo-encryption-app/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-photo-encryption-app/"/>
+        <updated>2023-08-23T21:06:02.000Z</updated>
+        <summary type="html"><![CDATA[In this digital age, data flows freely across networks and devices. So protecting sensitive information from unauthorized access is crucial. That's where encryption comes in.  Encryption involves converting plain, readable data into an incomprehensible form. It's also essential to have a way to convert the data back into a]]></summary>
+        <author>
+            <name>Houssein Badra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beginner's Python Tutorial: Pong]]></title>
+        <id>https://www.freecodecamp.org/news/beginners-python-tutorial-pong/</id>
+        <link href="https://www.freecodecamp.org/news/beginners-python-tutorial-pong/"/>
+        <updated>2023-08-23T20:45:10.000Z</updated>
+        <summary type="html"><![CDATA[Pong was one of the first video games. And it also makes a good first (or early) Python project when you are learning to code. We just published a course on the freeCodeCamp.org YouTube channel that will help you improve your Python and Pygame skills by teaching you how to]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Perl Programming Course for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/free-perl-programming-course-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/free-perl-programming-course-for-beginners/"/>
+        <updated>2023-08-23T17:56:28.000Z</updated>
+        <summary type="html"><![CDATA[For decades, the Perl programming language has remained important in the realms of text processing, system administration, and even web development. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use Perl. The course covers topics ranging from basic syntax to advanced]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Tools Making Images Look Better]]></title>
+        <id>https://www.quantamagazine.org/?p=129408</id>
+        <link href="https://www.quantamagazine.org/the-ai-tools-making-images-look-better-20230823/"/>
+        <updated>2023-08-23T16:13:02.000Z</updated>
+        <summary type="html"><![CDATA[Researchers have discovered ways around a fundamental trade-off between accuracy and beauty in digital images.            
+The post The AI Tools Making Images Look Better first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Amos Zeeberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Tampermonkey to Improve a Website's UI – Example Using freeCodeCamp]]></title>
         <id>https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/</id>
@@ -54,6 +95,16 @@
         <summary type="html"><![CDATA[In today's ever-changing technology landscape, companies are looking for reliable and scalable ways to run and manage software. And containers have transformed the way we deliver software. Container orchestration platforms have made it possible to deploy and manage containerised applications. Kubernetes is one such platform that has been a game-changer]]></summary>
         <author>
             <name>Kunal Nalawade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Protect Your Website Against SEO Poisoning]]></title>
+        <id>https://www.freecodecamp.org/news/protect-your-website-against-seo-poisoning/</id>
+        <link href="https://www.freecodecamp.org/news/protect-your-website-against-seo-poisoning/"/>
+        <updated>2023-08-22T16:20:41.000Z</updated>
+        <summary type="html"><![CDATA[In today's digital landscape, search engine optimization (SEO) is important for increasing online visibility and driving organic traffic to websites.  But cybersecurity threats, including SEO poisoning, pose a great risks to both website owners and SEO efforts.  To fight these risks and safeguard websites, cybersecurity experts and SEO]]></summary>
+        <author>
+            <name>Isah Jacob</name>
         </author>
     </entry>
     <entry>
@@ -1314,55 +1365,6 @@ The post Why Insect Memories May Not Survive Metamorphosis first appeared on Qua
 The post How (Nearly) Nothing Might Solve Cosmology’s Biggest Questions first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Lyndie Chiou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The one where Go keeps getting better]]></title>
-        <id>https://golangweekly.com/issues/470</id>
-        <link href="https://golangweekly.com/issues/470"/>
-        <updated>2023-07-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#​470 — July 25, 2023
-
-
-Unsub  |  Web Version
-
-
-
-✍️ It feels like there's a particularly strong drive to improve Go lately, whether it's through the ever growing number of proposals from folks like Russ Cox, the development of tools like govulncheck, or folks writing articles about how to write better code. Go's a simple language with modest ambitions, but it's not resting on its laurels and is actively continuing to get better all the time – long may it last!
-__
-Your editor, Peter Cooper
-
-
-    
-    
-
-Go Weekly
-
-
-
-
-  
-
-
-
-
-
-  
-  
-An Overhaul of Inlining for Go 1.22 — Inlining is the concept of replacing a function call in a program with the contents of the function itself, thus avoiding the call. Go’s inliner has improved over the years, but the policies around when and what to inline have …]]></summary>
-        <author>
-            <name>Golang Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Proof Shows That ‘Expander’ Graphs Synchronize]]></title>
-        <id>https://www.quantamagazine.org/?p=128181</id>
-        <link href="https://www.quantamagazine.org/new-proof-shows-that-expander-graphs-synchronize-20230724/"/>
-        <updated>2023-07-24T14:36:23.000Z</updated>
-        <summary type="html"><![CDATA[The proof establishes new conditions that cause connected oscillators to sway in sync.            
-The post New Proof Shows That ‘Expander’ Graphs Synchronize first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Leila Sloman</name>
         </author>
     </entry>
 </feed>
