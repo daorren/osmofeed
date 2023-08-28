@@ -650,36 +650,6 @@
           "wordCount": 2824,
           "title": "How to Bridge the Gap Between Development and Production with Valid HTTPS Certificates",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/pexels-martin-damboldt-814499--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/higher-order-components-in-react/",
-          "author": "Valentine Gatwiri",
-          "description": "Higher-order components (HOCs) are a powerful feature of the React library. They allow you to reuse component logic across multiple components.  In React, a higher-order component is a function that takes a component as an argument and returns a new component that wraps the original component. HOCs allow you",
-          "link": "https://www.freecodecamp.org/news/higher-order-components-in-react/",
-          "publishedOn": "2023-07-28T17:40:06.000Z",
-          "wordCount": 2161,
-          "title": "How to Use Higher-Order Components in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Screenshot-from-2023-07-26-11-39-58.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-sanity-and-nextjs/",
-          "author": "Victor Eke",
-          "description": "Knowing how to handle content is important when creating a personal website for yourself or a client.  This is because maintaining and updating a site can result in substantial expenses if you don't do it correctly. This is even more the case if you're building for someone with a",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-sanity-and-nextjs/",
-          "publishedOn": "2023-07-28T16:30:03.000Z",
-          "wordCount": 6257,
-          "title": "How to Build a Portfolio Site with Sanity and Next.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Sanity-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/freecodecamp-podcast-in-spanish/",
-          "author": "Rafael D. Hernandez",
-          "description": "Hello! My name is Rafael Hernandez and I'm excited to announce the launch of our new podcast: El Podcast de freeCodeCamp en Español [https://freecodecamp-en-espanol.transistor.fm/].  ‌‌‌‌In this podcast, we'll dive into the stories of inspiring people in the world of technology and content creation. Our goal is to bring you",
-          "link": "https://www.freecodecamp.org/news/freecodecamp-podcast-in-spanish/",
-          "publishedOn": "2023-07-28T15:33:33.000Z",
-          "wordCount": 952,
-          "title": "freeCodeCamp is Launching a Podcast in Spanish",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/fcc-podcast-cover.png"
         }
       ]
     },
@@ -961,16 +931,6 @@
           "wordCount": 2058,
           "title": "Web Weekly #107 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/how-to-prerender-tweets-without-using-the-official-twitter-apis/",
-          "author": null,
-          "description": "Vercel released a new React component the other day — react-tweet. And people seem to be excited!\n\n          \n\n          \nVercel\n                @vercel\n              \nIntroducing `react-tweet`:\n◆ 35x less client-side JavaScript than the Twitter <iframe>\n◆ React Server Components for built-in data fetching\n◆ Works with Next.js, Vite, CRA, and more\nvercel.com/blog/introduci…\n              \n1798 likes\n              67 replies\n\n              Tweeted \n                \n                  Jul 25 2023\n                \n              \n              Open Tweet\n            \n\nWhat's the deal?\nTwitter (or X or Dodge or whatever it's called tomorrow) has been an absolute mess since Elmo took over. And all the silly changes aside, the changes to the Twitter ecosystem are pretty bad. New API regulations an…",
-          "link": "https://www.stefanjudis.com/blog/how-to-prerender-tweets-without-using-the-official-twitter-apis/",
-          "publishedOn": "2023-07-28T22:00:00.000Z",
-          "wordCount": 1692,
-          "title": "How to prerender Tweets without using the official Twitter APIs (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20prerender%20Tweets%20without%20using%20the%20official%20Twitter%20APIs/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },

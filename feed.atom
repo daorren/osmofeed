@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-27T01:11:19.190Z</updated>
+    <updated>2023-08-28T01:08:40.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -1177,72 +1177,6 @@ The visualization is neither complicated nor hard to build. Draw a circle for ev
 After reading Julian Lehr's post "Mult…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to prerender Tweets without using the official Twitter APIs (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/how-to-prerender-tweets-without-using-the-official-twitter-apis/</id>
-        <link href="https://www.stefanjudis.com/blog/how-to-prerender-tweets-without-using-the-official-twitter-apis/"/>
-        <updated>2023-07-28T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Vercel released a new React component the other day — react-tweet. And people seem to be excited!
-
-          
-
-          
-Vercel
-                @vercel
-              
-Introducing `react-tweet`:
-◆ 35x less client-side JavaScript than the Twitter <iframe>
-◆ React Server Components for built-in data fetching
-◆ Works with Next.js, Vite, CRA, and more
-vercel.com/blog/introduci…
-              
-1798 likes
-              67 replies
-
-              Tweeted 
-                
-                  Jul 25 2023
-                
-              
-              Open Tweet
-            
-
-What's the deal?
-Twitter (or X or Dodge or whatever it's called tomorrow) has been an absolute mess since Elmo took over. And all the silly changes aside, the changes to the Twitter ecosystem are pretty bad. New API regulations an…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Higher-Order Components in React]]></title>
-        <id>https://www.freecodecamp.org/news/higher-order-components-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/higher-order-components-in-react/"/>
-        <updated>2023-07-28T17:40:06.000Z</updated>
-        <summary type="html"><![CDATA[Higher-order components (HOCs) are a powerful feature of the React library. They allow you to reuse component logic across multiple components.  In React, a higher-order component is a function that takes a component as an argument and returns a new component that wraps the original component. HOCs allow you]]></summary>
-        <author>
-            <name>Valentine Gatwiri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Portfolio Site with Sanity and Next.js]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-sanity-and-nextjs/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-sanity-and-nextjs/"/>
-        <updated>2023-07-28T16:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Knowing how to handle content is important when creating a personal website for yourself or a client.  This is because maintaining and updating a site can result in substantial expenses if you don't do it correctly. This is even more the case if you're building for someone with a]]></summary>
-        <author>
-            <name>Victor Eke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freeCodeCamp is Launching a Podcast in Spanish]]></title>
-        <id>https://www.freecodecamp.org/news/freecodecamp-podcast-in-spanish/</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-podcast-in-spanish/"/>
-        <updated>2023-07-28T15:33:33.000Z</updated>
-        <summary type="html"><![CDATA[Hello! My name is Rafael Hernandez and I'm excited to announce the launch of our new podcast: El Podcast de freeCodeCamp en Español [https://freecodecamp-en-espanol.transistor.fm/].  ‌‌‌‌In this podcast, we'll dive into the stories of inspiring people in the world of technology and content creation. Our goal is to bring you]]></summary>
-        <author>
-            <name>Rafael D. Hernandez</name>
         </author>
     </entry>
 </feed>
