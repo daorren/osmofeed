@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/the-c-programming-handbook-for-beginners/",
+          "author": "Dionysia Lemonaki",
+          "description": "C is one of the oldest, most widely known, and most influential programming languages. It is used in many industries because it is a highly flexible and powerful language. Learning C is a worthwhile endeavor – no matter your starting point or aspirations – because it builds a solid foundation",
+          "link": "https://www.freecodecamp.org/news/the-c-programming-handbook-for-beginners/",
+          "publishedOn": "2023-08-29T20:38:16.000Z",
+          "wordCount": 14548,
+          "title": "The C Programming Handbook for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/C-Programming-Handbook-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/unstyled-ui-components-for-front-end-developers/",
+          "author": "Chinenye Anikwenze",
+          "description": "Imagine this situation: you are working on a time-sensitive project, and you need to implement some specific UI components that comply with accessibility best practices.  You may know about some libraries that are full of pre-designed UI elements, each with their own style. But here's the catch – you",
+          "link": "https://www.freecodecamp.org/news/unstyled-ui-components-for-front-end-developers/",
+          "publishedOn": "2023-08-29T15:56:00.000Z",
+          "wordCount": 2759,
+          "title": "How to Use Un-Styled UI Components – Guide for Front-End Developers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/article---unstyled-ui-components-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/nodejs-tutorial-build-a-task-manager-cli-tool/",
+          "author": "Krish Jaiswal",
+          "description": "Hello everyone 👋 In this tutorial, you'll learn how to make a simple Task Manager CLI (Command Line Interface) tool. This means you can use commands to Create, View, Update, or Delete your todos.  We will be building this CLI tool using NodeJS. We'll also use MongoDB as the",
+          "link": "https://www.freecodecamp.org/news/nodejs-tutorial-build-a-task-manager-cli-tool/",
+          "publishedOn": "2023-08-29T14:19:19.000Z",
+          "wordCount": 7217,
+          "title": "How to Build a Task Manager CLI Tool with Node.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Add-a-heading--1-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/javascript-date-time-dayjs/",
           "author": "Grant Weatherston",
           "description": "When it comes to handling dates and times in JavaScript, developers often find themselves grappling with the complexities of the built-in Date object. While vanilla JavaScript provides fundamental functionality, it can be quite cumbersome to work with, especially when dealing with parsing, formatting, and manipulating dates. This is where external",
@@ -709,6 +739,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=129562",
+          "author": "Joshua Sokol",
+          "description": "Astronomers are scouring the cosmos for fingerprints of the invisible — tiny clumps of pure dark matter that might solve a long-standing cosmic mystery.            \nThe post In a Monster Star’s Light, a Hint of Darkness first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/in-a-monster-stars-light-a-hint-of-darkness-20230829/",
+          "publishedOn": "2023-08-29T14:06:17.000Z",
+          "wordCount": 9999,
+          "title": "In a Monster Star’s Light, a Hint of Darkness",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/08/MonsterMatter-byAllisonLi-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=129538",
           "author": "R. Douglas Fields",
           "description": "Sticking out your tongue while doing delicate work with your hands reveals a history of evolutionary relationships.            \nThe post The Hidden Brain Connections Between Our Hands and Tongues first appeared on Quanta Magazine",
@@ -913,6 +953,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-110/",
+          "author": null,
+          "description": "Guten Tag! 👋\n\nWhat's the most common viewport size? When will native CSS nesting land in browsers? And  how could you maximize your future job salary?\nThis week's Web Weekly includes all the answers and much more. Enjoy!\nThere were some newsletter discussions on Twitter last week (I still refuse to call it \"X\" 😅), and multiple people plugged Web Weekly.\nBoris, Jeremias, Nick, and Carlos, thank you! 💙\nLet's get to web stuff, shall we?\n\n      \n        \n          \n        \n      \n      \nSomething that made me smile raise an eyebrow this week\n\nHow can you \"maintain\" a package with over 80k downloads that does exactly nothing? Well... give it a name that people accidentally confuse with an npm command. Yet the empty user package's download numbers are rising monthly. It's wild and just anoth…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-110/",
+          "publishedOn": "2023-08-28T22:00:00.000Z",
+          "wordCount": 2118,
+          "title": "Web Weekly #110 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-109/",
           "author": null,
           "description": "Guten Tag! 👋\n\nWhen will we be able to animate the display property? What's CSS @starting-style? And when will the HTML search element hit the baseline?\nThis week's Web Weekly includes all the answers and much more. Enjoy!\nArtur Bień described how to use SVG filters to mask out a DOM element's black pixels. Wild!\nThe filter uses feColorMatrix, and oh boy... I've no idea how this works. 😅\nBut SVG filters aren't only about masking out pixels. My favorite SVG filter use case is making components naturally reflect their colors.\nAnd then there's fancy stuff, like Robin Rendle's SVG noise filter animation.\nThe filter's rough and artsy. I love it!\nI doubt I'll start creating these wild effects myself soon, but I started collecting beautiful SVG filter examples. Do you know any more fancy filters…",
@@ -981,16 +1031,6 @@
           "wordCount": 2182,
           "title": "Web Weekly #108 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-107/",
-          "author": null,
-          "description": "Guten Tag! 👋\n\nDo Core Web Vitals have an impact on your Google Search ranking? How do you make your CSS transitions bounce without JavaScript? How can you animate SVGs to make them look hand-drawn?\nThis week's Web Weekly includes all the answers and much more. Enjoy!\nWhenever I see lifetime data visualizations, I get jealous of the nifty bird eye view. I'm a sucker for looking at data, and it's even better when it's mine. It would be so cool to see my entire life in an interactive graphic, wouldn't it?\nLook at Rory Flint's version.\nThe visualization is neither complicated nor hard to build. Draw a circle for every week, make the highlights a bubble with a popup, and you're done. Easy peasy! But why do we have to build these things in the first place?\nAfter reading Julian Lehr's post \"Mult…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-107/",
-          "publishedOn": "2023-07-30T22:00:00.000Z",
-          "wordCount": 2058,
-          "title": "Web Weekly #107 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
     },
@@ -999,6 +1039,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/473",
+          "author": null,
+          "description": "#​473 — August 29, 2023\n\n\nUnsub  |  Web Version\n\n\n\n👋 We're back! Well, almost.. If you didn't get an issue of Go Weekly in the past few weeks, don't worry, I was on vacation. I'm technically on vacation for a couple more days but didn't want too many issues to pass by, so here we are. 😁\n__\nPeter Cooper and the Cooperpress team\n\n\n    \n    \n\nGo Weekly\n\n\n\n\n  \n\n\n\n\n\n  \n  \nOn Backward Compatibility, Go 1.21, and.. Go 2? — If backwards compatibility sounds boring, “boring can be good,” says Russ, who has written about some of the “important work we shipped in Go 1.21 to keep Go boring” when it comes to ensuring your programs continue to compile in the face of changes to Go’s tooling. He also teases Go 2 before (spoiler alert) saying it either won't happen or.. it already did.\nRuss Cox \n\n\nRuss h…",
+          "link": "https://golangweekly.com/issues/473",
+          "publishedOn": "2023-08-29T00:00:00.000Z",
+          "wordCount": 894,
+          "title": "'There will not be a Go 2 that breaks Go 1 programs.'",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/472",
           "author": null,
