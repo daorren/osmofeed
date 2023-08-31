@@ -12,6 +12,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/owasp-api-security-top-10-secure-your-apis/",
+          "author": "Beau Carnes",
+          "description": "The OWASP API Security Top 10 is a standard reference guide highlighting the most critical web API vulnerabilities to help developers and organizations understand and mitigate potential security threats. We just published a course on the freeCodeCamp.org YouTube channel that will teach you about each security risk and techniques to",
+          "link": "https://www.freecodecamp.org/news/owasp-api-security-top-10-secure-your-apis/",
+          "publishedOn": "2023-08-30T19:27:18.000Z",
+          "wordCount": 13869,
+          "title": "OWASP API Security Top 10 – Secure Your APIs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/owaslp.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-an-online-image-to-pdf-converter-with-html-css-js-nodejs/",
+          "author": "Gideon Akinsanmi",
+          "description": "An online image-to-PDF converter is a website that helps you convert your images to PDFs. This tool is useful because it provides an efficient way to store your images. In this tutorial, you'll learn how you can create your online image-to-pdf converter with HTML, CSS, JavaScript, and NodeJS. Table of",
+          "link": "https://www.freecodecamp.org/news/build-an-online-image-to-pdf-converter-with-html-css-js-nodejs/",
+          "publishedOn": "2023-08-30T17:03:33.000Z",
+          "wordCount": 4464,
+          "title": "How to Build an Online Image-to-PDF Converter with HTML, CSS, JS, and NodeJS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/png-img-pdf.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-press-books-handbooks/",
+          "author": "Abbey Rennemeyer",
+          "description": "The freeCodeCamp community has published more than 10,000 tutorials over the years. But lately we've focused on creating even longer resources for learning math, programming, and computer science. This is why we've created freeCodeCamp Press – a division of freeCodeCamp where we publish full-length books and handbooks – all available",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-press-books-handbooks/",
+          "publishedOn": "2023-08-30T16:49:54.000Z",
+          "wordCount": 1285,
+          "title": "Introducing freeCodeCamp Press – Free Books for Developers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/freeCodeCamp-Press.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-machine-learning-and-neural-networks-without-frameworks/",
+          "author": "Beau Carnes",
+          "description": "A lot of machine learning course relay on frameworks that abstract the inner workings of what's going on. If you want to become proficient, it's helpful to understand how things work under the hood. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to",
+          "link": "https://www.freecodecamp.org/news/learn-machine-learning-and-neural-networks-without-frameworks/",
+          "publishedOn": "2023-08-30T16:22:01.000Z",
+          "wordCount": 873,
+          "title": "Learn Machine Learning and Neural Networks without Frameworks",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/mlscratch.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/agile-software-development-handbook/",
+          "author": "Adekola Olawale",
+          "description": "In the fast-paced and ever-evolving world of software development, there's always a need for flexibility, adaptability, and responsiveness. Traditional software development methods often struggled to keep up with changing requirements and market demands. This can lead to delays, cost overruns, and dissatisfied stakeholders. In response to these challenges, the Agile",
+          "link": "https://www.freecodecamp.org/news/agile-software-development-handbook/",
+          "publishedOn": "2023-08-30T14:26:36.000Z",
+          "wordCount": 8099,
+          "title": "Agile Software Development Handbook – Scrum, Kanban, and Other Methodologies Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/The-Agile-Development-Handbook-Cover--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-and-release-flutter-app-in-google-play/",
+          "author": "Arunachalam B",
+          "description": "In the rapidly evolving world of mobile app development, Flutter has gained immense popularity for its ability to create stunning and high-performance apps across multiple platforms.  Flutter's framework allows developers to build beautiful user interfaces, deliver native performance, and streamline development.  In this tutorial, I will walk you",
+          "link": "https://www.freecodecamp.org/news/build-and-release-flutter-app-in-google-play/",
+          "publishedOn": "2023-08-30T14:23:42.000Z",
+          "wordCount": 1946,
+          "title": "How to Build and Release a Flutter App in Google Play",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Build-and-Release-the-Flutter-App-in-Google-Play.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/the-c-programming-handbook-for-beginners/",
           "author": "Dionysia Lemonaki",
           "description": "C is one of the oldest, most widely known, and most influential programming languages. It is used in many industries because it is a highly flexible and powerful language. Learning C is a worthwhile endeavor – no matter your starting point or aspirations – because it builds a solid foundation",
@@ -700,36 +760,6 @@
           "wordCount": 4204,
           "title": "React Server Components – How and Why You Should Use Them in Your Code",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/React-Server-Components-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/usestate-vs-redux-state-management/",
-          "author": "Ijeoma Igboagu",
-          "description": "State management is crucial for handling an application's data, how users interact with it, and how different parts of the app behave.  And it's not something you'll use only in React.js [https://react.dev/], but also in other popular tools like Angular.js, [https://angularjs.org/] Vue.js, [https://vuejs.org/] and Next.j [https://nextjs.org/]s. There are two",
-          "link": "https://www.freecodecamp.org/news/usestate-vs-redux-state-management/",
-          "publishedOn": "2023-07-31T21:35:43.000Z",
-          "wordCount": 3011,
-          "title": "How to Manage State in Your Applications – useState() vs Redux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/cover-react-redux.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/calculate-definite-indefinite-integrals-in-python/",
-          "author": "Roy Chng",
-          "description": "Python is a versatile programming language that offers libraries and tools for scientific computing and mathematical calculations.  Many essential mathematical operations frequently involve definite and indefinite integrals. In this article, we will explore how to perform these calculations using Python. How to Calculate Single Variable Definite Integrals Install SciPy",
-          "link": "https://www.freecodecamp.org/news/calculate-definite-indefinite-integrals-in-python/",
-          "publishedOn": "2023-07-31T18:02:27.000Z",
-          "wordCount": 1938,
-          "title": "How to Calculate Definite and Indefinite Integrals in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/calculating-integrals-python-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/development-production-parity-with-valid-https-certs/",
-          "author": "Linda Ikechukwu",
-          "description": "One of the core principles of software development involves maintaining development/production parity. But this is not always the case for developers working on localhost. To review, dev/prod parity refers to keeping development, staging, and production environments as similar as possible to avoid encountering undetected bugs. A lack of dev/prod parity",
-          "link": "https://www.freecodecamp.org/news/development-production-parity-with-valid-https-certs/",
-          "publishedOn": "2023-07-31T17:30:52.000Z",
-          "wordCount": 2824,
-          "title": "How to Bridge the Gap Between Development and Production with Valid HTTPS Certificates",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/pexels-martin-damboldt-814499--1-.jpg"
         }
       ]
     },
@@ -738,6 +768,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=129614",
+          "author": "Saugat Bolakhe",
+          "description": "New research finds that the memories useful for future generalizations are held in the brain separately from those recording unusual events.            \nThe post The Usefulness of a Memory Guides Where the Brain Saves It first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-usefulness-of-a-memory-guides-where-the-brain-saves-it-20230830/",
+          "publishedOn": "2023-08-30T14:11:59.000Z",
+          "wordCount": 5675,
+          "title": "The Usefulness of a Memory Guides Where the Brain Saves It",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/08/MemoryStorageStrategy-byKristinaArmitage-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=129562",
           "author": "Joshua Sokol",
@@ -917,16 +957,6 @@
           "wordCount": 5221,
           "title": "Ninth Dedekind Number Found by Two Independent Groups",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/08/NewDedekindNumber-byAllisonLi-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=128423",
-          "author": "C. Brandon Ogbunu",
-          "description": "For over a century, biologists have had to contend with a complicated picture of genetics, which they’ve only recently begun to understand.            \nThe post How Genetic Surprises Complicate the Old Doctrine of DNA first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-genetic-surprises-complicate-the-old-doctrine-of-dna-20230731/",
-          "publishedOn": "2023-07-31T14:39:31.000Z",
-          "wordCount": 5533,
-          "title": "How Genetic Surprises Complicate the Old Doctrine of DNA",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/07/Epistasis-byJamesOBrien-Social.webp"
         }
       ]
     },
@@ -934,18 +964,7 @@
       "title": "Labnotes (by Assaf Arkin)",
       "feedUrl": "https://labnotes.org/rss/",
       "siteUrl": "https://labnotes.org/",
-      "articles": [
-        {
-          "id": "64c84ed30007533354530fc6",
-          "author": "Assaf Arkin",
-          "description": "The past three months have been quite the adventure. On May 4, I was headed home, walking back from my regular coffee shop, and was hit by a car going way too fast.\nSeriously hit. Broken bones, torn liver, spinal cord injury, the works. I ended up in ICU, sedated",
-          "link": "https://labnotes.org/wheres-assaf/",
-          "publishedOn": "2023-08-01T00:17:48.000Z",
-          "wordCount": 611,
-          "title": "Where’s Assaf?",
-          "imageUrl": "https://labnotes.org/content/images/2019/12/powerpuff.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Stefan Judis Web Development",
@@ -1057,16 +1076,6 @@
           "publishedOn": "2023-08-08T00:00:00.000Z",
           "wordCount": 908,
           "title": "Go 1.21 released",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golangweekly.com/issues/471",
-          "author": null,
-          "description": "#​471 — August 1, 2023\n\n\nUnsub  |  Web Version\n\n\n\nGo Weekly\n\n\n\n\n  \n\n\n\n\n\n  \n  \nExperimenting with Project Templates with gonew — The Go team has unveiled a new, experimental tool for creating new Go projects from predefined templates. Anyone can write these templates, which are then packaged and distributed as modules, using the Go module proxy and checksum database for better security and availability.\nCameron Balahan (Go Team) \n\n\n  \n  \nThe Go Developer Survey Is Back: Share Your Feedback — It’s that time again. The Go core team is calling upon the Gopher community for feedback on working and developing with Go. They really do pay attention to what you say, so you should take the 10(ish) minutes and give your perspective on what’s good and what needs changing. Submissions close on August 1…",
-          "link": "https://golangweekly.com/issues/471",
-          "publishedOn": "2023-08-01T00:00:00.000Z",
-          "wordCount": 851,
-          "title": "The Go team's new project templating tool",
           "imageUrl": null
         }
       ]
