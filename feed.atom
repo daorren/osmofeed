@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-01T01:12:51.406Z</updated>
+    <updated>2023-09-02T01:05:54.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use GraphQL]]></title>
+        <id>https://www.freecodecamp.org/news/graphql-database-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/graphql-database-tutorial/"/>
+        <updated>2023-09-01T20:47:21.000Z</updated>
+        <summary type="html"><![CDATA[GraphQL has been transforming the way that developers interact with APIs and data-driven applications. And there is a good chance you will need to know about it as a developer. We just posted a full GraphQL course on the freeCodeCamp.org YouTube channel. In this comprehensive course, designed especially for those]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Automate Your Job Then Keep Climbing with Malindi Colyer]]></title>
+        <id>https://www.freecodecamp.org/news/podcast-95-malindi-colyer/</id>
+        <link href="https://www.freecodecamp.org/news/podcast-95-malindi-colyer/"/>
+        <updated>2023-09-01T15:48:09.000Z</updated>
+        <summary type="html"><![CDATA[Today I'm joined by Malindi Colyer. Among her many skills, she's a Python developer and AI engineer. Malindi grew up on a farm in rural Kansas, in the middle of the US. She trained to become a diplomat, and volunteered overseas. But along the way, she discovered a love of]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose a Deployment Strategy for Your Next.js Application]]></title>
+        <id>https://www.freecodecamp.org/news/deployment-strategies-for-nextjs-apps/</id>
+        <link href="https://www.freecodecamp.org/news/deployment-strategies-for-nextjs-apps/"/>
+        <updated>2023-09-01T14:19:51.000Z</updated>
+        <summary type="html"><![CDATA[Many projects are migrating from React to Next.js in 2023. So now's the right time to understand an important step in creating a Next.js application: deployment. Deploying a Next.js application is an essential step in the lifecycle of your web product. And since various deployment strategies exist, picking the right]]></summary>
+        <author>
+            <name>Tobenna Okeke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conversation closure (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/conversation-closure/</id>
+        <link href="https://www.stefanjudis.com/notes/conversation-closure/"/>
+        <updated>2023-08-31T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Chris Coyier wrote about email expectation handling the other day.
+I took a little time to respond (thanks for the async expectations, email!) and wrote back what I hoped was an equally thoughtful, and hopefully helpful, response.
+But then nothing.
+To be fair, there were no action items. No lingering questions. No big obvious reason that another reply was needed.
+It just felt off.
+I run into this feeling all the time, and it isn't limited to email conversations.
+Whether it's Slack, email, Twitter replies (or literally any text communication), many conversations just die. There's no "thank you!" or "talk later!" to wrap things up. Apparently, it's okay to just move the human interaction off the todo list.
+No action item? Cool, no response!
+And I'm guilty of archiving a conversation without …]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MERN Stack Crash Course – Build a Book Store App]]></title>
         <id>https://www.freecodecamp.org/news/mern-stack-crash-course/</id>
@@ -1282,37 +1330,6 @@ The post Selfish, Virus-Like DNA Can Carry Genes Between Species first appeared 
         <summary type="html"><![CDATA[Machine learning is transforming many industries, including healthcare. Artificial intelligence is playing a pivotal role in saving lives and improving patient outcomes. And it is easier than you may think to start applying AI models to medical imaging. We just posted a course on the freeCodeCamp.org YouTube channel that will]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Safe AI – Reducing Existential Risks in Machine Learning]]></title>
-        <id>https://www.freecodecamp.org/news/building-safe-ai-reducing-existential-risks-in-machine-learning/</id>
-        <link href="https://www.freecodecamp.org/news/building-safe-ai-reducing-existential-risks-in-machine-learning/"/>
-        <updated>2023-08-03T12:38:54.000Z</updated>
-        <summary type="html"><![CDATA[As technology advances at an unprecedented pace, so does the development of Machine Learning (ML) and Artificial Intelligence (AI) systems. These systems have grown exponentially in size, capability, and are now being deployed in critical and high-stakes environments. As with any powerful technology, safety becomes an important concern. We just]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a WhatsApp Dictionary Chatbot using Twilio, FastAPI, and MongoDB]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-whatsapp-dictionary-chatbot-using-twilio-fast-api-and-mongodb/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-whatsapp-dictionary-chatbot-using-twilio-fast-api-and-mongodb/"/>
-        <updated>2023-08-02T23:47:11.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes you want to check what a word means while chatting with someone in WhatsApp. But you don't want to exit or minimize the app.  Well, how about building a WhatsApp bot that can give you the meaning of words you want to know? In this tutorial, you will]]></summary>
-        <author>
-            <name>Adejumo Ridwan Suleiman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Complexity Shows How to Escape Hawking’s Black Hole Paradox]]></title>
-        <id>https://www.quantamagazine.org/?p=128507</id>
-        <link href="https://www.quantamagazine.org/new-calculations-show-how-to-escape-hawkings-black-hole-paradox-20230802/"/>
-        <updated>2023-08-02T14:51:35.000Z</updated>
-        <summary type="html"><![CDATA[Inside of a black hole, the two theoretical pillars of 20th-century physics appear to clash. Now a group of young physicists think they have resolved the conflict by appealing to the central pillar of the new century — the physics of quantum information.            
-The post Quantum Complexity Shows How to Escape Hawking’s Black Hole Paradox first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Charlie Wood</name>
         </author>
     </entry>
 </feed>

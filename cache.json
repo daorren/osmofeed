@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/graphql-database-tutorial/",
+          "author": "Beau Carnes",
+          "description": "GraphQL has been transforming the way that developers interact with APIs and data-driven applications. And there is a good chance you will need to know about it as a developer. We just posted a full GraphQL course on the freeCodeCamp.org YouTube channel. In this comprehensive course, designed especially for those",
+          "link": "https://www.freecodecamp.org/news/graphql-database-tutorial/",
+          "publishedOn": "2023-09-01T20:47:21.000Z",
+          "wordCount": 884,
+          "title": "How to Use GraphQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/graphql.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/podcast-95-malindi-colyer/",
+          "author": "Quincy Larson",
+          "description": "Today I'm joined by Malindi Colyer. Among her many skills, she's a Python developer and AI engineer. Malindi grew up on a farm in rural Kansas, in the middle of the US. She trained to become a diplomat, and volunteered overseas. But along the way, she discovered a love of",
+          "link": "https://www.freecodecamp.org/news/podcast-95-malindi-colyer/",
+          "publishedOn": "2023-09-01T15:48:09.000Z",
+          "wordCount": 783,
+          "title": "Podcast: Automate Your Job Then Keep Climbing with Malindi Colyer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/andre-benz-zeZxd1ItwpA-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/deployment-strategies-for-nextjs-apps/",
+          "author": "Tobenna Okeke",
+          "description": "Many projects are migrating from React to Next.js in 2023. So now's the right time to understand an important step in creating a Next.js application: deployment. Deploying a Next.js application is an essential step in the lifecycle of your web product. And since various deployment strategies exist, picking the right",
+          "link": "https://www.freecodecamp.org/news/deployment-strategies-for-nextjs-apps/",
+          "publishedOn": "2023-09-01T14:19:51.000Z",
+          "wordCount": 5135,
+          "title": "How to Choose a Deployment Strategy for Your Next.js Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Grey-Minimalist-Tips-Blog-Banner--1-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/mern-stack-crash-course/",
           "author": "Beau Carnes",
           "description": "The MERN stack is a set of technologies often used to build full stack web apps.  We just released a crash course on the freeCodeCamp.org YouTube channel that will teach you how to create full stack apps with the MERN stack. In this comprehensive course, we will take you",
@@ -740,26 +770,6 @@
           "wordCount": 906,
           "title": "Medical AI Models with TensorFlow – Tutorial",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/medicaltf2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/building-safe-ai-reducing-existential-risks-in-machine-learning/",
-          "author": "Beau Carnes",
-          "description": "As technology advances at an unprecedented pace, so does the development of Machine Learning (ML) and Artificial Intelligence (AI) systems. These systems have grown exponentially in size, capability, and are now being deployed in critical and high-stakes environments. As with any powerful technology, safety becomes an important concern. We just",
-          "link": "https://www.freecodecamp.org/news/building-safe-ai-reducing-existential-risks-in-machine-learning/",
-          "publishedOn": "2023-08-03T12:38:54.000Z",
-          "wordCount": 1039,
-          "title": "Building Safe AI – Reducing Existential Risks in Machine Learning",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/aisafety.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-whatsapp-dictionary-chatbot-using-twilio-fast-api-and-mongodb/",
-          "author": "Adejumo Ridwan Suleiman",
-          "description": "Sometimes you want to check what a word means while chatting with someone in WhatsApp. But you don't want to exit or minimize the app.  Well, how about building a WhatsApp bot that can give you the meaning of words you want to know? In this tutorial, you will",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-whatsapp-dictionary-chatbot-using-twilio-fast-api-and-mongodb/",
-          "publishedOn": "2023-08-02T23:47:11.000Z",
-          "wordCount": 3066,
-          "title": "How to Build a WhatsApp Dictionary Chatbot using Twilio, FastAPI, and MongoDB",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/WHATSAPP-DICTIONARY-CHATBOT.png"
         }
       ]
     },
@@ -947,16 +957,6 @@
           "wordCount": 5700,
           "title": "Selfish, Virus-Like DNA Can Carry Genes Between Species",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/08/MaverickGeneTransfer-byKristinaArmitage_srcRubenDuro_ScienceSource-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=128507",
-          "author": "Charlie Wood",
-          "description": "Inside of a black hole, the two theoretical pillars of 20th-century physics appear to clash. Now a group of young physicists think they have resolved the conflict by appealing to the central pillar of the new century — the physics of quantum information.            \nThe post Quantum Complexity Shows How to Escape Hawking’s Black Hole Paradox first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/new-calculations-show-how-to-escape-hawkings-black-hole-paradox-20230802/",
-          "publishedOn": "2023-08-02T14:51:35.000Z",
-          "wordCount": 17717,
-          "title": "Quantum Complexity Shows How to Escape Hawking’s Black Hole Paradox",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/08/BlackholeComplexity-byKouzouSakai-Social.webp"
         }
       ]
     },
@@ -971,6 +971,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/notes/conversation-closure/",
+          "author": null,
+          "description": "Chris Coyier wrote about email expectation handling the other day.\nI took a little time to respond (thanks for the async expectations, email!) and wrote back what I hoped was an equally thoughtful, and hopefully helpful, response.\nBut then nothing.\nTo be fair, there were no action items. No lingering questions. No big obvious reason that another reply was needed.\nIt just felt off.\nI run into this feeling all the time, and it isn't limited to email conversations.\nWhether it's Slack, email, Twitter replies (or literally any text communication), many conversations just die. There's no \"thank you!\" or \"talk later!\" to wrap things up. Apparently, it's okay to just move the human interaction off the todo list.\nNo action item? Cool, no response!\nAnd I'm guilty of archiving a conversation without …",
+          "link": "https://www.stefanjudis.com/notes/conversation-closure/",
+          "publishedOn": "2023-08-31T22:00:00.000Z",
+          "wordCount": 1601,
+          "title": "Conversation closure (#note)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Conversation%20closure/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-110/",
           "author": null,
