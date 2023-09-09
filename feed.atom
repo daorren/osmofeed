@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-08T01:08:58.111Z</updated>
+    <updated>2023-09-09T01:06:24.637Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Learning to Code in your 30s with Patrick San Juan]]></title>
+        <id>https://www.freecodecamp.org/news/podcast-learning-to-code-in-your-30s-patrick-san-juan/</id>
+        <link href="https://www.freecodecamp.org/news/podcast-learning-to-code-in-your-30s-patrick-san-juan/"/>
+        <updated>2023-09-08T17:33:21.000Z</updated>
+        <summary type="html"><![CDATA[Today I'm joined by Patrick San Juan, a software engineer who first learned to code in his 30s. I've known Patrick since the early days of freeCodeCamp. He has always been a positive, supportive force within the community. Patrick grew up the son of first-generation immigrants from the Philippines. His]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Biggest Smallest Triangle Just Got Smaller]]></title>
+        <id>https://www.quantamagazine.org/?p=129887</id>
+        <link href="https://www.quantamagazine.org/the-biggest-smallest-triangle-just-got-smaller-20230908/"/>
+        <updated>2023-09-08T13:57:50.000Z</updated>
+        <summary type="html"><![CDATA[A new proof breaks a decades-long drought of progress on the problem of estimating the size of triangles created by cramming points into a square.            
+The post The Biggest Smallest Triangle Just Got Smaller first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Leila Sloman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new method to validate URLs in JavaScript (2023 edition) (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/validate-urls-in-javascript/</id>
+        <link href="https://www.stefanjudis.com/blog/validate-urls-in-javascript/"/>
+        <updated>2023-09-07T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There's news on the URL validation front in JavaScript land! After all these years of cursing JavaScript for not having an easy way to validate a URL, there's a new method in town — URL.canParse()!
+URL.canParse('https://www.stefanjudis.com'); // true 
+URL.canParse('www.stefanjudis.com'); // false
+
+Hallelujah! URL.canParse() is a quick way to figure out if a string is a valid URL. But before we all get too excited, URL.canParse() is not cross-browser supported when writing this post. But you can find up-to-date browser support information below. 👇
+
+        
+MDN Compat Data (source)
+Browser support info for canParse() static method 
+              
+                
+
+                        
+                      
+                        
+                      
+                        
+      …]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Scraping with Google Sheets – How to Scrape Web Pages with Built-in Functions]]></title>
         <id>https://www.freecodecamp.org/news/web-scraping-google-sheets/</id>
@@ -1283,163 +1331,6 @@ The post Two Students Unravel a Widely Believed Math Conjecture first appeared o
         <summary type="html"><![CDATA[Have you ever wanted to share your expertise at conferences, but something inside you is holding you back?  Perhaps it's the fear of speaking in front of a large audience, the worry of forgetting your words, or the challenge of finding the perfect topic to discuss. You're not alone]]></summary>
         <author>
             <name>Shruti Kapoor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to show TypeScript type annotations in code snippets (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/how-to-show-typescript-type-annotations-in-code-snippets/</id>
-        <link href="https://www.stefanjudis.com/notes/how-to-show-typescript-type-annotations-in-code-snippets/"/>
-        <updated>2023-08-09T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes, I blog about TypeScript, and I always wondered if it's possible to render type annotations in syntax-highlighted code snippets on this blog.
-Previous Google searches didn't help me, so here's another contribution to the internet: I finally found a project that allows rendering type annotations in code snippets.
-Say hello to "Shiki Twoslash"
-
-Twoslash allows you to add TypeScript type information to your code snippets. In their words, Twoslash is:
-markdown code samples powered by the syntax engine of Visual Studio Code
-mixed with the TypeScript compiler’s information.
-And that's pretty incredible, because it's also able to validate your code and show possible Typescript errors.
-ts
-
-interface Person {
-  name: string
-}
- 
-interface Person {
-  age: number
-}
- 
-// `Person` is now merged and expects `name` and `age`
-const p: Person = {
-Property 'name' is missing in type '{ age: number; }' but required in type 'Person'.2741Property 'name' is missing in type '{ age: number; }' but required in type 'Person'.
-  age: 99
-}
-
-
-You can let Twoslash do its job; if your snippets aren't correct, it'll complain and error out (unless you tell it that you expect an error like above).
-And because it uses the VS Code type checker, it works for JavaScript snippets, too!
-js
-
-const a = {
-  joo: 'test'
-};
- 
-console.log(a.foo);
-Property 'foo' does not exist on type '{ joo: string; }'.2339Property 'foo' does not exist on type '{ joo: string; }'.
-
-And then, you can use some fancy markdown syntax to inspect variables and even show possible auto-completion values.
-js
-
-const a = {
-  test: 'test'
-  testTwo: 'test'
-  testThree: 'test'
-};
- 
-console.log(a.te
-                
-test
-testThree
-testTwo
-
- 
- 
-console.log(a);
-           
-const a: {
-    test: string;
-    testTwo: string;
-    testThree: string;
-}
-
-
-Wild! 🤯
-I'm not entirely convinced I'll use Twoslash for every code snippet on the blog, but for TypeScript snippets — heck yeah!
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copy an array and replace one element at a specific index with modern JavaScript (#snippet)]]></title>
-        <id>https://www.stefanjudis.com/snippets/copy-array-and-replace-one-element-at-index-javascript/</id>
-        <link href="https://www.stefanjudis.com/snippets/copy-array-and-replace-one-element-at-index-javascript/"/>
-        <updated>2023-08-09T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do you replace an array element at a given index?
-Is this a trick question? Not really.
-const numbers = [1, 2, 3, 4, 5];
-numbers[1] = 'new value';
-console.log(numbers); // [1, 'new value', 3, 4, 5]
-
-But when you're using React or any framework betting on immutability, just changing an array entry will lead to subtle bugs because the array will still be the same object with the same reference. In an immutable world, data updates always have to result in a new object reference.
-How can you change an array element via its index and spit out a new array in the same go then? A 12-years-old Stack Overflow question with 1.5m views has tons of advice, but because it's so old and has hundreds of upvotes, it's not showing the most modern solution in the top area.
-Let's have a quick look at creat…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Minimum Stability In Composer?]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-minimum-stability-in-composer/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-minimum-stability-in-composer/"/>
-        <updated>2023-08-09T17:31:49.000Z</updated>
-        <summary type="html"><![CDATA[Composer is a dependency management tool for projects running on PHP. PHP frameworks like Laravel, Symfony, and CodeIgniter use Composer to manage libraries and packages. In this tutorial, you’ll learn the following:  * Introduction to Composer.  * Minimum stability in Composer.  * Levels of stability, and the]]></summary>
-        <author>
-            <name>Sule-Balogun Olanrewaju Ganiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn End-to-End Testing with Cypress for JavaScript Applications]]></title>
-        <id>https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/</id>
-        <link href="https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/"/>
-        <updated>2023-08-09T16:58:06.000Z</updated>
-        <summary type="html"><![CDATA[Ensuring the reliability and performance of your web applications is important. Testing is a key tool that will help with these things and more.  We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to use Cypress to create end-to-end tests for your JavaScript]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering JavaScript Functions for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/mastering-javascript-functions-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/mastering-javascript-functions-for-beginners/"/>
-        <updated>2023-08-09T16:40:40.000Z</updated>
-        <summary type="html"><![CDATA[Are you new to the world of programming? Are you eager to unlock the potential of JavaScript to create more readable and maintainable code? If so, we have an excellent course for you. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you everything you need]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy Your Websites and Apps – User-Friendly Deployment Strategies]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-deploy-websites-and-applications/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-websites-and-applications/"/>
-        <updated>2023-08-09T14:23:41.000Z</updated>
-        <summary type="html"><![CDATA[Deploying your application is a key aspect of software development. Typically, having an app on your local system isn't enough – it needs to be accessible online. So choosing a suitable and user-friendly hosting and deployment plan is vital. The key to making the right decision lies in understanding the]]></summary>
-        <author>
-            <name>Ijeoma Igboagu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Even Synthetic Life Forms With a Tiny Genome Can Evolve]]></title>
-        <id>https://www.quantamagazine.org/?p=128749</id>
-        <link href="https://www.quantamagazine.org/even-synthetic-life-forms-with-a-tiny-genome-can-evolve-20230809/"/>
-        <updated>2023-08-09T14:22:54.000Z</updated>
-        <summary type="html"><![CDATA[By watching “minimal” cells regain the fitness they lost, researchers are testing whether a genome can be too simple to evolve.            
-The post Even Synthetic Life Forms With a Tiny Genome Can Evolve first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Yasemin Saplakoglu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy a Django App on Render]]></title>
-        <id>https://www.freecodecamp.org/news/deploying-a-django-app-to-render/</id>
-        <link href="https://www.freecodecamp.org/news/deploying-a-django-app-to-render/"/>
-        <updated>2023-08-09T14:13:39.000Z</updated>
-        <summary type="html"><![CDATA[Render is a hosting platform that helps you deploy your apps easily. Whether you're building web servers, static websites, cron jobs, or containers, this tool can help you streamline the process. If you're a developer early in your career and you need to build a compelling CV, résumé, or portfolio,]]></summary>
-        <author>
-            <name>Sophia Iroegbu</name>
         </author>
     </entry>
 </feed>

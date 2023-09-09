@@ -12,6 +12,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/podcast-learning-to-code-in-your-30s-patrick-san-juan/",
+          "author": "Quincy Larson",
+          "description": "Today I'm joined by Patrick San Juan, a software engineer who first learned to code in his 30s. I've known Patrick since the early days of freeCodeCamp. He has always been a positive, supportive force within the community. Patrick grew up the son of first-generation immigrants from the Philippines. His",
+          "link": "https://www.freecodecamp.org/news/podcast-learning-to-code-in-your-30s-patrick-san-juan/",
+          "publishedOn": "2023-09-08T17:33:21.000Z",
+          "wordCount": 861,
+          "title": "Podcast: Learning to Code in your 30s with Patrick San Juan",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Screenshot_9_8_23__12_28_PM-2.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/web-scraping-google-sheets/",
           "author": "Eamonn Cottrell",
           "description": "You read that right – you can practice web scraping without leaving your happy place: Google Sheets. Google Sheets has five built-in functions that help you import data from other sheets and other web pages. We'll walk through all of them in order from easiest (most limited) to hardest (most",
@@ -840,56 +850,6 @@
           "wordCount": 3231,
           "title": "How to Deliver Powerful Tech Conference Talks",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Thumbnail1_SK.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-minimum-stability-in-composer/",
-          "author": "Sule-Balogun Olanrewaju Ganiu",
-          "description": "Composer is a dependency management tool for projects running on PHP. PHP frameworks like Laravel, Symfony, and CodeIgniter use Composer to manage libraries and packages. In this tutorial, you’ll learn the following:  * Introduction to Composer.  * Minimum stability in Composer.  * Levels of stability, and the",
-          "link": "https://www.freecodecamp.org/news/what-is-minimum-stability-in-composer/",
-          "publishedOn": "2023-08-09T17:31:49.000Z",
-          "wordCount": 1164,
-          "title": "What is Minimum Stability In Composer?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/javier-garcia-chavez-bdZ3bzRde5g-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/",
-          "author": "Beau Carnes",
-          "description": "Ensuring the reliability and performance of your web applications is important. Testing is a key tool that will help with these things and more.  We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to use Cypress to create end-to-end tests for your JavaScript",
-          "link": "https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/",
-          "publishedOn": "2023-08-09T16:58:06.000Z",
-          "wordCount": 872,
-          "title": "Learn End-to-End Testing with Cypress for JavaScript Applications",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/cypress.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/mastering-javascript-functions-for-beginners/",
-          "author": "Beau Carnes",
-          "description": "Are you new to the world of programming? Are you eager to unlock the potential of JavaScript to create more readable and maintainable code? If so, we have an excellent course for you. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you everything you need",
-          "link": "https://www.freecodecamp.org/news/mastering-javascript-functions-for-beginners/",
-          "publishedOn": "2023-08-09T16:40:40.000Z",
-          "wordCount": 16060,
-          "title": "Mastering JavaScript Functions for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/functions.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-deploy-websites-and-applications/",
-          "author": "Ijeoma Igboagu",
-          "description": "Deploying your application is a key aspect of software development. Typically, having an app on your local system isn't enough – it needs to be accessible online. So choosing a suitable and user-friendly hosting and deployment plan is vital. The key to making the right decision lies in understanding the",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-websites-and-applications/",
-          "publishedOn": "2023-08-09T14:23:41.000Z",
-          "wordCount": 3303,
-          "title": "How to Deploy Your Websites and Apps – User-Friendly Deployment Strategies",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/cover-friendly-deploy.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/deploying-a-django-app-to-render/",
-          "author": "Sophia Iroegbu",
-          "description": "Render is a hosting platform that helps you deploy your apps easily. Whether you're building web servers, static websites, cron jobs, or containers, this tool can help you streamline the process. If you're a developer early in your career and you need to build a compelling CV, résumé, or portfolio,",
-          "link": "https://www.freecodecamp.org/news/deploying-a-django-app-to-render/",
-          "publishedOn": "2023-08-09T14:13:39.000Z",
-          "wordCount": 1604,
-          "title": "How to Deploy a Django App on Render",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Blog-Banner---Template--6-.png"
         }
       ]
     },
@@ -898,6 +858,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=129887",
+          "author": "Leila Sloman",
+          "description": "A new proof breaks a decades-long drought of progress on the problem of estimating the size of triangles created by cramming points into a square.            \nThe post The Biggest Smallest Triangle Just Got Smaller first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-biggest-smallest-triangle-just-got-smaller-20230908/",
+          "publishedOn": "2023-09-08T13:57:50.000Z",
+          "wordCount": 6709,
+          "title": "The Biggest Smallest Triangle Just Got Smaller",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/09/TinyTriangle-bydvdp-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=129832",
           "author": "Javier Barbuzano",
@@ -1077,16 +1047,6 @@
           "wordCount": 7960,
           "title": "Two Students Unravel a Widely Believed Math Conjecture",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/08/ApollonianCircles-bySamuelVelasco-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=128749",
-          "author": "Yasemin Saplakoglu",
-          "description": "By watching “minimal” cells regain the fitness they lost, researchers are testing whether a genome can be too simple to evolve.            \nThe post Even Synthetic Life Forms With a Tiny Genome Can Evolve first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/even-synthetic-life-forms-with-a-tiny-genome-can-evolve-20230809/",
-          "publishedOn": "2023-08-09T14:22:54.000Z",
-          "wordCount": 6993,
-          "title": "Even Synthetic Life Forms With a Tiny Genome Can Evolve",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/08/MinimalCellLessons-byDavidS.Goodsell-Social.webp"
         }
       ]
     },
@@ -1101,6 +1061,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/validate-urls-in-javascript/",
+          "author": null,
+          "description": "There's news on the URL validation front in JavaScript land! After all these years of cursing JavaScript for not having an easy way to validate a URL, there's a new method in town — URL.canParse()!\nURL.canParse('https://www.stefanjudis.com'); // true \nURL.canParse('www.stefanjudis.com'); // false\n\nHallelujah! URL.canParse() is a quick way to figure out if a string is a valid URL. But before we all get too excited, URL.canParse() is not cross-browser supported when writing this post. But you can find up-to-date browser support information below. 👇\n\n        \nMDN Compat Data (source)\nBrowser support info for canParse() static method \n              \n                \n\n                        \n                      \n                        \n                      \n                        \n      …",
+          "link": "https://www.stefanjudis.com/blog/validate-urls-in-javascript/",
+          "publishedOn": "2023-09-07T22:00:00.000Z",
+          "wordCount": 1742,
+          "title": "A new method to validate URLs in JavaScript (2023 edition) (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20new%20method%20to%20validate%20URLs%20in%20JavaScript%20(2023%20edition)/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/notes/conversation-closure/",
           "author": null,
@@ -1160,26 +1130,6 @@
           "wordCount": 1516,
           "title": "How to remove all event listeners from a DOM element (#snippet)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20remove%20all%20event%20listeners%20from%20a%20DOM%20element/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/how-to-show-typescript-type-annotations-in-code-snippets/",
-          "author": null,
-          "description": "Sometimes, I blog about TypeScript, and I always wondered if it's possible to render type annotations in syntax-highlighted code snippets on this blog.\nPrevious Google searches didn't help me, so here's another contribution to the internet: I finally found a project that allows rendering type annotations in code snippets.\nSay hello to \"Shiki Twoslash\"\n\nTwoslash allows you to add TypeScript type information to your code snippets. In their words, Twoslash is:\nmarkdown code samples powered by the syntax engine of Visual Studio Code\nmixed with the TypeScript compiler’s information.\nAnd that's pretty incredible, because it's also able to validate your code and show possible Typescript errors.\nts\n\ninterface Person {\n  name: string\n}\n \ninterface Person {\n  age: number\n}\n \n// `Person` is now merged and expects `name` and `age`\nconst p: Person = {\nProperty 'name' is missing in type '{ age: number; }' but required in type 'Person'.2741Property 'name' is missing in type '{ age: number; }' but required in type 'Person'.\n  age: 99\n}\n\n\nYou can let Twoslash do its job; if your snippets aren't correct, it'll complain and error out (unless you tell it that you expect an error like above).\nAnd because it uses the VS Code type checker, it works for JavaScript snippets, too!\njs\n\nconst a = {\n  joo: 'test'\n};\n \nconsole.log(a.foo);\nProperty 'foo' does not exist on type '{ joo: string; }'.2339Property 'foo' does not exist on type '{ joo: string; }'.\n\nAnd then, you can use some fancy markdown syntax to inspect variables and even show possible auto-completion values.\njs\n\nconst a = {\n  test: 'test'\n  testTwo: 'test'\n  testThree: 'test'\n};\n \nconsole.log(a.te\n                \ntest\ntestThree\ntestTwo\n\n \n \nconsole.log(a);\n           \nconst a: {\n    test: string;\n    testTwo: string;\n    testThree: string;\n}\n\n\nWild! 🤯\nI'm not entirely convinced I'll use Twoslash for every code snippet on the blog, but for TypeScript snippets — heck yeah!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/notes/how-to-show-typescript-type-annotations-in-code-snippets/",
-          "publishedOn": "2023-08-09T22:00:00.000Z",
-          "wordCount": 1513,
-          "title": "How to show TypeScript type annotations in code snippets (#note)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20show%20TypeScript%20type%20annotations%20in%20code%20snippets/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/copy-array-and-replace-one-element-at-index-javascript/",
-          "author": null,
-          "description": "How do you replace an array element at a given index?\nIs this a trick question? Not really.\nconst numbers = [1, 2, 3, 4, 5];\nnumbers[1] = 'new value';\nconsole.log(numbers); // [1, 'new value', 3, 4, 5]\n\nBut when you're using React or any framework betting on immutability, just changing an array entry will lead to subtle bugs because the array will still be the same object with the same reference. In an immutable world, data updates always have to result in a new object reference.\nHow can you change an array element via its index and spit out a new array in the same go then? A 12-years-old Stack Overflow question with 1.5m views has tons of advice, but because it's so old and has hundreds of upvotes, it's not showing the most modern solution in the top area.\nLet's have a quick look at creat…",
-          "link": "https://www.stefanjudis.com/snippets/copy-array-and-replace-one-element-at-index-javascript/",
-          "publishedOn": "2023-08-09T22:00:00.000Z",
-          "wordCount": 1697,
-          "title": "Copy an array and replace one element at a specific index with modern JavaScript (#snippet)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Copy%20an%20array%20and%20replace%20one%20element%20at%20a%20specific%20index%20with%20modern%20JavaScript/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
