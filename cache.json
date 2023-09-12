@@ -12,6 +12,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/improve-reactjs-code/",
+          "author": "Neha sharma",
+          "description": "ReactJS is one of the most popular JavaScript libraries for building scalable and performant applications.  When you're working on ReactJS projects, whether they're large or small, you'll need to focus on code quality, readability, maintainable, and scalability.  Writing good code will also help you reduce PR comments from",
+          "link": "https://www.freecodecamp.org/news/improve-reactjs-code/",
+          "publishedOn": "2023-09-11T20:34:10.000Z",
+          "wordCount": 3586,
+          "title": "How to Improve Your ReactJS Code – Tips for Code Readability and Performance",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Group-5.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/terraform-certified-associate-003-study-notes/",
+          "author": "Chris Williams",
+          "description": "I've been meaning to get my Terraform associates certification for some time now, but something always got in the way.  Finally I was able to sit down and work my way through the study materials. Currently Andrew Brown and I are creating two Terraform Bootcamps: one for beginners [https://terraform.cloudprojectbootcamp.com/]",
+          "link": "https://www.freecodecamp.org/news/terraform-certified-associate-003-study-notes/",
+          "publishedOn": "2023-09-11T19:17:49.000Z",
+          "wordCount": 6260,
+          "title": "Terraform Certified Associate (003) – How to Study for the Exam",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/terraform-course.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-no-code-game-with-gdevelop/",
+          "author": "Beau Carnes",
+          "description": "Have you ever dreamt of designing a video game but found yourself hesitant because of the coding aspect? Well, you can create your own came without code! We just released a course on the freeCodeCamp.org that will guide you through the creation of a wave defense game, all without having",
+          "link": "https://www.freecodecamp.org/news/create-a-no-code-game-with-gdevelop/",
+          "publishedOn": "2023-09-11T19:11:45.000Z",
+          "wordCount": 944,
+          "title": "Create a no-code game with GDevelop",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/gdevelop.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-requirementstxt-explained/",
+          "author": "Tantoluwa Heritage Alabi",
+          "description": "There are many Python packages we use to solve our coding problems daily. Take, for instance, the library \"Beautiful Soup,\" – it doesn't come with Python by default and needs to be installed separately.  Many projects rely on libraries and other dependencies, and installing each one can be tedious",
+          "link": "https://www.freecodecamp.org/news/python-requirementstxt-explained/",
+          "publishedOn": "2023-09-11T14:17:18.000Z",
+          "wordCount": 1451,
+          "title": "Python Requirements.txt – How to Create and Pip Install Requirements.txt in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/pexels-christina-morillo-1181671--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/eternalblue-explained-an-analysis-of-the-windows-flaw/",
+          "author": "Manish Shivanandhan",
+          "description": "",
+          "link": "https://www.freecodecamp.org/news/eternalblue-explained-an-analysis-of-the-windows-flaw/",
+          "publishedOn": "2023-09-11T08:31:41.000Z",
+          "wordCount": 1304,
+          "title": "EternalBlue Explained – An In-Depth Analysis of the Notorious Windows Flaw",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/eternalblue.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/podcast-learning-to-code-in-your-30s-patrick-san-juan/",
           "author": "Quincy Larson",
           "description": "Today I'm joined by Patrick San Juan, a software engineer who first learned to code in his 30s. I've known Patrick since the early days of freeCodeCamp. He has always been a positive, supportive force within the community. Patrick grew up the son of first-generation immigrants from the Philippines. His",
@@ -799,6 +849,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=129933",
+          "author": "Charlie Wood",
+          "description": "Measurement and entanglement both have a “spooky” nonlocal flavor to them. Now physicists are harnessing that nonlocality to probe the spread of quantum information and control it.            \nThe post Physicists Observe ‘Unobservable’ Quantum Phase Transition first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/physicists-observe-unobservable-quantum-phase-transition-20230911/",
+          "publishedOn": "2023-09-11T15:08:31.000Z",
+          "wordCount": 10721,
+          "title": "Physicists Observe ‘Unobservable’ Quantum Phase Transition",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/09/InformationPhases-byPaulChaikin-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=129887",
           "author": "Leila Sloman",
           "description": "A new proof breaks a decades-long drought of progress on the problem of estimating the size of triangles created by cramming points into a square.            \nThe post The Biggest Smallest Triangle Just Got Smaller first appeared on Quanta Magazine",
@@ -981,6 +1041,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-111/",
+          "author": null,
+          "description": "Happy Monday, party people!\n\nShould your JS projects always include a build step? Is the dotenv npm package now obsolete? And how could you create advanced transitions with the linear() easing function?\nThis week's Web Weekly includes all the answers and much more. Enjoy!\nI had coffee with a friend the other day, and unfortunately, she's looking for a new job. She entered tech, joined a friendly team with wonderful colleagues, and then... her company went bust.\nNow, she has a year of experience, and as it turns out, finding a junior web dev position is tough.\nWhen I started, I was incredibly lucky. A friend introduced me to a CTO, I \"randomly\" got an internship, and just like that, I entered a team with the kindest people teaching me all the things I didn't learn in Uni. It was this team t…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-111/",
+          "publishedOn": "2023-09-10T22:00:00.000Z",
+          "wordCount": 2526,
+          "title": "Web Weekly #111 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/validate-urls-in-javascript/",
           "author": null,
