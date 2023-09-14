@@ -12,6 +12,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/things-to-consider-when-picking-fonts/",
+          "author": "Seth Falco",
+          "description": "On the modern web, we've normalized fetching fonts from client-side, or embedding fonts in resources that are served to users. While this may be tempting, it actually makes very little sense for most use-cases. This isn't suggesting to never use external fonts. Just a reminder that fonts aren't free, and",
+          "link": "https://www.freecodecamp.org/news/things-to-consider-when-picking-fonts/",
+          "publishedOn": "2023-09-13T11:18:31.000Z",
+          "wordCount": 2517,
+          "title": "Things to Consider When Picking Fonts for your Next Project – An In-Depth Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/markus-spiske-f81ym3dE5N4-unsplash.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-fine-tune-the-donut-model/",
           "author": "Eivind Kjosbakken",
           "description": "The Donut model in Python is a model you can use to extract text from a given image. This can be useful in various scenarios, like scanning receipts, for example.  You can easily download the Donut model from GitHub [https://github.com/clovaai/donut]. But as is common with AI models, you should",
@@ -850,56 +860,6 @@
           "wordCount": 5569,
           "title": "JavaScript Tips to Help You Build Better Web Development Projects",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/start-graph--15-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-web-scraping-with-python-and-beautiful-soup-in-spanish-course-for-beginners/",
-          "author": "Estefania Cassingena Navone",
-          "description": "If your goal is to collect data from websites automatically, web scraping may be exactly what you need. In this course, you will learn all the basics with exercises and practical projects. We published a course on the freeCodeCamp.org Spanish YouTube channel [https://www.youtube.com/freecodecampespanol] that will teach you how to use",
-          "link": "https://www.freecodecamp.org/news/learn-web-scraping-with-python-and-beautiful-soup-in-spanish-course-for-beginners/",
-          "publishedOn": "2023-08-15T04:50:16.000Z",
-          "wordCount": 1077,
-          "title": "Learn Web Scraping with Python and Beautiful Soup in Spanish – Course for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Web-Scraping-Thumbnail.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/difference-between-default-and-named-exports-in-javascript/",
-          "author": "Yazdun Fadali",
-          "description": "JavaScript is one of the most popular programming languages among web developers. And it offers multiple ways to organize and share code between different files.  When working with modules, you might come across two common ways of exporting: Default exports and Named exports.  Understanding the difference between these",
-          "link": "https://www.freecodecamp.org/news/difference-between-default-and-named-exports-in-javascript/",
-          "publishedOn": "2023-08-14T16:36:15.000Z",
-          "wordCount": 3290,
-          "title": "What's the Difference Between Default and Named Exports in JavaScript?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Frame-6-2.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-become-a-microsoft-learn-student-ambassador/",
-          "author": "Salim Oyinlola",
-          "description": "The Microsoft Learn Student Ambassadors [https://mvp.microsoft.com/studentambassadors] program is a student-focused program designed to empower students to become advocates and leaders in the tech ecosystem.  Microsoft Learn Student Ambassadors are student leaders who collaborate with Microsoft to help fellow students learn about technology and engage with various Microsoft technologies and",
-          "link": "https://www.freecodecamp.org/news/how-to-become-a-microsoft-learn-student-ambassador/",
-          "publishedOn": "2023-08-14T16:11:33.000Z",
-          "wordCount": 2238,
-          "title": "How to Become a Microsoft Learn Student Ambassador",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/asdfghjkl-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-operators/",
-          "author": "Nathan Sebhastian",
-          "description": "JavaScript has many operators that you can use to perform operations on values and variables (also called operands) Based on the types of operations these JS operators perform, we can divide them up into seven groups:  1. Arithmetic Operators  2. Assignment Operators  3. Comparison Operators  4.",
-          "link": "https://www.freecodecamp.org/news/javascript-operators/",
-          "publishedOn": "2023-08-14T15:44:58.000Z",
-          "wordCount": 4006,
-          "title": "Learn JavaScript Operators – Logical, Comparison, Ternary, and More JS Operators With Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/JS-EVERY-OPERATOR.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/stable-diffusion-crash-course/",
-          "author": "Lynn Zheng",
-          "description": "Learn how to make AI Art with Stable Diffusion",
-          "link": "https://www.freecodecamp.org/news/stable-diffusion-crash-course/",
-          "publishedOn": "2023-08-14T13:35:55.000Z",
-          "wordCount": 1034,
-          "title": "How to Make AI Art with Stable Diffusion",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/stableif.png"
         }
       ]
     },
@@ -908,6 +868,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=130044",
+          "author": "Veronique Greenwood",
+          "description": "Because tree seedlings don’t grow as well when close to their parents, more tree species can be packed into tropical forests.            \nThe post ‘Species Repulsion’ Enables High Biodiversity in Tropical Trees first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/species-repulsion-enables-high-biodiversity-in-tropical-trees-20230913/",
+          "publishedOn": "2023-09-13T14:14:02.000Z",
+          "wordCount": 5522,
+          "title": "‘Species Repulsion’ Enables High Biodiversity in Tropical Trees",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/09/SpeciesRepulsion-byJoshWithers_iStock-Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=130013",
           "author": "Jordana Cepelewicz",
@@ -1087,16 +1057,6 @@
           "wordCount": 8552,
           "title": "Andreas Wagner Pursues the Secrets to Evolutionary Success",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/08/AndreasWagner-byThiMyLienNguyen-Default.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=128888",
-          "author": "Charlie Wood",
-          "description": "Giant black holes were supposed to be bit players in the early cosmic story. But recent James Webb Space Telescope observations are finding an unexpected abundance of the beasts.            \nThe post JWST Spots Giant Black Holes All Over the Early Universe first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/jwst-spots-giant-black-holes-all-over-the-early-universe-20230814/",
-          "publishedOn": "2023-08-14T14:29:48.000Z",
-          "wordCount": 10204,
-          "title": "JWST Spots Giant Black Holes All Over the Early Universe",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/08/AGNs-NASA-Social.webp"
         }
       ]
     },
