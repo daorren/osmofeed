@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-15T01:09:43.377Z</updated>
+    <updated>2023-09-16T01:07:06.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Disney Data Scientist Eric Leung on Math, Medicine, and Learning to Code]]></title>
+        <id>https://www.freecodecamp.org/news/podcast-data-scientist-at-disney-eric-leung-on-math-medicine-and-learning-to-code/</id>
+        <link href="https://www.freecodecamp.org/news/podcast-data-scientist-at-disney-eric-leung-on-math-medicine-and-learning-to-code/"/>
+        <updated>2023-09-15T20:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Today I'm joined by Eric Leung, Data Scientist at Disney and long-time open source contributor to freeCodeCamp. Eric Leung grew up in Oklahoma and learned a lot of math in high school. His friends wanted to go to medical school and he originally planned to join them. But instead]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the Solana Curriculum: Smart Contracts, dApps, and Command Line Tools]]></title>
+        <id>https://www.freecodecamp.org/news/solana-curriculum/</id>
+        <link href="https://www.freecodecamp.org/news/solana-curriculum/"/>
+        <updated>2023-09-15T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Solana Curriculum is live. You can now learn Solana's blockchain protocol and the Solana tool ecosystem interactively by building a series of projects. This curriculum is made possible by The Solana Foundation, who gave our charity a grant to 100% fund development of this curriculum. What will this curriculum]]></summary>
+        <author>
+            <name>Tom Mondloch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Quick Look at Bun 1.0 – The Node.js Alternative]]></title>
+        <id>https://www.freecodecamp.org/news/a-quick-look-at-bun-js/</id>
+        <link href="https://www.freecodecamp.org/news/a-quick-look-at-bun-js/"/>
+        <updated>2023-09-15T07:58:01.000Z</updated>
+        <summary type="html"><![CDATA[A wise man once told me, "When you start eating Bun, Node.js will feel bland". But why is that relevant? JavaScript got way faster with a new JavaScript runtime called Bun, which is now production-ready with its version 1.0 release. But how and why is it faster than Node.js? A]]></summary>
+        <author>
+            <name>Nishant Kumar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Contribute to Open Source Projects – Non-Technical Things You Should Know]]></title>
         <id>https://www.freecodecamp.org/news/how-to-contribute-to-open-source/</id>
@@ -1397,17 +1427,6 @@ The post Complexity Theory’s 50-Year Journey to the Limits of Knowledge first 
         <summary type="html"><![CDATA[Learn how to pass the HashiCorp Terraform Associate Certification (003) with this free 7-hour course. What is the HashiCorp Terraform Associate? HashiCorp is a company specializing in open-source tools for multi-cloud workloads. HashiCorp's most popular tool is Terraform, which allows DevOps Engineers to write code to provision infrastructure for multiple]]></summary>
         <author>
             <name>Andrew Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Math Proof Draws New Boundaries Around Black Hole Formation]]></title>
-        <id>https://www.quantamagazine.org/?p=129032</id>
-        <link href="https://www.quantamagazine.org/math-proof-draws-new-boundaries-around-black-hole-formation-20230816/"/>
-        <updated>2023-08-16T13:39:49.000Z</updated>
-        <summary type="html"><![CDATA[For a half century, mathematicians have tried to define the exact circumstances under which a black hole is destined to exist. A new proof shows how a cube can help answer the question.            
-The post Math Proof Draws New Boundaries Around Black Hole Formation first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Steve Nadis</name>
         </author>
     </entry>
 </feed>

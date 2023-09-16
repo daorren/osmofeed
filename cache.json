@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/podcast-data-scientist-at-disney-eric-leung-on-math-medicine-and-learning-to-code/",
+          "author": "Quincy Larson",
+          "description": "Today I'm joined by Eric Leung, Data Scientist at Disney and long-time open source contributor to freeCodeCamp. Eric Leung grew up in Oklahoma and learned a lot of math in high school. His friends wanted to go to medical school and he originally planned to join them. But instead",
+          "link": "https://www.freecodecamp.org/news/podcast-data-scientist-at-disney-eric-leung-on-math-medicine-and-learning-to-code/",
+          "publishedOn": "2023-09-15T20:44:00.000Z",
+          "wordCount": 910,
+          "title": "Podcast: Disney Data Scientist Eric Leung on Math, Medicine, and Learning to Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/PXL_20230602_205001196__1__jpg-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/solana-curriculum/",
+          "author": "Tom Mondloch",
+          "description": "The Solana Curriculum is live. You can now learn Solana's blockchain protocol and the Solana tool ecosystem interactively by building a series of projects. This curriculum is made possible by The Solana Foundation, who gave our charity a grant to 100% fund development of this curriculum. What will this curriculum",
+          "link": "https://www.freecodecamp.org/news/solana-curriculum/",
+          "publishedOn": "2023-09-15T13:00:00.000Z",
+          "wordCount": 1151,
+          "title": "Introducing the Solana Curriculum: Smart Contracts, dApps, and Command Line Tools",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/arturo-castaneyra-7laIG_Xv5FI-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/a-quick-look-at-bun-js/",
+          "author": "Nishant Kumar",
+          "description": "A wise man once told me, \"When you start eating Bun, Node.js will feel bland\". But why is that relevant? JavaScript got way faster with a new JavaScript runtime called Bun, which is now production-ready with its version 1.0 release. But how and why is it faster than Node.js? A",
+          "link": "https://www.freecodecamp.org/news/a-quick-look-at-bun-js/",
+          "publishedOn": "2023-09-15T07:58:01.000Z",
+          "wordCount": 1318,
+          "title": "A Quick Look at Bun 1.0 – The Node.js Alternative",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/But-why-is-that-relevant--2-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-contribute-to-open-source/",
           "author": "Ayu Adiati",
           "description": "I've contributed to open-source projects for a few years and learned a lot from the process. These experiences allowed me to look closer at the open source flow, from the technical, such as Git and GitHub, to the non-technical aspects. Although they are as important as the technical sides, the",
@@ -1057,16 +1087,6 @@
           "wordCount": 21551,
           "title": "Complexity Theory’s 50-Year Journey to the Limits of Knowledge",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/08/Metacomplexity-byTommyParker-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=129032",
-          "author": "Steve Nadis",
-          "description": "For a half century, mathematicians have tried to define the exact circumstances under which a black hole is destined to exist. A new proof shows how a cube can help answer the question.            \nThe post Math Proof Draws New Boundaries Around Black Hole Formation first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/math-proof-draws-new-boundaries-around-black-hole-formation-20230816/",
-          "publishedOn": "2023-08-16T13:39:49.000Z",
-          "wordCount": 5391,
-          "title": "Math Proof Draws New Boundaries Around Black Hole Formation",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/08/HoopConjecture-byAllisonLi-Default.webp"
         }
       ]
     },
