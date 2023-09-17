@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-16T01:07:06.933Z</updated>
+    <updated>2023-09-17T01:12:41.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -1323,110 +1323,6 @@ If you have other SVG in your toolbox, shoot them my way! I'd love to extend thi
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to use headless Chrome in serverless functions with a 50MB limit (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/how-to-use-headless-chrome-in-serverless-functions/</id>
-        <link href="https://www.stefanjudis.com/blog/how-to-use-headless-chrome-in-serverless-functions/"/>
-        <updated>2023-08-17T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I collect online web development tools on Tiny Helpers, and some parts of the site are automatic tool screenshots.
-The site is deployed on Vercel, and screenshots are taken by a serverless function endpoint that spins up headless Chrome to take a picture. Here's an example screenshot URL: https://tiny-helpers.dev/api/screenshot/?url=https://css.land/lch/&ratio=1.
-And this setup worked great until Vercel announced Node 14 end of life. And with Node 16 or 18 my initial setup with puppeteer and chrome-aws-lambda broke. Google searches weren't very helpful, so let me share how I got it to run again.
-Using headless Chrome in serverless functions and Node 16+
-
-After switching to Node 16 and later version 18, I was hitting the Vercel function bundle limit. I don't know why the exact same setup gr…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to remove all event listeners from a DOM element (#snippet)]]></title>
-        <id>https://www.stefanjudis.com/snippets/how-to-remove-all-event-listeners-from-a-dom-element/</id>
-        <link href="https://www.stefanjudis.com/snippets/how-to-remove-all-event-listeners-from-a-dom-element/"/>
-        <updated>2023-08-17T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Removing event listeners from DOM elements is pretty annoying because you must have the registered event handler function at hand.
-function handleEvent() { /* ... */ }
-
-// add an event listener
-document.querySelector('button')
-  .addEventListener('click', handleEvent);
-
-// to remove an event listener, the event type ('click') 
-// and the function ('handleEvent') have to match 
-// the `addEventListener` call
-document.querySelector('button')
-  .removeEventListener('click', handleEvent);
-
-With somewhat modern JavaScript, you could also use AbortSignals or the once config option to remove event listeners, but what if it isn't your source code that's adding event listeners? What if there's one annoying 3rd party script messing with your events and you have to keep it?
-Today I learned about a nuclear option to remove all existing event listeners.
-const button = document.querySelector('button);
-
-// replace the element with a copy of itself
-// and nuke all the event listeners
-button.replaceWith(button.cloneNode(true));
-
-Boom! And that's it — replacing a DOM element with a cloned version of itself removes all previously registered event handlers. Pretty handy!
-If you want to see this pattern in action, here we go. 👇
-[Interactive component: visit the article to see it...]
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is College Still Worth it? Tips from my 20 Years in Adult Education]]></title>
-        <id>https://www.freecodecamp.org/news/is-college-worth-it/</id>
-        <link href="https://www.freecodecamp.org/news/is-college-worth-it/"/>
-        <updated>2023-08-17T17:46:36.000Z</updated>
-        <summary type="html"><![CDATA[So many people ask me each week: is college still worth it? In this 1-hour video I answer this question and other commonly asked questions about university. I've been in adult education for two decades at this point, and even though I'm not a labor market economist, I do feel]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complexity Theory’s 50-Year Journey to the Limits of Knowledge]]></title>
-        <id>https://www.quantamagazine.org/?p=129009</id>
-        <link href="https://www.quantamagazine.org/complexity-theorys-50-year-journey-to-the-limits-of-knowledge-20230817/"/>
-        <updated>2023-08-17T16:00:21.000Z</updated>
-        <summary type="html"><![CDATA[How hard is it to prove that problems are hard to solve? Meta-complexity theorists have been asking questions like this for decades. A string of recent results has started to deliver answers.            
-The post Complexity Theory’s 50-Year Journey to the Limits of Knowledge first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Ben Brubaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement a Blender Model in a React.js Application using Three.js]]></title>
-        <id>https://www.freecodecamp.org/news/blender-three-js-react-js/</id>
-        <link href="https://www.freecodecamp.org/news/blender-three-js-react-js/"/>
-        <updated>2023-08-17T14:58:49.000Z</updated>
-        <summary type="html"><![CDATA[In this step-by-step guide, you'll learn how to build a basic Blender file with incorporated fundamental animations. After that, you'll learn how to integrate Three.js with your React apps using React Three Fiber.  Getting familiar with these concepts can help you make sure your upcoming React.js applications stand out.]]></summary>
-        <author>
-            <name>Matthes Bär</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn HTML and CSS – Handbook for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/html-css-handbook-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/html-css-handbook-for-beginners/"/>
-        <updated>2023-08-17T14:49:16.000Z</updated>
-        <summary type="html"><![CDATA[Greetings, and welcome to this comprehensive HTML and CSS handbook. My goal is to teach you everything you need to know about building fast and beautiful websites that look great on any device. I'm assuming you have no knowledge of HTML or CSS and want to learn everything from scratch.]]></summary>
-        <author>
-            <name>Karlgusta Annoh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HashiCorp Terraform Associate Certification Study Course – Pass the Exam With This Free 7 Hour Course]]></title>
-        <id>https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course/</id>
-        <link href="https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course/"/>
-        <updated>2023-08-17T14:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to pass the HashiCorp Terraform Associate Certification (003) with this free 7-hour course. What is the HashiCorp Terraform Associate? HashiCorp is a company specializing in open-source tools for multi-cloud workloads. HashiCorp's most popular tool is Terraform, which allows DevOps Engineers to write code to provision infrastructure for multiple]]></summary>
-        <author>
-            <name>Andrew Brown</name>
         </author>
     </entry>
 </feed>

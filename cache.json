@@ -860,46 +860,6 @@
           "wordCount": 3837,
           "title": "How to Use JSON Server for Front-end Development",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Cover-image-for-my-json-server-article-on-freecodecamp.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/is-college-worth-it/",
-          "author": "Quincy Larson",
-          "description": "So many people ask me each week: is college still worth it? In this 1-hour video I answer this question and other commonly asked questions about university. I've been in adult education for two decades at this point, and even though I'm not a labor market economist, I do feel",
-          "link": "https://www.freecodecamp.org/news/is-college-worth-it/",
-          "publishedOn": "2023-08-17T17:46:36.000Z",
-          "wordCount": 5627,
-          "title": "Is College Still Worth it? Tips from my 20 Years in Adult Education",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/maxresdefault.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/blender-three-js-react-js/",
-          "author": "Matthes Bär",
-          "description": "In this step-by-step guide, you'll learn how to build a basic Blender file with incorporated fundamental animations. After that, you'll learn how to integrate Three.js with your React apps using React Three Fiber.  Getting familiar with these concepts can help you make sure your upcoming React.js applications stand out.",
-          "link": "https://www.freecodecamp.org/news/blender-three-js-react-js/",
-          "publishedOn": "2023-08-17T14:58:49.000Z",
-          "wordCount": 4658,
-          "title": "How to Implement a Blender Model in a React.js Application using Three.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/pexels-chevanon-photography-1335971.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/html-css-handbook-for-beginners/",
-          "author": "Karlgusta Annoh",
-          "description": "Greetings, and welcome to this comprehensive HTML and CSS handbook. My goal is to teach you everything you need to know about building fast and beautiful websites that look great on any device. I'm assuming you have no knowledge of HTML or CSS and want to learn everything from scratch.",
-          "link": "https://www.freecodecamp.org/news/html-css-handbook-for-beginners/",
-          "publishedOn": "2023-08-17T14:49:16.000Z",
-          "wordCount": 17001,
-          "title": "Learn HTML and CSS – Handbook for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Learn-HTML-and-CSS-Handbook-Cover--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course/",
-          "author": "Andrew Brown",
-          "description": "Learn how to pass the HashiCorp Terraform Associate Certification (003) with this free 7-hour course. What is the HashiCorp Terraform Associate? HashiCorp is a company specializing in open-source tools for multi-cloud workloads. HashiCorp's most popular tool is Terraform, which allows DevOps Engineers to write code to provision infrastructure for multiple",
-          "link": "https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course/",
-          "publishedOn": "2023-08-17T14:07:00.000Z",
-          "wordCount": 974,
-          "title": "HashiCorp Terraform Associate Certification Study Course – Pass the Exam With This Free 7 Hour Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/hashicorp.png"
         }
       ]
     },
@@ -1077,16 +1037,6 @@
           "wordCount": 5358,
           "title": "Quaking Giants Might Solve the Mysteries of Stellar Magnetism",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/08/RedGiantInnards-byKristinaArmitage-Social-1.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=129009",
-          "author": "Ben Brubaker",
-          "description": "How hard is it to prove that problems are hard to solve? Meta-complexity theorists have been asking questions like this for decades. A string of recent results has started to deliver answers.            \nThe post Complexity Theory’s 50-Year Journey to the Limits of Knowledge first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/complexity-theorys-50-year-journey-to-the-limits-of-knowledge-20230817/",
-          "publishedOn": "2023-08-17T16:00:21.000Z",
-          "wordCount": 21551,
-          "title": "Complexity Theory’s 50-Year Journey to the Limits of Knowledge",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/08/Metacomplexity-byTommyParker-Social.webp"
         }
       ]
     },
@@ -1160,26 +1110,6 @@
           "wordCount": 2069,
           "title": "Fancy SVG filters (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Fancy%20SVG%20filters/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/how-to-use-headless-chrome-in-serverless-functions/",
-          "author": null,
-          "description": "I collect online web development tools on Tiny Helpers, and some parts of the site are automatic tool screenshots.\nThe site is deployed on Vercel, and screenshots are taken by a serverless function endpoint that spins up headless Chrome to take a picture. Here's an example screenshot URL: https://tiny-helpers.dev/api/screenshot/?url=https://css.land/lch/&ratio=1.\nAnd this setup worked great until Vercel announced Node 14 end of life. And with Node 16 or 18 my initial setup with puppeteer and chrome-aws-lambda broke. Google searches weren't very helpful, so let me share how I got it to run again.\nUsing headless Chrome in serverless functions and Node 16+\n\nAfter switching to Node 16 and later version 18, I was hitting the Vercel function bundle limit. I don't know why the exact same setup gr…",
-          "link": "https://www.stefanjudis.com/blog/how-to-use-headless-chrome-in-serverless-functions/",
-          "publishedOn": "2023-08-17T22:00:00.000Z",
-          "wordCount": 1734,
-          "title": "How to use headless Chrome in serverless functions with a 50MB limit (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20use%20headless%20Chrome%20in%20serverless%20functions%20with%20a%2050MB%20limit/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/how-to-remove-all-event-listeners-from-a-dom-element/",
-          "author": null,
-          "description": "Removing event listeners from DOM elements is pretty annoying because you must have the registered event handler function at hand.\nfunction handleEvent() { /* ... */ }\n\n// add an event listener\ndocument.querySelector('button')\n  .addEventListener('click', handleEvent);\n\n// to remove an event listener, the event type ('click') \n// and the function ('handleEvent') have to match \n// the `addEventListener` call\ndocument.querySelector('button')\n  .removeEventListener('click', handleEvent);\n\nWith somewhat modern JavaScript, you could also use AbortSignals or the once config option to remove event listeners, but what if it isn't your source code that's adding event listeners? What if there's one annoying 3rd party script messing with your events and you have to keep it?\nToday I learned about a nuclear option to remove all existing event listeners.\nconst button = document.querySelector('button);\n\n// replace the element with a copy of itself\n// and nuke all the event listeners\nbutton.replaceWith(button.cloneNode(true));\n\nBoom! And that's it — replacing a DOM element with a cloned version of itself removes all previously registered event handlers. Pretty handy!\nIf you want to see this pattern in action, here we go. 👇\n[Interactive component: visit the article to see it...]\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/snippets/how-to-remove-all-event-listeners-from-a-dom-element/",
-          "publishedOn": "2023-08-17T22:00:00.000Z",
-          "wordCount": 1516,
-          "title": "How to remove all event listeners from a DOM element (#snippet)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20remove%20all%20event%20listeners%20from%20a%20DOM%20element/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
