@@ -12,6 +12,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-deploy-aws-lambda-with-serverless/",
+          "author": "Destiny Erhabor",
+          "description": "Serverless computing has revolutionized the way developers build and deploy applications in the cloud. It takes away the complexities of server management, allowing developers to focus solely on writing code and delivering value to their users. In the realm of serverless computing, AWS Lambda stands out as a leading platform",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-aws-lambda-with-serverless/",
+          "publishedOn": "2023-09-18T23:52:30.000Z",
+          "wordCount": 2211,
+          "title": "How to Deploy an AWS Lambda Function with Serverless Framework",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/joshua-woroniecki-lzh3hPtJz9c-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-and-deploy-an-ai-saas-with-paid-subscriptions/",
+          "author": "Beau Carnes",
+          "description": "It is easier than ever to launch your own Software as a Service (SaaS) company! (The hard part is getting people interested in it). We just posted a course on the freeCodeCamp.org YouTube channel that will guide you through every step of building and deploying a full-stack AI SaaS application.",
+          "link": "https://www.freecodecamp.org/news/build-and-deploy-an-ai-saas-with-paid-subscriptions/",
+          "publishedOn": "2023-09-18T17:14:49.000Z",
+          "wordCount": 906,
+          "title": "Build and Deploy an AI SaaS with Paid Subscriptions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/saas.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-confirm-your-application-is-using-nfs/",
+          "author": "Jose Vicente Nunez",
+          "description": "I was tasked recently to find which of our processes was accessing a NFS share [https://en.wikipedia.org/wiki/Network_File_System]. During this process, I found that some tools are better adapted than others for the task. In this article, I want to share with you my findings. The whole process was fun and gave",
+          "link": "https://www.freecodecamp.org/news/how-to-confirm-your-application-is-using-nfs/",
+          "publishedOn": "2023-09-18T06:54:37.000Z",
+          "wordCount": 4154,
+          "title": "Network File System – How to Confirm Your Application is Using NFS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/article-raspberrypi-cover.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/podcast-data-scientist-at-disney-eric-leung-on-math-medicine-and-learning-to-code/",
           "author": "Quincy Larson",
           "description": "Today I'm joined by Eric Leung, Data Scientist at Disney and long-time open source contributor to freeCodeCamp. Eric Leung grew up in Oklahoma and learned a lot of math in high school. His friends wanted to go to medical school and he originally planned to join them. But instead",
@@ -869,6 +899,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=130140",
+          "author": "Viviane Callier",
+          "description": "Every species develops at its own unique tempo, leaving scientists to wonder what governs their timing. A suite of new findings suggests that cells use basic metabolic processes as clocks.            \nThe post What Makes Life Tick? Mitochondria May Keep Time for Cells first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/what-makes-life-tick-mitochondria-may-keep-time-for-cells-20230918/",
+          "publishedOn": "2023-09-18T14:54:57.000Z",
+          "wordCount": 9108,
+          "title": "What Makes Life Tick? Mitochondria May Keep Time for Cells",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/09/DevelopmentalRates-byCarlosArrojo-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=130097",
           "author": "Lakshmi Chandrasekaran",
           "description": "By using “classical shadows,” ordinary computers can beat quantum computers at the tricky task of understanding quantum behaviors.            \nThe post Machine Learning Aids Classical Modeling of Quantum Systems first appeared on Quanta Magazine",
@@ -1100,16 +1140,6 @@
           "wordCount": 2205,
           "title": "Web Weekly #109 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/fancy-svg-filters/",
-          "author": null,
-          "description": "The CSS filter property provides two hands full of handy filters.\nfilter: blur(5px);\nfilter: brightness(0.4);\nfilter: contrast(200%);\nfilter: drop-shadow(16px 16px 20px blue);\nfilter: grayscale(50%);\n...\n\nAnd that's cool, but filter really shines when you apply custom SVG filters with the url() function.\nfilter: url(\"filters.svg#filter-id\");\n\nSVG is such a secret powerhouse for creating custom filters. This post is my SVG filter bookmark, which I'll extend over time.\nAn SVG filter to cut out black pixels\n\nArtur Bień's post \"Using HTML elements as CSS masks\" triggered this post because he shared a very fancy SVG filter to mask out black pixels.\n[Interactive component: visit the article to see it...]\nIf you play around with it, you'll discover that it only masks \"real black\" pixels. Still — it's a wild filter!\nA natural shadow SVG filter\n\nI love a good box-shadow, but one problem with CSS shadows is that they only displays a single color. Wouldn't it be nice if you could create shadows that pick up a DOM elements color?\nGuess what? SVG can do natural lighting shadows, too!\n[Interactive component: visit the article to see it...]\nUnfortunately, it looks like Safari still has issues with this filter, but hey... the world won't go down if Safari users won't see a colorful shadow. 🤷‍♂️\n\n      \n        \n          \n        \n      \n      \nA fancy noise / dither SVG filter\n\nI found this effect on Robin Rendle's blog, and I love the rough and artsy feeling of added SVG noise.\n[Interactive component: visit the article to see it...]\nNote that this effect combines three SVG filters that are rotated via a @keyframes animation.\n\nIf you have other SVG in your toolbox, shoot them my way! I'd love to extend this list!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/blog/fancy-svg-filters/",
-          "publishedOn": "2023-08-19T22:00:00.000Z",
-          "wordCount": 2069,
-          "title": "Fancy SVG filters (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Fancy%20SVG%20filters/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },

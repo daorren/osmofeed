@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-18T01:08:59.883Z</updated>
+    <updated>2023-09-19T01:09:46.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy an AWS Lambda Function with Serverless Framework]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-deploy-aws-lambda-with-serverless/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-aws-lambda-with-serverless/"/>
+        <updated>2023-09-18T23:52:30.000Z</updated>
+        <summary type="html"><![CDATA[Serverless computing has revolutionized the way developers build and deploy applications in the cloud. It takes away the complexities of server management, allowing developers to focus solely on writing code and delivering value to their users. In the realm of serverless computing, AWS Lambda stands out as a leading platform]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build and Deploy an AI SaaS with Paid Subscriptions]]></title>
+        <id>https://www.freecodecamp.org/news/build-and-deploy-an-ai-saas-with-paid-subscriptions/</id>
+        <link href="https://www.freecodecamp.org/news/build-and-deploy-an-ai-saas-with-paid-subscriptions/"/>
+        <updated>2023-09-18T17:14:49.000Z</updated>
+        <summary type="html"><![CDATA[It is easier than ever to launch your own Software as a Service (SaaS) company! (The hard part is getting people interested in it). We just posted a course on the freeCodeCamp.org YouTube channel that will guide you through every step of building and deploying a full-stack AI SaaS application.]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Makes Life Tick? Mitochondria May Keep Time for Cells]]></title>
+        <id>https://www.quantamagazine.org/?p=130140</id>
+        <link href="https://www.quantamagazine.org/what-makes-life-tick-mitochondria-may-keep-time-for-cells-20230918/"/>
+        <updated>2023-09-18T14:54:57.000Z</updated>
+        <summary type="html"><![CDATA[Every species develops at its own unique tempo, leaving scientists to wonder what governs their timing. A suite of new findings suggests that cells use basic metabolic processes as clocks.            
+The post What Makes Life Tick? Mitochondria May Keep Time for Cells first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Viviane Callier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Network File System – How to Confirm Your Application is Using NFS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-confirm-your-application-is-using-nfs/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-confirm-your-application-is-using-nfs/"/>
+        <updated>2023-09-18T06:54:37.000Z</updated>
+        <summary type="html"><![CDATA[I was tasked recently to find which of our processes was accessing a NFS share [https://en.wikipedia.org/wiki/Network_File_System]. During this process, I found that some tools are better adapted than others for the task. In this article, I want to share with you my findings. The whole process was fun and gave]]></summary>
+        <author>
+            <name>Jose Vicente Nunez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podcast: Disney Data Scientist Eric Leung on Math, Medicine, and Learning to Code]]></title>
         <id>https://www.freecodecamp.org/news/podcast-data-scientist-at-disney-eric-leung-on-math-medicine-and-learning-to-code/</id>
@@ -1270,57 +1311,6 @@ But SVG filters aren't only about masking out pixels. My favorite SVG filter use
 And then there's fancy stuff, like Robin Rendle's SVG noise filter animation.
 The filter's rough and artsy. I love it!
 I doubt I'll start creating these wild effects myself soon, but I started collecting beautiful SVG filter examples. Do you know any more fancy filters…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fancy SVG filters (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/fancy-svg-filters/</id>
-        <link href="https://www.stefanjudis.com/blog/fancy-svg-filters/"/>
-        <updated>2023-08-19T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The CSS filter property provides two hands full of handy filters.
-filter: blur(5px);
-filter: brightness(0.4);
-filter: contrast(200%);
-filter: drop-shadow(16px 16px 20px blue);
-filter: grayscale(50%);
-...
-
-And that's cool, but filter really shines when you apply custom SVG filters with the url() function.
-filter: url("filters.svg#filter-id");
-
-SVG is such a secret powerhouse for creating custom filters. This post is my SVG filter bookmark, which I'll extend over time.
-An SVG filter to cut out black pixels
-
-Artur Bień's post "Using HTML elements as CSS masks" triggered this post because he shared a very fancy SVG filter to mask out black pixels.
-[Interactive component: visit the article to see it...]
-If you play around with it, you'll discover that it only masks "real black" pixels. Still — it's a wild filter!
-A natural shadow SVG filter
-
-I love a good box-shadow, but one problem with CSS shadows is that they only displays a single color. Wouldn't it be nice if you could create shadows that pick up a DOM elements color?
-Guess what? SVG can do natural lighting shadows, too!
-[Interactive component: visit the article to see it...]
-Unfortunately, it looks like Safari still has issues with this filter, but hey... the world won't go down if Safari users won't see a colorful shadow. 🤷‍♂️
-
-      
-        
-          
-        
-      
-      
-A fancy noise / dither SVG filter
-
-I found this effect on Robin Rendle's blog, and I love the rough and artsy feeling of added SVG noise.
-[Interactive component: visit the article to see it...]
-Note that this effect combines three SVG filters that are rotated via a @keyframes animation.
-
-If you have other SVG in your toolbox, shoot them my way! I'd love to extend this list!
-
-
-          
-          
-            Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>
