@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-19T01:09:46.247Z</updated>
+    <updated>2023-09-20T01:09:05.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Concepts to Know Before Learning Node.js]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-node-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-node-js/"/>
+        <updated>2023-09-19T15:12:57.000Z</updated>
+        <summary type="html"><![CDATA[Before Node.js came into existence,  JavaScript could only be run on the browser. It could only be used as a scripting language for frontend web development.  Then, Node.js came to free JavaScript from this confinement. It made JavaScript ubiquitous (meaning it could now be run everywhere). Node.js is a]]></summary>
+        <author>
+            <name>Musab Habeeb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Physical Process That Powers a New Type of Generative AI]]></title>
+        <id>https://www.quantamagazine.org/?p=130253</id>
+        <link href="https://www.quantamagazine.org/new-physics-inspired-generative-ai-exceeds-expectations-20230919/"/>
+        <updated>2023-09-19T14:15:33.000Z</updated>
+        <summary type="html"><![CDATA[Some modern image generators rely on the principles of diffusion to create images. Alternatives based on the process behind the distribution of charged particles may yield even better results.            
+The post The Physical Process That Powers a New Type of Generative AI first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steve Nadis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explaining Go's WebAssembly System Interface support]]></title>
+        <id>https://golangweekly.com/issues/476</id>
+        <link href="https://golangweekly.com/issues/476"/>
+        <updated>2023-09-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#​476 — September 19, 2023
+
+
+Unsub  |  Web Version
+
+
+
+Go Weekly
+
+
+
+
+  
+
+
+
+
+
+  
+  
+fx 30: The Go-Powered Terminal JSON Viewer — fx has long been a useful tool for looking at JSON files, but Anton has taken the opportunity to rewrite it from the ground up with a new themed TUI look, regex search, better wrapping, fuzzy search, and support for “even the most massive JSON files.” A fantastic tool that's a great example of what Go excels at.
+Anton Medvedev 
+
+
+  
+  
+On WASI Support in Go — Recent versions of Go have introduced the ability to target WebAssembly and the WebAssembly System Interface (WASI) that enables WASM to interact with the outside world. This post covers the basics and shares where things stand with Go’s still-nascent support.
+Brandhorst-Satzkorn, Fabre, Gryski, et al. 
+
+
+  
+ …]]></summary>
+        <author>
+            <name>Golang Weekly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Deploy an AWS Lambda Function with Serverless Framework]]></title>
         <id>https://www.freecodecamp.org/news/how-to-deploy-aws-lambda-with-serverless/</id>
@@ -1294,25 +1356,6 @@ The post Quaking Giants Might Solve the Mysteries of Stellar Magnetism first app
         <summary type="html"><![CDATA[One of the most common responsibilities for front-end developers is handling the data in their front-end applications. You’ll need to be able to retrieve data from an API, manipulate it, and then render it on the screen in a modern web application for user interactions.  Efficient communication between the]]></summary>
         <author>
             <name>Juliet Ofoegbu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #109 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-109/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-109/"/>
-        <updated>2023-08-20T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! 👋
-
-When will we be able to animate the display property? What's CSS @starting-style? And when will the HTML search element hit the baseline?
-This week's Web Weekly includes all the answers and much more. Enjoy!
-Artur Bień described how to use SVG filters to mask out a DOM element's black pixels. Wild!
-The filter uses feColorMatrix, and oh boy... I've no idea how this works. 😅
-But SVG filters aren't only about masking out pixels. My favorite SVG filter use case is making components naturally reflect their colors.
-And then there's fancy stuff, like Robin Rendle's SVG noise filter animation.
-The filter's rough and artsy. I love it!
-I doubt I'll start creating these wild effects myself soon, but I started collecting beautiful SVG filter examples. Do you know any more fancy filters…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

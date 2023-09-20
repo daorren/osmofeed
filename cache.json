@@ -12,6 +12,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-node-js/",
+          "author": "Musab Habeeb",
+          "description": "Before Node.js came into existence,  JavaScript could only be run on the browser. It could only be used as a scripting language for frontend web development.  Then, Node.js came to free JavaScript from this confinement. It made JavaScript ubiquitous (meaning it could now be run everywhere). Node.js is a",
+          "link": "https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-node-js/",
+          "publishedOn": "2023-09-19T15:12:57.000Z",
+          "wordCount": 3367,
+          "title": "JavaScript Concepts to Know Before Learning Node.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/JavaScript-Concepts-to-master-before-Node.js.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-deploy-aws-lambda-with-serverless/",
           "author": "Destiny Erhabor",
           "description": "Serverless computing has revolutionized the way developers build and deploy applications in the cloud. It takes away the complexities of server management, allowing developers to focus solely on writing code and delivering value to their users. In the realm of serverless computing, AWS Lambda stands out as a leading platform",
@@ -899,6 +909,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=130253",
+          "author": "Steve Nadis",
+          "description": "Some modern image generators rely on the principles of diffusion to create images. Alternatives based on the process behind the distribution of charged particles may yield even better results.            \nThe post The Physical Process That Powers a New Type of Generative AI first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/new-physics-inspired-generative-ai-exceeds-expectations-20230919/",
+          "publishedOn": "2023-09-19T14:15:33.000Z",
+          "wordCount": 5661,
+          "title": "The Physical Process That Powers a New Type of Generative AI",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/09/PoissonGenerations-byNashWeerasekera-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=130140",
           "author": "Viviane Callier",
           "description": "Every species develops at its own unique tempo, leaving scientists to wonder what governs their timing. A suite of new findings suggests that cells use basic metabolic processes as clocks.            \nThe post What Makes Life Tick? Mitochondria May Keep Time for Cells first appeared on Quanta Magazine",
@@ -1130,16 +1150,6 @@
           "wordCount": 2118,
           "title": "Web Weekly #110 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-109/",
-          "author": null,
-          "description": "Guten Tag! 👋\n\nWhen will we be able to animate the display property? What's CSS @starting-style? And when will the HTML search element hit the baseline?\nThis week's Web Weekly includes all the answers and much more. Enjoy!\nArtur Bień described how to use SVG filters to mask out a DOM element's black pixels. Wild!\nThe filter uses feColorMatrix, and oh boy... I've no idea how this works. 😅\nBut SVG filters aren't only about masking out pixels. My favorite SVG filter use case is making components naturally reflect their colors.\nAnd then there's fancy stuff, like Robin Rendle's SVG noise filter animation.\nThe filter's rough and artsy. I love it!\nI doubt I'll start creating these wild effects myself soon, but I started collecting beautiful SVG filter examples. Do you know any more fancy filters…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-109/",
-          "publishedOn": "2023-08-20T22:00:00.000Z",
-          "wordCount": 2205,
-          "title": "Web Weekly #109 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
     },
@@ -1148,6 +1158,16 @@
       "feedUrl": "https://golangweekly.com/rss/",
       "siteUrl": "https://golangweekly.com/",
       "articles": [
+        {
+          "id": "https://golangweekly.com/issues/476",
+          "author": null,
+          "description": "#​476 — September 19, 2023\n\n\nUnsub  |  Web Version\n\n\n\nGo Weekly\n\n\n\n\n  \n\n\n\n\n\n  \n  \nfx 30: The Go-Powered Terminal JSON Viewer — fx has long been a useful tool for looking at JSON files, but Anton has taken the opportunity to rewrite it from the ground up with a new themed TUI look, regex search, better wrapping, fuzzy search, and support for “even the most massive JSON files.” A fantastic tool that's a great example of what Go excels at.\nAnton Medvedev \n\n\n  \n  \nOn WASI Support in Go — Recent versions of Go have introduced the ability to target WebAssembly and the WebAssembly System Interface (WASI) that enables WASM to interact with the outside world. This post covers the basics and shares where things stand with Go’s still-nascent support.\nBrandhorst-Satzkorn, Fabre, Gryski, et al. \n\n\n  \n …",
+          "link": "https://golangweekly.com/issues/476",
+          "publishedOn": "2023-09-19T00:00:00.000Z",
+          "wordCount": 770,
+          "title": "Explaining Go's WebAssembly System Interface support",
+          "imageUrl": null
+        },
         {
           "id": "https://golangweekly.com/issues/475",
           "author": null,
