@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-20T01:09:05.299Z</updated>
+    <updated>2023-09-21T01:08:37.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Code Dark Mode for Google Sheets with Apps Script and JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-code-dark-mode-for-google-sheets/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-code-dark-mode-for-google-sheets/"/>
+        <updated>2023-09-20T22:23:15.000Z</updated>
+        <summary type="html"><![CDATA[Google Sheets is a great tool for working and collaborating on spreadsheets, but it doesn't have native support for dark mode.  In this article, we'll create our own dark mode. One way to do that would be by selecting all the cells and manually changing their background color and]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Effects of AI in Cybersecurity Handbook – The Malicious Use of AI in Cyberattacks]]></title>
+        <id>https://www.freecodecamp.org/news/effects-of-ai-in-cybersecurity-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/effects-of-ai-in-cybersecurity-handbook/"/>
+        <updated>2023-09-20T20:11:22.000Z</updated>
+        <summary type="html"><![CDATA[The field of cybersecurity is engaged in a relentless battle between those who defend systems and data, and those who seek to attack them. In this high-stakes arena, artificial intelligence (AI) has emerged as a new, game-changing ally for the defenders. To understand AI's profound impact, it is important to]]></summary>
+        <author>
+            <name>Sonya Moisset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Experimental Cosmologist Hunting for the First Sunrise]]></title>
+        <id>https://www.quantamagazine.org/?p=130298</id>
+        <link href="https://www.quantamagazine.org/the-experimental-cosmologist-hunting-for-the-first-sunrise-20230920/"/>
+        <updated>2023-09-20T15:15:50.000Z</updated>
+        <summary type="html"><![CDATA[To catch even a whiff of the universe’s earliest epochs — an age of darkness, and one of new light — Cynthia Chiang builds her own equipment. Then she deploys it at the ends of the Earth.            
+The post The Experimental Cosmologist Hunting for the First Sunrise first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Sarah Scoles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build an SEO-Optimized Blog with Next.js]]></title>
+        <id>https://www.freecodecamp.org/news/build-an-seo-optimized-blog-with-next-js/</id>
+        <link href="https://www.freecodecamp.org/news/build-an-seo-optimized-blog-with-next-js/"/>
+        <updated>2023-09-20T13:09:47.000Z</updated>
+        <summary type="html"><![CDATA[Creating a feature-rich blog is a great way to improve your web development skills.  We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to create a blog that is not just visually appealing but also SEO-optimized for higher Google rankings. Codebucks created the]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultimate Beginner's Python Course]]></title>
+        <id>https://www.freecodecamp.org/news/ultimate-beginners-python-course/</id>
+        <link href="https://www.freecodecamp.org/news/ultimate-beginners-python-course/"/>
+        <updated>2023-09-20T12:26:54.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever considered venturing into the world of Python programming or if you're just looking for a comprehensive guide to help reinforce your existing knowledge, you're in for a treat. I'm excited to announce that Dave Gray, one of our most popular instructors, has returned to the freCodeCamp.org YouTube]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Concepts to Know Before Learning Node.js]]></title>
         <id>https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-node-js/</id>
@@ -1285,77 +1336,6 @@ The post The AI Tools Making Images Look Better first appeared on Quanta Magazin
 The post An Old Conjecture Falls, Making Spheres a Lot More Complicated first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Kevin Hartnett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stateful vs Stateless Architecture – Explained for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/stateful-vs-stateless-architectures-explained/</id>
-        <link href="https://www.freecodecamp.org/news/stateful-vs-stateless-architectures-explained/"/>
-        <updated>2023-08-21T21:08:59.000Z</updated>
-        <summary type="html"><![CDATA[In programming, "state" refers to the condition of a system, component, or application at a particular point in time.  As a simple example, if you are shopping on amazon.com, whether you are currently logged into the site or if you have anything stored in your cart are some examples]]></summary>
-        <author>
-            <name>Daniel Adetunji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing ScrapePark.org – Practice Web Scraping Without Hurting Anyone]]></title>
-        <id>https://www.freecodecamp.org/news/practice-web-scraping-safely/</id>
-        <link href="https://www.freecodecamp.org/news/practice-web-scraping-safely/"/>
-        <updated>2023-08-21T19:50:15.000Z</updated>
-        <summary type="html"><![CDATA[When I grew up in the 1990s, we skateboarded everywhere. If a parking lot had a ledge or a handrail, you'd better believe we waxed it and grinded our boards across it. Fast forward to the 2020s – many cities have built public skate parks. These are safe, legal]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Development with Large Language Models]]></title>
-        <id>https://www.freecodecamp.org/news/development-with-large-language-models/</id>
-        <link href="https://www.freecodecamp.org/news/development-with-large-language-models/"/>
-        <updated>2023-08-21T16:13:43.000Z</updated>
-        <summary type="html"><![CDATA[Large Language Models (LLMs) open up a wide range of capabilities for developers We just published a course on the freeCodeCamp.org YouTube channel that will equip you with the skills to use LLMs effectively for your projects. Developed by Akshath from Luup.ai, this course will help you unlock the potential]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Google Drive Clone with Laravel, PHP, and Vue.js]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-google-drive-clone-with-laravel-php-vuejs/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-google-drive-clone-with-laravel-php-vuejs/"/>
-        <updated>2023-08-21T14:48:11.000Z</updated>
-        <summary type="html"><![CDATA[Building file manager application is a great way to learn many important programming concepts. We just posted a 14-hour course on the freeCodeCamp.org YouTube channel that will teach you how to build and deploy a feature-rich file manager application using Laravel (the PHP framework), Inertia, and Vue.js. This comprehensive course]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the JavaScript at() Array Method]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-at-method/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-at-method/"/>
-        <updated>2023-08-21T14:41:05.000Z</updated>
-        <summary type="html"><![CDATA[One of JavaScript's most exciting new features is the at() method. The at()  method is a new addition to the Array prototype in JavaScript. You can use this method to access elements in an array using a numeric index. The at() method takes an integer value and returns the]]></summary>
-        <author>
-            <name>Natalie Pina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quaking Giants Might Solve the Mysteries of Stellar Magnetism]]></title>
-        <id>https://www.quantamagazine.org/?p=129327</id>
-        <link href="https://www.quantamagazine.org/quaking-giants-might-solve-the-mysteries-of-stellar-magnetism-20230821/"/>
-        <updated>2023-08-21T13:58:11.000Z</updated>
-        <summary type="html"><![CDATA[In their jiggles and shakes, red giant stars encode a record of the magnetic fields near their cores.            
-The post Quaking Giants Might Solve the Mysteries of Stellar Magnetism first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Jackson Ryan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use JSON Server for Front-end Development]]></title>
-        <id>https://www.freecodecamp.org/news/json-server-for-frontend-development/</id>
-        <link href="https://www.freecodecamp.org/news/json-server-for-frontend-development/"/>
-        <updated>2023-08-21T13:54:28.000Z</updated>
-        <summary type="html"><![CDATA[One of the most common responsibilities for front-end developers is handling the data in their front-end applications. You’ll need to be able to retrieve data from an API, manipulate it, and then render it on the screen in a modern web application for user interactions.  Efficient communication between the]]></summary>
-        <author>
-            <name>Juliet Ofoegbu</name>
         </author>
     </entry>
 </feed>
