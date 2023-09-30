@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-29T01:09:34.798Z</updated>
+    <updated>2023-09-30T01:08:05.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Builder Censorship:  ethereum's rotten core]]></title>
+        <id>https://mteam88.github.io/posts/builder-censorship--ethereums-rotten-core/</id>
+        <link href="https://mteam88.github.io/posts/builder-censorship--ethereums-rotten-core/"/>
+        <updated>2023-09-29T20:52:10.000Z</updated>
+        <summary type="html"><![CDATA[The problem of builder censorship in Ethereum and how to solve it with inclusion lists.]]></summary>
+        <author>
+            <name>mteam's Writings: Blockchain, Crypto, Computer Science</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Analyzing Ethereum with Cryo]]></title>
         <id>https://mteam88.github.io/posts/analyzing-ethereum-with-cryo/</id>
