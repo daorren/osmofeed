@@ -46,16 +46,6 @@
           "wordCount": 1742,
           "title": "A new method to validate URLs in JavaScript (2023 edition) (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20new%20method%20to%20validate%20URLs%20in%20JavaScript%20(2023%20edition)/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/conversation-closure/",
-          "author": null,
-          "description": "Chris Coyier wrote about email expectation handling the other day.\nI took a little time to respond (thanks for the async expectations, email!) and wrote back what I hoped was an equally thoughtful, and hopefully helpful, response.\nBut then nothing.\nTo be fair, there were no action items. No lingering questions. No big obvious reason that another reply was needed.\nIt just felt off.\nI run into this feeling all the time, and it isn't limited to email conversations.\nWhether it's Slack, email, Twitter replies (or literally any text communication), many conversations just die. There's no \"thank you!\" or \"talk later!\" to wrap things up. Apparently, it's okay to just move the human interaction off the todo list.\nNo action item? Cool, no response!\nAnd I'm guilty of archiving a conversation without …",
-          "link": "https://www.stefanjudis.com/notes/conversation-closure/",
-          "publishedOn": "2023-08-31T22:00:00.000Z",
-          "wordCount": 1601,
-          "title": "Conversation closure (#note)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Conversation%20closure/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
@@ -100,18 +90,7 @@
       "title": "Libevm",
       "feedUrl": "https://www.libevm.com/atom.xml",
       "siteUrl": "https://libevm.com/atom.xml",
-      "articles": [
-        {
-          "id": "https://libevm.com/2023/09/01/reth-custom-api/",
-          "author": null,
-          "description": "<h1 id=\"Prelude\"><a href=\"#Prelude\" class=\"headerlink\" title=\"Prelude\"></a>Prelude</h1><p>This post assumes you have a basic understanding o",
-          "link": "https://libevm.com/2023/09/01/reth-custom-api/",
-          "publishedOn": "2023-09-01T00:00:00.000Z",
-          "wordCount": 604,
-          "title": "Extending on Reth - Building Custom APIs",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

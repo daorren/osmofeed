@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-30T01:08:05.655Z</updated>
+    <updated>2023-10-01T01:18:31.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -96,34 +96,6 @@ Browser support info for canParse() static method
                       
                         
       …]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extending on Reth - Building Custom APIs]]></title>
-        <id>https://libevm.com/2023/09/01/reth-custom-api/</id>
-        <link href="https://libevm.com/2023/09/01/reth-custom-api/"/>
-        <updated>2023-09-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="Prelude"><a href="#Prelude" class="headerlink" title="Prelude"></a>Prelude</h1><p>This post assumes you have a basic understanding o]]></summary>
-        <author>
-            <name>Libevm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conversation closure (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/conversation-closure/</id>
-        <link href="https://www.stefanjudis.com/notes/conversation-closure/"/>
-        <updated>2023-08-31T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chris Coyier wrote about email expectation handling the other day.
-I took a little time to respond (thanks for the async expectations, email!) and wrote back what I hoped was an equally thoughtful, and hopefully helpful, response.
-But then nothing.
-To be fair, there were no action items. No lingering questions. No big obvious reason that another reply was needed.
-It just felt off.
-I run into this feeling all the time, and it isn't limited to email conversations.
-Whether it's Slack, email, Twitter replies (or literally any text communication), many conversations just die. There's no "thank you!" or "talk later!" to wrap things up. Apparently, it's okay to just move the human interaction off the todo list.
-No action item? Cool, no response!
-And I'm guilty of archiving a conversation without …]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>
