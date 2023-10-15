@@ -22,6 +22,63 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-10-13 datetime="2023-10-13T22:00:00.000Z">2023-10-13</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-10-13 datetime="2023-10-13T22:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/today-i-learned/how-to-style-element-descendents-with-tailwind-css/"
+                        open
+                      >
+                        <summary class="article-expander__title">How to style element descendents with Tailwind CSS (#tilPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/how-to-style-element-descendents-with-tailwind-css/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20style%20element%20descendents%20with%20Tailwind%20CSS/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>I&#x27;m maintaining a project built with Tailwind at work. I&#x27;m no daily Tailwinder, but usually, I manage just fine. But recently, a trivial task took me quite some time to get right. I wanted to rotate an SVG icon depending on the details element&#x27;s :open state.
+Getting started with Tailwind is straightforward (a CSS property just maps to a class name, right?), but I still have to wrap my head around advanced features like class-based element relationships.
+How would you achieve the following CSS in Tailwind?
+details:open svg {
+  rotate: 0.5turn;
+}
+
+Option 1 — don&#x27;t use Tailwind and go vanilla CSS
+
+When googling around, you&#x27;ll find the advice to &quot;just use&quot; CSS and import a CSS file somewhere. Sure, this works, but what&#x27;s the point of this? Tailwind promises to solve the CSS maintenance problem…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-10-09 datetime="2023-10-09T01:37:00.000Z">2023-10-09</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-10-09 datetime="2023-10-09T01:37:00.000Z"></time>
           </button>
@@ -268,8 +325,8 @@ console.log(document.querySelector(&#x27;##&#x27;));
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/6514609912">
-        <time id="build-timestamp" datetime="2023-10-14T01:07:58.846Z">2023-10-14T01:07:58.846Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/6521088230">
+        <time id="build-timestamp" datetime="2023-10-15T01:14:43.520Z">2023-10-15T01:14:43.520Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

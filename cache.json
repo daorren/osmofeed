@@ -29,6 +29,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/today-i-learned/how-to-style-element-descendents-with-tailwind-css/",
+          "author": null,
+          "description": "I'm maintaining a project built with Tailwind at work. I'm no daily Tailwinder, but usually, I manage just fine. But recently, a trivial task took me quite some time to get right. I wanted to rotate an SVG icon depending on the details element's :open state.\nGetting started with Tailwind is straightforward (a CSS property just maps to a class name, right?), but I still have to wrap my head around advanced features like class-based element relationships.\nHow would you achieve the following CSS in Tailwind?\ndetails:open svg {\n  rotate: 0.5turn;\n}\n\nOption 1 — don't use Tailwind and go vanilla CSS\n\nWhen googling around, you'll find the advice to \"just use\" CSS and import a CSS file somewhere. Sure, this works, but what's the point of this? Tailwind promises to solve the CSS maintenance problem…",
+          "link": "https://www.stefanjudis.com/today-i-learned/how-to-style-element-descendents-with-tailwind-css/",
+          "publishedOn": "2023-10-13T22:00:00.000Z",
+          "wordCount": 2249,
+          "title": "How to style element descendents with Tailwind CSS (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20style%20element%20descendents%20with%20Tailwind%20CSS/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/today-i-learned/how-to-escape-css-selectors-in-javascript/",
           "author": null,
           "description": "Here's a trick question: how would you select the following HTML element in JavaScript?\n<div id=\"#\">Select me!</div>\n\nOddly, this element's id is a #. But as far as I can tell, even though it's uncommon it's still a perfectly valid HTML attribute. So, how would you query this element?\nYou surely could use the good old document.getElementById()...\nconsole.log(document.getElementById('#')); // <div id=\"#\">...\n\nThis works, but I rarely use getElementById because it limits me to select elements via an id. Duh! 😅\ndocument.querySelector, on the other hand, is more flexible and allows any DOM element to be queried with a CSS selector.\nBut can you select this \"hash id element\" with a CSS selector using querySelector? Turns out you can't.\nconsole.log(document.querySelector('##'));\n// SyntaxError: …",
