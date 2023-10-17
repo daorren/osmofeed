@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-16T01:11:17.706Z</updated>
+    <updated>2023-10-17T01:10:33.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -124,16 +124,6 @@ console.log(document.querySelector('##'));
 // SyntaxError: …]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't read everything you believe]]></title>
-        <id>https://mteam88.github.io/posts/dont-read-everything-you-believe/</id>
-        <link href="https://mteam88.github.io/posts/dont-read-everything-you-believe/"/>
-        <updated>2023-09-16T21:39:33.000Z</updated>
-        <summary type="html"><![CDATA[Polarization, tribalism, and the echo chamber.]]></summary>
-        <author>
-            <name>mteam's Writings</name>
         </author>
     </entry>
 </feed>
