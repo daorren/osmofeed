@@ -12,6 +12,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "652c6dba6dcc20561bc73a09",
+          "author": "Assaf Arkin",
+          "description": "This week we look at an open-source read-it-later app, how the world is designed against the elderly, the placebo effect, being a fast moving company, buying a place, and sketching a wardrobe.",
+          "link": "https://labnotes.org/weekend-reading-sketching-a-wardrobe/",
+          "publishedOn": "2023-10-21T19:03:26.000Z",
+          "wordCount": 1540,
+          "title": "Weekend Reading — Sketching a wardrobe",
+          "imageUrl": "https://labnotes.org/content/images/2023/10/Image-71.png"
+        },
+        {
           "id": "652c25f0b6d6210beb242b2f",
           "author": "Assaf Arkin",
           "description": "This week we have some more comics, talk about software development bugs, pretend to be Columbo, obsess over creativity, find Star Trek on a map of the universe, and yes, I just had a cup of coffee …",
@@ -67,16 +77,6 @@
           "wordCount": 2249,
           "title": "How to style element descendents with Tailwind CSS (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20style%20element%20descendents%20with%20Tailwind%20CSS/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/how-to-escape-css-selectors-in-javascript/",
-          "author": null,
-          "description": "Here's a trick question: how would you select the following HTML element in JavaScript?\n<div id=\"#\">Select me!</div>\n\nOddly, this element's id is a #. But as far as I can tell, even though it's uncommon it's still a perfectly valid HTML attribute. So, how would you query this element?\nYou surely could use the good old document.getElementById()...\nconsole.log(document.getElementById('#')); // <div id=\"#\">...\n\nThis works, but I rarely use getElementById because it limits me to select elements via an id. Duh! 😅\ndocument.querySelector, on the other hand, is more flexible and allows any DOM element to be queried with a CSS selector.\nBut can you select this \"hash id element\" with a CSS selector using querySelector? Turns out you can't.\nconsole.log(document.querySelector('##'));\n// SyntaxError: …",
-          "link": "https://www.stefanjudis.com/today-i-learned/how-to-escape-css-selectors-in-javascript/",
-          "publishedOn": "2023-09-21T22:00:00.000Z",
-          "wordCount": 1804,
-          "title": "How to escape CSS selectors in JavaScript (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20escape%20CSS%20selectors%20in%20JavaScript/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },

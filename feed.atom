@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-21T01:07:54.312Z</updated>
+    <updated>2023-10-22T01:14:35.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Sketching a wardrobe]]></title>
+        <id>652c6dba6dcc20561bc73a09</id>
+        <link href="https://labnotes.org/weekend-reading-sketching-a-wardrobe/"/>
+        <updated>2023-10-21T19:03:26.000Z</updated>
+        <summary type="html"><![CDATA[This week we look at an open-source read-it-later app, how the world is designed against the elderly, the placebo effect, being a fast moving company, buying a place, and sketching a wardrobe.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — One minor bug]]></title>
         <id>652c25f0b6d6210beb242b2f</id>
@@ -103,27 +113,6 @@ I'm still going through recovery, but got far enough that I'm back to reading go
         <summary type="html"><![CDATA[In this article, I install Cryo, download some Ethereum data, and analyze it with graphs and charts.]]></summary>
         <author>
             <name>mteam's Writings</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to escape CSS selectors in JavaScript (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/how-to-escape-css-selectors-in-javascript/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/how-to-escape-css-selectors-in-javascript/"/>
-        <updated>2023-09-21T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here's a trick question: how would you select the following HTML element in JavaScript?
-<div id="#">Select me!</div>
-
-Oddly, this element's id is a #. But as far as I can tell, even though it's uncommon it's still a perfectly valid HTML attribute. So, how would you query this element?
-You surely could use the good old document.getElementById()...
-console.log(document.getElementById('#')); // <div id="#">...
-
-This works, but I rarely use getElementById because it limits me to select elements via an id. Duh! 😅
-document.querySelector, on the other hand, is more flexible and allows any DOM element to be queried with a CSS selector.
-But can you select this "hash id element" with a CSS selector using querySelector? Turns out you can't.
-console.log(document.querySelector('##'));
-// SyntaxError: …]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
