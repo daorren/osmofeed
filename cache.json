@@ -49,6 +49,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-113/",
+          "author": null,
+          "description": "Long time no see!\n\nCan a regular expression freeze your JavaScript? Are you looking for some inspiration to get started with Chrome's View Transitions? And do you wish there were more ways to style select elements?\nThis week's Web Weekly includes all the answers and much more. Enjoy!\nLast week's Web Weekly was marked as spam for many people. Why? It included the words \"and I pay real money for sending over 4.3k emails\" and apparently, this phrase rings some bells in an Apache project called \"Spamassassin\" used by mail providers.\nThe project includes a gazillion regular expressions trying to figure out if a mail is spam. Here's the one that flagged me. 🤦‍♂️\nIf you didn't receive last week's Web Weekly and have a moment, do me a favor and flag the email as non-spam.\nAnd I hit send now and h…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-113/",
+          "publishedOn": "2023-10-23T22:00:00.000Z",
+          "wordCount": 2477,
+          "title": "Web Weekly #113 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-112/",
           "author": null,
           "description": "It's been a while, friends! 👋\n\nYou might have noticed that the last Web Weekly hit your inbox 35 days ago. It's the longest break since I started Web Weekly, and I can't say that this doesn't bug me, but I needed the break. Life was super busy; I moved, traveled countries to speak at a conference, and then got sick for a few days. It's been a ride...\nBut it's all good, and I'm back! Thank you to all the people who checked in with me. 💙\nLet's get back to business!\nShould HTML allow us to ship responsive videos? How can you optimize your fetch calls? And is there an easy way to escape CSS classes in JavaScript?\nThis week's Web Weekly includes all the answers and much more. Enjoy!\nPeople were raving about barrel files this week. What's a barrel file? Here's one.\nThe idea behind barrel files…",
