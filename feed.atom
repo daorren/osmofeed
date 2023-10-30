@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-29T01:13:49.103Z</updated>
+    <updated>2023-10-30T01:10:33.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Happy "let’s circle back after the holidays" season]]></title>
+        <id>653420c76dcc20561bc74c85</id>
+        <link href="https://labnotes.org/weekend-reading-happy-lets-circle-back-after-the-holidays-season/"/>
+        <updated>2023-10-29T17:29:19.000Z</updated>
+        <summary type="html"><![CDATA[This week we tell jokes about programmers, return to COBOL, change traffic lights to blue, hear voices, discover embeddings, ride a tricycle from 1936, and sleep like a whale.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JS surprise: Array.every() always returns true for empty arrays (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/array-every-always-returns-true-for-empty-arrays/</id>
+        <link href="https://www.stefanjudis.com/notes/array-every-always-returns-true-for-empty-arrays/"/>
+        <updated>2023-10-28T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is always good for a surprise, isn't it?
+Nicholas C. Zakas published a discovery that made my head spin. Do you know the array method every?
+This is how MDN describes what it does:
+The every() method of Array instances tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value.
+Cool, that makes sense.
+const collection = ['great', 'nope', 'great'];
+const allItemsAreGreat = collection.every((item) => item === 'great'); // false
+
+But now, see what happens when you use every with an empty array.
+[].every((item) => item === 'great'); // true
+[].every((item) => item !== 'great'); // true
+
+Whoops?! I didn't expect that every() will tell me that every item matches my condition if there are none. That's not how my brain works.
+When using the array method, you have to flip around your mindset. Here's Nicholas:
+I’d suggest changing the way you read every() calls when you come across them. Instead of reading every() as “does every item in this array match this condition?” read it as, “is there any item in this array that doesn’t match this condition?”.
+And it gets every weirder. Check the results for an empty array with some().
+[].some((item) => item === 'great'); // false
+[].some((item) => item !== 'great'); // false
+
+Oh boy... Why do the array methods behave that way? The answer is Math, and if you want to dive deeper, check Nicholas' post. 💯
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #113 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-113/</id>
@@ -110,16 +154,6 @@ It's great to be back!
 I'm still going through recovery, but got far enough that I'm back to reading good content, and collecting it into a weekly newsletter. So Weekend Reading is back. Hope you enjoy this week's edition.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Builder Censorship:  ethereum's rotten core]]></title>
-        <id>https://mteam88.github.io/posts/builder-censorship--ethereums-rotten-core/</id>
-        <link href="https://mteam88.github.io/posts/builder-censorship--ethereums-rotten-core/"/>
-        <updated>2023-09-29T20:52:10.000Z</updated>
-        <summary type="html"><![CDATA[The problem of builder censorship in Ethereum and how to solve it with inclusion lists.]]></summary>
-        <author>
-            <name>mteam's Writings</name>
         </author>
     </entry>
 </feed>
