@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-01T01:14:23.226Z</updated>
+    <updated>2023-11-02T01:10:04.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #114 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-114/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-114/"/>
+        <updated>2023-10-31T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello Hello!
+
+Do your React useEffect hooks include race conditions? Have you heard of the perspective() CSS function? Would you use Next.js?
+This week's Web Weekly includes all the answers and much more. Enjoy!
+With macOS Sonoma, it's possible to "install" web pages as Safari web apps with the new "add to dock" feature.
+I use Chrome (for work) and Firefox (for private), so why would I care? I use Gmail, Google Calendar and Twitter as standalone Chrome apps to get them out of my tab bar. But they have some annoyances.
+I gave "add to dock" a spin, and I'll stick to it. Here's why:
+I can spin up an installed web app without kicking off the base browser. If I install a Safari web app, it's its own thing. It has its own cookies, history and can be opened independently. It always bugged me that…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Too small touch targets (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/too-small-touch-targets/</id>
+        <link href="https://www.stefanjudis.com/blog/too-small-touch-targets/"/>
+        <updated>2023-10-31T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here's an interesting UI pattern from GitHub.👇
+I'm no big GitHub mobile user, but occasionally, I browse projects while on the go. With the fat finger problem, navigating complex sites can be a pain. And the same goes for GitHub. The account owner and repository home link are super close to each other in the header. Just by looking at them, every mobile user knows that hitting the right target requires surgical tap precision.
+What does GitHub do about these tiny and too-close-to-each-other links? Change the design? Obviously not. They change the UI functionality entirely and put the account owner and repository into a button.
+The button then opens a modal that asks where you want to go. Smart.
+What's a good target size, though?
+The freshly released Web Content Accessibility Guidelines (WC…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Happy "let’s circle back after the holidays" season]]></title>
         <id>653420c76dcc20561bc74c85</id>
