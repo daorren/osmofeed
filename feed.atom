@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-07T01:11:56.710Z</updated>
+    <updated>2023-11-08T01:10:57.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -173,19 +173,6 @@ Option 1 — don't use Tailwind and go vanilla CSS
 When googling around, you'll find the advice to "just use" CSS and import a CSS file somewhere. Sure, this works, but what's the point of this? Tailwind promises to solve the CSS maintenance problem…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Great to be back!]]></title>
-        <id>6450398c51ea0e27518eb0e0</id>
-        <link href="https://labnotes.org/weekend-reading-6/"/>
-        <updated>2023-10-09T01:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Foxes in Love
-
-It's great to be back!
-I'm still going through recovery, but got far enough that I'm back to reading good content, and collecting it into a weekly newsletter. So Weekend Reading is back. Hope you enjoy this week's edition.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
