@@ -59,6 +59,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-115/",
+          "author": null,
+          "description": "Hello, hello Friends! 👋\n\nHow does Google do site reliability engineering? Is using relative CSS units (rem) to control spaces like margins and paddings a good idea? Are you ready to adopt native and relaxed CSS nesting?\nThis week's Web Weekly includes all the answers and much more. Enjoy!\nI heard having your own font is important for successful tech companies these days. Vercel followed the playbook and released Geist.\nShortly after, GitHub followed. But the Octocat maintainers didn't release yet another standard coding font, but rather an entire font family — say hello to \"Monaspace\".\nMonaspace is a set of five variable fonts supporting the same font axes. I haven't tried it yet, but theoretically, you could mix and match the fonts, and they'll stay on the same grid. Sweet!\nAnd I must sa…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-115/",
+          "publishedOn": "2023-11-11T23:00:00.000Z",
+          "wordCount": 2554,
+          "title": "Web Weekly #115 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-114/",
           "author": null,
           "description": "Hello Hello!\n\nDo your React useEffect hooks include race conditions? Have you heard of the perspective() CSS function? Would you use Next.js?\nThis week's Web Weekly includes all the answers and much more. Enjoy!\nWith macOS Sonoma, it's possible to \"install\" web pages as Safari web apps with the new \"add to dock\" feature.\nI use Chrome (for work) and Firefox (for private), so why would I care? I use Gmail, Google Calendar and Twitter as standalone Chrome apps to get them out of my tab bar. But they have some annoyances.\nI gave \"add to dock\" a spin, and I'll stick to it. Here's why:\nI can spin up an installed web app without kicking off the base browser. If I install a Safari web app, it's its own thing. It has its own cookies, history and can be opened independently. It always bugged me that…",
@@ -107,26 +117,6 @@
           "wordCount": 2659,
           "title": "Web Weekly #112 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/how-to-style-element-descendants-with-tailwind-css/",
-          "author": null,
-          "description": "I'm maintaining a project built with Tailwind at work. I'm no daily Tailwinder, but usually, I manage just fine. But recently, a trivial task took me quite some time to get right. I wanted to rotate an SVG icon depending on the details element's :open state.\nGetting started with Tailwind is straightforward (a CSS property just maps to a class name, right?), but I still have to wrap my head around advanced features like class-based element relationships.\nHow would you achieve the following CSS in Tailwind?\ndetails:open svg {\n  rotate: 0.5turn;\n}\n\nOption 1 — don't use Tailwind and go vanilla CSS\n\nWhen googling around, you'll find the advice to \"just use\" CSS and import a CSS file somewhere. Sure, this works, but what's the point of this? Tailwind promises to solve the CSS maintenance problem…",
-          "link": "https://www.stefanjudis.com/today-i-learned/how-to-style-element-descendants-with-tailwind-css/",
-          "publishedOn": "2023-10-13T22:00:00.000Z",
-          "wordCount": 2248,
-          "title": "How to style element descendants with Tailwind CSS (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20style%20element%20descendants%20with%20Tailwind%20CSS/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/how-to-style-element-descendents-with-tailwind-css/",
-          "author": null,
-          "description": "I'm maintaining a project built with Tailwind at work. I'm no daily Tailwinder, but usually, I manage just fine. But recently, a trivial task took me quite some time to get right. I wanted to rotate an SVG icon depending on the details element's :open state.\nGetting started with Tailwind is straightforward (a CSS property just maps to a class name, right?), but I still have to wrap my head around advanced features like class-based element relationships.\nHow would you achieve the following CSS in Tailwind?\ndetails:open svg {\n  rotate: 0.5turn;\n}\n\nOption 1 — don't use Tailwind and go vanilla CSS\n\nWhen googling around, you'll find the advice to \"just use\" CSS and import a CSS file somewhere. Sure, this works, but what's the point of this? Tailwind promises to solve the CSS maintenance problem…",
-          "link": "https://www.stefanjudis.com/today-i-learned/how-to-style-element-descendents-with-tailwind-css/",
-          "publishedOn": "2023-10-13T22:00:00.000Z",
-          "wordCount": 2249,
-          "title": "How to style element descendents with Tailwind CSS (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20style%20element%20descendents%20with%20Tailwind%20CSS/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },

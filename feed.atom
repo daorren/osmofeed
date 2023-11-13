@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-12T01:15:58.802Z</updated>
+    <updated>2023-11-13T01:13:13.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -14,6 +14,23 @@
         <summary type="html"><![CDATA[This week we debate: to Next or not to Next? We recall of the future was imagined, many years ago. And we catch a break in the Minecraft bedroom.]]></summary>
         <author>
             <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #115 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-115/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-115/"/>
+        <updated>2023-11-11T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello, hello Friends! 👋
+
+How does Google do site reliability engineering? Is using relative CSS units (rem) to control spaces like margins and paddings a good idea? Are you ready to adopt native and relaxed CSS nesting?
+This week's Web Weekly includes all the answers and much more. Enjoy!
+I heard having your own font is important for successful tech companies these days. Vercel followed the playbook and released Geist.
+Shortly after, GitHub followed. But the Octocat maintainers didn't release yet another standard coding font, but rather an entire font family — say hello to "Monaspace".
+Monaspace is a set of five variable fonts supporting the same font axes. I haven't tried it yet, but theoretically, you could mix and match the fonts, and they'll stay on the same grid. Sweet!
+And I must sa…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>
@@ -143,44 +160,6 @@ Should HTML allow us to ship responsive videos? How can you optimize your fetch 
 This week's Web Weekly includes all the answers and much more. Enjoy!
 People were raving about barrel files this week. What's a barrel file? Here's one.
 The idea behind barrel files…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to style element descendants with Tailwind CSS (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/how-to-style-element-descendants-with-tailwind-css/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/how-to-style-element-descendants-with-tailwind-css/"/>
-        <updated>2023-10-13T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I'm maintaining a project built with Tailwind at work. I'm no daily Tailwinder, but usually, I manage just fine. But recently, a trivial task took me quite some time to get right. I wanted to rotate an SVG icon depending on the details element's :open state.
-Getting started with Tailwind is straightforward (a CSS property just maps to a class name, right?), but I still have to wrap my head around advanced features like class-based element relationships.
-How would you achieve the following CSS in Tailwind?
-details:open svg {
-  rotate: 0.5turn;
-}
-
-Option 1 — don't use Tailwind and go vanilla CSS
-
-When googling around, you'll find the advice to "just use" CSS and import a CSS file somewhere. Sure, this works, but what's the point of this? Tailwind promises to solve the CSS maintenance problem…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to style element descendents with Tailwind CSS (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/how-to-style-element-descendents-with-tailwind-css/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/how-to-style-element-descendents-with-tailwind-css/"/>
-        <updated>2023-10-13T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I'm maintaining a project built with Tailwind at work. I'm no daily Tailwinder, but usually, I manage just fine. But recently, a trivial task took me quite some time to get right. I wanted to rotate an SVG icon depending on the details element's :open state.
-Getting started with Tailwind is straightforward (a CSS property just maps to a class name, right?), but I still have to wrap my head around advanced features like class-based element relationships.
-How would you achieve the following CSS in Tailwind?
-details:open svg {
-  rotate: 0.5turn;
-}
-
-Option 1 — don't use Tailwind and go vanilla CSS
-
-When googling around, you'll find the advice to "just use" CSS and import a CSS file somewhere. Sure, this works, but what's the point of this? Tailwind promises to solve the CSS maintenance problem…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>
