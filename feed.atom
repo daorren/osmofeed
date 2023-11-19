@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-18T01:12:51.112Z</updated>
+    <updated>2023-11-19T01:18:16.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — AI cycling]]></title>
+        <id>65501c0643f4111d84b588af</id>
+        <link href="https://labnotes.org/weekend-reading-ai-cycling/"/>
+        <updated>2023-11-19T00:07:46.000Z</updated>
+        <summary type="html"><![CDATA[This week we complain about GitHub Actions, find the perfect t-shirt, hallucinate to the dictionary, and learn more about the world around us.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Sorry, nevermind]]></title>
         <id>6541593743f4111d84b52c62</id>
