@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-22T01:15:51.896Z</updated>
+    <updated>2023-11-23T01:13:14.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -115,23 +115,6 @@ Oh boy... Why do the array methods behave that way? The answer is Math, and if y
           
           
             Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #113 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-113/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-113/"/>
-        <updated>2023-10-23T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Long time no see!
-
-Can a regular expression freeze your JavaScript? Are you looking for some inspiration to get started with Chrome's View Transitions? And do you wish there were more ways to style select elements?
-This week's Web Weekly includes all the answers and much more. Enjoy!
-Last week's Web Weekly was marked as spam for many people. Why? It included the words "and I pay real money for sending over 4.3k emails" and apparently, this phrase rings some bells in an Apache project called "Spamassassin" used by mail providers.
-The project includes a gazillion regular expressions trying to figure out if a mail is spam. Here's the one that flagged me. 🤦‍♂️
-If you didn't receive last week's Web Weekly and have a moment, do me a favor and flag the email as non-spam.
-And I hit send now and h…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>
