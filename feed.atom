@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-26T01:17:20.742Z</updated>
+    <updated>2023-11-27T01:13:43.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Default Apps 2023]]></title>
+        <id>65638ddb43f4111d84b5d711</id>
+        <link href="https://labnotes.org/default-apps-2023/"/>
+        <updated>2023-11-26T18:29:55.000Z</updated>
+        <summary type="html"><![CDATA[(Inspired by Chris Coyier)
+
+📨 Mail Client: Shortwave and Spark
+📮 Mail Server: Google
+📝 Notes: Notes and Notion
+✅ To-Do: Things
+📆 Calendar: Fantastical through Google Calendar
+📁 Cloud File Storage: iCloud Drive
+📖 RSS: Reeder through Feedly]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[oklch() retains perceived lightness for different hue angles (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/oklch-perceived-lightness/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/oklch-perceived-lightness/"/>
+        <updated>2023-11-25T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As far as I see, it's time to ditch hsl() and use oklch() for color palettes and design systems. Why's that?
+For me, it boils down to two reasons.
+New devices and monitors can display colors that aren't defined in the sRGB color space used by rgb(), hsl() or hex colors. Isn't it sad that you can't express these vibrant colors in CSS using existing color methods?
+It is. And the solution are new CSS color functions that can talk new and fancy monitor tech (namely wide-gamut P3 colors). It's party time y'all — the web gets a color update with fresh and vibrant colors.
+There's oklch(), oklab() and also color() to target the wider color space, but let's focus on oklch() because it's the most user-friendly.
+oklch()'s parameters (lightness, chroma and hue) are easy to grasp and feel very similar …]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Darth driver]]></title>
         <id>655951f743f4111d84b5cb43</id>
