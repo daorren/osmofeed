@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-02T01:10:41.215Z</updated>
+    <updated>2023-12-03T01:17:36.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — US politics in a nutshell]]></title>
+        <id>65627be343f4111d84b5d4be</id>
+        <link href="https://labnotes.org/weekend-reading-us-politics-in-a-nutshell/"/>
+        <updated>2023-12-02T23:19:14.000Z</updated>
+        <summary type="html"><![CDATA[This week we revisit the PDP-11, learn some CSS, pick some cool apps, take note of AI and ad blockers, and square some politics.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Default Apps 2023]]></title>
         <id>65638ddb43f4111d84b5d711</id>
