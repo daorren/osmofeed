@@ -69,6 +69,26 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-116/",
+          "author": null,
+          "description": "Hello, hello Friends! 👋\n\nHow does reactivity work in JS frameworks? What's the deal with the oklch() CSS color function? And how can you ship responsive videos on the web?\nThis week's Web Weekly includes all the answers and much more. Enjoy!\nGitHub rolled out new markdown rendering features to give authors more styling options. And they continue to mess with extend the markdown syntax.\nYou can now render a custom headline, icon and some color if you use a blockquote with the > [!NOTE] syntax. Fancy!\nIn total, there are !NOTE, !TIP, !IMPORTANT, !WARNING and !CAUTION.\nAnd that's all cool, but I'm just no fan of these custom markdown solutions. It's all fine for GitHub, sure, but GitHub markdown doesn't stay on GitHub. npm is only one example; does npm support this rendering syntax? (I don't…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-116/",
+          "publishedOn": "2023-12-03T23:00:00.000Z",
+          "wordCount": 2528,
+          "title": "Web Weekly #116 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
+          "id": "https://www.stefanjudis.com/blog/a-web-component-to-make-your-text-sparkle/",
+          "author": null,
+          "description": "Inspired by Zach Leatherman and the community's recent rediscovery of HTML web components, I sat down to write a quick component to make text sparkle. There can't be enough sparkles (and confetti), right?\nHere are some examples of what <sparkly-text /> can do. 👇\nHere's a  sparkly-text  in a headline\n\nAnd here's a paragraph with bigger sparkles .\n\nAnd here are some colorful sparkles .\n\nIf you want to play around with it find the source code on GitHub.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/blog/a-web-component-to-make-your-text-sparkle/",
+          "publishedOn": "2023-12-03T23:00:00.000Z",
+          "wordCount": 1556,
+          "title": "A web component to make your text sparkle (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20web%20component%20to%20make%20your%20text%20sparkle/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/today-i-learned/oklch-perceived-lightness/",
           "author": null,
           "description": "As far as I see, it's time to ditch hsl() and use oklch() for color palettes and design systems. Why's that?\nFor me, it boils down to two reasons.\nNew devices and monitors can display colors that aren't defined in the sRGB color space used by rgb(), hsl() or hex colors. Isn't it sad that you can't express these vibrant colors in CSS using existing color methods?\nIt is. And the solution are new CSS color functions that can talk new and fancy monitor tech (namely wide-gamut P3 colors). It's party time y'all — the web gets a color update with fresh and vibrant colors.\nThere's oklch(), oklab() and also color() to target the wider color space, but let's focus on oklch() because it's the most user-friendly.\noklch()'s parameters (lightness, chroma and hue) are easy to grasp and feel very similar …",
