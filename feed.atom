@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-08T01:14:46.040Z</updated>
+    <updated>2023-12-09T01:12:26.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS only "scroll-to-top" (#snippet)]]></title>
+        <id>https://www.stefanjudis.com/snippets/css-only-scroll-to-top/</id>
+        <link href="https://www.stefanjudis.com/snippets/css-only-scroll-to-top/"/>
+        <updated>2023-12-07T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[David Darnes shared a nifty tiny trick to build a "scroll to top" component that automatically shows up after you scroll down a little.
+And thanks to modern CSS, position: sticky is all you need. 💙
+Here's a scroll-top link in action. 👇
+[Interactive component: visit the article to see it...]
+But why use 100vh instead of 100%?
+Fun fact: percentages in margin-top refer to the logical width of the containing block. margin-top: 50% isn't half the container's height, but width.
+Either way, this is a nifty little CSS trick. Thank David!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #116 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-116/</id>
