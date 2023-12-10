@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-09T01:12:26.189Z</updated>
+    <updated>2023-12-10T01:18:30.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Current mood]]></title>
+        <id>656bbbf343f4111d84b5de34</id>
+        <link href="https://labnotes.org/weekend-reading-current-mood/"/>
+        <updated>2023-12-09T23:28:33.000Z</updated>
+        <summary type="html"><![CDATA[This week we cover HTML bad practices, an NFT that actually makes any sense, alternatives to the dying Evernote, some good design practices, anxiety, digital thermometers, and let’s all be frank about our current mood.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS only "scroll-to-top" (#snippet)]]></title>
         <id>https://www.stefanjudis.com/snippets/css-only-scroll-to-top/</id>
