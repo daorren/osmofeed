@@ -60,16 +60,6 @@
           "wordCount": 1173,
           "title": "Weekend Reading — AI cycling",
           "imageUrl": "https://labnotes.org/content/images/2023/11/Labnotes-Image-88.png"
-        },
-        {
-          "id": "6541593743f4111d84b52c62",
-          "author": "Assaf Arkin",
-          "description": "This week we debate: to Next or not to Next? We recall of the future was imagined, many years ago. And we catch a break in the Minecraft bedroom.",
-          "link": "https://labnotes.org/weekend-reading-sorry-nevermind/",
-          "publishedOn": "2023-11-12T00:27:02.000Z",
-          "wordCount": 1283,
-          "title": "Weekend Reading — Sorry, nevermind",
-          "imageUrl": "https://labnotes.org/content/images/2023/11/Labnotes-Image-71.png"
         }
       ]
     },
@@ -78,6 +68,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-117/",
+          "author": null,
+          "description": "Hello, hello friends! 👋\n\nHow can you quickly find out if a web feature is safe to use? Does the definition of the sizes attribute really have to be so painful? And now that we're close to wrapping up 2023, what new features should you start learning?\nThis week's Web Weekly includes all the answers and much more. Enjoy!\nLet's kick off this Web Weekly with some short'n'sweet HTML form trivia!\nI was reading the excellent HTMHell advents calendar and discovered a nifty fun fact.\nDid you know that a button can submit a form even though it's not included in one?\nPut a button somewhere on the page, and reference the form to submit by id — done! The form attribute can be invaluable when your design requires submitting a form on the other side of the page. 😅\nBut today's trivia doesn't stop here!\n…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-117/",
+          "publishedOn": "2023-12-10T23:00:00.000Z",
+          "wordCount": 2594,
+          "title": "Web Weekly #117 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
         {
           "id": "https://www.stefanjudis.com/snippets/css-only-scroll-to-top/",
           "author": null,
@@ -117,16 +117,6 @@
           "wordCount": 2139,
           "title": "oklch() retains perceived lightness for different hue angles (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:oklch()%20retains%20perceived%20lightness%20for%20different%20hue%20angles/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-115/",
-          "author": null,
-          "description": "Hello, hello Friends! 👋\n\nHow does Google do site reliability engineering? Is using relative CSS units (rem) to control spaces like margins and paddings a good idea? Are you ready to adopt native and relaxed CSS nesting?\nThis week's Web Weekly includes all the answers and much more. Enjoy!\nI heard having your own font is important for successful tech companies these days. Vercel followed the playbook and released Geist.\nShortly after, GitHub followed. But the Octocat maintainers didn't release yet another standard coding font, but rather an entire font family — say hello to \"Monaspace\".\nMonaspace is a set of five variable fonts supporting the same font axes. I haven't tried it yet, but theoretically, you could mix and match the fonts, and they'll stay on the same grid. Sweet!\nAnd I must sa…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-115/",
-          "publishedOn": "2023-11-11T23:00:00.000Z",
-          "wordCount": 2554,
-          "title": "Web Weekly #115 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
     },
