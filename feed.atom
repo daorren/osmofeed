@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-23T01:09:32.349Z</updated>
+    <updated>2023-12-24T01:16:53.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Trick AI bot into selling Tahoe for $1]]></title>
+        <id>657de1ac43f4111d84b5f497</id>
+        <link href="https://labnotes.org/weekend-reading-trick-ai-bot-into-selling-tahoe-for-1/"/>
+        <updated>2023-12-23T18:38:50.000Z</updated>
+        <summary type="html"><![CDATA[This week we discuss whether HTML is necessary, get a new calendaring app, cover some productivity hacks, balk at AI Gone Wrong, and advise you how to wrap your x-max presents.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local link targets must be focusable to prevent accessibility issues (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/relative-html-links-focus-issues/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/relative-html-links-focus-issues/"/>
+        <updated>2023-12-22T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You might think that when you bet on the web platform and rely on native HTML features, your website will be completely accessible. Unfortunately, this assumption is wrong in many cases.
+If you want to learn about more inaccessible HTML features, a recent HTMHell article covered many of them. It's a great read!
+This week, I've learned that even simple things, such as linking to local elements via id (<a href="#something">), require careful consideration not to cause accessibility problems.
+What's the issue with local links?
+document.activeElement is only set to focusable elements
+
+I've been reading How To Avoid Breaking Web Pages For Keyboard Users and learned that some assistive technologies rely on document.activeElement.
+The activeElement read-only property of the Document interface ret…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — 🫛 War and peas]]></title>
         <id>6574f87a43f4111d84b5e979</id>

@@ -12,6 +12,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "657de1ac43f4111d84b5f497",
+          "author": "Assaf Arkin",
+          "description": "This week we discuss whether HTML is necessary, get a new calendaring app, cover some productivity hacks, balk at AI Gone Wrong, and advise you how to wrap your x-max presents.",
+          "link": "https://labnotes.org/weekend-reading-trick-ai-bot-into-selling-tahoe-for-1/",
+          "publishedOn": "2023-12-23T18:38:50.000Z",
+          "wordCount": 1759,
+          "title": "Weekend Reading — Trick AI bot into selling Tahoe for $1",
+          "imageUrl": "https://labnotes.org/content/images/2023/12/Image-129.png"
+        },
+        {
           "id": "6574f87a43f4111d84b5e979",
           "author": "Assaf Arkin",
           "description": "This week we solve an SQL murder mystery, watch the mother of all demos, explore the creative playground, cry over some dead startups, list a couple of new cool AI tools, and praise our Neanderthal genes.",
@@ -68,6 +78,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/relative-html-links-focus-issues/",
+          "author": null,
+          "description": "You might think that when you bet on the web platform and rely on native HTML features, your website will be completely accessible. Unfortunately, this assumption is wrong in many cases.\nIf you want to learn about more inaccessible HTML features, a recent HTMHell article covered many of them. It's a great read!\nThis week, I've learned that even simple things, such as linking to local elements via id (<a href=\"#something\">), require careful consideration not to cause accessibility problems.\nWhat's the issue with local links?\ndocument.activeElement is only set to focusable elements\n\nI've been reading How To Avoid Breaking Web Pages For Keyboard Users and learned that some assistive technologies rely on document.activeElement.\nThe activeElement read-only property of the Document interface ret…",
+          "link": "https://www.stefanjudis.com/today-i-learned/relative-html-links-focus-issues/",
+          "publishedOn": "2023-12-22T23:00:00.000Z",
+          "wordCount": 1988,
+          "title": "Local link targets must be focusable to prevent accessibility issues (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Local%20link%20targets%20must%20be%20focusable%20to%20prevent%20accessibility%20issues/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-117/",
           "author": null,
