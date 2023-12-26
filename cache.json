@@ -60,16 +60,6 @@
           "wordCount": 441,
           "title": "Default Apps 2023",
           "imageUrl": "https://labnotes.org/content/images/2023/11/Mac-app-open-files.jpg"
-        },
-        {
-          "id": "655951f743f4111d84b5cb43",
-          "author": "Assaf Arkin",
-          "description": "This week we realize we need this truck, map the entire internet form Nov 1969, don’t obsessed over not getting hired, learn more about our brain and guts, and purchase the “never obsolete” PC.",
-          "link": "https://labnotes.org/weekend-reading-darth-driver/",
-          "publishedOn": "2023-11-25T22:55:01.000Z",
-          "wordCount": 1319,
-          "title": "Weekend Reading — Darth driver",
-          "imageUrl": "https://labnotes.org/content/images/2023/11/Image-130.png"
         }
       ]
     },
@@ -127,16 +117,6 @@
           "wordCount": 1556,
           "title": "A web component to make your text sparkle (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20web%20component%20to%20make%20your%20text%20sparkle/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/oklch-perceived-lightness/",
-          "author": null,
-          "description": "As far as I see, it's time to ditch hsl() and use oklch() for color palettes and design systems. Why's that?\nFor me, it boils down to two reasons.\nNew devices and monitors can display colors that aren't defined in the sRGB color space used by rgb(), hsl() or hex colors. Isn't it sad that you can't express these vibrant colors in CSS using existing color methods?\nIt is. And the solution are new CSS color functions that can talk new and fancy monitor tech (namely wide-gamut P3 colors). It's party time y'all — the web gets a color update with fresh and vibrant colors.\nThere's oklch(), oklab() and also color() to target the wider color space, but let's focus on oklch() because it's the most user-friendly.\noklch()'s parameters (lightness, chroma and hue) are easy to grasp and feel very similar …",
-          "link": "https://www.stefanjudis.com/today-i-learned/oklch-perceived-lightness/",
-          "publishedOn": "2023-11-25T23:00:00.000Z",
-          "wordCount": 2139,
-          "title": "oklch() retains perceived lightness for different hue angles (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:oklch()%20retains%20perceived%20lightness%20for%20different%20hue%20angles/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
