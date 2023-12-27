@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-26T01:10:38.487Z</updated>
+    <updated>2023-12-27T01:10:59.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -149,24 +149,6 @@ If you want to play around with it find the source code on GitHub.
         <link href="https://labnotes.org/weekend-reading-us-politics-in-a-nutshell/"/>
         <updated>2023-12-02T23:19:14.000Z</updated>
         <summary type="html"><![CDATA[This week we revisit the PDP-11, learn some CSS, pick some cool apps, take note of AI and ad blockers, and square some politics.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Default Apps 2023]]></title>
-        <id>65638ddb43f4111d84b5d711</id>
-        <link href="https://labnotes.org/default-apps-2023/"/>
-        <updated>2023-11-26T18:29:55.000Z</updated>
-        <summary type="html"><![CDATA[(Inspired by Chris Coyier)
-
-📨 Mail Client: Shortwave and Spark
-📮 Mail Server: Google
-📝 Notes: Notes and Notion
-✅ To-Do: Things
-📆 Calendar: Fantastical through Google Calendar
-📁 Cloud File Storage: iCloud Drive
-📖 RSS: Reeder through Feedly]]></summary>
         <author>
             <name>Assaf Arkin</name>
         </author>
