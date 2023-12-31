@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-30T01:10:31.416Z</updated>
+    <updated>2023-12-31T01:17:41.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Hot Potatoes]]></title>
+        <id>65872981f9520504e51b8aaf</id>
+        <link href="https://labnotes.org/weekend-reading-hot-potatoes/"/>
+        <updated>2023-12-30T17:27:01.000Z</updated>
+        <summary type="html"><![CDATA[This week we decide on monolithic vs micro-service, Remix all the things, run a performance comparison, get better at making decisions, say farewell to Firefox and Substack, exercise every morning, recommend two things you can watch online, and collect our New Year’s event tickets.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anyone Selling an MEV bot is a Scammer]]></title>
         <id>https://mteam88.github.io/posts/anyone-selling-an-mev-bot-is-a-scammer/</id>
