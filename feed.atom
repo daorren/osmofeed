@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-02T01:11:19.214Z</updated>
+    <updated>2024-01-03T01:12:52.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -104,46 +104,6 @@ Here's a scroll-top link in action. 👇
 But why use 100vh instead of 100%?
 Fun fact: percentages in margin-top refer to the logical width of the containing block. margin-top: 50% isn't half the container's height, but width.
 Either way, this is a nifty little CSS trick. Thank David!
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #116 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-116/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-116/"/>
-        <updated>2023-12-03T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hello, hello Friends! 👋
-
-How does reactivity work in JS frameworks? What's the deal with the oklch() CSS color function? And how can you ship responsive videos on the web?
-This week's Web Weekly includes all the answers and much more. Enjoy!
-GitHub rolled out new markdown rendering features to give authors more styling options. And they continue to mess with extend the markdown syntax.
-You can now render a custom headline, icon and some color if you use a blockquote with the > [!NOTE] syntax. Fancy!
-In total, there are !NOTE, !TIP, !IMPORTANT, !WARNING and !CAUTION.
-And that's all cool, but I'm just no fan of these custom markdown solutions. It's all fine for GitHub, sure, but GitHub markdown doesn't stay on GitHub. npm is only one example; does npm support this rendering syntax? (I don't…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A web component to make your text sparkle (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/a-web-component-to-make-your-text-sparkle/</id>
-        <link href="https://www.stefanjudis.com/blog/a-web-component-to-make-your-text-sparkle/"/>
-        <updated>2023-12-03T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Inspired by Zach Leatherman and the community's recent rediscovery of HTML web components, I sat down to write a quick component to make text sparkle. There can't be enough sparkles (and confetti), right?
-Here are some examples of what <sparkly-text /> can do. 👇
-Here's a  sparkly-text  in a headline
-
-And here's a paragraph with bigger sparkles .
-
-And here are some colorful sparkles .
-
-If you want to play around with it find the source code on GitHub.
 
 
           
