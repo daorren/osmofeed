@@ -12,6 +12,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "6590533ff9520504e51b9526",
+          "author": "Assaf Arkin",
+          "description": "This week we run a desktop in the browser, re-learn JavaScript and React Server Components, cover a bunch of cool developer tools, revisit inclusive design, write a brag document, get ourselves a free VPN, and snack on a Shoeshi.",
+          "link": "https://labnotes.org/weekend-reading-happy-and-safe-new-year/",
+          "publishedOn": "2024-01-06T16:45:50.000Z",
+          "wordCount": 1887,
+          "title": "Weekend Reading — Happy and safe new year!",
+          "imageUrl": "https://labnotes.org/content/images/2024/01/Image-24-1200x800.png"
+        },
+        {
           "id": "65872981f9520504e51b8aaf",
           "author": "Assaf Arkin",
           "description": "This week we decide on monolithic vs micro-service, Remix all the things, run a performance comparison, get better at making decisions, say farewell to Firefox and Substack, exercise every morning, recommend two things you can watch online, and collect our New Year’s event tickets.",
@@ -77,16 +87,6 @@
           "wordCount": 2594,
           "title": "Web Weekly #117 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/css-only-scroll-to-top/",
-          "author": null,
-          "description": "David Darnes shared a nifty tiny trick to build a \"scroll to top\" component that automatically shows up after you scroll down a little.\nAnd thanks to modern CSS, position: sticky is all you need. 💙\nHere's a scroll-top link in action. 👇\n[Interactive component: visit the article to see it...]\nBut why use 100vh instead of 100%?\nFun fact: percentages in margin-top refer to the logical width of the containing block. margin-top: 50% isn't half the container's height, but width.\nEither way, this is a nifty little CSS trick. Thank David!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/snippets/css-only-scroll-to-top/",
-          "publishedOn": "2023-12-07T23:00:00.000Z",
-          "wordCount": 2585,
-          "title": "CSS only \"scroll-to-top\" (#snippet)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:CSS%20only%20%22scroll-to-top%22/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
