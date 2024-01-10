@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-09T01:15:01.740Z</updated>
+    <updated>2024-01-10T01:14:53.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -71,25 +71,6 @@ The activeElement read-only property of the Document interface ret…]]></summar
         <summary type="html"><![CDATA[This week we solve an SQL murder mystery, watch the mother of all demos, explore the creative playground, cry over some dead startups, list a couple of new cool AI tools, and praise our Neanderthal genes.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #117 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-117/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-117/"/>
-        <updated>2023-12-10T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hello, hello friends! 👋
-
-How can you quickly find out if a web feature is safe to use? Does the definition of the sizes attribute really have to be so painful? And now that we're close to wrapping up 2023, what new features should you start learning?
-This week's Web Weekly includes all the answers and much more. Enjoy!
-Let's kick off this Web Weekly with some short'n'sweet HTML form trivia!
-I was reading the excellent HTMHell advents calendar and discovered a nifty fun fact.
-Did you know that a button can submit a form even though it's not included in one?
-Put a button somewhere on the page, and reference the form to submit by id — done! The form attribute can be invaluable when your design requires submitting a form on the other side of the page. 😅
-But today's trivia doesn't stop here!
-…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

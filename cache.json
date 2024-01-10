@@ -67,16 +67,6 @@
           "wordCount": 1988,
           "title": "Local link targets must be focusable to prevent accessibility issues (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Local%20link%20targets%20must%20be%20focusable%20to%20prevent%20accessibility%20issues/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-117/",
-          "author": null,
-          "description": "Hello, hello friends! 👋\n\nHow can you quickly find out if a web feature is safe to use? Does the definition of the sizes attribute really have to be so painful? And now that we're close to wrapping up 2023, what new features should you start learning?\nThis week's Web Weekly includes all the answers and much more. Enjoy!\nLet's kick off this Web Weekly with some short'n'sweet HTML form trivia!\nI was reading the excellent HTMHell advents calendar and discovered a nifty fun fact.\nDid you know that a button can submit a form even though it's not included in one?\nPut a button somewhere on the page, and reference the form to submit by id — done! The form attribute can be invaluable when your design requires submitting a form on the other side of the page. 😅\nBut today's trivia doesn't stop here!\n…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-117/",
-          "publishedOn": "2023-12-10T23:00:00.000Z",
-          "wordCount": 2594,
-          "title": "Web Weekly #117 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
     },
