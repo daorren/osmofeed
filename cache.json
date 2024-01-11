@@ -59,6 +59,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-118/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nHow can you block AI agents from using your content? Is centering elements in CSS really a problem in 2024? What's in for browser interop 2024?\nThis week's Web Weekly includes all the answers and much more. Enjoy!\nI'm no designer. And unfortunately, I rarely have a visual sense to create really beautiful things.\nBut I did learn some simple rules and tricks that move my designs from the \"You designed this yourself, or?\" stage to \"Yeah, looks okay.\".\nGive elements space to breathe.\nDon't put pure black on pure white.\nDistribute things evenly.\nDon't break the visual grid!\nYou get the idea. And I'm really just applying the rules I know.\nAnd I just learned some more rules! Anthony Hobday collected a whole lot of safe design practices. They're easy to follow and put int…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-118/",
+          "publishedOn": "2024-01-09T23:00:00.000Z",
+          "wordCount": 2352,
+          "title": "Web Weekly #118 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
           "id": "https://www.stefanjudis.com/today-i-learned/relative-html-links-focus-issues/",
           "author": null,
           "description": "You might think that when you bet on the web platform and rely on native HTML features, your website will be completely accessible. Unfortunately, this assumption is wrong in many cases.\nIf you want to learn about more inaccessible HTML features, a recent HTMHell article covered many of them. It's a great read!\nThis week, I've learned that even simple things, such as linking to local elements via id (<a href=\"#something\">), require careful consideration not to cause accessibility problems.\nWhat's the issue with local links?\ndocument.activeElement is only set to focusable elements\n\nI've been reading How To Avoid Breaking Web Pages For Keyboard Users and learned that some assistive technologies rely on document.activeElement.\nThe activeElement read-only property of the Document interface ret…",
