@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T01:15:30.121Z</updated>
+    <updated>2024-01-18T01:14:34.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to do math in shell environments (bash, zsh, ...) (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/math-in-shell-environments/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/math-in-shell-environments/"/>
+        <updated>2024-01-16T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I was kneedeep into CI/CD scripting, when I hit a wall. You can't just do simple math like adding or subtracting integers in a shell environment? How could I have not discovered this fact before?
+As it turns out, simple operations like summing and subtracting two variables need some serious shell knowledge.
+Here's the problem.
+#!/bin/sh
+
+a=1
+b=2
+c=$a+$b
+echo $c # 1+2
+
+When evaluating c, $a and $b are resolved to their values (1 and 2), but the + is treated as a string. All three parts are strings, and now the result is 1+2. Ufff.
+After researching this problem, I learned that there are multiple ways to do math in shell environments. Let's find out what I learned!
+The expr command
+
+Let's start with my first Google result — expr.
+#!/bin/sh
+
+a=1
+b=2
+c=`expr $a + $b`
+
+echo $c #3
+
+Backticks and…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #119 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-119/</id>
