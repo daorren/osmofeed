@@ -59,6 +59,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/today-i-learned/how-to-exclude-elements-from-being-shown-in-google-search-results/",
+          "author": null,
+          "description": "Let's look at what happens when I google myself.\nOf course, I know how my site is structured, and I can tell that Google displays my site's title and the description includes some of the root page's headlines. The description is not the worst, but it certainly could be better.\nIs there a way to exclude elements from being shown in the Google snippet?\nToday I learned that there is! And the solution is based on an HTML data attribute: data-nosnippet. Here's the example snippet from the Google Search Central docs:\n<p>This text can be shown in a snippet\n<span data-nosnippet>and this part would not be shown</span>.</p>\n\n<div data-nosnippet>not in snippet</div>\n<div data-nosnippet=\"true\">also not in snippet</div>\n<div data-nosnippet=\"false\">also not in snippet</div>\n\ndata-nosnippet works on div, span and section elements, and it doesn't care what value you'll give it. data-nosnippet=\"true\" and data-nosnippet=\"false\" have the same result — signaling that this element shouldn't pop up in the Google Search results. Nice!\nIf you're unhappy with the search results, add some juicy data attributes now. But remember to trigger a reindex in the Search Console. Otherwise, it might take a while until your changes have an effect.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/how-to-exclude-elements-from-being-shown-in-google-search-results/",
+          "publishedOn": "2024-01-17T23:00:00.000Z",
+          "wordCount": 1675,
+          "title": "How to exclude elements from being shown in Google Search results (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20exclude%20elements%20from%20being%20shown%20in%20Google%20Search%20results/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/today-i-learned/math-in-shell-environments/",
           "author": null,
           "description": "I was kneedeep into CI/CD scripting, when I hit a wall. You can't just do simple math like adding or subtracting integers in a shell environment? How could I have not discovered this fact before?\nAs it turns out, simple operations like summing and subtracting two variables need some serious shell knowledge.\nHere's the problem.\n#!/bin/sh\n\na=1\nb=2\nc=$a+$b\necho $c # 1+2\n\nWhen evaluating c, $a and $b are resolved to their values (1 and 2), but the + is treated as a string. All three parts are strings, and now the result is 1+2. Ufff.\nAfter researching this problem, I learned that there are multiple ways to do math in shell environments. Let's find out what I learned!\nThe expr command\n\nLet's start with my first Google result — expr.\n#!/bin/sh\n\na=1\nb=2\nc=`expr $a + $b`\n\necho $c #3\n\nBackticks and…",

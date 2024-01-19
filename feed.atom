@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-18T01:14:34.855Z</updated>
+    <updated>2024-01-19T01:15:32.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to exclude elements from being shown in Google Search results (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/how-to-exclude-elements-from-being-shown-in-google-search-results/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/how-to-exclude-elements-from-being-shown-in-google-search-results/"/>
+        <updated>2024-01-17T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let's look at what happens when I google myself.
+Of course, I know how my site is structured, and I can tell that Google displays my site's title and the description includes some of the root page's headlines. The description is not the worst, but it certainly could be better.
+Is there a way to exclude elements from being shown in the Google snippet?
+Today I learned that there is! And the solution is based on an HTML data attribute: data-nosnippet. Here's the example snippet from the Google Search Central docs:
+<p>This text can be shown in a snippet
+<span data-nosnippet>and this part would not be shown</span>.</p>
+
+<div data-nosnippet>not in snippet</div>
+<div data-nosnippet="true">also not in snippet</div>
+<div data-nosnippet="false">also not in snippet</div>
+
+data-nosnippet works on div, span and section elements, and it doesn't care what value you'll give it. data-nosnippet="true" and data-nosnippet="false" have the same result — signaling that this element shouldn't pop up in the Google Search results. Nice!
+If you're unhappy with the search results, add some juicy data attributes now. But remember to trigger a reindex in the Search Console. Otherwise, it might take a while until your changes have an effect.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to do math in shell environments (bash, zsh, ...) (#tilPost)]]></title>
         <id>https://www.stefanjudis.com/today-i-learned/math-in-shell-environments/</id>
