@@ -59,6 +59,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/notes/accessible-notifications/",
+          "author": null,
+          "description": "Sara Soueidan just published a free chapter of her Practical Accessibility course; with no surprise, it's high quality.\nThe chapter is split into two blog posts:\nAccessible notifications with ARIA Live Regions (Part 1)\nAccessible notifications with ARIA Live Regions (Part 2)\nI strongly suggest you read these, but disclaimer: you'll need a while to make yourself through them.\nFor my archive, here are some rough notes from reading the chapter.\nLive region roles vs. the aria-live attribute\n\nTo define an element as a live region, you can use the aria-live attribute or go with a live region role (alert, status, log, marquee or timer). From all these roles, alert and status are fair game because they're well supported.\nRegions have one advantage over the aria-live attribute.\nAnother advantage to…",
+          "link": "https://www.stefanjudis.com/notes/accessible-notifications/",
+          "publishedOn": "2024-01-18T23:00:00.000Z",
+          "wordCount": 1946,
+          "title": "Accessible notifications (#note)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Accessible%20notifications/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/today-i-learned/how-to-exclude-elements-from-being-shown-in-google-search-results/",
           "author": null,
           "description": "Let's look at what happens when I google myself.\nOf course, I know how my site is structured, and I can tell that Google displays my site's title and the description includes some of the root page's headlines. The description is not the worst, but it certainly could be better.\nIs there a way to exclude elements from being shown in the Google snippet?\nToday I learned that there is! And the solution is based on an HTML data attribute: data-nosnippet. Here's the example snippet from the Google Search Central docs:\n<p>This text can be shown in a snippet\n<span data-nosnippet>and this part would not be shown</span>.</p>\n\n<div data-nosnippet>not in snippet</div>\n<div data-nosnippet=\"true\">also not in snippet</div>\n<div data-nosnippet=\"false\">also not in snippet</div>\n\ndata-nosnippet works on div, span and section elements, and it doesn't care what value you'll give it. data-nosnippet=\"true\" and data-nosnippet=\"false\" have the same result — signaling that this element shouldn't pop up in the Google Search results. Nice!\nIf you're unhappy with the search results, add some juicy data attributes now. But remember to trigger a reindex in the Search Console. Otherwise, it might take a while until your changes have an effect.\n\n\n          \n          \n            Reply to Stefan",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-19T01:15:32.553Z</updated>
+    <updated>2024-01-20T01:14:13.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Accessible notifications (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/accessible-notifications/</id>
+        <link href="https://www.stefanjudis.com/notes/accessible-notifications/"/>
+        <updated>2024-01-18T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sara Soueidan just published a free chapter of her Practical Accessibility course; with no surprise, it's high quality.
+The chapter is split into two blog posts:
+Accessible notifications with ARIA Live Regions (Part 1)
+Accessible notifications with ARIA Live Regions (Part 2)
+I strongly suggest you read these, but disclaimer: you'll need a while to make yourself through them.
+For my archive, here are some rough notes from reading the chapter.
+Live region roles vs. the aria-live attribute
+
+To define an element as a live region, you can use the aria-live attribute or go with a live region role (alert, status, log, marquee or timer). From all these roles, alert and status are fair game because they're well supported.
+Regions have one advantage over the aria-live attribute.
+Another advantage to…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to exclude elements from being shown in Google Search results (#tilPost)]]></title>
         <id>https://www.stefanjudis.com/today-i-learned/how-to-exclude-elements-from-being-shown-in-google-search-results/</id>
