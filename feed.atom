@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-20T01:14:13.587Z</updated>
+    <updated>2024-01-21T01:20:28.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Where's my car?]]></title>
+        <id>65a2e15859af5c0502c7562c</id>
+        <link href="https://labnotes.org/weekend-reading-wheres-my-car/"/>
+        <updated>2024-01-20T18:26:30.000Z</updated>
+        <summary type="html"><![CDATA[This week we find the missing car, test with cats, remember old computing machines, follow the layoffs on TikTok, ask the chicken the question, and build our Mac with Lego bricks.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Accessible notifications (#note)]]></title>
         <id>https://www.stefanjudis.com/notes/accessible-notifications/</id>
