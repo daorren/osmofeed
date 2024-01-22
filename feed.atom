@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-21T01:20:28.192Z</updated>
+    <updated>2024-01-22T01:18:10.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #120 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-120/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-120/"/>
+        <updated>2024-01-20T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello hello! 👋
+
+When can we start server-rendering shadow DOM? What makes a perfect code diff view? And how do you implement accessible notifications?
+This week's Web Weekly includes all the answers and much more. Enjoy!
+I've got some news. In December, I left my full-time gig at Checkly and now work solo. 😅 It's scary, but things are going really well so far.
+One major part of this decision was that I wanted to focus more on Web Weekly. I'm dreaming of this newsletter becoming "a real thing". Could that work?
+I don't know yet, but if you enjoy Web Weekly and want to help, it would mean the world. What can you do? I'm glad you asked!
+Recommend the Web Weekly to your friends.
+Sponsor the newsletter.
+Support Web Weekly on Patreon.
+Thank you!💙
+Community tune of the week
+
+If you've read las…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Where's my car?]]></title>
         <id>65a2e15859af5c0502c7562c</id>
@@ -186,23 +209,6 @@ And I just learned some more rules! Anthony Hobday collected a whole lot of safe
         <summary type="html"><![CDATA[This week we discuss whether HTML is necessary, get a new calendaring app, cover some productivity hacks, balk at AI Gone Wrong, and advise you how to wrap your x-max presents.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local link targets must be focusable to prevent accessibility issues (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/relative-html-links-focus-issues/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/relative-html-links-focus-issues/"/>
-        <updated>2023-12-22T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You might think that when you bet on the web platform and rely on native HTML features, your website will be completely accessible. Unfortunately, this assumption is wrong in many cases.
-If you want to learn about more inaccessible HTML features, a recent HTMHell article covered many of them. It's a great read!
-This week, I've learned that even simple things, such as linking to local elements via id (<a href="#something">), require careful consideration not to cause accessibility problems.
-What's the issue with local links?
-document.activeElement is only set to focusable elements
-
-I've been reading How To Avoid Breaking Web Pages For Keyboard Users and learned that some assistive technologies rely on document.activeElement.
-The activeElement read-only property of the Document interface ret…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

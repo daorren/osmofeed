@@ -69,6 +69,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-120/",
+          "author": null,
+          "description": "Hello hello! 👋\n\nWhen can we start server-rendering shadow DOM? What makes a perfect code diff view? And how do you implement accessible notifications?\nThis week's Web Weekly includes all the answers and much more. Enjoy!\nI've got some news. In December, I left my full-time gig at Checkly and now work solo. 😅 It's scary, but things are going really well so far.\nOne major part of this decision was that I wanted to focus more on Web Weekly. I'm dreaming of this newsletter becoming \"a real thing\". Could that work?\nI don't know yet, but if you enjoy Web Weekly and want to help, it would mean the world. What can you do? I'm glad you asked!\nRecommend the Web Weekly to your friends.\nSponsor the newsletter.\nSupport Web Weekly on Patreon.\nThank you!💙\nCommunity tune of the week\n\nIf you've read las…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-120/",
+          "publishedOn": "2024-01-20T23:00:00.000Z",
+          "wordCount": 2497,
+          "title": "Web Weekly #120 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
           "id": "https://www.stefanjudis.com/notes/accessible-notifications/",
           "author": null,
           "description": "Sara Soueidan just published a free chapter of her Practical Accessibility course; with no surprise, it's high quality.\nThe chapter is split into two blog posts:\nAccessible notifications with ARIA Live Regions (Part 1)\nAccessible notifications with ARIA Live Regions (Part 2)\nI strongly suggest you read these, but disclaimer: you'll need a while to make yourself through them.\nFor my archive, here are some rough notes from reading the chapter.\nLive region roles vs. the aria-live attribute\n\nTo define an element as a live region, you can use the aria-live attribute or go with a live region role (alert, status, log, marquee or timer). From all these roles, alert and status are fair game because they're well supported.\nRegions have one advantage over the aria-live attribute.\nAnother advantage to…",
@@ -117,16 +127,6 @@
           "wordCount": 2352,
           "title": "Web Weekly #118 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/relative-html-links-focus-issues/",
-          "author": null,
-          "description": "You might think that when you bet on the web platform and rely on native HTML features, your website will be completely accessible. Unfortunately, this assumption is wrong in many cases.\nIf you want to learn about more inaccessible HTML features, a recent HTMHell article covered many of them. It's a great read!\nThis week, I've learned that even simple things, such as linking to local elements via id (<a href=\"#something\">), require careful consideration not to cause accessibility problems.\nWhat's the issue with local links?\ndocument.activeElement is only set to focusable elements\n\nI've been reading How To Avoid Breaking Web Pages For Keyboard Users and learned that some assistive technologies rely on document.activeElement.\nThe activeElement read-only property of the Document interface ret…",
-          "link": "https://www.stefanjudis.com/today-i-learned/relative-html-links-focus-issues/",
-          "publishedOn": "2023-12-22T23:00:00.000Z",
-          "wordCount": 1988,
-          "title": "Local link targets must be focusable to prevent accessibility issues (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Local%20link%20targets%20must%20be%20focusable%20to%20prevent%20accessibility%20issues/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
