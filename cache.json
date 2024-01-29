@@ -69,6 +69,26 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-121/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nNon-Webkit engines coming to iOS (sorta)! What are numeric font variants? And when would you use scrollbar-gutter?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nAaron Ladage listens to \"Waxahatchee (ft. MJ Lenderman) - Right Back to It\" and says:\n\"I love this twangy gem! Katie (from Waxahatchee) and MJ's voices intersect in such a hauntingly beautiful way. I could listen to it on repeat all day!\"\nDo you want to share your favorite song with the Web Weekly community? Hit reply, and I'll include it!\nThere's one major, major, major news this week! EU citizens will soon be able to use a non-Webkit browser engine on iOS. What? Yes! Yay for the open web. But there's a big but.\nThe Cupertino giant isn't happy about it. How could you tell? It shows in…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-121/",
+          "publishedOn": "2024-01-27T23:00:00.000Z",
+          "wordCount": 2541,
+          "title": "Web Weekly #121 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
+          "id": "https://www.stefanjudis.com/snippets/template-literal-types/",
+          "author": null,
+          "description": "Sometimes, I'm surprised about how smart TypeScript is. Let's assume you want to type your app's release version numbers. The format is [releaseMonth]-[releaseYear]. There won't be a new version every month or year.\nHow hard is it to define a type for this? It's not hard at all.\njs\n\n// define release years\ntype releaseYear = '2022' | '2023' | '2024';\n// define release months\ntype releasteMonth = '03' | '07' | '11';\n// combine the two types in a template literal type\ntype versionNumber = `${releasteMonth}.${releaseYear}`;\n \nconst version: versionNumber = '04.2022';\nType '\"04.2022\"' is not assignable to type '\"03.2022\" | \"03.2023\" | \"03.2024\" | \"07.2022\" | \"07.2023\" | \"07.2024\" | \"11.2022\" | \"11.2023\" | \"11.2024\"'. Did you mean '\"03.2022\"'?2820Type '\"04.2022\"' is not assignable to type '\"03.2022\" | \"03.2023\" | \"03.2024\" | \"07.2022\" | \"07.2023\" | \"07.2024\" | \"11.2022\" | \"11.2023\" | \"11.2024\"'. Did you mean '\"03.2022\"'?\n\nFor these situations, TypeScript defines Template Literal Types based on good old template strings. Sweet!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/snippets/template-literal-types/",
+          "publishedOn": "2024-01-27T23:00:00.000Z",
+          "wordCount": 1611,
+          "title": "How to type fixed string value combinations with template literal types (#snippet)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20type%20fixed%20string%20value%20combinations%20with%20template%20literal%20types/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/snippets/turn-off-password-managers/",
           "author": null,
           "description": "Flavio shared how to tell 1Password not to interact with an input element.\nIgnoring the question of when you would want to turn off automatic password filling, how hard can it be to tell browsers and password managers not to mess with an input field?\nAs Flavio shared, 1Password relies on data-1p-ignore. Fair enough. This attribute is oddly specific, though.\nHow can you turn off auto-completion for LastPass users, then? That's right! Add data-lpignore=\"true\" to your input field.\nBut I'm a happy Dashlane user; how about this one? Dashlane created an entire spec called Semantically Annotated Web Forms to handle form completion. An easy data-form-type=\"other\" will do it for this password manager.\nPW manager\nTurn off attribute\n\n\n\n\n1Password\ndata-1p-ignore\n\n\nLastpass\ndata-lpignore=\"true\"\n\n\nDashl…",
