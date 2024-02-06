@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-05T01:11:09.854Z</updated>
+    <updated>2024-02-06T01:09:17.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #122 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-122/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-122/"/>
+        <updated>2024-02-04T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+What's coming to the web with Interop 2024? How can you style browser scrollbars? And how can you discover great variable fonts?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+Paweł Grzybek listens to "Madlib · Hus Kingpin · Roc C · Cory Atkins - CRUSH ON YOU" and says:
+"Madlib, always fresh!"
+Do you want to share your favorite song with the Web Weekly community? Hit reply, and we'll listen to it together!
+Now that the indie web is cool again, I started bookmarking beautiful personal sites.
+Here's Pete Millspaugh's site. It's simple but so incredibly well done. The background, the colors, the typography... I'm jealous.💯
+Pete also built weeksofyour.life. Having my life's key moments on my site, I'm game!
+And then there's Tyler Gaw with his roug…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Put � in random text fields]]></title>
         <id>65b540aab3f7f50c80a32a6c</id>
@@ -283,16 +303,6 @@ You get the idea. And I'm really just applying the rules I know.
 And I just learned some more rules! Anthony Hobday collected a whole lot of safe design practices. They're easy to follow and put int…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Happy and safe new year!]]></title>
-        <id>6590533ff9520504e51b9526</id>
-        <link href="https://labnotes.org/weekend-reading-happy-and-safe-new-year/"/>
-        <updated>2024-01-06T16:45:50.000Z</updated>
-        <summary type="html"><![CDATA[This week we run a desktop in the browser, re-learn JavaScript and React Server Components, cover a bunch of cool developer tools, revisit inclusive design, write a brag document, get ourselves a free VPN, and snack on a Shoeshi.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
