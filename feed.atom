@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T01:09:34.299Z</updated>
+    <updated>2024-02-14T01:09:41.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -269,27 +269,6 @@ c=`expr $a + $b`
 echo $c #3
 
 Backticks and…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #119 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-119/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-119/"/>
-        <updated>2024-01-14T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Greetings! 👋
-
-Does sticky content harm accessibility? Is it time for a native toggle button on the web? And what makes a good touch target?
-This week's Web Weekly includes all the answers and much more!
-But before we start, if you've subscribed to Web Weekly for a while, you might have noticed that I dropped the music picks. And I miss them.
-So here's an idea: I'd love to include you and add a section that looks like this:
-[YOUR NAME] listens to "[BAND] — [Title]" and says:
-
-"I just love how bouncy this track is!"
-
-Are you game? If so, let me know!
-Last week, I shared "Dark Visitors" — a site listing known AI agents.  And there are a lot! Knowing about them is good, but what should we do with this info? Do we really need to ship a robots.txt with hundreds of agent definitions to tell them…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>
