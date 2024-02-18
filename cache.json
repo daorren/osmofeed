@@ -12,6 +12,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "65c7bc94cc3f5304eca5d717",
+          "author": "Assaf Arkin",
+          "description": "This week we over infrastructure decisions, plea for lean software, find some interesting productivity apps, remember good old Lander, meet the world’s most responsible AI model, revisit the World Economic Forum, and finish watching For All Mankind.",
+          "link": "https://labnotes.org/weekend-reading-the-real-luxuries/",
+          "publishedOn": "2024-02-17T18:30:07.000Z",
+          "wordCount": 1376,
+          "title": "Weekend Reading — The real luxuries",
+          "imageUrl": "https://labnotes.org/content/images/2024/02/image-71.jpg"
+        },
+        {
           "id": "65be77e0e93d2d643d189b67",
           "author": "Assaf Arkin",
           "description": "This week we tally the most in-demand frontend frameworks, learn how to PDF using an iPhone and no 3rd party app, make luck and avoid the paradox of goals, and wish you a happy new year and a wonderful Valentine’s Day.",
@@ -117,16 +127,6 @@
           "wordCount": 2497,
           "title": "Web Weekly #120 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/accessible-notifications/",
-          "author": null,
-          "description": "Sara Soueidan just published a free chapter of her Practical Accessibility course; with no surprise, it's high quality.\nThe chapter is split into two blog posts:\nAccessible notifications with ARIA Live Regions (Part 1)\nAccessible notifications with ARIA Live Regions (Part 2)\nI strongly suggest you read these, but disclaimer: you'll need a while to make yourself through them.\nFor my archive, here are some rough notes from reading the chapter.\nLive region roles vs. the aria-live attribute\n\nTo define an element as a live region, you can use the aria-live attribute or go with a live region role (alert, status, log, marquee or timer). From all these roles, alert and status are fair game because they're well supported.\nRegions have one advantage over the aria-live attribute.\nAnother advantage to…",
-          "link": "https://www.stefanjudis.com/notes/accessible-notifications/",
-          "publishedOn": "2024-01-18T23:00:00.000Z",
-          "wordCount": 1946,
-          "title": "Accessible notifications (#note)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Accessible%20notifications/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },

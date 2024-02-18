@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-17T01:08:35.997Z</updated>
+    <updated>2024-02-18T01:13:09.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — The real luxuries]]></title>
+        <id>65c7bc94cc3f5304eca5d717</id>
+        <link href="https://labnotes.org/weekend-reading-the-real-luxuries/"/>
+        <updated>2024-02-17T18:30:07.000Z</updated>
+        <summary type="html"><![CDATA[This week we over infrastructure decisions, plea for lean software, find some interesting productivity apps, remember good old Lander, meet the world’s most responsible AI model, revisit the World Economic Forum, and finish watching For All Mankind.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Language of Value: Formally Expressing MEV Opportunities]]></title>
         <id>https://mteam88.github.io/posts/the-language-of-value-formally-expressing-mev-opportunities/</id>
@@ -191,26 +201,6 @@ If you've read las…]]></summary>
         <summary type="html"><![CDATA[This week we find the missing car, test with cats, remember old computing machines, follow the layoffs on TikTok, ask the chicken the question, and build our Mac with Lego bricks.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessible notifications (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/accessible-notifications/</id>
-        <link href="https://www.stefanjudis.com/notes/accessible-notifications/"/>
-        <updated>2024-01-18T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sara Soueidan just published a free chapter of her Practical Accessibility course; with no surprise, it's high quality.
-The chapter is split into two blog posts:
-Accessible notifications with ARIA Live Regions (Part 1)
-Accessible notifications with ARIA Live Regions (Part 2)
-I strongly suggest you read these, but disclaimer: you'll need a while to make yourself through them.
-For my archive, here are some rough notes from reading the chapter.
-Live region roles vs. the aria-live attribute
-
-To define an element as a live region, you can use the aria-live attribute or go with a live region role (alert, status, log, marquee or timer). From all these roles, alert and status are fair game because they're well supported.
-Regions have one advantage over the aria-live attribute.
-Another advantage to…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
