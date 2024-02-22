@@ -59,6 +59,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/notes/htmz-a-176-bytes-htmx-alternative/",
+          "author": null,
+          "description": "htmx has been pretty loud lately because it moves functionality, like swapping out DOM elements into declarative HTML. Love it or hate it, I think it's a \"fresh\" approach to the overcomplicated world of JS frameworks.\n<script src=\"https://unpkg.com/htmx.org@1.9.10\"></script>\n<!-- have a button POST a click via AJAX -->\n<button hx-post=\"/clicked\" hx-swap=\"outerHTML\">\n  Click Me\n</button>\n\nAdd the 14kb compressed file to your sites and create dynamic interactions. Everything's just a hx-whatever attribute away. Sweet!\nCould you do similar things with less JavaScript? And while I wouldn't recommend using htmz in production, it does some HTML-swapping magic with 176 JS bytes. How? With very creative iframe usage.\n<iframe hidden name=htmz onload=\"setTimeout(()=>document.querySelector(this.contentWindow.location.hash||null)?.replaceWith(...this.contentDocument.body.childNodes))\"></iframe>\n\n<!-- Loads /flower.html onto #my-element -->\n<a href=\"/flower.html#my-element\" target=htmz>Flower</a>\n\nIs the project a joke? Sorta — maybe not. But whether we talk about htmx or htmz or whatever comes next, it becomes clear that we're lacking some HTML primitives. But maybe frames were already good enough? #oldIsNew 😅\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/notes/htmz-a-176-bytes-htmx-alternative/",
+          "publishedOn": "2024-02-20T23:00:00.000Z",
+          "wordCount": 1625,
+          "title": "htmz — a 176 bytes htmx alternative (#note)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:htmz%20%E2%80%94%20a%20176%20bytes%20htmx%20alternative/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-122/",
           "author": null,
           "description": "Guten Tag! Guten Tag! 👋\n\nWhat's coming to the web with Interop 2024? How can you style browser scrollbars? And how can you discover great variable fonts?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nPaweł Grzybek listens to \"Madlib · Hus Kingpin · Roc C · Cory Atkins - CRUSH ON YOU\" and says:\n\"Madlib, always fresh!\"\nDo you want to share your favorite song with the Web Weekly community? Hit reply, and we'll listen to it together!\nNow that the indie web is cool again, I started bookmarking beautiful personal sites.\nHere's Pete Millspaugh's site. It's simple but so incredibly well done. The background, the colors, the typography... I'm jealous.💯\nPete also built weeksofyour.life. Having my life's key moments on my site, I'm game!\nAnd then there's Tyler Gaw with his roug…",
