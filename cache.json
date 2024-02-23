@@ -97,26 +97,6 @@
           "wordCount": 1611,
           "title": "How to type fixed string value combinations with template literal types (#snippet)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20type%20fixed%20string%20value%20combinations%20with%20template%20literal%20types/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/turn-off-password-managers/",
-          "author": null,
-          "description": "Flavio shared how to tell 1Password not to interact with an input element.\nIgnoring the question of when you would want to turn off automatic password filling, how hard can it be to tell browsers and password managers not to mess with an input field?\nAs Flavio shared, 1Password relies on data-1p-ignore. Fair enough. This attribute is oddly specific, though.\nHow can you turn off auto-completion for LastPass users, then? That's right! Add data-lpignore=\"true\" to your input field.\nBut I'm a happy Dashlane user; how about this one? Dashlane created an entire spec called Semantically Annotated Web Forms to handle form completion. An easy data-form-type=\"other\" will do it for this password manager.\nPW manager\nTurn off attribute\n\n\n\n\n1Password\ndata-1p-ignore\n\n\nLastpass\ndata-lpignore=\"true\"\n\n\nDashl…",
-          "link": "https://www.stefanjudis.com/snippets/turn-off-password-managers/",
-          "publishedOn": "2024-01-23T23:00:00.000Z",
-          "wordCount": 1755,
-          "title": "How to turn off password managers for fields (#snippet)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20turn%20off%20password%20managers%20for%20fields/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/fading-out-text-with-css/",
-          "author": null,
-          "description": "Here's Kilian over on the Polypane with a nice explanation of how to create text that fades out with CSS mask-image.\nUsing mask-image is smart.\n[Interactive component: visit the article to see it...]\nNice one! Bookmarked for later.😉\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/snippets/fading-out-text-with-css/",
-          "publishedOn": "2024-01-23T23:00:00.000Z",
-          "wordCount": 2026,
-          "title": "Fading out text with CSS (#snippet)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Fading%20out%20text%20with%20CSS/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
