@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-24T01:05:49.295Z</updated>
+    <updated>2024-02-25T01:13:08.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Places where I've lost my glasses]]></title>
+        <id>65d0fb94be90a05575862702</id>
+        <link href="https://labnotes.org/weekend-reading-places-where-ive-lost-my-glasses/"/>
+        <updated>2024-02-24T19:00:14.000Z</updated>
+        <summary type="html"><![CDATA[This week we catalog the risks we’re addressing, run Postgres in the browser, modernize our app using generative AI, learn about focus and ADHD, stop trusting product reviews from Google search, and keep the operating room free of cats.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[htmz — a 176 bytes htmx alternative (#note)]]></title>
         <id>https://www.stefanjudis.com/notes/htmz-a-176-bytes-htmx-alternative/</id>
