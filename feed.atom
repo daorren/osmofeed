@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-10T01:13:27.451Z</updated>
+    <updated>2024-03-11T01:09:44.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The death of custom media queries (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/The-death-of-custom-media-queries/</id>
+        <link href="https://www.stefanjudis.com/notes/The-death-of-custom-media-queries/"/>
+        <updated>2024-03-09T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You know the problem: you want to reuse custom properties in media queries but can't.
+:root {
+  --width: 20em;
+}
+
+/* this doesn't work :/ */
+@media (min-width: var(--width)) {
+}
+
+I discovered the solution to this problem a while ago — custom media queries.
+/* this isn't supported anywhere */
+@custom-media --narrow-window (max-width: 30em);
+
+@media (--narrow-window) {
+  /* narrow window styles */
+}
+
+Unfortunately, as far as I know, custom media queries have never been implemented anywhere. Bummer.
+However, the CSS evolution is still in full swing, and we have CSS features we couldn't even dream of years ago. :has(), native CSS nesting and container queries are ready to use.
+With container queries, custom property style queries are slowly becoming a thing.
+
+        
+MDN Compat Data (source)
+…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Bill for unused domain names]]></title>
         <id>65e36d84e43b9cbd7d7175ff</id>

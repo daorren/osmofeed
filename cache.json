@@ -69,6 +69,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/notes/The-death-of-custom-media-queries/",
+          "author": null,
+          "description": "You know the problem: you want to reuse custom properties in media queries but can't.\n:root {\n  --width: 20em;\n}\n\n/* this doesn't work :/ */\n@media (min-width: var(--width)) {\n}\n\nI discovered the solution to this problem a while ago — custom media queries.\n/* this isn't supported anywhere */\n@custom-media --narrow-window (max-width: 30em);\n\n@media (--narrow-window) {\n  /* narrow window styles */\n}\n\nUnfortunately, as far as I know, custom media queries have never been implemented anywhere. Bummer.\nHowever, the CSS evolution is still in full swing, and we have CSS features we couldn't even dream of years ago. :has(), native CSS nesting and container queries are ready to use.\nWith container queries, custom property style queries are slowly becoming a thing.\n\n        \nMDN Compat Data (source)\n…",
+          "link": "https://www.stefanjudis.com/notes/The-death-of-custom-media-queries/",
+          "publishedOn": "2024-03-09T23:00:00.000Z",
+          "wordCount": 1698,
+          "title": "The death of custom media queries (#note)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:The%20death%20of%20custom%20media%20queries/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-124/",
           "author": null,
           "description": "Guten Tag! Guten Tag! 👋\n\nWhat's the status of Apple's PWA disaster? Should you self-host everything to avoid serverless horror stories? And what do you need to know about the new core web vital INP?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nKonrad listens to \"Cousins like shit - Barbie\" and says:\n\"I love the text & message - go all in when the chorus kicks in\"\nDo you want to share your favorite song with the Web Weekly community? Hit reply, and we'll listen to it together!\nEverybody's testing React Server components these days. And apart from the smaller bundle sizes (yay!) and massively increased build complexity (not yay!), the idea of streaming (some might call it simply lazy loading) content is quite nice.\nIf there's heavy computation involved, send everything…",
