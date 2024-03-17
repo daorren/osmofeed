@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-16T01:07:40.610Z</updated>
+    <updated>2024-03-17T01:13:40.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — The magic word]]></title>
+        <id>65ecaf762558e1050391314c</id>
+        <link href="https://labnotes.org/weekend-reading-the-magic-word/"/>
+        <updated>2024-03-16T17:48:51.000Z</updated>
+        <summary type="html"><![CDATA[This week we got a UI for writing markup and securely reading emails, we avoid context switching, and seek out optimism, find our traffic sources, get more realistic about artificial intelligence, and read the new villain origin story.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #125 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-125/</id>
