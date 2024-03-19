@@ -50,16 +50,6 @@
           "wordCount": 1677,
           "title": "Weekend Reading — Places where I've lost my glasses",
           "imageUrl": "https://labnotes.org/content/images/2024/02/image-97-1.png"
-        },
-        {
-          "id": "65c7bc94cc3f5304eca5d717",
-          "author": "Assaf Arkin",
-          "description": "This week we over infrastructure decisions, plea for lean software, find some interesting productivity apps, remember good old Lander, meet the world’s most responsible AI model, revisit the World Economic Forum, and finish watching For All Mankind.",
-          "link": "https://labnotes.org/weekend-reading-the-real-luxuries/",
-          "publishedOn": "2024-02-17T18:30:07.000Z",
-          "wordCount": 1376,
-          "title": "Weekend Reading — The real luxuries",
-          "imageUrl": "https://labnotes.org/content/images/2024/02/image-71.jpg"
         }
       ]
     },
@@ -68,6 +58,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/auto-margin-works-with-absolute-positioned-elements/",
+          "author": null,
+          "description": "How often do you set margin on absolute positioned elements? I rarely do it and might even say I've never done it. I mean, the whole point of absolute positioning is to place an element in its container. What's there to margin?\nBut while reading Josh Comeau's guide on div centering, I learned a CSS trick that I will remember.\nLet's say you want to center a modal — how do you do it?\nFor years, I moved the element to the middle and then moved it back by its half width and height. Et voilà!\n.box {\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  translate: -50% -50%;\n}\n\nWhile this approach works, it always felt clunky. An alternative is not to rely on absolute positioning with flexbox or grid. And that's fair, but what if we still want to center with position: absolute?\nJosh taught me a nifty magic trick. Check this out. 👇\n[Interactive component: visit the article to see it...]\nMagic!\nBut what's going on here? If I read the Positioned Layout spec correctly, here's what's happening:\nThe size of an absolute positioned element is calculated via its \"inset\" properties (top, left, inset, ...). The resulting box is then called inset-modified containing block.\nA defined preferred size (via width and height) can then limit an element's size inside this containing block. This result is called the used size.\nA defined maximum size (via max-width and max-height) can then overwrite the preferred size, again changing the used size.\nAnd here's the catch: if we now have a containing block defined via inset properties, but the element's used size is not filling it out. Then margin: auto comes into play and distributes the available space on each axis.\nHoly moly!\nThanks, Josh; I'll add this trick to my toolbox!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/auto-margin-works-with-absolute-positioned-elements/",
+          "publishedOn": "2024-03-17T23:00:00.000Z",
+          "wordCount": 1900,
+          "title": "Auto-margin works with absolute positioned elements (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Auto-margin%20works%20with%20absolute%20positioned%20elements/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-125/",
           "author": null,

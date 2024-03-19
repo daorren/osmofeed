@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-18T01:10:08.202Z</updated>
+    <updated>2024-03-19T01:09:43.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Auto-margin works with absolute positioned elements (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/auto-margin-works-with-absolute-positioned-elements/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/auto-margin-works-with-absolute-positioned-elements/"/>
+        <updated>2024-03-17T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How often do you set margin on absolute positioned elements? I rarely do it and might even say I've never done it. I mean, the whole point of absolute positioning is to place an element in its container. What's there to margin?
+But while reading Josh Comeau's guide on div centering, I learned a CSS trick that I will remember.
+Let's say you want to center a modal — how do you do it?
+For years, I moved the element to the middle and then moved it back by its half width and height. Et voilà!
+.box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
+}
+
+While this approach works, it always felt clunky. An alternative is not to rely on absolute positioning with flexbox or grid. And that's fair, but what if we still want to center with position: absolute?
+Josh taught me a nifty magic trick. Check this out. 👇
+[Interactive component: visit the article to see it...]
+Magic!
+But what's going on here? If I read the Positioned Layout spec correctly, here's what's happening:
+The size of an absolute positioned element is calculated via its "inset" properties (top, left, inset, ...). The resulting box is then called inset-modified containing block.
+A defined preferred size (via width and height) can then limit an element's size inside this containing block. This result is called the used size.
+A defined maximum size (via max-width and max-height) can then overwrite the preferred size, again changing the used size.
+And here's the catch: if we now have a containing block defined via inset properties, but the element's used size is not filling it out. Then margin: auto comes into play and distributes the available space on each axis.
+Holy moly!
+Thanks, Josh; I'll add this trick to my toolbox!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — The magic word]]></title>
         <id>65ecaf762558e1050391314c</id>
@@ -257,16 +293,6 @@ Is the project a joke? Sorta — maybe not. But whether we talk about htmx or ht
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — The real luxuries]]></title>
-        <id>65c7bc94cc3f5304eca5d717</id>
-        <link href="https://labnotes.org/weekend-reading-the-real-luxuries/"/>
-        <updated>2024-02-17T18:30:07.000Z</updated>
-        <summary type="html"><![CDATA[This week we over infrastructure decisions, plea for lean software, find some interesting productivity apps, remember good old Lander, meet the world’s most responsible AI model, revisit the World Economic Forum, and finish watching For All Mankind.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>

@@ -22,6 +22,80 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-03-17 datetime="2024-03-17T23:00:00.000Z">2024-03-17</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-03-17 datetime="2024-03-17T23:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/today-i-learned/auto-margin-works-with-absolute-positioned-elements/"
+                        open
+                      >
+                        <summary class="article-expander__title">Auto-margin works with absolute positioned elements (#tilPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/auto-margin-works-with-absolute-positioned-elements/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Auto-margin%20works%20with%20absolute%20positioned%20elements/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>How often do you set margin on absolute positioned elements? I rarely do it and might even say I&#x27;ve never done it. I mean, the whole point of absolute positioning is to place an element in its container. What&#x27;s there to margin?
+But while reading Josh Comeau&#x27;s guide on div centering, I learned a CSS trick that I will remember.
+Let&#x27;s say you want to center a modal — how do you do it?
+For years, I moved the element to the middle and then moved it back by its half width and height. Et voilà!
+.box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
+}
+
+While this approach works, it always felt clunky. An alternative is not to rely on absolute positioning with flexbox or grid. And that&#x27;s fair, but what if we still want to center with position: absolute?
+Josh taught me a nifty magic trick. Check this out. 👇
+[Interactive component: visit the article to see it...]
+Magic!
+But what&#x27;s going on here? If I read the Positioned Layout spec correctly, here&#x27;s what&#x27;s happening:
+The size of an absolute positioned element is calculated via its &quot;inset&quot; properties (top, left, inset, ...). The resulting box is then called inset-modified containing block.
+A defined preferred size (via width and height) can then limit an element&#x27;s size inside this containing block. This result is called the used size.
+A defined maximum size (via max-width and max-height) can then overwrite the preferred size, again changing the used size.
+And here&#x27;s the catch: if we now have a containing block defined via inset properties, but the element&#x27;s used size is not filling it out. Then margin: auto comes into play and distributes the available space on each axis.
+Holy moly!
+Thanks, Josh; I&#x27;ll add this trick to my toolbox!
+
+
+          
+          
+            Reply to Stefan</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-03-16 datetime="2024-03-16T17:48:51.000Z">2024-03-16</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-03-16 datetime="2024-03-16T17:48:51.000Z"></time>
           </button>
@@ -640,58 +714,10 @@ Is the project a joke? Sorta — maybe not. But whether we talk about htmx or ht
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-02-17 datetime="2024-02-17T18:30:07.000Z">2024-02-17</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-02-17 datetime="2024-02-17T18:30:07.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Labnotes (by Assaf Arkin)</button>
-                  <a class="source-heading__link" href="https://labnotes.org/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="65c7bc94cc3f5304eca5d717"
-                        open
-                      >
-                        <summary class="article-expander__title">Weekend Reading — The real luxuries</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://labnotes.org/weekend-reading-the-real-luxuries/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://labnotes.org/content/images/2024/02/image-71.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>This week we over infrastructure decisions, plea for lean software, find some interesting productivity apps, remember good old Lander, meet the world’s most responsible AI model, revisit the World Economic Forum, and finish watching For All Mankind.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;5
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/8319768727">
-        <time id="build-timestamp" datetime="2024-03-18T01:10:08.184Z">2024-03-18T01:10:08.184Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/8335944856">
+        <time id="build-timestamp" datetime="2024-03-19T01:09:43.962Z">2024-03-19T01:09:43.962Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
