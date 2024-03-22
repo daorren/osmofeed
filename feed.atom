@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T01:10:29.551Z</updated>
+    <updated>2024-03-22T01:09:09.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -264,35 +264,6 @@ In the …]]></summary>
         <summary type="html"><![CDATA[This week we catalog the risks we’re addressing, run Postgres in the browser, modernize our app using generative AI, learn about focus and ADHD, stop trusting product reviews from Google search, and keep the operating room free of cats.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[htmz — a 176 bytes htmx alternative (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/htmz-a-176-bytes-htmx-alternative/</id>
-        <link href="https://www.stefanjudis.com/notes/htmz-a-176-bytes-htmx-alternative/"/>
-        <updated>2024-02-20T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[htmx has been pretty loud lately because it moves functionality, like swapping out DOM elements into declarative HTML. Love it or hate it, I think it's a "fresh" approach to the overcomplicated world of JS frameworks.
-<script src="https://unpkg.com/htmx.org@1.9.10"></script>
-<!-- have a button POST a click via AJAX -->
-<button hx-post="/clicked" hx-swap="outerHTML">
-  Click Me
-</button>
-
-Add the 14kb compressed file to your sites and create dynamic interactions. Everything's just a hx-whatever attribute away. Sweet!
-Could you do similar things with less JavaScript? And while I wouldn't recommend using htmz in production, it does some HTML-swapping magic with 176 JS bytes. How? With very creative iframe usage.
-<iframe hidden name=htmz onload="setTimeout(()=>document.querySelector(this.contentWindow.location.hash||null)?.replaceWith(...this.contentDocument.body.childNodes))"></iframe>
-
-<!-- Loads /flower.html onto #my-element -->
-<a href="/flower.html#my-element" target=htmz>Flower</a>
-
-Is the project a joke? Sorta — maybe not. But whether we talk about htmx or htmz or whatever comes next, it becomes clear that we're lacking some HTML primitives. But maybe frames were already good enough? #oldIsNew 😅
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
