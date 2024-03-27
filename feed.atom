@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-26T01:09:17.138Z</updated>
+    <updated>2024-03-27T01:09:15.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -245,25 +245,6 @@ Great advice.
         <summary type="html"><![CDATA[This week we discover new way to publish blogs and manage our tasks, stick to memory-safe programming languages, discover Japanese design show, improve developer experience, understand the difference between LLM and “next word completion”, and celebrate a billionaire that did the right thing!]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #123 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-123/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-123/"/>
-        <updated>2024-02-25T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
-
-Do you know the sudo command has a cute logo? Or how executables are structured? Or how color spaces work on the web?
-Turn on the Web Weekly tune and find all the answers below. Enjoy!
-Michael listens to "OMA – N.Y. State of Mind" and says:
-"Love this groovy instrumental version of this classic Beat by DJ Premier."
-Do you want to share your favorite song with the Web Weekly community? Hit reply, and we'll listen to it together!
-Remember Web Weekly 121? It was when Apple announced that they'd allow different browser engines on iOS to comply with the EU's Digital Markets Act (DMA). We all celebrated the open web for a second only to discover the catch.
-Only EU citizens will be allowed to use different browser engines. EU-only? That's fishy, but it got worse.
-In the …]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
