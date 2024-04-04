@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-03T01:09:47.989Z</updated>
+    <updated>2024-04-04T01:11:11.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bun's trusted dependencies (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/buns-trusted-dependencies/</id>
+        <link href="https://www.stefanjudis.com/notes/buns-trusted-dependencies/"/>
+        <updated>2024-04-02T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bun 1.1 was released, and of course, "Everything's faster" — again.
+Fun fact: the runtime added a native stringWidth method to evaluate character widths on the command line — and, wait for it... it's 6000x times faster than Sindre's string-width. I don't know, but I have a hard time taking these announcements seriously. In Bun, everything's "just faster" — it doesn't matter whether the improvement matters. Let's slap a big number onto it... 🤷
+And while I remain skeptical of the new JS runtime, bundler, package manager, [ADD YOUR DESIRED JS TOOLING], and overall JavaScript BFF, I love that Bun's pushing the JS ecosystem.
+You know that with npm, whenever you install dependencies, the installed packages can run arbitrary scripts via postinstall? Isn't this wild? And why doesn't the JS ecosystem collapse? Nobody knows.
+Bun now tackles this problem with trusted dependencies. Mark packages as trustworthy with bun pm trust, add them to your package.json and be a bit safer when downloading the internet to install your app's dependencies.
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "@biomejs/biome": "1.6.1"
+  },
+  "trustedDependencies": [
+    "@biomejs/biome"
+  ]
+}
+
+With trusted dependencies, you can define what packages are allowed to run lifecycle scripts when you run bun install. If a package isn't trusted, it can't sniff out your environment variables or mine bitcoins — seems reasonable.
+Let's see if there'll be an npm reaction.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unit testing AI apps (#note)]]></title>
         <id>https://www.stefanjudis.com/notes/ai-app-unit-testing/</id>

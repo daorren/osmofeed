@@ -22,6 +22,76 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-04-02 datetime="2024-04-02T22:00:00.000Z">2024-04-02</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-04-02 datetime="2024-04-02T22:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/notes/buns-trusted-dependencies/"
+                        open
+                      >
+                        <summary class="article-expander__title">Bun&#x27;s trusted dependencies (#note)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/notes/buns-trusted-dependencies/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Bun&#x27;s%20trusted%20dependencies/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Bun 1.1 was released, and of course, &quot;Everything&#x27;s faster&quot; — again.
+Fun fact: the runtime added a native stringWidth method to evaluate character widths on the command line — and, wait for it... it&#x27;s 6000x times faster than Sindre&#x27;s string-width. I don&#x27;t know, but I have a hard time taking these announcements seriously. In Bun, everything&#x27;s &quot;just faster&quot; — it doesn&#x27;t matter whether the improvement matters. Let&#x27;s slap a big number onto it... 🤷
+And while I remain skeptical of the new JS runtime, bundler, package manager, [ADD YOUR DESIRED JS TOOLING], and overall JavaScript BFF, I love that Bun&#x27;s pushing the JS ecosystem.
+You know that with npm, whenever you install dependencies, the installed packages can run arbitrary scripts via postinstall? Isn&#x27;t this wild? And why doesn&#x27;t the JS ecosystem collapse? Nobody knows.
+Bun now tackles this problem with trusted dependencies. Mark packages as trustworthy with bun pm trust, add them to your package.json and be a bit safer when downloading the internet to install your app&#x27;s dependencies.
+{
+  &quot;name&quot;: &quot;my-app&quot;,
+  &quot;version&quot;: &quot;1.0.0&quot;,
+  &quot;dependencies&quot;: {
+    &quot;@biomejs/biome&quot;: &quot;1.6.1&quot;
+  },
+  &quot;trustedDependencies&quot;: [
+    &quot;@biomejs/biome&quot;
+  ]
+}
+
+With trusted dependencies, you can define what packages are allowed to run lifecycle scripts when you run bun install. If a package isn&#x27;t trusted, it can&#x27;t sniff out your environment variables or mine bitcoins — seems reasonable.
+Let&#x27;s see if there&#x27;ll be an npm reaction.
+
+
+          
+          
+            Reply to Stefan</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-03-31 datetime="2024-03-31T22:00:00.000Z">2024-03-31</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-03-31 datetime="2024-03-31T22:00:00.000Z"></time>
           </button>
@@ -810,8 +880,8 @@ Now, no VS Code user will edit the generated files. Win win!
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/8531678318">
-        <time id="build-timestamp" datetime="2024-04-03T01:09:47.967Z">2024-04-03T01:09:47.967Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/8547731709">
+        <time id="build-timestamp" datetime="2024-04-04T01:11:11.406Z">2024-04-04T01:11:11.406Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
