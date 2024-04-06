@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-05T01:10:27.157Z</updated>
+    <updated>2024-04-06T01:08:39.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why do I fail at achieving personal goals? (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/failing-at-personal-goals/</id>
+        <link href="https://www.stefanjudis.com/notes/failing-at-personal-goals/"/>
+        <updated>2024-04-04T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Disclaimer: I don't have the answer to this hefty post title, but Jacob Kaplan-Moss just woke me up to think about life. So, let's blog about it.
+Why are you giving less time and attention to your personal goals than you give to work?
+I don't know Jacob, but wow... this is an excellent and very uncomfortable question.
+At work, I'm structured, focused and transparent. I have processes and guardrails in place to hit my targets. I reflect, write brag documents, and plan ahead. I hold myself accountable if I don't deliver. Being good at my job is important to me. Being a good colleague is important to me. And somehow, I succeed at all this (most of the time).
+But looking into my private life, I've been hunting the same goals for years. Of course, my todo list includes the personal classics: "Eat healthier!", "Meditate!", "Reflect!", "Be kind and calm!". And these items are okay because we all struggle with them, right?
+However, the list also includes quick tasks like filing taxes or calling loved family members and friends; I can ignore these for months.
+I'd never treat a work task this way, but it's acceptable to ignore the private tasks. For whatever reason, it's fine to deprioritize the things that should matter most. Isn't this weird? Am I weird?
+I've no idea why it's like it is or how I can fix my divided personality (does it even need fixing?), but Jacob's question hits home big time this early morning...
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bun's trusted dependencies (#note)]]></title>
         <id>https://www.stefanjudis.com/notes/buns-trusted-dependencies/</id>
