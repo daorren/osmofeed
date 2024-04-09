@@ -50,16 +50,6 @@
           "wordCount": 1782,
           "title": "Weekend Reading — The magic word",
           "imageUrl": "https://labnotes.org/content/images/2024/03/image-103-1.png"
-        },
-        {
-          "id": "65e36d84e43b9cbd7d7175ff",
-          "author": "Assaf Arkin",
-          "description": "This week we got tools for URLs and PDFs, a better search engine, semantic HTML, some ideas for running your business, reversed engineers prompts and biased AI, a honest password form, problematic aircrafts, and the best meme image.",
-          "link": "https://labnotes.org/weekend-reading-bill-for-unused-domain-names/",
-          "publishedOn": "2024-03-09T18:49:12.000Z",
-          "wordCount": 2102,
-          "title": "Weekend Reading — Bill for unused domain names",
-          "imageUrl": "https://labnotes.org/content/images/2024/03/818dc8e92027159e.webp"
         }
       ]
     },
@@ -167,16 +157,6 @@
           "wordCount": 1522,
           "title": "A list of design inspiration lists (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20list%20of%20design%20inspiration%20lists/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/The-death-of-custom-media-queries/",
-          "author": null,
-          "description": "You know the problem: you want to reuse custom properties in media queries but can't.\n:root {\n  --width: 20em;\n}\n\n/* this doesn't work :/ */\n@media (min-width: var(--width)) {\n}\n\nI discovered the solution to this problem a while ago — custom media queries.\n/* this isn't supported anywhere */\n@custom-media --narrow-window (max-width: 30em);\n\n@media (--narrow-window) {\n  /* narrow window styles */\n}\n\nUnfortunately, as far as I know, custom media queries have never been implemented anywhere. Bummer.\nHowever, the CSS evolution is still in full swing, and we have CSS features we couldn't even dream of years ago. :has(), native CSS nesting and container queries are ready to use.\nWith container queries, custom property style queries are slowly becoming a thing.\n\n        \nMDN Compat Data (source)\n…",
-          "link": "https://www.stefanjudis.com/notes/The-death-of-custom-media-queries/",
-          "publishedOn": "2024-03-09T23:00:00.000Z",
-          "wordCount": 1698,
-          "title": "The death of custom media queries (#note)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:The%20death%20of%20custom%20media%20queries/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
