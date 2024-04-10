@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-09T01:10:50.328Z</updated>
+    <updated>2024-04-10T01:10:00.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -283,55 +283,6 @@ Thanks, Josh; I'll add this trick to my toolbox!
         <summary type="html"><![CDATA[This week we got a UI for writing markup and securely reading emails, we avoid context switching, and seek out optimism, find our traffic sources, get more realistic about artificial intelligence, and read the new villain origin story.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #125 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-125/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-125/"/>
-        <updated>2024-03-10T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
-
-Do you know that flexbox comes with safe and unsafe alignment? Would you use container query units for fluid type? And how many ways are there to break up words?
-Turn on the Web Weekly tune and find all the answers below. Enjoy!
-Sébastien listens to "Matthew Dear - Wrong With Us" and says:
-"An underrated original deep house song with a classy vibe."
-What's your favorite song right now? Do you want to share your favorite song with the Web Weekly community? Hit reply, and we'll listen to it together!
-💙 Support we and Web Weekly by resharing this edition on Twitter, Mastodon or LinkedIn.
-Safari 17.4 shipped this month (release notes / blog post).
-With release notes this long, wouldn't it be great if all vendors could mark what features entered cross-browser support?…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A list of design inspiration lists (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/design-inspiration-lists/</id>
-        <link href="https://www.stefanjudis.com/blog/design-inspiration-lists/"/>
-        <updated>2024-03-10T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I love a good list!
-Especially when it comes to design stuff, I've no clue what I'm doing and just looking around how everybody else does it.
-Right now, I'm cleaning up hundreds of open tabs, so let's make a list of sites that list funky designs.
-curated.design — general web design
-
-Design your site
-404s.design — 404 design
-
-Design your 404
-footer.design — footer design
-
-Design your footer
-navbar.gallery — navigation design
-
-Design your nav bar
-Thanks to Dana for pointing me to this one.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
