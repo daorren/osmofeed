@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-14T01:44:12.552Z</updated>
+    <updated>2024-04-15T03:29:00.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -14,6 +14,47 @@
         <summary type="html"><![CDATA[This week we have an app for managing group trips, and one for recommending and following podcasts, we’re unsure about the size of a minute, appreciate the new nutrition labels, have a lot of security and privacy issues to worry about, and wait for the next season Bluey.]]></summary>
         <author>
             <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #127 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-127/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-127/"/>
+        <updated>2024-04-13T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+How could you use the new CSS @scope to create encapsulated component styles? What does the quotes CSS property do? And when would you use the never TypeScript type?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+
+      
+          
+Christian listens to "DOMi & JD BECK, Anderson .Paak - TAKE A CHANCE" and says:
+This song is a combination of some of my favorite music nerds, it just makes me happy.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there's only one more song left in the queue.
+Happy CSS Naked Day! Happy what?
+Let me share the idea of this web holiday.
+The idea behind CSS Naked Day is to promote web standards. Plain and simple. This includes proper use of HTML, semantic markup, a good hierarchy struct…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Index images, videos and news with specialized sitemaps (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/image-video-news-sitemaps/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/image-video-news-sitemaps/"/>
+        <updated>2024-04-13T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you take the time to create content online, you probably want people to read it. It doesn't have to go viral, but it'd be nice if some folks read it, right?
+But for people to read your stuff, they must know about it. And for this, Google (or other search engines) must index your site. Googlebot is usually pretty good at following all the trails to discover your pages, but you can also lay some breadcrumbs by providing a good old sitemap.xml.
+A sitemap is a document that lists all the pages that should be indexed by a search engine. Here's an example.
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.example.com/foo.html</loc>
+    <lastmod>2022-06-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
     <entry>

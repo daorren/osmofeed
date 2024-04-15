@@ -69,6 +69,26 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-127/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nHow could you use the new CSS @scope to create encapsulated component styles? What does the quotes CSS property do? And when would you use the never TypeScript type?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\n\n      \n          \nChristian listens to \"DOMi & JD BECK, Anderson .Paak - TAKE A CHANCE\" and says:\nThis song is a combination of some of my favorite music nerds, it just makes me happy.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there's only one more song left in the queue.\nHappy CSS Naked Day! Happy what?\nLet me share the idea of this web holiday.\nThe idea behind CSS Naked Day is to promote web standards. Plain and simple. This includes proper use of HTML, semantic markup, a good hierarchy struct…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-127/",
+          "publishedOn": "2024-04-13T22:00:00.000Z",
+          "wordCount": 2706,
+          "title": "Web Weekly #127 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/image-video-news-sitemaps/",
+          "author": null,
+          "description": "If you take the time to create content online, you probably want people to read it. It doesn't have to go viral, but it'd be nice if some folks read it, right?\nBut for people to read your stuff, they must know about it. And for this, Google (or other search engines) must index your site. Googlebot is usually pretty good at following all the trails to discover your pages, but you can also lay some breadcrumbs by providing a good old sitemap.xml.\nA sitemap is a document that lists all the pages that should be indexed by a search engine. Here's an example.\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n  <url>\n    <loc>https://www.example.com/foo.html</loc>\n    <lastmod>2022-06-04</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>1…",
+          "link": "https://www.stefanjudis.com/today-i-learned/image-video-news-sitemaps/",
+          "publishedOn": "2024-04-13T22:00:00.000Z",
+          "wordCount": 1840,
+          "title": "Index images, videos and news with specialized sitemaps (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Index%20images%252C%20videos%20and%20news%20with%20specialized%20sitemaps/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/notes/failing-at-personal-goals/",
           "author": null,
           "description": "Disclaimer: I don't have the answer to this hefty post title, but Jacob Kaplan-Moss just woke me up to think about life. So, let's blog about it.\nWhy are you giving less time and attention to your personal goals than you give to work?\nI don't know Jacob, but wow... this is an excellent and very uncomfortable question.\nAt work, I'm structured, focused and transparent. I have processes and guardrails in place to hit my targets. I reflect, write brag documents, and plan ahead. I hold myself accountable if I don't deliver. Being good at my job is important to me. Being a good colleague is important to me. And somehow, I succeed at all this (most of the time).\nBut looking into my private life, I've been hunting the same goals for years. Of course, my todo list includes the personal classics: \"Eat healthier!\", \"Meditate!\", \"Reflect!\", \"Be kind and calm!\". And these items are okay because we all struggle with them, right?\nHowever, the list also includes quick tasks like filing taxes or calling loved family members and friends; I can ignore these for months.\nI'd never treat a work task this way, but it's acceptable to ignore the private tasks. For whatever reason, it's fine to deprioritize the things that should matter most. Isn't this weird? Am I weird?\nI've no idea why it's like it is or how I can fix my divided personality (does it even need fixing?), but Jacob's question hits home big time this early morning...\n\n\n          \n          \n            Reply to Stefan",
