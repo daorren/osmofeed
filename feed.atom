@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-16T01:10:34.262Z</updated>
+    <updated>2024-04-17T01:11:11.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -288,42 +288,6 @@ Nice nice!
         <summary type="html"><![CDATA[This week we play the songs of Vim, double performance every 2 years, draw a manual wheelchair properly, learn about the reality of a Silicon Valley Unicorn, discovery the uncanny history of AI, and change our toothbrushing routine.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auto-margin works with absolute positioned elements (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/auto-margin-works-with-absolute-positioned-elements/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/auto-margin-works-with-absolute-positioned-elements/"/>
-        <updated>2024-03-17T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How often do you set margin on absolute positioned elements? I rarely do it and might even say I've never done it. I mean, the whole point of absolute positioning is to place an element in its container. What's there to margin?
-But while reading Josh Comeau's guide on div centering, I learned a CSS trick that I will remember.
-Let's say you want to center a modal — how do you do it?
-For years, I moved the element to the middle and then moved it back by its half width and height. Et voilà!
-.box {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  translate: -50% -50%;
-}
-
-While this approach works, it always felt clunky. An alternative is not to rely on absolute positioning with flexbox or grid. And that's fair, but what if we still want to center with position: absolute?
-Josh taught me a nifty magic trick. Check this out. 👇
-[Interactive component: visit the article to see it...]
-Magic!
-But what's going on here? If I read the Positioned Layout spec correctly, here's what's happening:
-The size of an absolute positioned element is calculated via its "inset" properties (top, left, inset, ...). The resulting box is then called inset-modified containing block.
-A defined preferred size (via width and height) can then limit an element's size inside this containing block. This result is called the used size.
-A defined maximum size (via max-width and max-height) can then overwrite the preferred size, again changing the used size.
-And here's the catch: if we now have a containing block defined via inset properties, but the element's used size is not filling it out. Then margin: auto comes into play and distributes the available space on each axis.
-Holy moly!
-Thanks, Josh; I'll add this trick to my toolbox!
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
