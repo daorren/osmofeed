@@ -12,6 +12,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "661b08bb13628604e1081377",
+          "author": "Assaf Arkin",
+          "description": "This week we got a new incarnation of Norton Commander, the best flopping electric vehicle, a reason to keep everyone happy, conscious invertebrates, a 420 cat, and colorful eggs.",
+          "link": "https://labnotes.org/weekend-reading-wd40-smells-so-delicious/",
+          "publishedOn": "2024-04-20T18:01:25.000Z",
+          "wordCount": 1388,
+          "title": "Weekend Reading — WD40 smells so delicious",
+          "imageUrl": "https://labnotes.org/content/images/2024/04/Ghost-Admin-Image-87.png"
+        },
+        {
           "id": "6611827ffabcd104cd440492",
           "author": "Assaf Arkin",
           "description": "This week we have an app for managing group trips, and one for recommending and following podcasts, we’re unsure about the size of a minute, appreciate the new nutrition labels, have a lot of security and privacy issues to worry about, and wait for the next season Bluey.",
@@ -58,6 +68,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/snippets/image-padding-trick/",
+          "author": null,
+          "description": "Here's Temani Afif once again doing what he does best: creating wild single-element tricks. What's on this time?\nThe preview below shows the article's result, which is two image elements.\nThe img elements are displayed as 3D boxes and only reveal their image content when hovering. There are no div wrappers or anything — what you see above are two img elements.\nTemani walks you through how to create this effect step by step; go check it out. It's a great read.\nBut one thing stood out in the article: you might think that the images hide and show with some wild CSS tricks, but the effect uses good ol' padding-right.\nHere's a minimal example.\n[Interactive component: visit the article to see it...]\nBy applying full-width padding to the image, the actual image is \"pushed out\" of the container. The applied object-fit: cover then prevents the image from being squished. And as the cherry on top: if you change object-position from left to right, the revealing effect becomes a \"slide in\". Go and try it above!\nI don't know when and if I'll use this effect, but it's more than worth a snippet entry on this blog. Thank you, Temani!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/snippets/image-padding-trick/",
+          "publishedOn": "2024-04-19T22:00:00.000Z",
+          "wordCount": 2184,
+          "title": "Reveal an image with smart padding (#snippet)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Reveal%20an%20image%20with%20smart%20padding/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-127/",
           "author": null,
