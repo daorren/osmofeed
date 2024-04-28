@@ -12,6 +12,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "6624037cbb06f2049b39198d",
+          "author": "Assaf Arkin",
+          "description": "This week we use coffee tasting as our design practice, get as close to and as far away from the metal as possible, find an easier way to write documentation, discover why Google Search is getting so bad, and why Siri was never good, keep our password secure, and enjoy the figures.",
+          "link": "https://labnotes.org/weekend-reading-the-bob-ross-of-programming/",
+          "publishedOn": "2024-04-27T18:56:21.000Z",
+          "wordCount": 1649,
+          "title": "Weekend Reading — The Bob Ross of programming",
+          "imageUrl": "https://labnotes.org/content/images/2024/04/image-100-1.png"
+        },
+        {
           "id": "661b08bb13628604e1081377",
           "author": "Assaf Arkin",
           "description": "This week we got a new incarnation of Norton Commander, the best flopping electric vehicle, a reason to keep everyone happy, conscious invertebrates, a 420 cat, and colorful eggs.",
@@ -58,6 +68,26 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/vs-code-minimap-section-headers/",
+          "author": null,
+          "description": "When I started coding, Sublime was the editor of choice. It was lightweight, fast and ... drum rolls ... had the minimap™. The minimap made the editor look fancy. I loved it. I kinda still love it because it looks cool.\nVS Code, my main driver these days, supports it, too.\nYet, I switched it off years ago because I didn't use it. I just wouldn't interact with it, and if something blocks 10% of my horizontal editor window, it would better be worth it.\nI found that it's hard to navigate or see anything in the minimap unless I put huge comment blocks into my files.\n/*\n * --------------------------------------------------------------\n * SOME VERY IMPORTANT STUFF\n * --------------------------------------------------------------\n */\n\n\nAnd if I have these huge blocks in my code, I can spot them by scrolling in the real editor window. I don't need the minimap to find my way around then.\nBut the new minimap section headers might make me give the minimap another try. Put // MARK: comments in your files and voilà — the minimap starts showing something valuable.\nIt's a neat feature and I set some marks for one project and turned on the map. Let's see if the fancy friend will stick around this time...\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/blog/vs-code-minimap-section-headers/",
+          "publishedOn": "2024-04-26T22:00:00.000Z",
+          "wordCount": 1712,
+          "title": "VS Code's new minimap section headers (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:VS%20Code's%20new%20minimap%20section%20headers/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
+          "id": "https://www.stefanjudis.com/snippets/disable-angular-scroll-position-restoration/",
+          "author": null,
+          "description": "I've been doing Angular development lately, and as with any single-page app, the \"Let's do everything in JS\" approach breaks basic web functionality. Scroll handling is only one example.\nIf you're looking for a way to alter URL query params without having Angular scroll to the top of the page, this post is for you.\nBut before we get to the problem, let's recognize what browsers are good at — doing web things. If your site relies on server-rendered HTML you get well-working scroll handling out of the box.\nIf you link to an anchor element (/something#foo), the browser scrolls to it. Do you hit the back button? The browser instantly shows the last page, thanks to the BF cache. And the page is even in the correct scroll position. Browsers are pretty good at handling websites. One might think t…",
+          "link": "https://www.stefanjudis.com/snippets/disable-angular-scroll-position-restoration/",
+          "publishedOn": "2024-04-26T22:00:00.000Z",
+          "wordCount": 2250,
+          "title": "Disable Angular's scroll position restoration for specific routes (#snippet)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Disable%20Angular's%20scroll%20position%20restoration%20for%20specific%20routes/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/snippets/image-padding-trick/",
           "author": null,
