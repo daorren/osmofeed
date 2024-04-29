@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-28T01:17:14.640Z</updated>
+    <updated>2024-04-29T01:13:31.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -282,86 +282,6 @@ How many Git commands do you use regularly? I'm the add -p, commit, push'n'pull 
         <summary type="html"><![CDATA[This week we deploy a real-time server app, mute our keyboard, apply ethical social proof, run LLM on our computer, of all things in Excel, and uncover the most insidious backdoor.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[disabled vs aria-disabled on form elements (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/disabled-vs-aria-disabled-on-form-elements/</id>
-        <link href="https://www.stefanjudis.com/notes/disabled-vs-aria-disabled-on-form-elements/"/>
-        <updated>2024-03-29T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I'll definitely reference the following blog post in the future. Kitty Giraudel describes when to use disabled and aria-disabled.
-Ready? Because here comes some solid HTML attribute advice.
-The disabled attribute is totally fine and should be used when relevant! What’s important is not to use it when the element’s interactivity is necessary to proceed, or when the lack of discoverability is problematic. In these cases, the aria-disabled attribute is better to still convey the same semantics, without impairing on usability.
-Generally, Kitty shares the following guidelines on when to use which attribute:
-Use readonly on elements which's values still matter to the user and should be sent to the server.
-Use disabled on elements which's values became irrelevant for some reason.
-Use aria-disabled on elements which's interactivity is essential to succeed, because they'll stay focusable and can still trigger validations.
-Great great guidelines!
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Timestamped Git yolo commits  (#snippet)]]></title>
-        <id>https://www.stefanjudis.com/snippets/timestamped-git-yolo-commits/</id>
-        <link href="https://www.stefanjudis.com/snippets/timestamped-git-yolo-commits/"/>
-        <updated>2024-03-29T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Kyle Shevlin blogged about his belief in detailed atomic commits at work. On the contrary, he changes entire projects with a single commit in side projects. I feel you, Kyle.
-To improve the side hustle commit chaos, Kyle added a make command called checkpoint to at least occasionally add progress to version control.
-I have the same YOLO commit traits and, of course, I love this approach!
-But I don't use make, so I created a more general solution as a custom Git command.
-Quick tip: git- prefixed shell commands available in your $PATH will become git commands automatically.
-A git-yolo shell file now defines my new git yolo command that's based on Kyle's original script.
-#!/usr/bin/env sh
-
-echo "🚀 You only live once, right?"
-echo ""
-git add -A
-git commit -m "yoloing at $(date '+%Y-%m-%dT%H:%M')"
-git push
-echo ""
-echo "⬆️  Yolo Checkpoint created and pushed to remote."
-
-As a result, whenever I don't feel like (or don't care about) maintaining a clean Git history — git yolo will do the job.
-$ git yolo
-🚀 You only live once, right?
-
-[main 23c80e0] yoloing at 2024-03-30T08:22
- 1 file changed, 0 insertions(+), 0 deletions(-)
- delete mode 100644 fo
-...
-...
-
-⬆️  Yolo Checkpoint created and pushed to remote
-
-The Git history will then include some "yolo checkpoints" — at least.
-$ git log 
-
-commit 23c80e... (HEAD -> main, origin/main, origin/HEAD)
-Author: stefan judis <stefanjudis@gmail.com>
-Date:   Sat Mar 30 08:22:07 2024 +0100
-
-    yoloing at 2024-03-30T08:22
-
-commit 53yd07... (HEAD -> main, origin/main, origin/HEAD)
-Author: stefan judis <stefanjudis@gmail.com>
-Date:   Sat Mar 30 08:10:23 2024 +0100
-
-    yoloing at 2024-03-30T08:10
-
-Nice nice!
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
