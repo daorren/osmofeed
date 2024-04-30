@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-29T01:13:31.562Z</updated>
+    <updated>2024-04-30T01:12:11.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #128 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-128/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-128/"/>
+        <updated>2024-04-28T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Did you know that you can apply padding to img elements? Or that AbortSignals have a timeout method? Or why can you use class properties in Preact but can't in React?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+
+      
+          
+Gustavo listens to "Dilsinho - O Choro é Livre (Ao Vivo)" and says:
+This song can change my humor and mood instantaneously. When I listen to it, I can feel my energy flowing in a good way. So, I'd love to recommend playing it to start the day.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.
+I received some great feedback last week (thanks, Owen!), and I keep thinking about it. Let's talk it out.
+Web Weekly focuses on web dev things, but I…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — The Bob Ross of programming]]></title>
         <id>6624037cbb06f2049b39198d</id>
@@ -230,58 +251,6 @@ I'm not planning to get into serious AI work or LLM programming anytime soon, bu
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reasons for opening links in a new tab (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/reasons-for-opening-links-in-a-new-tab/</id>
-        <link href="https://www.stefanjudis.com/blog/reasons-for-opening-links-in-a-new-tab/"/>
-        <updated>2024-03-30T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I can't tell you how many times I've discussed whether and when links should or shouldn't open a new tab. It's one of those topics that is impossible to settle; it just fires up occasionally.
-It was March 2024, and we were just doing another round. I had always been in the "let me decide when I want to open a new tab!" camp, I discovered three valid arguments for opening a new tab.
-✅ Clicking a link while filling out a form could lead to data loss.
-✅ Connected information needs to be visible in two places. I'm having a hard time coming up with a reasonable example for this, but I can see this happening.
-✅ Media is playing and would stop when navigating somewhere.
-Are there more reasons? Maybe... Let's see what comes up in the next round.
-More resources:
-How to make external links accessible (2024)
- When to use target="_blank" (2014)
-
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #126 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-126/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-126/"/>
-        <updated>2024-03-30T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
-
-When will align-content work in divs? Does the new popover attribute improve accessibility? And why does margin: auto work on absolutely positioned elements?
-Turn on the Web Weekly tune and find all the answers below. Enjoy!
-But before, the Web Weekly music queue is almost empty. If you enjoy discovering and sharing new music, send me your favorite tracks to keep the Web Weekly jukebox playing.
-Ellen listens to "Slut — If I had a heart" and says:
-"If I Had a Heart" creates an aura full of melancholy and a unique atmosphere, as if the song itself was my heartbeat. Would it sing or cry?
-
-How many Git commands do you use regularly? I'm the add -p, commit, push'n'pull kinda guy. I might even be able to perform a fancy rebase now and then. But do I know what I'm doing?…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Ctrl click back]]></title>
-        <id>65ff2cc1ccaaba04e9953ccd</id>
-        <link href="https://labnotes.org/weekend-reading-ctrl-click-back/"/>
-        <updated>2024-03-30T18:29:44.000Z</updated>
-        <summary type="html"><![CDATA[This week we deploy a real-time server app, mute our keyboard, apply ethical social proof, run LLM on our computer, of all things in Excel, and uncover the most insidious backdoor.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>

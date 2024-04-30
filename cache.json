@@ -50,16 +50,6 @@
           "wordCount": 2000,
           "title": "Weekend Reading — Healthy living isn't available in your country",
           "imageUrl": "https://labnotes.org/content/images/2024/04/Labnotes-Image-23.png"
-        },
-        {
-          "id": "65ff2cc1ccaaba04e9953ccd",
-          "author": "Assaf Arkin",
-          "description": "This week we deploy a real-time server app, mute our keyboard, apply ethical social proof, run LLM on our computer, of all things in Excel, and uncover the most insidious backdoor.",
-          "link": "https://labnotes.org/weekend-reading-ctrl-click-back/",
-          "publishedOn": "2024-03-30T18:29:44.000Z",
-          "wordCount": 1562,
-          "title": "Weekend Reading — Ctrl click back",
-          "imageUrl": "https://labnotes.org/content/images/2024/03/Ghost-Admin-Image-169.png"
         }
       ]
     },
@@ -68,6 +58,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-128/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nDid you know that you can apply padding to img elements? Or that AbortSignals have a timeout method? Or why can you use class properties in Preact but can't in React?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\n\n      \n          \nGustavo listens to \"Dilsinho - O Choro é Livre (Ao Vivo)\" and says:\nThis song can change my humor and mood instantaneously. When I listen to it, I can feel my energy flowing in a good way. So, I'd love to recommend playing it to start the day.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.\nI received some great feedback last week (thanks, Owen!), and I keep thinking about it. Let's talk it out.\nWeb Weekly focuses on web dev things, but I…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-128/",
+          "publishedOn": "2024-04-28T22:00:00.000Z",
+          "wordCount": 2699,
+          "title": "Web Weekly #128 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/vs-code-minimap-section-headers/",
           "author": null,
@@ -147,26 +147,6 @@
           "wordCount": 1676,
           "title": "Unit testing AI apps (#note)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Unit%20testing%20AI%20apps/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/reasons-for-opening-links-in-a-new-tab/",
-          "author": null,
-          "description": "I can't tell you how many times I've discussed whether and when links should or shouldn't open a new tab. It's one of those topics that is impossible to settle; it just fires up occasionally.\nIt was March 2024, and we were just doing another round. I had always been in the \"let me decide when I want to open a new tab!\" camp, I discovered three valid arguments for opening a new tab.\n✅ Clicking a link while filling out a form could lead to data loss.\n✅ Connected information needs to be visible in two places. I'm having a hard time coming up with a reasonable example for this, but I can see this happening.\n✅ Media is playing and would stop when navigating somewhere.\nAre there more reasons? Maybe... Let's see what comes up in the next round.\nMore resources:\nHow to make external links accessible (2024)\n When to use target=\"_blank\" (2014)\n\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/blog/reasons-for-opening-links-in-a-new-tab/",
-          "publishedOn": "2024-03-30T23:00:00.000Z",
-          "wordCount": 1626,
-          "title": "Reasons for opening links in a new tab (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Reasons%20for%20opening%20links%20in%20a%20new%20tab/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-126/",
-          "author": null,
-          "description": "Guten Tag! Guten Tag! 👋\n\nWhen will align-content work in divs? Does the new popover attribute improve accessibility? And why does margin: auto work on absolutely positioned elements?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nBut before, the Web Weekly music queue is almost empty. If you enjoy discovering and sharing new music, send me your favorite tracks to keep the Web Weekly jukebox playing.\nEllen listens to \"Slut — If I had a heart\" and says:\n\"If I Had a Heart\" creates an aura full of melancholy and a unique atmosphere, as if the song itself was my heartbeat. Would it sing or cry?\n\nHow many Git commands do you use regularly? I'm the add -p, commit, push'n'pull kinda guy. I might even be able to perform a fancy rebase now and then. But do I know what I'm doing?…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-126/",
-          "publishedOn": "2024-03-30T23:00:00.000Z",
-          "wordCount": 2596,
-          "title": "Web Weekly #126 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
     },
