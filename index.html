@@ -22,11 +22,89 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-05-11 datetime="2024-05-11T15:48:24.000Z">2024-05-11</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-05-11 datetime="2024-05-11T15:48:24.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-05-11 datetime="2024-05-11T22:00:00.000Z">2024-05-11</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-05-11 datetime="2024-05-11T22:00:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/blog/web-weekly-130/"
+                        open
+                      >
+                        <summary class="article-expander__title">Web Weekly #130 (#blogPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/blog/web-weekly-130/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.stefanjudis.com/newsletter-social.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Guten Tag! Guten Tag! 👋
+
+Do you know how ARIA live regions work? Or do you sometimes struggle to center text vertically? Or want to get started with scroll-driven animations but don&#x27;t know how?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+Paweł listens to &quot;Da Break - Touch the Moon&quot; and says:
+The whole album makes me wanna dance, but this one is an outstanding banger!
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.
+This Web Weekly issue is already beefy enough, so I&#x27;ll skip a long intro and only open with some single-purpose URLs for your daily internet use.
+justforfunnoreally.dev
+dontasktoask.com
+nohello.net
+I just love it when I can reply someone with a URL.
+
+      
+          
+Sponsored
+…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/today-i-learned/target-blank-implies-rel-noopener/"
+                        open
+                      >
+                        <summary class="article-expander__title">Target&#x3D;_blank implies rel&#x3D;noopener (#tilPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/target-blank-implies-rel-noopener/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Target%3D_blank%20implies%20rel%3Dnoopener/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>If you want to be a good web citizen, you might be aware of the target&#x3D;&quot;_blank&quot; security issue.
+In the old days, when you linked to a site and wanted to open a new tab with target&#x3D;&quot;_blank&quot;, the target site could access your site via window.opener. In short:
+If window A opens window B, B.opener returns A.
+If you haven&#x27;t heard of this behavior, it&#x27;s pretty wild because it implies that target pages could check if window.opener is accessible and if so change the location of your site with trivial JavaScript.
+if (window.opener) {
+  window.opener.location &#x3D; &#x27;https://you-re-hacked.com&#x27;;
+}
+
+Ooooff... And while it&#x27;s unlikely, someone could now use XSS to inject target&#x3D;&quot;_blank&quot; links into your site and, when someone clicks on them, change the URL of the original site (which is now in the background)…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -595,8 +673,8 @@ A sitemap is a document that lists all the pages that should be indexed by a sea
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/9047787044">
-        <time id="build-timestamp" datetime="2024-05-12T01:19:52.727Z">2024-05-12T01:19:52.727Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/9055736243">
+        <time id="build-timestamp" datetime="2024-05-13T01:16:00.748Z">2024-05-13T01:16:00.748Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

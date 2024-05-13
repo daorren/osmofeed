@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-12T01:19:52.744Z</updated>
+    <updated>2024-05-13T01:16:00.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #130 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-130/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-130/"/>
+        <updated>2024-05-11T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Do you know how ARIA live regions work? Or do you sometimes struggle to center text vertically? Or want to get started with scroll-driven animations but don't know how?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+Paweł listens to "Da Break - Touch the Moon" and says:
+The whole album makes me wanna dance, but this one is an outstanding banger!
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.
+This Web Weekly issue is already beefy enough, so I'll skip a long intro and only open with some single-purpose URLs for your daily internet use.
+justforfunnoreally.dev
+dontasktoask.com
+nohello.net
+I just love it when I can reply someone with a URL.
+
+      
+          
+Sponsored
+…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Target=_blank implies rel=noopener (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/target-blank-implies-rel-noopener/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/target-blank-implies-rel-noopener/"/>
+        <updated>2024-05-11T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you want to be a good web citizen, you might be aware of the target="_blank" security issue.
+In the old days, when you linked to a site and wanted to open a new tab with target="_blank", the target site could access your site via window.opener. In short:
+If window A opens window B, B.opener returns A.
+If you haven't heard of this behavior, it's pretty wild because it implies that target pages could check if window.opener is accessible and if so change the location of your site with trivial JavaScript.
+if (window.opener) {
+  window.opener.location = 'https://you-re-hacked.com';
+}
+
+Ooooff... And while it's unlikely, someone could now use XSS to inject target="_blank" links into your site and, when someone clicks on them, change the URL of the original site (which is now in the background)…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Stack over you]]></title>
         <id>66365a2bdbe92a9163a7bf90</id>
