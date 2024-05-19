@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-18T01:14:16.635Z</updated>
+    <updated>2024-05-19T01:19:41.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Objection-oriented programming]]></title>
+        <id>663f939e1f14b704959bd1cf</id>
+        <link href="https://labnotes.org/weekend-reading-objection-oriented-programming/"/>
+        <updated>2024-05-18T18:57:55.000Z</updated>
+        <summary type="html"><![CDATA[This week we find a power-up box, replace GitHub Actions with Maven XMLs, avoid the worst website in the world, revisit RTO policies, “listen” to OpenAI employees, watch our Slack private messages, do laundry for free, and fall asleep to a YouTube video.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #130 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-130/</id>
