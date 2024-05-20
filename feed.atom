@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-19T01:19:41.940Z</updated>
+    <updated>2024-05-20T01:15:22.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -175,29 +175,6 @@ If you link to an anchor element (/something#foo), the browser scrolls to it. Do
         <summary type="html"><![CDATA[This week we got a new incarnation of Norton Commander, the best flopping electric vehicle, a reason to keep everyone happy, conscious invertebrates, a 420 cat, and colorful eggs.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reveal an image with smart padding (#snippet)]]></title>
-        <id>https://www.stefanjudis.com/snippets/image-padding-trick/</id>
-        <link href="https://www.stefanjudis.com/snippets/image-padding-trick/"/>
-        <updated>2024-04-19T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here's Temani Afif once again doing what he does best: creating wild single-element tricks. What's on this time?
-The preview below shows the article's result, which is two image elements.
-The img elements are displayed as 3D boxes and only reveal their image content when hovering. There are no div wrappers or anything — what you see above are two img elements.
-Temani walks you through how to create this effect step by step; go check it out. It's a great read.
-But one thing stood out in the article: you might think that the images hide and show with some wild CSS tricks, but the effect uses good ol' padding-right.
-Here's a minimal example.
-[Interactive component: visit the article to see it...]
-By applying full-width padding to the image, the actual image is "pushed out" of the container. The applied object-fit: cover then prevents the image from being squished. And as the cherry on top: if you change object-position from left to right, the revealing effect becomes a "slide in". Go and try it above!
-I don't know when and if I'll use this effect, but it's more than worth a snippet entry on this blog. Thank you, Temani!
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

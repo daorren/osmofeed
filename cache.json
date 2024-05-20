@@ -127,16 +127,6 @@
           "wordCount": 2250,
           "title": "Disable Angular's scroll position restoration for specific routes (#snippet)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Disable%20Angular's%20scroll%20position%20restoration%20for%20specific%20routes/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/image-padding-trick/",
-          "author": null,
-          "description": "Here's Temani Afif once again doing what he does best: creating wild single-element tricks. What's on this time?\nThe preview below shows the article's result, which is two image elements.\nThe img elements are displayed as 3D boxes and only reveal their image content when hovering. There are no div wrappers or anything — what you see above are two img elements.\nTemani walks you through how to create this effect step by step; go check it out. It's a great read.\nBut one thing stood out in the article: you might think that the images hide and show with some wild CSS tricks, but the effect uses good ol' padding-right.\nHere's a minimal example.\n[Interactive component: visit the article to see it...]\nBy applying full-width padding to the image, the actual image is \"pushed out\" of the container. The applied object-fit: cover then prevents the image from being squished. And as the cherry on top: if you change object-position from left to right, the revealing effect becomes a \"slide in\". Go and try it above!\nI don't know when and if I'll use this effect, but it's more than worth a snippet entry on this blog. Thank you, Temani!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/snippets/image-padding-trick/",
-          "publishedOn": "2024-04-19T22:00:00.000Z",
-          "wordCount": 2184,
-          "title": "Reveal an image with smart padding (#snippet)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Reveal%20an%20image%20with%20smart%20padding/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
