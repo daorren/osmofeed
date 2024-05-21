@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-20T01:15:22.628Z</updated>
+    <updated>2024-05-21T01:14:48.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -165,16 +165,6 @@ But before we get to the problem, let's recognize what browsers are good at — 
 If you link to an anchor element (/something#foo), the browser scrolls to it. Do you hit the back button? The browser instantly shows the last page, thanks to the BF cache. And the page is even in the correct scroll position. Browsers are pretty good at handling websites. One might think t…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — WD40 smells so delicious]]></title>
-        <id>661b08bb13628604e1081377</id>
-        <link href="https://labnotes.org/weekend-reading-wd40-smells-so-delicious/"/>
-        <updated>2024-04-20T18:01:25.000Z</updated>
-        <summary type="html"><![CDATA[This week we got a new incarnation of Norton Commander, the best flopping electric vehicle, a reason to keep everyone happy, conscious invertebrates, a 420 cat, and colorful eggs.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
