@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-21T01:14:48.639Z</updated>
+    <updated>2024-05-22T01:15:31.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #131 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-131/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-131/"/>
+        <updated>2024-05-20T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Have you used the ::target-text pseudo element before? Are you ready for CSS5? And how do you create perfectly aligned nested border radii (plural of radius 🤷)?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+Julian listens to "CAN YOU FEEL THE LOVE TONIGHT (with lyrics) Nina" and says:
+This version of the song was played at my wedding and whenever I hear it I instantly feel the joy of that day again.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.
+The state of HTML survey results are out, and you should at least have a quick look. The participants are, as always, mainly white, male and western, but the results are still a perfect way to learn more about native web f…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Objection-oriented programming]]></title>
         <id>663f939e1f14b704959bd1cf</id>
