@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-28T01:15:38.121Z</updated>
+    <updated>2024-05-29T01:19:05.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #132 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-132/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-132/"/>
+        <updated>2024-05-27T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ciao! 👋
+
+Greetings from Italy! 🇮🇹
+What questions did you have when starting with TypeScript? How do you manage files in your terminal? And how can you apply view transitions across good old page navigations?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+Paweł listens to "Quantic & Flowering Inferno - Cumbia Sobre el Mar" and says:
+My favourite cooking track! The whole family is dancing!
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are 5 more songs left in the queue.
+
+      
+          
+Sponsored
+Learn to build and publish a component library that works in any web framework
+
+The interactive Component Odyssey course will teach you everything you need to build a modern web component library. In over 60 lessons, learn how to bui…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Don't give eeffoc]]></title>
         <id>6648faab0d518504d4c6f279</id>
@@ -120,27 +144,6 @@ This song is called “Maailman onnelisin kansa” (“The happiest peoples in t
         <summary type="html"><![CDATA[This week we setup our new Minecraft server, play Spacewar, avoid burnout, wonder about Facebook AI spam, lose our passkeys, and claim stairs on the way back home.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #128 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-128/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-128/"/>
-        <updated>2024-04-28T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
-
-Did you know that you can apply padding to img elements? Or that AbortSignals have a timeout method? Or why can you use class properties in Preact but can't in React?
-Turn on the Web Weekly tune and find all the answers below. Enjoy!
-
-      
-          
-Gustavo listens to "Dilsinho - O Choro é Livre (Ao Vivo)" and says:
-This song can change my humor and mood instantaneously. When I listen to it, I can feel my energy flowing in a good way. So, I'd love to recommend playing it to start the day.
-Do you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.
-I received some great feedback last week (thanks, Owen!), and I keep thinking about it. Let's talk it out.
-Web Weekly focuses on web dev things, but I…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
