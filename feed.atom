@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-04T01:17:15.685Z</updated>
+    <updated>2024-06-05T01:16:47.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -148,21 +148,6 @@ Ooooff... And while it's unlikely, someone could now use XSS to inject target="_
         <summary type="html"><![CDATA[This week we remove gatekeepers from our CI, break a Guinness world record, redesign review ratings, understand the meaning behind “job requirements”, and level up.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #129 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-129/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-129/"/>
-        <updated>2024-05-05T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
-
-Do you know how to track long animation frames that are responsible for a poor INP score? Have you used the text-emphasis CSS property? Or do you know about the two competing proposals for CSS Masonry layouts?
-Turn on the Web Weekly tune and find all the answers below. Enjoy!
-Martin listens to "Maustetytöt — Maailman onnellisin kansa" and says:
-This song is called “Maailman onnelisin kansa” (“The happiest peoples in the world”) by Finnish pop-duo “Maustetytöt” (literally translates to “Spice Girls”). It plays with the fact that Finland gets awarded first place in the World Happiness Report year after year. The song points out in a laconic way all the things that go wrong in Finnish society, from poverty to insanely high depression rates, and then the chorus goes l…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
