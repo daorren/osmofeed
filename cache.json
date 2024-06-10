@@ -69,6 +69,26 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-134/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nDoes the new React compiler fix all the bugs in our code? Should you self-host your custom fonts? And is CSS slowly but surely replacing JS animation libraries?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nJochem listens to 88-Keys & Kanye West - Stay Up!\nOne of my favorite tracks, the beat is just so smooth 👌 I can fully recommend The Death of Adam (the album this track comes from) as well!\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.\nSponsored\nLocal-First Web Development with PowerSync in 100s\n\nLocal-first web apps use an in-browser database to provide an instantly reactive experience to users — with zero network latency. Keeping in-browser databases in sync…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-134/",
+          "publishedOn": "2024-06-08T22:00:00.000Z",
+          "wordCount": 2525,
+          "title": "Web Weekly #134 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
+          "id": "https://www.stefanjudis.com/blog/investigating-inp-issues/",
+          "author": null,
+          "description": "I've been doing some client performance work lately. It's a Next.js project, and it looks like Google's INP update has punished it. Organic search rankings are tanking.\nI thought it would be a quick gig because there was a ton of low-hanging fruit. After fixing, waiting and constantly checking the Search Console (it takes a while until Googlebot recognizes improvements), things moved in the right direction, but fixing the obvious isn't enough.\nMany \"need improvement\" URLs moved to \"good\" in May, but \"good\" URLs still don't make up the majority.\nThe main offender is the new INP metric, and that's no surprise. The site's built with a JS-heavy stack: many libraries, huge hydration data blocks, SVGs in React — you get the idea. A lot is going on in modern web development.\nI still need to solve…",
+          "link": "https://www.stefanjudis.com/blog/investigating-inp-issues/",
+          "publishedOn": "2024-06-08T22:00:00.000Z",
+          "wordCount": 2034,
+          "title": "Investigating INP issues (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Investigating%20INP%20issues/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-133/",
           "author": null,
           "description": "Ciao! 👋\n\nWeb Weekly is still coming from Italy! 🍝\nWhen should you use aria-label? Should you self-host your custom web fonts? And when will CSS @property enter the baseline and be cross-browser supported?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nAttila listens to \"Shelter Boy - MOVING BACKWARDS\" and says:\nThis song, despite the upbeat melody, is my go-to song to handle frustrations calmly. And wearing glasses, the chorus always makes me smile with “vision so bad, saw the good in you”.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.\nKeeping up with web development trends has always been tough.\nWhen I started dabbling with the web, new frameworks shipped every week. You couldn't know wh…",
