@@ -50,16 +50,6 @@
           "wordCount": 2059,
           "title": "Weekend Reading — Objection-oriented programming",
           "imageUrl": "https://labnotes.org/content/images/2024/05/image-85-1.png"
-        },
-        {
-          "id": "66365a2bdbe92a9163a7bf90",
-          "author": "Assaf Arkin",
-          "description": "This week we remove gatekeepers from our CI, break a Guinness world record, redesign review ratings, understand the meaning behind “job requirements”, and level up.",
-          "link": "https://labnotes.org/weekend-reading-stack-over-you/",
-          "publishedOn": "2024-05-11T15:48:24.000Z",
-          "wordCount": 1547,
-          "title": "Weekend Reading — Stack over you",
-          "imageUrl": "https://labnotes.org/content/images/2024/05/image-42-1.png"
         }
       ]
     },
@@ -117,26 +107,6 @@
           "wordCount": 2658,
           "title": "Web Weekly #131 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-130/",
-          "author": null,
-          "description": "Guten Tag! Guten Tag! 👋\n\nDo you know how ARIA live regions work? Or do you sometimes struggle to center text vertically? Or want to get started with scroll-driven animations but don't know how?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nPaweł listens to \"Da Break - Touch the Moon\" and says:\nThe whole album makes me wanna dance, but this one is an outstanding banger!\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.\nThis Web Weekly issue is already beefy enough, so I'll skip a long intro and only open with some single-purpose URLs for your daily internet use.\njustforfunnoreally.dev\ndontasktoask.com\nnohello.net\nI just love it when I can reply someone with a URL.\n\n      \n          \nSponsored\n…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-130/",
-          "publishedOn": "2024-05-11T22:00:00.000Z",
-          "wordCount": 2570,
-          "title": "Web Weekly #130 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/target-blank-implies-rel-noopener/",
-          "author": null,
-          "description": "If you want to be a good web citizen, you might be aware of the target=\"_blank\" security issue.\nIn the old days, when you linked to a site and wanted to open a new tab with target=\"_blank\", the target site could access your site via window.opener. In short:\nIf window A opens window B, B.opener returns A.\nIf you haven't heard of this behavior, it's pretty wild because it implies that target pages could check if window.opener is accessible and if so change the location of your site with trivial JavaScript.\nif (window.opener) {\n  window.opener.location = 'https://you-re-hacked.com';\n}\n\nOoooff... And while it's unlikely, someone could now use XSS to inject target=\"_blank\" links into your site and, when someone clicks on them, change the URL of the original site (which is now in the background)…",
-          "link": "https://www.stefanjudis.com/today-i-learned/target-blank-implies-rel-noopener/",
-          "publishedOn": "2024-05-11T22:00:00.000Z",
-          "wordCount": 1791,
-          "title": "Target=_blank implies rel=noopener (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Target%3D_blank%20implies%20rel%3Dnoopener/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
