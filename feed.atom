@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-11T01:18:27.094Z</updated>
+    <updated>2024-06-12T01:18:14.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Support your local content dealers (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/support-your-local-content-dealers/</id>
+        <link href="https://www.stefanjudis.com/notes/support-your-local-content-dealers/"/>
+        <updated>2024-06-10T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Sidebar newsletter was one of my primary sources when I started in webdev. Every workday, it shares (or used to share) web design links. It's now taking a break.
+The reasons: lack of time, good content becoming less accessible and money.
+Let's get to the last point. Sidebar wasn't a small newsletter. 60k people received five emails a week and it was not sustainable anymore. Wow!
+Here's Sacha Greif talking about the money part:
+I could justify the time expenditure when Sidebar was self-sustaining, but for a while now the site has cost far more to run than it makes. It turns out, sending 20 emails a month to about 60,000 people costs quite a bit of money!
+It’s admittedly my fault for not working harder at getting sponsors, but again: no time.
+Very sad. What many don't see, running a news…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #134 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-134/</id>
