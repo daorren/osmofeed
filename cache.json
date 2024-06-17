@@ -69,6 +69,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-135/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nWhat's the ECMAScript 2.7 proposal stage? Are if statements coming to CSS? And how many of the new Safari 18 beta release's features are safe to use today?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nPaweł listens to \"Slum Village - Factor\" and says:\nSlum Village! Sounds like early days SV, but this one is not produced by Dilla. So so so good!\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.\nLet's kick things off with a quick ECMAScript TIL!\nYou might know that new JavaScript features are defined and proposed via ECMAScript proposals. A new feature has to pass multiple proposal stages before it's added to JavaScript. The stages go from 0 (a rough idea) to 4 (ready…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-135/",
+          "publishedOn": "2024-06-15T22:00:00.000Z",
+          "wordCount": 2966,
+          "title": "Web Weekly #135 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/safari-18-what-web-features-are-usable-across-browsers/",
           "author": null,
           "description": "Safari 18 beta was released. And this will be a packed release. I love it!\nUnfortunately, Apple doesn't share overall browser and baseline support in their release notes. So, I thought it would be nice to do \"a state of the web check\" and find out which of these new web features will be safe to use soon'ish.\nThis post includes fetched and up-to-date MDN compat data. I'll try to update the post when new features ship, but if you find outdated statements next to the compatibility tables, please let me know.\nLet's go!\nView transitions level 1\n\nThe Chrome folks have been pushing JS-based view transitions for a while now and the new Safari will join the party. What's the overall support?\n\n        \nMDN Compat Data (source)\nBrowser support info for startViewTransition() \n              \n          …",

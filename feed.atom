@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-16T01:23:40.772Z</updated>
+    <updated>2024-06-17T01:20:23.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #135 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-135/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-135/"/>
+        <updated>2024-06-15T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+What's the ECMAScript 2.7 proposal stage? Are if statements coming to CSS? And how many of the new Safari 18 beta release's features are safe to use today?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+Paweł listens to "Slum Village - Factor" and says:
+Slum Village! Sounds like early days SV, but this one is not produced by Dilla. So so so good!
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.
+Let's kick things off with a quick ECMAScript TIL!
+You might know that new JavaScript features are defined and proposed via ECMAScript proposals. A new feature has to pass multiple proposal stages before it's added to JavaScript. The stages go from 0 (a rough idea) to 4 (ready…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Move slow and improve things]]></title>
         <id>6664a2f7d3fa9c476d511437</id>
