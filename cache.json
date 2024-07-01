@@ -69,6 +69,26 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-136/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nShould you write a readme about yourself? (YES!) What makes an animation good? And when will the new relative color CSS syntax (oklch(from red l c h)) be ready to use?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nHauke listens to Wir sind Helden — Der Krieg kommt schneller zurück als du denkst\nThe title is German for \"the war will return faster than you may think\". That song aged very well. When I was listening to my favorite bands from the 00's I stumbled upon this gem. I stopped coding when I realized how accurate the song is. \"How far is far away enough?\" \"How long is long gone?\". \"What is so funny about peace love [and understanding]?\"\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are two more son…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-136/",
+          "publishedOn": "2024-06-30T15:00:00.000Z",
+          "wordCount": 3141,
+          "title": "Web Weekly #136 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
+          "id": "https://www.stefanjudis.com/snippets/formdata-to-url-search-params/",
+          "author": null,
+          "description": "I was wrangling some Remix TypeScript the other day and wanted to create a server action that receives submitted form data. This form data then should be used to build up a query string, make a request to a secured and hidden GET endpoint and return the result.\n// what I wanted to do ...\nexport async function action({\n  request,\n}) {\n  const formData = await request.formData();\n  const queryString = new URLSearchParams(formData).toString();\n  \n  // make another API call with the constructed query string\n  const resp = await fetch(`https://hidden-api.com?${queryString}`)\n  \n  // ...\n}\n\nEasy peasy, that's what URLSearchParams is for, right? When you check MDN, you'll discover that passing FormData into the URLSearchParams constructor is valid. Nice!\n[The URLSearchParams(options) options obje…",
+          "link": "https://www.stefanjudis.com/snippets/formdata-to-url-search-params/",
+          "publishedOn": "2024-06-30T10:00:00.000Z",
+          "wordCount": 1869,
+          "title": "Construct query strings from FormData (#snippet)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Construct%20query%20strings%20from%20FormData/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-content-and-copyrights/",
           "author": null,
           "description": "I just updated the footer of this site. This is how it looks now.\nI'm going all corporate and legally official and stuff. Yeah — I hate it, too.\nYou probably don't pay attention to footers and licenses. That's okay; neither do I. Previously, my site's footer included a meaningless Copyright © 2024 Stefan Judis. Made with love statement. You've seen these footers probably a thousand times. Maybe you have one yourself — there's nothing wrong with it.\nBloggers just want to blog. We prefer sharing thoughts and creating something of value over studying copyright licenses. And what should we do when someone violates our copyright? Should we go out and enforce it? Nobody ain't time for that!\nI always loved that Chris had a custom /license on CSS-Tricks:\nIf you copy an entire article from this sit…",

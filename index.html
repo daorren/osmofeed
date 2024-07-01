@@ -22,6 +22,95 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-06-30 datetime="2024-06-30T15:00:00.000Z">2024-06-30</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-06-30 datetime="2024-06-30T15:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/blog/web-weekly-136/"
+                        open
+                      >
+                        <summary class="article-expander__title">Web Weekly #136 (#blogPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/blog/web-weekly-136/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.stefanjudis.com/newsletter-social.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Guten Tag! Guten Tag! 👋
+
+Should you write a readme about yourself? (YES!) What makes an animation good? And when will the new relative color CSS syntax (oklch(from red l c h)) be ready to use?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+Hauke listens to Wir sind Helden — Der Krieg kommt schneller zurück als du denkst
+The title is German for &quot;the war will return faster than you may think&quot;. That song aged very well. When I was listening to my favorite bands from the 00&#x27;s I stumbled upon this gem. I stopped coding when I realized how accurate the song is. &quot;How far is far away enough?&quot; &quot;How long is long gone?&quot;. &quot;What is so funny about peace love [and understanding]?&quot;
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are two more son…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/snippets/formdata-to-url-search-params/"
+                        open
+                      >
+                        <summary class="article-expander__title">Construct query strings from FormData (#snippet)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/snippets/formdata-to-url-search-params/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Construct%20query%20strings%20from%20FormData/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>I was wrangling some Remix TypeScript the other day and wanted to create a server action that receives submitted form data. This form data then should be used to build up a query string, make a request to a secured and hidden GET endpoint and return the result.
+// what I wanted to do ...
+export async function action({
+  request,
+}) {
+  const formData &#x3D; await request.formData();
+  const queryString &#x3D; new URLSearchParams(formData).toString();
+  
+  // make another API call with the constructed query string
+  const resp &#x3D; await fetch(&#x60;https://hidden-api.com?${queryString}&#x60;)
+  
+  // ...
+}
+
+Easy peasy, that&#x27;s what URLSearchParams is for, right? When you check MDN, you&#x27;ll discover that passing FormData into the URLSearchParams constructor is valid. Nice!
+[The URLSearchParams(options) options obje…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-06-29 datetime="2024-06-29T18:15:04.000Z">2024-06-29</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-06-29 datetime="2024-06-29T18:15:04.000Z"></time>
           </button>
@@ -577,8 +666,8 @@ When I started dabbling with the web, new frameworks shipped every week. You cou
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/9728324597">
-        <time id="build-timestamp" datetime="2024-06-30T01:24:37.380Z">2024-06-30T01:24:37.380Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/9736638779">
+        <time id="build-timestamp" datetime="2024-07-01T01:26:37.864Z">2024-07-01T01:26:37.864Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

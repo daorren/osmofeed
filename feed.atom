@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-30T01:24:37.398Z</updated>
+    <updated>2024-07-01T01:26:37.881Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #136 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-136/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-136/"/>
+        <updated>2024-06-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Should you write a readme about yourself? (YES!) What makes an animation good? And when will the new relative color CSS syntax (oklch(from red l c h)) be ready to use?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+Hauke listens to Wir sind Helden — Der Krieg kommt schneller zurück als du denkst
+The title is German for "the war will return faster than you may think". That song aged very well. When I was listening to my favorite bands from the 00's I stumbled upon this gem. I stopped coding when I realized how accurate the song is. "How far is far away enough?" "How long is long gone?". "What is so funny about peace love [and understanding]?"
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are two more son…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Construct query strings from FormData (#snippet)]]></title>
+        <id>https://www.stefanjudis.com/snippets/formdata-to-url-search-params/</id>
+        <link href="https://www.stefanjudis.com/snippets/formdata-to-url-search-params/"/>
+        <updated>2024-06-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I was wrangling some Remix TypeScript the other day and wanted to create a server action that receives submitted form data. This form data then should be used to build up a query string, make a request to a secured and hidden GET endpoint and return the result.
+// what I wanted to do ...
+export async function action({
+  request,
+}) {
+  const formData = await request.formData();
+  const queryString = new URLSearchParams(formData).toString();
+  
+  // make another API call with the constructed query string
+  const resp = await fetch(`https://hidden-api.com?${queryString}`)
+  
+  // ...
+}
+
+Easy peasy, that's what URLSearchParams is for, right? When you check MDN, you'll discover that passing FormData into the URLSearchParams constructor is valid. Nice!
+[The URLSearchParams(options) options obje…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Legally prohibited from complaining]]></title>
         <id>66770aecf1950fc3dbc3fca6</id>
