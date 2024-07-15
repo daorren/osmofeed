@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-14T01:26:18.455Z</updated>
+    <updated>2024-07-15T01:22:26.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -146,28 +146,6 @@ You might know that new JavaScript features are defined and proposed via ECMAScr
         <summary type="html"><![CDATA[This week we upgrade out clock, get a bumper sticker, practice the RTO of layoffs, convince HP to buy us for $25B, listen where we look, have a sad day indeed, enjoy spicy ramen, and ravel at the new defender.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safari 18 — what web features are usable across browsers? (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/safari-18-what-web-features-are-usable-across-browsers/</id>
-        <link href="https://www.stefanjudis.com/blog/safari-18-what-web-features-are-usable-across-browsers/"/>
-        <updated>2024-06-14T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Safari 18 beta was released. And this will be a packed release. I love it!
-Unfortunately, Apple doesn't share overall browser and baseline support in their release notes. So, I thought it would be nice to do "a state of the web check" and find out which of these new web features will be safe to use soon'ish.
-This post includes fetched and up-to-date MDN compat data. I'll try to update the post when new features ship, but if you find outdated statements next to the compatibility tables, please let me know.
-Let's go!
-View transitions level 1
-
-The Chrome folks have been pushing JS-based view transitions for a while now and the new Safari will join the party. What's the overall support?
-
-        
-MDN Compat Data (source)
-Browser support info for startViewTransition() 
-              
-          …]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

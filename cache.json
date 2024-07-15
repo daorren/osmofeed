@@ -117,16 +117,6 @@
           "wordCount": 2966,
           "title": "Web Weekly #135 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/safari-18-what-web-features-are-usable-across-browsers/",
-          "author": null,
-          "description": "Safari 18 beta was released. And this will be a packed release. I love it!\nUnfortunately, Apple doesn't share overall browser and baseline support in their release notes. So, I thought it would be nice to do \"a state of the web check\" and find out which of these new web features will be safe to use soon'ish.\nThis post includes fetched and up-to-date MDN compat data. I'll try to update the post when new features ship, but if you find outdated statements next to the compatibility tables, please let me know.\nLet's go!\nView transitions level 1\n\nThe Chrome folks have been pushing JS-based view transitions for a while now and the new Safari will join the party. What's the overall support?\n\n        \nMDN Compat Data (source)\nBrowser support info for startViewTransition() \n              \n          …",
-          "link": "https://www.stefanjudis.com/blog/safari-18-what-web-features-are-usable-across-browsers/",
-          "publishedOn": "2024-06-14T22:00:00.000Z",
-          "wordCount": 2292,
-          "title": "Safari 18 — what web features are usable across browsers? (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Safari%2018%20%E2%80%94%20what%20web%20features%20are%20usable%20across%20browsers%253F/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
