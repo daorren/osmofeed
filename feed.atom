@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-15T01:22:26.422Z</updated>
+    <updated>2024-07-16T01:22:08.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #138 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-138/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-138/"/>
+        <updated>2024-07-14T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+What features entered cross-browser support last week? Aren't utility-first classes the same as inline styles? When would you use CSS clip-path?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+Pablo listens to Trent Reznor & Atticus Ross - Challengers: Match Point
+This song is part of the trending movie soundtrack "Challengers" and it is composed by Trent Reznor & Atticus Ross, from NIN (Nine Inch Nails). They also made the soundtrack for The Social Network and The Girl with the Dragon Tattoo. I have always loved their music, but I do love more EBM like tracks, such as Match Point or my old favorite one, Closer to God.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are two more songs left in the queue.
+Ho…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Tactical Assault Shiba]]></title>
         <id>6689b14caf539904c8814689</id>
@@ -116,34 +133,6 @@ If you copy an entire article from this sit…]]></summary>
         <link href="https://labnotes.org/weekend-reading-occams-shaving-kit/"/>
         <updated>2024-06-22T17:31:22.000Z</updated>
         <summary type="html"><![CDATA[This week we work around our ErrorBoundary, ignore our \\TODO, write in Sans Bullshit Sans, pay $500/hour to dress the same as always, count succors borne every minute, and name a dinosaur after Loki.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #135 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-135/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-135/"/>
-        <updated>2024-06-15T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
-
-What's the ECMAScript 2.7 proposal stage? Are if statements coming to CSS? And how many of the new Safari 18 beta release's features are safe to use today?
-Turn on the Web Weekly tune and find all the answers below. Enjoy!
-Paweł listens to "Slum Village - Factor" and says:
-Slum Village! Sounds like early days SV, but this one is not produced by Dilla. So so so good!
-Do you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.
-Let's kick things off with a quick ECMAScript TIL!
-You might know that new JavaScript features are defined and proposed via ECMAScript proposals. A new feature has to pass multiple proposal stages before it's added to JavaScript. The stages go from 0 (a rough idea) to 4 (ready…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Move slow and improve things]]></title>
-        <id>6664a2f7d3fa9c476d511437</id>
-        <link href="https://labnotes.org/weekend-reading-move-slow-and-improve-things/"/>
-        <updated>2024-06-15T18:00:07.000Z</updated>
-        <summary type="html"><![CDATA[This week we upgrade out clock, get a bumper sticker, practice the RTO of layoffs, convince HP to buy us for $25B, listen where we look, have a sad day indeed, enjoy spicy ramen, and ravel at the new defender.]]></summary>
         <author>
             <name>Assaf Arkin</name>
         </author>

@@ -50,16 +50,6 @@
           "wordCount": 1694,
           "title": "Weekend Reading — Occam's shaving kit",
           "imageUrl": "https://labnotes.org/content/images/2024/06/image-142-1.png"
-        },
-        {
-          "id": "6664a2f7d3fa9c476d511437",
-          "author": "Assaf Arkin",
-          "description": "This week we upgrade out clock, get a bumper sticker, practice the RTO of layoffs, convince HP to buy us for $25B, listen where we look, have a sad day indeed, enjoy spicy ramen, and ravel at the new defender.",
-          "link": "https://labnotes.org/weekend-reading-move-slow-and-improve-things/",
-          "publishedOn": "2024-06-15T18:00:07.000Z",
-          "wordCount": 2304,
-          "title": "Weekend Reading — Move slow and improve things",
-          "imageUrl": "https://labnotes.org/content/images/2024/06/image-129-1.png"
         }
       ]
     },
@@ -68,6 +58,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-138/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nWhat features entered cross-browser support last week? Aren't utility-first classes the same as inline styles? When would you use CSS clip-path?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nPablo listens to Trent Reznor & Atticus Ross - Challengers: Match Point\nThis song is part of the trending movie soundtrack \"Challengers\" and it is composed by Trent Reznor & Atticus Ross, from NIN (Nine Inch Nails). They also made the soundtrack for The Social Network and The Girl with the Dragon Tattoo. I have always loved their music, but I do love more EBM like tracks, such as Match Point or my old favorite one, Closer to God.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are two more songs left in the queue.\nHo…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-138/",
+          "publishedOn": "2024-07-14T22:00:00.000Z",
+          "wordCount": 3102,
+          "title": "Web Weekly #138 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-137/",
           "author": null,
@@ -107,16 +107,6 @@
           "wordCount": 2166,
           "title": "Web content, the social contract and copyrights (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Web%20content%252C%20the%20social%20contract%20and%20copyrights/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-135/",
-          "author": null,
-          "description": "Guten Tag! Guten Tag! 👋\n\nWhat's the ECMAScript 2.7 proposal stage? Are if statements coming to CSS? And how many of the new Safari 18 beta release's features are safe to use today?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nPaweł listens to \"Slum Village - Factor\" and says:\nSlum Village! Sounds like early days SV, but this one is not produced by Dilla. So so so good!\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.\nLet's kick things off with a quick ECMAScript TIL!\nYou might know that new JavaScript features are defined and proposed via ECMAScript proposals. A new feature has to pass multiple proposal stages before it's added to JavaScript. The stages go from 0 (a rough idea) to 4 (ready…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-135/",
-          "publishedOn": "2024-06-15T22:00:00.000Z",
-          "wordCount": 2966,
-          "title": "Web Weekly #135 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
     },
