@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-18T01:19:25.565Z</updated>
+    <updated>2024-07-19T15:43:53.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Forms without an accessible name are not exposed as ARIA landmarks (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/forms-require-an-accessible-name/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/forms-require-an-accessible-name/"/>
+        <updated>2024-07-18T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Suppose you want to be a good web citizen; you use semantic and accessible HTML. Elements "leading places" are a elements, your navigation lives in a nav element, buttons are ... well ... buttons, and your form controls are surrounded by a good old form.
+Using the correct elements gives your HTML meaning. Semantic markup helps machines understand what they're dealing with. Googlebot slurping in your site will understand the important sections of your articles because it finds their headings. Assistive technology like screen readers can offer features and a better UX to navigate your site. Throw away the div soup and go for semantic HTML. It's great stuff!
+For example, I can fire up VoiceOver on my Mac and navigate my site via all the exposed ARIA landmark regions exposed from semantic HTML…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #138 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-138/</id>
