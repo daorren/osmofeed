@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-20T01:18:53.170Z</updated>
+    <updated>2024-07-21T01:26:23.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Bumpy safety yellow]]></title>
+        <id>6692b64baf539904c8815e05</id>
+        <link href="https://labnotes.org/weekend-reading-bumpy-safety-yellow/"/>
+        <updated>2024-07-20T18:24:31.000Z</updated>
+        <summary type="html"><![CDATA[This week we test a new test framework, get a smartwatch from 1984, become a pet psychic, use AI to get funnier, realize Cellebrite is not breaking into our iPhone, not fall in love with our first theory, drink Modelo Negra, and tour through an underground village.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Forms without an accessible name are not exposed as ARIA landmarks (#tilPost)]]></title>
         <id>https://www.stefanjudis.com/today-i-learned/forms-require-an-accessible-name/</id>
