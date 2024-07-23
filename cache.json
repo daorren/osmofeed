@@ -50,16 +50,6 @@
           "wordCount": 2151,
           "title": "Weekend Reading — Legally prohibited from complaining",
           "imageUrl": "https://labnotes.org/content/images/2024/06/image-178-1.png"
-        },
-        {
-          "id": "666dd744af908804d89e3386",
-          "author": "Assaf Arkin",
-          "description": "This week we work around our ErrorBoundary, ignore our \\\\TODO, write in Sans Bullshit Sans, pay $500/hour to dress the same as always, count succors borne every minute, and name a dinosaur after Loki.",
-          "link": "https://labnotes.org/weekend-reading-occams-shaving-kit/",
-          "publishedOn": "2024-06-22T17:31:22.000Z",
-          "wordCount": 1694,
-          "title": "Weekend Reading — Occam's shaving kit",
-          "imageUrl": "https://labnotes.org/content/images/2024/06/image-142-1.png"
         }
       ]
     },
@@ -68,6 +58,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-139/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nHow big must action elements be to be WCAG-compliant? What's the difference between CSS :host, :host() and :host-content()? And should you adopt multi-keyword display values like display: block grid?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nJarek listens to \"ShataQS - Światło A=432hz\" and says:\nThis song makes me feel better.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; 🚨 there is only one more song left in the queue.\nQuick announcement: Web Weekly will take a 3-4 weeks break. 🏝️\nI got into freelance and self-employment at the beginning of the year. I love working with multiple customers, and the business is going very well, too. And yet, I still feel more tired every week right now and must catch my…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-139/",
+          "publishedOn": "2024-07-21T22:00:00.000Z",
+          "wordCount": 2790,
+          "title": "Web Weekly #139 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
         {
           "id": "https://www.stefanjudis.com/today-i-learned/forms-require-an-accessible-name/",
           "author": null,

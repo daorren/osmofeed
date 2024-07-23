@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-22T01:23:07.889Z</updated>
+    <updated>2024-07-23T01:21:03.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #139 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-139/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-139/"/>
+        <updated>2024-07-21T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+How big must action elements be to be WCAG-compliant? What's the difference between CSS :host, :host() and :host-content()? And should you adopt multi-keyword display values like display: block grid?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+Jarek listens to "ShataQS - Światło A=432hz" and says:
+This song makes me feel better.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; 🚨 there is only one more song left in the queue.
+Quick announcement: Web Weekly will take a 3-4 weeks break. 🏝️
+I got into freelance and self-employment at the beginning of the year. I love working with multiple customers, and the business is going very well, too. And yet, I still feel more tired every week right now and must catch my…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Bumpy safety yellow]]></title>
         <id>6692b64baf539904c8815e05</id>
@@ -147,16 +165,6 @@ I always loved that Chris had a custom /license on CSS-Tricks:
 If you copy an entire article from this sit…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Occam's shaving kit]]></title>
-        <id>666dd744af908804d89e3386</id>
-        <link href="https://labnotes.org/weekend-reading-occams-shaving-kit/"/>
-        <updated>2024-06-22T17:31:22.000Z</updated>
-        <summary type="html"><![CDATA[This week we work around our ErrorBoundary, ignore our \\TODO, write in Sans Bullshit Sans, pay $500/hour to dress the same as always, count succors borne every minute, and name a dinosaur after Loki.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
