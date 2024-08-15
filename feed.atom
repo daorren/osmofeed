@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-14T01:22:49.214Z</updated>
+    <updated>2024-08-15T01:18:19.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Space shuttle style coding (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/space-shuttle-style-coding/</id>
+        <link href="https://www.stefanjudis.com/notes/space-shuttle-style-coding/"/>
+        <updated>2024-08-14T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[I learned about a new coding style today: the space shuttle.
+It's described in the kubernetes source code:
+This controller is intentionally written in a very verbose style. You will notice:
+Every 'if' statement has a matching 'else' (exception: simple error checks for a client API call)
+Things that may seem obvious are commented explicitly
+We call this style 'space shuttle style'. Space shuttle style is meant to ensure that every branch and condition is considered and accounted for - the same way code is written at NASA for applications like the space shuttle.
+I love it! Usually I'm not working on projects bringing people to space, but treating critical code with the same care seems like a good idea. 😅
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Momala and Popala]]></title>
         <id>66ae84bd1190f850bf35c2f6</id>
