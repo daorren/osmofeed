@@ -12,6 +12,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "66b7d625516a9cac92d54a9c",
+          "author": "Assaf Arkin",
+          "description": "This week we get our dev docs offline, color the windows, guesstimate our credit score, sue an ice cream, honk like a self-driving car, experiment on a lion, cancel our Disney+ account, and reuse our unexpired N95 mask.",
+          "link": "https://labnotes.org/weekend-reading-very-demure-very-mindful/",
+          "publishedOn": "2024-08-17T19:28:55.000Z",
+          "wordCount": 3973,
+          "title": "Weekend Reading — Very demure, very mindful",
+          "imageUrl": "https://labnotes.org/content/images/2024/08/image-183-1.png"
+        },
+        {
           "id": "66ae84bd1190f850bf35c2f6",
           "author": "Assaf Arkin",
           "description": "This week we do a screen recording, restart WordStar, take our printer to space, play medieval tunes, sample the LLM, and watch out for the blow-nado.",
@@ -77,16 +87,6 @@
           "wordCount": 2790,
           "title": "Web Weekly #139 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/forms-require-an-accessible-name/",
-          "author": null,
-          "description": "Suppose you want to be a good web citizen; you use semantic and accessible HTML. Elements \"leading places\" are a elements, your navigation lives in a nav element, buttons are ... well ... buttons, and your form controls are surrounded by a good old form.\nUsing the correct elements gives your HTML meaning. Semantic markup helps machines understand what they're dealing with. Googlebot slurping in your site will understand the important sections of your articles because it finds their headings. Assistive technology like screen readers can offer features and a better UX to navigate your site. Throw away the div soup and go for semantic HTML. It's great stuff!\nFor example, I can fire up VoiceOver on my Mac and navigate my site via all the exposed ARIA landmark regions exposed from semantic HTML…",
-          "link": "https://www.stefanjudis.com/today-i-learned/forms-require-an-accessible-name/",
-          "publishedOn": "2024-07-18T22:00:00.000Z",
-          "wordCount": 2092,
-          "title": "Forms without an accessible name are not exposed as ARIA landmarks (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Forms%20without%20an%20accessible%20name%20are%20not%20exposed%20as%20ARIA%20landmarks/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },

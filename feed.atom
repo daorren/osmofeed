@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-17T01:19:57.484Z</updated>
+    <updated>2024-08-18T01:33:08.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Very demure, very mindful]]></title>
+        <id>66b7d625516a9cac92d54a9c</id>
+        <link href="https://labnotes.org/weekend-reading-very-demure-very-mindful/"/>
+        <updated>2024-08-17T19:28:55.000Z</updated>
+        <summary type="html"><![CDATA[This week we get our dev docs offline, color the windows, guesstimate our credit score, sue an ice cream, honk like a self-driving car, experiment on a lion, cancel our Disney+ account, and reuse our unexpired N95 mask.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Space shuttle style coding (#note)]]></title>
         <id>https://www.stefanjudis.com/notes/space-shuttle-style-coding/</id>
@@ -83,18 +93,6 @@ I got into freelance and self-employment at the beginning of the year. I love wo
         <summary type="html"><![CDATA[This week we test a new test framework, get a smartwatch from 1984, become a pet psychic, use AI to get funnier, realize Cellebrite is not breaking into our iPhone, not fall in love with our first theory, drink Modelo Negra, and tour through an underground village.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forms without an accessible name are not exposed as ARIA landmarks (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/forms-require-an-accessible-name/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/forms-require-an-accessible-name/"/>
-        <updated>2024-07-18T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Suppose you want to be a good web citizen; you use semantic and accessible HTML. Elements "leading places" are a elements, your navigation lives in a nav element, buttons are ... well ... buttons, and your form controls are surrounded by a good old form.
-Using the correct elements gives your HTML meaning. Semantic markup helps machines understand what they're dealing with. Googlebot slurping in your site will understand the important sections of your articles because it finds their headings. Assistive technology like screen readers can offer features and a better UX to navigate your site. Throw away the div soup and go for semantic HTML. It's great stuff!
-For example, I can fire up VoiceOver on my Mac and navigate my site via all the exposed ARIA landmark regions exposed from semantic HTML…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
