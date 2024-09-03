@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-02T01:34:35.368Z</updated>
+    <updated>2024-09-03T01:25:16.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #140 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-140/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-140/"/>
+        <updated>2024-09-01T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Web Weekly is back after a long and hot summer break. Let me tell you: I'm excited! It was good to take a breather, but I must admit I missed sending out your weekly dose of Frontend goodness.
+And in the meantime, Web Weekly passed 5k subscribers. It's wild that so many people read along when I hit "send" later. This tiny side project slowly feels like a "real newsletter".
+💙 Thank you all for reading along, but let's get to it!
+Do you know that you can set alternative text for generated CSS content? Or that CSS letter-spacing not only adds space between characters? Or do you struggle with debugging INP and are looking for better tools?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+Marcel listens to "GAFFA GALAKTIKA feat. FLITZMASTERZERO - (TU…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Home office the way I like it]]></title>
         <id>66ca395f46c4adf75fc97819</id>
@@ -63,16 +80,6 @@ I love it! Usually I'm not working on projects bringing people to space, but tre
         <link href="https://labnotes.org/weekend-reading-momala-and-popala/"/>
         <updated>2024-08-10T21:04:15.000Z</updated>
         <summary type="html"><![CDATA[This week we do a screen recording, restart WordStar, take our printer to space, play medieval tunes, sample the LLM, and watch out for the blow-nado.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Emotional support billionaires]]></title>
-        <id>66a56ba37078943e647127c0</id>
-        <link href="https://labnotes.org/weekend-reading-emotional-support-billionaires/"/>
-        <updated>2024-08-03T19:27:41.000Z</updated>
-        <summary type="html"><![CDATA[This week we watch the olympics, make a todo list, propose new password rules, purchase a domain for > $1M, get an AI massage, shot with hand in pocket, save 100% by not buying anything, and measure our height in corgis.]]></summary>
         <author>
             <name>Assaf Arkin</name>
         </author>
