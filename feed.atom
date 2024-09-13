@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-12T01:33:57.546Z</updated>
+    <updated>2024-09-13T01:34:24.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -82,27 +82,6 @@ Marcel listens to "GAFFA GALAKTIKA feat. FLITZMASTERZERO - (TU…]]></summary>
         <summary type="html"><![CDATA[This week we get our dev docs offline, color the windows, guesstimate our credit score, sue an ice cream, honk like a self-driving car, experiment on a lion, cancel our Disney+ account, and reuse our unexpired N95 mask.]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Space shuttle style coding (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/space-shuttle-style-coding/</id>
-        <link href="https://www.stefanjudis.com/notes/space-shuttle-style-coding/"/>
-        <updated>2024-08-14T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[I learned about a new coding style today: the space shuttle.
-It's described in the kubernetes source code:
-This controller is intentionally written in a very verbose style. You will notice:
-Every 'if' statement has a matching 'else' (exception: simple error checks for a client API call)
-Things that may seem obvious are commented explicitly
-We call this style 'space shuttle style'. Space shuttle style is meant to ensure that every branch and condition is considered and accounted for - the same way code is written at NASA for applications like the space shuttle.
-I love it! Usually I'm not working on projects bringing people to space, but treating critical code with the same care seems like a good idea. 😅
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
