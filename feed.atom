@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-14T01:26:05.883Z</updated>
+    <updated>2024-09-15T01:42:50.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Concept of a plan]]></title>
+        <id>66dcea6974daf5fea16f7a3b</id>
+        <link href="https://labnotes.org/weekend-reading-concept-of-a-plan/"/>
+        <updated>2024-09-14T23:50:48.000Z</updated>
+        <summary type="html"><![CDATA[This week we play Tetris on our database server, learn BASIC again, upgrade to a Victorian iPad, avert the shoplifting crisis, turn HTML back to Markdown, replace the podcast bro with AI, get unlimited data for free, and throw baby Puffins off a cliff.]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The order of accessible name computation steps (#tilPost)]]></title>
         <id>https://www.stefanjudis.com/today-i-learned/the-order-of-accessible-name-computation-steps/</id>
