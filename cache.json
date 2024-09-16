@@ -69,6 +69,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-141/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nDo you know how the LCP metric is calculated? Or when to use display: contents? Or do you wonder when we'll finally be able to style native select elements?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nDirk listens to \"Black Coffee @ Salle Wagram in Paris, France for Cercle\"\nBlack Coffee at this beautiful Salle Wagram in Paris. I like the smile on his face when he notices people getting into the flow.\nShare your favorite song with the Web Weekly community! Right now there are no more songs left in the queue; hit reply, share your favorite tunes and keep the Web Weekly juke box going.\nLet's open this week's Web Weekly with some \"pretty wild hacks\"...\nFirst, here's a font that includes syntax highlighting.\nHow does it work? As I understand, the…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-141/",
+          "publishedOn": "2024-09-14T22:00:00.000Z",
+          "wordCount": 2681,
+          "title": "Web Weekly #141 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
           "id": "https://www.stefanjudis.com/today-i-learned/the-order-of-accessible-name-computation-steps/",
           "author": null,
           "description": "I try to be a good web citizen, and keep things accessible. Now, I'm no expert, but there are some things web developers should check at least:\nDo images have (or need) alt text?\nAre links... well, links? And buttons... you guessed it, buttons?\nIs the document outline logical, and are sections grouped by meaningful headings?\nSome elements should also have accessible names, and today I learned a thing or two about them.\nBut first off, what are they — these accessible names?\nAccessible names provide assistive technology users with an element's context and purpose. If a screen reader user focuses a button, the accessible name will tell what this button is about. Good stuff!\nHow can you check an element's accessible name? If you're not a screen reader user, pop open DevTools, and you'll find t…",
