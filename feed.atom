@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-29T01:45:09.009Z</updated>
+    <updated>2024-09-30T01:41:39.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On being a "JavaScript framework developer"... (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/on-being-a-javascript-framework-developer/</id>
+        <link href="https://www.stefanjudis.com/blog/on-being-a-javascript-framework-developer/"/>
+        <updated>2024-09-29T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Creating "vanilla websites" moved out of the mainstream. Today, an entire industry focuses on doing things with a particular framework. And that's only logical.
+Reach for the mainstream framework, and you get developer productivity for free! They say. If you need a new feature, anything is only one npm dependency away.
+Every website I've worked on in the last years (maybe even a decade?) is annoyingly complex (and brittle). Do you need a sticky header — npm install. Do you want to validate a form — npm install. Do you want to show a modal — npm install...
+The result is bloated websites built by framework developers. And you can't blame all the new developers for that. When all the job postings require framework experience, people joining the web dev world focus on becoming framework expert…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Our traffic light-identifying overlords]]></title>
         <id>66ef298922bd5c054bb00ed6</id>

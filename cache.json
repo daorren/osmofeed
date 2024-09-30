@@ -69,6 +69,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/on-being-a-javascript-framework-developer/",
+          "author": null,
+          "description": "Creating \"vanilla websites\" moved out of the mainstream. Today, an entire industry focuses on doing things with a particular framework. And that's only logical.\nReach for the mainstream framework, and you get developer productivity for free! They say. If you need a new feature, anything is only one npm dependency away.\nEvery website I've worked on in the last years (maybe even a decade?) is annoyingly complex (and brittle). Do you need a sticky header — npm install. Do you want to validate a form — npm install. Do you want to show a modal — npm install...\nThe result is bloated websites built by framework developers. And you can't blame all the new developers for that. When all the job postings require framework experience, people joining the web dev world focus on becoming framework expert…",
+          "link": "https://www.stefanjudis.com/blog/on-being-a-javascript-framework-developer/",
+          "publishedOn": "2024-09-29T14:30:00.000Z",
+          "wordCount": 1929,
+          "title": "On being a \"JavaScript framework developer\"... (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:On%20being%20a%20%22JavaScript%20framework%20developer%22.../w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-141/",
           "author": null,
           "description": "Guten Tag! Guten Tag! 👋\n\nDo you know how the LCP metric is calculated? Or when to use display: contents? Or do you wonder when we'll finally be able to style native select elements?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nDirk listens to \"Black Coffee @ Salle Wagram in Paris, France for Cercle\"\nBlack Coffee at this beautiful Salle Wagram in Paris. I like the smile on his face when he notices people getting into the flow.\nShare your favorite song with the Web Weekly community! Right now there are no more songs left in the queue; hit reply, share your favorite tunes and keep the Web Weekly juke box going.\nLet's open this week's Web Weekly with some \"pretty wild hacks\"...\nFirst, here's a font that includes syntax highlighting.\nHow does it work? As I understand, the…",
