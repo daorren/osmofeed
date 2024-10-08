@@ -40,16 +40,6 @@
           "wordCount": 2133,
           "title": "Weekend Reading — Concept of a plan",
           "imageUrl": "https://labnotes.org/content/images/2024/09/image-87-1.png"
-        },
-        {
-          "id": "66d3794d9de07f04c7c801ad",
-          "author": "Assaf Arkin",
-          "description": "This week we learn a new Postgres trick, write JavaScript for MS-DOS, we answer phone calls on our washer, go big on monospace fonts, we teach you how to market, Rickroll our customers, name our wifi Stinky, and cross the street in the modern world, and vote for the Tara Iti.",
-          "link": "https://labnotes.org/weekend-reading-human-slots-machine/",
-          "publishedOn": "2024-09-08T00:04:20.000Z",
-          "wordCount": 2593,
-          "title": "Weekend Reading — Human Slots Machine",
-          "imageUrl": "https://labnotes.org/content/images/2024/09/image-62-1.png"
         }
       ]
     },
@@ -97,16 +87,6 @@
           "wordCount": 1992,
           "title": "The order of accessible name computation steps (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:The%20order%20of%20accessible%20name%20computation%20steps/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/edit-long-shell-commands-in-your-usdeditor/",
-          "author": null,
-          "description": "If you're wrangling long shell commands, you know that tweaking parameters can be a bit of a pain. Especially when your command spans multiple lines and includes line breaks, you must be careful not to lose your changes. Press one key too much, and you're shuffling through your shell history and your current changes will be gone.\nBut today I learned that there's hope. If you want to edit an already typed command in your favorite editor, you can press ctrl + x followed by ctrl + e.\nThis combination triggers the so-called edit-and-execute-command, which then creates a temporary file, opens it in the editor defined in your shell's $EDITOR variable, and when you save and close this file — your terminal command will be updated. Pretty magical!\nEditing of a command using `ctrl + x` and `ctrl + e`\n      \n    \nIf VS Code is your daily driver, I tested the shortcut with EDITOR=code, but it didn't work on my machine.\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/edit-long-shell-commands-in-your-usdeditor/",
-          "publishedOn": "2024-09-07T22:00:00.000Z",
-          "wordCount": 1732,
-          "title": "A shortcut to edit long shell commands in your $EDITOR (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20shortcut%20to%20edit%20long%20shell%20commands%20in%20your%20%24EDITOR/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
