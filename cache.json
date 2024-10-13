@@ -49,6 +49,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/processes-and-rules-make-code-review-less-intimidating/",
+          "author": null,
+          "description": "Code reviews are, by nature, intimidating. Sometimes even brutal. If you've been in the game for long enough, you probably experienced the following: you worked hard on a feature, you're proud of yourself and open the PR to be praised and land your changes, and then... it rains comments, suggestions and nitpicks. And if it's really bad, you're forced to take multiple feedback and clean-up rounds. It sucks.\nGetting open and constructive feedback is part of the game, though. Only teamwork enables shipping the best code to prod. As a result, everybody needs to learn to put ego aside. It took me ages to disconnect and respect that my code changes aren't me. It's surprising, but people still like me even though they're tearing my beautiful code apart in front of my eyes. It's wild, isn't it?\nSt…",
+          "link": "https://www.stefanjudis.com/blog/processes-and-rules-make-code-review-less-intimidating/",
+          "publishedOn": "2024-10-12T11:00:00.000Z",
+          "wordCount": 1915,
+          "title": "Processes and rules make code review less intimidating (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Processes%20and%20rules%20make%20code%20review%20less%20intimidating/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-142/",
           "author": null,
           "description": "Guten Tag! Guten Tag! 👋\n\nDo you know that we might be able to transition to height: auto soon? Or what web features are now safe to use with the recent Safari 18 release? Ooooor… do you think the new QUERY HTTP method is a good idea?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nDariusz listens to \"RAZ DWA TRZY - Trudno nie wierzyć w nic\":\nThere are two unconventional instruments used in the recording. One is an African rainstick, imitating the sound of rain. The second, is an electric guitar with a soundbox, which makes the notes hit just differently.\nWhat I love the most is the guitar and all the sounds blending together that make you want to just close your eyes and relax.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are t…",
@@ -77,16 +87,6 @@
           "wordCount": 2681,
           "title": "Web Weekly #141 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/the-order-of-accessible-name-computation-steps/",
-          "author": null,
-          "description": "I try to be a good web citizen, and keep things accessible. Now, I'm no expert, but there are some things web developers should check at least:\nDo images have (or need) alt text?\nAre links... well, links? And buttons... you guessed it, buttons?\nIs the document outline logical, and are sections grouped by meaningful headings?\nSome elements should also have accessible names, and today I learned a thing or two about them.\nBut first off, what are they — these accessible names?\nAccessible names provide assistive technology users with an element's context and purpose. If a screen reader user focuses a button, the accessible name will tell what this button is about. Good stuff!\nHow can you check an element's accessible name? If you're not a screen reader user, pop open DevTools, and you'll find t…",
-          "link": "https://www.stefanjudis.com/today-i-learned/the-order-of-accessible-name-computation-steps/",
-          "publishedOn": "2024-09-12T22:00:00.000Z",
-          "wordCount": 1992,
-          "title": "The order of accessible name computation steps (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:The%20order%20of%20accessible%20name%20computation%20steps/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
