@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-20T01:45:52.477Z</updated>
+    <updated>2024-10-21T01:41:16.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Notes on the vanishing .io toplevel domain (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/notes-on-the-vanishing-io-toplevel-domain/</id>
+        <link href="https://www.stefanjudis.com/blog/notes-on-the-vanishing-io-toplevel-domain/"/>
+        <updated>2024-10-20T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Did you register .io domains?
+I mainly hold a few .dev, .email and .com domains (these are Generic Top Level Domains (gTLD)). There are also some .des in the bucket (I'm based in Germany) — but I don't own an .io.
+.io (like .de) is a country code domain (ccTLD) representing the British Indian Ocean Territory with the country code IO. And there's news: On October 3, the UK decided to give up the sovereignty of the Chagos Islands to Mauritius. The IO territory represented by the .io domain will cease to exist. What will happen with the domain in this case?
+Theoretically, the Internet Assigned Numbers Authority (IANA) defines strict rules to phase out a ccTLD once a region, country or territory no longer exists. And it wouldn't be the first time this happens.
+.cs (Czechoslovakia), .zr (Zaire) and .tp (East Timor) were removed and eventually phased out to disappear from the internet. But there are also exceptions. .su (Union of Soviet Socialist Republics) is still working (even though it is primarily used for sketchy stuff).
+What will happen with .io then?
+Honestly, I'm skeptical that .io domains will disappear because the tech world is too involved — github.io, google.io, codepen.io, ... There are probably thousands of domains registered by very influential tech people and companies. If you registered some .ios, I wouldn't freak out. Yet...
+But this problem teaches a valuable lesson: registering a domain is different from owning a domain. And as wild as it sounds, relying on a country to exist for your domains isn't the best idea. And it isn't only .io: there's also the popular .ai (Anguilla), .ly (Libya), .me (Montenegro), or .tv (Tuvalu). Not too long ago, many people, including Wes Bos, lost their .af (Afghanistan) domain without notice.
+So, for me, I'll stick to generic domains. There are enough great ones that don't rely on some countries to exist. But if you own some .ios — it's probably a good idea to think of an action plan.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set the default time zone in Node.js (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/set-the-default-time-zone-in-node-js/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/set-the-default-time-zone-in-node-js/"/>
+        <updated>2024-10-19T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I've been dabbling with end-to-end testing time zones the other day and discovered that setting a browser time zone is reasonably straightforward in Playwright. Setting a browser time zone wasn't enough, though.
+Testing my time zone aware UI also required setting a time zone in the running Node.js process to write correct assertions. How can you set time zones in Node.js?
+Set a time zone via the TZ environment variable
+
+By default, Node.js reuses the time zone set in your operating system. To access the default time zone, use JavaScript's Intl object.
+const date = new Date();
+console.log(Intl.DateTimeFormat().resolvedOptions().timeZone); 
+// 'Europe/Berlin'
+console.log(date.toString());
+// Sun Oct 20 2024 11:50:24 GMT+0200 (Central European Summer Time)
+
+To change the used Node.js time zon…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Processes and rules make code review less intimidating (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/processes-and-rules-make-code-review-less-intimidating/</id>
