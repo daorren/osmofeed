@@ -2,10 +2,151 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-28T01:43:02.353Z</updated>
+    <updated>2024-10-29T01:41:13.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #144 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-144/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-144/"/>
+        <updated>2024-10-28T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Do you know there's a new web component to render browser support stats? Or have you ever used display: flow-root? And what's your take on text fragment links?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+Pablo listens to "Modeselektor feat. Catnapp - Dating is in China":
+I love electronic music and Modeselektor is one of my favorite music groups.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are two more songs left in the queue.
+I'll keep this week's intro short because I'm currently vacationing in the 🇨🇿 Czech Republic.
+#mountainsAreCool
+So, here's a quick mini update: I've been on Mastodon for a while and now entered Bluesky. It feels good but lonely — if you're around, come and say hi!
+And that'…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A web component to show browser support and baseline status (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/browser-support-baseline-web-component/</id>
+        <link href="https://www.stefanjudis.com/blog/browser-support-baseline-web-component/"/>
+        <updated>2024-10-28T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[My blog includes browser support information for a while.
+
+        
+MDN Compat Data (source)
+Browser support info for Relative color() syntax 
+              
+                
+
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                
+
+                        
+                        119
+                        
+                      
+                        
+                        119
+                        
+                      
+                        
+                        128
+                        
+                      
+                        
+                        128
+                        
+                      
+                        
+                        16.4
+                        
+                      
+                        
+                        16.4
+                        
+                      
+                        
+                        25.0
+                        
+                      
+                        
+                        119
+                        
+                      
+                
+
+
+It's hand-made, and the data is fetched from MDN's browser-compat-data repo whenever I deploy my site. So it's always up-to-date.
+I've always wanted to open source it properly, but never made it to it.
+But now there's news for the bloggers: the W3C WebDX Community Group is doing some behind-the-scenes work and just released a web component to show browser support and baseline status.
+<baseline-status featureId="relative-color"></baseline-status>
+
+
+Not sure why no one is talking about this, but how freakin' cool is this?!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to search for strings in Git commit additions or deletions (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/how-to-search-for-strings-in-git-commit-additions-or-deletions/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/how-to-search-for-strings-in-git-commit-additions-or-deletions/"/>
+        <updated>2024-10-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You've probably run into this problem a few times: you're working on a feature and discover a code section that doesn't make sense to you. There's no context, no comments, no help — it's just you and these mysterious lines staring right back at you.
+// when was this added? 👇
+if (someVar === 1.32) {
+  // ...
+}
+
+You try to use git blame to learn more about the mysterious code, but recently applied code style changes and refactorings hide the commit when these lines have entered the code base. Looking at the file history isn't of great help either because the code base is old, and this particular file is very busy.
+Today I learned that the Git log command includes a -S flag to help with this exact problem.
+# search for a string in file additions or deletions
+git log -S 'if (someVar === 1.32)'
+commit 08f579675fc62c63cd182b580dc80fac53b02526
+Author: stefan judis <stefanjudis@gmail.com>
+Date:   Sun Nov 28 20:06:04 2021 +0100
+
+  developing a mysterious feature
+
+-S scans all commit additions and deletions, looking for your defined substring. So, if you're looking for a weird-looking variable or unique condition, you'll find the commit that added it quickly. git log -S is pretty neat!
+Big thanks go to Alex Harri, who shared the flag and some more advanced Git -S combinations:
+# start with the oldest commits first
+git log -S "YOUR STRING" --reverse
+
+# only show commit hash and message
+git log -S "YOUR STRING" --oneline
+
+Happy commit searching!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Voting time!]]></title>
         <id>66f85bc3b7ed5504c9b123de</id>
@@ -127,20 +268,6 @@ Every website I've worked on in the last years (maybe even a decade?) is annoyin
 The result is bloated websites built by framework developers. And you can't blame all the new developers for that. When all the job postings require framework experience, people joining the web dev world focus on becoming framework expert…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Our traffic light-identifying overlords]]></title>
-        <id>66ef298922bd5c054bb00ed6</id>
-        <link href="https://labnotes.org/weekend-reading-our-traffic-light-identifying-overlords/"/>
-        <updated>2024-09-28T19:38:45.000Z</updated>
-        <summary type="html"><![CDATA[How to respond to your weird neighbor’s Drumph sign.
-Tech Stuff
-Mac Firewall Apps When you don't want apps broadcasting your every move out to the world: Little Snitch, LuLu, Radio Silence, and Lockdown Privacy Desktop.
-
-ben-n93/SQL-tips-and-tricks These are really good tricks if you don&]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>

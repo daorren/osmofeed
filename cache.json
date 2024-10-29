@@ -20,16 +20,6 @@
           "wordCount": 2098,
           "title": "Weekend Reading — Voting time!",
           "imageUrl": "https://labnotes.org/content/images/2024/10/halloween-humor-v0-m8gdp15avuv91.jpg.webp"
-        },
-        {
-          "id": "66ef298922bd5c054bb00ed6",
-          "author": "Assaf Arkin",
-          "description": "How to respond to your weird neighbor’s Drumph sign.\nTech Stuff\nMac Firewall Apps When you don't want apps broadcasting your every move out to the world: Little Snitch, LuLu, Radio Silence, and Lockdown Privacy Desktop.\n\nben-n93/SQL-tips-and-tricks These are really good tricks if you don&",
-          "link": "https://labnotes.org/weekend-reading-our-traffic-light-identifying-overlords/",
-          "publishedOn": "2024-09-28T19:38:45.000Z",
-          "wordCount": 2508,
-          "title": "Weekend Reading — Our traffic light-identifying overlords",
-          "imageUrl": "https://labnotes.org/content/images/2024/09/image-186-1.png"
         }
       ]
     },
@@ -38,6 +28,36 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-144/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nDo you know there's a new web component to render browser support stats? Or have you ever used display: flow-root? And what's your take on text fragment links?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nPablo listens to \"Modeselektor feat. Catnapp - Dating is in China\":\nI love electronic music and Modeselektor is one of my favorite music groups.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are two more songs left in the queue.\nI'll keep this week's intro short because I'm currently vacationing in the 🇨🇿 Czech Republic.\n#mountainsAreCool\nSo, here's a quick mini update: I've been on Mastodon for a while and now entered Bluesky. It feels good but lonely — if you're around, come and say hi!\nAnd that'…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-144/",
+          "publishedOn": "2024-10-28T17:00:00.000Z",
+          "wordCount": 2665,
+          "title": "Web Weekly #144 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
+          "id": "https://www.stefanjudis.com/blog/browser-support-baseline-web-component/",
+          "author": null,
+          "description": "My blog includes browser support information for a while.\n\n        \nMDN Compat Data (source)\nBrowser support info for Relative color() syntax \n              \n                \n\n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                \n\n                        \n                        119\n                        \n                      \n                        \n                        119\n                        \n                      \n                        \n                        128\n                        \n                      \n                        \n                        128\n                        \n                      \n                        \n                        16.4\n                        \n                      \n                        \n                        16.4\n                        \n                      \n                        \n                        25.0\n                        \n                      \n                        \n                        119\n                        \n                      \n                \n\n\nIt's hand-made, and the data is fetched from MDN's browser-compat-data repo whenever I deploy my site. So it's always up-to-date.\nI've always wanted to open source it properly, but never made it to it.\nBut now there's news for the bloggers: the W3C WebDX Community Group is doing some behind-the-scenes work and just released a web component to show browser support and baseline status.\n<baseline-status featureId=\"relative-color\"></baseline-status>\n\n\nNot sure why no one is talking about this, but how freakin' cool is this?!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/blog/browser-support-baseline-web-component/",
+          "publishedOn": "2024-10-28T13:00:00.000Z",
+          "wordCount": 1641,
+          "title": "A web component to show browser support and baseline status (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20web%20component%20to%20show%20browser%20support%20and%20baseline%20status/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/how-to-search-for-strings-in-git-commit-additions-or-deletions/",
+          "author": null,
+          "description": "You've probably run into this problem a few times: you're working on a feature and discover a code section that doesn't make sense to you. There's no context, no comments, no help — it's just you and these mysterious lines staring right back at you.\n// when was this added? 👇\nif (someVar === 1.32) {\n  // ...\n}\n\nYou try to use git blame to learn more about the mysterious code, but recently applied code style changes and refactorings hide the commit when these lines have entered the code base. Looking at the file history isn't of great help either because the code base is old, and this particular file is very busy.\nToday I learned that the Git log command includes a -S flag to help with this exact problem.\n# search for a string in file additions or deletions\ngit log -S 'if (someVar === 1.32)'\ncommit 08f579675fc62c63cd182b580dc80fac53b02526\nAuthor: stefan judis <stefanjudis@gmail.com>\nDate:   Sun Nov 28 20:06:04 2021 +0100\n\n  developing a mysterious feature\n\n-S scans all commit additions and deletions, looking for your defined substring. So, if you're looking for a weird-looking variable or unique condition, you'll find the commit that added it quickly. git log -S is pretty neat!\nBig thanks go to Alex Harri, who shared the flag and some more advanced Git -S combinations:\n# start with the oldest commits first\ngit log -S \"YOUR STRING\" --reverse\n\n# only show commit hash and message\ngit log -S \"YOUR STRING\" --oneline\n\nHappy commit searching!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/how-to-search-for-strings-in-git-commit-additions-or-deletions/",
+          "publishedOn": "2024-10-28T11:00:00.000Z",
+          "wordCount": 1809,
+          "title": "How to search for strings in Git commit additions or deletions (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20search%20for%20strings%20in%20Git%20commit%20additions%20or%20deletions/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-143/",
           "author": null,
