@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-29T01:41:13.110Z</updated>
+    <updated>2024-10-30T01:39:59.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -236,36 +236,6 @@ To change the used Node.js time zon…]]></summary>
         <summary type="html"><![CDATA[Code reviews are, by nature, intimidating. Sometimes even brutal. If you've been in the game for long enough, you probably experienced the following: you worked hard on a feature, you're proud of yourself and open the PR to be praised and land your changes, and then... it rains comments, suggestions and nitpicks. And if it's really bad, you're forced to take multiple feedback and clean-up rounds. It sucks.
 Getting open and constructive feedback is part of the game, though. Only teamwork enables shipping the best code to prod. As a result, everybody needs to learn to put ego aside. It took me ages to disconnect and respect that my code changes aren't me. It's surprising, but people still like me even though they're tearing my beautiful code apart in front of my eyes. It's wild, isn't it?
 St…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #142 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-142/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-142/"/>
-        <updated>2024-09-29T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
-
-Do you know that we might be able to transition to height: auto soon? Or what web features are now safe to use with the recent Safari 18 release? Ooooor… do you think the new QUERY HTTP method is a good idea?
-Turn on the Web Weekly tune and find all the answers below. Enjoy!
-Dariusz listens to "RAZ DWA TRZY - Trudno nie wierzyć w nic":
-There are two unconventional instruments used in the recording. One is an African rainstick, imitating the sound of rain. The second, is an electric guitar with a soundbox, which makes the notes hit just differently.
-What I love the most is the guitar and all the sounds blending together that make you want to just close your eyes and relax.
-Do you want to share your favorite song with the Web Weekly community? Hit reply; there are t…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On being a "JavaScript framework developer"... (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/on-being-a-javascript-framework-developer/</id>
-        <link href="https://www.stefanjudis.com/blog/on-being-a-javascript-framework-developer/"/>
-        <updated>2024-09-29T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Creating "vanilla websites" moved out of the mainstream. Today, an entire industry focuses on doing things with a particular framework. And that's only logical.
-Reach for the mainstream framework, and you get developer productivity for free! They say. If you need a new feature, anything is only one npm dependency away.
-Every website I've worked on in the last years (maybe even a decade?) is annoyingly complex (and brittle). Do you need a sticky header — npm install. Do you want to validate a form — npm install. Do you want to show a modal — npm install...
-The result is bloated websites built by framework developers. And you can't blame all the new developers for that. When all the job postings require framework experience, people joining the web dev world focus on becoming framework expert…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>
