@@ -39,6 +39,26 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/today-i-learned/earlier-function-parameters-are-available-to-default-parameters/",
+          "author": null,
+          "description": "Here's Alex MacArthur with a nice JavaScript fun fact: when using JavaScript default parameters, earlier parameters are available to later default parameters.\nLet's look at some code from his post because the previous sentence is a mouthful.\n// reuse `arg1` and set it as `arg2`\nfunction myFunc(arg1, arg2 = arg1) {\n  console.log(arg1, arg2);\n}\n\nmyFunc(\"arg1!\"); // \"arg1!\" \"arg1!\"\n\nThat's pretty cool, but when would I use this?\nAlex describes using this behavior to make a JavaScript class more testable. Fair, but I rarely use classes paired with dependency injection, so this example isn't convincing for me.\nHe also came up with the least readable reduce function at all times.\nconst numbers = [1, 2, 3];\n\n// don't do this 😅\nconst total = numbers.reduce(\n  (acc, value, _index, _array, result = acc + value) => result\n);\n\nBut the post's comments include some gems.\n// Make an image a square if not defined otherwise \n// Kudos to Colum\nfunction Image(width, height = width) {}\n\n// Find a string with defined boundaries\n// if no boundaries are defined, search the entire string\n// Kudos to Axel Rauschmayer\nfunction findIn(str, start = 0, end = str.length) {}\n\nGreat examples! I'm convinced and will put reusable function parameters into my JavaScript toolbelt.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/earlier-function-parameters-are-available-to-default-parameters/",
+          "publishedOn": "2024-11-03T19:00:00.000Z",
+          "wordCount": 1774,
+          "title": "Earlier function parameters are available to default parameters (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Earlier%20function%20parameters%20are%20available%20to%20default%20parameters/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/navigate-shell-history-with-ctrl-keys/",
+          "author": null,
+          "description": "I'm terrible at optimizing my keyboard productivity. Occassionally, I try to save some keystrokes beyond the shortcuts I use every day... but learning and memorizing new key combinations is just very hard.\nToday, I discovered a neat little trick that will hopefully make it into my default strokes.\nNavigate the shell history with the ctrl keys\n\nYou probably know you can access all your previously run commands with the arrow keys (↑ / ↓). This functionality works in all shell environments I've used so far. There's nothing wrong with skipping through your history this way, except that your hands have to move away from their primary keyboard position (asdf / jkl;) to reach for the arrows.\nToday I learned, that most shells in their default configuration (I tested bash, zsh and zsh with oh-my-zs…",
+          "link": "https://www.stefanjudis.com/today-i-learned/navigate-shell-history-with-ctrl-keys/",
+          "publishedOn": "2024-11-03T15:00:00.000Z",
+          "wordCount": 1984,
+          "title": "Navigate your shell history with CTRL keys (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Navigate%20your%20shell%20history%20with%20CTRL%20keys/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-144/",
           "author": null,
           "description": "Guten Tag! Guten Tag! 👋\n\nDo you know there's a new web component to render browser support stats? Or have you ever used display: flow-root? And what's your take on text fragment links?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nPablo listens to \"Modeselektor feat. Catnapp - Dating is in China\":\nI love electronic music and Modeselektor is one of my favorite music groups.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are two more songs left in the queue.\nI'll keep this week's intro short because I'm currently vacationing in the 🇨🇿 Czech Republic.\n#mountainsAreCool\nSo, here's a quick mini update: I've been on Mastodon for a while and now entered Bluesky. It feels good but lonely — if you're around, come and say hi!\nAnd that'…",
