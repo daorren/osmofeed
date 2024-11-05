@@ -39,6 +39,26 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-145/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nHave you heard of width: stretch? Do you include baseline widgets on your blog? And do you optimize your sites' network waterfall with fetchpriority?\nTurn on the Web Weekly tune and find the usual web dev goodness below. Enjoy!\nChristopher listens to \"Flume - SKY SKY 1.3\"\nI love the typical Flume style and the beginning of the singing which makes me always smile. It never fails to make me happy!\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there is only one more song left in the queue. 😱\nDo you use CSS resets? I admit I'm usually just YOLO'ing it because the inconsistencies across browsers aren't so bad these days. But two CSS reset posts this week taught me some things.\nFirst, here's Mayank advocating for using a @layer reset…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-145/",
+          "publishedOn": "2024-11-04T21:00:00.000Z",
+          "wordCount": 2640,
+          "title": "Web Weekly #145 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
+          "id": "https://www.stefanjudis.com/blog/an-api-to-access-browser-support-and-baseline-data/",
+          "author": null,
+          "description": "I blogged about this new web component from the W3C WebDX Community Group the other day.\n\nI love everything about this component. Load some JS, drop in the custom elements, and you're done with including browser support info on your blog!\nBut! (there's, of course, a but...)\nWhile the web component approach is great, this solution relies on client-side JavaScript talking to a Google server. To avoid the JS and HTTP dependency, I fetch compat data at build time and render an HTML-only compat widget on this blog.\n\n        \nMDN Compat Data (source)\nBrowser support info for Relative color() syntax \n              \n                \n\n                        \n                      \n                        \n                      \n                        \n                      \n                      …",
+          "link": "https://www.stefanjudis.com/blog/an-api-to-access-browser-support-and-baseline-data/",
+          "publishedOn": "2024-11-04T18:00:00.000Z",
+          "wordCount": 1936,
+          "title": "An API to access browser support and baseline data (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:An%20API%20to%20access%20browser%20support%20and%20baseline%20data/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/today-i-learned/earlier-function-parameters-are-available-to-default-parameters/",
           "author": null,
           "description": "Here's Alex MacArthur with a nice JavaScript fun fact: when using JavaScript default parameters, earlier parameters are available to later default parameters.\nLet's look at some code from his post because the previous sentence is a mouthful.\n// reuse `arg1` and set it as `arg2`\nfunction myFunc(arg1, arg2 = arg1) {\n  console.log(arg1, arg2);\n}\n\nmyFunc(\"arg1!\"); // \"arg1!\" \"arg1!\"\n\nThat's pretty cool, but when would I use this?\nAlex describes using this behavior to make a JavaScript class more testable. Fair, but I rarely use classes paired with dependency injection, so this example isn't convincing for me.\nHe also came up with the least readable reduce function at all times.\nconst numbers = [1, 2, 3];\n\n// don't do this 😅\nconst total = numbers.reduce(\n  (acc, value, _index, _array, result = acc + value) => result\n);\n\nBut the post's comments include some gems.\n// Make an image a square if not defined otherwise \n// Kudos to Colum\nfunction Image(width, height = width) {}\n\n// Find a string with defined boundaries\n// if no boundaries are defined, search the entire string\n// Kudos to Axel Rauschmayer\nfunction findIn(str, start = 0, end = str.length) {}\n\nGreat examples! I'm convinced and will put reusable function parameters into my JavaScript toolbelt.\n\n\n          \n          \n            Reply to Stefan",

@@ -22,6 +22,100 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-11-04 datetime="2024-11-04T21:00:00.000Z">2024-11-04</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-11-04 datetime="2024-11-04T21:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/blog/web-weekly-145/"
+                        open
+                      >
+                        <summary class="article-expander__title">Web Weekly #145 (#blogPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/blog/web-weekly-145/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.stefanjudis.com/newsletter-social.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Guten Tag! Guten Tag! 👋
+
+Have you heard of width: stretch? Do you include baseline widgets on your blog? And do you optimize your sites&#x27; network waterfall with fetchpriority?
+Turn on the Web Weekly tune and find the usual web dev goodness below. Enjoy!
+Christopher listens to &quot;Flume - SKY SKY 1.3&quot;
+I love the typical Flume style and the beginning of the singing which makes me always smile. It never fails to make me happy!
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there is only one more song left in the queue. 😱
+Do you use CSS resets? I admit I&#x27;m usually just YOLO&#x27;ing it because the inconsistencies across browsers aren&#x27;t so bad these days. But two CSS reset posts this week taught me some things.
+First, here&#x27;s Mayank advocating for using a @layer reset…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/blog/an-api-to-access-browser-support-and-baseline-data/"
+                        open
+                      >
+                        <summary class="article-expander__title">An API to access browser support and baseline data (#blogPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/blog/an-api-to-access-browser-support-and-baseline-data/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:An%20API%20to%20access%20browser%20support%20and%20baseline%20data/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>I blogged about this new web component from the W3C WebDX Community Group the other day.
+
+I love everything about this component. Load some JS, drop in the custom elements, and you&#x27;re done with including browser support info on your blog!
+But! (there&#x27;s, of course, a but...)
+While the web component approach is great, this solution relies on client-side JavaScript talking to a Google server. To avoid the JS and HTTP dependency, I fetch compat data at build time and render an HTML-only compat widget on this blog.
+
+        
+MDN Compat Data (source)
+Browser support info for Relative color() syntax 
+              
+                
+
+                        
+                      
+                        
+                      
+                        
+                      
+                      …</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-11-03 datetime="2024-11-03T19:00:00.000Z">2024-11-03</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-11-03 datetime="2024-11-03T19:00:00.000Z"></time>
           </button>
@@ -612,8 +706,8 @@ St…</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/11656645458">
-        <time id="build-timestamp" datetime="2024-11-04T01:41:32.554Z">2024-11-04T01:41:32.554Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/11675908990">
+        <time id="build-timestamp" datetime="2024-11-05T01:37:30.342Z">2024-11-05T01:37:30.342Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
