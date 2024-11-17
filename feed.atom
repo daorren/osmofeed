@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-16T01:42:01.880Z</updated>
+    <updated>2024-11-17T01:48:23.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — The future is reduced for quick sale]]></title>
+        <id>672fb751b6f44e04e3084917</id>
+        <link href="https://labnotes.org/weekend-reading-9/"/>
+        <updated>2024-11-16T19:53:51.000Z</updated>
+        <summary type="html"><![CDATA[Sure is
+Tech Stuff
+What I Wish Someone Told Me About Postgres If you’re just starting with Postgres, make sure to not repeat past mistakes.
+
+No GPS required: our app can now locate underground trains Yes! “Our offline motion detection shows where you are between stations, and]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hide object properties with JavaScript symbols (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/hide-object-properties-with-javascript-symbols/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/hide-object-properties-with-javascript-symbols/"/>
+        <updated>2024-11-15T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I've just read Exploring JavaScript Symbols, and it's quite good. It includes a tiny JavaScript nugget that I wasn't very aware of.
+JS symbols are an underrated language feature that I probably should use for more things. And let alone the nicely nerdy well-known symbols that help you to really understand how JavaScript works under the hood.
+One of these symbol use cases is hiding properties in a good old JavaScript objects.
+const lastTouched = Symbol('lastTouched');
+
+const record = {
+  name: 'schnitzel'
+  // use a symbol as a property key to hide the 
+  // property from "standard" object operations
+  [lastTouched]: 'right now',
+};
+
+// access the `lastTouched`
+console.log(record);              // Object { name: "schnitzel", Symbol("lastTouched"): "right now" }
+console.log(record[lastTouched]); // 'right now'
+
+// don't worry about the property leaking somewhere
+Object.keys(record);                          // Array [ 'name' ]
+Object.entries(record);                       // Array [ Array [ "name", "schnitzel" ] ]
+Object.values(record);                        // Array [ Array [ "schnitzel" ] ]
+JSON.stringify(record);                       // '{ "name": "schnitzel" }'
+for (let key in record) { console.log(key); } // "name"
+
+A symbol property won't appear in Object.keys and friends, will be ignored in JSON.stringify and is safely hidden in for-in loops. Pretty nice!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to open a local file from the URL bar in VS Code (#tilPost)]]></title>
         <id>https://www.stefanjudis.com/today-i-learned/open-a-local-file-url-bar-in-vs-code/</id>

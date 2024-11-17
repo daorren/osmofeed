@@ -22,6 +22,134 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-11-16 datetime="2024-11-16T19:53:51.000Z">2024-11-16</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-11-16 datetime="2024-11-16T19:53:51.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Labnotes (by Assaf Arkin)</button>
+                  <a class="source-heading__link" href="https://labnotes.org/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="672fb751b6f44e04e3084917"
+                        open
+                      >
+                        <summary class="article-expander__title">Weekend Reading — The future is reduced for quick sale</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://labnotes.org/weekend-reading-9/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://labnotes.org/content/images/2024/11/image-136-1.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Sure is
+Tech Stuff
+What I Wish Someone Told Me About Postgres If you’re just starting with Postgres, make sure to not repeat past mistakes.
+
+No GPS required: our app can now locate underground trains Yes! “Our offline motion detection shows where you are between stations, and</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-11-15 datetime="2024-11-15T23:00:00.000Z">2024-11-15</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-11-15 datetime="2024-11-15T23:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/today-i-learned/hide-object-properties-with-javascript-symbols/"
+                        open
+                      >
+                        <summary class="article-expander__title">Hide object properties with JavaScript symbols (#tilPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/hide-object-properties-with-javascript-symbols/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Hide%20object%20properties%20with%20JavaScript%20symbols/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>I&#x27;ve just read Exploring JavaScript Symbols, and it&#x27;s quite good. It includes a tiny JavaScript nugget that I wasn&#x27;t very aware of.
+JS symbols are an underrated language feature that I probably should use for more things. And let alone the nicely nerdy well-known symbols that help you to really understand how JavaScript works under the hood.
+One of these symbol use cases is hiding properties in a good old JavaScript objects.
+const lastTouched &#x3D; Symbol(&#x27;lastTouched&#x27;);
+
+const record &#x3D; {
+  name: &#x27;schnitzel&#x27;
+  // use a symbol as a property key to hide the 
+  // property from &quot;standard&quot; object operations
+  [lastTouched]: &#x27;right now&#x27;,
+};
+
+// access the &#x60;lastTouched&#x60;
+console.log(record);              // Object { name: &quot;schnitzel&quot;, Symbol(&quot;lastTouched&quot;): &quot;right now&quot; }
+console.log(record[lastTouched]); // &#x27;right now&#x27;
+
+// don&#x27;t worry about the property leaking somewhere
+Object.keys(record);                          // Array [ &#x27;name&#x27; ]
+Object.entries(record);                       // Array [ Array [ &quot;name&quot;, &quot;schnitzel&quot; ] ]
+Object.values(record);                        // Array [ Array [ &quot;schnitzel&quot; ] ]
+JSON.stringify(record);                       // &#x27;{ &quot;name&quot;: &quot;schnitzel&quot; }&#x27;
+for (let key in record) { console.log(key); } // &quot;name&quot;
+
+A symbol property won&#x27;t appear in Object.keys and friends, will be ignored in JSON.stringify and is safely hidden in for-in loops. Pretty nice!
+
+
+          
+          
+            Reply to Stefan</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-11-10 datetime="2024-11-10T23:00:00.000Z">2024-11-10</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-11-10 datetime="2024-11-10T23:00:00.000Z"></time>
           </button>
@@ -783,8 +911,8 @@ To change the used Node.js time zon…</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/11866098139">
-        <time id="build-timestamp" datetime="2024-11-16T01:42:01.856Z">2024-11-16T01:42:01.856Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/11874958007">
+        <time id="build-timestamp" datetime="2024-11-17T01:48:23.396Z">2024-11-17T01:48:23.396Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
