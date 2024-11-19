@@ -812,98 +812,6 @@ The man command, which you can use to access a programs manual, comes with an AB
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.stefanjudis.com/blog/notes-on-the-vanishing-io-toplevel-domain/"
-                        open
-                      >
-                        <summary class="article-expander__title">Notes on the vanishing .io toplevel domain (#blogPost)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/blog/notes-on-the-vanishing-io-toplevel-domain/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Notes%20on%20the%20vanishing%20.io%20toplevel%20domain/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Did you register .io domains?
-I mainly hold a few .dev, .email and .com domains (these are Generic Top Level Domains (gTLD)). There are also some .des in the bucket (I&#x27;m based in Germany) — but I don&#x27;t own an .io.
-.io (like .de) is a country code domain (ccTLD) representing the British Indian Ocean Territory with the country code IO. And there&#x27;s news: On October 3, the UK decided to give up the sovereignty of the Chagos Islands to Mauritius. The IO territory represented by the .io domain will cease to exist. What will happen with the domain in this case?
-Theoretically, the Internet Assigned Numbers Authority (IANA) defines strict rules to phase out a ccTLD once a region, country or territory no longer exists. And it wouldn&#x27;t be the first time this happens.
-.cs (Czechoslovakia), .zr (Zaire) and .tp (East Timor) were removed and eventually phased out to disappear from the internet. But there are also exceptions. .su (Union of Soviet Socialist Republics) is still working (even though it is primarily used for sketchy stuff).
-What will happen with .io then?
-Honestly, I&#x27;m skeptical that .io domains will disappear because the tech world is too involved — github.io, google.io, codepen.io, ... There are probably thousands of domains registered by very influential tech people and companies. If you registered some .ios, I wouldn&#x27;t freak out. Yet...
-But this problem teaches a valuable lesson: registering a domain is different from owning a domain. And as wild as it sounds, relying on a country to exist for your domains isn&#x27;t the best idea. And it isn&#x27;t only .io: there&#x27;s also the popular .ai (Anguilla), .ly (Libya), .me (Montenegro), or .tv (Tuvalu). Not too long ago, many people, including Wes Bos, lost their .af (Afghanistan) domain without notice.
-So, for me, I&#x27;ll stick to generic domains. There are enough great ones that don&#x27;t rely on some countries to exist. But if you own some .ios — it&#x27;s probably a good idea to think of an action plan.
-
-
-          
-          
-            Reply to Stefan</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-10-19 datetime="2024-10-19T22:00:00.000Z">2024-10-19</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-10-19 datetime="2024-10-19T22:00:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Stefan Judis Web Development</button>
-                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.stefanjudis.com/today-i-learned/set-the-default-time-zone-in-node-js/"
-                        open
-                      >
-                        <summary class="article-expander__title">Set the default time zone in Node.js (#tilPost)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/set-the-default-time-zone-in-node-js/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Set%20the%20default%20time%20zone%20in%20Node.js/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>I&#x27;ve been dabbling with end-to-end testing time zones the other day and discovered that setting a browser time zone is reasonably straightforward in Playwright. Setting a browser time zone wasn&#x27;t enough, though.
-Testing my time zone aware UI also required setting a time zone in the running Node.js process to write correct assertions. How can you set time zones in Node.js?
-Set a time zone via the TZ environment variable
-
-By default, Node.js reuses the time zone set in your operating system. To access the default time zone, use JavaScript&#x27;s Intl object.
-const date &#x3D; new Date();
-console.log(Intl.DateTimeFormat().resolvedOptions().timeZone); 
-// &#x27;Europe/Berlin&#x27;
-console.log(date.toString());
-// Sun Oct 20 2024 11:50:24 GMT+0200 (Central European Summer Time)
-
-To change the used Node.js time zon…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -911,8 +819,8 @@ To change the used Node.js time zon…</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/11884267448">
-        <time id="build-timestamp" datetime="2024-11-18T01:46:24.998Z">2024-11-18T01:46:24.998Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/11904598464">
+        <time id="build-timestamp" datetime="2024-11-19T01:44:08.712Z">2024-11-19T01:44:08.712Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
