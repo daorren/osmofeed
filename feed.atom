@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-23T01:41:12.226Z</updated>
+    <updated>2024-11-24T01:49:53.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — More time to write]]></title>
+        <id>6738f8c648a62ba6db410b0d</id>
+        <link href="https://labnotes.org/weekend-reading-more-time-to-write/"/>
+        <updated>2024-11-24T01:11:55.000Z</updated>
+        <summary type="html"><![CDATA[More Time to Write A fully functional clock that ticks backwards, giving you more time to write.
+Tech Stuff
+Martijn Faassen (FWIW I don’t know how to use any debugger other than console.log)
+People tend to look down on print debugging as it's not using]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — The future is reduced for quick sale]]></title>
         <id>672fb751b6f44e04e3084917</id>
