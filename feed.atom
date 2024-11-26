@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-25T01:46:01.289Z</updated>
+    <updated>2024-11-26T01:44:47.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #146 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-146/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-146/"/>
+        <updated>2024-11-24T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Are you aware that the ::details-content pseudo-element is coming to the web? Or have you used the Picture in Picture API already? And do you know that emojis have different meanings in the world?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+Carlos listens to "Yann Tiersen -- Bagatelle (feat. Dominique A) -- L'Absente":
+I hadn't heard it for a long time and had forgotten how wonderful and emotional it is, almost like a sung poem.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there is only one more song left in the queue.
+This week, I stumbled upon Antoine's portfolio site (disclaimer: there's a lot of motion), and wow! What. A. Beauty!
+I'd love to discover more #badass developer portfolios. If you can think…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — More time to write]]></title>
         <id>6738f8c648a62ba6db410b0d</id>
@@ -376,17 +394,6 @@ Happy commit searching!
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Voting time!]]></title>
-        <id>66f85bc3b7ed5504c9b123de</id>
-        <link href="https://labnotes.org/weekend-reading-8/"/>
-        <updated>2024-10-26T17:02:09.000Z</updated>
-        <summary type="html"><![CDATA[Halloween humor
-Hello and welcome back. If you missed me, I went on a trip for three weeks, so didn't have time to post. But I did enjoy delicious food, beautiful sites, and super fast trains. Now I'm back to posting and this weekend I']]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
