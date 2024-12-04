@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-03T01:47:45.895Z</updated>
+    <updated>2024-12-04T01:48:15.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -195,65 +195,6 @@ Browser support info for Relative color() syntax
                         
                       
                       …]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Earlier function parameters are available to default parameters (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/earlier-function-parameters-are-available-to-default-parameters/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/earlier-function-parameters-are-available-to-default-parameters/"/>
-        <updated>2024-11-03T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here's Alex MacArthur with a nice JavaScript fun fact: when using JavaScript default parameters, earlier parameters are available to later default parameters.
-Let's look at some code from his post because the previous sentence is a mouthful.
-// reuse `arg1` and set it as `arg2`
-function myFunc(arg1, arg2 = arg1) {
-  console.log(arg1, arg2);
-}
-
-myFunc("arg1!"); // "arg1!" "arg1!"
-
-That's pretty cool, but when would I use this?
-Alex describes using this behavior to make a JavaScript class more testable. Fair, but I rarely use classes paired with dependency injection, so this example isn't convincing for me.
-He also came up with the least readable reduce function at all times.
-const numbers = [1, 2, 3];
-
-// don't do this 😅
-const total = numbers.reduce(
-  (acc, value, _index, _array, result = acc + value) => result
-);
-
-But the post's comments include some gems.
-// Make an image a square if not defined otherwise 
-// Kudos to Colum
-function Image(width, height = width) {}
-
-// Find a string with defined boundaries
-// if no boundaries are defined, search the entire string
-// Kudos to Axel Rauschmayer
-function findIn(str, start = 0, end = str.length) {}
-
-Great examples! I'm convinced and will put reusable function parameters into my JavaScript toolbelt.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigate your shell history with CTRL keys (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/navigate-shell-history-with-ctrl-keys/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/navigate-shell-history-with-ctrl-keys/"/>
-        <updated>2024-11-03T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I'm terrible at optimizing my keyboard productivity. Occassionally, I try to save some keystrokes beyond the shortcuts I use every day... but learning and memorizing new key combinations is just very hard.
-Today, I discovered a neat little trick that will hopefully make it into my default strokes.
-Navigate the shell history with the ctrl keys
-
-You probably know you can access all your previously run commands with the arrow keys (↑ / ↓). This functionality works in all shell environments I've used so far. There's nothing wrong with skipping through your history this way, except that your hands have to move away from their primary keyboard position (asdf / jkl;) to reach for the arrows.
-Today I learned, that most shells in their default configuration (I tested bash, zsh and zsh with oh-my-zs…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>
