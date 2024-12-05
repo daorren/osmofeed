@@ -87,26 +87,6 @@
           "wordCount": 1760,
           "title": "How to open a local file from the URL bar in VS Code (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20open%20a%20local%20file%20from%20the%20URL%20bar%20in%20VS%20Code/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-145/",
-          "author": null,
-          "description": "Guten Tag! Guten Tag! 👋\n\nHave you heard of width: stretch? Do you include baseline widgets on your blog? And do you optimize your sites' network waterfall with fetchpriority?\nTurn on the Web Weekly tune and find the usual web dev goodness below. Enjoy!\nChristopher listens to \"Flume - SKY SKY 1.3\"\nI love the typical Flume style and the beginning of the singing which makes me always smile. It never fails to make me happy!\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there is only one more song left in the queue. 😱\nDo you use CSS resets? I admit I'm usually just YOLO'ing it because the inconsistencies across browsers aren't so bad these days. But two CSS reset posts this week taught me some things.\nFirst, here's Mayank advocating for using a @layer reset…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-145/",
-          "publishedOn": "2024-11-04T21:00:00.000Z",
-          "wordCount": 2640,
-          "title": "Web Weekly #145 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/an-api-to-access-browser-support-and-baseline-data/",
-          "author": null,
-          "description": "I blogged about this new web component from the W3C WebDX Community Group the other day.\n\nI love everything about this component. Load some JS, drop in the custom elements, and you're done with including browser support info on your blog!\nBut! (there's, of course, a but...)\nWhile the web component approach is great, this solution relies on client-side JavaScript talking to a Google server. To avoid the JS and HTTP dependency, I fetch compat data at build time and render an HTML-only compat widget on this blog.\n\n        \nMDN Compat Data (source)\nBrowser support info for Relative color() syntax \n              \n                \n\n                        \n                      \n                        \n                      \n                        \n                      \n                      …",
-          "link": "https://www.stefanjudis.com/blog/an-api-to-access-browser-support-and-baseline-data/",
-          "publishedOn": "2024-11-04T18:00:00.000Z",
-          "wordCount": 1936,
-          "title": "An API to access browser support and baseline data (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:An%20API%20to%20access%20browser%20support%20and%20baseline%20data/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
