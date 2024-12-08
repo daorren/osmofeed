@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-07T01:46:03.424Z</updated>
+    <updated>2024-12-08T01:54:40.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Make Orwell Fiction Again]]></title>
+        <id>674b639f70431ce6f588a0f2</id>
+        <link href="https://labnotes.org/weekend-reading-10/"/>
+        <updated>2024-12-07T18:46:20.000Z</updated>
+        <summary type="html"><![CDATA[MostlyHarmless
+Tech Stuff
+colinaut/action-table A web component that allows users to sort/filter a table. Just wrap your table inside <action-table>. So simple and works like a charm.
+
+VineJS A library for validating form data that supports HTML forms and JSON and is optimized for speed and]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Never]]></title>
         <id>67427de680198404d4c3f13c</id>
