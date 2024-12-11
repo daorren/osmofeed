@@ -77,16 +77,6 @@
           "wordCount": 1754,
           "title": "Hide object properties with JavaScript symbols (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Hide%20object%20properties%20with%20JavaScript%20symbols/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/open-a-local-file-url-bar-in-vs-code/",
-          "author": null,
-          "description": "I just discovered the React component click-to-component. The component adds a visual overlay to your React application, allowing you to click on an element and jump right into your code base. Magic!\nObviously, there's some bundling and build magic involved to figure out the component file path, but I wondered how it opens the editor. Is the running server some shell commands?\nNope. All it does is open a URL with the editor's protocol. Here's an example URL that opens a file of my site.\nvscode://file/Users/stefanjudis/Projects/github.com/stefanjudis/stefanjudis-website/index.html\n\nPretty cool! But where's this vscode protocol coming from? On macOS apparently, applications can register URL handlers in the Info.plist file. Here's the responsible part I discovered in my /Applications/Visual Studio Code.app/Contents/Info.plist.\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<!DOCTYPE plist PUBLIC \"-//Apple//DTD PLIST 1.0//EN\" \"http://www.apple.com/DTDs/PropertyList-1.0.dtd\">\n<plist version=\"1.0\">\n  <dict>\n    <key>CFBundleURLTypes</key>\n    <array>\n      <dict>\n        <key>CFBundleTypeRole</key>\n        <string>Viewer</string>\n        <key>CFBundleURLName</key>\n        <string>Visual Studio Code</string>\n        <key>CFBundleURLSchemes</key>\n        <array>\n          <string>vscode</string>\n        </array>\n      </dict>\n    </array>\n  </dict>\n</plist>\n\nHow does it work on Windows? No idea... But if you do, let me know! I'd love to extend this post.\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/open-a-local-file-url-bar-in-vs-code/",
-          "publishedOn": "2024-11-10T23:00:00.000Z",
-          "wordCount": 1760,
-          "title": "How to open a local file from the URL bar in VS Code (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20open%20a%20local%20file%20from%20the%20URL%20bar%20in%20VS%20Code/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
