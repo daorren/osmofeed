@@ -77,16 +77,6 @@
           "wordCount": 2864,
           "title": "Web Weekly #146 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/hide-object-properties-with-javascript-symbols/",
-          "author": null,
-          "description": "I've just read Exploring JavaScript Symbols, and it's quite good. It includes a tiny JavaScript nugget that I wasn't very aware of.\nJS symbols are an underrated language feature that I probably should use for more things. And let alone the nicely nerdy well-known symbols that help you to really understand how JavaScript works under the hood.\nOne of these symbol use cases is hiding properties in a good old JavaScript objects.\nconst lastTouched = Symbol('lastTouched');\n\nconst record = {\n  name: 'schnitzel'\n  // use a symbol as a property key to hide the \n  // property from \"standard\" object operations\n  [lastTouched]: 'right now',\n};\n\n// access the `lastTouched`\nconsole.log(record);              // Object { name: \"schnitzel\", Symbol(\"lastTouched\"): \"right now\" }\nconsole.log(record[lastTouched]); // 'right now'\n\n// don't worry about the property leaking somewhere\nObject.keys(record);                          // Array [ 'name' ]\nObject.entries(record);                       // Array [ Array [ \"name\", \"schnitzel\" ] ]\nObject.values(record);                        // Array [ Array [ \"schnitzel\" ] ]\nJSON.stringify(record);                       // '{ \"name\": \"schnitzel\" }'\nfor (let key in record) { console.log(key); } // \"name\"\n\nA symbol property won't appear in Object.keys and friends, will be ignored in JSON.stringify and is safely hidden in for-in loops. Pretty nice!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/hide-object-properties-with-javascript-symbols/",
-          "publishedOn": "2024-11-15T23:00:00.000Z",
-          "wordCount": 1754,
-          "title": "Hide object properties with JavaScript symbols (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Hide%20object%20properties%20with%20JavaScript%20symbols/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
