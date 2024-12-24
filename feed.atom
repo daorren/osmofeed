@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-23T01:40:51.052Z</updated>
+    <updated>2024-12-24T01:38:53.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[To blog something to show (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/blogging-is-about-having-something-to-show/</id>
+        <link href="https://www.stefanjudis.com/notes/blogging-is-about-having-something-to-show/"/>
+        <updated>2024-12-22T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here's Simon Willison explaining his approach to link blogging. If you haven't heard of link blogging, it's social media's worst enemy.
+Instead of feeding third-party platforms with your thoughts and relying on algorithms for people to discover them, you post links on your corner of the internet (aka your website). The world can then follow your updates via RSS. You might be surprised how much your RSS feed can feel like if you subscribe to enough link blogs.
+But what if no one is following or reading along? What value do link posts have in your hidden internet corner?
+There's a saying that every written post has a unique perspective. While this sentence holds for blog posts, I have a hard time finding the uniqueness of "Check this out! [link]" posts. Is it worth to put these on my site?
+H…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Happy "That's a January Problem" week]]></title>
         <id>675df7f21961e604ad45f90c</id>
@@ -75,19 +89,6 @@ This week, I stumbled upon Antoine's portfolio site (disclaimer: there's a lot o
 I'd love to discover more #badass developer portfolios. If you can think…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — More time to write]]></title>
-        <id>6738f8c648a62ba6db410b0d</id>
-        <link href="https://labnotes.org/weekend-reading-more-time-to-write/"/>
-        <updated>2024-11-24T01:11:55.000Z</updated>
-        <summary type="html"><![CDATA[More Time to Write A fully functional clock that ticks backwards, giving you more time to write.
-Tech Stuff
-Martijn Faassen (FWIW I don’t know how to use any debugger other than console.log)
-People tend to look down on print debugging as it's not using]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
