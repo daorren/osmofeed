@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-02T01:38:12.408Z</updated>
+    <updated>2025-01-03T01:39:12.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Duplicated CSS @keyframes properties are valid (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/css-keyframes-duplicated-properties/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/css-keyframes-duplicated-properties/"/>
+        <updated>2025-01-01T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I'm not a big @keyframes user because I'm not good at manually creating animations. Trust me — I tried to become an animation virtuoso, but my animations failed to deliver the UI delight I imagined. So, I accepted my destiny and stopped looking into complex @keyframes animations.
+But apparently I'm missing out on some things. Here's Ryan with some @keyframes facts:
+CSS is cool with duplicate keyframe properties
+CSS allows the keyframe properties to have a random order
+CSS can apply custom easings for each keyframe ruleset
+All these facts can be valuable, but the first one will even make it into my animation amateur toolbox.
+Here's Ryan's first example:
+@keyframes animate {
+  0% {
+    background-color: red;
+    scale: 0.5;
+    translate: 0 100%;
+  }
+  50% {
+    background-color: red;
+    scale: 0.5;
+  }
+  100% {
+    background-color: green;
+    scale: 1;
+    translate: 0 0;
+  }
+}
+
+While this code isn't terrible, the duplicated background-color and scale declarations aren't great. Duplicated keyframe properties help keep things DRY.
+@keyframes animate {
+  0% {
+    translate: 0 100%;
+  }
+  /* 
+    Apply the background and scale from 0% to 50% 
+    without duplicating the values 👇
+  */
+  0%, 50% {
+    background-color: red;
+    scale: 0.5;
+  }
+  100% {
+    background-color: green;
+    scale: 1;
+    translate: 0 0;
+  }
+}
+
+TIL, and thanks, Ryan!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Happy New Year! 🥳]]></title>
         <id>67674c77a1793004ccd7e6b3</id>
