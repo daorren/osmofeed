@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-04T01:37:05.441Z</updated>
+    <updated>2025-01-05T01:45:31.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — DOOM x 2]]></title>
+        <id>67704cb2a1793004ccd7fcc4</id>
+        <link href="https://labnotes.org/weekend-reading-doom-x-2/"/>
+        <updated>2025-01-04T18:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Andy P “But it is public domain”
+Tech Stuff
+Fish 4.0b1 I'm giving Fish a try. So far it’s really amazing and a step up from ZSH, which itself was a step up from Bash. 4.0b1 is out, noted as “highly]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Duplicated CSS @keyframes properties are valid (#tilPost)]]></title>
         <id>https://www.stefanjudis.com/today-i-learned/css-keyframes-duplicated-properties/</id>
