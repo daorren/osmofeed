@@ -69,6 +69,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/default-apps-2024/",
+          "author": null,
+          "description": "There've been some folks sharing their 2024 default apps; let me join the fun!\nHeads up! Some of this post's links are affiliate links. If this rubs you the wrong way, it's probably not for you. 🫣\n\n      \n        \n          \n        \n      \n      \nBrowsers\n\nMy daily driver remains Firefox. Not because it's the best or fastest browser but because I still want Mozilla to play a role in this world.  It's not looking good, though (Firefox is currently down to 6% global desktop market share)... I tried the new Zen browser a few times (it's a Firefox with some UX sprinkles), but it still seems rough around the edges.\nBecause I'm such a bad tab hoarder, one browser isn't enough for me, and I also use Arc and Wavebox for project-specific \"always open\" bookmarks. None of them stands out in any par…",
+          "link": "https://www.stefanjudis.com/blog/default-apps-2024/",
+          "publishedOn": "2025-01-04T23:00:00.000Z",
+          "wordCount": 2204,
+          "title": "Default Apps 2024 (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Default%20Apps%202024/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/today-i-learned/css-keyframes-duplicated-properties/",
           "author": null,
           "description": "I'm not a big @keyframes user because I'm not good at manually creating animations. Trust me — I tried to become an animation virtuoso, but my animations failed to deliver the UI delight I imagined. So, I accepted my destiny and stopped looking into complex @keyframes animations.\nBut apparently I'm missing out on some things. Here's Ryan with some @keyframes facts:\nCSS is cool with duplicate keyframe properties\nCSS allows the keyframe properties to have a random order\nCSS can apply custom easings for each keyframe ruleset\nAll these facts can be valuable, but the first one will even make it into my animation amateur toolbox.\nHere's Ryan's first example:\n@keyframes animate {\n  0% {\n    background-color: red;\n    scale: 0.5;\n    translate: 0 100%;\n  }\n  50% {\n    background-color: red;\n    scale: 0.5;\n  }\n  100% {\n    background-color: green;\n    scale: 1;\n    translate: 0 0;\n  }\n}\n\nWhile this code isn't terrible, the duplicated background-color and scale declarations aren't great. Duplicated keyframe properties help keep things DRY.\n@keyframes animate {\n  0% {\n    translate: 0 100%;\n  }\n  /* \n    Apply the background and scale from 0% to 50% \n    without duplicating the values 👇\n  */\n  0%, 50% {\n    background-color: red;\n    scale: 0.5;\n  }\n  100% {\n    background-color: green;\n    scale: 1;\n    translate: 0 0;\n  }\n}\n\nTIL, and thanks, Ryan!\n\n\n          \n          \n            Reply to Stefan",
