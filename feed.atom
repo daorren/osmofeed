@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-06T01:43:17.648Z</updated>
+    <updated>2025-01-07T01:40:08.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #147 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-147/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-147/"/>
+        <updated>2025-01-05T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Frohes Neues! 👋
+
+Do you know when forms are automatically submitted on ENTER key press? Or have you heard of Chrome's and Safari's tight mode? Oooooor should you replace your reduce function with Object.groupBy?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+Mario listens to "Bolt Thrower — The Killchain":
+The Killchain is my energizer, when things need to be done! Although it´s Death Metal, it´s very groovy.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there is only one more song left in the queue.
+You might have noticed that Web Weekly was on a somewhat unexpected break. The last issue is 43 days old... Ouch. My inner monk is furious about not delivering on the "weekly" part.
+What happened? Well... I ended last year a bit on a low…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use "translate" to turn off element translations (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/non-translatable-html-elements/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/non-translatable-html-elements/"/>
+        <updated>2025-01-05T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I just discovered an HTML attribute I haven't seen in my 15y of web development — translate.
+If certain elements are untranslatable, you can use the translate HTML attribute to opt out of automatic localization and signal browsers not to touch them. When would that be useful?
+I could come up with a made-up example, but let's just look at Cory House's website and translate it to German using Google Chrome.
+The translation isn't really good. "About" becomes "Um", which doesn't make sense in German, but the translation has a bigger issue. Cory's name was translated, too. The English House became a German Haus.
+Google Chrome just renamed a person. 😱
+This situation is where the translate attribute comes in handy. A tiny HTML tweak will help Cory keep his name in any language.
+<h1 class="site-title" translate="no">
+  <a href="https://www.bitnative.com/">Cory House</a>
+</h1>
+
+translate="no" disables the localization of an element's text node and, theoretically, even certain attributes. The spec defines a whole lot of translatable attributes, including an image's alt attribute or content on meta elements.
+Do browsers really translate all of them? I don't know and didn't test if and how this all works. So, be aware there might be issues if you expect attributes to be translated.
+For example, aria-label is theoretically translatable(translatable attributes in ARIA spec), but automatic aria-label translation isn't working well in practice.
+Either way, knowing how to turn off translation for names and such is definitely useful, and if you're building something that includes user names, adding a translate="no" to avoid name theft doesn't hurt.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Default Apps 2024 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/default-apps-2024/</id>
@@ -147,20 +193,6 @@ Atuin I just learned about Atuin and am giving it a try. I think it’s good and
         <summary type="html"><![CDATA[The Mighty Git "One of the curious upsides to discovering you have ADHD as an older man is that suddenly other people have an easier time finding presents for you..."
 Tech Stuff
 Mantine DataTable When you need an all powerful data table in your UI that can do]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Make Orwell Fiction Again]]></title>
-        <id>674b639f70431ce6f588a0f2</id>
-        <link href="https://labnotes.org/weekend-reading-10/"/>
-        <updated>2024-12-07T18:46:20.000Z</updated>
-        <summary type="html"><![CDATA[MostlyHarmless
-Tech Stuff
-colinaut/action-table A web component that allows users to sort/filter a table. Just wrap your table inside <action-table>. So simple and works like a charm.
-
-VineJS A library for validating form data that supports HTML forms and JSON and is optimized for speed and]]></summary>
         <author>
             <name>Assaf Arkin</name>
         </author>
