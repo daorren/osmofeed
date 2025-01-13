@@ -69,6 +69,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/today-i-learned/static-initialization-blocks-in-javascript-classes/",
+          "author": null,
+          "description": "I've been reading Jake's guide on custom elements and when/where to define a new custom element. It's a good and quick read, so go check it out!\nHis final custom element snippet includes something I haven't seen before.\nclass MyElement extends HTMLElement {\n  // Static class property\n  static tag = \"my-element\";\n\n  // Static class method\n  static define(tag = this.tag) {\n    // ...\n  }\n\n  // 👇 What's this is?\n  static {\n    // ...\n  }\n}\n\nThe class defines two static class members. One is a class property (tag), and the other is a class method (define). Both static class members can be called without initializing the class and creating an instance.\nclass MyElement extends HTMLElement {\n  static tag = \"my-element\";\n\n  static define(tag = this.tag) {\n    console.log('define was called...')\n …",
+          "link": "https://www.stefanjudis.com/today-i-learned/static-initialization-blocks-in-javascript-classes/",
+          "publishedOn": "2025-01-11T23:00:00.000Z",
+          "wordCount": 1871,
+          "title": "Static initialization blocks in JavaScript classes (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Static%20initialization%20blocks%20in%20JavaScript%20classes/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-147/",
           "author": null,
           "description": "Frohes Neues! 👋\n\nDo you know when forms are automatically submitted on ENTER key press? Or have you heard of Chrome's and Safari's tight mode? Oooooor should you replace your reduce function with Object.groupBy?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nMario listens to \"Bolt Thrower — The Killchain\":\nThe Killchain is my energizer, when things need to be done! Although it´s Death Metal, it´s very groovy.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there is only one more song left in the queue.\nYou might have noticed that Web Weekly was on a somewhat unexpected break. The last issue is 43 days old... Ouch. My inner monk is furious about not delivering on the \"weekly\" part.\nWhat happened? Well... I ended last year a bit on a low…",
