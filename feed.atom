@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-13T01:43:58.548Z</updated>
+    <updated>2025-01-14T01:35:00.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #148 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-148/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-148/"/>
+        <updated>2025-01-12T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Do you know why Node.js didn't add complete TypeScript support? Do you use the new baseline feature scrollbar-gutter? And what's the difference between HTML attributes and DOM properties?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+Antoine listens to "Furniture - Slow Motion Kisses":
+I discovered this beautiful song in the closing set of a French music festival! And the clip is super cool, too!
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there is one more song left in the queue.
+This Web Weekly is jam-packed, so I'll keep it short... 🫣
+Still, I want to thank everyone who reached out last week! All the resulting conversations make this entire "newsletter project" more than worthwhile for me. 💙
+But a spe…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Static initialization blocks in JavaScript classes (#tilPost)]]></title>
         <id>https://www.stefanjudis.com/today-i-learned/static-initialization-blocks-in-javascript-classes/</id>
@@ -226,18 +245,6 @@ Tech Stuff
 Ramsey Nasser
 fuck it happened i am in a situation where i do actually need to reverse a linked list
 Atuin I just learned about Atuin and am giving it a try. I think it’s good and]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Claim denied]]></title>
-        <id>6754984f1a0ab828706a0b8c</id>
-        <link href="https://labnotes.org/weekend-reading-claim-denied/"/>
-        <updated>2024-12-14T20:51:55.000Z</updated>
-        <summary type="html"><![CDATA[The Mighty Git "One of the curious upsides to discovering you have ADHD as an older man is that suddenly other people have an easier time finding presents for you..."
-Tech Stuff
-Mantine DataTable When you need an all powerful data table in your UI that can do]]></summary>
         <author>
             <name>Assaf Arkin</name>
         </author>
