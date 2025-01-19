@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-18T01:26:36.961Z</updated>
+    <updated>2025-01-19T01:42:21.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — When you excel …]]></title>
+        <id>6782e5736e0c6f0bba29a946</id>
+        <link href="https://labnotes.org/weekend-reading-when-you-excel/"/>
+        <updated>2025-01-18T18:44:17.000Z</updated>
+        <summary type="html"><![CDATA[BasicAppleGuy “Lumon Industries Macrodata Refinement Terminal.”
+Tech Stuff
+vivus A library that will animate SVG files bringing them to life.
+
+Justified Text: Better Than Expected? When you need your text properly justified:
+text-wrap: balance;
+hyphens: auto;
+hyphenate-limit-chars: 10;
+
+CSS light-dark() Delightful!
+
+Cognitive load is what matters The trick]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #148 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-148/</id>
