@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-20T01:38:12.975Z</updated>
+    <updated>2025-01-21T01:36:19.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #149 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-149/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-149/"/>
+        <updated>2025-01-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Do you know what shipped in the Chrome Perf tools recently? Have you used JSON.raw already? And when do you correctly use the figure HTML element?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+Tim listens to “Criminal Code - starcluster”
+This track hits an EDM sweet spot for work music — complex enough to be engaging, but clean enough to not distract. Tons of variation and very, very hype. Top kek.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.
+Generally, I've never been very concerned about serverless platforms going rogue on me. How bad could it be, right? ServerlessHorrors tells another story.
+And while the scenarios on the site are extreme, let me tell you, I'v…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Template Literal Types for validating files names (#snippet)]]></title>
+        <id>https://www.stefanjudis.com/snippets/template-literal-types-for-validating-files-names/</id>
+        <link href="https://www.stefanjudis.com/snippets/template-literal-types-for-validating-files-names/"/>
+        <updated>2025-01-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here's Alex using one of my favorite TypeScript features — Template Literal Types — to enforce file name conventions in TypeScript.
+js
+
+type ImageExtension = `png` | `jp${`e` | ``}g` | `webp`;
+type }.jpg` | `${Lowercase<string>}.jpeg` | `${Lowercase<string>}.png` | `${Lowercase<string>}.webp`' >ImageFileName = `${ = intrinsic' >Lowercase<string>}.${ImageExtension}`;
+ 
+const }.jpg` | `${Lowercase<string>}.jpeg` | `${Lowercase<string>}.png` | `${Lowercase<string>}.webp`' >goodName1: }.jpg` | `${Lowercase<string>}.jpeg` | `${Lowercase<string>}.png` | `${Lowercase<string>}.webp`' >ImageFileName = 'doggy1.jpeg';
+const }.jpg` | `${Lowercase<string>}.jpeg` | `${Lowercase<string>}.png` | `${Lowercase<string>}.webp`' >goodName2: }.jpg` | `${Lowercase<string>}.jpeg` | `${Lowercase<string>}.png` | `${Lowercase<string>}.webp`' >ImageFileName = 'doggy2.jpg';
+const }.jpg` | `${Lowercase<string>}.jpeg` | `${Lowercase<string>}.png` | `${Lowercase<string>}.webp`' >badName: }.jpg` | `${Lowercase<string>}.jpeg` | `${Lowercase<string>}.png` | `${Lowercase<string>}.webp`' >ImageFileName = 'KittyCat.webp';
+Type '"KittyCat.webp"' is not assignable to type '`${Lowercase<string>}.jpg` | `${Lowercase<string>}.jpeg` | `${Lowercase<string>}.png` | `${Lowercase<string>}.webp`'.2322Type '"KittyCat.webp"' is not assignable to type '`${Lowercase<string>}.jpg` | `${Lowercase<string>}.jpeg` | `${Lowercase<string>}.png` | `${Lowercase<string>}.webp`'.
+
+I just love this feature. Enforcing string patterns with TypeScript makes me feel like a TS pro. 😅
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — When you excel …]]></title>
         <id>6782e5736e0c6f0bba29a946</id>
@@ -254,20 +298,6 @@ There's a saying that every written post has a unique perspective. While this se
 H…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Happy "That's a January Problem" week]]></title>
-        <id>675df7f21961e604ad45f90c</id>
-        <link href="https://labnotes.org/weekend-reading-happy-thats-a-january-problem-week/"/>
-        <updated>2024-12-21T23:16:51.000Z</updated>
-        <summary type="html"><![CDATA[Can Christmas season start a little earlier this year
-Tech Stuff
-Ramsey Nasser
-fuck it happened i am in a situation where i do actually need to reverse a linked list
-Atuin I just learned about Atuin and am giving it a try. I think it’s good and]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>

@@ -50,16 +50,6 @@
           "wordCount": 1998,
           "title": "Weekend Reading — Happy New Year! 🥳",
           "imageUrl": "https://labnotes.org/content/images/2024/12/image-169-1.png"
-        },
-        {
-          "id": "675df7f21961e604ad45f90c",
-          "author": "Assaf Arkin",
-          "description": "Can Christmas season start a little earlier this year\nTech Stuff\nRamsey Nasser\nfuck it happened i am in a situation where i do actually need to reverse a linked list\nAtuin I just learned about Atuin and am giving it a try. I think it’s good and",
-          "link": "https://labnotes.org/weekend-reading-happy-thats-a-january-problem-week/",
-          "publishedOn": "2024-12-21T23:16:51.000Z",
-          "wordCount": 2814,
-          "title": "Weekend Reading — Happy \"That's a January Problem\" week",
-          "imageUrl": "https://labnotes.org/content/images/2024/12/image-123-1.png"
         }
       ]
     },
@@ -68,6 +58,26 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-149/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nDo you know what shipped in the Chrome Perf tools recently? Have you used JSON.raw already? And when do you correctly use the figure HTML element?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nTim listens to “Criminal Code - starcluster”\nThis track hits an EDM sweet spot for work music — complex enough to be engaging, but clean enough to not distract. Tons of variation and very, very hype. Top kek.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.\nGenerally, I've never been very concerned about serverless platforms going rogue on me. How bad could it be, right? ServerlessHorrors tells another story.\nAnd while the scenarios on the site are extreme, let me tell you, I'v…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-149/",
+          "publishedOn": "2025-01-19T23:00:00.000Z",
+          "wordCount": 2913,
+          "title": "Web Weekly #149 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
+          "id": "https://www.stefanjudis.com/snippets/template-literal-types-for-validating-files-names/",
+          "author": null,
+          "description": "Here's Alex using one of my favorite TypeScript features — Template Literal Types — to enforce file name conventions in TypeScript.\njs\n\ntype ImageExtension = `png` | `jp${`e` | ``}g` | `webp`;\ntype }.jpg` | `${Lowercase<string>}.jpeg` | `${Lowercase<string>}.png` | `${Lowercase<string>}.webp`' >ImageFileName = `${ = intrinsic' >Lowercase<string>}.${ImageExtension}`;\n \nconst }.jpg` | `${Lowercase<string>}.jpeg` | `${Lowercase<string>}.png` | `${Lowercase<string>}.webp`' >goodName1: }.jpg` | `${Lowercase<string>}.jpeg` | `${Lowercase<string>}.png` | `${Lowercase<string>}.webp`' >ImageFileName = 'doggy1.jpeg';\nconst }.jpg` | `${Lowercase<string>}.jpeg` | `${Lowercase<string>}.png` | `${Lowercase<string>}.webp`' >goodName2: }.jpg` | `${Lowercase<string>}.jpeg` | `${Lowercase<string>}.png` | `${Lowercase<string>}.webp`' >ImageFileName = 'doggy2.jpg';\nconst }.jpg` | `${Lowercase<string>}.jpeg` | `${Lowercase<string>}.png` | `${Lowercase<string>}.webp`' >badName: }.jpg` | `${Lowercase<string>}.jpeg` | `${Lowercase<string>}.png` | `${Lowercase<string>}.webp`' >ImageFileName = 'KittyCat.webp';\nType '\"KittyCat.webp\"' is not assignable to type '`${Lowercase<string>}.jpg` | `${Lowercase<string>}.jpeg` | `${Lowercase<string>}.png` | `${Lowercase<string>}.webp`'.2322Type '\"KittyCat.webp\"' is not assignable to type '`${Lowercase<string>}.jpg` | `${Lowercase<string>}.jpeg` | `${Lowercase<string>}.png` | `${Lowercase<string>}.webp`'.\n\nI just love this feature. Enforcing string patterns with TypeScript makes me feel like a TS pro. 😅\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/snippets/template-literal-types-for-validating-files-names/",
+          "publishedOn": "2025-01-19T23:00:00.000Z",
+          "wordCount": 1652,
+          "title": "Template Literal Types for validating files names (#snippet)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Template%20Literal%20Types%20for%20validating%20files%20names/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-148/",
           "author": null,
