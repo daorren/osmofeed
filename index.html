@@ -22,6 +22,89 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-01-20 datetime="2025-01-20T23:00:00.000Z">2025-01-20</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-01-20 datetime="2025-01-20T23:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/today-i-learned/reuse-editor-window-in-vs-code/"
+                        open
+                      >
+                        <summary class="article-expander__title">How to open a new project in the same VS Code window (#tilPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/reuse-editor-window-in-vs-code/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20open%20a%20new%20project%20in%20the%20same%20VS%20Code%20window/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>I have many aliases and shell shortcuts defined in my dotfiles. Generally, my setup works well, and I rarely tweak it or add new aliases.
+But today&#x27;s the day to add a new command alias!
+If you&#x27;re a VS Code user, you can set up and use the code CLI command to open files/folders, diff files, or merge stuff. It&#x27;s pretty neat, but I really just use it to open projects. Nothing fancy.
+# In the morning ...
+cd ~/projects/project-a
+code .
+
+# After lunch ...
+cd ~/projects/project-b
+code .
+
+# you get the idea ...
+
+There&#x27;s nothing particularly wrong with this workflow except that code will open a new VS Code window whenever you call it. If you don&#x27;t close the previous window, you&#x27;ll open more and more editors. The more projects you have, the more coding windows you have to juggle (or close).
+During a typical workday, I quickly reach six or more open editor windows (because, of course, I don&#x27;t close the windows and just fire up another code command). Only after reading Nick Taylors&#x27; &quot;One Tip a Week&quot; newsletter I realized how much all these windows annoy me.
+Nick, of course, had a solution: code -r. That&#x27;s it!
+The -r option will make VS Code open a new project and reuse the open window. No more new windows!
+But of course, nobody wants to type the -r option all the time, so here&#x27;s my new alias following Nick&#x27;s recommendation:
+# reuse the existing window instead of opening another one
+alias c&#x3D;&quot;code -r&quot;
+
+And let me tell you, this alias (👇) already made it into my muscle memory.
+# In the morning ...
+cd ~/projects/project-a
+c .
+
+# After lunch ...
+cd ~/projects/project-a
+c .
+
+Thanks, Nick!
+
+
+          
+          
+            Reply to Stefan</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-01-19 datetime="2025-01-19T23:00:00.000Z">2025-01-19</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-01-19 datetime="2025-01-19T23:00:00.000Z"></time>
           </button>
@@ -667,62 +750,10 @@ Cursor I really really like Cursor. I had a great time using VS Code + Github Co
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-12-22 datetime="2024-12-22T23:00:00.000Z">2024-12-22</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-12-22 datetime="2024-12-22T23:00:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Stefan Judis Web Development</button>
-                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.stefanjudis.com/notes/blogging-is-about-having-something-to-show/"
-                        open
-                      >
-                        <summary class="article-expander__title">To blog something to show (#note)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/notes/blogging-is-about-having-something-to-show/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:To%20blog%20something%20to%20show/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Here&#x27;s Simon Willison explaining his approach to link blogging. If you haven&#x27;t heard of link blogging, it&#x27;s social media&#x27;s worst enemy.
-Instead of feeding third-party platforms with your thoughts and relying on algorithms for people to discover them, you post links on your corner of the internet (aka your website). The world can then follow your updates via RSS. You might be surprised how much your RSS feed can feel like if you subscribe to enough link blogs.
-But what if no one is following or reading along? What value do link posts have in your hidden internet corner?
-There&#x27;s a saying that every written post has a unique perspective. While this sentence holds for blog posts, I have a hard time finding the uniqueness of &quot;Check this out! [link]&quot; posts. Is it worth to put these on my site?
-H…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/12878452458">
-        <time id="build-timestamp" datetime="2025-01-21T01:36:19.961Z">2025-01-21T01:36:19.961Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/12899399976">
+        <time id="build-timestamp" datetime="2025-01-22T01:38:40.211Z">2025-01-22T01:38:40.211Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

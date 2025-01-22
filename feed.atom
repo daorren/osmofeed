@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-21T01:36:19.979Z</updated>
+    <updated>2025-01-22T01:38:40.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to open a new project in the same VS Code window (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/reuse-editor-window-in-vs-code/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/reuse-editor-window-in-vs-code/"/>
+        <updated>2025-01-20T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I have many aliases and shell shortcuts defined in my dotfiles. Generally, my setup works well, and I rarely tweak it or add new aliases.
+But today's the day to add a new command alias!
+If you're a VS Code user, you can set up and use the code CLI command to open files/folders, diff files, or merge stuff. It's pretty neat, but I really just use it to open projects. Nothing fancy.
+# In the morning ...
+cd ~/projects/project-a
+code .
+
+# After lunch ...
+cd ~/projects/project-b
+code .
+
+# you get the idea ...
+
+There's nothing particularly wrong with this workflow except that code will open a new VS Code window whenever you call it. If you don't close the previous window, you'll open more and more editors. The more projects you have, the more coding windows you have to juggle (or close).
+During a typical workday, I quickly reach six or more open editor windows (because, of course, I don't close the windows and just fire up another code command). Only after reading Nick Taylors' "One Tip a Week" newsletter I realized how much all these windows annoy me.
+Nick, of course, had a solution: code -r. That's it!
+The -r option will make VS Code open a new project and reuse the open window. No more new windows!
+But of course, nobody wants to type the -r option all the time, so here's my new alias following Nick's recommendation:
+# reuse the existing window instead of opening another one
+alias c="code -r"
+
+And let me tell you, this alias (👇) already made it into my muscle memory.
+# In the morning ...
+cd ~/projects/project-a
+c .
+
+# After lunch ...
+cd ~/projects/project-a
+c .
+
+Thanks, Nick!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #149 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-149/</id>
@@ -284,20 +329,6 @@ Tech Stuff
 Cursor I really really like Cursor. I had a great time using VS Code + Github Copilot. I found the autocomplete to be such a huge time]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To blog something to show (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/blogging-is-about-having-something-to-show/</id>
-        <link href="https://www.stefanjudis.com/notes/blogging-is-about-having-something-to-show/"/>
-        <updated>2024-12-22T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here's Simon Willison explaining his approach to link blogging. If you haven't heard of link blogging, it's social media's worst enemy.
-Instead of feeding third-party platforms with your thoughts and relying on algorithms for people to discover them, you post links on your corner of the internet (aka your website). The world can then follow your updates via RSS. You might be surprised how much your RSS feed can feel like if you subscribe to enough link blogs.
-But what if no one is following or reading along? What value do link posts have in your hidden internet corner?
-There's a saying that every written post has a unique perspective. While this sentence holds for blog posts, I have a hard time finding the uniqueness of "Check this out! [link]" posts. Is it worth to put these on my site?
-H…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
