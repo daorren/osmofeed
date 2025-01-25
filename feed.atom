@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-24T01:37:00.737Z</updated>
+    <updated>2025-01-25T01:25:43.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A "section" without an accessible name is nothing but a "div" (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/section-accessible-name/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/section-accessible-name/"/>
+        <updated>2025-01-23T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I was reading Vadim's post on color theme switching when I discovered an interesting code snippet.
+<section aria-label="Color scheme switcher">
+  <button aria-pressed="false" value="light">
+    Light
+  </button>
+  <button aria-pressed="true" value="light dark">
+    Auto
+  </button>
+  <button aria-pressed="false" value="dark">
+    Dark
+  </button>
+</section>
+
+The HTML for his color theme switcher includes three buttons, and each signals its state with aria-pressed. So far, so good. But did you notice the section element? Why does Vadim use a <section>, and why does it include an aria-label?
+When should you use the section HTML element?
+
+I have known about the <section> element for many years, but I must admit that I rarely use it. So, I did some digging. Here's the <section> definition from…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to open a new project in the same VS Code window (#tilPost)]]></title>
         <id>https://www.stefanjudis.com/today-i-learned/reuse-editor-window-in-vs-code/</id>
