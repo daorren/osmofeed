@@ -59,6 +59,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/load-the-default-os-font-with-css/",
+          "author": null,
+          "description": "I'm no font person. Sometimes, I notice a nice font setup, but I don't have the eye for it, and I appreciate the performance boost of not loading custom fonts.\nThat's why this blog (at the time of writing) aims to render the default operating system fonts. After reading Stoyan's post on system fonts I could just do a little spring clean up.\nHere's the default CSS font setup I shipped for ages:\nbody {\n  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;\n}\n\nIt's one of these snippets you carry over from project to project. This font-family declaration tries to find installed fonts from left to right. It starts with -apple-system and BlinkMacSystemFont. And guess what? These two font-family values…",
+          "link": "https://www.stefanjudis.com/blog/load-the-default-os-font-with-css/",
+          "publishedOn": "2025-01-24T23:00:00.000Z",
+          "wordCount": 1813,
+          "title": "Load the default OS font with CSS (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Load%20the%20default%20OS%20font%20with%20CSS/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/today-i-learned/section-accessible-name/",
           "author": null,
           "description": "I was reading Vadim's post on color theme switching when I discovered an interesting code snippet.\n<section aria-label=\"Color scheme switcher\">\n  <button aria-pressed=\"false\" value=\"light\">\n    Light\n  </button>\n  <button aria-pressed=\"true\" value=\"light dark\">\n    Auto\n  </button>\n  <button aria-pressed=\"false\" value=\"dark\">\n    Dark\n  </button>\n</section>\n\nThe HTML for his color theme switcher includes three buttons, and each signals its state with aria-pressed. So far, so good. But did you notice the section element? Why does Vadim use a <section>, and why does it include an aria-label?\nWhen should you use the section HTML element?\n\nI have known about the <section> element for many years, but I must admit that I rarely use it. So, I did some digging. Here's the <section> definition from…",
