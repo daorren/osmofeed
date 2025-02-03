@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-02T01:40:33.082Z</updated>
+    <updated>2025-02-03T01:38:07.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to load images in a spreadsheet (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/how-to-load-images-in-a-spreadsheet/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/how-to-load-images-in-a-spreadsheet/"/>
+        <updated>2025-02-01T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Back in the days, I used to joke about people using spreadsheets for everything. Especially in larger companies; whatever can be placed in a spreadsheet will eventually land in a spreadsheet.
+Thanks to Alex, today I learned, that some spreadsheet tools (Google Sheets and Excel) let us load images, too.
+=IMAGE("https://www.google.com/images/srpr/logo3w.png")
+
+I think this is pretty wild.
+But it might make sense to enrich sheets with images in product listings and similar things. 🤷
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — On energy saving mode]]></title>
         <id>6797fdba4eda1f046ab21b14</id>
