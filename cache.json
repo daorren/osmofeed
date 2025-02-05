@@ -157,26 +157,6 @@
           "wordCount": 1871,
           "title": "Static initialization blocks in JavaScript classes (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Static%20initialization%20blocks%20in%20JavaScript%20classes/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-147/",
-          "author": null,
-          "description": "Frohes Neues! 👋\n\nDo you know when forms are automatically submitted on ENTER key press? Or have you heard of Chrome's and Safari's tight mode? Oooooor should you replace your reduce function with Object.groupBy?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nMario listens to \"Bolt Thrower — The Killchain\":\nThe Killchain is my energizer, when things need to be done! Although it´s Death Metal, it´s very groovy.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there is only one more song left in the queue.\nYou might have noticed that Web Weekly was on a somewhat unexpected break. The last issue is 43 days old... Ouch. My inner monk is furious about not delivering on the \"weekly\" part.\nWhat happened? Well... I ended last year a bit on a low…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-147/",
-          "publishedOn": "2025-01-05T23:00:00.000Z",
-          "wordCount": 2938,
-          "title": "Web Weekly #147 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/non-translatable-html-elements/",
-          "author": null,
-          "description": "I just discovered an HTML attribute I haven't seen in my 15y of web development — translate.\nIf certain elements are untranslatable, you can use the translate HTML attribute to opt out of automatic localization and signal browsers not to touch them. When would that be useful?\nI could come up with a made-up example, but let's just look at Cory House's website and translate it to German using Google Chrome.\nThe translation isn't really good. \"About\" becomes \"Um\", which doesn't make sense in German, but the translation has a bigger issue. Cory's name was translated, too. The English House became a German Haus.\nGoogle Chrome just renamed a person. 😱\nThis situation is where the translate attribute comes in handy. A tiny HTML tweak will help Cory keep his name in any language.\n<h1 class=\"site-title\" translate=\"no\">\n  <a href=\"https://www.bitnative.com/\">Cory House</a>\n</h1>\n\ntranslate=\"no\" disables the localization of an element's text node and, theoretically, even certain attributes. The spec defines a whole lot of translatable attributes, including an image's alt attribute or content on meta elements.\nDo browsers really translate all of them? I don't know and didn't test if and how this all works. So, be aware there might be issues if you expect attributes to be translated.\nFor example, aria-label is theoretically translatable(translatable attributes in ARIA spec), but automatic aria-label translation isn't working well in practice.\nEither way, knowing how to turn off translation for names and such is definitely useful, and if you're building something that includes user names, adding a translate=\"no\" to avoid name theft doesn't hurt.\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/non-translatable-html-elements/",
-          "publishedOn": "2025-01-05T23:00:00.000Z",
-          "wordCount": 1824,
-          "title": "Use \"translate\" to turn off element translations (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Use%20%22translate%22%20to%20turn%20off%20element%20translations/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
