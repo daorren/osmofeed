@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-07T01:38:46.270Z</updated>
+    <updated>2025-02-08T01:35:26.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A well-known avatar URL would be dang cool. (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/a-well-known-avatar-url-would-be-dang-cool/</id>
+        <link href="https://www.stefanjudis.com/blog/a-well-known-avatar-url-would-be-dang-cool/"/>
+        <updated>2025-02-06T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I just read Anthony's post on ES Modules and discovered rendered profile images in the article.
+Whenever Anthony mentions a person, they link to their GitHub profile and render the GitHub avatars next to their user name. Cute! How does this work?
+You can take a GitHub profile URL (github.com/stefanjudis), append a .png to it (github.com/stefanjudis.png), and off you go fetching all these profile images! Easy peasy.
+But don't you think, too, that these inline avatars somehow change the article's vibe? By embedding some profile images, all these mentioned open source maintainers become "real humans". You almost want to check out their profiles just because their faces are right there in front of you.
+This discovery fascinates me because my blog embeds inline images for external links, too. But it doesn't humanize anything.
+This site renders favicons next to external links and it's surprising how different these two approaches feel. A profile avatar puts a person behind a link, whereas a favicon... well... a favicon just feels like a favicon next to a link.
+This avatar topic reminded me of Jim's post about .well-known URLs for avatars. The idea is to have a standardized URL convention to fetch avatars and profile images (remember Gravatar back in the old days?).
+Jim advocates for /.well-known/avatar. I'm game!
+It could also be a slash page at /avatar, I guess?
+Either way, my procrastination task of the day was to set up:
+stefanjudis.com/avatar
+stefanjudis.com/.well-known/avatar
+stefanjudis.com/.well-known/avatar.png
+... because I need my profile pic quite often.
+If someone now wants to make the well-known avatar URL happen or open a PR at the slash pages site, let me know! I'd love to see an /avatar route becoming a thing.
+Edit: Eric mentioned that he uses a subdomain (avatar.yatil.net) that even supports different image sizes (/32). That's pretty cool, too!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The difference between @ts-ignore and @ts-expect-error (#tilPost)]]></title>
         <id>https://www.stefanjudis.com/today-i-learned/the-difference-ts-ignore-and-ts-expect-error/</id>
