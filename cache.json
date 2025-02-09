@@ -12,6 +12,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "679ddc50daa9b36965a4cd30",
+          "author": "Assaf Arkin",
+          "description": "Ben “Nice lil guy I just found out we own”\nTech Stuff\nAI Prompt: Writing Supabase Edge Functions This is a new Supabase article but it's also a good example of how to write prompting rules for Cursor, which I just learned are easy to structure",
+          "link": "https://labnotes.org/weekend-reading-as-asap-as-possible/",
+          "publishedOn": "2025-02-08T15:35:09.000Z",
+          "wordCount": 2412,
+          "title": "Weekend Reading — As asap as possible!",
+          "imageUrl": "https://labnotes.org/content/images/2025/02/image-20-1.png"
+        },
+        {
           "id": "6797fdba4eda1f046ab21b14",
           "author": "Assaf Arkin",
           "description": "I'm Not Lazy, I'm on Energy Saving Mode Current status\nTech Stuff\nTrammell Hudson “my new years resolution is 80x25”\n\nJake Rayson\n“If you think technology will solve your problems, you don’t understand technology and you don’t understand your",
@@ -58,6 +68,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/global-git-commit-templates/",
+          "author": null,
+          "description": "When you commit things in Git via the CLI, you'll be greeted with something that looks like this:\n# Please enter the commit message for your changes. Lines starting\n# with '#' will be ignored, and an empty message aborts the commit.\n#\n# On branch main\n# Changes to be committed:\n#       new file:   ...\n\nYou'll write your commit title on the first line, hit save, close the file, and go on with your nerdy day.\nThe lines starting with a # will be ignored and not included in your commit data. As you see, most lines in this boilerplate message start with a #. I think they're there to enable you to make a good commit. It's good to know which files will be included and double-check that you're on the correct branch, right?\nBut what makes a good commit?\nCreating good commits is complicated because every project/team has its own rules. Some bet on Gitmoji. Some want you to include a ticket number. Others might prefer lengthy explanations of the changes to generate an automated changelog.\nToday I learned that Git supports commit message templates to make your life easier if you're facing specific commit requirements.\nRun this command...\ngit config --global commit.template ~/.gitmessage\n\n... to add this line to your general .gitconfig file...\n[commit]\n  template = ~/.gitmessage\n\n... and create a ~/.gitmessage file...\n# Yo, waz up! Dude, remember to follow these conventions (👇) , okay?\n#\n# 1. do this!\n# 2. do that!\n# ...\n\n... that contains your custom commit template.\nNow, you'll be greeted with your custom message when you make a commit.\nPretty sweet!\nSetting a global commit template isn't very user friendly. It'd be great to use Git's includeIf to set up project-dependent commit templates somehow, but I'll leave this for another day.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/global-git-commit-templates/",
+          "publishedOn": "2025-02-07T23:00:00.000Z",
+          "wordCount": 1850,
+          "title": "How to apply a global Git commit template (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20apply%20a%20global%20Git%20commit%20template/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/a-well-known-avatar-url-would-be-dang-cool/",
           "author": null,
