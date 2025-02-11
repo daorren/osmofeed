@@ -50,16 +50,6 @@
           "wordCount": 2477,
           "title": "Weekend Reading — When you excel …",
           "imageUrl": "https://labnotes.org/content/images/2025/01/image-103-1.png"
-        },
-        {
-          "id": "677977b3a1793004ccd8147d",
-          "author": "Assaf Arkin",
-          "description": "sjvn “Best snow truck name ever.”\nTech Stuff\ntrimMiddle This is such a cool function: it trims any string to the desired length by dropping text from the middle of the string, like Finder does with filenames. And a lot of times when you’re trimming text,",
-          "link": "https://labnotes.org/weekend-reading-the-whisky-war-of-1973/",
-          "publishedOn": "2025-01-11T21:39:44.000Z",
-          "wordCount": 3514,
-          "title": "Weekend Reading — The whisky war of 1973",
-          "imageUrl": "https://labnotes.org/content/images/2025/01/image-57-1.png"
         }
       ]
     },
@@ -187,16 +177,6 @@
           "wordCount": 2725,
           "title": "Web Weekly #148 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/static-initialization-blocks-in-javascript-classes/",
-          "author": null,
-          "description": "I've been reading Jake's guide on custom elements and when/where to define a new custom element. It's a good and quick read, so go check it out!\nHis final custom element snippet includes something I haven't seen before.\nclass MyElement extends HTMLElement {\n  // Static class property\n  static tag = \"my-element\";\n\n  // Static class method\n  static define(tag = this.tag) {\n    // ...\n  }\n\n  // 👇 What's this is?\n  static {\n    // ...\n  }\n}\n\nThe class defines two static class members. One is a class property (tag), and the other is a class method (define). Both static class members can be called without initializing the class and creating an instance.\nclass MyElement extends HTMLElement {\n  static tag = \"my-element\";\n\n  static define(tag = this.tag) {\n    console.log('define was called...')\n …",
-          "link": "https://www.stefanjudis.com/today-i-learned/static-initialization-blocks-in-javascript-classes/",
-          "publishedOn": "2025-01-11T23:00:00.000Z",
-          "wordCount": 1871,
-          "title": "Static initialization blocks in JavaScript classes (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Static%20initialization%20blocks%20in%20JavaScript%20classes/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },

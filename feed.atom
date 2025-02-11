@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-10T01:39:42.304Z</updated>
+    <updated>2025-02-11T01:38:30.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -441,51 +441,6 @@ Still, I want to thank everyone who reached out last week! All the resulting con
 But a spe…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Static initialization blocks in JavaScript classes (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/static-initialization-blocks-in-javascript-classes/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/static-initialization-blocks-in-javascript-classes/"/>
-        <updated>2025-01-11T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I've been reading Jake's guide on custom elements and when/where to define a new custom element. It's a good and quick read, so go check it out!
-His final custom element snippet includes something I haven't seen before.
-class MyElement extends HTMLElement {
-  // Static class property
-  static tag = "my-element";
-
-  // Static class method
-  static define(tag = this.tag) {
-    // ...
-  }
-
-  // 👇 What's this is?
-  static {
-    // ...
-  }
-}
-
-The class defines two static class members. One is a class property (tag), and the other is a class method (define). Both static class members can be called without initializing the class and creating an instance.
-class MyElement extends HTMLElement {
-  static tag = "my-element";
-
-  static define(tag = this.tag) {
-    console.log('define was called...')
- …]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — The whisky war of 1973]]></title>
-        <id>677977b3a1793004ccd8147d</id>
-        <link href="https://labnotes.org/weekend-reading-the-whisky-war-of-1973/"/>
-        <updated>2025-01-11T21:39:44.000Z</updated>
-        <summary type="html"><![CDATA[sjvn “Best snow truck name ever.”
-Tech Stuff
-trimMiddle This is such a cool function: it trims any string to the desired length by dropping text from the middle of the string, like Finder does with filenames. And a lot of times when you’re trimming text,]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
