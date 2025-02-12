@@ -59,6 +59,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-151/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nDo you know what the European Accessibility Act will mean to you? Are view transitions (SPA or MPA) ready for production yet? Have you heard that popover is now on the baseline?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nKhaled listens to \"Cinematic Orchestra feat. Patrick Watson - To Build A Home\"\nI listen to this song every now and then for about 14 years now!\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are two more songs left in the queue.\nI'm a day late, so I'll keep this week's intro short, but I want to welcome all the new subscribers who joined last week! 👋\nIt's great to see Web Weekly growing, and if you have any comments, questions, or want to send over \"good web stuff\"™, let me know!\nI'…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-151/",
+          "publishedOn": "2025-02-10T23:00:00.000Z",
+          "wordCount": 2564,
+          "title": "Web Weekly #151 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
           "id": "https://www.stefanjudis.com/today-i-learned/global-git-commit-templates/",
           "author": null,
           "description": "When you commit things in Git via the CLI, you'll be greeted with something that looks like this:\n# Please enter the commit message for your changes. Lines starting\n# with '#' will be ignored, and an empty message aborts the commit.\n#\n# On branch main\n# Changes to be committed:\n#       new file:   ...\n\nYou'll write your commit title on the first line, hit save, close the file, and go on with your nerdy day.\nThe lines starting with a # will be ignored and not included in your commit data. As you see, most lines in this boilerplate message start with a #. I think they're there to enable you to make a good commit. It's good to know which files will be included and double-check that you're on the correct branch, right?\nBut what makes a good commit?\nCreating good commits is complicated because every project/team has its own rules. Some bet on Gitmoji. Some want you to include a ticket number. Others might prefer lengthy explanations of the changes to generate an automated changelog.\nToday I learned that Git supports commit message templates to make your life easier if you're facing specific commit requirements.\nRun this command...\ngit config --global commit.template ~/.gitmessage\n\n... to add this line to your general .gitconfig file...\n[commit]\n  template = ~/.gitmessage\n\n... and create a ~/.gitmessage file...\n# Yo, waz up! Dude, remember to follow these conventions (👇) , okay?\n#\n# 1. do this!\n# 2. do that!\n# ...\n\n... that contains your custom commit template.\nNow, you'll be greeted with your custom message when you make a commit.\nPretty sweet!\nSetting a global commit template isn't very user friendly. It'd be great to use Git's includeIf to set up project-dependent commit templates somehow, but I'll leave this for another day.\n\n\n          \n          \n            Reply to Stefan",
@@ -167,16 +177,6 @@
           "wordCount": 1652,
           "title": "Template Literal Types for validating files names (#snippet)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Template%20Literal%20Types%20for%20validating%20files%20names/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-148/",
-          "author": null,
-          "description": "Guten Tag! Guten Tag! 👋\n\nDo you know why Node.js didn't add complete TypeScript support? Do you use the new baseline feature scrollbar-gutter? And what's the difference between HTML attributes and DOM properties?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nAntoine listens to \"Furniture - Slow Motion Kisses\":\nI discovered this beautiful song in the closing set of a French music festival! And the clip is super cool, too!\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there is one more song left in the queue.\nThis Web Weekly is jam-packed, so I'll keep it short... 🫣\nStill, I want to thank everyone who reached out last week! All the resulting conversations make this entire \"newsletter project\" more than worthwhile for me. 💙\nBut a spe…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-148/",
-          "publishedOn": "2025-01-12T23:00:00.000Z",
-          "wordCount": 2725,
-          "title": "Web Weekly #148 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
     },

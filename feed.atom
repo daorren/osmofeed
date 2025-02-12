@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-11T01:38:30.938Z</updated>
+    <updated>2025-02-12T01:38:31.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #151 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-151/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-151/"/>
+        <updated>2025-02-10T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Do you know what the European Accessibility Act will mean to you? Are view transitions (SPA or MPA) ready for production yet? Have you heard that popover is now on the baseline?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+Khaled listens to "Cinematic Orchestra feat. Patrick Watson - To Build A Home"
+I listen to this song every now and then for about 14 years now!
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are two more songs left in the queue.
+I'm a day late, so I'll keep this week's intro short, but I want to welcome all the new subscribers who joined last week! 👋
+It's great to see Web Weekly growing, and if you have any comments, questions, or want to send over "good web stuff"™, let me know!
+I'…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — As asap as possible!]]></title>
         <id>679ddc50daa9b36965a4cd30</id>
@@ -422,25 +441,6 @@ CSS light-dark() Delightful!
 Cognitive load is what matters The trick]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #148 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-148/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-148/"/>
-        <updated>2025-01-12T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
-
-Do you know why Node.js didn't add complete TypeScript support? Do you use the new baseline feature scrollbar-gutter? And what's the difference between HTML attributes and DOM properties?
-Turn on the Web Weekly tune and find all the answers below. Enjoy!
-Antoine listens to "Furniture - Slow Motion Kisses":
-I discovered this beautiful song in the closing set of a French music festival! And the clip is super cool, too!
-Do you want to share your favorite song with the Web Weekly community? Hit reply; there is one more song left in the queue.
-This Web Weekly is jam-packed, so I'll keep it short... 🫣
-Still, I want to thank everyone who reached out last week! All the resulting conversations make this entire "newsletter project" more than worthwhile for me. 💙
-But a spe…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
