@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-17T01:41:58.299Z</updated>
+    <updated>2025-02-18T01:38:38.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #152 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-152/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-152/"/>
+        <updated>2025-02-16T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+What can we expect from Interop 2025? How can you give your console.log statements more context()? Is using gifs generally a good idea?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+Pawel listens to “9th Wonder - LoveKiss”:
+I can listen to this beat in a loop for the whole day. Just so good!
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.
+If you enjoy Web Weekly, let others know by reposting it on your favorite social network. It really helps me growing this newsletter into something "real". 🫣
+🦋 Bluesky
+🐘 Mastodon
+💼 Linkedin
+Thank you! 💙
+The browser makers came together and decided on the focus areas of Interop 2025.
+And if you now think, "Oh well... again, ne…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to iterate over TypeScript union types (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/iterate-typescript-union-type/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/iterate-typescript-union-type/"/>
+        <updated>2025-02-16T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Is it just me, or are TypeScript conditional types and the extends keyword kinda scary?
+ts
+
+// What is going on? 😅
+type  = T extends number ? never : T' >Something<' >T> = ' >T extends number ? never : ' >T;
+
+
+I've just read Dr. Axel's "Conditional types in TypeScript" and some things finally clicked for me.
+Let's say we have a union type containing multiple strings.
+ts
+
+type AllColors = "Black" | "White" | "Orange" | "Red" | "Blue" | "Yellow" | "Gray";
+
+
+Some people don't consider black, white and gray as colors. How could you now iterate over the union type and get these "noncolors" out of the AllColors type?
+ts
+
+// Iterate of the types included in `AllColors`.
+//
+// If type `T` does not extend `R` apply the `never` type.
+// `never` will remove `T` from the resulting union type.
+type  =…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — I'll take one Canadiano please]]></title>
         <id>67a77a0c22cd80046665cebd</id>
@@ -432,27 +486,6 @@ I just love this feature. Enforcing string patterns with TypeScript makes me fee
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — When you excel …]]></title>
-        <id>6782e5736e0c6f0bba29a946</id>
-        <link href="https://labnotes.org/weekend-reading-when-you-excel/"/>
-        <updated>2025-01-18T18:44:17.000Z</updated>
-        <summary type="html"><![CDATA[BasicAppleGuy “Lumon Industries Macrodata Refinement Terminal.”
-Tech Stuff
-vivus A library that will animate SVG files bringing them to life.
-
-Justified Text: Better Than Expected? When you need your text properly justified:
-text-wrap: balance;
-hyphens: auto;
-hyphenate-limit-chars: 10;
-
-CSS light-dark() Delightful!
-
-Cognitive load is what matters The trick]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>

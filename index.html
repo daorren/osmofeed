@@ -22,11 +22,99 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-02-16 datetime="2025-02-16T17:50:54.000Z">2025-02-16</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-02-16 datetime="2025-02-16T17:50:54.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-02-16 datetime="2025-02-16T23:00:00.000Z">2025-02-16</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-02-16 datetime="2025-02-16T23:00:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/blog/web-weekly-152/"
+                        open
+                      >
+                        <summary class="article-expander__title">Web Weekly #152 (#blogPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/blog/web-weekly-152/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.stefanjudis.com/newsletter-social.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Guten Tag! Guten Tag! 👋
+
+What can we expect from Interop 2025? How can you give your console.log statements more context()? Is using gifs generally a good idea?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+Pawel listens to “9th Wonder - LoveKiss”:
+I can listen to this beat in a loop for the whole day. Just so good!
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.
+If you enjoy Web Weekly, let others know by reposting it on your favorite social network. It really helps me growing this newsletter into something &quot;real&quot;. 🫣
+🦋 Bluesky
+🐘 Mastodon
+💼 Linkedin
+Thank you! 💙
+The browser makers came together and decided on the focus areas of Interop 2025.
+And if you now think, &quot;Oh well... again, ne…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/today-i-learned/iterate-typescript-union-type/"
+                        open
+                      >
+                        <summary class="article-expander__title">How to iterate over TypeScript union types (#tilPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/iterate-typescript-union-type/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20iterate%20over%20TypeScript%20union%20types/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Is it just me, or are TypeScript conditional types and the extends keyword kinda scary?
+ts
+
+// What is going on? 😅
+type  &#x3D; T extends number ? never : T&#x27; &gt;SomethingT&gt; &#x3D; &#x27; &gt;T extends number ? never : &#x27; &gt;T;
+
+
+I&#x27;ve just read Dr. Axel&#x27;s &quot;Conditional types in TypeScript&quot; and some things finally clicked for me.
+Let&#x27;s say we have a union type containing multiple strings.
+ts
+
+type AllColors &#x3D; &quot;Black&quot; | &quot;White&quot; | &quot;Orange&quot; | &quot;Red&quot; | &quot;Blue&quot; | &quot;Yellow&quot; | &quot;Gray&quot;;
+
+
+Some people don&#x27;t consider black, white and gray as colors. How could you now iterate over the union type and get these &quot;noncolors&quot; out of the AllColors type?
+ts
+
+// Iterate of the types included in &#x60;AllColors&#x60;.
+//
+// If type &#x60;T&#x60; does not extend &#x60;R&#x60; apply the &#x60;never&#x60; type.
+// &#x60;never&#x60; will remove &#x60;T&#x60; from the resulting union type.
+type  &#x3D;…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -984,69 +1072,10 @@ I just love this feature. Enforcing string patterns with TypeScript makes me fee
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-01-18 datetime="2025-01-18T18:44:17.000Z">2025-01-18</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-01-18 datetime="2025-01-18T18:44:17.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Labnotes (by Assaf Arkin)</button>
-                  <a class="source-heading__link" href="https://labnotes.org/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="6782e5736e0c6f0bba29a946"
-                        open
-                      >
-                        <summary class="article-expander__title">Weekend Reading — When you excel …</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://labnotes.org/weekend-reading-when-you-excel/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://labnotes.org/content/images/2025/01/image-103-1.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>BasicAppleGuy “Lumon Industries Macrodata Refinement Terminal.”
-Tech Stuff
-vivus A library that will animate SVG files bringing them to life.
-
-Justified Text: Better Than Expected? When you need your text properly justified:
-text-wrap: balance;
-hyphens: auto;
-hyphenate-limit-chars: 10;
-
-CSS light-dark() Delightful!
-
-Cognitive load is what matters The trick</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/13361105186">
-        <time id="build-timestamp" datetime="2025-02-17T01:41:58.281Z">2025-02-17T01:41:58.281Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/13381499692">
+        <time id="build-timestamp" datetime="2025-02-18T01:38:38.553Z">2025-02-18T01:38:38.553Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
