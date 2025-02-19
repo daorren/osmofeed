@@ -980,102 +980,10 @@ Thanks, Nick!
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-01-19 datetime="2025-01-19T23:00:00.000Z">2025-01-19</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-01-19 datetime="2025-01-19T23:00:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Stefan Judis Web Development</button>
-                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.stefanjudis.com/blog/web-weekly-149/"
-                        open
-                      >
-                        <summary class="article-expander__title">Web Weekly #149 (#blogPost)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/blog/web-weekly-149/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.stefanjudis.com/newsletter-social.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Guten Tag! Guten Tag! 👋
-
-Do you know what shipped in the Chrome Perf tools recently? Have you used JSON.raw already? And when do you correctly use the figure HTML element?
-Turn on the Web Weekly tune and find all the answers below. Enjoy!
-Tim listens to “Criminal Code - starcluster”
-This track hits an EDM sweet spot for work music — complex enough to be engaging, but clean enough to not distract. Tons of variation and very, very hype. Top kek.
-Do you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.
-Generally, I&#x27;ve never been very concerned about serverless platforms going rogue on me. How bad could it be, right? ServerlessHorrors tells another story.
-And while the scenarios on the site are extreme, let me tell you, I&#x27;v…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;10
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.stefanjudis.com/snippets/template-literal-types-for-validating-files-names/"
-                        open
-                      >
-                        <summary class="article-expander__title">Template Literal Types for validating files names (#snippet)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/snippets/template-literal-types-for-validating-files-names/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Template%20Literal%20Types%20for%20validating%20files%20names/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Here&#x27;s Alex using one of my favorite TypeScript features — Template Literal Types — to enforce file name conventions in TypeScript.
-js
-
-type ImageExtension &#x3D; &#x60;png&#x60; | &#x60;jp${&#x60;e&#x60; | &#x60;&#x60;}g&#x60; | &#x60;webp&#x60;;
-type }.jpg&#x60; | &#x60;${Lowercase}.jpeg&#x60; | &#x60;${Lowercase}.png&#x60; | &#x60;${Lowercase}.webp&#x60;&#x27; &gt;ImageFileName &#x3D; &#x60;${ &#x3D; intrinsic&#x27; &gt;Lowercase}.${ImageExtension}&#x60;;
- 
-const }.jpg&#x60; | &#x60;${Lowercase}.jpeg&#x60; | &#x60;${Lowercase}.png&#x60; | &#x60;${Lowercase}.webp&#x60;&#x27; &gt;goodName1: }.jpg&#x60; | &#x60;${Lowercase}.jpeg&#x60; | &#x60;${Lowercase}.png&#x60; | &#x60;${Lowercase}.webp&#x60;&#x27; &gt;ImageFileName &#x3D; &#x27;doggy1.jpeg&#x27;;
-const }.jpg&#x60; | &#x60;${Lowercase}.jpeg&#x60; | &#x60;${Lowercase}.png&#x60; | &#x60;${Lowercase}.webp&#x60;&#x27; &gt;goodName2: }.jpg&#x60; | &#x60;${Lowercase}.jpeg&#x60; | &#x60;${Lowercase}.png&#x60; | &#x60;${Lowercase}.webp&#x60;&#x27; &gt;ImageFileName &#x3D; &#x27;doggy2.jpg&#x27;;
-const }.jpg&#x60; | &#x60;${Lowercase}.jpeg&#x60; | &#x60;${Lowercase}.png&#x60; | &#x60;${Lowercase}.webp&#x60;&#x27; &gt;badName: }.jpg&#x60; | &#x60;${Lowercase}.jpeg&#x60; | &#x60;${Lowercase}.png&#x60; | &#x60;${Lowercase}.webp&#x60;&#x27; &gt;ImageFileName &#x3D; &#x27;KittyCat.webp&#x27;;
-Type &#x27;&quot;KittyCat.webp&quot;&#x27; is not assignable to type &#x27;&#x60;${Lowercase}.jpg&#x60; | &#x60;${Lowercase}.jpeg&#x60; | &#x60;${Lowercase}.png&#x60; | &#x60;${Lowercase}.webp&#x60;&#x27;.2322Type &#x27;&quot;KittyCat.webp&quot;&#x27; is not assignable to type &#x27;&#x60;${Lowercase}.jpg&#x60; | &#x60;${Lowercase}.jpeg&#x60; | &#x60;${Lowercase}.png&#x60; | &#x60;${Lowercase}.webp&#x60;&#x27;.
-
-I just love this feature. Enforcing string patterns with TypeScript makes me feel like a TS pro. 😅
-
-
-          
-          
-            Reply to Stefan</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/13381499692">
-        <time id="build-timestamp" datetime="2025-02-18T01:38:38.553Z">2025-02-18T01:38:38.553Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/13403645802">
+        <time id="build-timestamp" datetime="2025-02-19T01:39:21.929Z">2025-02-19T01:39:21.929Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
