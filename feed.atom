@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-21T01:40:07.473Z</updated>
+    <updated>2025-02-22T01:36:41.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rerun commands with the built-in "r" command (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/rerun-commands-with-the-r-command/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/rerun-commands-with-the-r-command/"/>
+        <updated>2025-02-20T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I just learned that executing r in my terminal, reruns the previous command. #wat
+r is a built-in shell command in my zsh setup.
+$ which r
+r: shell built-in command
+
+If you check all the built-in zsh commands with man zshbuiltins, you'll receive the unhelpful information that r command is the same as fc -e -.
+r — Same as fc -e -
+
+Alright, I'll bite, what's fc?
+fc is included in the zsh built-ins, too. The fc command lets you display, edit or execute commands from the shell history, but unfortunately, the zsh man pages fail to answer what fc actually stands for.
+Some folks say fc stands for "fix command" whereas others advocate for "find command". Both definitions make sense, but I didn't see it written in the zsh / bash man pages.
+fc is handy when juggling long and complicated shell magic …]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #152 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-152/</id>

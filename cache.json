@@ -59,6 +59,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/today-i-learned/rerun-commands-with-the-r-command/",
+          "author": null,
+          "description": "I just learned that executing r in my terminal, reruns the previous command. #wat\nr is a built-in shell command in my zsh setup.\n$ which r\nr: shell built-in command\n\nIf you check all the built-in zsh commands with man zshbuiltins, you'll receive the unhelpful information that r command is the same as fc -e -.\nr — Same as fc -e -\n\nAlright, I'll bite, what's fc?\nfc is included in the zsh built-ins, too. The fc command lets you display, edit or execute commands from the shell history, but unfortunately, the zsh man pages fail to answer what fc actually stands for.\nSome folks say fc stands for \"fix command\" whereas others advocate for \"find command\". Both definitions make sense, but I didn't see it written in the zsh / bash man pages.\nfc is handy when juggling long and complicated shell magic …",
+          "link": "https://www.stefanjudis.com/today-i-learned/rerun-commands-with-the-r-command/",
+          "publishedOn": "2025-02-20T23:00:00.000Z",
+          "wordCount": 1929,
+          "title": "Rerun commands with the built-in \"r\" command (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Rerun%20commands%20with%20the%20built-in%20%22r%22%20command/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-152/",
           "author": null,
           "description": "Guten Tag! Guten Tag! 👋\n\nWhat can we expect from Interop 2025? How can you give your console.log statements more context()? Is using gifs generally a good idea?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nPawel listens to “9th Wonder - LoveKiss”:\nI can listen to this beat in a loop for the whole day. Just so good!\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.\nIf you enjoy Web Weekly, let others know by reposting it on your favorite social network. It really helps me growing this newsletter into something \"real\". 🫣\n🦋 Bluesky\n🐘 Mastodon\n💼 Linkedin\nThank you! 💙\nThe browser makers came together and decided on the focus areas of Interop 2025.\nAnd if you now think, \"Oh well... again, ne…",

@@ -22,6 +22,65 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-02-20 datetime="2025-02-20T23:00:00.000Z">2025-02-20</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-02-20 datetime="2025-02-20T23:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/today-i-learned/rerun-commands-with-the-r-command/"
+                        open
+                      >
+                        <summary class="article-expander__title">Rerun commands with the built-in &quot;r&quot; command (#tilPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/rerun-commands-with-the-r-command/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Rerun%20commands%20with%20the%20built-in%20%22r%22%20command/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>I just learned that executing r in my terminal, reruns the previous command. #wat
+r is a built-in shell command in my zsh setup.
+$ which r
+r: shell built-in command
+
+If you check all the built-in zsh commands with man zshbuiltins, you&#x27;ll receive the unhelpful information that r command is the same as fc -e -.
+r — Same as fc -e -
+
+Alright, I&#x27;ll bite, what&#x27;s fc?
+fc is included in the zsh built-ins, too. The fc command lets you display, edit or execute commands from the shell history, but unfortunately, the zsh man pages fail to answer what fc actually stands for.
+Some folks say fc stands for &quot;fix command&quot; whereas others advocate for &quot;find command&quot;. Both definitions make sense, but I didn&#x27;t see it written in the zsh / bash man pages.
+fc is handy when juggling long and complicated shell magic …</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-02-16 datetime="2025-02-16T23:00:00.000Z">2025-02-16</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-02-16 datetime="2025-02-16T23:00:00.000Z"></time>
           </button>
@@ -899,8 +958,8 @@ I have known about the
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/13448244792">
-        <time id="build-timestamp" datetime="2025-02-21T01:40:07.456Z">2025-02-21T01:40:07.456Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/13468263134">
+        <time id="build-timestamp" datetime="2025-02-22T01:36:41.959Z">2025-02-22T01:36:41.959Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
