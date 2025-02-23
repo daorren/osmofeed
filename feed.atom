@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-22T01:36:41.976Z</updated>
+    <updated>2025-02-23T01:45:03.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — I. Kant.]]></title>
+        <id>67b225cb30234e819325d024</id>
+        <link href="https://labnotes.org/weekend-reading-i-kant/"/>
+        <updated>2025-02-22T18:57:26.000Z</updated>
+        <summary type="html"><![CDATA[Terry Matz “Seems like a good time to share this free knitting pattern for the This Is Fine Sweater by Yu Jie 玉杰”
+Tech Stuff
+Ólafur Waage
+Databases are still using tables? Don't they know we've switched to <div> years]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rerun commands with the built-in "r" command (#tilPost)]]></title>
         <id>https://www.stefanjudis.com/today-i-learned/rerun-commands-with-the-r-command/</id>
@@ -390,32 +403,6 @@ body {
 }
 
 It's one of these snippets you carry over from project to project. This font-family declaration tries to find installed fonts from left to right. It starts with -apple-system and BlinkMacSystemFont. And guess what? These two font-family values…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A "section" without an accessible name is nothing but a "div" (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/section-accessible-name/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/section-accessible-name/"/>
-        <updated>2025-01-23T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I was reading Vadim's post on color theme switching when I discovered an interesting code snippet.
-<section aria-label="Color scheme switcher">
-  <button aria-pressed="false" value="light">
-    Light
-  </button>
-  <button aria-pressed="true" value="light dark">
-    Auto
-  </button>
-  <button aria-pressed="false" value="dark">
-    Dark
-  </button>
-</section>
-
-The HTML for his color theme switcher includes three buttons, and each signals its state with aria-pressed. So far, so good. But did you notice the section element? Why does Vadim use a <section>, and why does it include an aria-label?
-When should you use the section HTML element?
-
-I have known about the <section> element for many years, but I must admit that I rarely use it. So, I did some digging. Here's the <section> definition from…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>

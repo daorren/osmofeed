@@ -12,6 +12,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "67b225cb30234e819325d024",
+          "author": "Assaf Arkin",
+          "description": "Terry Matz “Seems like a good time to share this free knitting pattern for the This Is Fine Sweater by Yu Jie 玉杰”\nTech Stuff\nÓlafur Waage\nDatabases are still using tables? Don't they know we've switched to <div> years",
+          "link": "https://labnotes.org/weekend-reading-i-kant/",
+          "publishedOn": "2025-02-22T18:57:26.000Z",
+          "wordCount": 2851,
+          "title": "Weekend Reading — I. Kant.",
+          "imageUrl": "https://labnotes.org/content/images/2025/02/image-120-1.png"
+        },
+        {
           "id": "67a77a0c22cd80046665cebd",
           "author": "Assaf Arkin",
           "description": "CM Harrington \"Timeline cleanse: Her name is Nibi.\"\nTech Stuff\npandan Not to be confused with the flavor, this is a fantastic time-tracking app that lives in the menubar. I like to know how long I'm spending at the coffee shop. I used the iPhone timer",
@@ -167,16 +177,6 @@
           "wordCount": 1813,
           "title": "Load the default OS font with CSS (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Load%20the%20default%20OS%20font%20with%20CSS/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/section-accessible-name/",
-          "author": null,
-          "description": "I was reading Vadim's post on color theme switching when I discovered an interesting code snippet.\n<section aria-label=\"Color scheme switcher\">\n  <button aria-pressed=\"false\" value=\"light\">\n    Light\n  </button>\n  <button aria-pressed=\"true\" value=\"light dark\">\n    Auto\n  </button>\n  <button aria-pressed=\"false\" value=\"dark\">\n    Dark\n  </button>\n</section>\n\nThe HTML for his color theme switcher includes three buttons, and each signals its state with aria-pressed. So far, so good. But did you notice the section element? Why does Vadim use a <section>, and why does it include an aria-label?\nWhen should you use the section HTML element?\n\nI have known about the <section> element for many years, but I must admit that I rarely use it. So, I did some digging. Here's the <section> definition from…",
-          "link": "https://www.stefanjudis.com/today-i-learned/section-accessible-name/",
-          "publishedOn": "2025-01-23T23:00:00.000Z",
-          "wordCount": 2354,
-          "title": "A \"section\" without an accessible name is nothing but a \"div\" (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20%22section%22%20without%20an%20accessible%20name%20is%20nothing%20but%20a%20%22div%22/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
