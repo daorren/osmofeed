@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-23T01:45:03.506Z</updated>
+    <updated>2025-02-24T01:42:20.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -386,23 +386,6 @@ I'd love to see this becoming a real --watch mode, though.
           
           
             Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Load the default OS font with CSS (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/load-the-default-os-font-with-css/</id>
-        <link href="https://www.stefanjudis.com/blog/load-the-default-os-font-with-css/"/>
-        <updated>2025-01-24T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I'm no font person. Sometimes, I notice a nice font setup, but I don't have the eye for it, and I appreciate the performance boost of not loading custom fonts.
-That's why this blog (at the time of writing) aims to render the default operating system fonts. After reading Stoyan's post on system fonts I could just do a little spring clean up.
-Here's the default CSS font setup I shipped for ages:
-body {
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
-}
-
-It's one of these snippets you carry over from project to project. This font-family declaration tries to find installed fonts from left to right. It starts with -apple-system and BlinkMacSystemFont. And guess what? These two font-family values…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>
