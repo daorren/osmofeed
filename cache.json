@@ -147,26 +147,6 @@
           "wordCount": 1630,
           "title": "How to load images in a spreadsheet (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20load%20images%20in%20a%20spreadsheet/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-150/",
-          "author": null,
-          "description": "Guten Tag! Guten Tag! 👋\n\nIs ::target-text included in your base styles? How do you set good alt text? And are you excited about the new features coming to the CSS attr() function?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nPawel listens to “Brian Bennett - Solstice”:\nSuch a good funky, jazzy tune with incredible drums. So many hip producers sampled it!\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.\n💙 Shoutout to Stefano for becoming the most recent Web Weekly supporter (Patreon / GitHub Sponsors). Thank you!\n🤝 If you want to support Web Weekly on social media, reshare this edition Mastodon, Linkedin, or Bluesky. Every eyeball helps this newsletter grow into \"something real\".\n\n      \n…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-150/",
-          "publishedOn": "2025-01-26T23:00:00.000Z",
-          "wordCount": 2699,
-          "title": "Web Weekly #150 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/playwrights-cli-watch-mode/",
-          "author": null,
-          "description": "You probably know that you can spin up Playwright's UI mode with npx playwright test --ui and rerun your tests with the watch mode.\nIt's a handy feature when you're developing your tests while still being in the try-and-error phase. Especially when I'm working on quick tests, I miss the quick feedback loop of CLI watch mode, which doesn't seem to be implemented. Or is it?\nI just discovered a CLI watch mode topic GitHub issue.\n\n\n\n\n\n\n\n\n\nmicrosoft/playwright #21960 OPEN\n\n\n\n[Feature] \"Headless\" CLI Watch Mode\n\n RichiCoder1 opened it Mar 24 2023\n\nTurns out, people are asking for a CLI watch mode, and a first version is implemented, and you can use it by setting an environment variable.\nPWTEST_WATCH=1 npx playwright test\n\nI played around with it for a minute and will definitely use the hack out of it.\nDemo session showing Playwright's experimental CLI watch mode.\n      \n    \nBut be aware: the current implementation is experimental, and it's there to gather feedback from the community. The feature might break or even disappear, but if you have feedback or want to give a thumbs-up, head over to the GitHub issue.\nI'd love to see this becoming a real --watch mode, though.\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/playwrights-cli-watch-mode/",
-          "publishedOn": "2025-01-26T23:00:00.000Z",
-          "wordCount": 1690,
-          "title": "Playwright has an experimental CLI watch mode (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Playwright%20has%20an%20experimental%20CLI%20watch%20mode/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
@@ -174,7 +154,18 @@
       "title": "mteam's Writings",
       "feedUrl": "https://mteam88.github.io/rss.xml",
       "siteUrl": "https://mteam.space/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://mteam.space/posts/how-base-can-solve-their-short-term-blob-problems-with-based-l3s-using-altda/",
+          "author": null,
+          "description": "based l3s on centralized sequencer L2s and how they are cool",
+          "link": "https://mteam.space/posts/how-base-can-solve-their-short-term-blob-problems-with-based-l3s-using-altda/",
+          "publishedOn": "2025-02-25T21:34:32.000Z",
+          "wordCount": 1423,
+          "title": "How Base can solve their short term blob problems with based L3s using altDA",
+          "imageUrl": "https://mteam.space/How%20Base%20can%20solve%20their%20short%20term%20blob%20problems%20with%20based%20L3s%20using%20altDA.png"
+        }
+      ]
     },
     {
       "title": "Libevm",

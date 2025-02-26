@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-25T01:41:49.549Z</updated>
+    <updated>2025-02-26T01:41:12.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Base can solve their short term blob problems with based L3s using altDA]]></title>
+        <id>https://mteam.space/posts/how-base-can-solve-their-short-term-blob-problems-with-based-l3s-using-altda/</id>
+        <link href="https://mteam.space/posts/how-base-can-solve-their-short-term-blob-problems-with-based-l3s-using-altda/"/>
+        <updated>2025-02-25T21:34:32.000Z</updated>
+        <summary type="html"><![CDATA[based l3s on centralized sequencer L2s and how they are cool]]></summary>
+        <author>
+            <name>mteam's Writings</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — I. Kant.]]></title>
         <id>67b225cb30234e819325d024</id>
@@ -324,70 +334,6 @@ Some Dude Was Keeping the Company Afloat
 The wildest part? No one in the company realized he was doing this. Not his manager, not the dev team, not even upper management. This guy wasn’]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #150 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-150/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-150/"/>
-        <updated>2025-01-26T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
-
-Is ::target-text included in your base styles? How do you set good alt text? And are you excited about the new features coming to the CSS attr() function?
-Turn on the Web Weekly tune and find all the answers below. Enjoy!
-Pawel listens to “Brian Bennett - Solstice”:
-Such a good funky, jazzy tune with incredible drums. So many hip producers sampled it!
-Do you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.
-💙 Shoutout to Stefano for becoming the most recent Web Weekly supporter (Patreon / GitHub Sponsors). Thank you!
-🤝 If you want to support Web Weekly on social media, reshare this edition Mastodon, Linkedin, or Bluesky. Every eyeball helps this newsletter grow into "something real".
-
-      
-…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playwright has an experimental CLI watch mode (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/playwrights-cli-watch-mode/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/playwrights-cli-watch-mode/"/>
-        <updated>2025-01-26T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You probably know that you can spin up Playwright's UI mode with npx playwright test --ui and rerun your tests with the watch mode.
-It's a handy feature when you're developing your tests while still being in the try-and-error phase. Especially when I'm working on quick tests, I miss the quick feedback loop of CLI watch mode, which doesn't seem to be implemented. Or is it?
-I just discovered a CLI watch mode topic GitHub issue.
-
-
-
-
-
-
-
-
-
-microsoft/playwright #21960 OPEN
-
-
-
-[Feature] "Headless" CLI Watch Mode
-
- RichiCoder1 opened it Mar 24 2023
-
-Turns out, people are asking for a CLI watch mode, and a first version is implemented, and you can use it by setting an environment variable.
-PWTEST_WATCH=1 npx playwright test
-
-I played around with it for a minute and will definitely use the hack out of it.
-Demo session showing Playwright's experimental CLI watch mode.
-      
-    
-But be aware: the current implementation is experimental, and it's there to gather feedback from the community. The feature might break or even disappear, but if you have feedback or want to give a thumbs-up, head over to the GitHub issue.
-I'd love to see this becoming a real --watch mode, though.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
