@@ -12,6 +12,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "67ba1ed4f08f40044c8982ec",
+          "author": "Assaf Arkin",
+          "description": "Elise “periodic reminder that Barcelona has a supercomputer inside an old church and it's one of the most rad things you can see”\nTech Stuff\nmacOS Tips & Tricks It's going to take me forever to learn all of these shortcuts, or even just",
+          "link": "https://labnotes.org/weekend-reading-slava-ukraini-2/",
+          "publishedOn": "2025-03-01T19:24:28.000Z",
+          "wordCount": 3065,
+          "title": "Weekend Reading — 🇺🇦 Slava Ukraini",
+          "imageUrl": "https://labnotes.org/content/images/2025/03/image-39-1.png"
+        },
+        {
           "id": "67b225cb30234e819325d024",
           "author": "Assaf Arkin",
           "description": "Terry Matz “Seems like a good time to share this free knitting pattern for the This Is Fine Sweater by Yu Jie 玉杰”\nTech Stuff\nÓlafur Waage\nDatabases are still using tables? Don't they know we've switched to <div> years",
@@ -58,6 +68,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/typescript-ignored-strict-function-types/",
+          "author": null,
+          "description": "Let's say you have this TypeScript type.\nts\n\ntype  void;\n}' >Example = {\n  // Method shorthand syntax (should be avoided)\n  method(x: string | number): void\n  // Function (or object property) syntax\n   void' >fn: (x: string | number) => void;\n};\n\n\nYou might expect the function types method and fn to behave exactly the same, right? The only difference is that one is defined in method shorthand, whereas the other is defined in function syntax. Both accept an x param that could either be a string or a number\nBut now check this out.\nts\n\nfunction fn(x: string) { /* ... */ }\n \nconst example:  void;\n}' >Example = {\n  // this is \"fine\" (but shouldn't be)...\n  method: fn,\n  // this is erroring correctly...\n   void' >fn: fn,\nType '(x: string) => void' is not assignable to type '(x: string | number) …",
+          "link": "https://www.stefanjudis.com/today-i-learned/typescript-ignored-strict-function-types/",
+          "publishedOn": "2025-02-28T23:00:00.000Z",
+          "wordCount": 1877,
+          "title": "TypeScript \"strictFunctionTypes\" is ignored for method syntax (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:TypeScript%20%22strictFunctionTypes%22%20is%20ignored%20for%20method%20syntax/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/today-i-learned/rerun-commands-with-the-r-command/",
           "author": null,
