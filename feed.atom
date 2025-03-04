@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-03T01:44:40.806Z</updated>
+    <updated>2025-03-04T01:43:16.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #153 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-153/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-153/"/>
+        <updated>2025-03-02T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+When will the time come to retire CSS space toggles? How can you influence what enters the web platform? How can you best debug all these nasty layout shifts?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+Pablo listens to “Woodkid - Run Boy Run“:
+“Run Boy Run” makes me feel the epicness of life, the revelation of some hidden quest for survival and awakening of the urgence of escaping from the oppression.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.
+Have you heard of the term CSS space toggles?
+Get ready; they're mind-bending stuff. Here's a space toggle in action.
+The trick is to use the fallback mechanism of custom properties. You can mimic inline if behaviors …]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — 🇺🇦 Slava Ukraini]]></title>
         <id>67ba1ed4f08f40044c8982ec</id>
@@ -323,26 +342,6 @@ greet(123);
 
 
 That's it for today. ✌️
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to load images in a spreadsheet (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/how-to-load-images-in-a-spreadsheet/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/how-to-load-images-in-a-spreadsheet/"/>
-        <updated>2025-02-01T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Back in the days, I used to joke about people using spreadsheets for everything. Especially in larger companies; whatever can be placed in a spreadsheet will eventually land in a spreadsheet.
-Thanks to Alex, today I learned, that some spreadsheet tools (Google Sheets and Excel) let us load images, too.
-=IMAGE("https://www.google.com/images/srpr/logo3w.png")
-
-I think this is pretty wild.
-But it might make sense to enrich sheets with images in product listings and similar things. 🤷
 
 
           

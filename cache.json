@@ -59,6 +59,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-153/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nWhen will the time come to retire CSS space toggles? How can you influence what enters the web platform? How can you best debug all these nasty layout shifts?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nPablo listens to “Woodkid - Run Boy Run“:\n“Run Boy Run” makes me feel the epicness of life, the revelation of some hidden quest for survival and awakening of the urgence of escaping from the oppression.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.\nHave you heard of the term CSS space toggles?\nGet ready; they're mind-bending stuff. Here's a space toggle in action.\nThe trick is to use the fallback mechanism of custom properties. You can mimic inline if behaviors …",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-153/",
+          "publishedOn": "2025-03-02T23:00:00.000Z",
+          "wordCount": 2684,
+          "title": "Web Weekly #153 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
           "id": "https://www.stefanjudis.com/today-i-learned/typescript-ignored-strict-function-types/",
           "author": null,
           "description": "Let's say you have this TypeScript type.\nts\n\ntype  void;\n}' >Example = {\n  // Method shorthand syntax (should be avoided)\n  method(x: string | number): void\n  // Function (or object property) syntax\n   void' >fn: (x: string | number) => void;\n};\n\n\nYou might expect the function types method and fn to behave exactly the same, right? The only difference is that one is defined in method shorthand, whereas the other is defined in function syntax. Both accept an x param that could either be a string or a number\nBut now check this out.\nts\n\nfunction fn(x: string) { /* ... */ }\n \nconst example:  void;\n}' >Example = {\n  // this is \"fine\" (but shouldn't be)...\n  method: fn,\n  // this is erroring correctly...\n   void' >fn: fn,\nType '(x: string) => void' is not assignable to type '(x: string | number) …",
@@ -137,16 +147,6 @@
           "wordCount": 1820,
           "title": "The difference between @ts-ignore and @ts-expect-error (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:The%20difference%20between%20%40ts-ignore%20and%20%40ts-expect-error/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/how-to-load-images-in-a-spreadsheet/",
-          "author": null,
-          "description": "Back in the days, I used to joke about people using spreadsheets for everything. Especially in larger companies; whatever can be placed in a spreadsheet will eventually land in a spreadsheet.\nThanks to Alex, today I learned, that some spreadsheet tools (Google Sheets and Excel) let us load images, too.\n=IMAGE(\"https://www.google.com/images/srpr/logo3w.png\")\n\nI think this is pretty wild.\nBut it might make sense to enrich sheets with images in product listings and similar things. 🤷\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/how-to-load-images-in-a-spreadsheet/",
-          "publishedOn": "2025-02-01T23:00:00.000Z",
-          "wordCount": 1630,
-          "title": "How to load images in a spreadsheet (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20load%20images%20in%20a%20spreadsheet/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
