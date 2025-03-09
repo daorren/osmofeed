@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-08T01:16:52.738Z</updated>
+    <updated>2025-03-09T01:22:56.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — The Agentic AI revolution]]></title>
+        <id>67c35eff48ffbb044da06561</id>
+        <link href="https://labnotes.org/weekend-reading-the-agentic-ai-revolution/"/>
+        <updated>2025-03-08T19:18:21.000Z</updated>
+        <summary type="html"><![CDATA[Street Art Utopia “Darth Fisher sculpture by Frankey for Amsterdam Light Festival in Amsterdam, The Netherlands. Photos by Janus van den Eijnden.”
+Tech Stuff
+Claude Code overview The Agentic AI revolution is taking shape and apparently Claude Code is this week's top contender. I just tested]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thoughts on close requests for dialogs (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/risky-mobile-close-requests/</id>
+        <link href="https://www.stefanjudis.com/blog/risky-mobile-close-requests/"/>
+        <updated>2025-03-07T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Manuel published "Close requests, close watchers, and the dialog element". I learned some things, have some questions and needed to structure my thoughts. So here we go!
+Chrome now ships a new closedby attribute for dialog elements.
+
+        
+MDN Compat Data (source)
+Browser support info for closedby 
+              
+                
+
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                
+
+                        
+                        134
+         …]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[parseInt parses anything starting with a number (#tilPost)]]></title>
         <id>https://www.stefanjudis.com/today-i-learned/parseint-parses-anything-starting-with-a-number/</id>
@@ -312,36 +363,6 @@ git config --global commit.template ~/.gitmessage
 Now, you'll be greeted with your custom message when you make a commit.
 Pretty sweet!
 Setting a global commit template isn't very user friendly. It'd be great to use Git's includeIf to set up project-dependent commit templates somehow, but I'll leave this for another day.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A well-known avatar URL would be dang cool. (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/a-well-known-avatar-url-would-be-dang-cool/</id>
-        <link href="https://www.stefanjudis.com/blog/a-well-known-avatar-url-would-be-dang-cool/"/>
-        <updated>2025-02-06T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I just read Anthony's post on ES Modules and discovered rendered profile images in the article.
-Whenever Anthony mentions a person, they link to their GitHub profile and render the GitHub avatars next to their user name. Cute! How does this work?
-You can take a GitHub profile URL (github.com/stefanjudis), append a .png to it (github.com/stefanjudis.png), and off you go fetching all these profile images! Easy peasy.
-But don't you think, too, that these inline avatars somehow change the article's vibe? By embedding some profile images, all these mentioned open source maintainers become "real humans". You almost want to check out their profiles just because their faces are right there in front of you.
-This discovery fascinates me because my blog embeds inline images for external links, too. But it doesn't humanize anything.
-This site renders favicons next to external links and it's surprising how different these two approaches feel. A profile avatar puts a person behind a link, whereas a favicon... well... a favicon just feels like a favicon next to a link.
-This avatar topic reminded me of Jim's post about .well-known URLs for avatars. The idea is to have a standardized URL convention to fetch avatars and profile images (remember Gravatar back in the old days?).
-Jim advocates for /.well-known/avatar. I'm game!
-It could also be a slash page at /avatar, I guess?
-Either way, my procrastination task of the day was to set up:
-stefanjudis.com/avatar
-stefanjudis.com/.well-known/avatar
-stefanjudis.com/.well-known/avatar.png
-... because I need my profile pic quite often.
-If someone now wants to make the well-known avatar URL happen or open a PR at the slash pages site, let me know! I'd love to see an /avatar route becoming a thing.
-Edit: Eric mentioned that he uses a subdomain (avatar.yatil.net) that even supports different image sizes (/32). That's pretty cool, too!
 
 
           

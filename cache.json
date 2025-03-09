@@ -12,6 +12,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "67c35eff48ffbb044da06561",
+          "author": "Assaf Arkin",
+          "description": "Street Art Utopia “Darth Fisher sculpture by Frankey for Amsterdam Light Festival in Amsterdam, The Netherlands. Photos by Janus van den Eijnden.”\nTech Stuff\nClaude Code overview The Agentic AI revolution is taking shape and apparently Claude Code is this week's top contender. I just tested",
+          "link": "https://labnotes.org/weekend-reading-the-agentic-ai-revolution/",
+          "publishedOn": "2025-03-08T19:18:21.000Z",
+          "wordCount": 4223,
+          "title": "Weekend Reading — The Agentic AI revolution",
+          "imageUrl": "https://labnotes.org/content/images/2025/03/image-90-1.png"
+        },
+        {
           "id": "67ba1ed4f08f40044c8982ec",
           "author": "Assaf Arkin",
           "description": "Elise “periodic reminder that Barcelona has a supercomputer inside an old church and it's one of the most rad things you can see”\nTech Stuff\nmacOS Tips & Tricks It's going to take me forever to learn all of these shortcuts, or even just",
@@ -58,6 +68,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/risky-mobile-close-requests/",
+          "author": null,
+          "description": "Manuel published \"Close requests, close watchers, and the dialog element\". I learned some things, have some questions and needed to structure my thoughts. So here we go!\nChrome now ships a new closedby attribute for dialog elements.\n\n        \nMDN Compat Data (source)\nBrowser support info for closedby \n              \n                \n\n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                \n\n                        \n                        134\n         …",
+          "link": "https://www.stefanjudis.com/blog/risky-mobile-close-requests/",
+          "publishedOn": "2025-03-07T23:00:00.000Z",
+          "wordCount": 2131,
+          "title": "Thoughts on close requests for dialogs (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Thoughts%20on%20close%20requests%20for%20dialogs/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/today-i-learned/parseint-parses-anything-starting-with-a-number/",
           "author": null,
@@ -137,16 +157,6 @@
           "wordCount": 1850,
           "title": "How to apply a global Git commit template (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20apply%20a%20global%20Git%20commit%20template/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/a-well-known-avatar-url-would-be-dang-cool/",
-          "author": null,
-          "description": "I just read Anthony's post on ES Modules and discovered rendered profile images in the article.\nWhenever Anthony mentions a person, they link to their GitHub profile and render the GitHub avatars next to their user name. Cute! How does this work?\nYou can take a GitHub profile URL (github.com/stefanjudis), append a .png to it (github.com/stefanjudis.png), and off you go fetching all these profile images! Easy peasy.\nBut don't you think, too, that these inline avatars somehow change the article's vibe? By embedding some profile images, all these mentioned open source maintainers become \"real humans\". You almost want to check out their profiles just because their faces are right there in front of you.\nThis discovery fascinates me because my blog embeds inline images for external links, too. But it doesn't humanize anything.\nThis site renders favicons next to external links and it's surprising how different these two approaches feel. A profile avatar puts a person behind a link, whereas a favicon... well... a favicon just feels like a favicon next to a link.\nThis avatar topic reminded me of Jim's post about .well-known URLs for avatars. The idea is to have a standardized URL convention to fetch avatars and profile images (remember Gravatar back in the old days?).\nJim advocates for /.well-known/avatar. I'm game!\nIt could also be a slash page at /avatar, I guess?\nEither way, my procrastination task of the day was to set up:\nstefanjudis.com/avatar\nstefanjudis.com/.well-known/avatar\nstefanjudis.com/.well-known/avatar.png\n... because I need my profile pic quite often.\nIf someone now wants to make the well-known avatar URL happen or open a PR at the slash pages site, let me know! I'd love to see an /avatar route becoming a thing.\nEdit: Eric mentioned that he uses a subdomain (avatar.yatil.net) that even supports different image sizes (/32). That's pretty cool, too!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/blog/a-well-known-avatar-url-would-be-dang-cool/",
-          "publishedOn": "2025-02-06T23:00:00.000Z",
-          "wordCount": 1837,
-          "title": "A well-known avatar URL would be dang cool. (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20well-known%20avatar%20URL%20would%20be%20dang%20cool./w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
