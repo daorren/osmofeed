@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-09T01:22:56.902Z</updated>
+    <updated>2025-03-10T01:20:41.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Query "newly" available baseline features in Node.js (#snippet)]]></title>
+        <id>https://www.stefanjudis.com/snippets/query-newly-available-baseline-features-in-node-js/</id>
+        <link href="https://www.stefanjudis.com/snippets/query-newly-available-baseline-features-in-node-js/"/>
+        <updated>2025-03-08T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jeremy's post describes the Web Platform Dashboard and its underlying API. If you don't know what I'm talking about, here's the Web Platform Dashboard. 👇
+The Web Platform Dashboard is wonderful because you can query the data set for baseline status, dates, and specific features. If you're into web platform updates, this site is there to get lost. Luckily, everything's powered by an API, too.
+Jeremy's post includes many example snippets to give you an idea of what to query.
+I sat down, adjusted the examples, and here's my new script to access all "newly" available baseline features in my terminal via node index.mjs.
+import { styleText } from "node:util";
+
+// More info on: https://web.dev/articles/web-platform-dashboard-baseline
+
+const API_BASE_URL = "https://api.webstatus.dev/v1/features";…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — The Agentic AI revolution]]></title>
         <id>67c35eff48ffbb044da06561</id>
@@ -325,51 +343,6 @@ Tech Stuff
 AI Prompt: Writing Supabase Edge Functions This is a new Supabase article but it's also a good example of how to write prompting rules for Cursor, which I just learned are easy to structure]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to apply a global Git commit template (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/global-git-commit-templates/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/global-git-commit-templates/"/>
-        <updated>2025-02-07T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When you commit things in Git via the CLI, you'll be greeted with something that looks like this:
-# Please enter the commit message for your changes. Lines starting
-# with '#' will be ignored, and an empty message aborts the commit.
-#
-# On branch main
-# Changes to be committed:
-#       new file:   ...
-
-You'll write your commit title on the first line, hit save, close the file, and go on with your nerdy day.
-The lines starting with a # will be ignored and not included in your commit data. As you see, most lines in this boilerplate message start with a #. I think they're there to enable you to make a good commit. It's good to know which files will be included and double-check that you're on the correct branch, right?
-But what makes a good commit?
-Creating good commits is complicated because every project/team has its own rules. Some bet on Gitmoji. Some want you to include a ticket number. Others might prefer lengthy explanations of the changes to generate an automated changelog.
-Today I learned that Git supports commit message templates to make your life easier if you're facing specific commit requirements.
-Run this command...
-git config --global commit.template ~/.gitmessage
-
-... to add this line to your general .gitconfig file...
-[commit]
-  template = ~/.gitmessage
-
-... and create a ~/.gitmessage file...
-# Yo, waz up! Dude, remember to follow these conventions (👇) , okay?
-#
-# 1. do this!
-# 2. do that!
-# ...
-
-... that contains your custom commit template.
-Now, you'll be greeted with your custom message when you make a commit.
-Pretty sweet!
-Setting a global commit template isn't very user friendly. It'd be great to use Git's includeIf to set up project-dependent commit templates somehow, but I'll leave this for another day.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

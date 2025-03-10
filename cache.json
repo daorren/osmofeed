@@ -69,6 +69,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/snippets/query-newly-available-baseline-features-in-node-js/",
+          "author": null,
+          "description": "Jeremy's post describes the Web Platform Dashboard and its underlying API. If you don't know what I'm talking about, here's the Web Platform Dashboard. 👇\nThe Web Platform Dashboard is wonderful because you can query the data set for baseline status, dates, and specific features. If you're into web platform updates, this site is there to get lost. Luckily, everything's powered by an API, too.\nJeremy's post includes many example snippets to give you an idea of what to query.\nI sat down, adjusted the examples, and here's my new script to access all \"newly\" available baseline features in my terminal via node index.mjs.\nimport { styleText } from \"node:util\";\n\n// More info on: https://web.dev/articles/web-platform-dashboard-baseline\n\nconst API_BASE_URL = \"https://api.webstatus.dev/v1/features\";…",
+          "link": "https://www.stefanjudis.com/snippets/query-newly-available-baseline-features-in-node-js/",
+          "publishedOn": "2025-03-08T23:00:00.000Z",
+          "wordCount": 1836,
+          "title": "Query \"newly\" available baseline features in Node.js (#snippet)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Query%20%22newly%22%20available%20baseline%20features%20in%20Node.js/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/risky-mobile-close-requests/",
           "author": null,
           "description": "Manuel published \"Close requests, close watchers, and the dialog element\". I learned some things, have some questions and needed to structure my thoughts. So here we go!\nChrome now ships a new closedby attribute for dialog elements.\n\n        \nMDN Compat Data (source)\nBrowser support info for closedby \n              \n                \n\n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                \n\n                        \n                        134\n         …",
@@ -147,16 +157,6 @@
           "wordCount": 2564,
           "title": "Web Weekly #151 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/global-git-commit-templates/",
-          "author": null,
-          "description": "When you commit things in Git via the CLI, you'll be greeted with something that looks like this:\n# Please enter the commit message for your changes. Lines starting\n# with '#' will be ignored, and an empty message aborts the commit.\n#\n# On branch main\n# Changes to be committed:\n#       new file:   ...\n\nYou'll write your commit title on the first line, hit save, close the file, and go on with your nerdy day.\nThe lines starting with a # will be ignored and not included in your commit data. As you see, most lines in this boilerplate message start with a #. I think they're there to enable you to make a good commit. It's good to know which files will be included and double-check that you're on the correct branch, right?\nBut what makes a good commit?\nCreating good commits is complicated because every project/team has its own rules. Some bet on Gitmoji. Some want you to include a ticket number. Others might prefer lengthy explanations of the changes to generate an automated changelog.\nToday I learned that Git supports commit message templates to make your life easier if you're facing specific commit requirements.\nRun this command...\ngit config --global commit.template ~/.gitmessage\n\n... to add this line to your general .gitconfig file...\n[commit]\n  template = ~/.gitmessage\n\n... and create a ~/.gitmessage file...\n# Yo, waz up! Dude, remember to follow these conventions (👇) , okay?\n#\n# 1. do this!\n# 2. do that!\n# ...\n\n... that contains your custom commit template.\nNow, you'll be greeted with your custom message when you make a commit.\nPretty sweet!\nSetting a global commit template isn't very user friendly. It'd be great to use Git's includeIf to set up project-dependent commit templates somehow, but I'll leave this for another day.\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/global-git-commit-templates/",
-          "publishedOn": "2025-02-07T23:00:00.000Z",
-          "wordCount": 1850,
-          "title": "How to apply a global Git commit template (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20apply%20a%20global%20Git%20commit%20template/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
