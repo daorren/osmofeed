@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-10T01:20:41.719Z</updated>
+    <updated>2025-03-11T01:44:05.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -331,18 +331,6 @@ It's great to see Web Weekly growing, and if you have any comments, questions, o
 I'…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — As asap as possible!]]></title>
-        <id>679ddc50daa9b36965a4cd30</id>
-        <link href="https://labnotes.org/weekend-reading-as-asap-as-possible/"/>
-        <updated>2025-02-08T15:35:09.000Z</updated>
-        <summary type="html"><![CDATA[Ben “Nice lil guy I just found out we own”
-Tech Stuff
-AI Prompt: Writing Supabase Edge Functions This is a new Supabase article but it's also a good example of how to write prompting rules for Cursor, which I just learned are easy to structure]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
