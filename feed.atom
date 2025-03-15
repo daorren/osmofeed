@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-14T01:42:41.934Z</updated>
+    <updated>2025-03-15T01:42:11.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The macOS inline dictionary has a shortcut (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/the-macos-inline-dictionary-has-a-shortcut/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/the-macos-inline-dictionary-has-a-shortcut/"/>
+        <updated>2025-03-13T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I've been a Mac user for a very long time and I think I just learned my new favorite shortcut from this massive post about macOS shortcuts.
+Now, English isn't my first language and I still need to look up words daily. Usually, I use Google Translate or Raycast for this, but today I learned the macOS Dictionary app (which I barely use) provides inline help.
+You can bring it up with ⌘⌃D (D for dictionary).
+And because this functionality comes from an official macOS app, the shortcut works in the browser, PDFs, Slack, etc.
+Example showing how to use the inline dictionary app via a shortcut.
+      
+    
+Whoa! I'm amazed. 😱
+Side note: someone pointed out that this inline help also shows up when doing a force click on the Mac trackpad, but I have most of the trackpad magic turned off because it drives me nuts.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Query "newly" available baseline features in Node.js (#snippet)]]></title>
         <id>https://www.stefanjudis.com/snippets/query-newly-available-baseline-features-in-node-js/</id>
