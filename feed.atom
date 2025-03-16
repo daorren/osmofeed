@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-15T01:42:11.554Z</updated>
+    <updated>2025-03-16T01:50:07.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Not like us]]></title>
+        <id>67cc984dfddcc00569b514e9</id>
+        <link href="https://labnotes.org/weekend-reading-not-like-us/"/>
+        <updated>2025-03-15T19:58:23.000Z</updated>
+        <summary type="html"><![CDATA[Baby koalas rescued in wake of storm
+Tech Stuff
+Here’s how I use LLMs to help me write code
+The best way to learn LLMs is to play with them. Throwing absurd ideas at them and vibe-coding until they almost sort-of work is a genuinely useful way to]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The macOS inline dictionary has a shortcut (#tilPost)]]></title>
         <id>https://www.stefanjudis.com/today-i-learned/the-macos-inline-dictionary-has-a-shortcut/</id>
