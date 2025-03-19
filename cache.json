@@ -50,16 +50,6 @@
           "wordCount": 2851,
           "title": "Weekend Reading — I. Kant.",
           "imageUrl": "https://labnotes.org/content/images/2025/02/image-120-1.png"
-        },
-        {
-          "id": "67a77a0c22cd80046665cebd",
-          "author": "Assaf Arkin",
-          "description": "CM Harrington \"Timeline cleanse: Her name is Nibi.\"\nTech Stuff\npandan Not to be confused with the flavor, this is a fantastic time-tracking app that lives in the menubar. I like to know how long I'm spending at the coffee shop. I used the iPhone timer",
-          "link": "https://labnotes.org/weekend-reading-ill-take-one-canadiano-please/",
-          "publishedOn": "2025-02-16T17:50:54.000Z",
-          "wordCount": 3367,
-          "title": "Weekend Reading — I'll take one Canadiano please",
-          "imageUrl": "https://labnotes.org/content/images/2025/02/image-88-1.png"
         }
       ]
     },
@@ -147,26 +137,6 @@
           "wordCount": 1929,
           "title": "Rerun commands with the built-in \"r\" command (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Rerun%20commands%20with%20the%20built-in%20%22r%22%20command/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-152/",
-          "author": null,
-          "description": "Guten Tag! Guten Tag! 👋\n\nWhat can we expect from Interop 2025? How can you give your console.log statements more context()? Is using gifs generally a good idea?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nPawel listens to “9th Wonder - LoveKiss”:\nI can listen to this beat in a loop for the whole day. Just so good!\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.\nIf you enjoy Web Weekly, let others know by reposting it on your favorite social network. It really helps me growing this newsletter into something \"real\". 🫣\n🦋 Bluesky\n🐘 Mastodon\n💼 Linkedin\nThank you! 💙\nThe browser makers came together and decided on the focus areas of Interop 2025.\nAnd if you now think, \"Oh well... again, ne…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-152/",
-          "publishedOn": "2025-02-16T23:00:00.000Z",
-          "wordCount": 2486,
-          "title": "Web Weekly #152 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/iterate-typescript-union-type/",
-          "author": null,
-          "description": "Is it just me, or are TypeScript conditional types and the extends keyword kinda scary?\nts\n\n// What is going on? 😅\ntype  = T extends number ? never : T' >Something<' >T> = ' >T extends number ? never : ' >T;\n\n\nI've just read Dr. Axel's \"Conditional types in TypeScript\" and some things finally clicked for me.\nLet's say we have a union type containing multiple strings.\nts\n\ntype AllColors = \"Black\" | \"White\" | \"Orange\" | \"Red\" | \"Blue\" | \"Yellow\" | \"Gray\";\n\n\nSome people don't consider black, white and gray as colors. How could you now iterate over the union type and get these \"noncolors\" out of the AllColors type?\nts\n\n// Iterate of the types included in `AllColors`.\n//\n// If type `T` does not extend `R` apply the `never` type.\n// `never` will remove `T` from the resulting union type.\ntype  =…",
-          "link": "https://www.stefanjudis.com/today-i-learned/iterate-typescript-union-type/",
-          "publishedOn": "2025-02-16T23:00:00.000Z",
-          "wordCount": 2046,
-          "title": "How to iterate over TypeScript union types (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20iterate%20over%20TypeScript%20union%20types/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
