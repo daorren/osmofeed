@@ -12,6 +12,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "67d5dc53ca59bc055f7e2a83",
+          "author": "Assaf Arkin",
+          "description": "Dan Neuman “Nice one, IKEA”\nTech Stuff\n⌘K Fast, composable, unstyled command menu for React. Not to be confused with Paletro, a command palette for every macOS app.\n\nRemind Me Faster I think this is the perfect app for people with ADHD and at $3.99 not",
+          "link": "https://labnotes.org/weekend-reading-department-of-weird/",
+          "publishedOn": "2025-03-22T18:57:24.000Z",
+          "wordCount": 3689,
+          "title": "Weekend Reading — Department of weird",
+          "imageUrl": "https://labnotes.org/content/images/2025/03/image-181-1.png"
+        },
+        {
           "id": "67cc984dfddcc00569b514e9",
           "author": "Assaf Arkin",
           "description": "Baby koalas rescued in wake of storm\nTech Stuff\nHere’s how I use LLMs to help me write code\nThe best way to learn LLMs is to play with them. Throwing absurd ideas at them and vibe-coding until they almost sort-of work is a genuinely useful way to",
@@ -127,16 +137,6 @@
           "wordCount": 1877,
           "title": "TypeScript \"strictFunctionTypes\" is ignored for method syntax (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:TypeScript%20%22strictFunctionTypes%22%20is%20ignored%20for%20method%20syntax/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/rerun-commands-with-the-r-command/",
-          "author": null,
-          "description": "I just learned that executing r in my terminal, reruns the previous command. #wat\nr is a built-in shell command in my zsh setup.\n$ which r\nr: shell built-in command\n\nIf you check all the built-in zsh commands with man zshbuiltins, you'll receive the unhelpful information that r command is the same as fc -e -.\nr — Same as fc -e -\n\nAlright, I'll bite, what's fc?\nfc is included in the zsh built-ins, too. The fc command lets you display, edit or execute commands from the shell history, but unfortunately, the zsh man pages fail to answer what fc actually stands for.\nSome folks say fc stands for \"fix command\" whereas others advocate for \"find command\". Both definitions make sense, but I didn't see it written in the zsh / bash man pages.\nfc is handy when juggling long and complicated shell magic …",
-          "link": "https://www.stefanjudis.com/today-i-learned/rerun-commands-with-the-r-command/",
-          "publishedOn": "2025-02-20T23:00:00.000Z",
-          "wordCount": 1929,
-          "title": "Rerun commands with the built-in \"r\" command (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Rerun%20commands%20with%20the%20built-in%20%22r%22%20command/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
