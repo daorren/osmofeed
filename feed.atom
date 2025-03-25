@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-24T01:49:10.685Z</updated>
+    <updated>2025-03-25T01:46:49.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -280,19 +280,6 @@ Type '(x: string) => void' is not assignable to type '(x: string | number) …]]
         <summary type="html"><![CDATA[based l3s on centralized sequencer L2s and how they are cool]]></summary>
         <author>
             <name>mteam's Writings</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — I. Kant.]]></title>
-        <id>67b225cb30234e819325d024</id>
-        <link href="https://labnotes.org/weekend-reading-i-kant/"/>
-        <updated>2025-02-22T18:57:26.000Z</updated>
-        <summary type="html"><![CDATA[Terry Matz “Seems like a good time to share this free knitting pattern for the This Is Fine Sweater by Yu Jie 玉杰”
-Tech Stuff
-Ólafur Waage
-Databases are still using tables? Don't they know we've switched to <div> years]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
