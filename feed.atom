@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-26T01:46:04.846Z</updated>
+    <updated>2025-03-27T01:45:39.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #155 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-155/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-155/"/>
+        <updated>2025-03-25T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Can we build good-looking carousels only with CSS? What's unsafe flexbox alignment? And when would you use document.currentScript?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+Danny listens to “Nilüfer Yanya - Like I Say“
+Great tune I picked up last year with a hypnotic chorus.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.
+If you enjoy Web Weekly, help me grow this newsletter and let your friends know...
+🦋 Bluesky
+🐘 Mastodon
+💼 Linkedin
+A quick "repost" really helps this indie newsletter out. Thank you! ❤️
+Sponsored
+snappify - The PowerPoint alternative for Software Developers
+
+Snappify comes with a powerful Editor that helps you to create stunning presentatio…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WCAG success criteria that can't be autmatically tested (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/wcag-success-criteria-that-cant-be-autmatically-tested/</id>
+        <link href="https://www.stefanjudis.com/notes/wcag-success-criteria-that-cant-be-autmatically-tested/"/>
+        <updated>2025-03-25T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are many accessibility audit tools out there. The most mainstream one is probably Chrome's Lighthouse Accessibility audit. But let me tell you a secret.
+Accessibility testing isn't done after achieving a green Lighthouse score.
+Here's Steve Faulkner listing WCAG success criteria that aren't covered by today's tools.
+Some obvious examples:
+Automated tools can detect missing alt attributes but cannot determine if alternative text is meaningful.
+Tools can check for semantic HTML elements (e.g., headings, lists, tables) but cannot determine if relationships are accurately conveyed.
+Tools can analyze DOM order, but manual review is needed to verify if reading order makes sense.
+Tools can verify the presence and structure of the title element, but cannot determine whether the title text is meaningful or descriptive.
+Tools can detect link text, but manual testing is needed to verify if the link text makes sense in context.
+Tools are great for "obvious" technical accessibility but for everything else manual testing is still required.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Department of weird]]></title>
         <id>67d5dc53ca59bc055f7e2a83</id>
