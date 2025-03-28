@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-27T01:45:39.760Z</updated>
+    <updated>2025-03-28T01:46:05.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -319,16 +319,6 @@ const example:  void;
 Type '(x: string) => void' is not assignable to type '(x: string | number) …]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Base can solve their short term blob problems with based L3s using altDA]]></title>
-        <id>https://mteam.space/posts/how-base-can-solve-their-short-term-blob-problems-with-based-l3s-using-altda/</id>
-        <link href="https://mteam.space/posts/how-base-can-solve-their-short-term-blob-problems-with-based-l3s-using-altda/"/>
-        <updated>2025-02-25T21:34:32.000Z</updated>
-        <summary type="html"><![CDATA[based l3s on centralized sequencer L2s and how they are cool]]></summary>
-        <author>
-            <name>mteam's Writings</name>
         </author>
     </entry>
 </feed>
