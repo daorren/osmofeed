@@ -147,16 +147,6 @@
           "wordCount": 2684,
           "title": "Web Weekly #153 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/typescript-ignored-strict-function-types/",
-          "author": null,
-          "description": "Let's say you have this TypeScript type.\nts\n\ntype  void;\n}' >Example = {\n  // Method shorthand syntax (should be avoided)\n  method(x: string | number): void\n  // Function (or object property) syntax\n   void' >fn: (x: string | number) => void;\n};\n\n\nYou might expect the function types method and fn to behave exactly the same, right? The only difference is that one is defined in method shorthand, whereas the other is defined in function syntax. Both accept an x param that could either be a string or a number\nBut now check this out.\nts\n\nfunction fn(x: string) { /* ... */ }\n \nconst example:  void;\n}' >Example = {\n  // this is \"fine\" (but shouldn't be)...\n  method: fn,\n  // this is erroring correctly...\n   void' >fn: fn,\nType '(x: string) => void' is not assignable to type '(x: string | number) …",
-          "link": "https://www.stefanjudis.com/today-i-learned/typescript-ignored-strict-function-types/",
-          "publishedOn": "2025-02-28T23:00:00.000Z",
-          "wordCount": 1877,
-          "title": "TypeScript \"strictFunctionTypes\" is ignored for method syntax (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:TypeScript%20%22strictFunctionTypes%22%20is%20ignored%20for%20method%20syntax/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-30T01:53:41.218Z</updated>
+    <updated>2025-03-31T01:52:10.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -302,40 +302,6 @@ Tech Stuff
 macOS Tips & Tricks It's going to take me forever to learn all of these shortcuts, or even just]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript "strictFunctionTypes" is ignored for method syntax (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/typescript-ignored-strict-function-types/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/typescript-ignored-strict-function-types/"/>
-        <updated>2025-02-28T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let's say you have this TypeScript type.
-ts
-
-type  void;
-}' >Example = {
-  // Method shorthand syntax (should be avoided)
-  method(x: string | number): void
-  // Function (or object property) syntax
-   void' >fn: (x: string | number) => void;
-};
-
-
-You might expect the function types method and fn to behave exactly the same, right? The only difference is that one is defined in method shorthand, whereas the other is defined in function syntax. Both accept an x param that could either be a string or a number
-But now check this out.
-ts
-
-function fn(x: string) { /* ... */ }
- 
-const example:  void;
-}' >Example = {
-  // this is "fine" (but shouldn't be)...
-  method: fn,
-  // this is erroring correctly...
-   void' >fn: fn,
-Type '(x: string) => void' is not assignable to type '(x: string | number) …]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
