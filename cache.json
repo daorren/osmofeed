@@ -59,6 +59,26 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-156/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nDo you know that you can style select elements these days? Or do you wonder how Chrome prioritizes image loading? Or have you used CSS paint-order?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nAndre listens to “ElyOtto - GREEN APPLE PASTE“\nThis beat never fails to get me moving, hyperpop fans won’t be disappointed.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are two more songs left in the queue.\n❤️ A huge thanks goes to Mirko this week. Thank you for supporting this small indie newsletter with a monthly coffee donation! Writing it takes a lot of time, and these small gestures really fill up my motivation tank!\nIf Web Weekly is valuable to you (and, of course, if you can), you may want to earn some K…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-156/",
+          "publishedOn": "2025-03-31T22:00:00.000Z",
+          "wordCount": 2957,
+          "title": "Web Weekly #156 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/forbidden-headers-cant-be-set-in-fetch-requests/",
+          "author": null,
+          "description": "Here's Alex blogging about forbidden request headers. Forbidden what? Exactly!\nIt turns out that when using the fetch API (or if you're old school, XMLHttpRequest) there's a set of headers that you can't specify or overwrite from within JavaScript.\nWhat are \"forbidden request headers\"?\n\nThe spec defines three different types of forbidden request headers.\nFirst, all headers in this list are forbidden:\nAccept-Charset\nAccept-Encoding\nAccess-Control-Request-Headers\nAccess-Control-Request-Method\nConnection\nContent-Length\nCookie\nCookie2 (This seems to be a deprecated spec that never went anywhere)\nDate\nDNT\nExpect\nHost\nKeep-Alive\nOrigin\nReferer\nSet-Cookie\nTE\nTrailer\nTransfer-Encoding\nUpgrade\nVia\nSecond, headers starting with proxy- or sec- are also forbidden.\nAnd third, if there's something going on with the parsed values of the headers X-HTTP-Method, X-HTTP-Method-Override, and X-Method-Override header they might be forbidden, too.\nApparently, you can overwrite or at least signal that the initial HTTP method should be a different one? I have so many questions, but I'll leave them for another time.\nWhat happens when you try to set a forbidden header?\n\nSo, what happens if you try to set a forbidden header?\nfetch('https://api.example.com/data', {\n  headers: {\n    'Content-Length': '100',  // This will be ignored\n    'X-Custom-Header': 'This is fine'  // This will be sent\n  }\n})\n\nBrowsers will simply ignore them and maybe, if they're kind, log a warning.\nThis all makes sense because the spec states that there should be things the user agent remains in control of.\nThese are forbidden so the user agent remains in full control over them.\nThis behavior makes total sense to avoid nasty security loopholes. I can imagine that if JavaScript could overwrite every header it would open all kinds of security vulnerability doors.\nIf you want to dive deeper check out Alex's post, it's a nice one.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/forbidden-headers-cant-be-set-in-fetch-requests/",
+          "publishedOn": "2025-03-31T22:00:00.000Z",
+          "wordCount": 1811,
+          "title": "Forbidden headers can't be set in \"fetch\" requests (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Forbidden%20headers%20can't%20be%20set%20in%20%22fetch%22%20requests/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-155/",
           "author": null,
           "description": "Guten Tag! Guten Tag! 👋\n\nCan we build good-looking carousels only with CSS? What's unsafe flexbox alignment? And when would you use document.currentScript?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nDanny listens to “Nilüfer Yanya - Like I Say“\nGreat tune I picked up last year with a hypnotic chorus.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.\nIf you enjoy Web Weekly, help me grow this newsletter and let your friends know...\n🦋 Bluesky\n🐘 Mastodon\n💼 Linkedin\nA quick \"repost\" really helps this indie newsletter out. Thank you! ❤️\nSponsored\nsnappify - The PowerPoint alternative for Software Developers\n\nSnappify comes with a powerful Editor that helps you to create stunning presentatio…",
@@ -127,16 +147,6 @@
           "wordCount": 1822,
           "title": "parseInt parses anything starting with a number (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:parseInt%20parses%20anything%20starting%20with%20a%20number/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-153/",
-          "author": null,
-          "description": "Guten Tag! Guten Tag! 👋\n\nWhen will the time come to retire CSS space toggles? How can you influence what enters the web platform? How can you best debug all these nasty layout shifts?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nPablo listens to “Woodkid - Run Boy Run“:\n“Run Boy Run” makes me feel the epicness of life, the revelation of some hidden quest for survival and awakening of the urgence of escaping from the oppression.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.\nHave you heard of the term CSS space toggles?\nGet ready; they're mind-bending stuff. Here's a space toggle in action.\nThe trick is to use the fallback mechanism of custom properties. You can mimic inline if behaviors …",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-153/",
-          "publishedOn": "2025-03-02T23:00:00.000Z",
-          "wordCount": 2684,
-          "title": "Web Weekly #153 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
     },
