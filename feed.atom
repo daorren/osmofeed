@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-05T01:44:59.873Z</updated>
+    <updated>2025-04-06T01:52:22.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — 🐧 Tax the Penguins!]]></title>
+        <id>67e86c4359b5720001e8a048</id>
+        <link href="https://labnotes.org/weekend-reading-tax-the-penguins/"/>
+        <updated>2025-04-05T17:13:18.000Z</updated>
+        <summary type="html"><![CDATA[Sin of empathy
+Tech Stuff
+new.email Get some AI help to build the perfect email template, using react.email which is a super cool email template library, so you can resend your emails away! (If you’re still stuck in MJMLand, give it a try!)
+
+react-international-phone The nice]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #156 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-156/</id>
@@ -282,70 +296,6 @@ Browser support info for closedby
                         
                         134
          …]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[parseInt parses anything starting with a number (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/parseint-parses-anything-starting-with-a-number/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/parseint-parses-anything-starting-with-a-number/"/>
-        <updated>2025-03-06T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You probably know our good old friend parseInt and its quirks.
-// it ignores whitespace
-parseInt("   123 "); // 123
-
-// it ignores leading zeros
-parseInt("077"); // 77
-
-// it truncates the decimal part
-parseInt("1.9"); // 1
-
-// it parses numbers sometimes with a different base
-parseInt(015); // 13
-parseInt('0x14'); // 20
-
-I've just read Aleksandr's post and learned about a parseInt superpower.
-Apparently, parseInt can parse Emoji numbers correctly!
-parseInt('1️⃣'); // 1
-parseInt('2️⃣'); // 2
-parseInt('3️⃣'); // 3
-
-What? It doesn't make any sense that this works!
-And, of course, parseInt can't parse Emoji numbers, but the combination of how Emoji numbers are put together and a parseInt quirk makes it appear as if parseInt could parse Emojis.
-I always thought parseInt would try to parse the entire passed-in value, and if it failed, it would return NaN. And this is mostly correct...
-parseInt('wat');     // NaN
-parseInt('wat', 10); // NaN
-
-... unless the value you want to parse starts with a numeric value like the number Emojis (1️⃣ = 1 + more code points).
-parseInt('1w');     // 1
-parseInt('1w', 10); // 1
-
-parseInt('1.5w');     // 1
-parseInt('1.5w', 10); // 1
-
-If your value starts with an unparsable character, you'll be back at NaN.
-parseInt('a1w');     // NaN
-parseInt('a1w', 10); // NaN
-
-I must say I find this wild and confusing, but I guess this behavior was put in there to parse numbers with units more easily.
-parseInt('12€'); // 12
-
-However, JavaScript never holds back with a twist. Philipp pointed out that the Number() constructor behaves differently.
-Number('1️⃣');   // NaN
-Number('1w');   // NaN
-Number('1.5w'); // NaN
-Number('a1w');  // NaN
-Number('12€')   // NaN
-
-Number('1.2'); // 1.2
-
-Well, it's good to know about all these quirks!
-
-
-          
-          
-            Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>

@@ -12,6 +12,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "67e86c4359b5720001e8a048",
+          "author": "Assaf Arkin",
+          "description": "Sin of empathy\nTech Stuff\nnew.email Get some AI help to build the perfect email template, using react.email which is a super cool email template library, so you can resend your emails away! (If you’re still stuck in MJMLand, give it a try!)\n\nreact-international-phone The nice",
+          "link": "https://labnotes.org/weekend-reading-tax-the-penguins/",
+          "publishedOn": "2025-04-05T17:13:18.000Z",
+          "wordCount": 3355,
+          "title": "Weekend Reading — 🐧 Tax the Penguins!",
+          "imageUrl": "https://labnotes.org/content/images/2025/04/image-37.png.jpeg"
+        },
+        {
           "id": "67df087534e5cf0555f04ab5",
           "author": "Assaf Arkin",
           "description": "Tech Stuff\nDenny\n\nKarri Saarinen: 10 Rules for Crafting Products That Stand Out Linear’s CEO shares his approach to quality and craft:\nCommit to quality at the leadership level\nWhen it comes to building teams, go small and aim high\nDo away with handoff\nResist creating specialized product",
@@ -137,16 +147,6 @@
           "wordCount": 2131,
           "title": "Thoughts on close requests for dialogs (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Thoughts%20on%20close%20requests%20for%20dialogs/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/parseint-parses-anything-starting-with-a-number/",
-          "author": null,
-          "description": "You probably know our good old friend parseInt and its quirks.\n// it ignores whitespace\nparseInt(\"   123 \"); // 123\n\n// it ignores leading zeros\nparseInt(\"077\"); // 77\n\n// it truncates the decimal part\nparseInt(\"1.9\"); // 1\n\n// it parses numbers sometimes with a different base\nparseInt(015); // 13\nparseInt('0x14'); // 20\n\nI've just read Aleksandr's post and learned about a parseInt superpower.\nApparently, parseInt can parse Emoji numbers correctly!\nparseInt('1️⃣'); // 1\nparseInt('2️⃣'); // 2\nparseInt('3️⃣'); // 3\n\nWhat? It doesn't make any sense that this works!\nAnd, of course, parseInt can't parse Emoji numbers, but the combination of how Emoji numbers are put together and a parseInt quirk makes it appear as if parseInt could parse Emojis.\nI always thought parseInt would try to parse the entire passed-in value, and if it failed, it would return NaN. And this is mostly correct...\nparseInt('wat');     // NaN\nparseInt('wat', 10); // NaN\n\n... unless the value you want to parse starts with a numeric value like the number Emojis (1️⃣ = 1 + more code points).\nparseInt('1w');     // 1\nparseInt('1w', 10); // 1\n\nparseInt('1.5w');     // 1\nparseInt('1.5w', 10); // 1\n\nIf your value starts with an unparsable character, you'll be back at NaN.\nparseInt('a1w');     // NaN\nparseInt('a1w', 10); // NaN\n\nI must say I find this wild and confusing, but I guess this behavior was put in there to parse numbers with units more easily.\nparseInt('12€'); // 12\n\nHowever, JavaScript never holds back with a twist. Philipp pointed out that the Number() constructor behaves differently.\nNumber('1️⃣');   // NaN\nNumber('1w');   // NaN\nNumber('1.5w'); // NaN\nNumber('a1w');  // NaN\nNumber('12€')   // NaN\n\nNumber('1.2'); // 1.2\n\nWell, it's good to know about all these quirks!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/parseint-parses-anything-starting-with-a-number/",
-          "publishedOn": "2025-03-06T23:00:00.000Z",
-          "wordCount": 1822,
-          "title": "parseInt parses anything starting with a number (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:parseInt%20parses%20anything%20starting%20with%20a%20number/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
