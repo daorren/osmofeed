@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-06T01:52:22.297Z</updated>
+    <updated>2025-04-07T01:50:05.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -259,45 +259,6 @@ Tech Stuff
 Claude Code overview The Agentic AI revolution is taking shape and apparently Claude Code is this week's top contender. I just tested]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thoughts on close requests for dialogs (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/risky-mobile-close-requests/</id>
-        <link href="https://www.stefanjudis.com/blog/risky-mobile-close-requests/"/>
-        <updated>2025-03-07T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Manuel published "Close requests, close watchers, and the dialog element". I learned some things, have some questions and needed to structure my thoughts. So here we go!
-Chrome now ships a new closedby attribute for dialog elements.
-
-        
-MDN Compat Data (source)
-Browser support info for closedby 
-              
-                
-
-                        
-                      
-                        
-                      
-                        
-                      
-                        
-                      
-                        
-                      
-                        
-                      
-                        
-                      
-                        
-                      
-                
-
-                        
-                        134
-         …]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
