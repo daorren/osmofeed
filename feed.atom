@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-07T01:50:05.904Z</updated>
+    <updated>2025-04-08T01:47:28.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -229,36 +229,6 @@ Side note: someone pointed out that this inline help also shows up when doing a 
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Query "newly" available baseline features in Node.js (#snippet)]]></title>
-        <id>https://www.stefanjudis.com/snippets/query-newly-available-baseline-features-in-node-js/</id>
-        <link href="https://www.stefanjudis.com/snippets/query-newly-available-baseline-features-in-node-js/"/>
-        <updated>2025-03-08T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Jeremy's post describes the Web Platform Dashboard and its underlying API. If you don't know what I'm talking about, here's the Web Platform Dashboard. 👇
-The Web Platform Dashboard is wonderful because you can query the data set for baseline status, dates, and specific features. If you're into web platform updates, this site is there to get lost. Luckily, everything's powered by an API, too.
-Jeremy's post includes many example snippets to give you an idea of what to query.
-I sat down, adjusted the examples, and here's my new script to access all "newly" available baseline features in my terminal via node index.mjs.
-import { styleText } from "node:util";
-
-// More info on: https://web.dev/articles/web-platform-dashboard-baseline
-
-const API_BASE_URL = "https://api.webstatus.dev/v1/features";…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — The Agentic AI revolution]]></title>
-        <id>67c35eff48ffbb044da06561</id>
-        <link href="https://labnotes.org/weekend-reading-the-agentic-ai-revolution/"/>
-        <updated>2025-03-08T19:18:21.000Z</updated>
-        <summary type="html"><![CDATA[Street Art Utopia “Darth Fisher sculpture by Frankey for Amsterdam Light Festival in Amsterdam, The Netherlands. Photos by Janus van den Eijnden.”
-Tech Stuff
-Claude Code overview The Agentic AI revolution is taking shape and apparently Claude Code is this week's top contender. I just tested]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>

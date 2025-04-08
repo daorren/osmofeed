@@ -50,16 +50,6 @@
           "wordCount": 4194,
           "title": "Weekend Reading — Not like us",
           "imageUrl": "https://labnotes.org/content/images/2025/03/image-144-1.png"
-        },
-        {
-          "id": "67c35eff48ffbb044da06561",
-          "author": "Assaf Arkin",
-          "description": "Street Art Utopia “Darth Fisher sculpture by Frankey for Amsterdam Light Festival in Amsterdam, The Netherlands. Photos by Janus van den Eijnden.”\nTech Stuff\nClaude Code overview The Agentic AI revolution is taking shape and apparently Claude Code is this week's top contender. I just tested",
-          "link": "https://labnotes.org/weekend-reading-the-agentic-ai-revolution/",
-          "publishedOn": "2025-03-08T19:18:21.000Z",
-          "wordCount": 4223,
-          "title": "Weekend Reading — The Agentic AI revolution",
-          "imageUrl": "https://labnotes.org/content/images/2025/03/image-90-1.png"
         }
       ]
     },
@@ -127,16 +117,6 @@
           "wordCount": 1730,
           "title": "The macOS inline dictionary has a shortcut (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:The%20macOS%20inline%20dictionary%20has%20a%20shortcut/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/query-newly-available-baseline-features-in-node-js/",
-          "author": null,
-          "description": "Jeremy's post describes the Web Platform Dashboard and its underlying API. If you don't know what I'm talking about, here's the Web Platform Dashboard. 👇\nThe Web Platform Dashboard is wonderful because you can query the data set for baseline status, dates, and specific features. If you're into web platform updates, this site is there to get lost. Luckily, everything's powered by an API, too.\nJeremy's post includes many example snippets to give you an idea of what to query.\nI sat down, adjusted the examples, and here's my new script to access all \"newly\" available baseline features in my terminal via node index.mjs.\nimport { styleText } from \"node:util\";\n\n// More info on: https://web.dev/articles/web-platform-dashboard-baseline\n\nconst API_BASE_URL = \"https://api.webstatus.dev/v1/features\";…",
-          "link": "https://www.stefanjudis.com/snippets/query-newly-available-baseline-features-in-node-js/",
-          "publishedOn": "2025-03-08T23:00:00.000Z",
-          "wordCount": 1836,
-          "title": "Query \"newly\" available baseline features in Node.js (#snippet)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Query%20%22newly%22%20available%20baseline%20features%20in%20Node.js/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
