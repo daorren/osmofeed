@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-15T01:50:59.661Z</updated>
+    <updated>2025-04-16T01:50:30.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #157 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-157/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-157/"/>
+        <updated>2025-04-14T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Do you wish native CSS functions to exist? Do you use the media query range syntax? And do you know of all these HTML input attributes that enhance user experience?
+Turn on the Web Weekly tune and find all the answers below. Enjoy!
+Markus listens to "The Mighty Rio Grande" from This Will Destroy You:
+You might recognize this track from the movie "Moneyball" – this one (and the whole album) immediately put me into a deep focus state for complicated coding tasks.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are two more songs left in the queue.
+There's been some news on the user agent stylesheet front. Previously, browsers shipped these CSS lines.
+What do they do? In another life, there was the idea of context-aware heading…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Bunny Time]]></title>
         <id>67f1650a1233d500015c4e39</id>
@@ -187,24 +205,6 @@ Tech Stuff
 Remind Me Faster I think this is the perfect app for people with ADHD and at $3.99 not]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #154 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-154/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-154/"/>
-        <updated>2025-03-16T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
-
-Are you sure you use the fieldset element correctly? Have you checked all these new baseline tools? And do you know that you can transition to height: auto these days?
-Turn on the Web Weekly tune and find all the answers below. Enjoy!
-Pawel listens to “Fila Brasilia - Apehorn Concerto”:
-I can listen this beat in a loop for the wole day. Just so good!
-Do you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.
-Last week, a friend asked me if I knew of any design showcases for great-looking sites that don't use web fonts. I know about modernfontstacks.com but that's about it.
-Modern Font Stacks is an excellent resource, but we're missing a showcase or collection of sites that don't feel like they're …]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
