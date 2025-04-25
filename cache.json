@@ -87,26 +87,6 @@
           "wordCount": 1811,
           "title": "Forbidden headers can't be set in \"fetch\" requests (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Forbidden%20headers%20can't%20be%20set%20in%20%22fetch%22%20requests/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-155/",
-          "author": null,
-          "description": "Guten Tag! Guten Tag! 👋\n\nCan we build good-looking carousels only with CSS? What's unsafe flexbox alignment? And when would you use document.currentScript?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nDanny listens to “Nilüfer Yanya - Like I Say“\nGreat tune I picked up last year with a hypnotic chorus.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.\nIf you enjoy Web Weekly, help me grow this newsletter and let your friends know...\n🦋 Bluesky\n🐘 Mastodon\n💼 Linkedin\nA quick \"repost\" really helps this indie newsletter out. Thank you! ❤️\nSponsored\nsnappify - The PowerPoint alternative for Software Developers\n\nSnappify comes with a powerful Editor that helps you to create stunning presentatio…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-155/",
-          "publishedOn": "2025-03-25T23:00:00.000Z",
-          "wordCount": 2598,
-          "title": "Web Weekly #155 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/wcag-success-criteria-that-cant-be-autmatically-tested/",
-          "author": null,
-          "description": "There are many accessibility audit tools out there. The most mainstream one is probably Chrome's Lighthouse Accessibility audit. But let me tell you a secret.\nAccessibility testing isn't done after achieving a green Lighthouse score.\nHere's Steve Faulkner listing WCAG success criteria that aren't covered by today's tools.\nSome obvious examples:\nAutomated tools can detect missing alt attributes but cannot determine if alternative text is meaningful.\nTools can check for semantic HTML elements (e.g., headings, lists, tables) but cannot determine if relationships are accurately conveyed.\nTools can analyze DOM order, but manual review is needed to verify if reading order makes sense.\nTools can verify the presence and structure of the title element, but cannot determine whether the title text is meaningful or descriptive.\nTools can detect link text, but manual testing is needed to verify if the link text makes sense in context.\nTools are great for \"obvious\" technical accessibility but for everything else manual testing is still required.\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/notes/wcag-success-criteria-that-cant-be-autmatically-tested/",
-          "publishedOn": "2025-03-25T23:00:00.000Z",
-          "wordCount": 1704,
-          "title": "WCAG success criteria that can't be autmatically tested (#note)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:WCAG%20success%20criteria%20that%20can't%20be%20autmatically%20tested/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
