@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-30T01:51:30.329Z</updated>
+    <updated>2025-05-01T02:00:18.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -74,83 +74,6 @@ new.email Get some AI help to build the perfect email template, using react.emai
 react-international-phone The nice]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #156 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-156/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-156/"/>
-        <updated>2025-03-31T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
-
-Do you know that you can style select elements these days? Or do you wonder how Chrome prioritizes image loading? Or have you used CSS paint-order?
-Turn on the Web Weekly tune and find all the answers below. Enjoy!
-Andre listens to “ElyOtto - GREEN APPLE PASTE“
-This beat never fails to get me moving, hyperpop fans won’t be disappointed.
-Do you want to share your favorite song with the Web Weekly community? Hit reply; there are two more songs left in the queue.
-❤️ A huge thanks goes to Mirko this week. Thank you for supporting this small indie newsletter with a monthly coffee donation! Writing it takes a lot of time, and these small gestures really fill up my motivation tank!
-If Web Weekly is valuable to you (and, of course, if you can), you may want to earn some K…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forbidden headers can't be set in "fetch" requests (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/forbidden-headers-cant-be-set-in-fetch-requests/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/forbidden-headers-cant-be-set-in-fetch-requests/"/>
-        <updated>2025-03-31T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here's Alex blogging about forbidden request headers. Forbidden what? Exactly!
-It turns out that when using the fetch API (or if you're old school, XMLHttpRequest) there's a set of headers that you can't specify or overwrite from within JavaScript.
-What are "forbidden request headers"?
-
-The spec defines three different types of forbidden request headers.
-First, all headers in this list are forbidden:
-Accept-Charset
-Accept-Encoding
-Access-Control-Request-Headers
-Access-Control-Request-Method
-Connection
-Content-Length
-Cookie
-Cookie2 (This seems to be a deprecated spec that never went anywhere)
-Date
-DNT
-Expect
-Host
-Keep-Alive
-Origin
-Referer
-Set-Cookie
-TE
-Trailer
-Transfer-Encoding
-Upgrade
-Via
-Second, headers starting with proxy- or sec- are also forbidden.
-And third, if there's something going on with the parsed values of the headers X-HTTP-Method, X-HTTP-Method-Override, and X-Method-Override header they might be forbidden, too.
-Apparently, you can overwrite or at least signal that the initial HTTP method should be a different one? I have so many questions, but I'll leave them for another time.
-What happens when you try to set a forbidden header?
-
-So, what happens if you try to set a forbidden header?
-fetch('https://api.example.com/data', {
-  headers: {
-    'Content-Length': '100',  // This will be ignored
-    'X-Custom-Header': 'This is fine'  // This will be sent
-  }
-})
-
-Browsers will simply ignore them and maybe, if they're kind, log a warning.
-This all makes sense because the spec states that there should be things the user agent remains in control of.
-These are forbidden so the user agent remains in full control over them.
-This behavior makes total sense to avoid nasty security loopholes. I can imagine that if JavaScript could overwrite every header it would open all kinds of security vulnerability doors.
-If you want to dive deeper check out Alex's post, it's a nice one.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
