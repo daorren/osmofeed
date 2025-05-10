@@ -59,6 +59,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-158/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nHave you heard of the new proposals coming from the Edge team (ariaNotify() and console.context())? Should you worry about dual package hazards in Node.js? Or should you start using the lh CSS unit more often?\nTurn on the Web Weekly tune and find all the answers below. Enjoy!\nMartin listens to \"Arc De Soleil - Sunchaser\"\nSurf meets Funk meets melodies that stick for weeks. Few artists get me in the zone as reliably as Arc de Soleil.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there is 1 more song left in the queue.\nIf you enjoy Web Weekly, help me grow this newsletter and let your friends know...\n🦋 Bluesky\n🐘 Mastodon\n💼 Linkedin\nA quick \"repost\" really helps this indie newsletter out. Thank you! ❤️\n\n      \n        \n         …",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-158/",
+          "publishedOn": "2025-05-08T22:00:00.000Z",
+          "wordCount": 2594,
+          "title": "Web Weekly #158 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/stringly-typed/",
           "author": null,
           "description": "I learned a new software development term from Scott Hanselman: \"stringly typed\".\nScott describes \"stringly typed\" as follows:\n[whenever] you are passing strings around when a better type exists.\nAn application is \"stringly typed\" when type information is available, yet you're calling other systems or functions based on strings or stringified data. Unsurprisingly, most API calls are \"stringly typed\" because request and response bodies are often stringified JSON data.\nconst response = await fetch(\"https://example.org/subscribe\", {\n  method: \"POST\",\n  body: JSON.stringify({ username: \"...\", password: \"...\" }),\n});\n\nconst user = await response.json();\n\nJavaScript is a weakly typed language without much type safety, so the type loss wasn't a big deal for me so far. And because most APIs speak …",
