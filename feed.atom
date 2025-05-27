@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-26T01:58:11.652Z</updated>
+    <updated>2025-05-27T01:53:38.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -122,20 +122,6 @@ const user = await response.json();
 JavaScript is a weakly typed language without much type safety, so the type loss wasn't a big deal for me so far. And because most APIs speak …]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — 🦩 Flamingo]]></title>
-        <id>6803f56d419c0e0001636749</id>
-        <link href="https://labnotes.org/weekend-reading-flamingo/"/>
-        <updated>2025-04-26T23:28:14.000Z</updated>
-        <summary type="html"><![CDATA[Street Art Utopia "Whales in the sky! 🐋✨ From the beach to the clouds at the 38th International Kite Festival in Berck-sur-Mer, France. Absolutely surreal!"
-
-Tech Stuff
-Spring Jo 💪
-The EU is introducing an energy label for phones, together with mandatory requirements for phones sold in]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
