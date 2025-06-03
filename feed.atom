@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-02T02:00:38.127Z</updated>
+    <updated>2025-06-03T01:57:17.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #159 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-159/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-159/"/>
+        <updated>2025-06-01T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Have you heard of the new reading-order CSS property? Do you still wonder when to use JavaScript generators? Or should you check when to use the translate HTML attribute?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+James listens to "Neil Cicierega - 300MB"
+Here's a remix of a computer commercial from 1992, by the guy who sang "The Ultimate Showdown of Ultimate Destiny".
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.
+If you enjoy Web Weekly, share it with friends and family.
+🦋 Bluesky
+🐘 Mastodon
+💼 Linkedin
+A quick "repost" really helps this indie newsletter out. Thank you! ❤️
+
+      
+          
+Sponsored
+Mock APIs & Intercept HTTP Requests—Right in Your Browser
+
+…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — 😎 Good morning LA]]></title>
         <id>68320617429a2b00017f48eb</id>
@@ -99,20 +127,6 @@ A quick "repost" really helps this indie newsletter out. Thank you! ❤️
          …]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Run time/rest time]]></title>
-        <id>680d6c6b419c0e0001637aae</id>
-        <link href="https://labnotes.org/weekend-reading-run-time-rest-time/"/>
-        <updated>2025-05-03T20:01:23.000Z</updated>
-        <summary type="html"><![CDATA[Tech Stuff
-Bored Spreadsheet RTO got you down? Stuck in the cubicle? Boss hovering? You can now play classic games that look like you're working on a spreadsheet! “A refreshing take on spreadsheets that makes data entry more enjoyable”
-
-Sindarina, Edge Case Detective
-My new cover]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
