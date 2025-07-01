@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-30T02:04:26.101Z</updated>
+    <updated>2025-07-01T02:10:16.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #161 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-161/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-161/"/>
+        <updated>2025-06-29T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Do you wonder how to create Apple's liquid glass effect with web technologies? Do you know what's included in ECMAScript 2025? Or what's the best way to handle focus when opening a modal?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+Luciano listens to "GUNSHIP - Monster In Paradise":
+Here's a random suggestion for those who don't mind a weird mix of electronics, rock and even Jazz from a band I have been listening to lately!
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are two more songs left in the queue.
+When building layouts I hold the strong opinion that components shouldn't include (outer) margins. I'll die on this hill and this is all thanks to Kyle. Here are two posts that explain why margins sho…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Monotation]]></title>
         <id>6856e1f54727550001e47193</id>
@@ -105,18 +122,6 @@ Mock APIs & Intercept HTTP Requests—Right in Your Browser
 …]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — 😎 Good morning LA]]></title>
-        <id>68320617429a2b00017f48eb</id>
-        <link href="https://labnotes.org/weekend-reading-good-morning-la/"/>
-        <updated>2025-05-31T16:46:39.000Z</updated>
-        <summary type="html"><![CDATA[Good morning LA! I just moved to downtown LA to experience the nice weather and delicious food, though you're more likely to find me at a coffee shop drinking iced Matcha latte because that's the Z thing to do.
-Tech Stuff
-Just a QR Code When]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
