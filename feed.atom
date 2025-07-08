@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-07T02:04:47.360Z</updated>
+    <updated>2025-07-08T01:59:53.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #162 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-162/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-162/"/>
+        <updated>2025-07-06T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Have you heard of the CSS Custom Highlight API that went into baseline last week? Or do you curse form control styling and wish for solutions? Or are you still unsure when and how to use ARIA?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+Hauke listens to "Johnossi - Rescue Team"
+I've been listening to a lot of Johnossi again. A song that always lifts my mood is: Rescue Team.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are no more songs left in the queue. 😱🚨
+If you ask developers what they dislike about CSS, styling form controls is an all-time favorite. Suppose you're aiming for custom styling, things aren't great. Personally, I don't mind a "standard looking" default look, but I've implemented enoug…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Code remains liquid at room temperature]]></title>
         <id>68601dff44b3630001e76b70</id>
@@ -91,19 +108,6 @@ Tech Stuff
 Fireflies.ai When it's a meeting that you need to capture, transcribe, summarize, and turn into meeting notes, try Fireflies.
 
 Wispr Flow Typing: 45 wpm. Talking: 220 wpm. I know some people love talking to their computer]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — 🎻 World's smallest violin]]></title>
-        <id>683b32d8ac300d0001b1b498</id>
-        <link href="https://labnotes.org/weekend-reading-worlds-smallest-violin/"/>
-        <updated>2025-06-07T18:33:20.000Z</updated>
-        <summary type="html"><![CDATA[Scientists at Loughborough University create 'world's smallest violin'
-Tech Stuff
-TLTD #29 - Vibe Coding Your Way to a Seed Round On the relentless march toward zero-cost prototyping:
-Enter vibe coding: now founders can translate ideas into working prototypes by describing what they want to AI]]></summary>
         <author>
             <name>Assaf Arkin</name>
         </author>
