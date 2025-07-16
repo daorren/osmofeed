@@ -59,6 +59,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-163/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nDo you know that CSS ifs are shipping in Chromium? Have you ever used import.meta.resolve? And did you celebrate that we can finally import JSON files in all browsers? (I surely did!)\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nPawel listens to Quantic - The 5th Exotic:\nThis track is just as good as the rest of the album. It features elements of breakbeats and jazz, is super melodic, and super dance-triggering (much like the entire album).\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.\nDo you know people saying that CSS isn't a programming language? The world is changing, people! if/else statements are entering CSS. I mean, maybe they do, because they're a Chromium-…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-163/",
+          "publishedOn": "2025-07-14T22:00:00.000Z",
+          "wordCount": 2763,
+          "title": "Web Weekly #163 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-162/",
           "author": null,
           "description": "Guten Tag! Guten Tag! 👋\n\nHave you heard of the CSS Custom Highlight API that went into baseline last week? Or do you curse form control styling and wish for solutions? Or are you still unsure when and how to use ARIA?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nHauke listens to \"Johnossi - Rescue Team\"\nI've been listening to a lot of Johnossi again. A song that always lifts my mood is: Rescue Team.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are no more songs left in the queue. 😱🚨\nIf you ask developers what they dislike about CSS, styling form controls is an all-time favorite. Suppose you're aiming for custom styling, things aren't great. Personally, I don't mind a \"standard looking\" default look, but I've implemented enoug…",
@@ -76,16 +86,6 @@
           "publishedOn": "2025-06-29T22:00:00.000Z",
           "wordCount": 2807,
           "title": "Web Weekly #161 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-160/",
-          "author": null,
-          "description": "Guten Tag! Guten Tag! 👋\n\nDo you know how to preload responsive images with the link element? Have you heard of the contrast-color() CSS function? And are you excited about the long-awaited Temporal JS API slowly entering browsers?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nOne of Germany's best live bands announced a new tour and album, and I'm so there for it. So, let me sneak into the Web Weekly jukebox and listen to \"KRAFTKLUB - Schief in jedem Chor\":\nI've known the German band Kraftklub for a very long time but only made the effort to see them live two years ago. And they blew me away! Kraftklub is now one of the very few bands making me tear up, dance and scream at the same moment. If you'll ever have the chance to see them live, you won't be disappointed!\nDo you…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-160/",
-          "publishedOn": "2025-06-15T22:00:00.000Z",
-          "wordCount": 3221,
-          "title": "Web Weekly #160 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
