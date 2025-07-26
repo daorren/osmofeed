@@ -59,6 +59,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/notes/open-new-tabs-next-to-the-current-one-in-firefox/",
+          "author": null,
+          "description": "You might know that I'm still holding on to using Firefox as my daily driver. Things aren't looking great at Mozilla and I'm still peeking at Vivaldi, but so far I simply haven't made the switch.\nNow, Kaushik shared some Firefox styling tricks in \"How to Firefox\" that I didn't apply, but I learned how to fix a behavior that was silently bugging me for 20 years now.\nYou know when you open a new tab with CMD+T and the new tab always goes to the end of your tab list. For people with a few open tabs this might not be a big deal, but I'm a tab hoarder with 177 open tabs right now. If I'm on tab 50 and decide to open a new tab, chances are pretty high that the new tab is related to the fiftieth tab.\nIf you want to open tabs next to your current tabs, head over to your about:config and change browser.tabs.insertAfterCurrent and browser.tabs.insertAfterCurrentExceptPinned to true.\nThat's it! Right now I'm pretty happy with this change. Let's see if it lasts.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/notes/open-new-tabs-next-to-the-current-one-in-firefox/",
+          "publishedOn": "2025-07-24T22:00:00.000Z",
+          "wordCount": 1690,
+          "title": "Open new tabs next to the current one in Firefox (#note)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Open%20new%20tabs%20next%20to%20the%20current%20one%20in%20Firefox/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-163/",
           "author": null,
           "description": "Guten Tag! Guten Tag! 👋\n\nDo you know that CSS ifs are shipping in Chromium? Have you ever used import.meta.resolve? And did you celebrate that we can finally import JSON files in all browsers? (I surely did!)\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nPawel listens to Quantic - The 5th Exotic:\nThis track is just as good as the rest of the album. It features elements of breakbeats and jazz, is super melodic, and super dance-triggering (much like the entire album).\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.\nDo you know people saying that CSS isn't a programming language? The world is changing, people! if/else statements are entering CSS. I mean, maybe they do, because they're a Chromium-…",

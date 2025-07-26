@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-25T02:05:57.947Z</updated>
+    <updated>2025-07-26T02:02:08.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open new tabs next to the current one in Firefox (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/open-new-tabs-next-to-the-current-one-in-firefox/</id>
+        <link href="https://www.stefanjudis.com/notes/open-new-tabs-next-to-the-current-one-in-firefox/"/>
+        <updated>2025-07-24T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You might know that I'm still holding on to using Firefox as my daily driver. Things aren't looking great at Mozilla and I'm still peeking at Vivaldi, but so far I simply haven't made the switch.
+Now, Kaushik shared some Firefox styling tricks in "How to Firefox" that I didn't apply, but I learned how to fix a behavior that was silently bugging me for 20 years now.
+You know when you open a new tab with CMD+T and the new tab always goes to the end of your tab list. For people with a few open tabs this might not be a big deal, but I'm a tab hoarder with 177 open tabs right now. If I'm on tab 50 and decide to open a new tab, chances are pretty high that the new tab is related to the fiftieth tab.
+If you want to open tabs next to your current tabs, head over to your about:config and change browser.tabs.insertAfterCurrent and browser.tabs.insertAfterCurrentExceptPinned to true.
+That's it! Right now I'm pretty happy with this change. Let's see if it lasts.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Eat plenty of fiber]]></title>
         <id>68724ef02b2f3f0001b1bc8c</id>
