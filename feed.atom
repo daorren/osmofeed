@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-26T02:02:08.534Z</updated>
+    <updated>2025-07-27T02:21:51.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Swipe right]]></title>
+        <id>687bf6d4bdd9730001443d1c</id>
+        <link href="https://labnotes.org/weekend-reading-swipe-right/"/>
+        <updated>2025-07-26T15:34:17.000Z</updated>
+        <summary type="html"><![CDATA[diana "Yip yip yip yip yip yip yip yip yip"
+Tech Stuff
+daisyUI What goes around comes around and this Tailwind plugin brings back proper CSS classes. And it comes with CSS classes for buttons, cards, modals, avatars, alerts, footers, you name it, there's a class]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open new tabs next to the current one in Firefox (#note)]]></title>
         <id>https://www.stefanjudis.com/notes/open-new-tabs-next-to-the-current-one-in-firefox/</id>
