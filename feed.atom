@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-29T02:23:53.023Z</updated>
+    <updated>2025-07-30T02:08:55.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -110,23 +110,6 @@ Tech Stuff
 Remix Utils A collection of utility functions for use in your Remix (or React-Router) app. There's a big chance you'll need]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #161 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-161/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-161/"/>
-        <updated>2025-06-29T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
-
-Do you wonder how to create Apple's liquid glass effect with web technologies? Do you know what's included in ECMAScript 2025? Or what's the best way to handle focus when opening a modal?
-Turn on the Web Weekly tune and find some answers below. Enjoy!
-Luciano listens to "GUNSHIP - Monster In Paradise":
-Here's a random suggestion for those who don't mind a weird mix of electronics, rock and even Jazz from a band I have been listening to lately!
-Do you want to share your favorite song with the Web Weekly community? Hit reply; there are two more songs left in the queue.
-When building layouts I hold the strong opinion that components shouldn't include (outer) margins. I'll die on this hill and this is all thanks to Kyle. Here are two posts that explain why margins sho…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
