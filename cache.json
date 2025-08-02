@@ -59,6 +59,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/notes/quoting-jeffrey-zeldman/",
+          "author": null,
+          "description": "As someone fearing about the future of web development, I can only say that I hope Jeffrey is right on this one.\nAs vibe-coded apps and self-creating websites become the norm, luxe companies will pay large dollars for bespoke, hand-crafted HTML and CSS.\nIt would be great to continue making a living by working in the field we used to call web development...\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/notes/quoting-jeffrey-zeldman/",
+          "publishedOn": "2025-07-31T22:00:00.000Z",
+          "wordCount": 1586,
+          "title": "Quoting Jeffrey Zeldman (#note)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Quoting%20Jeffrey%20Zeldman/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/notes/open-new-tabs-next-to-the-current-one-in-firefox/",
           "author": null,
           "description": "You might know that I'm still holding on to using Firefox as my daily driver. Things aren't looking great at Mozilla and I'm still peeking at Vivaldi, but so far I simply haven't made the switch.\nNow, Kaushik shared some Firefox styling tricks in \"How to Firefox\" that I didn't apply, but I learned how to fix a behavior that was silently bugging me for 20 years now.\nYou know when you open a new tab with CMD+T and the new tab always goes to the end of your tab list. For people with a few open tabs this might not be a big deal, but I'm a tab hoarder with 177 open tabs right now. If I'm on tab 50 and decide to open a new tab, chances are pretty high that the new tab is related to the fiftieth tab.\nIf you want to open tabs next to your current tabs, head over to your about:config and change browser.tabs.insertAfterCurrent and browser.tabs.insertAfterCurrentExceptPinned to true.\nThat's it! Right now I'm pretty happy with this change. Let's see if it lasts.\n\n\n          \n          \n            Reply to Stefan",
