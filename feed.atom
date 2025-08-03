@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-02T02:03:08.222Z</updated>
+    <updated>2025-08-03T02:23:59.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — "big" is smaller than "small"]]></title>
+        <id>6884f60345a6280001e7e5eb</id>
+        <link href="https://labnotes.org/weekend-reading-big-is-smaller-than-small/"/>
+        <updated>2025-08-02T19:20:55.000Z</updated>
+        <summary type="html"><![CDATA[Meanwhile in Canada "You know it's hot when the cat melts"
+Tech Stuff
+Kiro "Tame complexity with spec-driven development" Smart use of generative AI: Kiro turns your prompt into a requirements document, and then uses that to build your code, so when you get]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quoting Jeffrey Zeldman (#note)]]></title>
         <id>https://www.stefanjudis.com/notes/quoting-jeffrey-zeldman/</id>
