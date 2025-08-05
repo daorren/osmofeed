@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-04T02:23:35.833Z</updated>
+    <updated>2025-08-05T02:11:35.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #164 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-164/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-164/"/>
+        <updated>2025-08-03T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Should you use JavaScript's logical assignment operators? Have you heard of the user activation API? And did your websites get a nice speed improvement thanks to speculation rules?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+Øystein listens to Ulrich Schnauss - Goodbye
+Lush and dreamy beat-driven electronica from my newest musical discovery - perfect for late night contemplation.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.
+
+      
+This year's state of HTML survey is open until August 15 and you should really take the time to fill it out. Why?
+First, browser vendors really do look at the results and even if it's just a tiny thing, if you're unhappy about a web fe…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Talking about the Polypane browser with Kilian Valkhof (#note)]]></title>
         <id>https://www.stefanjudis.com/notes/talking-about-the-polypane-browser-with-kilian-valkhof/</id>
@@ -146,18 +166,6 @@ Do you want to share your favorite song with the Web Weekly community? Hit reply
 If you ask developers what they dislike about CSS, styling form controls is an all-time favorite. Suppose you're aiming for custom styling, things aren't great. Personally, I don't mind a "standard looking" default look, but I've implemented enoug…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Code remains liquid at room temperature]]></title>
-        <id>68601dff44b3630001e76b70</id>
-        <link href="https://labnotes.org/weekend-reading-code-remains-liquid-at-room-temperature/"/>
-        <updated>2025-07-06T13:42:48.000Z</updated>
-        <summary type="html"><![CDATA[Tiki Bunny Imports "Y'ALL. LOOK. My inner 8-year-old is beaming and SO HAPPY with 42-year-old adult me right now."
-Tech Stuff
-Remix Utils A collection of utility functions for use in your Remix (or React-Router) app. There's a big chance you'll need]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
