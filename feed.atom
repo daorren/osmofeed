@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-05T02:11:35.027Z</updated>
+    <updated>2025-08-06T02:09:40.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -149,23 +149,6 @@ Sindre Sorhus
 You don’t need a roadmap, you need caffeine and unreasonable]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #162 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-162/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-162/"/>
-        <updated>2025-07-06T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
-
-Have you heard of the CSS Custom Highlight API that went into baseline last week? Or do you curse form control styling and wish for solutions? Or are you still unsure when and how to use ARIA?
-Turn on the Web Weekly tune and find some answers below. Enjoy!
-Hauke listens to "Johnossi - Rescue Team"
-I've been listening to a lot of Johnossi again. A song that always lifts my mood is: Rescue Team.
-Do you want to share your favorite song with the Web Weekly community? Hit reply; there are no more songs left in the queue. 😱🚨
-If you ask developers what they dislike about CSS, styling form controls is an all-time favorite. Suppose you're aiming for custom styling, things aren't great. Personally, I don't mind a "standard looking" default look, but I've implemented enoug…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
