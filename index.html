@@ -22,6 +22,82 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-08-06 datetime="2025-08-06T22:00:00.000Z">2025-08-06</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-08-06 datetime="2025-08-06T22:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/today-i-learned/node-js-import-maps/"
+                        open
+                      >
+                        <summary class="article-expander__title">Node.js supports import maps (#tilPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/node-js-import-maps/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Node.js%20supports%20import%20maps/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>In growing JavaScript projects it is very common to end up with very long import paths navigating up and down the file tree (../../../src/lib/whatever/index.js). This isn&#x27;t only terrible to read but can also be hard to refactor if you move files around.
+To make things a bit easier, bundlers or the TypeScript compiler allow you to define path aliases (@lib/whatever/index), but I usually try to avoid bundling my Node.js applications to keep the complexity low. Today I learned that Node.js allows you to set path aliases with import maps.
+Let&#x27;s say you have this Node.js code using ESM.
+import { getAuthenticatedUser } from &quot;./src/lib/auth/user.js&quot;;
+import database from &quot;./src/lib/db/index.js&quot;;
+
+// more stuff...
+
+While this isn&#x27;t the worst, the file paths could be way cleaner. To set aliases, head into your package.json and define an imports object.
+{
+  &quot;imports&quot;: {
+    &quot;#auth/*&quot;: &quot;./src/lib/auth/*.js&quot;,
+    &quot;#db&quot;: &quot;./src/lib/db/index.js&quot;
+  },
+}
+
+Custom import paths need to start with a # and thanks to these two quick lines you can now shorten any import going into ./src/lib/auth and also directly reference ./src/lib/db/index.js with three characters (#db).
+import { getAuthenticatedUser } from &quot;#auth/user&quot;;
+import database from &quot;#db&quot;;
+
+// more stuff...
+
+Sweet! But does it work everywhere? Or is this a new Node.js thing?
+Nope, this isn&#x27;t new. Import maps are supported in Node.js since v14 (we&#x27;re currently on v22 LTS), so your Node.js environment will probably support them already. Have fun shortening some paths!
+
+
+          
+          
+            Reply to Stefan</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-08-03 datetime="2025-08-03T22:00:00.000Z">2025-08-03</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-08-03 datetime="2025-08-03T22:00:00.000Z"></time>
           </button>
@@ -490,8 +566,8 @@ You don’t need a roadmap, you need caffeine and unreasonable</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/16793330330">
-        <time id="build-timestamp" datetime="2025-08-07T02:10:01.513Z">2025-08-07T02:10:01.513Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/16820203715">
+        <time id="build-timestamp" datetime="2025-08-08T02:09:41.437Z">2025-08-08T02:09:41.437Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
