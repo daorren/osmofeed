@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-08T02:09:41.458Z</updated>
+    <updated>2025-08-09T01:58:34.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tag, you're it (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/questions-about-blogging/</id>
+        <link href="https://www.stefanjudis.com/blog/questions-about-blogging/"/>
+        <updated>2025-08-07T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kilian tagged me to answer some questions about blogging and it took me three months to get to it, but hey, here we are!
+Why did you start blogging in the first place?
+
+I wrote my first blog post June 21st, 2013 on a different blog than this one. I had just discovered my love for web development and was lucky to have landed an internship with incredible people.
+I was studying Media and Computer Science and joined a small ecommerce shop selling shirts. I thought I was well equipped for the real world but boy was I wrong. My first internship days had been challenging. The university courses I had aced were pretty useless, because as it turned out, I didn't know the right things. Like really, it was an entirely new world.
+I hadn't touched a terminal before. I knew some things about Java and C…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IntelliSense in the VS Code terminal (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/intellisense-in-the-vs-code-terminal/</id>
+        <link href="https://www.stefanjudis.com/blog/intellisense-in-the-vs-code-terminal/"/>
+        <updated>2025-08-07T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you use the built-in VS Code terminal, there's a new preview feature: IntelliSense.
+When you're running commands or looking for certain command flags, VS Code will try to show you inline auto-completion, similar to how your editor does it.
+Terminal session with turned-on IntelliSense
+      
+    
+To turn it on, you need to flip these two flags in your settings.json:
+"terminal.integrated.shellIntegration.enabled": true,
+"terminal.integrated.suggest.enabled": true,
+
+I usually switch between iTerm for main tasks and the built-in terminal for one-off things, but I'll give it a shot even though I'm a bit skeptical about it. The terminal is supposed to be a simple and calm place and this feels very stressful, doesn't it?
+We'll see...
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node.js supports import maps (#tilPost)]]></title>
         <id>https://www.stefanjudis.com/today-i-learned/node-js-import-maps/</id>
