@@ -40,16 +40,6 @@
           "wordCount": 2208,
           "title": "Weekend Reading — Eat plenty of fiber",
           "imageUrl": "https://labnotes.org/content/images/size/w1200/2025/07/image-56.png.jpeg"
-        },
-        {
-          "id": "686a7dab2fcc940001f574b8",
-          "author": "Assaf Arkin",
-          "description": "Information Is Beautiful \"Seems to fit?\"\nTech Stuff\nkepano/defuddle When you need to clean up a web page and extract only the important contents. This library claims to offer some benefits over Readability.\n\nSindre Sorhus\nYou don’t need a roadmap, you need caffeine and unreasonable",
-          "link": "https://labnotes.org/weekend-reading-a24z/",
-          "publishedOn": "2025-07-12T11:58:49.000Z",
-          "wordCount": 1669,
-          "title": "Weekend Reading — a24z",
-          "imageUrl": "https://labnotes.org/content/images/2025/07/image-35-1.png"
         }
       ]
     },
@@ -58,6 +48,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/how-i-record-edit-and-publish-youtube-videos/",
+          "author": null,
+          "description": "I have been creating Playwright videos for the Checkly YouTube channel for roughly two years now and I think I've reached a decent quality level. Alex asked on Bluesky how I create these videos and because documenting my flow has been on my todo list for a while, let me share my approach to creating YouTube videos.\nHow do I plan a video?\n\nAll my video ideas live in a long list and I pick them depending on my mood. For educational nerd videos the topics are fairly straightforward. Do people have the same questions over and over again? That's a video. Is there something that you've learned recently? That's a video. Is there a new product feature available? That's a video, too. Right now there are 74 video ideas on the list so I won't run short on ideas very soon.\nDo I write scripts?\nOnce I'v…",
+          "link": "https://www.stefanjudis.com/blog/how-i-record-edit-and-publish-youtube-videos/",
+          "publishedOn": "2025-08-09T22:00:00.000Z",
+          "wordCount": 3151,
+          "title": "How I record, edit and publish YouTube videos (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20I%20record%252C%20edit%20and%20publish%20YouTube%20videos/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/questions-about-blogging/",
           "author": null,

@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-10T02:19:41.220Z</updated>
+    <updated>2025-08-11T02:09:44.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How I record, edit and publish YouTube videos (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/how-i-record-edit-and-publish-youtube-videos/</id>
+        <link href="https://www.stefanjudis.com/blog/how-i-record-edit-and-publish-youtube-videos/"/>
+        <updated>2025-08-09T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I have been creating Playwright videos for the Checkly YouTube channel for roughly two years now and I think I've reached a decent quality level. Alex asked on Bluesky how I create these videos and because documenting my flow has been on my todo list for a while, let me share my approach to creating YouTube videos.
+How do I plan a video?
+
+All my video ideas live in a long list and I pick them depending on my mood. For educational nerd videos the topics are fairly straightforward. Do people have the same questions over and over again? That's a video. Is there something that you've learned recently? That's a video. Is there a new product feature available? That's a video, too. Right now there are 74 video ideas on the list so I won't run short on ideas very soon.
+Do I write scripts?
+Once I'v…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tag, you're it (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/questions-about-blogging/</id>
@@ -212,21 +227,6 @@ Do you want to share your favorite song with the Web Weekly community? Hit reply
 Do you know people saying that CSS isn't a programming language? The world is changing, people! if/else statements are entering CSS. I mean, maybe they do, because they're a Chromium-…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — a24z]]></title>
-        <id>686a7dab2fcc940001f574b8</id>
-        <link href="https://labnotes.org/weekend-reading-a24z/"/>
-        <updated>2025-07-12T11:58:49.000Z</updated>
-        <summary type="html"><![CDATA[Information Is Beautiful "Seems to fit?"
-Tech Stuff
-kepano/defuddle When you need to clean up a web page and extract only the important contents. This library claims to offer some benefits over Readability.
-
-Sindre Sorhus
-You don’t need a roadmap, you need caffeine and unreasonable]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
