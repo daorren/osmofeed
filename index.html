@@ -22,6 +22,56 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-08-23 datetime="2025-08-23T20:59:35.000Z">2025-08-23</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-08-23 datetime="2025-08-23T20:59:35.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Labnotes (by Assaf Arkin)</button>
+                  <a class="source-heading__link" href="https://labnotes.org/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="68a0cb0bc1676200019fc85c"
+                        open
+                      >
+                        <summary class="article-expander__title">Weekend Reading — Is it me you&#x27;re calling for?</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://labnotes.org/weekend-reading-is-it-me-youre-calling-for/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://labnotes.org/content/images/2025/08/image-114.png.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>MostlyHarmless &quot;The bloody hipsters have gone too far.&quot;
+Tech Stuff
+Embeddable When you need a little widget on your website that converts traffic (newsletter signup, posted review, discount checkout, etc), why not let AI do the walking? This doesn&#x27;t look horribly expensive, $19/month for 100</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;11
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-08-16 datetime="2025-08-16T18:16:21.000Z">2025-08-16</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-08-16 datetime="2025-08-16T18:16:21.000Z"></time>
           </button>
@@ -594,67 +644,10 @@ daisyUI What goes around comes around and this Tailwind plugin brings back prope
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-07-24 datetime="2025-07-24T22:00:00.000Z">2025-07-24</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-07-24 datetime="2025-07-24T22:00:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Stefan Judis Web Development</button>
-                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.stefanjudis.com/notes/open-new-tabs-next-to-the-current-one-in-firefox/"
-                        open
-                      >
-                        <summary class="article-expander__title">Open new tabs next to the current one in Firefox (#note)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/notes/open-new-tabs-next-to-the-current-one-in-firefox/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Open%20new%20tabs%20next%20to%20the%20current%20one%20in%20Firefox/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>You might know that I&#x27;m still holding on to using Firefox as my daily driver. Things aren&#x27;t looking great at Mozilla and I&#x27;m still peeking at Vivaldi, but so far I simply haven&#x27;t made the switch.
-Now, Kaushik shared some Firefox styling tricks in &quot;How to Firefox&quot; that I didn&#x27;t apply, but I learned how to fix a behavior that was silently bugging me for 20 years now.
-You know when you open a new tab with CMD+T and the new tab always goes to the end of your tab list. For people with a few open tabs this might not be a big deal, but I&#x27;m a tab hoarder with 177 open tabs right now. If I&#x27;m on tab 50 and decide to open a new tab, chances are pretty high that the new tab is related to the fiftieth tab.
-If you want to open tabs next to your current tabs, head over to your about:config and change browser.tabs.insertAfterCurrent and browser.tabs.insertAfterCurrentExceptPinned to true.
-That&#x27;s it! Right now I&#x27;m pretty happy with this change. Let&#x27;s see if it lasts.
-
-
-          
-          
-            Reply to Stefan</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/17169673316">
-        <time id="build-timestamp" datetime="2025-08-23T01:47:34.551Z">2025-08-23T01:47:34.551Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/17182760457">
+        <time id="build-timestamp" datetime="2025-08-24T02:02:08.205Z">2025-08-24T02:02:08.205Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
