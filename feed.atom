@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-30T01:42:36.951Z</updated>
+    <updated>2025-08-31T01:53:38.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — First rule of Eight Club: no typos]]></title>
+        <id>68aa2c85c1676200019fdd8f</id>
+        <link href="https://labnotes.org/weekend-reading-first-rule-of-eight-club-no-typos/"/>
+        <updated>2025-08-30T16:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Natasha Jay “Biker gang - believe this group are leaders in the illegal cat nip trade ...”
+Tech Stuff
+looks-same Nice library for visual regression testing, when you need to compare images from different platforms (dev, CI, etc) that are not pixel for pixel identical, using a fairly simple]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #166 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-166/</id>
@@ -211,23 +223,6 @@ Tech Stuff
 Kiro "Tame complexity with spec-driven development" Smart use of generative AI: Kiro turns your prompt into a requirements document, and then uses that to build your code, so when you get]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quoting Jeffrey Zeldman (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/quoting-jeffrey-zeldman/</id>
-        <link href="https://www.stefanjudis.com/notes/quoting-jeffrey-zeldman/"/>
-        <updated>2025-07-31T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As someone fearing about the future of web development, I can only say that I hope Jeffrey is right on this one.
-As vibe-coded apps and self-creating websites become the norm, luxe companies will pay large dollars for bespoke, hand-crafted HTML and CSS.
-It would be great to continue making a living by working in the field we used to call web development...
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
