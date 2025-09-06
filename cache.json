@@ -107,16 +107,6 @@
           "wordCount": 1684,
           "title": "IntelliSense in the VS Code terminal (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:IntelliSense%20in%20the%20VS%20Code%20terminal/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/node-js-import-maps/",
-          "author": null,
-          "description": "In growing JavaScript projects it is very common to end up with very long import paths navigating up and down the file tree (../../../src/lib/whatever/index.js). This isn't only terrible to read but can also be hard to refactor if you move files around.\nTo make things a bit easier, bundlers or the TypeScript compiler allow you to define path aliases (@lib/whatever/index), but I usually try to avoid bundling my Node.js applications to keep the complexity low. Today I learned that Node.js allows you to set path aliases with import maps.\nLet's say you have this Node.js code using ESM.\nimport { getAuthenticatedUser } from \"./src/lib/auth/user.js\";\nimport database from \"./src/lib/db/index.js\";\n\n// more stuff...\n\nWhile this isn't the worst, the file paths could be way cleaner. To set aliases, head into your package.json and define an imports object.\n{\n  \"imports\": {\n    \"#auth/*\": \"./src/lib/auth/*.js\",\n    \"#db\": \"./src/lib/db/index.js\"\n  },\n}\n\nCustom import paths need to start with a # and thanks to these two quick lines you can now shorten any import going into ./src/lib/auth and also directly reference ./src/lib/db/index.js with three characters (#db).\nimport { getAuthenticatedUser } from \"#auth/user\";\nimport database from \"#db\";\n\n// more stuff...\n\nSweet! But does it work everywhere? Or is this a new Node.js thing?\nNope, this isn't new. Import maps are supported in Node.js since v14 (we're currently on v22 LTS), so your Node.js environment will probably support them already. Have fun shortening some paths!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/node-js-import-maps/",
-          "publishedOn": "2025-08-06T22:00:00.000Z",
-          "wordCount": 1809,
-          "title": "Node.js supports import maps (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Node.js%20supports%20import%20maps/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },

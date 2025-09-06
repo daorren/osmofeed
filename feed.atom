@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-05T01:45:26.625Z</updated>
+    <updated>2025-09-06T01:42:16.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -144,44 +144,6 @@ To turn it on, you need to flip these two flags in your settings.json:
 
 I usually switch between iTerm for main tasks and the built-in terminal for one-off things, but I'll give it a shot even though I'm a bit skeptical about it. The terminal is supposed to be a simple and calm place and this feels very stressful, doesn't it?
 We'll see...
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js supports import maps (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/node-js-import-maps/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/node-js-import-maps/"/>
-        <updated>2025-08-06T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In growing JavaScript projects it is very common to end up with very long import paths navigating up and down the file tree (../../../src/lib/whatever/index.js). This isn't only terrible to read but can also be hard to refactor if you move files around.
-To make things a bit easier, bundlers or the TypeScript compiler allow you to define path aliases (@lib/whatever/index), but I usually try to avoid bundling my Node.js applications to keep the complexity low. Today I learned that Node.js allows you to set path aliases with import maps.
-Let's say you have this Node.js code using ESM.
-import { getAuthenticatedUser } from "./src/lib/auth/user.js";
-import database from "./src/lib/db/index.js";
-
-// more stuff...
-
-While this isn't the worst, the file paths could be way cleaner. To set aliases, head into your package.json and define an imports object.
-{
-  "imports": {
-    "#auth/*": "./src/lib/auth/*.js",
-    "#db": "./src/lib/db/index.js"
-  },
-}
-
-Custom import paths need to start with a # and thanks to these two quick lines you can now shorten any import going into ./src/lib/auth and also directly reference ./src/lib/db/index.js with three characters (#db).
-import { getAuthenticatedUser } from "#auth/user";
-import database from "#db";
-
-// more stuff...
-
-Sweet! But does it work everywhere? Or is this a new Node.js thing?
-Nope, this isn't new. Import maps are supported in Node.js since v14 (we're currently on v22 LTS), so your Node.js environment will probably support them already. Have fun shortening some paths!
 
 
           
