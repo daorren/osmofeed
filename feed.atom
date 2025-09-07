@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-06T01:42:16.069Z</updated>
+    <updated>2025-09-07T01:51:09.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Geiger counter]]></title>
+        <id>68b32273c1676200019fee9a</id>
+        <link href="https://labnotes.org/weekend-reading-geiger-counter/"/>
+        <updated>2025-09-06T17:36:17.000Z</updated>
+        <summary type="html"><![CDATA[brettezeleliquide Spoonbill bird in flight.
+Tech Stuff
+Vibe Coding as a Coding Veteran The road from 8-bit Assembly to English-as-Code:
+This gives an entirely new meaning to Knuth’s “literate programming”: Rather than interspersing natural language specification and its corresponding artificial language implementation in a story over]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #167 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-167/</id>
@@ -109,46 +122,6 @@ How do I plan a video?
 All my video ideas live in a long list and I pick them depending on my mood. For educational nerd videos the topics are fairly straightforward. Do people have the same questions over and over again? That's a video. Is there something that you've learned recently? That's a video. Is there a new product feature available? That's a video, too. Right now there are 74 video ideas on the list so I won't run short on ideas very soon.
 Do I write scripts?
 Once I'v…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tag, you're it (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/questions-about-blogging/</id>
-        <link href="https://www.stefanjudis.com/blog/questions-about-blogging/"/>
-        <updated>2025-08-07T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Kilian tagged me to answer some questions about blogging and it took me three months to get to it, but hey, here we are!
-Why did you start blogging in the first place?
-
-I wrote my first blog post June 21st, 2013 on a different blog than this one. I had just discovered my love for web development and was lucky to have landed an internship with incredible people.
-I was studying Media and Computer Science and joined a small ecommerce shop selling shirts. I thought I was well equipped for the real world but boy was I wrong. My first internship days had been challenging. The university courses I had aced were pretty useless, because as it turned out, I didn't know the right things. Like really, it was an entirely new world.
-I hadn't touched a terminal before. I knew some things about Java and C…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IntelliSense in the VS Code terminal (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/intellisense-in-the-vs-code-terminal/</id>
-        <link href="https://www.stefanjudis.com/blog/intellisense-in-the-vs-code-terminal/"/>
-        <updated>2025-08-07T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you use the built-in VS Code terminal, there's a new preview feature: IntelliSense.
-When you're running commands or looking for certain command flags, VS Code will try to show you inline auto-completion, similar to how your editor does it.
-Terminal session with turned-on IntelliSense
-      
-    
-To turn it on, you need to flip these two flags in your settings.json:
-"terminal.integrated.shellIntegration.enabled": true,
-"terminal.integrated.suggest.enabled": true,
-
-I usually switch between iTerm for main tasks and the built-in terminal for one-off things, but I'll give it a shot even though I'm a bit skeptical about it. The terminal is supposed to be a simple and calm place and this feels very stressful, doesn't it?
-We'll see...
-
-
-          
-          
-            Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>

@@ -12,6 +12,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "68b32273c1676200019fee9a",
+          "author": "Assaf Arkin",
+          "description": "brettezeleliquide Spoonbill bird in flight.\nTech Stuff\nVibe Coding as a Coding Veteran The road from 8-bit Assembly to English-as-Code:\nThis gives an entirely new meaning to Knuth’s “literate programming”: Rather than interspersing natural language specification and its corresponding artificial language implementation in a story over",
+          "link": "https://labnotes.org/weekend-reading-geiger-counter/",
+          "publishedOn": "2025-09-06T17:36:17.000Z",
+          "wordCount": 2737,
+          "title": "Weekend Reading — Geiger counter",
+          "imageUrl": "https://labnotes.org/content/images/size/w1200/2025/09/image-17.png.jpeg"
+        },
+        {
           "id": "68aa2c85c1676200019fdd8f",
           "author": "Assaf Arkin",
           "description": "Natasha Jay “Biker gang - believe this group are leaders in the illegal cat nip trade ...”\nTech Stuff\nlooks-same Nice library for visual regression testing, when you need to compare images from different platforms (dev, CI, etc) that are not pixel for pixel identical, using a fairly simple",
@@ -87,26 +97,6 @@
           "wordCount": 3151,
           "title": "How I record, edit and publish YouTube videos (#blogPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20I%20record%252C%20edit%20and%20publish%20YouTube%20videos/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/questions-about-blogging/",
-          "author": null,
-          "description": "Kilian tagged me to answer some questions about blogging and it took me three months to get to it, but hey, here we are!\nWhy did you start blogging in the first place?\n\nI wrote my first blog post June 21st, 2013 on a different blog than this one. I had just discovered my love for web development and was lucky to have landed an internship with incredible people.\nI was studying Media and Computer Science and joined a small ecommerce shop selling shirts. I thought I was well equipped for the real world but boy was I wrong. My first internship days had been challenging. The university courses I had aced were pretty useless, because as it turned out, I didn't know the right things. Like really, it was an entirely new world.\nI hadn't touched a terminal before. I knew some things about Java and C…",
-          "link": "https://www.stefanjudis.com/blog/questions-about-blogging/",
-          "publishedOn": "2025-08-07T22:00:00.000Z",
-          "wordCount": 2591,
-          "title": "Tag, you're it (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Tag%252C%20you're%20it/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/intellisense-in-the-vs-code-terminal/",
-          "author": null,
-          "description": "If you use the built-in VS Code terminal, there's a new preview feature: IntelliSense.\nWhen you're running commands or looking for certain command flags, VS Code will try to show you inline auto-completion, similar to how your editor does it.\nTerminal session with turned-on IntelliSense\n      \n    \nTo turn it on, you need to flip these two flags in your settings.json:\n\"terminal.integrated.shellIntegration.enabled\": true,\n\"terminal.integrated.suggest.enabled\": true,\n\nI usually switch between iTerm for main tasks and the built-in terminal for one-off things, but I'll give it a shot even though I'm a bit skeptical about it. The terminal is supposed to be a simple and calm place and this feels very stressful, doesn't it?\nWe'll see...\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/blog/intellisense-in-the-vs-code-terminal/",
-          "publishedOn": "2025-08-07T22:00:00.000Z",
-          "wordCount": 1684,
-          "title": "IntelliSense in the VS Code terminal (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:IntelliSense%20in%20the%20VS%20Code%20terminal/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
