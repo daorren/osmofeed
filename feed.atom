@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-15T01:52:12.132Z</updated>
+    <updated>2025-09-16T01:43:21.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #168 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-168/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-168/"/>
+        <updated>2025-09-14T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! 👋
+
+Have you heard that Chromium shipped ariaNotify()? How would you implement Apple's liquid glass effect? And what's it about Git's --porcelain flag?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+Mike listens to The Housemartins - We're Not Deep and says:
+It's a perfectly catchy pop-song about the joys of being young and carefree. It's impossible to sit still while listening to this song.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.
+Sam kicked off a series of nerdy online quizzes and I dig it!
+First there was jsdate.wtf.
+Then, Sam released e-mail.wtf. :D
+And the community followed with ohyaml.wtf.
+I love it when things get a life of their own. However, all that said, the best ga…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — The battle at Git's Hub]]></title>
         <id>68bc725c54a6b60001ae9736</id>
@@ -91,18 +112,6 @@ A quick "repost" really helps this…]]></summary>
         <summary type="html"><![CDATA[MostlyHarmless "The bloody hipsters have gone too far."
 Tech Stuff
 Embeddable When you need a little widget on your website that converts traffic (newsletter signup, posted review, discount checkout, etc), why not let AI do the walking? This doesn't look horribly expensive, $19/month for 100]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — I'm back and I miss you all! 💋💋💋]]></title>
-        <id>688e652b45a6280001e7f6c2</id>
-        <link href="https://labnotes.org/weekend-reading-im-back-and-i-miss-you-all/"/>
-        <updated>2025-08-16T18:16:21.000Z</updated>
-        <summary type="html"><![CDATA[Syulang "Soooooo.... capitalism is at it again."
-First the good news: 10 days ago was the 20th year anniversary of this very blog! 🎂 Many happy returns!
-Unfortunately, I spent last weekend in the hospital — it took them 4 days to queeze me into a one hour]]></summary>
         <author>
             <name>Assaf Arkin</name>
         </author>
