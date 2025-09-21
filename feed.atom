@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-20T01:41:27.397Z</updated>
+    <updated>2025-09-21T01:53:42.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — The Yeet Sheet]]></title>
+        <id>68c5a6f32f116b0001bc44c5</id>
+        <link href="https://labnotes.org/weekend-reading-the-yeet-sheet/"/>
+        <updated>2025-09-20T19:56:22.000Z</updated>
+        <summary type="html"><![CDATA[Laura Manach
+Tech Stuff
+How to keep package.json under control With the latest npm hacks adding a cooldown period to installs should be regarded as standard security practice. Now available in pnpm, npm-check-updates and hopefully other package management tools.
+
+Your First 10 Users > Your First 10 Features: Hard]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #168 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-168/</id>
