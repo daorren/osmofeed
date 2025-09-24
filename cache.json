@@ -59,6 +59,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/notes/when-ai-will-browse-the-web-for-me/",
+          "author": null,
+          "description": "It's a shame that the latest AI trend is figuring out how to replace our beloved internet. To state the obvious: the master plan is to make websites invisible to the public and let agents do \"the web browsing\" for us.\nEvery AI-focused product tries exactly this on a smaller scale for a while; \"Hey you! Do you want to use our slurped-in and almost accurate content summary instead of reading something yourself? It's great (but, remember, use it at your own risk)!\".\nTo scale up, browser makers now try to convince us to use LLMs and AI makers try to build and sell browsers. Web browsing isn't the goal, though, and the direction is pretty clear. AI companies need to reach more people and the old web we know is the obvious target.\nIbrahim struck a nerve in his recent post:\nWhen Chrome browses fo…",
+          "link": "https://www.stefanjudis.com/notes/when-ai-will-browse-the-web-for-me/",
+          "publishedOn": "2025-09-22T22:00:00.000Z",
+          "wordCount": 1946,
+          "title": "When AI will browse the web for me (#note)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:When%20AI%20will%20browse%20the%20web%20for%20me/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-168/",
           "author": null,
           "description": "Guten Tag! 👋\n\nHave you heard that Chromium shipped ariaNotify()? How would you implement Apple's liquid glass effect? And what's it about Git's --porcelain flag?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nMike listens to The Housemartins - We're Not Deep and says:\nIt's a perfectly catchy pop-song about the joys of being young and carefree. It's impossible to sit still while listening to this song.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.\nSam kicked off a series of nerdy online quizzes and I dig it!\nFirst there was jsdate.wtf.\nThen, Sam released e-mail.wtf. :D\nAnd the community followed with ohyaml.wtf.\nI love it when things get a life of their own. However, all that said, the best ga…",
@@ -76,16 +86,6 @@
           "publishedOn": "2025-09-01T22:00:00.000Z",
           "wordCount": 2851,
           "title": "Web Weekly #167 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-166/",
-          "author": null,
-          "description": "Guten Tag! Guten Tag! 👋\n\nDo you style the ::target-text pseudo-element? Do you use modern Git commands? And do you know how SVG paths really work?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nPaweł listens to \"Burt Bacharach - What The World Needs Now Is Love\" and says:\nThere is millions of versions of this beautiful song out there, but this one by Burt Bacharach is by far my favorite. I like it a lot more than the most popular version of this tune sung by Jackie DeShannon (although this one is also incredible).\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there is only one more song left in the queue.\nIf you enjoy Web Weekly, share it with your friends and family.\n🦋 Bluesky\n🐘 Mastodon\n💼 Linkedin\nA quick \"repost\" really helps this…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-166/",
-          "publishedOn": "2025-08-24T22:00:00.000Z",
-          "wordCount": 2627,
-          "title": "Web Weekly #166 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]

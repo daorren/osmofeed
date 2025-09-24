@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-23T01:44:08.524Z</updated>
+    <updated>2025-09-24T01:45:34.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[When AI will browse the web for me (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/when-ai-will-browse-the-web-for-me/</id>
+        <link href="https://www.stefanjudis.com/notes/when-ai-will-browse-the-web-for-me/"/>
+        <updated>2025-09-22T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's a shame that the latest AI trend is figuring out how to replace our beloved internet. To state the obvious: the master plan is to make websites invisible to the public and let agents do "the web browsing" for us.
+Every AI-focused product tries exactly this on a smaller scale for a while; "Hey you! Do you want to use our slurped-in and almost accurate content summary instead of reading something yourself? It's great (but, remember, use it at your own risk)!".
+To scale up, browser makers now try to convince us to use LLMs and AI makers try to build and sell browsers. Web browsing isn't the goal, though, and the direction is pretty clear. AI companies need to reach more people and the old web we know is the obvious target.
+Ibrahim struck a nerve in his recent post:
+When Chrome browses fo…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — The Yeet Sheet]]></title>
         <id>68c5a6f32f116b0001bc44c5</id>
@@ -95,27 +109,6 @@ Tech Stuff
 looks-same Nice library for visual regression testing, when you need to compare images from different platforms (dev, CI, etc) that are not pixel for pixel identical, using a fairly simple]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #166 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-166/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-166/"/>
-        <updated>2025-08-24T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
-
-Do you style the ::target-text pseudo-element? Do you use modern Git commands? And do you know how SVG paths really work?
-Turn on the Web Weekly tune and find some answers below. Enjoy!
-Paweł listens to "Burt Bacharach - What The World Needs Now Is Love" and says:
-There is millions of versions of this beautiful song out there, but this one by Burt Bacharach is by far my favorite. I like it a lot more than the most popular version of this tune sung by Jackie DeShannon (although this one is also incredible).
-Do you want to share your favorite song with the Web Weekly community? Hit reply; there is only one more song left in the queue.
-If you enjoy Web Weekly, share it with your friends and family.
-🦋 Bluesky
-🐘 Mastodon
-💼 Linkedin
-A quick "repost" really helps this…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
