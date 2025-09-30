@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-29T01:48:31.742Z</updated>
+    <updated>2025-09-30T01:43:31.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -112,18 +112,6 @@ Do you want to share your favorite song with the Web Weekly community? Hit reply
 You probably have heard of the Arc browser. It's this good-looking Chromium wrapper with the fancy sidebar, split views, and UX sparkles to copy or previews URLs. The company beh…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — First rule of Eight Club: no typos]]></title>
-        <id>68aa2c85c1676200019fdd8f</id>
-        <link href="https://labnotes.org/weekend-reading-first-rule-of-eight-club-no-typos/"/>
-        <updated>2025-08-30T16:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Natasha Jay “Biker gang - believe this group are leaders in the illegal cat nip trade ...”
-Tech Stuff
-looks-same Nice library for visual regression testing, when you need to compare images from different platforms (dev, CI, etc) that are not pixel for pixel identical, using a fairly simple]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
