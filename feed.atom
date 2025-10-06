@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-05T01:53:40.954Z</updated>
+    <updated>2025-10-06T01:46:55.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #169 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-169/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-169/"/>
+        <updated>2025-10-04T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Are you excited about the upcoming corner-shape CSS property? Have you played with commandfor already? And did you dive deeper into all the Safari 26 features?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+Pablo listens to "Sinners (scene) - All The Way to Dublin - Rocky Road to Dublin" and says:
+After watching Ryan Coogler's Sinners movie, I can't stop watching the video of the scene of the Irish vampire, Remmick (Jack O'Connell), dancing and singing The Rocky Road to Dublin, with a cohort of vampires.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are five more songs left in the queue.
+✋ Hold on before you dive into all the web dev stuff; I've been thinking a lot about Web Weekly's direction and started …]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyframe animations have a special role in the CSS cascade (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/keyframe-animations-have-a-special-role-in-the-css-cascade/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/keyframe-animations-have-a-special-role-in-the-css-cascade/"/>
+        <updated>2025-10-04T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I've been reading Josh's post The Big Gotcha With @starting-style and learned a new thing about CSS @keyframes.
+Instead of doing specificity math for each built-in style, the browser treats them [the animation styles] as an entirely separate collection of CSS. They get applied first, and any CSS we write, no matter its specificity, will overwrite it.
+Granted, I don't use keyframe animations very often, but what CSS collection is Josh talking about? The answer can be found on the MDN docs explaining the CSS cascade.
+The cascading algorithm determines what properties to apply to an element in the following order:
+user-agent (browser) normal
+user normal
+author (developer) normal
+CSS keyframe animations
+author (developer) !important
+user !important
+user-agent (browser) !important
+CSS transitions
+And keyframe animations have a higher precedence than any other "non-important" style. This behavior makes it quite handy to apply entry animations.
+[Interactive component: visit the article to see it...]
+You can apply a keyframe animation that only defines from styles and can then automatically transition to the other applied properties. This keyframe transition works because keyframe styles are treated higher in the cascade algorithm. Well, today I learned!
+If you apply !important styles, this doesn't work for the same cascade algorithm rules.
+[Interactive component: visit the article to see it...]
+Keyframe animations won't overrule !important styles and slapping more !important properties into your keyframes won't work either.
+[Interactive component: visit the article to see it...]
+Either way, Josh argues that for the mentioned reasons, @starting-style might be a mistake and the more I think of it, I think he's right.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Ancient Ruins]]></title>
         <id>68d81b7cd22c510001b2e10c</id>

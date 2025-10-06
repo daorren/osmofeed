@@ -69,6 +69,26 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-169/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nAre you excited about the upcoming corner-shape CSS property? Have you played with commandfor already? And did you dive deeper into all the Safari 26 features?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nPablo listens to \"Sinners (scene) - All The Way to Dublin - Rocky Road to Dublin\" and says:\nAfter watching Ryan Coogler's Sinners movie, I can't stop watching the video of the scene of the Irish vampire, Remmick (Jack O'Connell), dancing and singing The Rocky Road to Dublin, with a cohort of vampires.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are five more songs left in the queue.\n✋ Hold on before you dive into all the web dev stuff; I've been thinking a lot about Web Weekly's direction and started …",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-169/",
+          "publishedOn": "2025-10-04T22:00:00.000Z",
+          "wordCount": 2875,
+          "title": "Web Weekly #169 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/keyframe-animations-have-a-special-role-in-the-css-cascade/",
+          "author": null,
+          "description": "I've been reading Josh's post The Big Gotcha With @starting-style and learned a new thing about CSS @keyframes.\nInstead of doing specificity math for each built-in style, the browser treats them [the animation styles] as an entirely separate collection of CSS. They get applied first, and any CSS we write, no matter its specificity, will overwrite it.\nGranted, I don't use keyframe animations very often, but what CSS collection is Josh talking about? The answer can be found on the MDN docs explaining the CSS cascade.\nThe cascading algorithm determines what properties to apply to an element in the following order:\nuser-agent (browser) normal\nuser normal\nauthor (developer) normal\nCSS keyframe animations\nauthor (developer) !important\nuser !important\nuser-agent (browser) !important\nCSS transitions\nAnd keyframe animations have a higher precedence than any other \"non-important\" style. This behavior makes it quite handy to apply entry animations.\n[Interactive component: visit the article to see it...]\nYou can apply a keyframe animation that only defines from styles and can then automatically transition to the other applied properties. This keyframe transition works because keyframe styles are treated higher in the cascade algorithm. Well, today I learned!\nIf you apply !important styles, this doesn't work for the same cascade algorithm rules.\n[Interactive component: visit the article to see it...]\nKeyframe animations won't overrule !important styles and slapping more !important properties into your keyframes won't work either.\n[Interactive component: visit the article to see it...]\nEither way, Josh argues that for the mentioned reasons, @starting-style might be a mistake and the more I think of it, I think he's right.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/keyframe-animations-have-a-special-role-in-the-css-cascade/",
+          "publishedOn": "2025-10-04T22:00:00.000Z",
+          "wordCount": 3377,
+          "title": "Keyframe animations have a special role in the CSS cascade (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Keyframe%20animations%20have%20a%20special%20role%20in%20the%20CSS%20cascade/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/notes/when-ai-will-browse-the-web-for-me/",
           "author": null,
           "description": "It's a shame that the latest AI trend is figuring out how to replace our beloved internet. To state the obvious: the master plan is to make websites invisible to the public and let agents do \"the web browsing\" for us.\nEvery AI-focused product tries exactly this on a smaller scale for a while; \"Hey you! Do you want to use our slurped-in and almost accurate content summary instead of reading something yourself? It's great (but, remember, use it at your own risk)!\".\nTo scale up, browser makers now try to convince us to use LLMs and AI makers try to build and sell browsers. Web browsing isn't the goal, though, and the direction is pretty clear. AI companies need to reach more people and the old web we know is the obvious target.\nIbrahim struck a nerve in his recent post:\nWhen Chrome browses fo…",

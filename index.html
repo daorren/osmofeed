@@ -22,11 +22,96 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-10-04 datetime="2025-10-04T17:18:12.000Z">2025-10-04</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-10-04 datetime="2025-10-04T17:18:12.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-10-04 datetime="2025-10-04T22:00:00.000Z">2025-10-04</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-10-04 datetime="2025-10-04T22:00:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/blog/web-weekly-169/"
+                        open
+                      >
+                        <summary class="article-expander__title">Web Weekly #169 (#blogPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/blog/web-weekly-169/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.stefanjudis.com/newsletter-social.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Guten Tag! Guten Tag! 👋
+
+Are you excited about the upcoming corner-shape CSS property? Have you played with commandfor already? And did you dive deeper into all the Safari 26 features?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+Pablo listens to &quot;Sinners (scene) - All The Way to Dublin - Rocky Road to Dublin&quot; and says:
+After watching Ryan Coogler&#x27;s Sinners movie, I can&#x27;t stop watching the video of the scene of the Irish vampire, Remmick (Jack O&#x27;Connell), dancing and singing The Rocky Road to Dublin, with a cohort of vampires.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are five more songs left in the queue.
+✋ Hold on before you dive into all the web dev stuff; I&#x27;ve been thinking a lot about Web Weekly&#x27;s direction and started …</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/today-i-learned/keyframe-animations-have-a-special-role-in-the-css-cascade/"
+                        open
+                      >
+                        <summary class="article-expander__title">Keyframe animations have a special role in the CSS cascade (#tilPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/keyframe-animations-have-a-special-role-in-the-css-cascade/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Keyframe%20animations%20have%20a%20special%20role%20in%20the%20CSS%20cascade/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>I&#x27;ve been reading Josh&#x27;s post The Big Gotcha With @starting-style and learned a new thing about CSS @keyframes.
+Instead of doing specificity math for each built-in style, the browser treats them [the animation styles] as an entirely separate collection of CSS. They get applied first, and any CSS we write, no matter its specificity, will overwrite it.
+Granted, I don&#x27;t use keyframe animations very often, but what CSS collection is Josh talking about? The answer can be found on the MDN docs explaining the CSS cascade.
+The cascading algorithm determines what properties to apply to an element in the following order:
+user-agent (browser) normal
+user normal
+author (developer) normal
+CSS keyframe animations
+author (developer) !important
+user !important
+user-agent (browser) !important
+CSS transitions
+And keyframe animations have a higher precedence than any other &quot;non-important&quot; style. This behavior makes it quite handy to apply entry animations.
+[Interactive component: visit the article to see it...]
+You can apply a keyframe animation that only defines from styles and can then automatically transition to the other applied properties. This keyframe transition works because keyframe styles are treated higher in the cascade algorithm. Well, today I learned!
+If you apply !important styles, this doesn&#x27;t work for the same cascade algorithm rules.
+[Interactive component: visit the article to see it...]
+Keyframe animations won&#x27;t overrule !important styles and slapping more !important properties into your keyframes won&#x27;t work either.
+[Interactive component: visit the article to see it...]
+Either way, Josh argues that for the mentioned reasons, @starting-style might be a mistake and the more I think of it, I think he&#x27;s right.
+
+
+          
+          
+            Reply to Stefan</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;11
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -388,8 +473,8 @@ This gives an entirely new meaning to Knuth’s “literate programming”: Rath
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/18252342989">
-        <time id="build-timestamp" datetime="2025-10-05T01:53:40.930Z">2025-10-05T01:53:40.930Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/18267679136">
+        <time id="build-timestamp" datetime="2025-10-06T01:46:55.618Z">2025-10-06T01:46:55.618Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
