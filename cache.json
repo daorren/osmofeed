@@ -59,6 +59,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/today-i-learned/node-js-includes-a-native-glob-utility/",
+          "author": null,
+          "description": "The two most popular glob utilities (minimatch and glob) are responsible for over 500 million weekly npm downloads. Something so common should be included in the Node core library, right?\nToday, I discovered that they are and that Node supports native \"globbing\" since v22.17.\nThe utility comes in three flavors.\nfsPromises.glob()\n\nI don't know why fsPromises.glob() needed to return an async iterator but to access the files you can use the newish Array.fromAsync method.\nimport { glob } from 'node:fs/promises';\n\nconst files = await glob('**/*.txt');\nconsole.log(await Array.fromAsync(files));\n\nfs.glob()\n\nfs.glob() is callback-based if that's your jam.\nimport { glob } from 'node:fs';\n\nawait glob('**/*.txt', (error, files) => {\n  console.log(files);\n});\n\nfs.globSync()\n\nAnd, of course, there's a synchronous version with fs.globSync(), too.\nimport { globSync } from 'node:fs';\n\nconsole.log(globSync('**/*.txt'));\n\nNow, I'm sure there are some minor differences to the popular libraries, but I bet it'll be fine for some quick file-grepping in JavaScript.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/node-js-includes-a-native-glob-utility/",
+          "publishedOn": "2025-10-06T22:00:00.000Z",
+          "wordCount": 1711,
+          "title": "Node.js includes a native glob utility (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Node.js%20includes%20a%20native%20glob%20utility/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-169/",
           "author": null,
           "description": "Guten Tag! Guten Tag! 👋\n\nAre you excited about the upcoming corner-shape CSS property? Have you played with commandfor already? And did you dive deeper into all the Safari 26 features?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nPablo listens to \"Sinners (scene) - All The Way to Dublin - Rocky Road to Dublin\" and says:\nAfter watching Ryan Coogler's Sinners movie, I can't stop watching the video of the scene of the Irish vampire, Remmick (Jack O'Connell), dancing and singing The Rocky Road to Dublin, with a cohort of vampires.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are five more songs left in the queue.\n✋ Hold on before you dive into all the web dev stuff; I've been thinking a lot about Web Weekly's direction and started …",
