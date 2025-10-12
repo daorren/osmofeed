@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-11T01:41:28.774Z</updated>
+    <updated>2025-10-12T01:49:36.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Prime minister of France for 15 minutes]]></title>
+        <id>68e156e6d22c510001b2f25d</id>
+        <link href="https://labnotes.org/weekend-reading-prime-minister-of-france-for-15-minutes/"/>
+        <updated>2025-10-11T17:47:27.000Z</updated>
+        <summary type="html"><![CDATA[Lizzy "You guys i did a thing"
+Tech Stuff
+Folder Quick Look fixes an all-time Mac grievance for free This is pretty slick, very useful, and free to use.
+
+How I Learned to Stop Worrying and Trust AI Coding Agents Mirrors my experience as well. Differnet problems, different]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node.js includes a native glob utility (#tilPost)]]></title>
         <id>https://www.stefanjudis.com/today-i-learned/node-js-includes-a-native-glob-utility/</id>
