@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-14T01:46:18.498Z</updated>
+    <updated>2025-10-15T01:49:29.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #170 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-170/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-170/"/>
+        <updated>2025-10-13T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Have you had a look at CSS functions already? Do you use AbortController in JavaScript? And do you know that the HTML output element is an ARIA live region?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+Yoganathan listens to "Fox Stevenson - Curtain Call"
+Fox Stevenson is an underrated electronic artist who usually makes banger Drum and Bass, but this one has got such bouncy pop vibes. Have got it on repeat.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are 5 more songs left in the queue.
+A ton of karma points go to vaibhav this week! Thank you for supporting Web Weekly! ❤️
+If you want to support my work with Web Weekly, too, you can't imagine how much I celebrate every Patreon or GitHub Sponsors donation…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Prime minister of France for 15 minutes]]></title>
         <id>68e156e6d22c510001b2f25d</id>
@@ -168,27 +186,6 @@ How to keep package.json under control With the latest npm hacks adding a cooldo
 Your First 10 Users > Your First 10 Features: Hard]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #168 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-168/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-168/"/>
-        <updated>2025-09-14T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! 👋
-
-Have you heard that Chromium shipped ariaNotify()? How would you implement Apple's liquid glass effect? And what's it about Git's --porcelain flag?
-Turn on the Web Weekly tune and find some answers below. Enjoy!
-Mike listens to The Housemartins - We're Not Deep and says:
-It's a perfectly catchy pop-song about the joys of being young and carefree. It's impossible to sit still while listening to this song.
-Do you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.
-Sam kicked off a series of nerdy online quizzes and I dig it!
-First there was jsdate.wtf.
-Then, Sam released e-mail.wtf. :D
-And the community followed with ohyaml.wtf.
-I love it when things get a life of their own. However, all that said, the best ga…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
