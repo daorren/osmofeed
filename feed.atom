@@ -2,10 +2,135 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-20T01:56:02.197Z</updated>
+    <updated>2025-10-21T01:50:05.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #171 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-171/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-171/"/>
+        <updated>2025-10-20T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Do you know what core web vitals metrics work across browsers? Have you used the closed-by attribute? And is AI really saving time?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+Kate listens to "Dick Around" by Sparks and says:
+"I'm not saying this is my work anthem, but every day, every day, every night, every night..."
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are five more songs left in the queue.
+Last week, I opened Web Weekly with CSS functions (@function) and how they can be used to create a custom --light-dark() function. I learned some things from the reactions.
+The existing light-dark() function only works with color values. Why's that?
+Bramus blogged about it back in 2023 and the answer is t…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[field-sizing isn't only about growing textareas (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/field-sizing-is-about-more-than-textareas/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/field-sizing-is-about-more-than-textareas/"/>
+        <updated>2025-10-20T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There's a new CSS property in town: field-sizing. field-sizing: content allows form controls to adjust in size to fit their contents. At the time of writing this property is still in flux in terms of baseline support.
+
+        
+MDN Compat Data (source)
+Browser support info for field-sizing 
+              
+                
+
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                
+
+                        
+                        123
+                        
+                      
+                        
+                        123
+                        
+                      
+                        
+                        Nein
+                        
+                      
+                        
+                        Nei
+                        
+                      
+                        
+                        preview
+                        
+                      
+                        
+                        preview
+                        
+                      
+                        
+                        27.0
+                        
+                      
+                        
+                        123
+                        
+                      
+                
+
+
+So far, I've thought the new property is only about expanding textarea elements, but apparently it works for other input elements, too.
+[Interactive component: visit the article to see it...]
+That's good stuff!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Header & footer elements change their roles when they're inside of sectioning content (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/header-and-footer-elements-lose-their-roles-in-sectioning-content/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/header-and-footer-elements-lose-their-roles-in-sectioning-content/"/>
+        <updated>2025-10-19T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Using proper ARIA landmark roles allows assistive technologies to navigate a page. You probably know about some common ones: main (main), header (banner), footer (contentinfo). But do you know that header and footer don't always get assigned their initial ARIA roles?
+Here's an example:
+<header>
+  "Root" header
+</header>
+<main>
+  <header>
+    "Main" header
+  </header>
+  <footer>
+    "Main" footer
+  </footer>
+</main>
+<footer>
+  "Root" footer
+</footer>
+
+This HTML snippet includes header and footer elements that are a) on the root level and b) included in a main element. If you check the browser's accessibility tools, these elements get different roles assigned.
+The header element loses its banner role and depending on the browser gets generic or sectionheader assigned, which has an effect on …]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — And a ghostty October to you]]></title>
         <id>68ea98796fbb8300010e0f22</id>
@@ -196,20 +321,6 @@ Ibrahim struck a nerve in his recent post:
 When Chrome browses fo…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — The Yeet Sheet]]></title>
-        <id>68c5a6f32f116b0001bc44c5</id>
-        <link href="https://labnotes.org/weekend-reading-the-yeet-sheet/"/>
-        <updated>2025-09-20T19:56:22.000Z</updated>
-        <summary type="html"><![CDATA[Laura Manach
-Tech Stuff
-How to keep package.json under control With the latest npm hacks adding a cooldown period to installs should be regarded as standard security practice. Now available in pnpm, npm-check-updates and hopefully other package management tools.
-
-Your First 10 Users > Your First 10 Features: Hard]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
