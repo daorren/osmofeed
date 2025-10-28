@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-27T01:59:40.074Z</updated>
+    <updated>2025-10-28T01:49:08.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #172 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-172/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-172/"/>
+        <updated>2025-10-26T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Do you know about the web compatibility standard? Should you import JSON data with { type: 'json' } already? And have you heard of Intl.Segmenter?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+Andreas listens to FKJ - Just Piano and says:
+FKJ sounds like what I want my code to feel like.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are five more songs left in the queue.
+Evan shared small utility CLI scripts he uses daily. I love these posts!
+Here are my favorite CLI utils that I use daily.
+First, my cp and mv commands are aliases to be safer and more verbose.
+Second, I use Git on the command line and occasionally use Claude Code to write commit messages for me with a custom git-cco script (a git-cco exec…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Turn off macOS Liquid Glass via the CLI (#snippet)]]></title>
         <id>https://www.stefanjudis.com/snippets/turn-off-macos-liquid-glass-via-the-cli/</id>
@@ -322,21 +342,6 @@ Tech Stuff
 How I Use AI An ever growing list of ways in which David Bauer uses AI for work, life and play. Includes some interesting prompts. I took one to help Claude write for brevity.
 
 Nine HTTP Edge Cases Every API Developer Should Understand If you&]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — KVICK SÖRT]]></title>
-        <id>68cf0795d22c510001b2caaa</id>
-        <link href="https://labnotes.org/weekend-reading-kvick-sort/"/>
-        <updated>2025-09-27T17:11:21.000Z</updated>
-        <summary type="html"><![CDATA[KVICK SÖRT
-Tech Stuff
-Tangled Interesting 🤔 If GitHub bumped into Bluesky, a social-enabled git collaboration platform using atproto.
-
-LLM Rankings: The New Battleground Welcome to the mention economy!
-If you want to appear in AI search results, your brand name has to show up often, in credible]]></summary>
         <author>
             <name>Assaf Arkin</name>
         </author>
