@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-01T01:55:43.362Z</updated>
+    <updated>2025-11-02T01:58:10.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Cloud outages will continue until morale improves]]></title>
+        <id>68fd2bbcca736800010be0f9</id>
+        <link href="https://labnotes.org/weekend-reading-cloud-outages-will-continue-until-morale-improves/"/>
+        <updated>2025-11-01T18:56:42.000Z</updated>
+        <summary type="html"><![CDATA[Kevin Beaumont
+Tech Stuff
+I am sorry, but everyone is getting syntax highlighting wrong I'm using Alabaster to see how I like it (PS it's an extension, not a theme):
+The problem with that is, if everything is highlighted, nothing stands out. Your eye adapts and]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quoting Pablo Enoc (#note)]]></title>
         <id>https://www.stefanjudis.com/notes/quoting-pablo-enoc/</id>
