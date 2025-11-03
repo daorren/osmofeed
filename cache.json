@@ -69,6 +69,16 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/chrome-split-views/",
+          "author": null,
+          "description": "The Zen Browser remains my main driver these days. The Firefox-based open source browser aims to fill the gap Arc has left behind after going all-in on AI only to be acquired by Atlassian. I'm still confused by this deal, but that's for another day.\nOne of the features I keep using every day is split views. It's such a simple feature, but having two tabs side-by-side makes a huge difference for data-heavy focus work. I'm happy to see that there's finally some innovation coming to Chrome land.\nChrome session showing how to turn on and use split views.\n      \n    \nYou can turn on the new features using a Chrome flag.\nchrome://flags#side-by-side\n\nI tested it and it feels good! No idea when it'll ship in the stable channels, but for now I'm happy it's there!\nUpdate: Nicolas pointed out that Firefox is also working on a new native split view. You can turn on the experimental feature at about:config by turning on browser.tabs.splitView.enabled.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/blog/chrome-split-views/",
+          "publishedOn": "2025-11-01T23:00:00.000Z",
+          "wordCount": 1729,
+          "title": "Chrome supports split views (behind a flag) (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Chrome%20supports%20split%20views%20(behind%20a%20flag)/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/notes/quoting-pablo-enoc/",
           "author": null,
           "description": "I don't agree with everything Pablo writes in It's insulting to read your AI-generated blog post. For example, I think it's fine to use AI for grammar fixes or translations when neeeded.\nThis opening sentence is a real banger, though!\nIt seems so rude and careless to make me, a person with thoughts, ideas, humor, contradictions and life experience to read something spit out by the equivalent of a lexical bingo machine because you were too lazy to write it yourself.\n\n\n\n          \n          \n            Reply to Stefan",

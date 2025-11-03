@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-02T01:58:10.125Z</updated>
+    <updated>2025-11-03T01:57:08.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chrome supports split views (behind a flag) (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/chrome-split-views/</id>
+        <link href="https://www.stefanjudis.com/blog/chrome-split-views/"/>
+        <updated>2025-11-01T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Zen Browser remains my main driver these days. The Firefox-based open source browser aims to fill the gap Arc has left behind after going all-in on AI only to be acquired by Atlassian. I'm still confused by this deal, but that's for another day.
+One of the features I keep using every day is split views. It's such a simple feature, but having two tabs side-by-side makes a huge difference for data-heavy focus work. I'm happy to see that there's finally some innovation coming to Chrome land.
+Chrome session showing how to turn on and use split views.
+      
+    
+You can turn on the new features using a Chrome flag.
+chrome://flags#side-by-side
+
+I tested it and it feels good! No idea when it'll ship in the stable channels, but for now I'm happy it's there!
+Update: Nicolas pointed out that Firefox is also working on a new native split view. You can turn on the experimental feature at about:config by turning on browser.tabs.splitView.enabled.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Cloud outages will continue until morale improves]]></title>
         <id>68fd2bbcca736800010be0f9</id>
