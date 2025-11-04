@@ -50,16 +50,6 @@
           "wordCount": 2414,
           "title": "Weekend Reading — Prime minister of France for 15 minutes",
           "imageUrl": "https://labnotes.org/content/images/size/w1200/2025/10/image-21.png.jpeg"
-        },
-        {
-          "id": "68d81b7cd22c510001b2e10c",
-          "author": "Assaf Arkin",
-          "description": "link (t)wink\nTech Stuff\nHow I Use AI An ever growing list of ways in which David Bauer uses AI for work, life and play. Includes some interesting prompts. I took one to help Claude write for brevity.\n\nNine HTTP Edge Cases Every API Developer Should Understand If you&",
-          "link": "https://labnotes.org/weekend-reading-ancient-ruins/",
-          "publishedOn": "2025-10-04T17:18:12.000Z",
-          "wordCount": 1661,
-          "title": "Weekend Reading — Ancient Ruins",
-          "imageUrl": "https://labnotes.org/content/images/2025/10/image-4-1.png"
         }
       ]
     },
@@ -68,6 +58,26 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-173/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nDo you know how SVG pathLength can make it easier to animate path elements? Have you noticed that dns-prefetch only recently went into the baseline? And which Frontend framework is the fastest in 2025?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nJules listens to \"Snarky Puppy & Metropole Orkest - Waves Upon Waves\" and says:\n10 years after their glorious Sylva album they're back together again. I was lucky enough to be present at one of their recording nights. It was amazing. The rest of the album is gonna be great.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.\nLast week I shared some of my favorite CLI util functions and aliases and asked what's on your machine. He…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-173/",
+          "publishedOn": "2025-11-02T23:00:00.000Z",
+          "wordCount": 2798,
+          "title": "Web Weekly #173 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/pathlength-makes-makes-svg-path-animations-easier-to-manage/",
+          "author": null,
+          "description": "You've probably seen this SVG effect that people use to animate signatures. If you have an SVG path you can combine stroke-dasharray, stroke-dashoffset and CSS animations/transitions to animate a given SVG path. Here's an example of the effect.\n[Interactive component: visit the article to see it...]\nThe SVG includes a single SVG path that expands when you hover over the SVG. How does this work in detail?\nAs a first step, you can cut SVG paths into visual pieces with stroke-dasharray. It's important to know that the \"drawn pieces\" and in-between gaps will have the same length.\nThen, after you've chopped your path into pieces, you can move these pieces around the SVG path with stroke-dashoffset.\nSo, the overall trick is to make the pieces as big as the entire path length to transition from s…",
+          "link": "https://www.stefanjudis.com/today-i-learned/pathlength-makes-makes-svg-path-animations-easier-to-manage/",
+          "publishedOn": "2025-11-02T23:00:00.000Z",
+          "wordCount": 2243,
+          "title": "pathLength makes makes SVG path animations easier to manage (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:pathLength%20makes%20makes%20SVG%20path%20animations%20easier%20to%20manage/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/chrome-split-views/",
           "author": null,
@@ -177,26 +187,6 @@
           "wordCount": 1711,
           "title": "Node.js includes a native glob utility (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Node.js%20includes%20a%20native%20glob%20utility/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-169/",
-          "author": null,
-          "description": "Guten Tag! Guten Tag! 👋\n\nAre you excited about the upcoming corner-shape CSS property? Have you played with commandfor already? And did you dive deeper into all the Safari 26 features?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nPablo listens to \"Sinners (scene) - All The Way to Dublin - Rocky Road to Dublin\" and says:\nAfter watching Ryan Coogler's Sinners movie, I can't stop watching the video of the scene of the Irish vampire, Remmick (Jack O'Connell), dancing and singing The Rocky Road to Dublin, with a cohort of vampires.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are five more songs left in the queue.\n✋ Hold on before you dive into all the web dev stuff; I've been thinking a lot about Web Weekly's direction and started …",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-169/",
-          "publishedOn": "2025-10-04T22:00:00.000Z",
-          "wordCount": 2875,
-          "title": "Web Weekly #169 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/keyframe-animations-have-a-special-role-in-the-css-cascade/",
-          "author": null,
-          "description": "I've been reading Josh's post The Big Gotcha With @starting-style and learned a new thing about CSS @keyframes.\nInstead of doing specificity math for each built-in style, the browser treats them [the animation styles] as an entirely separate collection of CSS. They get applied first, and any CSS we write, no matter its specificity, will overwrite it.\nGranted, I don't use keyframe animations very often, but what CSS collection is Josh talking about? The answer can be found on the MDN docs explaining the CSS cascade.\nThe cascading algorithm determines what properties to apply to an element in the following order:\nuser-agent (browser) normal\nuser normal\nauthor (developer) normal\nCSS keyframe animations\nauthor (developer) !important\nuser !important\nuser-agent (browser) !important\nCSS transitions\nAnd keyframe animations have a higher precedence than any other \"non-important\" style. This behavior makes it quite handy to apply entry animations.\n[Interactive component: visit the article to see it...]\nYou can apply a keyframe animation that only defines from styles and can then automatically transition to the other applied properties. This keyframe transition works because keyframe styles are treated higher in the cascade algorithm. Well, today I learned!\nIf you apply !important styles, this doesn't work for the same cascade algorithm rules.\n[Interactive component: visit the article to see it...]\nKeyframe animations won't overrule !important styles and slapping more !important properties into your keyframes won't work either.\n[Interactive component: visit the article to see it...]\nEither way, Josh argues that for the mentioned reasons, @starting-style might be a mistake and the more I think of it, I think he's right.\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/keyframe-animations-have-a-special-role-in-the-css-cascade/",
-          "publishedOn": "2025-10-04T22:00:00.000Z",
-          "wordCount": 3377,
-          "title": "Keyframe animations have a special role in the CSS cascade (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Keyframe%20animations%20have%20a%20special%20role%20in%20the%20CSS%20cascade/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },

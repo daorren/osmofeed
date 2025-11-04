@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-03T01:57:08.316Z</updated>
+    <updated>2025-11-04T01:53:04.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #173 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-173/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-173/"/>
+        <updated>2025-11-02T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Do you know how SVG pathLength can make it easier to animate path elements? Have you noticed that dns-prefetch only recently went into the baseline? And which Frontend framework is the fastest in 2025?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+Jules listens to "Snarky Puppy & Metropole Orkest - Waves Upon Waves" and says:
+10 years after their glorious Sylva album they're back together again. I was lucky enough to be present at one of their recording nights. It was amazing. The rest of the album is gonna be great.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.
+Last week I shared some of my favorite CLI util functions and aliases and asked what's on your machine. He…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pathLength makes makes SVG path animations easier to manage (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/pathlength-makes-makes-svg-path-animations-easier-to-manage/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/pathlength-makes-makes-svg-path-animations-easier-to-manage/"/>
+        <updated>2025-11-02T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You've probably seen this SVG effect that people use to animate signatures. If you have an SVG path you can combine stroke-dasharray, stroke-dashoffset and CSS animations/transitions to animate a given SVG path. Here's an example of the effect.
+[Interactive component: visit the article to see it...]
+The SVG includes a single SVG path that expands when you hover over the SVG. How does this work in detail?
+As a first step, you can cut SVG paths into visual pieces with stroke-dasharray. It's important to know that the "drawn pieces" and in-between gaps will have the same length.
+Then, after you've chopped your path into pieces, you can move these pieces around the SVG path with stroke-dashoffset.
+So, the overall trick is to make the pieces as big as the entire path length to transition from s…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chrome supports split views (behind a flag) (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/chrome-split-views/</id>
@@ -363,71 +395,6 @@ Now, I'm sure there are some minor differences to the popular libraries, but I b
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #169 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-169/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-169/"/>
-        <updated>2025-10-04T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
-
-Are you excited about the upcoming corner-shape CSS property? Have you played with commandfor already? And did you dive deeper into all the Safari 26 features?
-Turn on the Web Weekly tune and find some answers below. Enjoy!
-Pablo listens to "Sinners (scene) - All The Way to Dublin - Rocky Road to Dublin" and says:
-After watching Ryan Coogler's Sinners movie, I can't stop watching the video of the scene of the Irish vampire, Remmick (Jack O'Connell), dancing and singing The Rocky Road to Dublin, with a cohort of vampires.
-Do you want to share your favorite song with the Web Weekly community? Hit reply; there are five more songs left in the queue.
-✋ Hold on before you dive into all the web dev stuff; I've been thinking a lot about Web Weekly's direction and started …]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keyframe animations have a special role in the CSS cascade (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/keyframe-animations-have-a-special-role-in-the-css-cascade/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/keyframe-animations-have-a-special-role-in-the-css-cascade/"/>
-        <updated>2025-10-04T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I've been reading Josh's post The Big Gotcha With @starting-style and learned a new thing about CSS @keyframes.
-Instead of doing specificity math for each built-in style, the browser treats them [the animation styles] as an entirely separate collection of CSS. They get applied first, and any CSS we write, no matter its specificity, will overwrite it.
-Granted, I don't use keyframe animations very often, but what CSS collection is Josh talking about? The answer can be found on the MDN docs explaining the CSS cascade.
-The cascading algorithm determines what properties to apply to an element in the following order:
-user-agent (browser) normal
-user normal
-author (developer) normal
-CSS keyframe animations
-author (developer) !important
-user !important
-user-agent (browser) !important
-CSS transitions
-And keyframe animations have a higher precedence than any other "non-important" style. This behavior makes it quite handy to apply entry animations.
-[Interactive component: visit the article to see it...]
-You can apply a keyframe animation that only defines from styles and can then automatically transition to the other applied properties. This keyframe transition works because keyframe styles are treated higher in the cascade algorithm. Well, today I learned!
-If you apply !important styles, this doesn't work for the same cascade algorithm rules.
-[Interactive component: visit the article to see it...]
-Keyframe animations won't overrule !important styles and slapping more !important properties into your keyframes won't work either.
-[Interactive component: visit the article to see it...]
-Either way, Josh argues that for the mentioned reasons, @starting-style might be a mistake and the more I think of it, I think he's right.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Ancient Ruins]]></title>
-        <id>68d81b7cd22c510001b2e10c</id>
-        <link href="https://labnotes.org/weekend-reading-ancient-ruins/"/>
-        <updated>2025-10-04T17:18:12.000Z</updated>
-        <summary type="html"><![CDATA[link (t)wink
-Tech Stuff
-How I Use AI An ever growing list of ways in which David Bauer uses AI for work, life and play. Includes some interesting prompts. I took one to help Claude write for brevity.
-
-Nine HTTP Edge Cases Every API Developer Should Understand If you&]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
