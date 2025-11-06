@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-05T01:54:17.253Z</updated>
+    <updated>2025-11-06T01:54:07.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -353,48 +353,6 @@ Folder Quick Look fixes an all-time Mac grievance for free This is pretty slick,
 How I Learned to Stop Worrying and Trust AI Coding Agents Mirrors my experience as well. Differnet problems, different]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js includes a native glob utility (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/node-js-includes-a-native-glob-utility/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/node-js-includes-a-native-glob-utility/"/>
-        <updated>2025-10-06T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The two most popular glob utilities (minimatch and glob) are responsible for over 500 million weekly npm downloads. Something so common should be included in the Node core library, right?
-Today, I discovered that they are and that Node supports native "globbing" since v22.17.
-The utility comes in three flavors.
-fsPromises.glob()
-
-I don't know why fsPromises.glob() needed to return an async iterator but to access the files you can use the newish Array.fromAsync method.
-import { glob } from 'node:fs/promises';
-
-const files = await glob('**/*.txt');
-console.log(await Array.fromAsync(files));
-
-fs.glob()
-
-fs.glob() is callback-based if that's your jam.
-import { glob } from 'node:fs';
-
-await glob('**/*.txt', (error, files) => {
-  console.log(files);
-});
-
-fs.globSync()
-
-And, of course, there's a synchronous version with fs.globSync(), too.
-import { globSync } from 'node:fs';
-
-console.log(globSync('**/*.txt'));
-
-Now, I'm sure there are some minor differences to the popular libraries, but I bet it'll be fine for some quick file-grepping in JavaScript.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

@@ -860,90 +860,10 @@ How I Learned to Stop Worrying and Trust AI Coding Agents Mirrors my experience 
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-10-06 datetime="2025-10-06T22:00:00.000Z">2025-10-06</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-10-06 datetime="2025-10-06T22:00:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Stefan Judis Web Development</button>
-                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.stefanjudis.com/today-i-learned/node-js-includes-a-native-glob-utility/"
-                        open
-                      >
-                        <summary class="article-expander__title">Node.js includes a native glob utility (#tilPost)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/node-js-includes-a-native-glob-utility/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Node.js%20includes%20a%20native%20glob%20utility/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The two most popular glob utilities (minimatch and glob) are responsible for over 500 million weekly npm downloads. Something so common should be included in the Node core library, right?
-Today, I discovered that they are and that Node supports native &quot;globbing&quot; since v22.17.
-The utility comes in three flavors.
-fsPromises.glob()
-
-I don&#x27;t know why fsPromises.glob() needed to return an async iterator but to access the files you can use the newish Array.fromAsync method.
-import { glob } from &#x27;node:fs/promises&#x27;;
-
-const files &#x3D; await glob(&#x27;**/*.txt&#x27;);
-console.log(await Array.fromAsync(files));
-
-fs.glob()
-
-fs.glob() is callback-based if that&#x27;s your jam.
-import { glob } from &#x27;node:fs&#x27;;
-
-await glob(&#x27;**/*.txt&#x27;, (error, files) &#x3D;&gt; {
-  console.log(files);
-});
-
-fs.globSync()
-
-And, of course, there&#x27;s a synchronous version with fs.globSync(), too.
-import { globSync } from &#x27;node:fs&#x27;;
-
-console.log(globSync(&#x27;**/*.txt&#x27;));
-
-Now, I&#x27;m sure there are some minor differences to the popular libraries, but I bet it&#x27;ll be fine for some quick file-grepping in JavaScript.
-
-
-          
-          
-            Reply to Stefan</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/19088706237">
-        <time id="build-timestamp" datetime="2025-11-05T01:54:17.232Z">2025-11-05T01:54:17.232Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/19122242237">
+        <time id="build-timestamp" datetime="2025-11-06T01:54:07.887Z">2025-11-06T01:54:07.887Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
