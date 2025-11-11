@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-10T01:58:34.815Z</updated>
+    <updated>2025-11-11T01:54:44.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #174 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-174/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-174/"/>
+        <updated>2025-11-09T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Do you know when to use error.cause? And do you localize your quotation marks with pure CSS? And have you heard of :interest-target?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+Heydon listens to "Fu Manchu - Loch Ness Wrecking Machine" and says:
+Fu Manchu's latest LP, Return To Tomorrow, features a track improbably titled "Loch Ness Wrecking Machine". It's a cautionary tale about harnessing the fabled immortal Scottish lake dinosaur/monster to demolish civil infrastructure (I think). It also has the best riff ever.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.
+Let's kick off this week's Web Weekly with some nice personal websites that come with beautiful theme swi…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Aggravation is observed]]></title>
         <id>690657fcb7832f0001ff9bb8</id>
@@ -353,20 +370,6 @@ A ton of karma points go to vaibhav this week! Thank you for supporting Web Week
 If you want to support my work with Web Weekly, too, you can't imagine how much I celebrate every Patreon or GitHub Sponsors donation…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Prime minister of France for 15 minutes]]></title>
-        <id>68e156e6d22c510001b2f25d</id>
-        <link href="https://labnotes.org/weekend-reading-prime-minister-of-france-for-15-minutes/"/>
-        <updated>2025-10-11T17:47:27.000Z</updated>
-        <summary type="html"><![CDATA[Lizzy "You guys i did a thing"
-Tech Stuff
-Folder Quick Look fixes an all-time Mac grievance for free This is pretty slick, very useful, and free to use.
-
-How I Learned to Stop Worrying and Trust AI Coding Agents Mirrors my experience as well. Differnet problems, different]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
