@@ -12,6 +12,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "690fb91b4485940001ba9fec",
+          "author": "Assaf Arkin",
+          "description": "John S Russell \"Where I post from.\"\nTech Stuff\nZod + TypeScript: Schema Validation Made Easy Learn how to use Zod, a TypeScript schema validation library that allows you to validate external data at runtime.\n\nabbiistabbii\nftw you realise that pacman is short for Package Manager and you start",
+          "link": "https://labnotes.org/weekend-reading-404-bragawatts/",
+          "publishedOn": "2025-11-15T19:12:22.000Z",
+          "wordCount": 2426,
+          "title": "Weekend Reading — 404 bragawatts",
+          "imageUrl": "https://labnotes.org/content/images/2025/11/image-62-1.png"
+        },
+        {
           "id": "690657fcb7832f0001ff9bb8",
           "author": "Assaf Arkin",
           "description": "Wilhelm Gere \"This should explain things\"\nTech Stuff\nCursed Knowledge Immich shares their experience and I love that their product website (it's not a dev tool!) has this page. (via archiloque)\n\nYou Should Write An Agent In the mantra of \"you only think you understand",
@@ -58,6 +68,36 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/deprecate-method-in-node-js/",
+          "author": null,
+          "description": "If you maintain a Node.js library or framework that's consumed by people downstream, you know the pain of introducing breaking changes and deprecating existing functionality. People get mad very quickly and the only solution is to communicate very early that things might change or will disappear in a future version.\nI've thought that the only way to communicate future deprecations is to mark methods as deprecated via TSDoc / JSDoc.\n/**\n * Returns a string value.\n * @deprecated This function is deprecated and will be removed in a future version.\n * @returns {string} The string 'something'\n */\nexport const getSomething = () => {\n  return 'something'\n}\n\nIn this case, if someone imports the deprecated getSomething method, the editor (in my case it's VS Code) will make it very clear that they should look into not using the method.\nVS Code's crossed out text is very convincing if you ask me but I don't know if every editor displays deprecation warnings as prominently.\nIf you really want to make sure people see your Node.js deprecation notice, today, I learned that Node.js provides a native deprecate method.\nimport { deprecate } from \"node:util\";\n\n/**\n * Returns a string value.\n * @deprecated This function is deprecated and will be removed in a future version.\n * @returns {string} The string 'something'\n */\nexport const getSomething = deprecate(() => {\n  return 'something'\n}, 'watch out! something is deprecated!')\n\nAnd if someone now uses deprecated methods, they will also get notified when they run the code via Node.js.\n$ node index.ts\n\nsomething\n(node:21682) DeprecationWarning: watch out! something is deprecated!\n(Use `node --trace-deprecation ...` to show where the warning was created)\n\nSweet!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/deprecate-method-in-node-js/",
+          "publishedOn": "2025-11-14T23:00:00.000Z",
+          "wordCount": 1890,
+          "title": "How to \"officially\" deprecate methods with Node.js utilities (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20%22officially%22%20deprecate%20methods%20with%20Node.js%20utilities/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
+          "id": "https://www.stefanjudis.com/notes/a-raycast-confetti-shell-command/",
+          "author": null,
+          "description": "Disclaimer, I didn't come up with the idea of firing the Raycast confetti from the command line.\nJosh's tip is too good not to write down, though, because more people need to know about it. And, obviously, shell sessions need more confetti!\nBut who's Josh? Josh maintains a public TIL repo that I'm following via RSS. He (and I now) learned how to use the Raycast Confetti command from the CLI.\nImplementing the command is almost too easy. Here's my new ~/.bin/confetti command.\n#!/bin/bash\n\nopen raycast://extensions/raycast/raycast/confetti\n\nThat's it!\nApparently, Raycast registers a protocol handler (raycast://) which you can call from anywhere. Whenever you open this URL (your browser works fine, too), the Raycast \"confetti\" command will be triggered. Magic!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/notes/a-raycast-confetti-shell-command/",
+          "publishedOn": "2025-11-14T23:00:00.000Z",
+          "wordCount": 1727,
+          "title": "A Raycast confetti shell command (#note)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20Raycast%20confetti%20shell%20command/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
+          "id": "https://www.stefanjudis.com/notes/syntax-highlighted-template-strings-vs-code/",
+          "author": null,
+          "description": "Here's Remy sharing how to enable template string syntax highlighting via JavaScript comments.\nThe problem of unhighlighted template strings never really bugged me. I write many of this blog's interactive components without proper syntax highlighting, because I've built myself a custom mini Astro framework. And of course, like many homegrown solutions, it lacks a good developer experience. Missing syntax highlighting was never an issue, though, and things are fine.\nHowever, now that I've read Remy's post, why not make things a little nicer to look at?\nRemy describes that when using the right JS comments, Prettier and the VS Code formatter will work together to format and syntax-highlight the template string content.\nUnfortunately, that didn't work in VS Code and I had to install two additional VS Code extensions:\nes6-string-css\nes6-string-html\nBut now I can use /* CSS */ to get some template string CSS highlighting.\nAnd if I use HTML in template strings, it'll be highlighted and even formatted via Prettier.\nThat's very nice! Thank you Remy for the push!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/notes/syntax-highlighted-template-strings-vs-code/",
+          "publishedOn": "2025-11-14T23:00:00.000Z",
+          "wordCount": 1778,
+          "title": "Syntax-highlighting for JS template strings in VS Code (#note)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Syntax-highlighting%20for%20JS%20template%20strings%20in%20VS%20Code/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-174/",
           "author": null,
