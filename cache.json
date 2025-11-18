@@ -50,16 +50,6 @@
           "wordCount": 1942,
           "title": "Weekend Reading — More relevant ads",
           "imageUrl": "https://labnotes.org/content/images/size/w1200/2025/10/image-61.png.jpeg"
-        },
-        {
-          "id": "68ea98796fbb8300010e0f22",
-          "author": "Assaf Arkin",
-          "description": "The Autistic Innovator \"Someone didn't think that design through\"\nTech Stuff\nLaunchOS Launchpad is back! Not my favorite UI, I never cared to use Launchpad, but I know a few people who swear by it, and now you can brew install launchos on your macOS 26.",
-          "link": "https://labnotes.org/weekend-reading-and-a-ghostty-october-to-you/",
-          "publishedOn": "2025-10-18T18:34:31.000Z",
-          "wordCount": 2077,
-          "title": "Weekend Reading — And a ghostty October to you",
-          "imageUrl": "https://labnotes.org/content/images/2025/10/image-45.png.jpeg"
         }
       ]
     },
@@ -68,6 +58,26 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-175/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nDo you know what autocomplete=\"one-time-code\" does? Or have you used the command HTML attribute already? And do you think it's OK to call CSS custom properties \"CSS variables\"?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nLars listens to \"The Meltdown - Better Days\" and says:\nThere's no song I've been listening to more than this one. I love the mix of nostalgia and optimistic desire for brighter days!\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are two more songs left in the queue.\nLet's open this Web Weekly with some form tips and tricks people were talking about this week!\nTyler shared how you could build a one-time password UI. And look at this beauty!\nThe inputmode=\"numeric\" enforces numbers on all…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-175/",
+          "publishedOn": "2025-11-16T23:00:00.000Z",
+          "wordCount": 3110,
+          "title": "Web Weekly #175 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
+          "id": "https://www.stefanjudis.com/snippets/three-conditional-border-radius-css-snippets/",
+          "author": null,
+          "description": "You probably know the problem of rounded boxes. You give a box a nice border-radius, everything looks good and all, and poof, if the box hits the viewport edges it looks terrible. I'm just cleaning up some tabs and I'm 100% certain that I'll come back to these snippets in the future. Maybe they're useful to you, too!\nHere's Ahmad sharing his conditional border-radius solution:\n.card {\n  border-radius: clamp(0px, ((100vw - 4px) - 100%) * 9999, 8px);\n}\n\nThis snippet should definitely come with a code comment because I doubt many people understand what's going on there. I'm not sure I do, even...\nHere's Temani's solution:\n.box {\n  border-radius: calc(sign(100cqi - 100%)*2rem);\n}\n\nThis is a little better but yeah... Still not very readable.\nAnd here's Una's approach using the new CSS functions:\n/* Conditionally apply a radius until you are (default: 4px, or specify second argument) from the edge of your screen */\n@function --conditional-radius(--radius, --edge-dist: 4px) {\n  result: clamp(0px, ((100vw - var(--edge-dist)) - 100%) * 1e5, var(--radius));\n}\n\n/* usage */\n.box {\n  /*  1rem border radius, default (4px) distance  */\n  border-radius: --conditional-radius(1rem);\n}\n\n.box-2 {\n  /*  1rem border radius, right at the edge (0px distance)  */\n  border-radius: --conditional-radius(1rem, 0px);\n}\n\nIf you look closely, you might discover that it's basically Ahmad's approach above wrapped in a CSS function (--conditional-radius), and I think this makes this CSS so much better. Bring in the complicated CSS once, but hide all its complexity. Nice nice!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/snippets/three-conditional-border-radius-css-snippets/",
+          "publishedOn": "2025-11-16T23:00:00.000Z",
+          "wordCount": 1839,
+          "title": "Three conditional border-radius CSS snippets (#snippet)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Three%20conditional%20border-radius%20CSS%20snippets/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/today-i-learned/deprecate-method-in-node-js/",
           "author": null,
