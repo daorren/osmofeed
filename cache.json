@@ -187,36 +187,6 @@
           "wordCount": 1718,
           "title": "Turn off macOS Liquid Glass via the CLI (#snippet)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Turn%20off%20macOS%20Liquid%20Glass%20via%20the%20CLI/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-171/",
-          "author": null,
-          "description": "Guten Tag! Guten Tag! 👋\n\nDo you know what core web vitals metrics work across browsers? Have you used the closed-by attribute? And is AI really saving time?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nKate listens to \"Dick Around\" by Sparks and says:\n\"I'm not saying this is my work anthem, but every day, every day, every night, every night...\"\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are five more songs left in the queue.\nLast week, I opened Web Weekly with CSS functions (@function) and how they can be used to create a custom --light-dark() function. I learned some things from the reactions.\nThe existing light-dark() function only works with color values. Why's that?\nBramus blogged about it back in 2023 and the answer is t…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-171/",
-          "publishedOn": "2025-10-20T08:00:00.000Z",
-          "wordCount": 2591,
-          "title": "Web Weekly #171 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/field-sizing-is-about-more-than-textareas/",
-          "author": null,
-          "description": "There's a new CSS property in town: field-sizing. field-sizing: content allows form controls to adjust in size to fit their contents. At the time of writing this property is still in flux in terms of baseline support.\n\n        \nMDN Compat Data (source)\nBrowser support info for field-sizing \n              \n                \n\n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                \n\n                        \n                        123\n                        \n                      \n                        \n                        123\n                        \n                      \n                        \n                        Nein\n                        \n                      \n                        \n                        Nei\n                        \n                      \n                        \n                        preview\n                        \n                      \n                        \n                        preview\n                        \n                      \n                        \n                        27.0\n                        \n                      \n                        \n                        123\n                        \n                      \n                \n\n\nSo far, I've thought the new property is only about expanding textarea elements, but apparently it works for other input elements, too.\n[Interactive component: visit the article to see it...]\nThat's good stuff!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/field-sizing-is-about-more-than-textareas/",
-          "publishedOn": "2025-10-20T06:00:00.000Z",
-          "wordCount": 1771,
-          "title": "field-sizing isn't only about growing textareas (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:field-sizing%20isn't%20only%20about%20growing%20textareas/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/header-and-footer-elements-lose-their-roles-in-sectioning-content/",
-          "author": null,
-          "description": "Using proper ARIA landmark roles allows assistive technologies to navigate a page. You probably know about some common ones: main (main), header (banner), footer (contentinfo). But do you know that header and footer don't always get assigned their initial ARIA roles?\nHere's an example:\n<header>\n  \"Root\" header\n</header>\n<main>\n  <header>\n    \"Main\" header\n  </header>\n  <footer>\n    \"Main\" footer\n  </footer>\n</main>\n<footer>\n  \"Root\" footer\n</footer>\n\nThis HTML snippet includes header and footer elements that are a) on the root level and b) included in a main element. If you check the browser's accessibility tools, these elements get different roles assigned.\nThe header element loses its banner role and depending on the browser gets generic or sectionheader assigned, which has an effect on …",
-          "link": "https://www.stefanjudis.com/today-i-learned/header-and-footer-elements-lose-their-roles-in-sectioning-content/",
-          "publishedOn": "2025-10-19T22:00:00.000Z",
-          "wordCount": 2125,
-          "title": "Header & footer elements change their roles when they're inside of sectioning content (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Header%20%26%20footer%20elements%20change%20their%20roles%20when%20they're%20inside%20of%20sectioning%20content/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
