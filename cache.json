@@ -50,16 +50,6 @@
           "wordCount": 2015,
           "title": "Weekend Reading — Cloud outages will continue until morale improves",
           "imageUrl": "https://labnotes.org/content/images/size/w1200/2025/11/image-16.png.jpeg"
-        },
-        {
-          "id": "68f3de45d8685100019a3293",
-          "author": "Assaf Arkin",
-          "description": "Comedy Wildlife Awards 2025 – in pictures Collection of amazing photos for your enjoyment.\nTech Stuff\nYour data model is your destiny\nYour product's core abstractions determine whether new features compound into a moat or just add to a feature list. Here's how to get it",
-          "link": "https://labnotes.org/weekend-reading-more-relevant-ads/",
-          "publishedOn": "2025-10-25T19:57:29.000Z",
-          "wordCount": 1942,
-          "title": "Weekend Reading — More relevant ads",
-          "imageUrl": "https://labnotes.org/content/images/size/w1200/2025/10/image-61.png.jpeg"
         }
       ]
     },
@@ -187,16 +177,6 @@
           "wordCount": 2939,
           "title": "Web Weekly #172 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/snippets/turn-off-macos-liquid-glass-via-the-cli/",
-          "author": null,
-          "description": "Loud and bold disclaimer: I haven't used the following CLI command because I'm still holding onto the old macOS version. I'm not ready to deal with the \"Liquid Glass\" situation. However, if I upgrade my OS, I want to find this snippet in my bookmarks (aka my blog).\nHere's Adam sharing all sorts of tricks to make Apple's new Liquid Glass design language more accessible. He claims that you can nuke it entirely with one CLI command (again, I didn't run it):\ndefaults write -g com.apple.SwiftUI.DisableSolarium -bool YES\n\nThe article is definitely worth reading if you've had enough of all these translucent UI elements.\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/snippets/turn-off-macos-liquid-glass-via-the-cli/",
-          "publishedOn": "2025-10-25T22:00:00.000Z",
-          "wordCount": 1718,
-          "title": "Turn off macOS Liquid Glass via the CLI (#snippet)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Turn%20off%20macOS%20Liquid%20Glass%20via%20the%20CLI/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
