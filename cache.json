@@ -59,6 +59,26 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-176/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nAre you excited about @scope hitting the baseline soon? And do you know that there's also a :scope in JavaScript? And have you ever used enterkeyhint in HTML?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nGerardo listens to \"Los hermanos Reyes 'Dos horas de balazos'\" and says:\nIt is a typical adventure of cowboys, 4 go to save the ranch stolen, they recover the terrains, and the funny thing is that we don't know who of the 4 conquers the lady owner of the lands.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are two more songs left in the queue.\nLast week I shared Roma's post It is OK to Say \"CSS Variables\" Instead of (or Alongside) \"Custom Properties\" and if you're having the urge to correct people when t…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-176/",
+          "publishedOn": "2025-11-24T23:00:00.000Z",
+          "wordCount": 2882,
+          "title": "Web Weekly #176 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/light-dark-isnt-the-same-as-prefers-color-scheme/",
+          "author": null,
+          "description": "I've thought that the new light-dark() CSS function can be used as a drop-in replacement for prefers-color-scheme media queries. Today I learned that they don't always behave the same.\nHere's how MDN describes the new color function:\nThe light-dark() CSS <color> function enables setting two colors for a property [...] without needing to encase the theme colors within a prefers-color-scheme media feature query.\nIf you wonder about light-dark() browser support, here we go.\n\n        \nMDN Compat Data (source)\nBrowser support info for `light-dark()` \n              \n                \n\n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                       …",
+          "link": "https://www.stefanjudis.com/today-i-learned/light-dark-isnt-the-same-as-prefers-color-scheme/",
+          "publishedOn": "2025-11-23T23:00:00.000Z",
+          "wordCount": 2506,
+          "title": "light-dark() isn't always the same as prefers-color-scheme (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:light-dark()%20isn't%20always%20the%20same%20as%20prefers-color-scheme/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/blog/web-weekly-175/",
           "author": null,
           "description": "Guten Tag! Guten Tag! 👋\n\nDo you know what autocomplete=\"one-time-code\" does? Or have you used the command HTML attribute already? And do you think it's OK to call CSS custom properties \"CSS variables\"?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nLars listens to \"The Meltdown - Better Days\" and says:\nThere's no song I've been listening to more than this one. I love the mix of nostalgia and optimistic desire for brighter days!\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are two more songs left in the queue.\nLet's open this Web Weekly with some form tips and tricks people were talking about this week!\nTyler shared how you could build a one-time password UI. And look at this beauty!\nThe inputmode=\"numeric\" enforces numbers on all…",
@@ -167,16 +187,6 @@
           "wordCount": 1620,
           "title": "Stop citing AI (#note)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Stop%20citing%20AI/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-172/",
-          "author": null,
-          "description": "Guten Tag! Guten Tag! 👋\n\nDo you know about the web compatibility standard? Should you import JSON data with { type: 'json' } already? And have you heard of Intl.Segmenter?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nAndreas listens to FKJ - Just Piano and says:\nFKJ sounds like what I want my code to feel like.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are five more songs left in the queue.\nEvan shared small utility CLI scripts he uses daily. I love these posts!\nHere are my favorite CLI utils that I use daily.\nFirst, my cp and mv commands are aliases to be safer and more verbose.\nSecond, I use Git on the command line and occasionally use Claude Code to write commit messages for me with a custom git-cco script (a git-cco exec…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-172/",
-          "publishedOn": "2025-10-26T22:00:00.000Z",
-          "wordCount": 2939,
-          "title": "Web Weekly #172 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
     },
