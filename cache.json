@@ -50,16 +50,6 @@
           "wordCount": 2336,
           "title": "Weekend Reading — Aggravation is observed",
           "imageUrl": "https://labnotes.org/content/images/2025/11/image-36.png.jpeg"
-        },
-        {
-          "id": "68fd2bbcca736800010be0f9",
-          "author": "Assaf Arkin",
-          "description": "Kevin Beaumont\nTech Stuff\nI am sorry, but everyone is getting syntax highlighting wrong I'm using Alabaster to see how I like it (PS it's an extension, not a theme):\nThe problem with that is, if everything is highlighted, nothing stands out. Your eye adapts and",
-          "link": "https://labnotes.org/weekend-reading-cloud-outages-will-continue-until-morale-improves/",
-          "publishedOn": "2025-11-01T18:56:42.000Z",
-          "wordCount": 2015,
-          "title": "Weekend Reading — Cloud outages will continue until morale improves",
-          "imageUrl": "https://labnotes.org/content/images/size/w1200/2025/11/image-16.png.jpeg"
         }
       ]
     },
@@ -68,6 +58,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-177/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nDo you know about the new cookieStore browser API? Do you get the most out of Chrome DevTools? And have you built custom layouts with CSS subgrid already?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nBrandi listens to \"River Whyless \"Michigan Cherry\"\" and says:\nThis song is the most beautiful song I've heard in some years, and it's good for doing design and coding, too.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there is only one more song left in the queue.\nI don't have the time for a longer deep-dive intro today... So, let's open this week's newsletter with me saying that I appreciate you for reading Web Weekly. Thank you for following along.\nAnd if you enjoy Web Weekly, share it with your friends and fam…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-177/",
+          "publishedOn": "2025-11-30T23:00:00.000Z",
+          "wordCount": 2832,
+          "title": "Web Weekly #177 (#blogPost)",
+          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-176/",
           "author": null,
@@ -167,16 +167,6 @@
           "wordCount": 2243,
           "title": "pathLength makes makes SVG path animations easier to manage (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:pathLength%20makes%20makes%20SVG%20path%20animations%20easier%20to%20manage/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/chrome-split-views/",
-          "author": null,
-          "description": "The Zen Browser remains my main driver these days. The Firefox-based open source browser aims to fill the gap Arc has left behind after going all-in on AI only to be acquired by Atlassian. I'm still confused by this deal, but that's for another day.\nOne of the features I keep using every day is split views. It's such a simple feature, but having two tabs side-by-side makes a huge difference for data-heavy focus work. I'm happy to see that there's finally some innovation coming to Chrome land.\nChrome session showing how to turn on and use split views.\n      \n    \nYou can turn on the new features using a Chrome flag.\nchrome://flags#side-by-side\n\nI tested it and it feels good! No idea when it'll ship in the stable channels, but for now I'm happy it's there!\nUpdate: Nicolas pointed out that Firefox is also working on a new native split view. You can turn on the experimental feature at about:config by turning on browser.tabs.splitView.enabled.\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/blog/chrome-split-views/",
-          "publishedOn": "2025-11-01T23:00:00.000Z",
-          "wordCount": 1729,
-          "title": "Chrome supports split views (behind a flag) (#blogPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Chrome%20supports%20split%20views%20(behind%20a%20flag)/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
