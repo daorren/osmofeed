@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-02T01:57:29.904Z</updated>
+    <updated>2025-12-03T01:56:46.338Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -303,38 +303,6 @@ Cursed Knowledge Immich shares their experience and I love that their product we
 You Should Write An Agent In the mantra of "you only think you understand]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #173 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-173/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-173/"/>
-        <updated>2025-11-02T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
-
-Do you know how SVG pathLength can make it easier to animate path elements? Have you noticed that dns-prefetch only recently went into the baseline? And which Frontend framework is the fastest in 2025?
-Turn on the Web Weekly tune and find some answers below. Enjoy!
-Jules listens to "Snarky Puppy & Metropole Orkest - Waves Upon Waves" and says:
-10 years after their glorious Sylva album they're back together again. I was lucky enough to be present at one of their recording nights. It was amazing. The rest of the album is gonna be great.
-Do you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.
-Last week I shared some of my favorite CLI util functions and aliases and asked what's on your machine. He…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pathLength makes makes SVG path animations easier to manage (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/pathlength-makes-makes-svg-path-animations-easier-to-manage/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/pathlength-makes-makes-svg-path-animations-easier-to-manage/"/>
-        <updated>2025-11-02T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You've probably seen this SVG effect that people use to animate signatures. If you have an SVG path you can combine stroke-dasharray, stroke-dashoffset and CSS animations/transitions to animate a given SVG path. Here's an example of the effect.
-[Interactive component: visit the article to see it...]
-The SVG includes a single SVG path that expands when you hover over the SVG. How does this work in detail?
-As a first step, you can cut SVG paths into visual pieces with stroke-dasharray. It's important to know that the "drawn pieces" and in-between gaps will have the same length.
-Then, after you've chopped your path into pieces, you can move these pieces around the SVG path with stroke-dashoffset.
-So, the overall trick is to make the pieces as big as the entire path length to transition from s…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

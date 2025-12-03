@@ -147,26 +147,6 @@
           "wordCount": 2738,
           "title": "Web Weekly #174 (#blogPost)",
           "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-173/",
-          "author": null,
-          "description": "Guten Tag! Guten Tag! 👋\n\nDo you know how SVG pathLength can make it easier to animate path elements? Have you noticed that dns-prefetch only recently went into the baseline? And which Frontend framework is the fastest in 2025?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nJules listens to \"Snarky Puppy & Metropole Orkest - Waves Upon Waves\" and says:\n10 years after their glorious Sylva album they're back together again. I was lucky enough to be present at one of their recording nights. It was amazing. The rest of the album is gonna be great.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.\nLast week I shared some of my favorite CLI util functions and aliases and asked what's on your machine. He…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-173/",
-          "publishedOn": "2025-11-02T23:00:00.000Z",
-          "wordCount": 2798,
-          "title": "Web Weekly #173 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/pathlength-makes-makes-svg-path-animations-easier-to-manage/",
-          "author": null,
-          "description": "You've probably seen this SVG effect that people use to animate signatures. If you have an SVG path you can combine stroke-dasharray, stroke-dashoffset and CSS animations/transitions to animate a given SVG path. Here's an example of the effect.\n[Interactive component: visit the article to see it...]\nThe SVG includes a single SVG path that expands when you hover over the SVG. How does this work in detail?\nAs a first step, you can cut SVG paths into visual pieces with stroke-dasharray. It's important to know that the \"drawn pieces\" and in-between gaps will have the same length.\nThen, after you've chopped your path into pieces, you can move these pieces around the SVG path with stroke-dashoffset.\nSo, the overall trick is to make the pieces as big as the entire path length to transition from s…",
-          "link": "https://www.stefanjudis.com/today-i-learned/pathlength-makes-makes-svg-path-animations-easier-to-manage/",
-          "publishedOn": "2025-11-02T23:00:00.000Z",
-          "wordCount": 2243,
-          "title": "pathLength makes makes SVG path animations easier to manage (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:pathLength%20makes%20makes%20SVG%20path%20animations%20easier%20to%20manage/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
