@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-13T01:54:41.884Z</updated>
+    <updated>2025-12-14T02:07:42.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — This heater is from space]]></title>
+        <id>69348df35e3f76000105e93b</id>
+        <link href="https://labnotes.org/weekend-reading-this-heater-is-from-space/"/>
+        <updated>2025-12-13T21:57:05.000Z</updated>
+        <summary type="html"><![CDATA[Street Art Utopia "Painted Octopus! By Lumen Street Theatre in Limerick, Ireland."
+Tech Stuff
+Building a Toast Component This is the story of Sonner, why they came up with that name, how they managed animation and stacking, momentum-based gestures, and more. I love Sonner, the API is so]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #178 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-178/</id>
