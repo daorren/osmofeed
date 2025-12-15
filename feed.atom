@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-14T02:07:42.857Z</updated>
+    <updated>2025-12-15T02:05:07.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -221,101 +221,6 @@ abbiistabbii
 ftw you realise that pacman is short for Package Manager and you start]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to "officially" deprecate methods with Node.js utilities (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/deprecate-method-in-node-js/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/deprecate-method-in-node-js/"/>
-        <updated>2025-11-14T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you maintain a Node.js library or framework that's consumed by people downstream, you know the pain of introducing breaking changes and deprecating existing functionality. People get mad very quickly and the only solution is to communicate very early that things might change or will disappear in a future version.
-I've thought that the only way to communicate future deprecations is to mark methods as deprecated via TSDoc / JSDoc.
-/**
- * Returns a string value.
- * @deprecated This function is deprecated and will be removed in a future version.
- * @returns {string} The string 'something'
- */
-export const getSomething = () => {
-  return 'something'
-}
-
-In this case, if someone imports the deprecated getSomething method, the editor (in my case it's VS Code) will make it very clear that they should look into not using the method.
-VS Code's crossed out text is very convincing if you ask me but I don't know if every editor displays deprecation warnings as prominently.
-If you really want to make sure people see your Node.js deprecation notice, today, I learned that Node.js provides a native deprecate method.
-import { deprecate } from "node:util";
-
-/**
- * Returns a string value.
- * @deprecated This function is deprecated and will be removed in a future version.
- * @returns {string} The string 'something'
- */
-export const getSomething = deprecate(() => {
-  return 'something'
-}, 'watch out! something is deprecated!')
-
-And if someone now uses deprecated methods, they will also get notified when they run the code via Node.js.
-$ node index.ts
-
-something
-(node:21682) DeprecationWarning: watch out! something is deprecated!
-(Use `node --trace-deprecation ...` to show where the warning was created)
-
-Sweet!
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Raycast confetti shell command (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/a-raycast-confetti-shell-command/</id>
-        <link href="https://www.stefanjudis.com/notes/a-raycast-confetti-shell-command/"/>
-        <updated>2025-11-14T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Disclaimer, I didn't come up with the idea of firing the Raycast confetti from the command line.
-Josh's tip is too good not to write down, though, because more people need to know about it. And, obviously, shell sessions need more confetti!
-But who's Josh? Josh maintains a public TIL repo that I'm following via RSS. He (and I now) learned how to use the Raycast Confetti command from the CLI.
-Implementing the command is almost too easy. Here's my new ~/.bin/confetti command.
-#!/bin/bash
-
-open raycast://extensions/raycast/raycast/confetti
-
-That's it!
-Apparently, Raycast registers a protocol handler (raycast://) which you can call from anywhere. Whenever you open this URL (your browser works fine, too), the Raycast "confetti" command will be triggered. Magic!
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Syntax-highlighting for JS template strings in VS Code (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/syntax-highlighted-template-strings-vs-code/</id>
-        <link href="https://www.stefanjudis.com/notes/syntax-highlighted-template-strings-vs-code/"/>
-        <updated>2025-11-14T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here's Remy sharing how to enable template string syntax highlighting via JavaScript comments.
-The problem of unhighlighted template strings never really bugged me. I write many of this blog's interactive components without proper syntax highlighting, because I've built myself a custom mini Astro framework. And of course, like many homegrown solutions, it lacks a good developer experience. Missing syntax highlighting was never an issue, though, and things are fine.
-However, now that I've read Remy's post, why not make things a little nicer to look at?
-Remy describes that when using the right JS comments, Prettier and the VS Code formatter will work together to format and syntax-highlight the template string content.
-Unfortunately, that didn't work in VS Code and I had to install two additional VS Code extensions:
-es6-string-css
-es6-string-html
-But now I can use /* CSS */ to get some template string CSS highlighting.
-And if I use HTML in template strings, it'll be highlighted and even formatted via Prettier.
-That's very nice! Thank you Remy for the push!
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
