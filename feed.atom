@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-15T02:05:07.019Z</updated>
+    <updated>2025-12-16T02:01:51.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -206,21 +206,6 @@ If you look closely, you might discover that it's basically Ahmad's approach abo
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — 404 bragawatts]]></title>
-        <id>690fb91b4485940001ba9fec</id>
-        <link href="https://labnotes.org/weekend-reading-404-bragawatts/"/>
-        <updated>2025-11-15T19:12:22.000Z</updated>
-        <summary type="html"><![CDATA[John S Russell "Where I post from."
-Tech Stuff
-Zod + TypeScript: Schema Validation Made Easy Learn how to use Zod, a TypeScript schema validation library that allows you to validate external data at runtime.
-
-abbiistabbii
-ftw you realise that pacman is short for Package Manager and you start]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
