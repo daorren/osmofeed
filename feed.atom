@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-27T01:59:14.899Z</updated>
+    <updated>2025-12-28T02:19:35.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — A double young-man]]></title>
+        <id>694721320c82d70001d234c1</id>
+        <link href="https://labnotes.org/weekend-reading-a-double-young-man/"/>
+        <updated>2025-12-27T21:38:05.000Z</updated>
+        <summary type="html"><![CDATA[Mabelz
+Tech Stuff
+BrewServicesManager Manage Brew services from the menu bar.
+
+CSRF protection without tokens or hidden form fields New to me and quite useful:
+The Sec-Fetch-Site header can have one of four values:
+same-origin, when the request comes from the same origin as the target server
+same-site, when the]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Feature detection of View Transition Types (#snippet)]]></title>
         <id>https://www.stefanjudis.com/snippets/feature-detection-of-view-transition-types/</id>
