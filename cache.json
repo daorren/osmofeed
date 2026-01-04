@@ -12,6 +12,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "695051cf0c82d70001d24566",
+          "author": "Assaf Arkin",
+          "description": "Volpeon \"Make yourself a little foxxo companion\"\nTech Stuff\nTapHouse Manage Homebrew form the convenience of a GUI with single-click installs, doctor and cleanup tools, auto update, menu bar mode, and more.\n\nMise Simplifies your dev setups by managing runtimes, env vars, tasks, Docker, GitHub Actions, etc. I",
+          "link": "https://labnotes.org/weekend-reading-where-are-all-the-coffee-filters/",
+          "publishedOn": "2026-01-04T00:15:59.000Z",
+          "wordCount": 2475,
+          "title": "Weekend Reading — Where are all the coffee filters?",
+          "imageUrl": "https://labnotes.org/content/images/2026/01/image-26-1.png"
+        },
+        {
           "id": "694721320c82d70001d234c1",
           "author": "Assaf Arkin",
           "description": "Mabelz\nTech Stuff\nBrewServicesManager Manage Brew services from the menu bar.\n\nCSRF protection without tokens or hidden form fields New to me and quite useful:\nThe Sec-Fetch-Site header can have one of four values:\nsame-origin, when the request comes from the same origin as the target server\nsame-site, when the",
@@ -58,6 +68,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/notes/a-ready-to-use-diff-component/",
+          "author": null,
+          "description": "I just stumbled over this package: @pierre/diffs.\n@pierre/diffs is an open source diff and code rendering library. It's built on Shiki for syntax highlighting and theming, is super customizable, and comes packed with features.\nThe package just hit v1 and seems to be pretty new. The docs live on diffs.com (no idea how one could snatch this domain in 2026) and it looks amazing.\nIt comes as a React and Vanilla JS component, supports server-side rendering, and the configuration options look solid.\nDisclaimer: I haven't tried diffs but I can imagine that I will take it as a starter for this blog eventually.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/notes/a-ready-to-use-diff-component/",
+          "publishedOn": "2026-01-02T23:00:00.000Z",
+          "wordCount": 1692,
+          "title": "A ready-to-use diff component (#note)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20ready-to-use%20diff%20component/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/snippets/feature-detection-of-view-transition-types/",
           "author": null,

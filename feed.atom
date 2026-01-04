@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-03T01:58:20.802Z</updated>
+    <updated>2026-01-04T02:21:30.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Where are all the coffee filters?]]></title>
+        <id>695051cf0c82d70001d24566</id>
+        <link href="https://labnotes.org/weekend-reading-where-are-all-the-coffee-filters/"/>
+        <updated>2026-01-04T00:15:59.000Z</updated>
+        <summary type="html"><![CDATA[Volpeon "Make yourself a little foxxo companion"
+Tech Stuff
+TapHouse Manage Homebrew form the convenience of a GUI with single-click installs, doctor and cleanup tools, auto update, menu bar mode, and more.
+
+Mise Simplifies your dev setups by managing runtimes, env vars, tasks, Docker, GitHub Actions, etc. I]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A ready-to-use diff component (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/a-ready-to-use-diff-component/</id>
+        <link href="https://www.stefanjudis.com/notes/a-ready-to-use-diff-component/"/>
+        <updated>2026-01-02T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I just stumbled over this package: @pierre/diffs.
+@pierre/diffs is an open source diff and code rendering library. It's built on Shiki for syntax highlighting and theming, is super customizable, and comes packed with features.
+The package just hit v1 and seems to be pretty new. The docs live on diffs.com (no idea how one could snatch this domain in 2026) and it looks amazing.
+It comes as a React and Vanilla JS component, supports server-side rendering, and the configuration options look solid.
+Disclaimer: I haven't tried diffs but I can imagine that I will take it as a starter for this blog eventually.
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — A double young-man]]></title>
         <id>694721320c82d70001d234c1</id>
