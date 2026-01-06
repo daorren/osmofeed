@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-05T02:21:27.678Z</updated>
+    <updated>2026-01-06T02:05:21.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -159,20 +159,6 @@ The songs are mainly shared by Paweł, though. (Thanks buddy!) Some more folks w
 That's it for 2025 and this…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — The “Can that wait till January?” club]]></title>
-        <id>692b7a56eae7fb00014d8736</id>
-        <link href="https://labnotes.org/weekend-reading-the-can-that-wait-till-january-club/"/>
-        <updated>2025-12-06T20:04:32.000Z</updated>
-        <summary type="html"><![CDATA[David Zinn "Claude’s secret to surviving winter is having a grandma who knits."
-Tech Stuff
-W4G1/multithreading The missing standard library for multithreading in JavaScript. Supports modern browsers, Node.js, Deno, and Bun.
-
-voici.js Print tables on the terminal — more evolved than console.table]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
