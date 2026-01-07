@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-06T02:05:21.865Z</updated>
+    <updated>2026-01-07T02:04:54.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[If you don't care, I don't care... (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/if-you-dont-care-i-dont-care/</id>
+        <link href="https://www.stefanjudis.com/notes/if-you-dont-care-i-dont-care/"/>
+        <updated>2026-01-06T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jim is, as always, on point.
+My desire to give you constructive feedback is in direct correlation to your effort to care — about your communications, about what you ship, even about what you don't ship.
+Shipping something unfinished, half-assed or broken to "gather feedback" just won't do any good. There is a certain (and often obvious) level of quality that needs to be reached before asking for feedback. If laziness shows, nobody will care...
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #179 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-179/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-179/"/>
+        <updated>2026-01-05T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Frohes Neues! 👋
+
+Do you wonder what the final masonry CSS syntax will look like? Do you use the dialog element to its fullest potential? And are you excited about CSS @scope entering baseline?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+Mohamed listens to LAW NASYANY and says:
+I listen to this song as it has a great soundtrack that makes you move your body without noticing it.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are six more songs left in the queue.
+I've mentioned a couple of times last year that a Web Weekly redesign is in the making. It only took me a year on and off to start from scratch and finally have a landing page suitable for a Frontend newsletter. And here it is!
+It ships with view transitions, container que…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatically load .env files in Node.js scripts (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/load-env-files-in-node-js-scripts/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/load-env-files-in-node-js-scripts/"/>
+        <updated>2026-01-05T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Node.js continues to follow the lead of competing runtimes and implements more and more userland features. Loading .env files was one of these features that's been solved in userland (dotenv has 46m weekly downloads) since I started writing Node.js code almost 15 years ago.
+Today I learned that Node.js not only added support for loading environment files from the command line with the --env-file and --env-file-if-exists flags, but also added a new loadEnvFile() method to load .env files right in your scripts, similar to how dotenv does it. The new method is marked stable since Node.js v24.
+import { loadEnvFile } from 'node:process';
+
+// load .env file with default path ('./.env')
+loadEnvFile();
+// load .env file with a custom path
+loadEnvFile('../../.env');
+
+One thing to watch out for, though, is that loadEnvFile() throws if the .env file doesn't exist, which is usually the case in production environments. But that's no problem, and I wrapped it into a small utility when I was removing dotenv from one of my projects.
+import { loadEnvFile } from 'node:process';
+
+export function safeLoadEnvFile(): void {
+  try {
+    loadEnvFile();
+  } catch (error) {
+    // In prod environments there's usually no `.env` file.
+    // Ignore the error thrown if the file doesn't exist.
+  }
+}
+
+I love seeing Node.js moving forward!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Where are all the coffee filters?]]></title>
         <id>695051cf0c82d70001d24566</id>
@@ -141,24 +212,6 @@ Tech Stuff
 Building a Toast Component This is the story of Sonner, why they came up with that name, how they managed animation and stacking, momentum-based gestures, and more. I love Sonner, the API is so]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #178 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-178/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-178/"/>
-        <updated>2025-12-07T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
-
-Do you preload your responsive images? Have you heard of the new text-grow CSS property? And do you know that the strong HTML element isn't really announced by screen readers?
-Turn on the Web Weekly tune and find some answers below. Enjoy!
-Paweł listens to "Nightmares On Wax - True" and says:
-We love Nightmares on Wax. This is my daughter's favorite band ever (I'm so proud of her). This one comes from the new album and I cannot tell you how many hours I spent dancing to this one.
-Do you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.
-The songs are mainly shared by Paweł, though. (Thanks buddy!) Some more folks would be nice. Let me know what you're rocking each day!
-That's it for 2025 and this…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>

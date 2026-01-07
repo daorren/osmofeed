@@ -59,6 +59,36 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/notes/if-you-dont-care-i-dont-care/",
+          "author": null,
+          "description": "Jim is, as always, on point.\nMy desire to give you constructive feedback is in direct correlation to your effort to care — about your communications, about what you ship, even about what you don't ship.\nShipping something unfinished, half-assed or broken to \"gather feedback\" just won't do any good. There is a certain (and often obvious) level of quality that needs to be reached before asking for feedback. If laziness shows, nobody will care...\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/notes/if-you-dont-care-i-dont-care/",
+          "publishedOn": "2026-01-06T23:00:00.000Z",
+          "wordCount": 1685,
+          "title": "If you don't care, I don't care... (#note)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:If%20you%20don't%20care%252C%20I%20don't%20care.../w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-179/",
+          "author": null,
+          "description": "Frohes Neues! 👋\n\nDo you wonder what the final masonry CSS syntax will look like? Do you use the dialog element to its fullest potential? And are you excited about CSS @scope entering baseline?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nMohamed listens to LAW NASYANY and says:\nI listen to this song as it has a great soundtrack that makes you move your body without noticing it.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are six more songs left in the queue.\nI've mentioned a couple of times last year that a Web Weekly redesign is in the making. It only took me a year on and off to start from scratch and finally have a landing page suitable for a Frontend newsletter. And here it is!\nIt ships with view transitions, container que…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-179/",
+          "publishedOn": "2026-01-05T23:00:00.000Z",
+          "wordCount": null,
+          "title": "Web Weekly #179 (#blogPost)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/load-env-files-in-node-js-scripts/",
+          "author": null,
+          "description": "Node.js continues to follow the lead of competing runtimes and implements more and more userland features. Loading .env files was one of these features that's been solved in userland (dotenv has 46m weekly downloads) since I started writing Node.js code almost 15 years ago.\nToday I learned that Node.js not only added support for loading environment files from the command line with the --env-file and --env-file-if-exists flags, but also added a new loadEnvFile() method to load .env files right in your scripts, similar to how dotenv does it. The new method is marked stable since Node.js v24.\nimport { loadEnvFile } from 'node:process';\n\n// load .env file with default path ('./.env')\nloadEnvFile();\n// load .env file with a custom path\nloadEnvFile('../../.env');\n\nOne thing to watch out for, though, is that loadEnvFile() throws if the .env file doesn't exist, which is usually the case in production environments. But that's no problem, and I wrapped it into a small utility when I was removing dotenv from one of my projects.\nimport { loadEnvFile } from 'node:process';\n\nexport function safeLoadEnvFile(): void {\n  try {\n    loadEnvFile();\n  } catch (error) {\n    // In prod environments there's usually no `.env` file.\n    // Ignore the error thrown if the file doesn't exist.\n  }\n}\n\nI love seeing Node.js moving forward!\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/load-env-files-in-node-js-scripts/",
+          "publishedOn": "2026-01-05T23:00:00.000Z",
+          "wordCount": 1843,
+          "title": "Automatically load .env files in Node.js scripts (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Automatically%20load%20.env%20files%20in%20Node.js%20scripts/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/notes/a-ready-to-use-diff-component/",
           "author": null,
           "description": "I just stumbled over this package: @pierre/diffs.\n@pierre/diffs is an open source diff and code rendering library. It's built on Shiki for syntax highlighting and theming, is super customizable, and comes packed with features.\nThe package just hit v1 and seems to be pretty new. The docs live on diffs.com (no idea how one could snatch this domain in 2026) and it looks amazing.\nIt comes as a React and Vanilla JS component, supports server-side rendering, and the configuration options look solid.\nDisclaimer: I haven't tried diffs but I can imagine that I will take it as a starter for this blog eventually.\n\n\n          \n          \n            Reply to Stefan",
@@ -87,16 +117,6 @@
           "wordCount": 1912,
           "title": "Simon Willison on delivering AI generated code (#note)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Simon%20Willison%20on%20delivering%20AI%20generated%20code/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-178/",
-          "author": null,
-          "description": "Guten Tag! Guten Tag! 👋\n\nDo you preload your responsive images? Have you heard of the new text-grow CSS property? And do you know that the strong HTML element isn't really announced by screen readers?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nPaweł listens to \"Nightmares On Wax - True\" and says:\nWe love Nightmares on Wax. This is my daughter's favorite band ever (I'm so proud of her). This one comes from the new album and I cannot tell you how many hours I spent dancing to this one.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.\nThe songs are mainly shared by Paweł, though. (Thanks buddy!) Some more folks would be nice. Let me know what you're rocking each day!\nThat's it for 2025 and this…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-178/",
-          "publishedOn": "2025-12-07T23:00:00.000Z",
-          "wordCount": 3152,
-          "title": "Web Weekly #178 (#blogPost)",
-          "imageUrl": "https://www.stefanjudis.com/newsletter-social.png"
         }
       ]
     },
