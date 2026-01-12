@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-11T02:21:03.447Z</updated>
+    <updated>2026-01-12T02:10:53.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — So close to the end of the world]]></title>
+        <id>6959b1550c82d70001d2554a</id>
+        <link href="https://labnotes.org/weekend-reading-so-close-to-the-end-of-the-world/"/>
+        <updated>2026-01-11T05:03:19.000Z</updated>
+        <summary type="html"><![CDATA[Laura Manach
+Tech Stuff
+Convert & Compress When you need to process a batchload of files: convert them to a different format, limit their width/height, compress with specific quality loss, etc.
+(* To make sure my webapp is performing well, I run a script that goes through all files in]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Firefox DevTools hides unreferenced CSS variables (#note)]]></title>
         <id>https://www.stefanjudis.com/notes/firefox-devtools-unreferenced-css-variables/</id>
