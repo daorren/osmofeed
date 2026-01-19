@@ -12,6 +12,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "69632f37b194c1000115866b",
+          "author": "Assaf Arkin",
+          "description": "MTV Rewind If you miss MTV from back when it was a TV station that plays music, aka the good old days.\nTech Stuff\ndbreunig/whenwords This is seriously cool. A library that provides timeago (\"in 3 days\"), duration (\"2h 30m\"), parse_duration, human_date (\"",
+          "link": "https://labnotes.org/weekend-reading-a-server-raclette/",
+          "publishedOn": "2026-01-18T19:47:30.000Z",
+          "wordCount": 2496,
+          "title": "Weekend Reading — A server raclette",
+          "imageUrl": "https://labnotes.org/content/images/size/w1200/2026/01/image-70-1.png"
+        },
+        {
           "id": "6959b1550c82d70001d2554a",
           "author": "Assaf Arkin",
           "description": "Laura Manach\nTech Stuff\nConvert & Compress When you need to process a batchload of files: convert them to a different format, limit their width/height, compress with specific quality loss, etc.\n(* To make sure my webapp is performing well, I run a script that goes through all files in",
