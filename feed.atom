@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-19T02:11:32.199Z</updated>
+    <updated>2026-01-20T02:06:10.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #181 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-181/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-181/"/>
+        <updated>2026-01-18T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Will you use Chrome's new <geolocation> HTML element? Are you excited about CSS anchor positioning going baseline? And do you know what a self-closing <div /> really does?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+Olivier listens to "Shelf Lives - Where Did I Go?" and says:
+I simply love this song's power and energy!
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are five more songs left in the queue.
+The new Web Almanac was released! If you don't know about the project: the team behind it takes all the data gathered from the HTTP Archive to analyze and understand the "state of the web". It's always super interesting to read and, almost as a tradition, I went over it and shared the interesting facts on…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — A server raclette]]></title>
         <id>69632f37b194c1000115866b</id>
@@ -300,19 +317,6 @@ Browser support info for View Transitions
                      …]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Sparkling spaces]]></title>
-        <id>693de1419b737f0001af1c2a</id>
-        <link href="https://labnotes.org/weekend-reading-sparkling-spaces/"/>
-        <updated>2025-12-20T22:20:11.000Z</updated>
-        <summary type="html"><![CDATA[ARGVMI~1.PIF "Well, you can't say you weren't warned."
-Tech Stuff
-How I wrote JustHTML using coding agents
-Yes. JustHTML is about 3,000 lines of Python with 8,500+ tests passing. I couldn't have written it this quickly without the]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>

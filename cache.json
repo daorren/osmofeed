@@ -50,16 +50,6 @@
           "wordCount": 1534,
           "title": "Weekend Reading — A double young-man",
           "imageUrl": "https://labnotes.org/content/images/2025/12/image-81-1.png"
-        },
-        {
-          "id": "693de1419b737f0001af1c2a",
-          "author": "Assaf Arkin",
-          "description": "ARGVMI~1.PIF \"Well, you can't say you weren't warned.\"\nTech Stuff\nHow I wrote JustHTML using coding agents\nYes. JustHTML is about 3,000 lines of Python with 8,500+ tests passing. I couldn't have written it this quickly without the",
-          "link": "https://labnotes.org/weekend-reading-sparkling-spaces/",
-          "publishedOn": "2025-12-20T22:20:11.000Z",
-          "wordCount": 2855,
-          "title": "Weekend Reading — Sparkling spaces",
-          "imageUrl": "https://labnotes.org/content/images/2025/12/image-72.png.jpeg"
         }
       ]
     },
@@ -68,6 +58,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-181/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nWill you use Chrome's new <geolocation> HTML element? Are you excited about CSS anchor positioning going baseline? And do you know what a self-closing <div /> really does?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nOlivier listens to \"Shelf Lives - Where Did I Go?\" and says:\nI simply love this song's power and energy!\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are five more songs left in the queue.\nThe new Web Almanac was released! If you don't know about the project: the team behind it takes all the data gathered from the HTTP Archive to analyze and understand the \"state of the web\". It's always super interesting to read and, almost as a tradition, I went over it and shared the interesting facts on…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-181/",
+          "publishedOn": "2026-01-18T23:00:00.000Z",
+          "wordCount": 4475,
+          "title": "Web Weekly #181 (#blogPost)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-180/",
           "author": null,
