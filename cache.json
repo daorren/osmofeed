@@ -12,6 +12,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "697515fe319e8e0001be35f8",
+          "author": "Assaf Arkin",
+          "description": "Stéphane Bortzmeyer\nTech Stuff\nCraft Agents Claude Cowork is the Claude Code brains for working with office documents (Word docs, presentations, etc) which I think is a powerful idea. Yet, I just started using Craft Agents and I like it much better—similar in spirit to Cowork,",
+          "link": "https://labnotes.org/weekend-reading-a-very-british-problem/",
+          "publishedOn": "2026-02-01T02:26:38.000Z",
+          "wordCount": 2846,
+          "title": "Weekend Reading — A very British problem",
+          "imageUrl": "https://labnotes.org/content/images/size/w1200/2026/02/image-5.png.jpeg"
+        },
+        {
           "id": "696d38f3b194c10001159bf6",
           "author": "Assaf Arkin",
           "description": "Natasha In \"Albuquerque, NM, Rainbow road runs parallel to Universe blvd.\"\nTech Stuff\nPencil The demo looks amazing, basically an MCP server that can design your product with pixel-perfect precision. Let Claude Code be your canvas. (via Vinicius)\n\nIan Betteridge\nThen, in 1999, Adobe InDesign was released, and",
@@ -157,16 +167,6 @@
           "wordCount": 1843,
           "title": "Automatically load .env files in Node.js scripts (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Automatically%20load%20.env%20files%20in%20Node.js%20scripts/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/a-ready-to-use-diff-component/",
-          "author": null,
-          "description": "I just stumbled over this package: @pierre/diffs.\n@pierre/diffs is an open source diff and code rendering library. It's built on Shiki for syntax highlighting and theming, is super customizable, and comes packed with features.\nThe package just hit v1 and seems to be pretty new. The docs live on diffs.com (no idea how one could snatch this domain in 2026) and it looks amazing.\nIt comes as a React and Vanilla JS component, supports server-side rendering, and the configuration options look solid.\nDisclaimer: I haven't tried diffs but I can imagine that I will take it as a starter for this blog eventually.\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/notes/a-ready-to-use-diff-component/",
-          "publishedOn": "2026-01-02T23:00:00.000Z",
-          "wordCount": 1692,
-          "title": "A ready-to-use diff component (#note)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:A%20ready-to-use%20diff%20component/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },

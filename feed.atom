@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-01T02:51:29.863Z</updated>
+    <updated>2026-02-02T02:40:59.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — A very British problem]]></title>
+        <id>697515fe319e8e0001be35f8</id>
+        <link href="https://labnotes.org/weekend-reading-a-very-british-problem/"/>
+        <updated>2026-02-01T02:26:38.000Z</updated>
+        <summary type="html"><![CDATA[Stéphane Bortzmeyer
+Tech Stuff
+Craft Agents Claude Cowork is the Claude Code brains for working with office documents (Word docs, presentations, etc) which I think is a powerful idea. Yet, I just started using Craft Agents and I like it much better—similar in spirit to Cowork,]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Universe closed, use Rainbow]]></title>
         <id>696d38f3b194c10001159bf6</id>
@@ -272,25 +284,6 @@ TapHouse Manage Homebrew form the convenience of a GUI with single-click install
 Mise Simplifies your dev setups by managing runtimes, env vars, tasks, Docker, GitHub Actions, etc. I]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A ready-to-use diff component (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/a-ready-to-use-diff-component/</id>
-        <link href="https://www.stefanjudis.com/notes/a-ready-to-use-diff-component/"/>
-        <updated>2026-01-02T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I just stumbled over this package: @pierre/diffs.
-@pierre/diffs is an open source diff and code rendering library. It's built on Shiki for syntax highlighting and theming, is super customizable, and comes packed with features.
-The package just hit v1 and seems to be pretty new. The docs live on diffs.com (no idea how one could snatch this domain in 2026) and it looks amazing.
-It comes as a React and Vanilla JS component, supports server-side rendering, and the configuration options look solid.
-Disclaimer: I haven't tried diffs but I can imagine that I will take it as a starter for this blog eventually.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
