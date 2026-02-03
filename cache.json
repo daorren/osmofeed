@@ -60,16 +60,6 @@
           "wordCount": 2742,
           "title": "Weekend Reading — So close to the end of the world",
           "imageUrl": "https://labnotes.org/content/images/2026/01/image-37-1.png"
-        },
-        {
-          "id": "695051cf0c82d70001d24566",
-          "author": "Assaf Arkin",
-          "description": "Volpeon \"Make yourself a little foxxo companion\"\nTech Stuff\nTapHouse Manage Homebrew form the convenience of a GUI with single-click installs, doctor and cleanup tools, auto update, menu bar mode, and more.\n\nMise Simplifies your dev setups by managing runtimes, env vars, tasks, Docker, GitHub Actions, etc. I",
-          "link": "https://labnotes.org/weekend-reading-where-are-all-the-coffee-filters/",
-          "publishedOn": "2026-01-04T00:15:59.000Z",
-          "wordCount": 2475,
-          "title": "Weekend Reading — Where are all the coffee filters?",
-          "imageUrl": "https://labnotes.org/content/images/2026/01/image-26-1.png"
         }
       ]
     },
@@ -78,6 +68,26 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-182/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nHave you had a look at the new Navigation API (baseline newly available) already? Do you know about the formmethod and formaction HTML attributes? And are you as excited about custom invoker commands as I am?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nMike listens to \"Is It Making You Feel Something?\" by Superchunk and says:\nOne of my all-time favorite bands put out a new record this year, and the title track is a simple instant classic with a fun little chorus.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are five more songs left in the queue.\nDaniel blogged about highlight pseudo-elements. And if you don't know what they're about, don't worry, I learned a ton, too!\nThe commonly known one is probably…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-182/",
+          "publishedOn": "2026-02-01T23:00:00.000Z",
+          "wordCount": 4902,
+          "title": "Web Weekly #182 (#blogPost)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/how-to-style-find-in-page-substrings/",
+          "author": null,
+          "description": "Chrome 144 shipped new CSS pseudo-elements!\n::search-text {\n  background: var(--blue);\n  color: white;\n}\n\n::search-text:current {\n  background: var(--blue-darker);\n  color: white;\n  text-decoration: currentColor solid underline;\n}\n\nThe classes are so new that there aren't MDN pages yet, but I'm super excited about this tiny search improvement.\nI'm pretty quick with hitting CMD + F because often I can't be bothered with using the provided site search (if there is one). However, sometimes it's hard to understand what's currently selected if you're looking at multiple matching substrings.\nToday I learned, this is a Chrome/Firefox problem because Safari's \"find in page\" feature adds an overlay while highlighting the current substring.\nThis looks great, but I won't switch browsers for a better in-page search experience. So what about Chrome and Firefox?\n::search-text allows you to style the found strings to follow your site's style. This is good stuff but not really helping with understanding the currently selected search string. This is where ::search-text:current comes into play. Check this out!\n[Interactive component: visit the article to see it...]\nIf you're on Chrome 144 right now, search the page for \"doggo\"! The matching strings in the component above are matching my site's colors and you can now see which dog is the selected search entry. It doesn't look as fancy as the Safari overlay but I'll buy it!\nHighlighting \"find in page\" entries isn't the most groundbreaking feature in the world, but I'm excited because I think it'll make my search experience way better! Apparently, there's no clear thumbs up from Mozilla yet, but let's hope that we'll get this improvement on the web.\nIf you want to dive deeper, here are some more resources:\nFrom Igalia: Find-in-Page Highlight Styling\nThe search-text spec\n\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/how-to-style-find-in-page-substrings/",
+          "publishedOn": "2026-02-01T23:00:00.000Z",
+          "wordCount": 1987,
+          "title": "How to style the found search / \"find in page\" substrings (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20style%20the%20found%20search%20%252F%20%22find%20in%20page%22%20substrings/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-181/",
           "author": null,

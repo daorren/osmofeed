@@ -22,11 +22,100 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-02-01 datetime="2026-02-01T02:26:38.000Z">2026-02-01</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-02-01 datetime="2026-02-01T02:26:38.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-02-01 datetime="2026-02-01T23:00:00.000Z">2026-02-01</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-02-01 datetime="2026-02-01T23:00:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/blog/web-weekly-182/"
+                        open
+                      >
+                        <summary class="article-expander__title">Web Weekly #182 (#blogPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/blog/web-weekly-182/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Guten Tag! Guten Tag! 👋
+
+Have you had a look at the new Navigation API (baseline newly available) already? Do you know about the formmethod and formaction HTML attributes? And are you as excited about custom invoker commands as I am?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+Mike listens to &quot;Is It Making You Feel Something?&quot; by Superchunk and says:
+One of my all-time favorite bands put out a new record this year, and the title track is a simple instant classic with a fun little chorus.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are five more songs left in the queue.
+Daniel blogged about highlight pseudo-elements. And if you don&#x27;t know what they&#x27;re about, don&#x27;t worry, I learned a ton, too!
+The commonly known one is probably…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;16
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/today-i-learned/how-to-style-find-in-page-substrings/"
+                        open
+                      >
+                        <summary class="article-expander__title">How to style the found search / &quot;find in page&quot; substrings (#tilPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/how-to-style-find-in-page-substrings/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20style%20the%20found%20search%20%252F%20%22find%20in%20page%22%20substrings/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Chrome 144 shipped new CSS pseudo-elements!
+::search-text {
+  background: var(--blue);
+  color: white;
+}
+
+::search-text:current {
+  background: var(--blue-darker);
+  color: white;
+  text-decoration: currentColor solid underline;
+}
+
+The classes are so new that there aren&#x27;t MDN pages yet, but I&#x27;m super excited about this tiny search improvement.
+I&#x27;m pretty quick with hitting CMD + F because often I can&#x27;t be bothered with using the provided site search (if there is one). However, sometimes it&#x27;s hard to understand what&#x27;s currently selected if you&#x27;re looking at multiple matching substrings.
+Today I learned, this is a Chrome/Firefox problem because Safari&#x27;s &quot;find in page&quot; feature adds an overlay while highlighting the current substring.
+This looks great, but I won&#x27;t switch browsers for a better in-page search experience. So what about Chrome and Firefox?
+::search-text allows you to style the found strings to follow your site&#x27;s style. This is good stuff but not really helping with understanding the currently selected search string. This is where ::search-text:current comes into play. Check this out!
+[Interactive component: visit the article to see it...]
+If you&#x27;re on Chrome 144 right now, search the page for &quot;doggo&quot;! The matching strings in the component above are matching my site&#x27;s colors and you can now see which dog is the selected search entry. It doesn&#x27;t look as fancy as the Safari overlay but I&#x27;ll buy it!
+Highlighting &quot;find in page&quot; entries isn&#x27;t the most groundbreaking feature in the world, but I&#x27;m excited because I think it&#x27;ll make my search experience way better! Apparently, there&#x27;s no clear thumbs up from Mozilla yet, but let&#x27;s hope that we&#x27;ll get this improvement on the web.
+If you want to dive deeper, here are some more resources:
+From Igalia: Find-in-Page Highlight Styling
+The search-text spec
+
+
+
+          
+          
+            Reply to Stefan</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -697,62 +786,10 @@ I love seeing Node.js moving forward!
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-01-04 datetime="2026-01-04T00:15:59.000Z">2026-01-04</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-01-04 datetime="2026-01-04T00:15:59.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Labnotes (by Assaf Arkin)</button>
-                  <a class="source-heading__link" href="https://labnotes.org/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="695051cf0c82d70001d24566"
-                        open
-                      >
-                        <summary class="article-expander__title">Weekend Reading — Where are all the coffee filters?</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://labnotes.org/weekend-reading-where-are-all-the-coffee-filters/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://labnotes.org/content/images/2026/01/image-26-1.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Volpeon &quot;Make yourself a little foxxo companion&quot;
-Tech Stuff
-TapHouse Manage Homebrew form the convenience of a GUI with single-click installs, doctor and cleanup tools, auto update, menu bar mode, and more.
-
-Mise Simplifies your dev setups by managing runtimes, env vars, tasks, Docker, GitHub Actions, etc. I</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/21575469674">
-        <time id="build-timestamp" datetime="2026-02-02T02:40:59.000Z">2026-02-02T02:40:59.000Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/21614627056">
+        <time id="build-timestamp" datetime="2026-02-03T02:37:45.269Z">2026-02-03T02:37:45.269Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
