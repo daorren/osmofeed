@@ -12,6 +12,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "697eba05241c73000155f209",
+          "author": "Assaf Arkin",
+          "description": "David Zinn \"Jen’s response to winter is to wear big boots and keep on stomping.\"\nTech Stuff\npandoc for the people The pandoc wasm web-app is now available and allows to run any kind of document conversion that pandoc supports in the browser. The documents never",
+          "link": "https://labnotes.org/weekend-reading-load-bearing-post/",
+          "publishedOn": "2026-02-08T03:28:59.000Z",
+          "wordCount": 2634,
+          "title": "Weekend Reading — Load bearing post",
+          "imageUrl": "https://labnotes.org/content/images/2026/02/image-39-1.png"
+        },
+        {
           "id": "697515fe319e8e0001be35f8",
           "author": "Assaf Arkin",
           "description": "Stéphane Bortzmeyer\nTech Stuff\nCraft Agents Claude Cowork is the Claude Code brains for working with office documents (Word docs, presentations, etc) which I think is a powerful idea. Yet, I just started using Craft Agents and I like it much better—similar in spirit to Cowork,",
@@ -137,16 +147,6 @@
           "wordCount": 1870,
           "title": "The Trust Equation (#note)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:The%20Trust%20Equation/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/notes/firefox-devtools-unreferenced-css-variables/",
-          "author": null,
-          "description": "Here's a quick and handy addition to the Firefox DevTools.\nWhenever you debug CSS that's full of CSS variables, it becomes annoyingly hard to parse everything going on in the DevTools because the custom properties are cluttering :root or * or whatever.\nFirefox 145 (released Nov 11, 2025) now added a tiny adjustment that helps out massively.\nLove it!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/notes/firefox-devtools-unreferenced-css-variables/",
-          "publishedOn": "2026-01-09T23:00:00.000Z",
-          "wordCount": 1630,
-          "title": "Firefox DevTools hides unreferenced CSS variables (#note)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Firefox%20DevTools%20hides%20unreferenced%20CSS%20variables/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },

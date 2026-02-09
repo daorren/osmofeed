@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-08T02:56:37.854Z</updated>
+    <updated>2026-02-09T02:41:41.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Load bearing post]]></title>
+        <id>697eba05241c73000155f209</id>
+        <link href="https://labnotes.org/weekend-reading-load-bearing-post/"/>
+        <updated>2026-02-08T03:28:59.000Z</updated>
+        <summary type="html"><![CDATA[David Zinn "Jen’s response to winter is to wear big boots and keep on stomping."
+Tech Stuff
+pandoc for the people The pandoc wasm web-app is now available and allows to run any kind of document conversion that pandoc supports in the browser. The documents never]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #182 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-182/</id>
@@ -237,24 +249,6 @@ Convert & Compress When you need to process a batchload of files: convert them t
 (* To make sure my webapp is performing well, I run a script that goes through all files in]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox DevTools hides unreferenced CSS variables (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/firefox-devtools-unreferenced-css-variables/</id>
-        <link href="https://www.stefanjudis.com/notes/firefox-devtools-unreferenced-css-variables/"/>
-        <updated>2026-01-09T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here's a quick and handy addition to the Firefox DevTools.
-Whenever you debug CSS that's full of CSS variables, it becomes annoyingly hard to parse everything going on in the DevTools because the custom properties are cluttering :root or * or whatever.
-Firefox 145 (released Nov 11, 2025) now added a tiny adjustment that helps out massively.
-Love it!
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
