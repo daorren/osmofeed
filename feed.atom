@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-09T02:41:41.655Z</updated>
+    <updated>2026-02-10T02:50:18.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -236,19 +236,6 @@ However, I guess the formula checks out, and I'll definitely come back to it whe
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — So close to the end of the world]]></title>
-        <id>6959b1550c82d70001d2554a</id>
-        <link href="https://labnotes.org/weekend-reading-so-close-to-the-end-of-the-world/"/>
-        <updated>2026-01-11T05:03:19.000Z</updated>
-        <summary type="html"><![CDATA[Laura Manach
-Tech Stuff
-Convert & Compress When you need to process a batchload of files: convert them to a different format, limit their width/height, compress with specific quality loss, etc.
-(* To make sure my webapp is performing well, I run a script that goes through all files in]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
