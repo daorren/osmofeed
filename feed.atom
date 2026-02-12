@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-11T02:48:16.764Z</updated>
+    <updated>2026-02-12T02:43:40.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -138,74 +138,6 @@ Tech Stuff
 dbreunig/whenwords This is seriously cool. A library that provides timeago ("in 3 days"), duration ("2h 30m"), parse_duration, human_date ("]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #180 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-180/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-180/"/>
-        <updated>2026-01-12T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
-
-Do you use iterator helpers in JavaScript? Have you heard of scroll-triggered CSS animations? Are you excited about Temporal?
-Turn on the Web Weekly tune and find some answers below. Enjoy!
-Paweł listens to "Mtume - Juicy Fruit" and says:
-Everyone has heard "Juicy" by The Notorious B.I.G. before, but I only recently discovered that this is the original sample. It's not just a sample; the whole melody line is the same. Shocking how similar these two songs are.
-Do you want to share your favorite song with the Web Weekly community? Hit reply; there are five more songs left in the queue.
-
-      
-The State of HTML survey results are in! And let me tell you, if you read them you'll definitely discover some new web technology things.
-For me this year, the web dev feature…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARIA roles can remove their children’s semantics (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/aria-roles-can-remove-their-childrens-semantics/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/aria-roles-can-remove-their-childrens-semantics/"/>
-        <updated>2026-01-12T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I've learned something new about ARIA today!
-You probably know the first rule of ARIA:
-If you can use a native HTML element or attribute with the semantics and behavior you require already built in, instead of repurposing an element and adding an ARIA role, state, or property to make it accessible, then do so.
-Unfortunately, many people slap ARIA attributes on elements without really understanding what they're doing. Adding role="menu" to navigation lists is one example that I see very often.
-What's supposed to be a menu? Here's the ARIA spec:
-A menu is a container, generally rendered as a popup or overlay, for a set of menu items that can be invoked to perform an action or function.
-Making a list of navigation entries a menu isn't a good idea because a menu is supposed to include menu items that invoke actions or functions. However, that's not all.
-Today I learned that adding ARIA attributes to elements can also change the semantics of the included elements. Here's the role="menu" example for a ul case.
-[Interactive component: visit the article to see it...]
-A "normal" list might be announced by a screen reader as "List (3 items)". It's helpful to know how many elements are in the list, right? A menu, though, must include menu items. And if you're not planning to also add elements with role="menuitem" to the menu, it'll be empty.
-I quickly tested Chrome with VoiceOver on this CodePen:
-A normal list is announced as "List (3 items)".
-A list with role="menu" without included menuitems isn't announced at all. The list entries are read out loud.
-A list with role="menu" with included menuitems is announced as "Menu (3 items)".
-Incorrect role="menu" usage can not only be confusing but might remove the list item count and nuke the item semantics.
-Don't mess with ARIA unless you know what you're doing.
-Check this post if you want to dive deeper into ARIA and what other roles affect their children semantics.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clean up your Mac with open source (#note)]]></title>
-        <id>https://www.stefanjudis.com/notes/clean-up-your-mac-with-open-source/</id>
-        <link href="https://www.stefanjudis.com/notes/clean-up-your-mac-with-open-source/"/>
-        <updated>2026-01-12T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[My Mac was running out of disk space the other day, and because I wasn't in the mood to hunt for custom solutions, I reached for Clean My Mac. It's a nice tool, and I knew it would do the job just fine. It freed up 60GB in about twenty minutes. Nice! Cleaning up disk space without any hassle was worth paying for.
-A couple of days later, Nick sent out his "One tip a week" newsletter, and dang it... He shared Mole — a free open source CLI tool that does the same thing as Clean My Mac. Too late, Nick. Too late.
-I haven't tried it, but I trust Nick's judgment here. You might want to give it a try if you're running low on disk space.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
