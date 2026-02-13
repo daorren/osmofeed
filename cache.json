@@ -104,7 +104,18 @@
       "title": "mteam's Writings",
       "feedUrl": "https://mteam88.github.io/rss.xml",
       "siteUrl": "https://mteam.space/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://mteam.space/posts/my-workflow-for-agentic-engineering-in-crypto/",
+          "author": null,
+          "description": "A practical workflow for using coding agents effectively in crypto projects, with concrete tools, habits, and safety practices.",
+          "link": "https://mteam.space/posts/my-workflow-for-agentic-engineering-in-crypto/",
+          "publishedOn": "2026-02-13T09:00:00.000Z",
+          "wordCount": 2558,
+          "title": "My Workflow for Agentic Engineering in Crypto",
+          "imageUrl": "https://mteam.space/My%20Workflow%20for%20Agentic%20Engineering%20in%20Crypto.png"
+        }
+      ]
     },
     {
       "title": "Libevm",
