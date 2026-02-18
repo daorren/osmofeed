@@ -60,16 +60,6 @@
           "wordCount": 1101,
           "title": "Rentail.space Launches AI-Powered Marketplace Connecting Businesses with Short-Term Retail Spaces",
           "imageUrl": "https://labnotes.org/content/images/2019/12/powerpuff.png"
-        },
-        {
-          "id": "69632f37b194c1000115866b",
-          "author": "Assaf Arkin",
-          "description": "MTV Rewind If you miss MTV from back when it was a TV station that plays music, aka the good old days.\nTech Stuff\ndbreunig/whenwords This is seriously cool. A library that provides timeago (\"in 3 days\"), duration (\"2h 30m\"), parse_duration, human_date (\"",
-          "link": "https://labnotes.org/weekend-reading-a-server-raclette/",
-          "publishedOn": "2026-01-18T19:47:30.000Z",
-          "wordCount": 2496,
-          "title": "Weekend Reading — A server raclette",
-          "imageUrl": "https://labnotes.org/content/images/size/w1200/2026/01/image-70-1.png"
         }
       ]
     },
@@ -78,6 +68,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-183/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nHave you checked what's included in Interop 2026? Do you know about the using declaration in JavaScript? And are you excited about the new ways to style select elements?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nPaweł listens to \"Tarika Blue - Topic\" and says:\nThis one is another sample that I was shocked to discover. My beloved Erykah Badu used a sample of this song in her \"Didn't Cha Know\". I love everything by Erykah, and I love jazz music, so this song is a perfect combo for me.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are eight more songs left in the queue.\nThe biggest news this week was that the Interop 2026 initiatives were released. If you don't know, Interop is a cross-browser initiative…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-183/",
+          "publishedOn": "2026-02-16T23:00:00.000Z",
+          "wordCount": 4778,
+          "title": "Web Weekly #183 (#blogPost)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-182/",
           "author": null,
@@ -97,16 +97,6 @@
           "wordCount": 1987,
           "title": "How to style the found search / \"find in page\" substrings (#tilPost)",
           "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20style%20the%20found%20search%20%252F%20%22find%20in%20page%22%20substrings/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-181/",
-          "author": null,
-          "description": "Guten Tag! Guten Tag! 👋\n\nWill you use Chrome's new <geolocation> HTML element? Are you excited about CSS anchor positioning going baseline? And do you know what a self-closing <div /> really does?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nOlivier listens to \"Shelf Lives - Where Did I Go?\" and says:\nI simply love this song's power and energy!\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are five more songs left in the queue.\nThe new Web Almanac was released! If you don't know about the project: the team behind it takes all the data gathered from the HTTP Archive to analyze and understand the \"state of the web\". It's always super interesting to read and, almost as a tradition, I went over it and shared the interesting facts on…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-181/",
-          "publishedOn": "2026-01-18T23:00:00.000Z",
-          "wordCount": 4475,
-          "title": "Web Weekly #181 (#blogPost)",
-          "imageUrl": null
         }
       ]
     },

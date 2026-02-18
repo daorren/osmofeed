@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-17T02:36:42.975Z</updated>
+    <updated>2026-02-18T02:40:21.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #183 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-183/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-183/"/>
+        <updated>2026-02-16T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Have you checked what's included in Interop 2026? Do you know about the using declaration in JavaScript? And are you excited about the new ways to style select elements?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+Paweł listens to "Tarika Blue - Topic" and says:
+This one is another sample that I was shocked to discover. My beloved Erykah Badu used a sample of this song in her "Didn't Cha Know". I love everything by Erykah, and I love jazz music, so this song is a perfect combo for me.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are eight more songs left in the queue.
+The biggest news this week was that the Interop 2026 initiatives were released. If you don't know, Interop is a cross-browser initiative…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — The Cone of Uncertainty]]></title>
         <id>69880313a91963000151f59f</id>
@@ -129,35 +146,6 @@ Then, in 1999, Adobe InDesign was released, and]]></summary>
         <link href="https://labnotes.org/rentail-space-launches-ai-powered-marketplace-connecting-businesses-with-short-term-retail-spaces/"/>
         <updated>2026-01-20T16:37:00.000Z</updated>
         <summary type="html"><![CDATA[Rentail.space, an AI-powered specialty lease marketplace, today announced its official launch, transforming how businesses discover and secure short-term retail spaces in shopping centers across the United States and Canada.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #181 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-181/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-181/"/>
-        <updated>2026-01-18T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
-
-Will you use Chrome's new <geolocation> HTML element? Are you excited about CSS anchor positioning going baseline? And do you know what a self-closing <div /> really does?
-Turn on the Web Weekly tune and find some answers below. Enjoy!
-Olivier listens to "Shelf Lives - Where Did I Go?" and says:
-I simply love this song's power and energy!
-Do you want to share your favorite song with the Web Weekly community? Hit reply; there are five more songs left in the queue.
-The new Web Almanac was released! If you don't know about the project: the team behind it takes all the data gathered from the HTTP Archive to analyze and understand the "state of the web". It's always super interesting to read and, almost as a tradition, I went over it and shared the interesting facts on…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — A server raclette]]></title>
-        <id>69632f37b194c1000115866b</id>
-        <link href="https://labnotes.org/weekend-reading-a-server-raclette/"/>
-        <updated>2026-01-18T19:47:30.000Z</updated>
-        <summary type="html"><![CDATA[MTV Rewind If you miss MTV from back when it was a TV station that plays music, aka the good old days.
-Tech Stuff
-dbreunig/whenwords This is seriously cool. A library that provides timeago ("in 3 days"), duration ("2h 30m"), parse_duration, human_date ("]]></summary>
         <author>
             <name>Assaf Arkin</name>
         </author>
