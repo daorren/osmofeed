@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-19T02:39:22.938Z</updated>
+    <updated>2026-02-20T02:33:57.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Notes on relying on the ARIA Authoring Practices Guide  (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/notes-on-relying-on-the-aria-authoring-practices-guide/</id>
+        <link href="https://www.stefanjudis.com/notes/notes-on-relying-on-the-aria-authoring-practices-guide/"/>
+        <updated>2026-02-18T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Eric wrote about how to instruct an LLM to fetch the "valuable stuff" from the ARIA Authoring Practices Guide (APG). The article includes some points about APG itself that are worth highlighting. And what's the valuable stuff?
+If you don't know the Authoring Practice Guide, here's what you'll see after finding it online looking for ARIA patterns.
+As you see above, the guide is supposed to teach how to use accessibility semantics defined by the Accessible Rich Internet Application (ARIA). And it looks very authoritative. When I first discovered it after some googling, I treated this guide as the source of truth because it lives under w3.org and looks very official. I learned early on that using ARIA correctly is hard; and thought that APG must be the place showing me how to do ARIA correctl…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #183 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-183/</id>
@@ -136,16 +148,6 @@ Pencil The demo looks amazing, basically an MCP server that can design your prod
 
 Ian Betteridge
 Then, in 1999, Adobe InDesign was released, and]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rentail.space Launches AI-Powered Marketplace Connecting Businesses with Short-Term Retail Spaces]]></title>
-        <id>6973b1d4319e8e0001be2c67</id>
-        <link href="https://labnotes.org/rentail-space-launches-ai-powered-marketplace-connecting-businesses-with-short-term-retail-spaces/"/>
-        <updated>2026-01-20T16:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Rentail.space, an AI-powered specialty lease marketplace, today announced its official launch, transforming how businesses discover and secure short-term retail spaces in shopping centers across the United States and Canada.]]></summary>
         <author>
             <name>Assaf Arkin</name>
         </author>

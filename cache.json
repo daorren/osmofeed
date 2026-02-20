@@ -50,16 +50,6 @@
           "wordCount": 1677,
           "title": "Weekend Reading — Universe closed, use Rainbow",
           "imageUrl": "https://labnotes.org/content/images/2026/01/image-85.png.jpeg"
-        },
-        {
-          "id": "6973b1d4319e8e0001be2c67",
-          "author": "Assaf Arkin",
-          "description": "Rentail.space, an AI-powered specialty lease marketplace, today announced its official launch, transforming how businesses discover and secure short-term retail spaces in shopping centers across the United States and Canada.",
-          "link": "https://labnotes.org/rentail-space-launches-ai-powered-marketplace-connecting-businesses-with-short-term-retail-spaces/",
-          "publishedOn": "2026-01-20T16:37:00.000Z",
-          "wordCount": 1101,
-          "title": "Rentail.space Launches AI-Powered Marketplace Connecting Businesses with Short-Term Retail Spaces",
-          "imageUrl": "https://labnotes.org/content/images/2019/12/powerpuff.png"
         }
       ]
     },
@@ -68,6 +58,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/notes/notes-on-relying-on-the-aria-authoring-practices-guide/",
+          "author": null,
+          "description": "Eric wrote about how to instruct an LLM to fetch the \"valuable stuff\" from the ARIA Authoring Practices Guide (APG). The article includes some points about APG itself that are worth highlighting. And what's the valuable stuff?\nIf you don't know the Authoring Practice Guide, here's what you'll see after finding it online looking for ARIA patterns.\nAs you see above, the guide is supposed to teach how to use accessibility semantics defined by the Accessible Rich Internet Application (ARIA). And it looks very authoritative. When I first discovered it after some googling, I treated this guide as the source of truth because it lives under w3.org and looks very official. I learned early on that using ARIA correctly is hard; and thought that APG must be the place showing me how to do ARIA correctl…",
+          "link": "https://www.stefanjudis.com/notes/notes-on-relying-on-the-aria-authoring-practices-guide/",
+          "publishedOn": "2026-02-18T23:00:00.000Z",
+          "wordCount": 2314,
+          "title": "Notes on relying on the ARIA Authoring Practices Guide  (#note)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Notes%20on%20relying%20on%20the%20ARIA%20Authoring%20Practices%20Guide%20/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-183/",
           "author": null,
