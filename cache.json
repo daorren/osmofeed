@@ -59,6 +59,36 @@
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
         {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-184/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nHave you ever struggled with lazy loading videos? Or have you used CSS zoom before? And do you know what Map.getOrInsertComputed does?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nAndré listens to \"Ordinary\" by Alex Warren and says:\nThis is genuinely one of the most beautiful songs I've ever listened to. It landed instantly on my short-list playlist of personal 'masterpieces' — the kind of songs that feel timeless to me, alongside classics like 'The Sound of Silence'. It's emotionally honest, restrained, and quietly powerful in a way that really stays with you.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are seven more songs left in the queue.\nThis Web Weekly turned out very beefy already, so I'll keep…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-184/",
+          "publishedOn": "2026-02-23T23:00:00.000Z",
+          "wordCount": 3827,
+          "title": "Web Weekly #184 (#blogPost)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.stefanjudis.com/blog/nobody-owes-you-anything/",
+          "author": null,
+          "description": "If you follow this blog for a while, you might know that I focus on tech topics and try to be very rational and neutral in my writing. I usually am too afraid of \"pissing off\". Maybe, it's the current state of the world or that I'm just getting older, but certain things just get to me and I want to establish writing as a healthy coping mechanism.\nSo! I've just read a post about Anthropic's recent pricing changes. For context, you can't use the Claude flat rate for the Anthropic API anymore. If you want to use the simple (and reasonably cheap) Claude Code pricing you must use Anthropic's products and can't use other agents/products/tools with the one-fits-all offer.\nAnthropic is now enforcing and limiting people to use their products as intended. Outrageous, right?\nI won't link to the post,…",
+          "link": "https://www.stefanjudis.com/blog/nobody-owes-you-anything/",
+          "publishedOn": "2026-02-23T23:00:00.000Z",
+          "wordCount": 2212,
+          "title": "Nobody owes you anything (#blogPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Nobody%20owes%20you%20anything/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
+          "id": "https://www.stefanjudis.com/today-i-learned/css-zoom-to-scale-elements/",
+          "author": null,
+          "description": "You probably know that you can use the scale function scale() or even just scale property to transform and change an element's size.\nThe thing with scale is that it only changes visual appearance and the layout size of the target element remains the same.\nToday I learned there's also the zoom property. zoom \"really\" scales the element and its layout. Check this out!\n[Interactive component: visit the article to see it...]\nWhat's the browser support?\n\n        \nMDN Compat Data (source)\nBrowser support info for zoom \n              \n                \n\n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                        \n                      \n                \n\n                        \n                        1\n                        \n                      \n                        \n                        12\n                        \n                      \n                        \n                        126\n                        \n                      \n                        \n                        126\n                        \n                      \n                        \n                        3.1\n                        \n                      \n                        \n                        3\n                        \n                      \n                        \n                        1.5\n                        \n                      \n                        \n                        1\n                        \n                      \n                \n\n\nIt's pretty green!\nI can totally see contrained situations when this can come in handy, but you should avoid animating it, because browsers probably don't appreciate the layout shift.\n\n\n          \n          \n            Reply to Stefan",
+          "link": "https://www.stefanjudis.com/today-i-learned/css-zoom-to-scale-elements/",
+          "publishedOn": "2026-02-23T23:00:00.000Z",
+          "wordCount": 1913,
+          "title": "How to scale elements and their layout with CSS \"zoom\" (#tilPost)",
+          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20scale%20elements%20and%20their%20layout%20with%20CSS%20%22zoom%22/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
+        },
+        {
           "id": "https://www.stefanjudis.com/notes/notes-on-relying-on-the-aria-authoring-practices-guide/",
           "author": null,
           "description": "Eric wrote about how to instruct an LLM to fetch the \"valuable stuff\" from the ARIA Authoring Practices Guide (APG). The article includes some points about APG itself that are worth highlighting. And what's the valuable stuff?\nIf you don't know the Authoring Practice Guide, here's what you'll see after finding it online looking for ARIA patterns.\nAs you see above, the guide is supposed to teach how to use accessibility semantics defined by the Accessible Rich Internet Application (ARIA). And it looks very authoritative. When I first discovered it after some googling, I treated this guide as the source of truth because it lives under w3.org and looks very official. I learned early on that using ARIA correctly is hard; and thought that APG must be the place showing me how to do ARIA correctl…",

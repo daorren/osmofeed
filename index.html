@@ -22,6 +22,174 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-02-23 datetime="2026-02-23T23:00:00.000Z">2026-02-23</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-02-23 datetime="2026-02-23T23:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/blog/web-weekly-184/"
+                        open
+                      >
+                        <summary class="article-expander__title">Web Weekly #184 (#blogPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/blog/web-weekly-184/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Guten Tag! Guten Tag! 👋
+
+Have you ever struggled with lazy loading videos? Or have you used CSS zoom before? And do you know what Map.getOrInsertComputed does?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+André listens to &quot;Ordinary&quot; by Alex Warren and says:
+This is genuinely one of the most beautiful songs I&#x27;ve ever listened to. It landed instantly on my short-list playlist of personal &#x27;masterpieces&#x27; — the kind of songs that feel timeless to me, alongside classics like &#x27;The Sound of Silence&#x27;. It&#x27;s emotionally honest, restrained, and quietly powerful in a way that really stays with you.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are seven more songs left in the queue.
+This Web Weekly turned out very beefy already, so I&#x27;ll keep…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/blog/nobody-owes-you-anything/"
+                        open
+                      >
+                        <summary class="article-expander__title">Nobody owes you anything (#blogPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/blog/nobody-owes-you-anything/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Nobody%20owes%20you%20anything/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>If you follow this blog for a while, you might know that I focus on tech topics and try to be very rational and neutral in my writing. I usually am too afraid of &quot;pissing off&quot;. Maybe, it&#x27;s the current state of the world or that I&#x27;m just getting older, but certain things just get to me and I want to establish writing as a healthy coping mechanism.
+So! I&#x27;ve just read a post about Anthropic&#x27;s recent pricing changes. For context, you can&#x27;t use the Claude flat rate for the Anthropic API anymore. If you want to use the simple (and reasonably cheap) Claude Code pricing you must use Anthropic&#x27;s products and can&#x27;t use other agents/products/tools with the one-fits-all offer.
+Anthropic is now enforcing and limiting people to use their products as intended. Outrageous, right?
+I won&#x27;t link to the post,…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/today-i-learned/css-zoom-to-scale-elements/"
+                        open
+                      >
+                        <summary class="article-expander__title">How to scale elements and their layout with CSS &quot;zoom&quot; (#tilPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/css-zoom-to-scale-elements/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:How%20to%20scale%20elements%20and%20their%20layout%20with%20CSS%20%22zoom%22/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>You probably know that you can use the scale function scale() or even just scale property to transform and change an element&#x27;s size.
+The thing with scale is that it only changes visual appearance and the layout size of the target element remains the same.
+Today I learned there&#x27;s also the zoom property. zoom &quot;really&quot; scales the element and its layout. Check this out!
+[Interactive component: visit the article to see it...]
+What&#x27;s the browser support?
+
+        
+MDN Compat Data (source)
+Browser support info for zoom 
+              
+                
+
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                
+
+                        
+                        1
+                        
+                      
+                        
+                        12
+                        
+                      
+                        
+                        126
+                        
+                      
+                        
+                        126
+                        
+                      
+                        
+                        3.1
+                        
+                      
+                        
+                        3
+                        
+                      
+                        
+                        1.5
+                        
+                      
+                        
+                        1
+                        
+                      
+                
+
+
+It&#x27;s pretty green!
+I can totally see contrained situations when this can come in handy, but you should avoid animating it, because browsers probably don&#x27;t appreciate the layout shift.
+
+
+          
+          
+            Reply to Stefan</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-02-21 datetime="2026-02-21T19:33:56.000Z">2026-02-21</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-02-21 datetime="2026-02-21T19:33:56.000Z"></time>
           </button>
@@ -458,8 +626,8 @@ Craft Agents Claude Cowork is the Claude Code brains for working with office doc
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/22334207463">
-        <time id="build-timestamp" datetime="2026-02-24T02:37:12.424Z">2026-02-24T02:37:12.424Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/22379697305">
+        <time id="build-timestamp" datetime="2026-02-25T02:38:24.639Z">2026-02-25T02:38:24.639Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
