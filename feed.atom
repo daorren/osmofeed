@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-03T02:37:52.463Z</updated>
+    <updated>2026-03-04T02:30:47.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #185 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-185/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-185/"/>
+        <updated>2026-03-02T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Have you heard of Chrome's soft navigations? Do you parse the sec-fetch header to prevent CSRF? Or do you know that elements with overflow: hidden are still scrollable?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+Pablo listens to ROSALÍA - Berghain and says:
+Rosalía's Berghain (& the LUX album) are real masterpieces. Berghain has passages in German, showing us in the key of Opera what Hildegard of Bingen was experiencing, who saw "the reflection of the living Light" as a vision of God. Rosalía's Berghain translates in German the religious visions as "The flame penetrates my brain Like a lead teddy bear". I absolutely recommend listening to this album, sung in German, French, Catalan, Italian, Ukrainian, Japanese and Spanish.
+Do you want to shar…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New lines are removed from WHATWG URLs (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/new-lines-are-removed-from-whatwg-urls/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/new-lines-are-removed-from-whatwg-urls/"/>
+        <updated>2026-03-02T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today I learned something groundbreaking about URLs!
+You know that when you're templating HTML and you're dealing with attribute values, it might make sense to break things into pieces. I like to have one attribute per line and sometimes even break the attribute values into multiple lines.
+Long URLs are always tricky, because you can't break these apart...
+<a class="something something_else 
+          something_very_long something_even_longer"
+   href="https://www.example-blog-about-everything-under-the-sun.com/2026/03/03/the-ultimate-comprehensive-and-absolutely-definitive-guide-to-understanding-why-your-css-layout-breaks-at-3am-when-you-least-expect-it-and-how-to-fix-it-once-and-for-all-without-losing-your-sanity-or-your-will-to-live-as-a-frontend-developer-in-the-modern-web-ecosystem-featuring-flexbox-grid-and-container-queries">
+  Long link
+</a>
+
+Or can you?
+Daniel shared that line breaks and tabs will actually be removed from URLs. Excuse me?!
+Here's the URL parsing WHATWG spec:
+If input contains any ASCII tab or newline, invalid-URL-unit validation error.
+Remove all ASCII tab or newline from input.
+So, browsers discover newlines or tabs in URLs, recognize them as "invalid-URL-unit" errors, and then remove the invalid characters to get the job done. Nice job, browsers — I love it!
+Here's a rendred link including a URL with tabs and newlines for you to inspect.
+[Interactive component: visit the article to see it...]
+Tabs and newslines are removed and things just work and because we're looking at the WHATWG spec in action here, the characters will be remove in JavaScript, too!
+const urlWithTabsAndNewlines = `https://www.	
+stefanjudis.
+com`;
+
+const normalizedUrl = new URL(urlWithTabsAndNewlines);
+console.log(
+  normalizedUrl.href === urlWithTabsAndNewlines
+); // false
+
+That's pretty wild, isn't it?
+Check Daniel's post if you want to learn more!
+
+
+          
+          
+            Reply to Stefan]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Sunlight with ads]]></title>
         <id>699a08b8d4504d000151358a</id>
@@ -202,62 +261,6 @@ Tech Stuff
 pandoc for the people The pandoc wasm web-app is now available and allows to run any kind of document conversion that pandoc supports in the browser. The documents never]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #182 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-182/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-182/"/>
-        <updated>2026-02-01T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
-
-Have you had a look at the new Navigation API (baseline newly available) already? Do you know about the formmethod and formaction HTML attributes? And are you as excited about custom invoker commands as I am?
-Turn on the Web Weekly tune and find some answers below. Enjoy!
-Mike listens to "Is It Making You Feel Something?" by Superchunk and says:
-One of my all-time favorite bands put out a new record this year, and the title track is a simple instant classic with a fun little chorus.
-Do you want to share your favorite song with the Web Weekly community? Hit reply; there are five more songs left in the queue.
-Daniel blogged about highlight pseudo-elements. And if you don't know what they're about, don't worry, I learned a ton, too!
-The commonly known one is probably…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to style the found search / "find in page" substrings (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/how-to-style-find-in-page-substrings/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/how-to-style-find-in-page-substrings/"/>
-        <updated>2026-02-01T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chrome 144 shipped new CSS pseudo-elements!
-::search-text {
-  background: var(--blue);
-  color: white;
-}
-
-::search-text:current {
-  background: var(--blue-darker);
-  color: white;
-  text-decoration: currentColor solid underline;
-}
-
-The classes are so new that there aren't MDN pages yet, but I'm super excited about this tiny search improvement.
-I'm pretty quick with hitting CMD + F because often I can't be bothered with using the provided site search (if there is one). However, sometimes it's hard to understand what's currently selected if you're looking at multiple matching substrings.
-Today I learned, this is a Chrome/Firefox problem because Safari's "find in page" feature adds an overlay while highlighting the current substring.
-This looks great, but I won't switch browsers for a better in-page search experience. So what about Chrome and Firefox?
-::search-text allows you to style the found strings to follow your site's style. This is good stuff but not really helping with understanding the currently selected search string. This is where ::search-text:current comes into play. Check this out!
-[Interactive component: visit the article to see it...]
-If you're on Chrome 144 right now, search the page for "doggo"! The matching strings in the component above are matching my site's colors and you can now see which dog is the selected search entry. It doesn't look as fancy as the Safari overlay but I'll buy it!
-Highlighting "find in page" entries isn't the most groundbreaking feature in the world, but I'm excited because I think it'll make my search experience way better! Apparently, there's no clear thumbs up from Mozilla yet, but let's hope that we'll get this improvement on the web.
-If you want to dive deeper, here are some more resources:
-From Igalia: Find-in-Page Highlight Styling
-The search-text spec
-
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
