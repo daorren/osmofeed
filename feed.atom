@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-09T02:38:46.988Z</updated>
+    <updated>2026-03-10T02:29:58.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -261,18 +261,6 @@ npmx If you search for npm packages frequently, give npmx a try. It's much faste
         <summary type="html"><![CDATA[A practical workflow for using coding agents effectively in crypto projects, with concrete tools, habits, and safety practices.]]></summary>
         <author>
             <name>mteam's Writings</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Load bearing post]]></title>
-        <id>697eba05241c73000155f209</id>
-        <link href="https://labnotes.org/weekend-reading-load-bearing-post/"/>
-        <updated>2026-02-08T03:28:59.000Z</updated>
-        <summary type="html"><![CDATA[David Zinn "Jen’s response to winter is to wear big boots and keep on stomping."
-Tech Stuff
-pandoc for the people The pandoc wasm web-app is now available and allows to run any kind of document conversion that pandoc supports in the browser. The documents never]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
