@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-14T02:31:23.042Z</updated>
+    <updated>2026-03-15T02:51:57.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Happy π day!]]></title>
+        <id>69ada8a34d5b0000010d1c8a</id>
+        <link href="https://labnotes.org/weekend-reading-happy-p-day/"/>
+        <updated>2026-03-14T18:43:19.000Z</updated>
+        <summary type="html"><![CDATA[Mina "It's PiDay!"
+Tech Stuff
+How to Do Code Reviews in the Agentic Era I've been working on open-source for over 25 years, I suspect that's why I accept The LLM as just another project contributor:
+My “unpopular” take: I]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #186 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-186/</id>
@@ -268,16 +281,6 @@ Tech Stuff
 npmx If you search for npm packages frequently, give npmx a try. It's much faster and the UI is an]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Workflow for Agentic Engineering in Crypto]]></title>
-        <id>https://mteam.space/posts/my-workflow-for-agentic-engineering-in-crypto/</id>
-        <link href="https://mteam.space/posts/my-workflow-for-agentic-engineering-in-crypto/"/>
-        <updated>2026-02-13T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A practical workflow for using coding agents effectively in crypto projects, with concrete tools, habits, and safety practices.]]></summary>
-        <author>
-            <name>mteam's Writings</name>
         </author>
     </entry>
 </feed>

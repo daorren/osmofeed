@@ -12,6 +12,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "69ada8a34d5b0000010d1c8a",
+          "author": "Assaf Arkin",
+          "description": "Mina \"It's PiDay!\"\nTech Stuff\nHow to Do Code Reviews in the Agentic Era I've been working on open-source for over 25 years, I suspect that's why I accept The LLM as just another project contributor:\nMy “unpopular” take: I",
+          "link": "https://labnotes.org/weekend-reading-happy-p-day/",
+          "publishedOn": "2026-03-14T18:43:19.000Z",
+          "wordCount": 2641,
+          "title": "Weekend Reading — Happy π day!",
+          "imageUrl": "https://labnotes.org/content/images/2026/03/image-26-1.png"
+        },
+        {
           "id": "69a3736bd265470001dab4cd",
           "author": "Assaf Arkin",
           "description": "cliff538 \"What a great artistic reuse of old license plates!\"\nTech Stuff\nShepherd \"Stay focused. Grow your sheep.\" Chrome extension that auto-categorizes thousands of sites as productive, neutral, or distracting—keep using productive sites and watch your sheep grow. If Pomodoro timer did nothing for",
@@ -144,18 +154,7 @@
       "title": "mteam's Writings",
       "feedUrl": "https://mteam88.github.io/rss.xml",
       "siteUrl": "https://mteam.space/",
-      "articles": [
-        {
-          "id": "https://mteam.space/posts/my-workflow-for-agentic-engineering-in-crypto/",
-          "author": null,
-          "description": "A practical workflow for using coding agents effectively in crypto projects, with concrete tools, habits, and safety practices.",
-          "link": "https://mteam.space/posts/my-workflow-for-agentic-engineering-in-crypto/",
-          "publishedOn": "2026-02-13T09:00:00.000Z",
-          "wordCount": 2558,
-          "title": "My Workflow for Agentic Engineering in Crypto",
-          "imageUrl": "https://mteam.space/My%20Workflow%20for%20Agentic%20Engineering%20in%20Crypto.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Libevm",
