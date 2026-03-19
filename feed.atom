@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-18T02:41:24.806Z</updated>
+    <updated>2026-03-19T02:42:48.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -281,23 +281,6 @@ Current is a new RSS reader that’s more like a river than an inbox If you want
         <summary type="html"><![CDATA[Eric wrote about how to instruct an LLM to fetch the "valuable stuff" from the ARIA Authoring Practices Guide (APG). The article includes some points about APG itself that are worth highlighting. And what's the valuable stuff?
 If you don't know the Authoring Practice Guide, here's what you'll see after finding it online looking for ARIA patterns.
 As you see above, the guide is supposed to teach how to use accessibility semantics defined by the Accessible Rich Internet Application (ARIA). And it looks very authoritative. When I first discovered it after some googling, I treated this guide as the source of truth because it lives under w3.org and looks very official. I learned early on that using ARIA correctly is hard; and thought that APG must be the place showing me how to do ARIA correctl…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #183 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-183/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-183/"/>
-        <updated>2026-02-16T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
-
-Have you checked what's included in Interop 2026? Do you know about the using declaration in JavaScript? And are you excited about the new ways to style select elements?
-Turn on the Web Weekly tune and find some answers below. Enjoy!
-Paweł listens to "Tarika Blue - Topic" and says:
-This one is another sample that I was shocked to discover. My beloved Erykah Badu used a sample of this song in her "Didn't Cha Know". I love everything by Erykah, and I love jazz music, so this song is a perfect combo for me.
-Do you want to share your favorite song with the Web Weekly community? Hit reply; there are eight more songs left in the queue.
-The biggest news this week was that the Interop 2026 initiatives were released. If you don't know, Interop is a cross-browser initiative…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>
