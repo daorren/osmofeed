@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-21T02:28:11.988Z</updated>
+    <updated>2026-03-22T02:43:57.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — First roll back, then debug]]></title>
+        <id>69b5ac58e3bf51000178ee65</id>
+        <link href="https://labnotes.org/weekend-reading-first-roll-back-then-debug/"/>
+        <updated>2026-03-21T19:19:26.000Z</updated>
+        <summary type="html"><![CDATA[Lady Laura "Pack of Dogs by John Littleboy"
+Tech Stuff
+Infisical I'm trying this service as a replacement for Doppler. Seems to have more capabilities plus it's an open-source project you can self-host (if you so care). Does feel overwhelming at first with all]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #187 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-187/</id>
