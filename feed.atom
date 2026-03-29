@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-28T02:39:23.751Z</updated>
+    <updated>2026-03-29T02:54:32.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — The paperwork flood]]></title>
+        <id>69beef720f2940000191248f</id>
+        <link href="https://labnotes.org/weekend-reading-the-paperwork-flood/"/>
+        <updated>2026-03-28T20:29:36.000Z</updated>
+        <summary type="html"><![CDATA[Holeintheheadesign
+Tech Stuff
+HopTab Open source app switcher and tiler to replace Cmd+Tab. If you Cmd+Tab a lot you may find this app quite useful.
+
+Number, currency, and unit formatting
+Did you know that the mathematical value 1234.56 looks different in Boston, Berlin, and Bangalore? Hardcoding formats]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — First roll back, then debug]]></title>
         <id>69b5ac58e3bf51000178ee65</id>
