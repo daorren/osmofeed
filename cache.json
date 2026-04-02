@@ -77,26 +77,6 @@
           "wordCount": 3706,
           "title": "Web Weekly #186 (#blogPost)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-185/",
-          "author": null,
-          "description": "Guten Tag! Guten Tag! 👋\n\nHave you heard of Chrome's soft navigations? Do you parse the sec-fetch header to prevent CSRF? Or do you know that elements with overflow: hidden are still scrollable?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nPablo listens to ROSALÍA - Berghain and says:\nRosalía's Berghain (& the LUX album) are real masterpieces. Berghain has passages in German, showing us in the key of Opera what Hildegard of Bingen was experiencing, who saw \"the reflection of the living Light\" as a vision of God. Rosalía's Berghain translates in German the religious visions as \"The flame penetrates my brain Like a lead teddy bear\". I absolutely recommend listening to this album, sung in German, French, Catalan, Italian, Ukrainian, Japanese and Spanish.\nDo you want to shar…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-185/",
-          "publishedOn": "2026-03-02T23:00:00.000Z",
-          "wordCount": 3793,
-          "title": "Web Weekly #185 (#blogPost)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/new-lines-are-removed-from-whatwg-urls/",
-          "author": null,
-          "description": "Today I learned something groundbreaking about URLs!\nYou know that when you're templating HTML and you're dealing with attribute values, it might make sense to break things into pieces. I like to have one attribute per line and sometimes even break the attribute values into multiple lines.\nLong URLs are always tricky, because you can't break these apart...\n<a class=\"something something_else \n          something_very_long something_even_longer\"\n   href=\"https://www.example-blog-about-everything-under-the-sun.com/2026/03/03/the-ultimate-comprehensive-and-absolutely-definitive-guide-to-understanding-why-your-css-layout-breaks-at-3am-when-you-least-expect-it-and-how-to-fix-it-once-and-for-all-without-losing-your-sanity-or-your-will-to-live-as-a-frontend-developer-in-the-modern-web-ecosystem-featuring-flexbox-grid-and-container-queries\">\n  Long link\n</a>\n\nOr can you?\nDaniel shared that line breaks and tabs will actually be removed from URLs. Excuse me?!\nHere's the URL parsing WHATWG spec:\nIf input contains any ASCII tab or newline, invalid-URL-unit validation error.\nRemove all ASCII tab or newline from input.\nSo, browsers discover newlines or tabs in URLs, recognize them as \"invalid-URL-unit\" errors, and then remove the invalid characters to get the job done. Nice job, browsers — I love it!\nHere's a rendred link including a URL with tabs and newlines for you to inspect.\n[Interactive component: visit the article to see it...]\nTabs and newslines are removed and things just work and because we're looking at the WHATWG spec in action here, the characters will be remove in JavaScript, too!\nconst urlWithTabsAndNewlines = `https://www.\t\nstefanjudis.\ncom`;\n\nconst normalizedUrl = new URL(urlWithTabsAndNewlines);\nconsole.log(\n  normalizedUrl.href === urlWithTabsAndNewlines\n); // false\n\nThat's pretty wild, isn't it?\nCheck Daniel's post if you want to learn more!\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/new-lines-are-removed-from-whatwg-urls/",
-          "publishedOn": "2026-03-02T23:00:00.000Z",
-          "wordCount": 1969,
-          "title": "New lines are removed from WHATWG URLs (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:New%20lines%20are%20removed%20from%20WHATWG%20URLs/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },
