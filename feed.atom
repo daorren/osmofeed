@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-04T02:38:37.235Z</updated>
+    <updated>2026-04-05T02:56:28.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — For entertainment purposes only]]></title>
+        <id>69c83a3f4f682700014fcc60</id>
+        <link href="https://labnotes.org/weekend-reading-for-entertainment-purposes-only/"/>
+        <updated>2026-04-04T21:49:10.000Z</updated>
+        <summary type="html"><![CDATA[Natasha "Perfect for Easter, EGGO is a two piece construction toy"
+Tech Stuff
+PopTask As a concept I find this super interesting — a task list that lives in the menu bar and understands human inputs like "evry tue thu 7 30 n sat mrng". Supports]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The scope of type guards and assertion functions (#tilPost)]]></title>
+        <id>https://www.stefanjudis.com/today-i-learned/the-scope-of-type-guards-and-assertion-functions/</id>
+        <link href="https://www.stefanjudis.com/today-i-learned/the-scope-of-type-guards-and-assertion-functions/"/>
+        <updated>2026-04-03T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I've just read Absorbing unknown Into the Type Realm. It's a good read, check it out.
+However I also learned an important difference between TypeScript type guards and assertion functions. And to be fair, I didn't even know assertion functions were a thing in TypeScript.
+Let's look at a standard type guard.
+ts
+
+interface User {
+  name: string;
+}
+ 
+// standard type guard
+function isUser(value: unknown): value is User {
+  return typeof value === "object" && value !== null && "name" in value;
+}
+ 
+// let's pretend JSON.parse is an unknown data source
+const data = JSON. any) | undefined): any' >parse('{"name": "Stefan"}');
+ 
+if (isUser(data)) {
+  data.name.toUpperCase(); // narrowed to User inside of condition scope
+   
+const data: User
+}
+ 
+data;
+ 
+const data: any
+
+
+If you receive data from an …]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — The paperwork flood]]></title>
         <id>69beef720f2940000191248f</id>
