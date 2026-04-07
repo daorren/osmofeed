@@ -22,6 +22,121 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-04-05 datetime="2026-04-05T22:00:00.000Z">2026-04-05</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-04-05 datetime="2026-04-05T22:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Stefan Judis Web Development</button>
+                  <a class="source-heading__link" href="https://www.stefanjudis.com/rss.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/blog/web-weekly-188/"
+                        open
+                      >
+                        <summary class="article-expander__title">Web Weekly #188 (#blogPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/blog/web-weekly-188/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Guten Tag! Guten Tag! 👋
+
+Have you heard about the CSS sticky spec change? Or have you used the position-visibility property before? And are you aware of the new JavaScript features landing in 2026?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+Mark listens to &quot;Jet Black&quot; by Fletchr Fletchr and says:
+An anthemic crashing guitar explosion, &quot;Jet Black&quot; ruined a perfectly good nap in the sun for me at Boardmasters Festival this summer by erupting on stage, and it&#x27;s gone on heavy rotation since.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.
+If you enjoy Web Weekly, share it with your friends and family.
+🦋 Bluesky
+🐘 Mastodon
+💼 Linkedin
+A quick &quot;repost&quot; really helps this indie newsletter out. T…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.stefanjudis.com/today-i-learned/intl-can-localize-units-too/"
+                        open
+                      >
+                        <summary class="article-expander__title">Intl can localize units, too! (#tilPost)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.stefanjudis.com/today-i-learned/intl-can-localize-units-too/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Intl%20can%20localize%20units%252C%20too!/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Today I learned that Intl allows you to format numbers with currencies or units!
+console.log(
+  new Intl.NumberFormat(&quot;de-DE&quot;, { 
+    style: &quot;currency&quot;, 
+    currency: &quot;EUR&quot; 
+  }).format(123456789),
+); // &quot;123.456.789,00 €&quot;
+
+console.log(
+  new Intl.NumberFormat(&quot;ja-JP&quot;, { 
+    style: &quot;currency&quot;, 
+    currency: &quot;JPY&quot; 
+  }).format(123456789),
+); // &quot;￥123,456,789&quot;
+
+console.log(
+  new Intl.NumberFormat(&quot;pt-PT&quot;, {
+    style: &quot;unit&quot;,
+    unit: &quot;kilometer-per-hour&quot;,
+  }).format(50),
+); // &quot;50 km/h&quot;
+
+console.log(
+  new Intl.NumberFormat(&#x27;fr-FR&#x27;, {
+    style: &#x27;unit&#x27;,
+    unit: &#x27;kilobyte&#x27;,
+    unitDisplay: &#x27;long&#x27;,
+  }).format(123456)
+); // &quot;123 456 kilooctets&quot;
+
+Did you notice how the Japanese Yen symbol (￥) moved in front of the numbers? Or that, apparently, French folks translate the unit kilobyte? Fun!
+Whenever you put currency/unit logic into userland JavaScript, don&#x27;t. It&#x27;s all baked into the language these days.
+Tip: here&#x27;s the list of supported units.
+
+
+          
+          
+            Reply to Stefan</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-04-04 datetime="2026-04-04T21:49:10.000Z">2026-04-04</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-04-04 datetime="2026-04-04T21:49:10.000Z"></time>
           </button>
@@ -469,8 +584,8 @@ Shepherd &quot;Stay focused. Grow your sheep.&quot; Chrome extension that auto-c
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/24017251856">
-        <time id="build-timestamp" datetime="2026-04-06T03:17:36.423Z">2026-04-06T03:17:36.423Z</time>
+      <a class="footer-link" href="https://github.com/daorren/osmofeed/actions/runs/24061853009">
+        <time id="build-timestamp" datetime="2026-04-07T02:50:46.096Z">2026-04-07T02:50:46.096Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
