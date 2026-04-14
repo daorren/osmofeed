@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-13T03:28:34.606Z</updated>
+    <updated>2026-04-14T03:18:05.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #189 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-189/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-189/"/>
+        <updated>2026-04-12T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Are you excited about sizes="auto" landing in browsers? Did you ever run into issues with the bfcache and didn't know what to do? Or are you looking for a native way to lazy load videos?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+Boris listens to Wheatus - Teenage Dirtbag and says:
+I'm currently rediscovering Teenage Dirtbag and the story behind the song. Maybe you'll find it interesting too!
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are four more songs left in the queue.
+A big thank you and a huge bag of karma points go to Mathias this week. Thank you for supporting indie publishing in the times of AI slop by covering a small fraction of the cost it takes to send Web Weekly every week! ❤️
+You can …]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Look Away]]></title>
         <id>69d1876d265d4c0001fd06a5</id>
@@ -192,19 +210,6 @@ Web Weekly housekeeping
 A big thank you and a huge bag of karma points go to Jonathan this week. Thank you for supporting indie publishing in the times…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Happy π day!]]></title>
-        <id>69ada8a34d5b0000010d1c8a</id>
-        <link href="https://labnotes.org/weekend-reading-happy-p-day/"/>
-        <updated>2026-03-14T18:43:19.000Z</updated>
-        <summary type="html"><![CDATA[Mina "It's PiDay!"
-Tech Stuff
-How to Do Code Reviews in the Agentic Era I've been working on open-source for over 25 years, I suspect that's why I accept The LLM as just another project contributor:
-My “unpopular” take: I]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
