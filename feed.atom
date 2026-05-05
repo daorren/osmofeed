@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-04T03:41:20.095Z</updated>
+    <updated>2026-05-05T03:27:30.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -159,18 +159,6 @@ Tip: here's the list of supported units.
             Reply to Stefan]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — For entertainment purposes only]]></title>
-        <id>69c83a3f4f682700014fcc60</id>
-        <link href="https://labnotes.org/weekend-reading-for-entertainment-purposes-only/"/>
-        <updated>2026-04-04T21:49:10.000Z</updated>
-        <summary type="html"><![CDATA[Natasha "Perfect for Easter, EGGO is a two piece construction toy"
-Tech Stuff
-PopTask As a concept I find this super interesting — a task list that lives in the menu bar and understands human inputs like "evry tue thu 7 30 n sat mrng". Supports]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
