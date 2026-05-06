@@ -77,26 +77,6 @@
           "wordCount": 4435,
           "title": "Web Weekly #189 (#blogPost)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.stefanjudis.com/blog/web-weekly-188/",
-          "author": null,
-          "description": "Guten Tag! Guten Tag! 👋\n\nHave you heard about the CSS sticky spec change? Or have you used the position-visibility property before? And are you aware of the new JavaScript features landing in 2026?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nMark listens to \"Jet Black\" by Fletchr Fletchr and says:\nAn anthemic crashing guitar explosion, \"Jet Black\" ruined a perfectly good nap in the sun for me at Boardmasters Festival this summer by erupting on stage, and it's gone on heavy rotation since.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.\nIf you enjoy Web Weekly, share it with your friends and family.\n🦋 Bluesky\n🐘 Mastodon\n💼 Linkedin\nA quick \"repost\" really helps this indie newsletter out. T…",
-          "link": "https://www.stefanjudis.com/blog/web-weekly-188/",
-          "publishedOn": "2026-04-05T22:00:00.000Z",
-          "wordCount": 3990,
-          "title": "Web Weekly #188 (#blogPost)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.stefanjudis.com/today-i-learned/intl-can-localize-units-too/",
-          "author": null,
-          "description": "Today I learned that Intl allows you to format numbers with currencies or units!\nconsole.log(\n  new Intl.NumberFormat(\"de-DE\", { \n    style: \"currency\", \n    currency: \"EUR\" \n  }).format(123456789),\n); // \"123.456.789,00 €\"\n\nconsole.log(\n  new Intl.NumberFormat(\"ja-JP\", { \n    style: \"currency\", \n    currency: \"JPY\" \n  }).format(123456789),\n); // \"￥123,456,789\"\n\nconsole.log(\n  new Intl.NumberFormat(\"pt-PT\", {\n    style: \"unit\",\n    unit: \"kilometer-per-hour\",\n  }).format(50),\n); // \"50 km/h\"\n\nconsole.log(\n  new Intl.NumberFormat('fr-FR', {\n    style: 'unit',\n    unit: 'kilobyte',\n    unitDisplay: 'long',\n  }).format(123456)\n); // \"123 456 kilooctets\"\n\nDid you notice how the Japanese Yen symbol (￥) moved in front of the numbers? Or that, apparently, French folks translate the unit kilobyte? Fun!\nWhenever you put currency/unit logic into userland JavaScript, don't. It's all baked into the language these days.\nTip: here's the list of supported units.\n\n\n          \n          \n            Reply to Stefan",
-          "link": "https://www.stefanjudis.com/today-i-learned/intl-can-localize-units-too/",
-          "publishedOn": "2026-04-05T22:00:00.000Z",
-          "wordCount": 1714,
-          "title": "Intl can localize units, too! (#tilPost)",
-          "imageUrl": "https://res.cloudinary.com/dfcwuxv3l/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_900,c_fit,co_rgb:232129,g_south_west,x_70,y_160,l_text:oswald_84_bold_line_spacing_-34:Intl%20can%20localize%20units%252C%20too!/w_900,c_fit,co_rgb:232129,g_north_west,x_70,y_540,l_text:ubuntu_38:%40stefanjudis/stefan-judis-website/social-image-with-new-dude"
         }
       ]
     },

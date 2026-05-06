@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-05T03:27:30.018Z</updated>
+    <updated>2026-05-06T03:39:03.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -91,74 +91,6 @@ Tech Stuff
 LookAway This is one app I have to run on my Mac. It forces me to take a break every 45 minutes — not a Pomodoro break (which I never got the hang]]></summary>
         <author>
             <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #188 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-188/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-188/"/>
-        <updated>2026-04-05T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
-
-Have you heard about the CSS sticky spec change? Or have you used the position-visibility property before? And are you aware of the new JavaScript features landing in 2026?
-Turn on the Web Weekly tune and find some answers below. Enjoy!
-Mark listens to "Jet Black" by Fletchr Fletchr and says:
-An anthemic crashing guitar explosion, "Jet Black" ruined a perfectly good nap in the sun for me at Boardmasters Festival this summer by erupting on stage, and it's gone on heavy rotation since.
-Do you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.
-If you enjoy Web Weekly, share it with your friends and family.
-🦋 Bluesky
-🐘 Mastodon
-💼 Linkedin
-A quick "repost" really helps this indie newsletter out. T…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intl can localize units, too! (#tilPost)]]></title>
-        <id>https://www.stefanjudis.com/today-i-learned/intl-can-localize-units-too/</id>
-        <link href="https://www.stefanjudis.com/today-i-learned/intl-can-localize-units-too/"/>
-        <updated>2026-04-05T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today I learned that Intl allows you to format numbers with currencies or units!
-console.log(
-  new Intl.NumberFormat("de-DE", { 
-    style: "currency", 
-    currency: "EUR" 
-  }).format(123456789),
-); // "123.456.789,00 €"
-
-console.log(
-  new Intl.NumberFormat("ja-JP", { 
-    style: "currency", 
-    currency: "JPY" 
-  }).format(123456789),
-); // "￥123,456,789"
-
-console.log(
-  new Intl.NumberFormat("pt-PT", {
-    style: "unit",
-    unit: "kilometer-per-hour",
-  }).format(50),
-); // "50 km/h"
-
-console.log(
-  new Intl.NumberFormat('fr-FR', {
-    style: 'unit',
-    unit: 'kilobyte',
-    unitDisplay: 'long',
-  }).format(123456)
-); // "123 456 kilooctets"
-
-Did you notice how the Japanese Yen symbol (￥) moved in front of the numbers? Or that, apparently, French folks translate the unit kilobyte? Fun!
-Whenever you put currency/unit logic into userland JavaScript, don't. It's all baked into the language these days.
-Tip: here's the list of supported units.
-
-
-          
-          
-            Reply to Stefan]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
         </author>
     </entry>
 </feed>
