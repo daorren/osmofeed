@@ -12,6 +12,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "69f6a43865d7710001ac356d",
+          "author": "Assaf Arkin",
+          "description": "John \"Posted today by Lego on their official Instagram account. Well done, Lego, well done. 😁\"\nTech Stuff\nportless HTTPS for npm dev using .localhost URLs instead of port numbers:\nPortless runs an HTTPS reverse proxy on port 443 by default. Each app registers a route mapping its",
+          "link": "https://labnotes.org/weekend-reading-locally-hosted-torment-nexus/",
+          "publishedOn": "2026-05-10T00:21:07.000Z",
+          "wordCount": 2035,
+          "title": "Weekend Reading — Locally hosted torment nexus",
+          "imageUrl": "https://labnotes.org/content/images/size/w1200/2026/05/image-30-1.png"
+        },
+        {
           "id": "69ed4e9a9c9d4200017e61d8",
           "author": "Assaf Arkin",
           "description": "Fake Metro Trains \"Due to ongoing delays with the delivery of our new Xtrapolis 2.0 trains, we've implemented some temporary measures to keep our network running.\"\nTech Stuff\nWhat's actually new in JavaScript (and what's coming next) This is a helpful",

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-09T03:32:35.877Z</updated>
+    <updated>2026-05-10T03:48:20.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Locally hosted torment nexus]]></title>
+        <id>69f6a43865d7710001ac356d</id>
+        <link href="https://labnotes.org/weekend-reading-locally-hosted-torment-nexus/"/>
+        <updated>2026-05-10T00:21:07.000Z</updated>
+        <summary type="html"><![CDATA[John "Posted today by Lego on their official Instagram account. Well done, Lego, well done. 😁"
+Tech Stuff
+portless HTTPS for npm dev using .localhost URLs instead of port numbers:
+Portless runs an HTTPS reverse proxy on port 443 by default. Each app registers a route mapping its]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — The background noise of the AI bubble]]></title>
         <id>69ed4e9a9c9d4200017e61d8</id>
