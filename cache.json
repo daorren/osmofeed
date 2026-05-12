@@ -50,16 +50,6 @@
           "wordCount": 2616,
           "title": "Weekend Reading — Penguin drama",
           "imageUrl": "https://labnotes.org/content/images/2026/04/image-52-1.png"
-        },
-        {
-          "id": "69d1876d265d4c0001fd06a5",
-          "author": "Assaf Arkin",
-          "description": "Someone Turned an Old Ford Van Into a Mini Semi and It’s Fantastic\nTech Stuff\nLookAway This is one app I have to run on my Mac. It forces me to take a break every 45 minutes — not a Pomodoro break (which I never got the hang",
-          "link": "https://labnotes.org/weekend-reading-look-away/",
-          "publishedOn": "2026-04-11T23:09:17.000Z",
-          "wordCount": 1827,
-          "title": "Weekend Reading — Look Away",
-          "imageUrl": "https://labnotes.org/content/images/2026/04/image-31-1.png"
         }
       ]
     },
@@ -68,6 +58,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-191/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nHave you heard that the new Git version makes rewriting history easier? Did you ever combine multiple CSS keyframe animations? And have you played with the new HTML in canvas API yet?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nPaweł listens to Hird - Keep You Kimi and says:\nNo chance I remember how this one landed on my playlist, but this is a solid, mesmerising tune. This baseline halfway through the song gives me goosebumps.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there are two more songs left in the queue.\nThe biggest news this week was that Chrome 148 shipped a new Prompt API. Which means that Chrome now includes Gemini Nano. And that's right; this model probably already sits on your computer right…",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-191/",
+          "publishedOn": "2026-05-10T22:00:00.000Z",
+          "wordCount": 4060,
+          "title": "Web Weekly #191 (#blogPost)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-190/",
           "author": null,
