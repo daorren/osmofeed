@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-14T03:51:18.166Z</updated>
+    <updated>2026-05-15T03:55:01.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[coolify-deploy — Vercel-style deploys on your own hardware]]></title>
+        <id>6a05523a5f32020001f16703</id>
+        <link href="https://labnotes.org/coolify-deploy-vercel-style-deploys-on-your-own-hardware/"/>
+        <updated>2026-05-14T17:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Introducing coolify-deploy — git push to your own server with the simplicity of a platform.
+I used to host everything on Vercel and honestly it was great. Connect a repo, push, your app is live — simple enough that it spoils you fast.
+When I outgrew the free tier I]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #191 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-191/</id>

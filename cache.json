@@ -12,6 +12,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "6a05523a5f32020001f16703",
+          "author": "Assaf Arkin",
+          "description": "Introducing coolify-deploy — git push to your own server with the simplicity of a platform.\nI used to host everything on Vercel and honestly it was great. Connect a repo, push, your app is live — simple enough that it spoils you fast.\nWhen I outgrew the free tier I",
+          "link": "https://labnotes.org/coolify-deploy-vercel-style-deploys-on-your-own-hardware/",
+          "publishedOn": "2026-05-14T17:00:20.000Z",
+          "wordCount": 888,
+          "title": "coolify-deploy — Vercel-style deploys on your own hardware",
+          "imageUrl": "https://labnotes.org/content/images/2026/05/pipeline.png"
+        },
+        {
           "id": "69f6a43865d7710001ac356d",
           "author": "Assaf Arkin",
           "description": "John \"Posted today by Lego on their official Instagram account. Well done, Lego, well done. 😁\"\nTech Stuff\nportless HTTPS for npm dev using .localhost URLs instead of port numbers:\nPortless runs an HTTPS reverse proxy on port 443 by default. Each app registers a route mapping its",
