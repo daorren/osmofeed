@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-16T03:36:38.659Z</updated>
+    <updated>2026-05-17T03:55:42.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Low-maintenance passive traffic calming]]></title>
+        <id>69ffcfbf8d265a0001a88fea</id>
+        <link href="https://labnotes.org/weekend-reading-low-maintenance-passive-traffic-calming/"/>
+        <updated>2026-05-16T23:44:09.000Z</updated>
+        <summary type="html"><![CDATA[Sophie Schmieg "Work moved to a new building. I didn't expect to take SAN damage from facilities."
+Tech Stuff
+Magic Notebook A free app, simple and elegant UI, no cloud sync, just open a folder and get working. Can handle DOCX, Markdown and text files. I]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[coolify-deploy — Vercel-style deploys on your own hardware]]></title>
         <id>6a05523a5f32020001f16703</id>
