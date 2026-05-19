@@ -60,16 +60,6 @@
           "wordCount": 2466,
           "title": "Weekend Reading — Dream of bigger things",
           "imageUrl": "https://labnotes.org/content/images/size/w1200/2026/04/image-76-1.png"
-        },
-        {
-          "id": "69dad4bf19b0b500010879eb",
-          "author": "Assaf Arkin",
-          "description": "Niki \"Most useless sign in the universe\"\nTech Stuff\nShowMD The Markdown space is heating up 🔥 Today I installed a Markdown editor (Scratch), upgraded my Markdown viewer (mud), and setup this Markdown QuickLook previewer (ShowMD).\n\nerictli/scratch Minimalist, offline-first markdown note-taking app for macOS, Windows, and Linux.",
-          "link": "https://labnotes.org/weekend-reading-penguin-drama/",
-          "publishedOn": "2026-04-18T17:13:28.000Z",
-          "wordCount": 2616,
-          "title": "Weekend Reading — Penguin drama",
-          "imageUrl": "https://labnotes.org/content/images/2026/04/image-52-1.png"
         }
       ]
     },
@@ -78,6 +68,16 @@
       "feedUrl": "https://www.stefanjudis.com/rss.xml",
       "siteUrl": "https://www.stefanjudis.com/rss.xml",
       "articles": [
+        {
+          "id": "https://www.stefanjudis.com/blog/web-weekly-192/",
+          "author": null,
+          "description": "Guten Tag! Guten Tag! 👋\n\nHave you heard of the new <install> HTML element? Do you use round() in your CSS? And do you cancel requests with AbortSignal.timeout?\nTurn on the Web Weekly tune and find some answers below. Enjoy!\nSteven listens to Humanity's Last Breath - Godhood and says:\nTruly heavy music doesn’t need high BPM, blast beats and millions of notes. Sometimes all it takes is one heavy AF riff and a perfectly fitting music video.\nDo you want to share your favorite song with the Web Weekly community? Hit reply; there is only one more song left in the queue. 😱\nThis week I learned that Firefox and Safari sometimes behave differently depending on the site you're on. I honestly had no idea. How can this be possible?\nIt's because of Chromium's dominant market share. Developers test in …",
+          "link": "https://www.stefanjudis.com/blog/web-weekly-192/",
+          "publishedOn": "2026-05-17T22:00:00.000Z",
+          "wordCount": 3977,
+          "title": "Web Weekly #192 (#blogPost)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.stefanjudis.com/blog/web-weekly-191/",
           "author": null,

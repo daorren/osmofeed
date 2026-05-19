@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-18T04:08:01.261Z</updated>
+    <updated>2026-05-19T04:01:13.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #192 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-192/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-192/"/>
+        <updated>2026-05-17T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Have you heard of the new <install> HTML element? Do you use round() in your CSS? And do you cancel requests with AbortSignal.timeout?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+Steven listens to Humanity's Last Breath - Godhood and says:
+Truly heavy music doesn’t need high BPM, blast beats and millions of notes. Sometimes all it takes is one heavy AF riff and a perfectly fitting music video.
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there is only one more song left in the queue. 😱
+This week I learned that Firefox and Safari sometimes behave differently depending on the site you're on. I honestly had no idea. How can this be possible?
+It's because of Chromium's dominant market share. Developers test in …]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Low-maintenance passive traffic calming]]></title>
         <id>69ffcfbf8d265a0001a88fea</id>
@@ -101,20 +119,6 @@ Not new, but still relevant: Adrian shared Where to Put Focus When Opening a Mod
 Blanket statements about where to put focus…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Penguin drama]]></title>
-        <id>69dad4bf19b0b500010879eb</id>
-        <link href="https://labnotes.org/weekend-reading-penguin-drama/"/>
-        <updated>2026-04-18T17:13:28.000Z</updated>
-        <summary type="html"><![CDATA[Niki "Most useless sign in the universe"
-Tech Stuff
-ShowMD The Markdown space is heating up 🔥 Today I installed a Markdown editor (Scratch), upgraded my Markdown viewer (mud), and setup this Markdown QuickLook previewer (ShowMD).
-
-erictli/scratch Minimalist, offline-first markdown note-taking app for macOS, Windows, and Linux.]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
