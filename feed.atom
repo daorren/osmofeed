@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-01T04:46:48.708Z</updated>
+    <updated>2026-06-02T04:26:20.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I Got $4.84 From a Class Action Settlement and They Really, Really Didn't Want Me to Have It]]></title>
+        <id>6a1e33b6bf19840001985b48</id>
+        <link href="https://labnotes.org/i-got-4-84-from-a-class-action-settlement-and-they-really-really-didnt-want-me-to-have-it/"/>
+        <updated>2026-06-02T01:42:32.000Z</updated>
+        <summary type="html"><![CDATA[So here's the thing. When a company loses a class action lawsuit and has to pay millions to regular people, they don't just write you a check. They go out of their way to make sure you never actually get to spend your cut. I']]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — How to lose 2 hours]]></title>
         <id>6a1226353760fb0001be0d9e</id>
@@ -117,18 +127,6 @@ The biggest news this week was that Chrome 148 shipped a new Prompt API. Which m
 Tech Stuff
 portless HTTPS for npm dev using .localhost URLs instead of port numbers:
 Portless runs an HTTPS reverse proxy on port 443 by default. Each app registers a route mapping its]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — The background noise of the AI bubble]]></title>
-        <id>69ed4e9a9c9d4200017e61d8</id>
-        <link href="https://labnotes.org/weekend-reading-the-background-noise-of-the-ai-bubble/"/>
-        <updated>2026-05-03T01:25:35.000Z</updated>
-        <summary type="html"><![CDATA[Fake Metro Trains "Due to ongoing delays with the delivery of our new Xtrapolis 2.0 trains, we've implemented some temporary measures to keep our network running."
-Tech Stuff
-What's actually new in JavaScript (and what's coming next) This is a helpful]]></summary>
         <author>
             <name>Assaf Arkin</name>
         </author>
