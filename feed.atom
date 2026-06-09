@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-08T04:27:06.320Z</updated>
+    <updated>2026-06-09T03:59:26.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
@@ -131,19 +131,6 @@ Do you want to share your favorite song with the Web Weekly community? Hit reply
 The biggest news this week was that Chrome 148 shipped a new Prompt API. Which means that Chrome now includes Gemini Nano. And that's right; this model probably already sits on your computer right…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Locally hosted torment nexus]]></title>
-        <id>69f6a43865d7710001ac356d</id>
-        <link href="https://labnotes.org/weekend-reading-locally-hosted-torment-nexus/"/>
-        <updated>2026-05-10T00:21:07.000Z</updated>
-        <summary type="html"><![CDATA[John "Posted today by Lego on their official Instagram account. Well done, Lego, well done. 😁"
-Tech Stuff
-portless HTTPS for npm dev using .localhost URLs instead of port numbers:
-Portless runs an HTTPS reverse proxy on port 443 by default. Each app registers a route mapping its]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
