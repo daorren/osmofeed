@@ -12,6 +12,16 @@
       "siteUrl": "https://labnotes.org/",
       "articles": [
         {
+          "id": "6a24e7763d790b000166fcd2",
+          "author": "Assaf Arkin",
+          "description": "Neil \"Just because you can....\"\nTech Stuff\nOfficeCLI A CLI to help AI create/read/edit Word, Excel, and PowerPoint documents. Open source and doesn't require a Microsoft Office license. I just installed this for the benefit of my 3 AI agents that have to deal",
+          "link": "https://labnotes.org/weekend-reading-future-proofed-like-theres-no-tomorrow/",
+          "publishedOn": "2026-06-13T21:28:52.000Z",
+          "wordCount": 2806,
+          "title": "Weekend Reading — Future-proofed like there’s no tomorrow!",
+          "imageUrl": "https://labnotes.org/content/images/size/w1200/2026/06/image-32-1.png"
+        },
+        {
           "id": "6a1b5ba6bf1984000198564e",
           "author": "Assaf Arkin",
           "description": "Frechrotz_Pix 'Lego- bzw. Klemmbausteine'\nTech Stuff\npitchfork A devilishly good daemons manager: start/stop daemon, automatic restarts, health checks, file watching, cron scheduling, and many more useful features.\n\nGreg Wilson\nOH: \"Their version of agile is, we can keep changing our mind until it's",
@@ -60,16 +70,6 @@
           "wordCount": 2116,
           "title": "Weekend Reading — Low-maintenance passive traffic calming",
           "imageUrl": "https://labnotes.org/content/images/size/w1200/2026/05/image-75-1.png"
-        },
-        {
-          "id": "6a05523a5f32020001f16703",
-          "author": "Assaf Arkin",
-          "description": "Introducing coolify-deploy — git push to your own server with the simplicity of a platform.\nI used to host everything on Vercel and honestly it was great. Connect a repo, push, your app is live — simple enough that it spoils you fast.\nWhen I outgrew the free tier I",
-          "link": "https://labnotes.org/coolify-deploy-vercel-style-deploys-on-your-own-hardware/",
-          "publishedOn": "2026-05-14T17:00:20.000Z",
-          "wordCount": 888,
-          "title": "coolify-deploy — Vercel-style deploys on your own hardware",
-          "imageUrl": "https://labnotes.org/content/images/2026/05/pipeline.png"
         }
       ]
     },

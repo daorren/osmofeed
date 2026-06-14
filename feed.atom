@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-13T04:15:03.338Z</updated>
+    <updated>2026-06-14T04:42:36.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Future-proofed like there’s no tomorrow!]]></title>
+        <id>6a24e7763d790b000166fcd2</id>
+        <link href="https://labnotes.org/weekend-reading-future-proofed-like-theres-no-tomorrow/"/>
+        <updated>2026-06-13T21:28:52.000Z</updated>
+        <summary type="html"><![CDATA[Neil "Just because you can...."
+Tech Stuff
+OfficeCLI A CLI to help AI create/read/edit Word, Excel, and PowerPoint documents. Open source and doesn't require a Microsoft Office license. I just installed this for the benefit of my 3 AI agents that have to deal]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Little Bobby ignore all previous instructions]]></title>
         <id>6a1b5ba6bf1984000198564e</id>
@@ -100,18 +112,6 @@ It's because of Chromium's dominant market share. Developers test in …]]></sum
         <summary type="html"><![CDATA[Sophie Schmieg "Work moved to a new building. I didn't expect to take SAN damage from facilities."
 Tech Stuff
 Magic Notebook A free app, simple and elegant UI, no cloud sync, just open a folder and get working. Can handle DOCX, Markdown and text files. I]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[coolify-deploy — Vercel-style deploys on your own hardware]]></title>
-        <id>6a05523a5f32020001f16703</id>
-        <link href="https://labnotes.org/coolify-deploy-vercel-style-deploys-on-your-own-hardware/"/>
-        <updated>2026-05-14T17:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Introducing coolify-deploy — git push to your own server with the simplicity of a platform.
-I used to host everything on Vercel and honestly it was great. Connect a repo, push, your app is live — simple enough that it spoils you fast.
-When I outgrew the free tier I]]></summary>
         <author>
             <name>Assaf Arkin</name>
         </author>
