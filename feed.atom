@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-16T04:55:55.669Z</updated>
+    <updated>2026-06-17T04:42:48.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #194 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-194/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-194/"/>
+        <updated>2026-06-15T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Did you keep track of the new Safari features? Do you know how to style CSS gaps? And do you worry about the future of the web?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+::: song by="Paweł" title="Djrum - Waxcap" youtube="jQtvKD-h7bs"
+Wifey doesn’t like when this one is playing loud, but this one meant to be listened loud. Djrum is not for everyone, but you may like it if you’re into experimental garage and dnb.
+:::
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are six more songs left in the queue.
+You might have noticed that I took a two week newsletter break after sharing my concerns about the state of content publishing in the last edition. Many people reached out and a good bunch started to suppor…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — Future-proofed like there’s no tomorrow!]]></title>
         <id>6a24e7763d790b000166fcd2</id>
@@ -82,24 +100,6 @@ I've been on a big Jamaican ska kick lately and I can't get enough of this song.
 Do you want to share your favorite song with the Web Weekly community? Hit reply; there is only one more song left in the queue.
 I must say that last week hit me. And not in a good way.
 If you've been in the game long enough, you probably know Dr. Axel's blog 2ality. It went offline because of shrinking income and increasing hosting cost…]]></summary>
-        <author>
-            <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Weekly #192 (#blogPost)]]></title>
-        <id>https://www.stefanjudis.com/blog/web-weekly-192/</id>
-        <link href="https://www.stefanjudis.com/blog/web-weekly-192/"/>
-        <updated>2026-05-17T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
-
-Have you heard of the new <install> HTML element? Do you use round() in your CSS? And do you cancel requests with AbortSignal.timeout?
-Turn on the Web Weekly tune and find some answers below. Enjoy!
-Steven listens to Humanity's Last Breath - Godhood and says:
-Truly heavy music doesn’t need high BPM, blast beats and millions of notes. Sometimes all it takes is one heavy AF riff and a perfectly fitting music video.
-Do you want to share your favorite song with the Web Weekly community? Hit reply; there is only one more song left in the queue. 😱
-This week I learned that Firefox and Safari sometimes behave differently depending on the site you're on. I honestly had no idea. How can this be possible?
-It's because of Chromium's dominant market share. Developers test in …]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
         </author>
