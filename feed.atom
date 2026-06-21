@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-20T04:08:43.548Z</updated>
+    <updated>2026-06-21T04:50:11.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — A sourdough finisher]]></title>
+        <id>6a2dcc6e8d68a900016b9fee</id>
+        <link href="https://labnotes.org/weekend-reading-a-sourdough-finisher/"/>
+        <updated>2026-06-21T00:25:13.000Z</updated>
+        <summary type="html"><![CDATA[CrankGPT The human-powered, local-first, private AI.
+Tech Stuff
+Lettera Based on Bear's remarkable Markdown editor, a standalone app for editing Markdown files from your file system. I like Bear's Markdown editing, so I think Lettera is an interesting idea. Currently beta release, so no]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #194 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-194/</id>
