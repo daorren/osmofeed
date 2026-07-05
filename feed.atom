@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-04T03:36:04.748Z</updated>
+    <updated>2026-07-05T03:55:16.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekend Reading — Hydrate like a data center]]></title>
+        <id>6a403d6299356f000177b6d5</id>
+        <link href="https://labnotes.org/weekend-reading-hydrate-like-a-data-center/"/>
+        <updated>2026-07-04T19:59:33.000Z</updated>
+        <summary type="html"><![CDATA[Shawn "Fruan" Poulsen "Thirst trap"
+Tech Stuff
+SmoothCSV CSV editor without the Excel overhead. Features include smooth cell editing, SQL queries, cell and row swapping, command palette, and more. Since it's a Tauri app, minimal memory usage and super smooth UI.
+
+Wordgard Open-source]]></summary>
+        <author>
+            <name>Assaf Arkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — It's gettin' hot in here …]]></title>
         <id>6a372f92507caf000160695a</id>
