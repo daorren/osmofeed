@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-13T03:28:17.667Z</updated>
+    <updated>2026-07-14T02:50:27.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #196 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-196/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-196/"/>
+        <updated>2026-07-12T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Do you know what shipped in the new JavaScript version? Do you know about all the fancy anchor positioning features yet? And do you use CSS zoom?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+::: song by="Olivier" title="Connor Price & Nic D - Too Easy" youtube="zOVkU-P3SyA"
+It's been on repeat in my playlist for the past two weeks since I watched an Android Gemini Intelligence ad... :D
+:::
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are five more songs left in the queue.
+If you enjoy Web Weekly, share it with your friends and family.
+🦋 Bluesky
+🐘 Mastodon
+💼 LinkedIn
+A quick "repost" really helps this indie newsletter out. Thank you! ❤️
+
+      
+          
+Sponsored
+Full-Featured React Event Calendar
+
+…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekend Reading — I’m bringing .exe back]]></title>
         <id>6a496635f09d5800011e002f</id>
@@ -111,18 +140,6 @@ Do you want to share your favorite song with the Web Weekly community? Hit reply
 You might have noticed that I took a two week newsletter break after sharing my concerns about the state of content publishing in the last edition. Many people reached out and a good bunch started to suppor…]]></summary>
         <author>
             <name>Stefan Judis Web Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Reading — Future-proofed like there’s no tomorrow!]]></title>
-        <id>6a24e7763d790b000166fcd2</id>
-        <link href="https://labnotes.org/weekend-reading-future-proofed-like-theres-no-tomorrow/"/>
-        <updated>2026-06-13T21:28:52.000Z</updated>
-        <summary type="html"><![CDATA[Neil "Just because you can...."
-Tech Stuff
-OfficeCLI A CLI to help AI create/read/edit Word, Excel, and PowerPoint documents. Open source and doesn't require a Microsoft Office license. I just installed this for the benefit of my 3 AI agents that have to deal]]></summary>
-        <author>
-            <name>Assaf Arkin</name>
         </author>
     </entry>
 </feed>
