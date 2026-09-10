@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T04:00:16.764Z</updated>
+    <updated>2026-09-10T03:59:25.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #199 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-199/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-199/"/>
+        <updated>2026-09-08T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Do you know how Interop 2026 is doing right now? Will you use the new CSS progress() function? And do you know how ESM module resolution really works?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+::: song by="Pawel" title="Kalabrese - Fresh And Foolish" youtube="tvoGb76yUEk"
+Is it only me, but this one reminds me the vibes of early Roisin Murphy? Love the vocal and jazzy parts on this one.
+:::
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are two more songs left in the queue.
+How much controversy can there be around dark/light mode toggles? Turns out, a lot. Lea Verou kicked off a whole thing. People have opinions on these little two- or three-state toggles.
+So, Lea started the discussion by arguing that…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #198 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-198/</id>
