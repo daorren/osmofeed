@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-13T06:15:34.049Z</updated>
+    <updated>2026-10-14T04:17:22.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #201 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-201/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-201/"/>
+        <updated>2026-10-12T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Do you know what happens when you import the same module multiple times? Do you think we need a new poster element? And have you ever used the vary header to improve caching?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+::: song by="Dom" title="Twenty One Pilots - Center Mass" youtube="PAbv0MXFYgE"
+I really like the shift from a hip-hop style to a full rock ending, and the lyrics are well written around the topic of vulnerability and loss.
+:::
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there are three more songs left in the queue.
+I try to avoid bringing up my mood about "all the vibes" too much in this newsletter, but the change in the industry is the stickiest topic ever. And regardless of whether the ind…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #200 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-200/</id>
