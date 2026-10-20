@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-19T04:01:52.441Z</updated>
+    <updated>2026-10-20T04:14:59.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blake Watson on the state of the industry (#note)]]></title>
+        <id>https://www.stefanjudis.com/notes/blake-watson-on-the-state-of-the-industry/</id>
+        <link href="https://www.stefanjudis.com/notes/blake-watson-on-the-state-of-the-industry/"/>
+        <updated>2026-10-18T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here's Blake sharing his feelings about AI, software development and where we're all heading. He wrote the article that's been on my TODO list for a while. Let me comment on some highlights.
+I feel like I will be able to build things I never have been able to before, but at the same time, I have heightened fears about being replaceable or less valuable in my job. If all I’m doing is prompting an AI bot, why am I being paid so much?
+100% this. I'm scared and worried that the skills I put so much time into building are worth nothing. I used to be proud of my deep platform knowledge. Turns out Claude knows more.
+And on a bigger scale, "personal software" is really happening. My friends are building browser extensions and websites for their fantasy football leagues. They don't care about quali…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #201 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-201/</id>
