@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daorren.github.io/osmofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-23T06:47:13.513Z</updated>
+    <updated>2026-11-24T09:14:08.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://daorren.github.io/osmofeed/index.html"/>
     <link rel="self" href="https://daorren.github.io/osmofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Weekly #203 (#blogPost)]]></title>
+        <id>https://www.stefanjudis.com/blog/web-weekly-203/</id>
+        <link href="https://www.stefanjudis.com/blog/web-weekly-203/"/>
+        <updated>2026-11-22T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag! Guten Tag! 👋
+
+Are you ready to use scroll-driven animations now that they work in every browser? Do you know what scroll-target-group does? And do you know of good places to discover fancy fonts?
+Turn on the Web Weekly tune and find some answers below. Enjoy!
+::: song by="Gab" title="Katy Hurt - Unfinished Business" youtube="3simw2b2ctM"
+It’s one of my favorite songs and I think it’ll be a nice vibe for a coffee and css catchup. :)
+:::
+Do you want to share your favorite song with the Web Weekly community? Hit reply; there's only one more song left in the queue. 😱
+You might know that I'm no font person, but here are some fancy fonts I came across recently.
+Allo is a new open-source font and I really like the look of it. It's a variable font coming with controllable weight, roun…]]></summary>
+        <author>
+            <name>Stefan Judis Web Development</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Weekly #202 (#blogPost)]]></title>
         <id>https://www.stefanjudis.com/blog/web-weekly-202/</id>
